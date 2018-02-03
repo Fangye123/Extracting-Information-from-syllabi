@@ -1,0 +1,4 @@
+ip: 35.188.182.22 
+port: 3306 or maybe other
+username: aven:nlp fangye:nlp jingya:nlp toby:nlp
+databaseName: syllabus

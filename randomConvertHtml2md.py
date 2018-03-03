@@ -16,16 +16,19 @@ print(cur.description)
 print("-----------------------------------------------")
 # row[0] is title, row[1] is html content
 for row in cur:
-    print(str(row[2]) + ":" + str(row[0]))
+    try:
+      print(str(row[2]) + ":" + str(row[0]))
     # new a file
 
-    f = open(str(row[2]) + "_" + row[0].replace(" ", "_").replace("/", "-") + ".md", "w+")
+      f = open(str(row[2]) + "_" + row[0].replace(" ", "_").replace("/", "-") + ".md", "w+")
 
     # convert html to text
-    content = html2text.html2text(row[1])
+      content = html2text.html2text(row[1])
 
-    f.write(content)
-    f.close()
+      f.write(content)
+      f.close()
+    except AttributeError:
+        print("error in row:", row[1])
 
 
 

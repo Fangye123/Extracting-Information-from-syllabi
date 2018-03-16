@@ -1,0 +1,249 @@
+# CE 451 - Urban Transportation Planning and Management
+
+## Iowa State University
+
+* * *
+
+**
+
+* [Syllabus, including lectures, labs and exam dates](syllabus.htm)
+**
+
+* Contact Information
+* Time and Place
+* Objectives
+* References
+* Late Assignments
+* Evaluation Criteria
+* Lab Write-Ups
+* [Grades to Date](grades.jpg)
+* Prerequisites by Topic
+* Graduate Project
+* [Graded Reports](http://www.ctre.iastate.edu/education/ce451/graded_reports/)
+
+* * *
+
+## General Course Information
+
+### Contact Information
+
+Instructors:  
+Edward Kannel  
+382 B Town Engr  
+Phone: 294-2861  
+[ekannel@iastate.edu](mailto:ekannel@iastate.edu)
+
+  
+  
+_Dr. Reg Souleyrette_  
+Office:  
+380 Town Engineering
+
+Alternate Office:  
+Center for Transportation Research and Education (CTRE)  
+ISU Research Park  
+2901 S. Loop Drive, Suite 3100
+
+Phone:  
+294-5453
+
+Email:  
+[reg@iastate.edu](mailto:reg@iastate.edu)
+
+[Dr. Reg Souleyrette](http://www.eng.iastate.edu/~reg/)
+
+Office Hours:  
+TBA - see note on door of 380 Town. Important: I am accessible via email M-F
+8-5 - please email me if I am not in my Town office
+
+### Class MeetingTime and Place
+
+Monday, Friday 8:00 - 8:50 am, 134 Town (lecture)  
+Wednesday 8:00 - 9:50 am, 134 Town (lab)  
+
+Back to Index
+
+### Objectives
+
+**2001-2003 Catalog Data** : (Dual-listed with 551.) (2-2) Cr. 3. F. Prereq:
+350 or 353 or 354 or 355 or 453. Transportation data sources and cost
+analysis; transportation system management; travel demand and network
+modeling; transport legislation and financing; intelligent transportation
+systems planning; sustainable transportation concepts. Group projects lab.
+
+**Goals** : To provide the student with an intermediate course in the theory
+and practice of urban transportation planning, programming, and modeling of
+supply and demand components of transportation systems; to acquaint the
+student with the state of transportation planning practice as contrasted with
+analytical models; to introduce the student to computer applications in
+transportation planning; to familiarize the student with the history and
+status of transportation planning activities as affected by national, state
+and local policy formulation and recent legislation.
+
+**Relation to CE Objectives** : This course contributes toward several of the
+learning objectives of the Civil Engineering program at ISU. Following is a
+list of the CE Academic Program Objectives that CE 451 contributes towards
+(note: intended CE 451 Contribution in parenthesis). Exams will attempt to
+evaluate how well the students meet the objectives emphasized.
+
+  1. Design, coordinate, and execute an integrated undergraduate civil engineering program that produces graduates who 
+    1. have a fundamental understanding of mathematics, statistics, and physical sciences and where appropriate, life sciences. 
+    2. have a broad base of knowledge in civil engineering technical areas, represented by the transportation/surveying, structural, environmental/water resources, and geotechnical/materials discipline areas.(15%) 
+    3. have a basic understanding of cost estimating, planning and scheduling for civil engineering projects.(15%) 
+    4. utilize critical thinking to identify, define and develop alternative solutions, and to implement a feasible design to solve an open-ended or ill-defined problem while considering constructability, sustainability and maintainability of the design.(15%) 
+    5. are effective in oral, written and graphical communication of ideas to engineers and non-engineers.(10%) 
+    6. recognize and understand the importance of timely and effective communication during the design and construction processes (10%). 
+    7. have an ability to effectively use computers as a tool for communication, problem-solving, analysis and design.(10%) 
+    8. have an ability to work effectively within a multi-disciplinary team. (10%) 
+    9. recognize and understand the importance and necessity for high professional and ethical standards. (5%) 
+    10. have basic knowledge of business and management principles and practice. 
+    11. have an understanding of social, political and cultural issues. (10%) 
+
+Back to Index
+
+### Reading "Texts" and related Resources
+
+Transportation planning models will be developed using a software package
+entitled "TransCAD Transportation GIS Software". Students will be provided two
+volumes related to the software to explain the modeling concepts and the
+software applications. Several additional resources are identified in the CE
+451/551 Web pages.
+
+  
+
+The TransCAD books are "loaned" to you. We need to collect these at the end of
+the semester.
+
+  
+**Please do not Write or Mark in these references. **
+
+  1. _TransCAD Users Guide,_ 2001 Caliper Corporation, Newton, MA.**.  
+
+  2. _Travel Demand Modelling with TransCAD 4.0_ , 2001 Caliper Corporation, Newton, MA.**).  
+  
+
+  3. [Travel Model Improvement Program Clearinghouse ](http://tmip.fhwa.dot.gov/clearinghouse/)(No specific reading assignment here as there are more than 50 full documents at this site. Check it early and then throughout the semester you should check for, and read, related material that would help you learn better, help you prepare lab reports, (e.g., cut and paste supporting figures, with appropriate credit given, etc.), or be useful to you in other classes/research).  
+
+  4. [ National Transportation Library directory ](http://ntl.bts.gov/browse.cfm)(As in Clearinghouse above, you can examine dozens of resources, by interest groups, related to transportation data, models, analysis and more).  
+
+  5. **Week 2,**[ A Transportation Modeling Primer.](http://www.uwm.edu/Dept/CUTS/primer.htm) Read through intial segment through Trip Generation. Do not focus on the "limitations or shortcomings" at this time. We will return to these after you have gained more familiarity with the general process.   
+
+  6. **Week 4, Monday:** NCHRP 365, Travel Estimation Techniques for Urban Areas, Chapter 3: Trip Generation (I will provide hard copies of this, xx pages, estimated reading time: 1 hour  
+
+  7. **Week 5, Monday** NCHRP 365, Travel Estimation Techniques for Urban Areas, Chapter 5: External Travel (I will provide hard copies of this, 12 pages, estimated reading time: 1 hour  
+
+  8. **Week 9, Monday:**[Travel Surveys, Chapter 2](http://ntl.bts.gov/data/1392.pdf)  
+
+  9. **Week 10, Tuesday:**[Calibration and Adjustment of System Planning Models ](http://ntl.bts.gov/DOCS/377CAS.html)\- December 1990 (This is short, but good. I suggest reading this as soon as possible, 6500 words, estimated time: 2 hours)   
+
+  10. **Week 11, Monday:**[Model Validation and Reasonableness Checking Manual](http://tmip.fhwa.dot.gov/clearinghouse/docs/mvrcm/), 1997 (this is rather large. I suggest you being reading this right after exam 1, 28,000 words, estimated time: 8 hours) If you prefer, you can download a pdf version at <http://tmip.fhwa.dot.gov/clearinghouse/docs/mvrcm/finalval.pdf>  
+
+  11. **Week 14, Monday:**[A Critical Review of the Trip-Based, Four-Step Procedure of Urban Passenger Demand Forecasting ](http://tmip.fhwa.dot.gov/clearinghouse/docs/amos/ch2.stm)(2000 words, estimated time: 30 minutes)  
+
+  12. **Week 14, Friday:**[A Transportation Modeling Primer ](http://www.uwm.edu/Dept/CUTS/primer.htm)(8000 words, estimated time: 2.2 hours) 
+  
+
+other references:
+
+_Transportation Planning Handbook_ , Institute of Transportation Engineers,
+1992.  
+_Urban Transportation Planning in the United States, An Historical Overview._
+USDOT. 5th Edition. [Click Here for
+Link](http://www.bts.gov/tmip/abstracts/history.htm)  
+John Dickey, _Metropolitan Transportation Planning_ , 2nd Ed., Hemisphere,
+1983 (some lecture material taken from this book)  
+M.P. Meyer and E.J. Miller, _Urban Transportation Planning, A Decision
+Oriented Approach,_ McGraw Hill, New York, 1984.  
+Adib Kanafani, _Transportation Demand Analysis_ , McGraw-Hill, New York, 1983.  
+
+### Late Assignments
+
+Labs are due at the beginning of the next lab class unless a lab is designated
+as a two week lab,in which case they are due at the beginning of a new lab
+topic. Homework will generally be due two sessions after it is assigned, i.e
+Monday assignment is due on Friday, Friday assignment is due on Wednesday).
+
+Late labs or homework will be penalized 20% per week.
+
+Back to Index
+
+### Evaluation Criteria
+
+_**Undergraduates:
+
+**_ Examination #1, October 1: 20%  
+Examination #2, November 12: 20%  
+Homework/quizes: 10%  
+Labs: 30%  
+Final Examination, December Week of Dec 17: 20%
+
+_**Graduate students:
+
+**_ Examination #1, October 1: 20%-*  
+Examination #2, November 12: 20%-*  
+Homework/quizes: 10-%  
+Labs: 30%-*  
+Final Examination, December of Dec 17: 20%-*  
+* Graduate students' total grade will be proportioned downward to allow 9% to apply to paper and oral presentation. To receive a non-failing grade a satisfactory paper (or special project) must be completed and presented to the class. Project, Due December 5:(more details are given in the "Graduate" section), Oral Presentation in week of December 10.
+
+Back to Index
+
+### Lab Write-Ups
+
+If the lab requirements state that it should be typed, a complete lab report
+will be necessary. The purpose of requiring a write-up is to require you to
+present your results in writing in good technical writing style. Getting the
+answer is usually only half the work.
+
+  1. Present all results in the main body of the report. Don't say "the answer is in the Appendix" Your reader should be able to easily find the results in the body of the report. 
+  2. The introduction section should include a brief overview of the topic and layout the structure of the report. The background section should discuss details that the reader needs to understand the rest of the report. 
+  3. Spell-out all abbreviations or acronyms the first time. 
+  4. Proof-read your work. 
+  5. Reports that are confusing, sloppy or difficult to read will be penalized 20% from the start. 
+  6. A general guide for Laboratory and Homework presentation is at 
+
+[Guidelines for Lab and Homework Preparation](GUIDES.htm)
+
+.
+
+[Lab Report Submittal Instructions](submit.htm)
+
+[Download the report template here.](lab_temp.doc)
+
+Back to Index
+
+### Prerequisites by Topic
+
+1\. A basic understanding of highway transportation concepts.  
+2\. A basic understanding of economic analysis.  
+3\. A basic understanding of statistical methods and probability.  
+4\. A working knowledge of PCs and Windows operating system, MS Word, and
+Excel.  
+
+Back to Index
+
+### Graduate Project (required of graduate students only)
+
+Develop a "State of the Practice" paper on a transportation planning issue,
+not directly related to travel modelling. The instructor will work with you to
+establish a topic of interest. This may be based on extensive research of
+procedures in Iowa MPO activities or from literature review of materials
+within the past five years. The govermnent clearinghouse and National
+Transportation Library could provide guidance in these selections. Any paper
+that is selected for presentation at a national conference will earn you an
+automatic A grade for the course.
+
+Important dates are as follows (important ... points off for missing
+deadlines):
+
+1\. Submit topic to instructor by 9-12-01  
+2\. Topic approved by instructor 9-14-01 (or before, if pre-approved)  
+3\. Submit draft to instructor by 11-7-01 (note: must be submitted by 11-07
+for project to receive grade of B or better, except as noted in above
+paragraph)  
+4\. Draft review and suggestions by instructor 11-17-01 (first in - first
+back)  
+5\. Final submission by 12-5-01 (can be submitted earlier for review)  
+
+Back to Index
+

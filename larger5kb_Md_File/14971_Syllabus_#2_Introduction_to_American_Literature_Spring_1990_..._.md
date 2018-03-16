@@ -1,0 +1,187 @@
+![](../titlebar.jpg)
+
+![](../overnews.gif)
+
+**Syllabus #2**
+
+**Introduction to American Literature**  
+**Spring 1990**  
+**Professor Paul Lauter**
+
+All readings are in _The Heath Anthology of American Literature_
+
+**Date Reading**
+
+1/18 First day of class
+
+1/23 "To the Reader," pp. xxxiii-xxxix
+
+Native American Traditions: pp. 3/7, 22-40, 59-60
+
+1/25 The Spanish and the New World: pp. 7-10, 67-99 (Columbus, The Virgin of
+Guadalupe, Cabeza de Vaca), 120-131 (Villagra), 52-55 (The Coming of the
+Spanish and the Pueblo Revolt, Hopi), 431-440 (The Pueblo Revolt and the
+Spanish Reconquest)
+
+1/30 English Settlements: pp. 10-21, 146-159 (John Smith), 173-176 (Richard
+Frethorne); 210-221, 225-226 (William Bradford), 176-188 (Thomas Morton),
+221-225 (William Bradford)
+
+2/1 Some Puritan Writers: 317-342 (Mary Rowlandson), 512-516, 544-555,
+540-544, 555-566 (Jonathan Edwards)
+
+2/6 Puritan Poetry: 256-261, 272-277 (Anne Bradstreet), 308, 312, 342-346,
+350-357, 360- 363, 373-374 (Edward Taylor)
+
+2/8 Social and Cultural Tensions: 448-469, 581-590 (Elizabeth Ashbridge),
+590-592, 604-610 (John Woolman), 756-762 (Delgado), 751-756, (Aupaumut),
+641-646, 670- 677 (18th Century women poets)
+
+2/13 Political Tensions and Visions: 774-776, 56-59 (Iroquois), 936-937,
+940-955 (Paine), 957-964, 969-974, 978-981, 990-994 (Jefferson), 1007-1018
+(Federalist), 821-822 (Franklin)
+
+2/15 Who (What) Are Americans? 728-735 (Occum), 694-712 (Vassa), 712-715, 718,
+720- 725 (Phillis Wheatley), 685-694 (Hall), 890-899, 906-907 (Crevecoeur),
+1952-1963 (Vallejo)
+
+2/27 Franklin: 776-783, 790-794, 823-867, 872-888
+
+3/1 Exam
+
+3/6 Constructing an American Mythology, I: 1214-1216, 1280-1294, 1299-1307
+(Coo per), 1308-1322 (Sedgwick), 1451-1466 (Copway), 1760-1772 (Boudinot,
+Seattle)
+
+3/8 American Mythology, II: 1024-1026, 1032-1039 (Murray), 1153-1163 (Rowson),
+1238-1239, 1248-1260 (Irving), 1580-1582, 1604-1608, 1610-1611, 1617-1618,
+1624- 1626 (Fuller)
+
+3/13 Poe: 1322-1325, 1394-1395, 1403-1406, 1410-1411, 1391-1392, 1357-1362
+(Eleonora), 1333-1357 ("Ligeia," " The Fall of the House of Usher"), 1325-1332
+("Ms. Found in a Bottle")
+
+3/15 Versions of Transcendentalism: 1499-1528, 1467-1470 (Emerson), 1626-1630
+(Fuller)
+
+3/20 A Slave Narrative: Frederick Douglass: 1637-1676
+
+3/22 Douglass: 1676-1704; Abolitionist Writing: 1781-1791 (David Walker,
+1792-1795 (W. L. Garrison), 1813- 1818 (J. G. Whittier)
+
+Spring Vacation
+
+4/10 Abolitionist Writing: 1825-1834 (Angelina Grimke), 1964-1981 (H. D.
+Thoreau), 1915-1923, 1932-1933 (F. E. W. Harper); begin reading Stowe
+selection
+
+4/12 Anti-Slavery Narratives: 2307-2358 (H. B. Stowe), 1723-1736, 1742-1750
+(Harriet Jacobs)
+
+4/17 Versions of Nature: 2286-2297, 2304-2307 (C. Kirkland), 1590-1595,
+1598-1601 (M. Fuller), 1981-1991, 1998-2016 (H. D. Thoreau), 2895- 2896,
+2861-2862 (Dickinson)
+
+4/19 Hawthorne: 2065-2082 ("My Kins- man, Major Molineux"), 2082-2092 ("Young
+Goodman Brown"), 2112- 2132 ("Rappaccini's Daughter")
+
+4/24 Varieties of Narrative: 1899-1906 (Fanny Fern), 2596-2613 (Alice Cary),
+2614-2621 (Elizabeth Stod- dard), 2628-2637 (Harriet Wilson)
+
+4/26 Melville: 2400-2464 ("Bartleby the Scrivener"; from "The Encantadas",
+"The Paradise of Bachelors and the Tartarus of Maids")
+
+5/1 Many Poetic Traditions: 2638-2644, 2663-2671 (Aztec and Inuit), 2671- 2691
+(Songs and Ballads), 2692-2697 (Bryant), 2702-2705, 2706-2707 (Longfellow)
+
+5/3 Whitman: 2709-2712, 2788, 2727- 2778, 2790-2791
+
+5/8 Dickinson: Poems and letters to be assigned
+
+**Student Reaction**
+
+**Journal**
+
+**What follows is an excerpt from Rebecca Garnett's journal. A student in
+Professor Lauter's Introduction to American Literature course, Rebecca wrote
+this entry in reaction to reading Caroline Kirkland.**
+
+The creation of a new home is a dynamic process, and it has fed an argument
+between my parents for as long as I can remember. I think my mother is similar
+to Kirkland in that she followed my father to the "frontier" of the back woods
+of Maine. My dad was not concerned so much with increasing his status or
+becoming upwardly mobile; rather his case was almost the opposite. He seemed
+to be isolating himself from a society that had failed him in some way and he
+was creating something that was completely his own. The story in a sense was
+more my father's than my mother's. I know that she was often lonely, and left
+on unstable grounds. The house was never completely finished for fifteen
+years, and she never had the satisfaction of starting her life again knowing
+that there was a 'home' established and there for her to return to.
+
+My father set out to build a new house for us in the woods when I was three. I
+remember distinctly clearing the land, and the confusion that surrounded the
+process; the deafening sound of chainsaws, the grinding of the backhoe as it
+tore up stumps, and the drizzle of rain down my back on the days when the
+brush had to be burned. My sister Leah and I helped peel the logs that served
+as beams, and I remember hearing the crunching sound that the insects made as
+they bored their way through those same logs during the summer that the house
+was framed. I remember my mother crying because we were living in a shell that
+had poly for walls and a barrel stove for heat. She never had control, she
+couldn't predict when the helplessness would be over, it didn't match her
+dreams, and the reality of that life was almost more than she could bear.
+Anything that she tried to do to help wasn't good enough for my father's
+perfectionist standards, and it left her screaming in frustration in her
+idleness.
+
+We would go to old antique barns and junk yards looking for windows with wavy
+glass that we could salvage. We found a few prizes amongst all the clutter;
+two tall arched windows that later served as the focal points in the living
+room and my parents' bedroom. Leah and I used to draw castles and unicorns on
+the bare sheetrock that were our walls for so many years, and the studs that
+supported those walls served as shelves for everything from dishwashing
+detergent to rainbow-painted rocks that surrounded our folding formica dining
+room table. My mother set her loom with determination in the middle of it all
+and wove wall hangings to cover the roughness.
+
+My father's workshops down the hill from the house grew in dimension, and all
+the junk that he wouldn't throw away because he would "need it someday"
+expanded to cover the ground around them. Steel barrels, cinder blocks, old
+window frames, printer rollers, grey and splintered planks, shingles, wire,
+copper pipe, outlets, boxes of assorted nails, nuts and screws, machine parts,
+and many things I couldn't identify, all piled up against my mother's nerves
+and sense of beauty and order. It was always very embarrassing to give a
+friend directions to our house and then have them drive up our driveway, see
+my father's shops and turn around and drive out because they didn't think we
+lived there. My mother did the best that she could with the inside of the
+house, though, and she succeeded in turning it into a home full of interesting
+things to look at. I always loved it when I would bring kids home from school
+and watch their faces and hear them say, "Oh, wow, this place is really neat"
+as they stared out of a wall of windows into the depths of the green forest.
+
+The house is one with its surroundings. When you walk into it from the north
+door, you are immediately looking out of tall windows facing south made of
+antique glass, and what you see outside reflects what you see inside. Natural
+wood, earthy hues, and open rooms surround you. The design is simple, but
+original. It's shaped like an L, with the inside of the angle facing south to
+catch the sun. There's only one level, and the ceilings are highest by the
+windows. My sister and I share a bedroom, and the only other enclosed rooms
+are my parents' bedroom and one bathroom.
+
+It's nearly finished now and I can't imagine my family ever living anywhere
+else. The house and the land in many ways _are_ the family. I have a hard time
+imagining myself in a house of my own someday, and being in the same position
+that my mother was once in--trying to establish a home for a family. That's
+why it is amazing to me that at one time women were often in the position
+where they had little choice but to follow their husbands across the frontier
+to build a house and then have to deal with the frequent decision made by the
+husband to pick up and leave what they had started, at any time, to seek out a
+better opportunity. It leaves me wondering: a better opportunity for who? I
+will not marry a man who thinks that he is the only self that has a valid and
+justified voice.  
+  
+---  
+  
+[Contents, No. III](Content.htm)
+
+![](../usersnav.gif)
+

@@ -1,0 +1,1000 @@
+![](logo.jpg)
+
+* * *
+
+**Menu Bar **
+
+** [Unit Syllabus](syllabus-intro.html) [Resources](resources-intro.html)  
+
+* * *
+
+**IAS Units**
+
+[Growing Up in America](americanvalues.html)
+
+* * *
+
+[The Challenge of Utopia](utopia.html)
+
+* * *
+
+[Race and Ethnic Diversity](race.html)
+
+* * *
+
+[Money and Materialism](money&materialism.html)
+
+* * *
+
+[American Power Abroad](america-at-war.html)
+
+* * *
+
+[IAS 1997-1998](default.html)
+
+* * *
+
+** |
+
+  
+![](permabound.jpg)
+
+**Cherished or Cursed  
+**
+
+* * *
+
+  
+** Cherished and Cursed: Toward a Social History of The Catcher in the Rye The
+New England Quarterly; Brunswick; Dec 1997; Stephen J Whitfield;
+
+Abstract: J. D. Salinger's "Catcher in the Rye," first published in 1951, has
+had a sustained readership and faced censorship problems. Some of the reasons
+for the acclaim it has been given are discussed.
+
+Full Text: Copyright New England Quarterly, Incorporated Dec 1997
+
+The plot is brief: in 1949 or perhaps 1950, over the course of three days
+during the Christmas season, a sixteen-yearold takes a picaresque journey to
+his New York City home from the third private school to expel him. The
+narrator recounts his experiences and opinions from a sanitarium in
+California. A heavy smoker, Holden Caulfield claims to be already six feet,
+two inches tall and to have wisps of grey hair; and he wonders what happens to
+the ducks when the ponds freeze in winter. The novel was published on 16 July
+1951, sold for $3.00, and was a Book-of-the-Month Club selection. Within two
+weeks, it had been reprinted five times, the next month three more times-
+though by the third edition the jacket photograph of the author had quietly
+disappeared. His book stayed on the bestseller list for thirty weeks, though
+never above fourth place.l
+
+Costing 75 cents, the Bantam paperback edition appeared in 1964. By 1981, when
+the same edition went for $2.50, sales still held steady, between twenty and
+thirty thousand copies per month, about a quarter of a million copies
+annually. In paperback the novel sold over three million copies between 1953
+and 1964, climbed even higher by the 1980s, and continues to attract about as
+many buyers as it did in 1951. The durability of its appeal is astonishing.
+The Catcher in the Rye has gone through over seventy printings and has spread
+into thirty languages. Three decades after it first appeared, a mint copy of
+the first edition was already fetching about $200.2
+
+Critical and academic interest has been less consistent; and how J. D.
+Salinger's only novel achieved acclaim is still a bit mystifying. After its
+first impact came neglect: following the book reviews, only three critical
+pieces appeared in the first five years. In the next four years, at least
+seventy essays on The Catcher in the Rye were published in American and
+British magazines. Salinger's biographer explained why: "A feature of the
+youthquake was, of course, that students could now tell their teachers what to
+read." Ian Hamilton also notes that by the mid-1950s the novel had "become the
+book all brooding adolescents had to buy, [and on campuses] the indispensable
+manual from which cool styles of disaffection could be borrowed."3 No American
+writer over the past half-century has entranced serious young readers more
+than Salinger, whose novel about the flight from Pencey Prep may lag behind
+only Of Mice and Men on public-school required reading lists.4 And his fiction
+has inspired other writers as well; the late Harold Brodkey, for example,
+considered it "the most influential body of work in English prose by anyone
+since Hemingway."5
+
+One explanation for why The Catcher in the Rye has enjoyed such a sustained
+readership came over two decades after the novel was first published-from a
+middle-aged Holden Caulfield himself, as imagined by journalist Stefan Kanfer:
+"The new audience is never very different from the old Holden. They may not
+know the words, but they can hum along with the malady. My distress is theirs.
+They, too, long for the role of adolescent savior. They, too, are aware of the
+imminent death in life. As far as the sexual explosion is concerned, I suspect
+a lot of what you've heard is just noise." Sex "still remains a mystery to the
+adolescent. I have no cure, only consolation: someone has passed this way
+before." Objections to schlock and vulgarity and physical decline, and
+preferences for the pastoral over the machine continue to resonate, "Holden"
+suspects;6 and so long as the United States continues to operate very much
+this side of paradise, a reluctance to inherit what the grown-ups have
+bequeathed is bound to enlist sympathy. The fantasy of withdrawal and retreat
+to the countryside ("Massachusetts and Vermont, and all around there . . .
+[are] beautiful as hell up there. It really is.") is not only a commonplace
+yearning but also advice Holden's creator elected to take by moving to
+Cornish, New Hampshire.7
+
+But it should be conceded that generally it's the grown-ups who are in charge,
+and many of them have wanted to ban the widely beloved novel. Why The Catcher
+in the Rye has been censored (and censured) as well as cherished is a
+curiosity worth examining for its own sake. But how so transparently charming
+a novel can also exercise a peculiar allure and even emit disturbing danger
+signals may serve as an entree into postwar American culture as well.
+
+Bad Boys, Bad Readers
+
+One weird episode inspired by The Catcher in the Rye involves Jerry Lewis. He
+tried to buy the movie rights, which were not for sale, and to play the lead.
+One problem was that the director did not read the book until the 1960s, when
+he was already well into his thirties. Playing the protagonist would have been
+a stretch, but le roi de crazy felt some affinity for Salinger (whom Lewis
+never met): "He's nuts also." Curiously Holden himself mentions the word
+"crazy" and its cognates (like "mad," "madman," and "insane") over fifty
+times, more than the reverberant "phony."8
+
+Indeed the history of this novel cannot be disentangled from the way the
+mentally unbalanced have read it. In one instance the reader is himself
+fictional: the protagonist of John Fowles's first book, which captures the
+unnerving character of Salinger's only novel as an index of taste, perhaps of
+moral taste. In the second section of The Collector, told from the viewpoint
+of the victim, the kidnapped Miranda Grey recounts in her diary that she asks
+her captor, lepidopterist Frederick Clegg, whether he reads "proper books-real
+books." When he admits that "light novels are more my line," she recommends
+The Catcher in the Rye instead: "I've almost finished it. Do you know I've
+read it twice and I'm five years younger than you are?" Sullenly he promises
+to read it. Later she notices him doing so, "several times . . . look[ing] to
+see how many pages more he had to read. He reads it only to show me how hard
+he is trying." After the duty has been discharged, over a week later, the
+collector admits: "I don't see much point in it." When Miranda counters, "You
+realize this is one of the most brilliant studies of adolescence ever
+written?" he responds that Holden "sounds a mess to me."
+
+"Of course he's a mess. But he realizes he's a mess, he tries to express what
+he feels, he's a human being for all his faults. Don't you even feel sorry for
+him?"
+
+"I don't like the way he talks."
+
+"I don't like the way you talk," she replies. "But I don't treat you as below
+any serious notice or sympathy."
+
+Clegg acknowledges: "I suppose it's very clever. To write like that and all."
+
+"I gave you that book to read because I thought you would feel identified with
+him. You're a Holden Caulfield. He doesn't fit anywhere and you don't."
+
+"I don't wonder, the way he goes on. He doesn't try to fit."
+
+Miranda insists: "He tries to construct some sort of reality in his life, some
+sort of decency."
+
+"It's not realistic. Going to a posh school and his parents having money. He
+wouldn't behave like that. In my opinion."
+
+She has the final word (at least in her diary): "You get on the back of
+everything vital, everything trying to be honest and free, and you bear it
+down."
+
+Modern art, she realizes, embarrasses and fascinates Clegg; it "shocks him"
+and stirs "guilty ideas in him" because he sees it as "all vaguely immoral."
+For the mass audience at which William Wyler's 1965 film adaptation was aimed,
+Clegg's aesthetic world is made less repellent and more conventional, and the
+conversation about The Catcher in the Rye is abbreviated.9
+
+In a more class-conscious society than is the United States, Fowles's loner
+finds something repugnant about the recklessness of the privileged
+protagonist. In a more violent society than England, types like Frederick
+Clegg might identify with Holden Caulfield's alienation from "normal" people
+so thoroughly that they become assassins. To be sure, The Catcher in the Rye
+is bereft of violence; and no novel seems less likely to activate the impulse
+to "lock and load." But this book nevertheless has exercised an eerie allure
+for asocial young men who, glomming on to Holden's estrangement, yield to the
+terrifying temptations of murder. "Lacking a sense of who he is," such a
+person "shops among artifacts of our culture-books, movies, TV programs, song
+lyrics, newspaper clippings-to fashion a character." Instead of authentic
+individuality, Priscilla Johnson McMillan has written, "all that is left is a
+collection of cultural shards-the bits and pieces of popular culture, torn
+from their contexts."10
+
+In December 1980, with a copy of Salinger's novel in his pocket, Mark David
+Chapman murdered John Lennon. Before the police arrived, the assassin began
+reading the novel to himself and, when he was sentenced, read aloud the
+passage that begins with "anyway, I keep picturing all these little kids" and
+ends with "I'd just be the catcher in the rye and all" (pp. 224-25). Daniel M.
+Stashower has speculated ingeniously that Chapman wanted the former Beatle's
+innocence to be preserved in the only way possible-by death (the fate of
+Holden's revered brother Allie). Of course it could be argued that the
+assassin was not a conscientious reader, since Holden realizes on the
+carrousel that children have to be left alone, that they cannot be saved from
+themselves: "The thing with kids is, if they want to grab for the gold ring,
+you have to let them do it, and not say anything. If they fall off, they fall
+off" (pp. 273-74). No older catcher should try to intervene.11
+
+Nor was Chapman the only Beatles fan to reify happiness as a warm gun. John
+Hinckley, Jr., described himself in his high school days as "a rebel without a
+cause" and was shocked to hear that Lennon had been murdered. A year later
+Hinckley himself tried to kill President Reagan. In Hinckley's hotel room,
+police found, along with a 1981 John Lennon color calendar, Salinger's novel
+among a half-dozen paperbacks. Noting the "gruesome congruences between these
+loners," Richard Schickel wondered whether Chapman and Hinckley could "really
+believe their disaffections were similar to Holden Caulfield's."12
+
+One stab at an answer would be provided in John Guare's play Six Degrees of
+Separation, which opened in New York in 1990 and which he adapted for Fred
+Schepsi's film three years later. An imposter calling himself Paul insinuates
+himself into a well-heeled family; he is a perfect stranger (or appears to
+be). Pretending to be a Harvard undergraduate who has just been mugged, posing
+as the son of actor Sidney Poitier, Paul claims that his thesis is devoted to
+Salinger's novel and its odd connections to criminal loners:
+
+A substitute teacher out on Long Island was dropped from his job for fighting
+with a student. A few weeks later, the teacher returned to the classroom, shot
+the student unsuccessfully, held the class hostage and then shot himself
+Successfully. This fact caught my eye: last sentence. Times. A neighbor
+described him as a nice boy. Always reading Catcher in the Rye.
+
+Paul then mentions "the nitwit-Chapman" and insists that "the reading of that
+book would be his defense" for having killed Lennon. Hinckley, too, had "said
+if you want my defense all you have to do is read Catcher in the Rye. It
+seemed to be time to read it again." Paul reads it as a "manifesto of hate"
+against phonies,
+
+a touching story, comic because the boy wants to do so much and can't do
+anything. Hates all phoniness and only lies to others. Wants everyone to like
+him, is only hateful, and is completely self-involved. In other words, a
+pretty accurate picture of a male adolescent. And what alarms me about the
+book-not the book so much as the aura about it-is this: The book is primarily
+about paralysis. The boy can't function. And at the end, before he can run
+away and start a new life, it starts to rain and he folds.... But the aura
+around this book of Salinger's-which perhaps should be read by everyone but
+young men-is this: It mirrors like a fun house mirror and amplifies like a
+distorted speaker one of the great tragedies of our times-the death of the
+imagination, [which] now stands as a synonym for something outside ourselves.
+
+A smooth liar, Paul later admits (or claims) that a Groton commencement
+address delivered a couple of years earlier was the source of his insights.13
+
+Holden has thus been born to trouble-yet another reminder that, in the opinion
+of long queues of literary critics, you can't know about him without your
+having read a book by Mr. Mark Twain called The Adventures of Huckleberry
+Finn, which told the truth mainly about the intensity of the yearning for
+authenticity and innocence that marks the picaresque quest. Huck and Holden
+share the fate of being both beloved and banned; such reactions were not
+unrelated. When the Concord (Massachusetts) public library proscribed The
+Adventures of Huckleberry Finn soon after its publication, the author gloated
+that not even his Innocents Abroad had sold more copies more quickly; and
+"those idiots in Concord" "have given us a rattling tip-top puff which will go
+into every paper in the country.... That will sell 25,000 copies for us
+sure."14
+
+Salinger's novel does not appear to have been kept off the shelves in Concord
+but did cause enough of a stir to make the short list of the most banned books
+in school libraries, curricula, and public libraries.15 In 1973 the American
+School Board Journal called this monster best-seller "the most widely censored
+book in the United States."16 It was noted nearly a decade later that The
+Catcher in the Rye "had the dubious distinction of being at once the most
+frequently censored book across the nation and the second-most frequently
+taught novel in public high schools."17 Anne Levinson, the assistant director
+of the Office of Intellectual Freedom in Chicago, called The Catcher in the
+Rye probably "a perennial No. 1 on the censorship hit list," narrowly ahead of
+Of Mice and Men and The Grapes of Wrath and perhaps of Eldridge Cleaver's Soul
+on Ice as well.18 No postwar American novel has been subjected to more-and
+more intense-efforts to prevent the young from reading it.
+
+Some examples: The National Organization for Decent Literature declared it
+objectionable by 1956. Five years later a teacher in a San Jose, California,
+high school who had included the novel on the twelfth-grade supplementary
+reading list was transferred and the novel dropped. The Catcher in the Rye was
+excised from the list of approved books in Kershaw County, South Carolina,
+after the sheriff of Camden declared part of the novel obscene.19 In 1978 the
+novel was banned in the high schools of Issaquah, Washington, in the wake of a
+campaign led by a diligent citizen who tabulated 785 "profanities" and charged
+that including Holden in the syllabus was "part of an overall Communist plot
+in which a lot of people are used and may not even be aware of it."20 Three
+school board members in Issaquah not only voted in favor of banning The
+Catcher in the Rye but also against renewing the contract of the school
+superintendent who had explicitly sanctioned the right of English teachers to
+assign the book. The board members were recalled, however. A school board
+member also confiscated a copy of Salinger's novel from a high school library
+in Asheville, North Carolina, in 1973. Several high school teachers have been
+fired or forced to resign for having assigned The Catcher in the Rye.21
+
+California was the site of two well-reported incidents. The first erupted in
+1962 in Temple City, near Pasadena, at a Board of Education meeting.
+Salinger's book had been assigned as supplementary reading for the eleventh
+grade. A parent objected, in the main, to the "crude, profane and obscene"
+language. For good measure, though, the book was also condemned for its
+literary assault on patriotism, "home life, [the] teaching profession,
+religion and so forth." Another vigilant parent, imploring the President of
+the United States summarily to fire anyone writing such a book, had obviously
+confused the reclusive novelist with John F. Kennedy's amiable press
+secretary, Pierre Salinger.22
+
+The Catcher in the Rye was also banned from the supplementary reading list of
+Boron High School, located on the edge of the Mojave Desert. The proscription
+had an interesting effect. Salinger "has gained a new readership among
+townspeople," the New York Times reported, "and Helen Nelson, the local
+librarian, has a waiting list of fifteen people for the book that she says has
+been sitting on the shelf all these years pretty much unnoticed." The campaign
+against the book had been fueled by its profanity, which aroused the most
+heated objections. Vickie Swindler, the parent of a fourteen-year-old girl,
+was startled to see three "goddamns" on page 32. She recalled phoning the
+school and demanding to know: "How the hell [sic] did this teacher [Shelley
+Keller-Gage] get this book?" Locals who sympathized with the censors offered a
+curious interpretation of their motives, which they compared to Holden's dream
+of becoming a catcher in the rye to keep innocence intact; the protagonist and
+the parents trying to muzzle him shared a desire to exempt children from the
+vulgarity and corruption of the adult world. Yet, as Mrs. Keller-Gage noted,
+"Things are not innocent any more, and I think we've got to help them [i.e.,
+children] deal with that, to make responsible choices, to be responsible
+citizens." Parents were "wanting to preserve the innocence of the children" in
+vain. The Times reported that she offered an alternative assignment for pupils
+whose parents were opposed to The Catcher in the Rye: Ray Bradbury's Dandelion
+Wine.23
+
+When the ban took effect in the new term, Mrs. Keller-Gage put her three dozen
+copies of Salinger's novel "on a top shelf of her classroom closet, inside a
+tightly taped cardboard box." Raise high the bookshelf, censors. In place of
+The Catcher in the Rye, she announced, she would assign another Bradbury
+novel, Fahrenheit 451,24 the title referring to the presumed "temperature at
+which book-paper catches fire, and burns." This dystopian novel about book-
+burning was published in 1953, though a shorter version, entitled "The
+Fireman," had appeared in Galaxy Science Fiction in 1950. Both versions were
+too early to allude to Salinger's novel, which is neither shown nor recited in
+Francois Truffaut's 1966 film adaptation (though one item visibly consumed is
+an issue of Cahiers du Cinema).
+
+Efforts at suppression were not confined to secondary schools. A prominent
+Houston attorney, "whose daughter had been assigned the novel in an English
+class at the University of Texas, threatened to remove the girl from the
+University," Harper's reported. "The aggrieved father sent copies [of the
+novel] to the governor, the chancellor of the university, and a number of
+state officials. The state senator from Houston threatened to read passages
+from the book on the senate floor to show the sort of thing they teach in
+Austin. The lawyerfather said Salinger used language `no sane person would
+use' and accused the university of `corrupting the moral fibers [sic] of our
+youth."' He conceded that the novel "is not a hard-core Communist-type book,
+but it encourages a lessening of spiritual values which in turn leads to
+communism."25
+
+In making appointments to the department of English at the University of
+Montana, Leslie A. Fiedler recalled that "the only unforgivable thing in the
+university or the state was to be `controversial."' He nevertheless "began to
+make offers to young instructors who had quarreled with their administrators,
+or had asked their students to read Catcher in the Rye, or had themselves
+written poetry containing dirty words, or were flagrantly Jewish or simply
+Black." The narrator of a recent academic novel, Mustang Sally, recalls that
+"the chairman of the department has asked us all to use our best judgment in
+avoiding confrontation with the evangelicals . . . such as the group who
+staged a pray-in' at the Greensburg High School library because The Catcher in
+the Rye was on the shelves. It has since been removed, along with the
+principal." No wonder, then, that one columnist, though writing for the
+newspaper of record, whimsically claimed to "lose count of the number of times
+the book has been challenged or banned."26
+
+Such animosity had become a predictable feature of the far right by the 1980s,
+when an outfit named Educational Research Analysts, financed by Richard
+Viguerie, a leading fundraiser for right-wing organizations, was formed to
+examine nearly every textbook considered for adoption anywhere in the nation.
+"The group has assembled a list of 67 categories under which a book may be
+banned. Category 43 ('Trash') included The Catcher in the Rye," the New
+Republic reported. Perhaps Salinger should have counted his blessings, since
+the eclectic Category 44 consisted of the "works of questionable writers" like
+Malcolm X, Langston Hughes, and Ogden Nash.27
+
+It is more surprising that moral objections surfaced in the pages of Ramparts,
+the brashest of the magazines to give a radical tincture to the 1960s. The
+monthly had begun under Roman Catholic auspices, however; and though Simone de
+Beauvoir's The Second Sex was deemed a work of depravity on the Index Librorum
+Prohibitorum, Salinger was accorded the same treatment as Genet, Proust,
+Joyce, and D. H. Lawrence: omission.28 But individual Catholics could still
+get incensed over The Catcher in the Rye, as the new editor of Ramparts,
+Warren Hinckle, discovered one evening. He was having a conversation with the
+new fiction editor, Helen Keating, who was married to the magazine's new
+publisher. Hinckle recalled: A great debate somehow began over the rather
+precious subject of J. D. Salinger. The setting was vaguely Inquisitional....
+They all listened attentively as [Edward] Keating, suddenly a fiery
+prosecutor, denounced Salinger for moral turpitude. Keating expressed similar
+opinions about the degeneracy of writers such as Tennessee Williams and Henry
+Miller: corruption, moral decay, the erosion of the classic values of Western
+Civilization, et cetera, ad infinitum. His special contempt for Salinger
+seemed to have something to do with the fact that he had found his oldest son
+reading a paperback book by the man.
+
+Keating became enraged enough to make "the hyperbolic assertion, which he
+later retracted, that if he were President, he would put J. D. Salinger in
+jail! I asked why. `Because he's dirty,' Ed said. I barely recalled something
+in The Catcher in the Rye about Holden Caulfield in the back seat unhooking a
+girl's bra," Hinckle recalled. Despite the lyric, "If a body catch a body," in
+fact few popular novels are so fully exempt from the leer of the sensualist;
+and even though Holden claims to be "probably the biggest sex maniac you ever
+saw," he admits it's only "in my mind" (p. 81).
+
+In any case, Hinckle was baffled by Keating's tirade and "unleashed a more
+impassioned defense of Salinger than I normally would have felt impelled to
+make of a voguish writer whose mortal sin was his Ivy League slickness." The
+chief consequence of the argument was Keating's discovery of a "bomb," by
+which he meant "a hot story. The 'bomb' which exploded in the first issue of
+Ramparts was the idea of a symposium on J. D. Salinger"-with Hinckle for the
+defense and Keating and a friend of his for the prosecution. That friend,
+Robert O. Bowen, complained in the inaugural issue in 1962 that Salinger was
+not only anti-Catholic but somehow also "pro-Jewish and proNegro." Bowen
+accused the novelist of being so subversive that he was "vehemently anti-Army"
+(though Salinger had landed on Utah Beach on D-Day), "even anti-America," a
+writer who subscribed to "the sick line transmitted by Mort Sahl" and other
+"cosmopolitan think people." Though Bowen was vague in identifying the
+sinister campaigns this impenetrably private novelist was managing to wage,
+alignments with the AntiDefamation League and "other Jewish pressure groups"
+were duly noted, and Salinger's sympathy for "Negro chauvinism" was denounced.
+"Let those of us who are Christian and who love life lay this book aside as
+the weapon of an enemy," Bowen advised.29 Such was the level of literary
+analysis at the birth of Ramparts.
+
+The Catcher in the Rye has even taken on an iconic significance precisely
+because it is reviled as well as revered. What if the Third Reich had won the
+Second World War by defeating Britain? one novelist has wondered. Set in 1964,
+Fatherland imagines a past in which Salinger is among four foreign authors
+listed as objectionable to the Greater Reich. Those writers, banned by the
+authorities, are esteemed by younger Germans "rebelling against their parents.
+Questioning the state. Listening to American radio stations. Circulating their
+crudely printed copies of proscribed books.... Chiefly, they protested against
+the war-the seemingly endless struggle against the Americanbacked Soviet
+guerrillas." But forget about a history that never happened. One of the two
+regimes that had supplanted the defeated Reich was the German Democratic
+Republic, whose censors were wary of American cultural imports. In the 1960s,
+Kurt Hager served as the leading ideologist on the Central Committee of the
+East German regime. Resisting publication of a translation of Salinger's
+novel, Hager feared that its protagonist might captivate Communist youth.
+Though a translation did eventually appear and proved popular among young
+readers in the GDR, Hager refused to give up the fight. Appropriate role
+models were "winners," he insisted, like the regime's Olympic athletes, not
+"losers" like Holden Caulfield.30
+
+Yet anti-anti-Communism could make use of the novel too. Its reputation for
+inciting censorious anxiety had become so great by 1990 that in the film
+Guilty by Suspicion, a terrified screenwriter is shown burning his books in
+his driveway a few hours after testifying before a rump session of the House
+UnAmerican Activities Committee. Shocked at this bonfire of the humanities,
+director David Merrill (Robert De Niro) categorizes what goes up in flames as
+"all good books"-though the only titles he cites are The Adventures of Tom
+Sawyer and The Catcher in the Rye. The decision of writer-director Irwin
+Winkler to include Salinger's novel, however, is historically (if not
+canonically) implausible. When the film opens in September 1951, Merrill is
+shown returning from two months in France; a hot-off-the-press copy of the
+best-seller must therefore have been rushed to him in Paris if he could
+pronounce on the merits of the book on his first evening back in Los Angeles.
+
+The attacks on The Catcher in the Rye gathered a momentum of their own and
+"show no signs of tapering off," one student of book-banning concluded in
+1979. The novel became so notorious for igniting controversy "that many
+censors freely admit they have never read it, but are relying on the
+reputation the book has garnered."31 Anne Levinson added: "Usually the
+complaints have to do with blasphemy or what people feel is irreligious. Or
+they say they find the language generally offensive or vulgar, or there is a
+sort of general `family values' kind of complaint, that the book undermines
+parental authority, that the portrayal of Holden Caulfield is not a good role
+model for teenagers." It was judged suitable for Chelsea Clinton, however. In
+1993 the First Lady gave her daughter a copy to read while vacationing on
+Martha's Vineyard. The Boston Globe used the occasion to editorialize against
+persistent censorship, since "Salinger's novel of a 1950s coming of age still
+ranks among the works most frequently challenged by parents seeking to
+sanitize their children's school reading."32
+
+Assigning Meaning to Growing Up Absurd
+
+Few American novels of the postwar era have elicited as much scholarly and
+critical attention as The Catcher in the Rye, and therefore little that is
+fresh can still be proposed about so closely analyzed a text. But the social
+context within which the novel has generated such anxiety remains open to
+interpretation, If anything new can be said about this book, its status within
+the cross-hairs of censors offers the greatest promise. What needs further
+consideration is not why this novel is so endearing but why it has inspired
+campaigns to ban it. Literary critics have tended to expose the uncanny
+artistry by which Salinger made Holden Caulfield into the loved one but have
+been far less curious about the intensity of the desire to muffle him. It is
+nevertheless possible to isolate several explanations for the power of this
+novel to affect-and disturb-readers outside of departments of English.
+
+The "culture wars" of the last third of the twentieth century are
+fundamentally debates about the 1960s. That decade marked the end of what
+historian Tom Engelhardt has labeled "victory culture," indeed the end of "the
+American Way of Life," phrased in the singular. The 1960s constituted a
+caesura in the formation of national self-definition, nor has confidence in e
+pluribus unum been entirely restored. At first glance it might seem surprising
+for The Catcher in the Rye to have contributed in some small fashion to
+fragmentation. Nevertheless such a case, however tentative, has been advanced.
+Since nothing in history is created ex nihilo, at least part of the 1960s, it
+has been argued, must have sprung from at least part of the 1950s.
+
+Literary critics Carol and Richard Ohmann, for example, concede that the young
+narrator lacks the will to try to change society. They nevertheless contend
+that his creator recorded "a serious critical mimesis of bourgeois life in the
+Eastern United States, ca. 1950-of snobbery, privilege, class injury, culture
+as a badge of superiority, sexual exploitation, education subordinated to
+status, warped social feeling, competitiveness, stunted human possibility, the
+list could go on." They praise Salinger's acuity "in imagining these hurtful
+things, though not in explaining them"-or in hinting how they might be
+corrected. The Catcher in the Rye thus "mirrors a contradiction of bourgeois
+society" and of "advanced capitalism," which promises many good things but
+frustrates their acquisition and equitable distribution. In this manner
+readers are encouraged at least to conceive of the urgent need for change,
+even if they're not able to reconfigure Holden's musings into a manual for
+enacting it.33
+
+That moment would have to await the crisis of the Vietnam War, which
+"converted Salinger's novel into a catalyst for revolt, converting anomie into
+objectified anger," John Seelye has argued. The Catcher in the Rye became "a
+threshold text to the decade of the sixties, ten years after it appeared at
+the start of the fifties, [when it was] a minority text stating a minor view."
+In the axial shift to the left that occurred in the 1960s, the sensibility of
+a prep school drop-out could be re-charged and politicized: "Catcher likewise
+supplied not only the rationale for the antiwar, anti-regimentation movements
+of the sixties and seventies but provided the anti-ideological basis for many
+of the actual novels about Vietnam."34
+
+The 1960s mavericks ("the highly sensitive, the tormented") who would brand
+social injustice as itself obscene were, according to Charles Reich, real-life
+versions of what Holden had groped toward becoming. Salinger's protagonist may
+be too young, or too rich, to bestir himself outward. But he was "a fictional
+version of the first young precursors of Consciousness III. Perhaps there was
+always a bit of Consciousness III in every teenager, but normally it quickly
+vanished. Holden sees through the established world: they are phonies and he
+is merciless in his honesty. But what was someone like Holden to do? A
+subculture of 'beats' grew up, and a beatnik world flourished briefly, but for
+most people it represented only another dead end," Reich commented. "Other
+Holdens might reject the legal profession and try teaching literature or
+writing instead, letting their hair grow a little bit longer as well. But they
+remained separated individuals, usually ones from affluent but unhappy,
+tortured family backgrounds, and their differences with society were paid for
+by isolation." In making America more green, Holden was portrayed as an avatar
+of "subterranean awareness."35
+
+Daniel Isaacson also reads the novel as seeding later revolt. The narrator of
+E. L. Doctorow's The Book of Daniel, published exactly two decades after The
+Catcher in the Rye, even echoes Holden in self-consciously repudiating
+Dickens's contribution to Con II: "Let's see, what other David Copperfield
+kind of crap" should he tell you? But the personal quickly becomes political,
+when Daniel insists that "the Trustees of Ohio State were right in 1956 when
+they canned the English instructor for assigning Catcher in the Rye to his
+freshman class. They knew there is no qualitative difference between the kid
+who thinks it's funny to fart in chapel, and Che Guevara. They knew then
+Holden Caulfield would found SDS."36
+
+Of course Daniel thinks of himself as an outcast and is eager to re-establish
+and legitimate his radical lineage, and so his assumption that the trustees
+might have been shrewd enough to foresee guerrillas in the mist must be
+treated with skepticism. But consider Tom Hayden, a founder of Students for a
+Democratic Society (and in the 1950s a parishioner of Father Charles Coughlin
+in Royal Oak, Michigan). As a teenager Hayden had considered Salinger's
+protagonist (along with novelist Jack Kerouac and actor James Dean) an
+"alternative cultural model." "The life crises they personified spawned. . .
+political activism," which some who had been adolescents in the 1950s found
+liberating. Hayden remembers being touched not only by Holden's assault on the
+"phonies" and conformists but by his "caring side," his sympathy for
+"underdogs and innocents." The very "attempt to be gentle and humane . . .
+makes Holden a loser in the 'game' of life. Unable to be the kind of man
+required by prep schools and corporations," Salinger's protagonist could find
+no exit within American society. Undefiant and confused, Holden nevertheless
+served as "the first image of middle-class youth growing up absurd," which
+Hayden would situate at the psychological center of the Port Huron
+Statement.37
+
+The dynamism inherent in youthful revolt, one historian has claimed, can best
+be defined as "a mystique . . that fused elements of Marlon Brando's role in
+The Wild One, James Dean's portrayal in Rebel without a Cause, J. D.
+Salinger's Holden Caulfield in Catcher in the Rye, the rebels of Blackboard
+Jungle, and the driving energy and aggressive sexuality of the new heroes of
+rock 'n' roll into a single image. The mystique emphasized a hunger for
+authenticity and sensitivity." But something is askew here, for Holden is too
+young to have felt the Dionysian effects of rock 'n' roll, which erupted about
+three years after he left Pencey Prep. A "sex maniac" only in his head, he
+hardly represents "aggressive sexuality" either. The Wild One, Rebel without a
+Cause, and Blackboard Jungle are "goddam movies," which Holden professes to
+hate, because "they can ruin you. I'm not kidding" (p. 136). His own tastes
+are emphatically literary, ranging from The Great Gatsby and Out of Africa to
+Thomas Hardy and Ring Lardner. Even if the bland official ethos of the 1950s
+ultimately failed to repress the rambunctious energies the popular arts were
+about to unleash, Roland Marchand understands that the "mystique" he has
+identified would not be easily radicalized. Indeed, it could be tamed.
+Conservative consolidation was a more predictable outcome: "If the problems of
+a society are embedded in its social structure and are insulated from change
+by layers of ideological tradition, popular culture is an unlikely source of
+remedy. It is far more likely to serve needs for diversion and transitory
+compensation . . . [and] solace."38 Such dynamism could not be politicized.
+
+The deeper flaw with interpreting The Catcher in the Rye as a harbinger of
+revolt is the aura of passivity that pervades the novel. Alienation does not
+always lead to, and can remain the antonym of, action. Salinger's own
+sensibility was definitively pre- (or anti-) Sixties. His "conviction that our
+inner lives greatly matter," John Updike observed in 1961, "peculiarly
+qualifies him to sing of an America, where, for most of us, there seems little
+to do but to feel. Introversion, perhaps, has been forced upon history" rather
+than the other way around. Therefore "an age of nuance, of ambiguous gestures
+and psychological jockeying" could account for the popularity of Salinger's
+work.39
+
+Describing Holden as "a misfit in society because he refuses to adjust" and
+because he lacks the self-discipline to cultivate privacy, one young literary
+critic of the fifties was struck by "the quixotic futility" of the
+protagonist's "outrage" at all the planet's obscenities, by his isolation.
+Holden seems to have sat for psychologist Kenneth Keniston's portrait of
+uncommitted youth: those who have the most to live for but find no one to look
+up to; those who are the most economically and socially advantaged but feel
+the deepest pangs of alienation.40 Jack Newfield ('60) was a charter member of
+SDS but remembers Hunter College as mired in an apathy "no public question
+seemed to touch." His fellow students "were bereft of passions, of dreams, of
+gods. . . . And their Zeitgeist-J. D. Salinger-stood for a total withdrawal
+from reality into the womb of childhood, innocence, and mystical Zen."
+Holden's creator, evidently, had captured the spirit of the Silent
+Generation.41
+
+It may not be accidental that David Riesman, whose most famous book was a
+veritable touchstone of social analysis in the era, assigned The Catcher in
+the Rye in his Harvard sociology course on Character and Social Structure in
+the United States. He did so "perhaps," a Time reporter speculated, "because
+every campus has its lonely crowd of imitation Holdens." Indeed, Holden
+demonstrates the characteristics of anomie, which is associated with
+"ruleless" and "ungoverned" conduct, that Riesman had described in The Lonely
+Crowd; the anomic are "virtually synonymous with [the] maladjusted." Though
+Salinger's narrator does not quite exhibit "the lack of emotion and emptiness
+of expression" by which "the ambulatory patients of modern culture" can be
+recognized, he does display a "vehement hatred of institutional confines" that
+was bound to make his peers (if not his psychoanalyst) uneasy.42 One reviewer,
+in true Fifties fashion, even blamed Holden himself for his loneliness,
+"because he has shut himself away from the normal activities of boyhood,
+games, the outdoors, friendship."43 It is true that Holden hates schools like
+Pencey Prep, where "you have to keep making believe you give a damn if the
+football team loses, and all you do is talk about girls and liquor and sex all
+day, and everybody sticks together in these dirty little goddam cliques" (p.
+170). But Holden remains confined to his era, unable to connect the dots from
+those cliques to a larger society that might merit some rearrangement. Nor
+does the novel expand the reader's horizons beyond those of the narrator; it
+does not get from pathos to indignation.
+
+For The Catcher in the Rye is utterly apolitical-unlike its only rival in
+arousing the ire of conservative parents. Steinbeck's fiction directs the
+attention of susceptible young readers to exploitation of the weak and the
+abuse of power. But a serious critique of capitalism would not be found in
+Salinger's text even if a full field investigation were ordered. Certainly
+Holden's fantasy of secluding himself in a cabin in the woods is scarcely a
+prescription for social activism: "I'd pretend I was one of those deaf-mutes.
+That way I wouldn't have to have any goddam stupid useless conversations with
+anybody. If anybody wanted to tell me something, they'd have to write it on a
+piece of paper and shove it over to me. They'd get bored as hell doing that
+after a while, and then I'd be through with having conversations for the rest
+of my life" (pp. 257-58). Such passages will hardly alarm those wishing to
+repudiate or erase the 1960s, which is why The Catcher in the Rye does not
+belong to the history of dissidence.
+
+Growing Up Absurd (1960) sports a title and a perspective that Holden might
+have appreciated, but Paul Goodman does not mention the novel. Published at
+the end of the tumultuous, unpredictable decade, Theodore Roszak's The Making
+of a Counter Culture (which Newsweek dubbed "the best guide yet published to
+the meaning. . . of youthful dissent") likewise fails to mention Salinger,
+though Holden certainly personifies (or anticipates) "the ethos of
+disaffiliation that is fiercely obnoxious to the adult society." In 1962 the
+editor of a collection of critical essays on Salinger-the future editor-in-
+chief of Time-found American campuses innocent of activism: "`Student riots'
+are a familiar and significant factor in European politics. The phenomenon has
+no equivalent in the United States."44 That generalization would soon be
+falsified. But it should be noted that authors who have fathomed how the 1950s
+became the 1960s (like Morris Dickstein, Fred Inglis, Maurice Isserman, James
+Miller) ignore the impact of Salinger's novel.
+
+Because any reading of the novel as a prefiguration of the 1960s is ultimately
+so unpersuasive, an over-reaction has set in. Alan Nadel, for example, has
+fashioned Holden into a Cold Warrior, junior division. "Donning his red
+hunting hat, he attempts to become the good Red-hunter, ferreting out the
+phonies and the subversives, but in so doing he emulates the bad Red-hunters,"
+Nadel has written. "Uncovering duplicity was the theme of the day," he adds,
+so that "in thinking constantly about who or what was phony, Caulfield was
+doing no more than following the instructions of J. Edgar Hoover, the
+California Board of Regents, The Nation [sic], the Smith Act, and the
+Hollywood Ten.... Each citizen was potentially both the threat and the
+threatened." After all, hadn't Gary Cooper, testifying before HUAC, defined
+Communism as something that was not "on the level"? Nadel equates Caulfield's
+"disdain for Hollywood" with HUAC's, nor could the young prostitute's mention
+of Melvyn Douglas have been accidental-since Congressman Richard Nixon had run
+against Helen Gahagan Douglas, and her husband was himself "a prominent
+Hollywood liberal." Nadel concludes that "the solution to Caulfield's dilemma
+becomes renouncing speech itself." Having named names, he realizes: "I sort of
+miss everybody I told about.... It's funny. Don't ever tell anybody anything,"
+he advises; that is, don't be an informer. "If you do, you start missing
+everybody" (pp. 276-77). The narrator "spoke for the cold war HUAC witness,"
+Nadel argued, "expressing existential angst over the nature and meaning of his
+`testimony."'45 Such an interpretation is far-fetched: Holden is no more
+interested in politics than his creator, and he's considerably less interested
+in sanctioning conformity than were the Red-hunters.
+
+Citizens who abhor the 1960s commonly deplore one of its most prominent
+legacies: the fragmentation into "identity politics," the loss of civic
+cohesion. Those worrying over this sin also will not find it in Salinger's
+book, which promotes no class consciousness, racial consciousness, or ethnic
+consciousness of any sort. Sol Salinger had strayed so far from Judaism that
+he became an importer of hams and cheeses;46 and his son left no recognizably
+Jewish imprint on his fiction. Nor does his novel evoke the special plight of
+young women and girls. That omission would be rectified about two generations
+later, when Eve Horowitz's first novel appeared. Her young narrator and
+protagonist is not only female but emphatically Jewish, and she longs to meet
+her own Holden Caulfield. Jane Singer recalls: "I hadn't known any males who
+were as depressed as I was in high school, except for maybe Holden Caulfield,
+and I didn't really know him." As she's packing to leave Cleveland for Oberlin
+College, she muses, "besides clothes and shampoo and The Catcher in the Rye, I
+couldn't think of anything else to bring."47 In her account of growing up
+female, Horowitz may have wanted to correct the imbalance David Riesman
+identified in 1961, when, attempting to explain the United States to a
+Japanese audience, he had commented on the inscrutable popularity of
+Salinger's novel: "Boys are frustrated because they aren't cowboys, and girls
+are frustrated because they aren't boys." The sociologist noted that "women
+have been the audience for American fiction and for movies. There are no
+girls' stories comparable to Catcher in the Rye. Yet girls can adapt
+themselves and identify with such a book, while a boy can't so easily identify
+with a girl."48 In the literary marketplace, Riesman speculated, readers
+aren't turned off or away if the central characters are male but only if they
+are female. How many Boy Scouts and Explorer Scouts have been moved by reading
+The Bell Jar?
+
+The Curse of Culture
+
+Another way to understand the power of Salinger's novel to generate
+controversy is to recognize its vulnerability to moralistic criticism. From
+wherever the source-call it Puritanism, or puritanism, or Victorianism-there
+persists a tradition of imposing religious standards upon art or of rejecting
+works of the imagination because they violate conventional ethical codes.
+According to this legacy, books are neither good nor bad without "for you"
+being added as a criterion of judgment. This entwining of the aesthetic and
+the moralistic was obvious as prize committees struggled with the terms of
+Joseph Pulitzer's instructions that the novels to be honored in his name
+"shall best present the whole atmosphere of American life." But until 1927,
+the novels selected more accurately conveyed "the wholesome atmosphere of
+American life."49 That eliminated Dreiser. Had the subtle revision of
+Pulitzer's own intentions not been overturned, virtually all great writers
+would have been categorically excluded. Nabokov comes quickly to mind. His
+most famous novel was given to the good family man Adolf Eichmann, then
+imprisoned in Israel, but was returned after two days with an indignant
+rejection: "Das ist aber ein sehr unerfreuliches Buch"-quite an unwholesome
+book. Lolita is narrated from the viewpoint of an adult, a pervert whose
+ornate vocabulary made the novel unintelligible to young readers, and so
+censors passed it by to target The Catcher in the Rye. It is a measure of
+Salinger's stature among other writers that, though famously dismissive of
+many literary giants, Nabokov wrote privately of his fellow New Yorker
+contributor: "I do admire him very much."50
+
+But the reviewer for The Christian Science Monitor did not: The Catcher in the
+Rye "is not fit for children to read"; its central character is "preposterous,
+profane, and pathetic beyond belief." Too many young readers might even want
+to emulate Holden, "as too easily happens when immorality and perversion are
+recounted by writers of talent whose work is countenanced in the name of art
+or good intention."51 Here was an early sign of trouble. Nor was
+respectability enhanced by the novel's first appearance in paperback, for it
+was offered as pulp fiction, a genre that beckoned with promises of illicit
+pleasure. The common 1950s practice of issuing serious books in pulp meant
+that "dozens of classic novels appeared in packages that were cartoonish,
+sordid or merely absurd." The aim of such marketing, Julie Lasky has
+suggested, was to grab "the attention of impulse shoppers in drugstores and
+bus depots; slogans jammed across the four-inch width of paperbound covers
+compressed the nuances of prizewinning authors into exaggerated come-ons." The
+1953 paperback edition of Salinger's novel, for example, assured buyers that
+"this unusual book may shock you . . . but you will never forget it." The
+illustration on the cover depicted a prostitute standing near Holden and may
+have served as the only means by which some citizens judged the book. The
+cover so offended the author that it contributed to his move to Bantam when
+his contract with Signet expired. By then, the pulping of classics had largely
+ended in the wake of hearings by the House of Representatives Select Committee
+on Current Pornographic Materials. But the availability of such cheap editions
+of books ranging from the serious to the lurid drew the curiosity of censors
+as well as bargain-hunters. The vulnerability of Salinger's novel testified to
+the aptness of Walter Lippmann's generalization that censorship "is actually
+applied in proportion to the vividness, the directness, and the
+intelligibility of the medium which circulates the subversive idea." Movie
+screens, he wrote in 1927, therefore tend to be more censored than the stage,
+which is more censored than newspapers and magazines. But "the novel is even
+freer than the press today because it is an even denser medium of
+expression."52 At least that was the case until the paperback revolution
+facilitated the expansion of the syllabus.
+
+Of course, the paperback revolution was not the only cultural shift affecting
+the reception of the novel. The career of The Catcher in the Rye is virtually
+synchronous with the Cold War, and Holden Caulfield takes a stand of sorts: he
+calls himself "a pacifist" (p. 59). For men slightly older than Holden in
+1949-50, military conscription was more or less universal, yet he predicts
+that "it'd drive me crazy if I had to be in the Army. . . . I swear if there's
+ever another war, they better just take me out and stick me in front of a
+firing squad. I wouldn't object." Indeed he goes further: "I'm sort of glad
+they've got the atomic bomb invented. If there's ever another war, I'm going
+to sit right the hell on top of it. I'll volunteer for it, I swear to God I
+will" (pp. 182, 183). Barely a decade later, Stanley Kubrick's pitch-black
+comedy Dr. Strangelove (1964) would confront nuclear terror by showing Major
+"King" Kong (Slim Pickens) doing precisely what Holden vows he will step
+forward to do. With such images in mind, one interpreter has thus boldly
+claimed that "the fear of nuclear holocaust, not the fear of four-letter
+words[,]" sparked controversy about The Catcher in the Rye.53
+
+Salinger's novel may thus also be about history veering out of control, about
+the abyss into which parents could no longer prevent their offspring from
+staring, about the impotence to which a can-do people was unaccustomed. "The
+lack of faith in the American character expressed in the Catcher
+controversies," Professor Pamela Steinle has argued, "is rooted not in doubts
+about the strength of adolescent Americans' character but in recognition of
+the powerlessness of American adults-as parents, professionals and community
+leaders-to provide a genuine sense of the future for the adolescents in their
+charge." According to Steinle, the novel indicts "adult apathy and complicity
+in the construction of a social reality in which the American character cannot
+develop in any meaningful sense beyond adolescence." Nor does the novel
+warrant any hope that the condition can be remedied. The story is, after all,
+told from a sanitarium in California-a grim terminus given the common belief
+that the West offers a second chance. No wonder, then, that John Seelye, who
+ended his own revised version of The Adventures of Huckleberry Finn with
+Huck's bleakest pessimism ("I didn't much care if the goddamn sun never come
+up again"), could read Salinger's book "as a lengthy suicide note with a blank
+space at the end to sign your name."54
+
+The advantage of Steinle's argument is that she situates the controversy over
+The Catcher in the Rye where it actually took place, which is less in the
+pages of Ramparts than at school board meetings. In such settings, the novel
+was branded by parents as a threat to their control and heralded by teachers
+as a measure of their professional autonomy and authority. But the
+disadvantage of Steinle's view is the scarcity of direct evidence that nuclear
+fears fueled the debate. Neither those who condemned The Catcher in the Rye
+nor its defenders made the specter of atomic catastrophe pivotal. Neither the
+moral nor the literary disputes were ventilated in such terms. Compared to
+Holden's far more pronounced resistance to maturation, compared to more
+immediate targets of his scorn, the Bomb hardly registered as a concern among
+objections to the novel.
+
+But if "the essence of censorship," according to Lippmann, is "not to suppress
+subversive ideas as such, but to withhold them from those who are young or
+unprivileged or otherwise undependable,"55 then Steinle's emphasis upon
+parental assertion of authority is not misplaced. In a more class-conscious
+society, the Old Bailey prosecutor of the publisher of Lady Chatterley's Lover
+could ask in his opening address to the jury, in 1960: "Is it a book that you
+would even wish your wife or your servants to read?"56 But in the United
+States, overt conflicts are more likely to take generational form; and the
+first of Lippmann's categories deserves to be highlighted. Some of the books
+that have aroused the greatest ire place children at the center, like Richard
+Wright's Black Boy, Anne Frank's Diary of a Young Girl, and of course The
+Adventures of Huckleberry Finn; and despite the aura of "cuteness" hovering
+over Salinger's work, it emitted danger by striking at the most vulnerable
+spot in the hearts of parents. Nor could it have escaped the attention of
+alert readers that Holden's emotional affiliations are horizontal rather than
+vertical. His father, a corporate lawyer, is absent from the scene; and his
+mother is present only as a voice speaking from a dark room. The only relative
+whom the reader meets is Phoebe, the younger sister (and a mini-Holden).57
+
+The contributor's note Salinger submitted to Harper's in 1946 was his credo:
+"I almost always write about very young people";58 and the directness with
+which he spoke to them had much to do with his appeal-and with the anxiety
+that his literary intervention provoked in the internecine battle between
+generations. The effectiveness of his empathy posed a challenge to parents who
+invoked their right to be custodians of the curriculum, and the "legions of
+decency" may have sensed "a unique seductive power" which Salinger's
+biographer claims The Catcher in the Rye exudes. Even if the less sensitive or
+eccentric of its young readers might not try to assume Holden's persona, at
+least teenagers could imitate his lingo. A book that elicits such proprietary
+interest-succeeding cohorts believing in a special access to Salinger's
+meaning-was bound to arouse some suspicion that conventional authority was
+being outflanked.59 Salinger's adroit fidelity to the feelings and experiences
+of his protagonist was what made the novel so tempting a target. Perhaps The
+Catcher in the Rye has been banned precisely because it is so cherished;
+because it is so easily loved, some citizens love to hate it.
+
+Steinle has closely examined the local controversies that erupted over the
+book in Alabama, Virginia, New Mexico, and California as well as the debates
+conducted in such publications as the PTA Magazine and the Newsletter on
+Intellectual Freedom of the American Library Association. She discovered a
+"division . . . over whether to prepare adolescents for or to protect them
+from adult disillusionment. . . . In the postwar period . . . recognition of
+the increasing dissonance between American ideals and the realities of social
+experience has become unavoidable, and it is precisely this cultural
+dissonance that is highlighted by Salinger's novel."60 Its literary value got
+lost in the assertion of family values, in a campaign that must be classified
+as reactionary. "They say it describes reality," a parent in Boron,
+California, announced. "I say let's back up from reality. Let's go backwards.
+Let's go back to when we didn't have an immoral society."61 When so idyllic a
+state existed was not specified, but what is evident is the element of anti-
+intellectualism that the struggle against permissiveness entailed. Here some
+of the parents were joined by Leonard Hall, the school superintendent of Bay
+County, Florida, who warned in 1987 against assigning books that were not
+state-approved because, he sagely opined, reading "is where you get ideas
+from."62
+
+Attempts at vindication were occasionally made on the same playing field that
+censors themselves chose. Though Holden labels himself "sort of an atheist"
+(p. 130), he could be praised as a saint, if admittedly a picaresque one. One
+educator discerned in the protagonist a diamond in the rough: "He befriends
+the friendless. He respects those who are humble, loyal, and kind. He
+demonstrates a strong love for his family" (or for Phoebe anyway). Besides
+enacting such New Testament teachings, "he abhors hypocrisy. He values sex
+that comes from caring for another person and rejects its sordidness. And,
+finally, he wants to be a responsible member of society, to guide and protect
+those younger than he."63 But a character witness is not the same as a
+literary critic, and such conflation seems to have gained little traction when
+the right of English teachers to make up reading lists was contested. If
+Holden's defense rested on a sanitized version of his character, then the
+implication was that assigned books with less morally meritorious protagonists
+might be subject to parental veto. Such a defense also assumed that
+disgruntled parents were themselves exegetes who had simply misread a text,
+that community conflicts could be resolved by more subtle interpretations.
+There is no reason to believe, however, that the towns where the novel was
+banned or challenged overlapped with maps of misreading. But such communities
+were places where parents tried to gain control of the curriculum, which is
+why The Catcher in the Rye would still have been proscribed even had it been
+re-read as a book of virtues.
+
+For the objections that were most frequently raised were directed at the
+novelist's apparent desire to capture profuse adolescent profanity in the
+worst way. In the Catholic World, reviewer Riley Hughes disliked the
+narrator's "excessive use of amateur swearing and coarse language," which made
+his character simply "monotonous."64 According to one angry parent's
+tabulation, 237 instances of "goddamn," 58 uses of the synonym for a person of
+illegitimate birth, 31 "Chrissakes," and one incident of flatulence
+constituted what was wrong with Salinger's book. Though blasphemy is not a
+crime, The Catcher in the Rye "uses the Lord's name in vain two hundred
+times," an opponent in Boron asserted-"enough [times] to ban it right
+there."65 The statistics are admittedly not consistent. But it is
+incontestable that the text contains six examples of "fuck" or "fuck you,"
+though here Holden is actually allied with the censorious parents, since he
+does not swear with this four-letter word himself but instead tries to efface
+it from walls. He's indignant that children should be subjected to such
+graffiti. Upon seeing the word even in the Egyptian tomb room at the
+Metropolitan Museum of Art, however, Holden achieves a melancholy and mature
+insight that such offenses to dignity cannot really be expunged from the
+world: "You can't ever find a place that's nice and peaceful, because there
+isn't any" (p. 264).66
+
+What happened to The Catcher in the Rye wasn't always nice and peaceful
+because it took a linguistic turn. Though historians are fond of defining
+virtually every era as one of transition, it does make sense to locate the
+publication of Salinger's novel on the cusp of change. The novel benefited
+from the loosening of tongues that the Second World War sanctioned, yet the
+profanity in which Holden indulges still looked conspicuous before the 1960s.
+Salinger thus helped to accelerate the trend toward greater freedom for
+writers but found himself the target of those offended by the adolescent
+vernacular still rarely enough recorded in print. During the Second World War,
+the Production Code had been slightly relaxed for We Are the Marines. This
+1943 March of Time documentary was permitted to use mild expletives like
+"damn" "under stress of battle conditions." Professor Thomas Doherty adds
+that, "in the most ridiculed example of the Code's tender ears, Noel Coward's
+In Which We Serve (1942), a British import, was held up from American release
+for seventeen words: ten 'damns,' two 'hells,' two 'Gods,' two 'bastards,' and
+one 'lousy."'
+
+Only three years before publication of Salinger's novel, homophonic language
+was inserted into Norman Mailer's The Naked and the Dead at the suggestion of
+his cousin, Charles Rembar. A crackerjack First Amendment attorney who would
+later represent such clients as Fanny Hill and Constance Chatterley, Rembar
+proposed the substitution of fug (as in "Fug you. Fug the goddam gun") partly
+because the president of the house publishing the novel feared his own
+mother's reaction. The U.S. Information Agency was nevertheless unpersuaded
+and banned Mailer's book from its overseas libraries. As late as 1952, the
+revised edition of Webster's Unabridged offered a simple but opaque definition
+of masturbation as "onanism; selfpollution."67 The next year President
+Eisenhower delivered a celebrated plea at Dartmouth College: "Don't join the
+bookburners.... Don't be afraid to go into your library and read every book."
+His amendment is less cited-"as long as that document does not offend our own
+ideas of decency." Though the war in which Mailer and Salinger fought allowed
+some indecorous terms to go public, the 1960 Presidential debates included the
+spectacle of Nixon seeking to trump another ex-sailor by promising the
+electorate-after Harry Truman's salty lapsesto continue Ike's restoration of
+"decency and, frankly, good language" in the White House.68
+
+In this particular war of words, Salinger was conscripted into a cause for
+which he was no more suited than any other. If he was affiliated with any
+institution at all, it was the New Yorker, which initially published most of
+his Nine Stories as well as the substance of his two subsequent books. In that
+magazine even the mildest profanity was strictly forbidden, and editorial
+prudishness would have spiked publication of excerpts from the final version
+of what became his most admired work. It may be plausible, as one scholar
+circling the text has noted, that "the radical nature of Salinger's portrayal
+of disappointment with American society, so much like Twain's in Huck Finn,
+was probably as much of the reason that Catcher (like Huck) was banned from
+schools and colleges as were the few curse words around which the battle was
+publicly fought."69 But such ideological objections to Salinger's novel were
+rarely raised, much less articulated with any cogency; and therefore no
+historian of the reception of this book should minimize the salience of those
+"few curse words."
+
+Could The Catcher in the Rye have avoided the turbulent pool into which it was
+so often sucked? Could the novel have been rescued from primitive detractors
+and retained an even more secure status in the public school curriculum? One
+compromise was never c
+

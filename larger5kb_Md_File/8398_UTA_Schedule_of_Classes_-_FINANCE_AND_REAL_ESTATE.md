@@ -1,0 +1,163 @@
+![](http://www-ais2.uta.edu/sched/images/clearpixel.gif)  
+---  
+![](http://www-ais2.uta.edu/sched/images/clearpixel.gif) |  |
+![UTA.](http://www-ais2.uta.edu/sched/images/logo.gif) | ![The University of
+Texas at Arlington.](http://www-ais2.uta.edu/sched/images/university.gif) |
+![](http://www-ais2.uta.edu/sched/images/clearpixel.gif) | ![Student Data
+Online](http://www-ais2.uta.edu/sched/images/sco.gif)  
+---|---|---|---  
+![](http://www-ais2.uta.edu/sched/images/clearpixel.gif)  
+![](http://www-ais2.uta.edu/sched/images/clearpixel.gif)  
+  
+**First Summer Semester 2002**  
+**FINANCE AND REAL ESTATE**  
+  
+[Return to Menu](http://www-ais2.uta.edu/sched//sum1kb/index.htm)  
+---  
+|  
+---|---  
+[Schedule of Classes Main Menu](http://www-ais2.uta.edu/sched/index.htm) |
+[UTA Undergraduate Catalog](http://www.uta.edu/catalog/)  
+[Tips on using the Online Schedule of Classes](http://www-
+ais2.uta.edu/sched/schedtips.htm) | [UTA Graduate
+Catalog](http://orgs.uta.edu/Gradcat2002/GradCat2002.htm)  
+[Final Exams](http://www-ais2.uta.edu/testsched/) | [Course
+Descriptions](http://www-ais2.uta.edu/sched/shortcut.htm)  
+[Telephone Registration via SAM](http://www-ais2.uta.edu/sam/index.shtml) |
+[Academic Calendars](http://www.uta.edu/uta/acadcal.html)  
+[Student Data Online (Web
+Registration)](https://bcs.uta.edu/StudentData/SLLogin.jsp) | [Bacterial
+Meningitis
+Information](http://bcs.uta.edu/StudentData/MeningitisInfo.jsp?webschedule)  
+  
+* * *  
+  
+  
+This page was generated on Friday Aug 23, 2002 at 10:10pm. These pages are
+regenerated with updated information every 24 hours. If this page is more than
+24 hours old you should force your browser to reload a new page by pressing
+the reload button (Netscape) or refresh button (Internet Explorer).  
+  
+**Syllabus Info!**  
+If syllabus information is available for a section, the section number will
+appear as a selectable link.  
+  
+  
+---  
+      
+    
+      
+    **FINA 3313   BUS FINANCE**
+      
+    **COBA MULTI MEDIA EQUIPMENT FEE	   $3.00**
+      
+     031 5wk   36125 MTWR    800-1000am      241 B   Aroskar         67 of 72 seats taken  
+      
+    531 11wk  30520 TR      530-750pm       239 B   Sarkar          61 of 72 seats taken  
+      
+    532 11wk  30234 MW      530-750pm       319 PKH Wood            51 of 72 seats taken  
+      
+        SECTION 531 AND 532 MEETS FOR 8 WEEKS
+      
+    **FINA 3315   INVESTMENTS**
+      
+    **COBA MULTI MEDIA EQUIPMENT FEE	   $3.00**
+      
+     531 11wk  32547 MW      530-750pm       254 B   Sarkar          12 of 54 seats taken  
+      
+        THIS COURSE MEETS FOR 8 WEEKS
+      
+    **FINA 3317   FIN INST & MKTS                      **
+      
+    **COBA MULTI MEDIA EQUIPMENT FEE	   $3.00**
+      
+     031 5wk   34945 MTWR    1030-1230pm     140 B   Apilado         31 of 40 seats taken  
+      
+    531 11wk  30055 TR      800-1020pm      151 B   Lin             46 of 55 seats taken  
+      
+        THIS COURSE MEETS FOR 8 WEEKS
+      
+    **FINA 4320   CAPITAL BUDGET**
+      
+    **COBA MULTI MEDIA EQUIPMENT FEE	   $3.00**
+      
+    [031](http://bcs.uta.edu/Syllabus/SYNonMod.jsp?yyyys=20023&subj=FINA&subnr=4320&sec=031) 5wk   32496 MTWR    800-1000am      138 B   Thompson        19 of 40 seats taken  
+      
+    **FINA 4324   INTERNATL CORP**
+      
+    **COBA MULTI MEDIA EQUIPMENT FEE	   $3.00**
+      
+     531 11wk  36303 MW      530-750pm       141 B   Lin             33 of 40 seats taken  
+      
+        THIS COURSE MEETS FOR 8 WEEKS
+      
+    **FINA 5311   BUS FIN MGT**
+      
+    **COBA MULTI MEDIA EQUIPMENT FEE	   $3.00**
+      
+     531 11wk  32014 MW      800-1020pm      140 B   Diltz           27 of 40 seats taken  
+      
+        THIS COURSE MEETS FOR 8 WEEKS
+      
+    532 11wk  38033 MW      530-820pm       UCD OFF Forgey          17 of 25 seats taken  
+      
+        $45.00 additional fee for section listed above
+      
+        SECTION 532 IS TAUGHT AT THE
+      
+        UNIVERSITIES CENTER AT DALLAS.
+      
+    **FINA 5315   HEALTHCARE FIN**
+      
+    **COBA MULTI MEDIA EQUIPMENT FEE	   $3.00**
+      
+     571 11wk  37624 TR      600-950pm       125 ARRI Philpot         44 of 64 seats taken  
+      
+        SECTION 571 IS FOR HCAD COHORT STUDENTS
+      
+        PART 2 AND IS TAUGHT AT RIVERBEND.
+      
+    **FINA 5323   INVESTMENTS**
+      
+    **COBA MULTI MEDIA EQUIPMENT FEE	   $3.00**
+      
+     531 11wk  30024 TR      530-750pm       114 PKH Forgey          18 of 40 seats taken  
+      
+        THIS COURSE MEETS FOR 8 WEEKS
+      
+    **FINA 5329   PORT AND SEC AN**
+      
+    **COBA MULTI MEDIA EQUIPMENT FEE	   $3.00**
+      
+     531 11wk  30028 TR      800-1020pm      138 B   Hansz           15 of 40 seats taken  
+      
+        THIS COURSE MEETS FOR 8 WEEKS
+      
+    **FINA 5382   INDEPENDENT STD**
+      
+    **COBA MULTI MEDIA EQUIPMENT FEE	   $3.00**
+      
+     563 11wk  33295 TBA                          Diltz                                 
+      
+    **FINA 6314   ADV RES FIN II**
+      
+    **COBA MULTI MEDIA EQUIPMENT FEE	   $3.00**
+      
+     031 5wk   35411 F       100-550pm       138 B   Lockwood        6 of 15 seats taken   
+      
+    **FINA 6390   EMP RES FINANCE**
+      
+    **COBA MULTI MEDIA EQUIPMENT FEE	   $3.00**
+      
+     531 11wk  33900 MW      100-320pm       138 B   Diltz           5 of 10 seats taken   
+      
+        THIS COURSE MEETS FOR 8 WEEKS
+      
+      
+    
+      
+    _Questions? - click[here](http://www-ais2.uta.edu/sched/quest2.htm)_
+      
+  
+---
+

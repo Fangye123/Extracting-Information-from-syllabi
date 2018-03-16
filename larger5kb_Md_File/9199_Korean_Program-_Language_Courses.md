@@ -1,0 +1,209 @@
+**[AALL](http://www.duke.edu/web/aall/index.html) \-
+[Korean](http://www.duke.edu/web/aall/korean/) \- [Courses
+](http://www.duke.edu/web/aall/korean/courses/)\- Language Program**  
+    
+    
+  
+
+**The Korean Language Program**  
+[** ** Self-
+Placement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#top)
+
+  
+KOR 001      KOR 002  
+KOR 063       KOR 064  
+KOR 125       KOR126  
+KOR 183        KOR 184  
+---  
+**Overview**
+
+![](../images/webcover.jpg) The Duke Korean program is developed on the basis
+of the instructional model that emphasizes communication and content learning
+as effective means to acquire language, while it also aims to work on
+developing students' awareness of some crucial linguistic characteristics of
+Korean. From the beginning, you will practice your new language by conversing
+about basic information and simulating typical daily transactions. In the
+intermediate course, you will develop interpretive and expressive abilities
+through the discussion of readings and the processes of writing experiential
+texts. You will read traditional folk tales and shorts texts about pre-modern
+Korea. The third year course gives you an opportunity to learn more about
+modern and contemporary Korea as well as to expand your language ability. You
+will read, research and discuss about the turbulent transitions in Korean
+history; from monarchy to democracy, from agricultural to modern industrial
+society.
+
+We accommodate students coming from various backgrounds and experience levels.
+Students with prior learning experience at home and in college are encouraged
+to get a jump start with the second year course, thereby achieving a higher
+level of language ability. The first year course is designed to allow absolute
+beginners to receive appropriately paced instruction in basic language use and
+foundational grammar.  
+  
+**KOR 001 Elementary Korean-I  **  
+[syllabus](http://www.duke.edu/~haeyoung/KOR001.html) [Self-Pl
+acement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#001)
+
+This course is for students who have no prior knowledge of Korean or have
+minimal proficiency in Korean. The course focuses on:
+
+                    1.developing oral and aural proficiency for survival   
+                      communication;    
+                    2.mastery of the Korean writing system for rudimentary reading   
+                      and writing;    
+                    3.learning foundational grammar for simple sentence building. 
+
+Class sessions utilize oral communication practices through information gap
+activities, role plays, and listening comprehension exercises. Outside class,
+students complete worksheets to review new materials and to practice reading
+and writing in Hangul (Korean script).
+
+**back to top**  
+**KOR 002 Elementary Korean-II  **  
+syllabus  [Self-Pl
+acement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#002)
+
+This course is the continuation of 001. It can also be taken by students who
+have some basic prior knowledge of Korean and can write and speak in simple
+sentences.The course focuses on:
+
+                    1.attaining oral and aural fluency to function in daily communication   
+                       situations;    
+                    2.developing reading and writing skills for functional literacy;    
+                    3.learning foundational grammar for complex sentence building. 
+
+Class sessions are devoted to learning new structures and doing listening
+comprehension and interactive activities to practice the new structures in
+communicative contexts. For readings, authentic but accessible texts such as
+Aesop's fables in Korean translation are used. Assignments to be done outside
+class include composition of paragraph-length writing as well as grammar
+exercises.
+
+**back to top**  
+**KOR 063 Intermediate Korean I  **  
+[syllabus](http://www.duke.edu/~haeyoung/KOR063.html) [Self-Pl
+acement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#063)
+
+This course is the continuation of KOR 001/002 sequence. It can also be taken
+by students entering with knowledge of the Korean writing system and oral
+profiency to take part in typical daily interactions. The course focuses on
+developing and enriching literacy skills in Korean, especially abilities for:
+
+                    1.reading narrative and descriptive texts;    
+                    2.writing narrative and descriptive texts of one-to-two page lengths;    
+                    3.conversing fluently and appropriately on everyday topics in   
+                       different situations;    
+                    4.gaining analytical knowledge of the structure of the Korean   
+                       language. 
+
+The course draws on various narrative texts as well as descriptions of
+traditional Korean games, newspaper headlines and captions, songs and TV
+commercials for integrated practices of reading, writing, speaking and
+listening skills. Students will develop their expressive abilities through the
+process of writing--drafting, revising, and editing. More controlled but fun
+exercises are also provided to develop students' control of grammar.
+
+**back to top**  
+**KOR 064 Intermediate Korean II**  
+syllabus  [Self-
+Placement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#064)
+
+This cours e is the continuation of KOR 063, and focuses on improving skills
+for:
+
+                    1.reading expository texts and extended narratives;    
+                    2.writing descriptive and informative texts;    
+                    3.verbal communication on a range of topics;    
+                    4.expanding analytical knowledge of the structure of the Korean   
+                      language. 
+
+In addition to integrated practices of comprehension and production skills,
+the course provides opppotunity to learn about Korean history upto the modern
+times. Readings are selected from books written for middle school Korean
+students about historical figures, and lecturettes are given about the life
+and custom of pre-modern periods. Students will continue to write on assigned
+topics to expand their expressive abilities. Some class time will be devoted
+to working on students' control of grammar.
+
+**back to top**  
+**KOR 125 Advanced Korean I**  
+[syllabus](http://www.duke.edu/~haeyoung/KOR125.html) [Self-Pl
+acement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#125)
+
+This course is the continuation of the intermediate Korean sequence (KOR
+063/064). It can also be taken by students entering with sufficient
+proficiency in spoken and written Korean. The goal of the course is to develop
+skills in these areas:
+
+                    1.reading authentic texts written for mature audiences;    
+                    2.writing expository or argumentative essays;    
+                    3.participating in public discourse;    
+                    4.communicating with greater accuracy and grammatical complexity. 
+
+Readings are selected from magazinss, newspapers and books on topics ranging
+from food to education to gender issues. Students are encouraged to engage in
+interpretive and critical reading of the texts. They write and give oral
+presentations on topics or issues  
+related to the readings. Part of class meetings is spent on practicing chosen
+parts of the grammar book.
+
+**back to top**  
+**KOR 126 Advanced Korean II**  
+syllabus  [Self-Pl
+acement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#126)
+
+This course is also a continuation of the intermediate Korean sequence (KOR
+063/064). It can be taken without taking KOR 125  with a permission from the
+instructor. The course will focus on:
+
+                    1.advancing reading and writing skills;    
+                    2.learning the social and historical background necessary to   
+                       understand contemporary Korean;    
+                    3.learning basic Chinese characters and developing knowledge of   
+                       Sino-Korean vocabulary. 
+
+Major readings include two Pansori novels from classic Korean folk literature:
+"Shimchung," on parent-child relationship, and "Choonhyang" on romantic love.
+Readings and discussion of Korean history concern the colonial period under
+the Japanese rule, and the industrialization and democratization of the modern
+Korean nation. Some basic Chinese characters are taught to help students
+construct a conceptual basis of Sino-Korean vocabulary that constitutes 70% of
+Korean vocabulary.
+
+**back to top**  
+**KOR 183 Topics in Korean I**  
+subject to funding from the Korea Research Foundation.  
+[Self-Pl
+acement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#183)
+
+This course is a continuation of the advanced Korean sequence (KOR 125/126).
+It focuses on developing students' interpretive and expressive abilities
+through reading and discussions of essays, short stories, and newspaper
+articles. The course is taught in Korean by a visiting professor from Korea.
+
+**back to top**  
+**KOR 184 Topics in Korean II**  
+subject to funding from the Korea Research Foundation.  
+[Self-Pl
+acement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#184)
+
+This course is the continuation of KOR 183. It continues to work on developing
+students' interpretive and expressive abilities through reading and
+discussions of essays, short stories, and newspaper articles. The course is
+taught in Korean by a visiting professor from Korea.
+
+**back to top**  
+  
+
+
+[welcome](http://www.duke.edu/web/aall/page2.html) | [major &
+minor](http://www.duke.edu/web/aall/page3.html) | [languages
+](http://www.duke.edu/web/aall/page7.html)| [aall
+courses](http://www.duke.edu/web/aall/page4.html) | [study
+abroad](http://www.duke.edu/web/aall/page5.html) | [faculty &
+staff](http://www.duke.edu/web/aall/page6.html)
+
+[![Back to AALL](homebat2.jpg)](/index.html)  
+[Back to AALL](http://www.duke.edu/web/aall/index.html)
+
+[Duke Home](http://www.duke.edu)
+

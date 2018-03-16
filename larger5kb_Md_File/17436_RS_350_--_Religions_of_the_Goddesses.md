@@ -1,0 +1,446 @@
+![](../images/symbol2.jpg)
+
+|
+
+![](../images/header2.jpg)  
+  
+---|---  
+  
+[![](../images/home.jpg)](../index.html)
+
+|
+
+[![](../images/major.jpg)](../major.html)
+
+|
+
+[![](../images/faculty.jpg)](../faculty.html)
+
+|
+
+[![](../images/students.jpg)](../students.html)
+
+|
+
+[![](../images/weekends.jpg)](../experiential.html)  
+  
+  
+
+#### **RS 350 -- Religions of the Goddesses**  
+  
+
+Madeline McMurray, Ph.D.  
+e-mail - [mlm5@humboldt.edu](mailto:mlm5@humboldt.edu)  
+  
+Web Site Address:
+[http://www.humboldt.edu/~mlm5](http://www.humboldt.edu/%7Emlm5)  
+Name: mlm5  
+Password: Tidbits  
+___________________________________
+
+**REQUIRED READING**  
+The Myth of The Goddess - Baring  & Cashford  
+When God Was A Woman - Stone  
+McMurray Web Site - [humboldt.edu/~mlm5](http://www.humboldt.edu/%7Emlm5)  
+Recommended Reading: Ancient Mirrors of Womanhood - Stone  
+_______________________________  
+  
+**METHOD OF EVALUATION**  
+
+|  Group Projects | 100  
+---|---  
+Mid-term Exam | 100  
+Final Paper | 200  
+Final Exam | _100_  
+  
+Total Points:
+
+| 500  
+  
+100%500 - 475 - A  
+90% -474 - 450 - A-  
+80% -449 - 433 - B+  
+432 - 416 - B  
+415 - 400 - B-  
+70% -399 - 384 - C+  
+383 - 367 - C  
+366 - 350 - C-  
+60% -349 - 333 - D+  
+332 - 317 - D  
+316 - 300 - D-  
+50% below 299 F
+
+  
+Students are expected to attend ALL classes, participate fully in group
+process and projects and have all work completed on time. The instructor
+reserves the right to adjust your grade in relationship to your participation
+in this course.
+
+  
+**RELIGIONS OF THE GODDESSES**  
+____________________________
+
+  
+Although there are goddess figures in traditions around the world, the time
+limit of fifteen weeks demands choosing a particular focus. This course will
+be an overview of the goddess traditions as they have been explored in the
+archaeology and mythology of Western European and Near Eastern development. As
+the course develops over the semester there will be an intention to expand the
+field of study by requiring students to do course projects specifically
+related to goddesses not covered in the class.
+
+We will begin with the examination of the goddess figures and symbols as they
+appear in "Old Europe." The works of Marija Gimbutas, Joseph Campbell and
+Riane Eisler will be the primary materials covered in this section.
+Examination of the archaeological findings dating back  
+22,000 BCE will be the beginning point for the course. We will explore the
+concept of "archeomythology" used by Gimbutas and discuss the difficulties of
+interpretation of materials that have no written records. In particular, time
+will be spent on the question of male and female roles as reflected in cave
+art and goddess figures, as well as the question of the existence of a "Great
+Goddess" as a religious figure for Paleolithic and Neolithic peoples. Gimbutas
+states that the purpose of her book The Language of the Goddess is to:
+
+explicitly identify the Old European patterns that cross the boundaries of
+time and space. These systematic associations in the Near East, southeastern
+Europe, the Mediterranean area, and in central, western, and northern Europe
+indicate the extension of the same Goddess religion to all of these regions as
+a cohesive and persistent ideological system.
+
+In the mid-phase of the course we will cover archaeological sites on the
+Minoan period, as well as sites along the banks of the Tigris and Euphrates
+Rivers. Goddess traditions in Turkey, Crete, Sumer, Cannaan and Mesopotamia
+will be examined. Written material will be explored, as well as symbols and
+images. Relationships between these goddesses to earlier information will be
+considered, as well as possible connections to Greek tradition, Egyptian
+mythology and Hebrew scripture. To gain an understanding of the complexities
+of goddess religions, we will cover goddess images and myths from the cultures
+of both Egypt and Greece with a focus on comparisons and contrasts between
+figures from a variety of traditions, and periods in history.
+
+Finally, we will examine the development of Christian traditions and their
+inclusive-exclusive perspectives involving goddess religions. The figure of
+Mary and the topic of Maryology will be examined from both the Roman and the
+Greek Orthodox positions. Christian overlay and incorporation of images and
+traditions of Old Europe will complete the circle of goddess exploration
+intended by this course.
+
+WEB SITE PROJECT - http://humboldt.edu/~mlm5  
+Name: mlm5  
+Password: Tidbits
+
+For the purposes of this course I have created a www page that provides you
+the opportunity to explore goddess imagery as it relates to this class. I have
+chosen images that correspond to the design of the course. As a group project
+you are required to research one of the following questions using the web site
+as a basic guide. Your group will then have a discussion with another group in
+the class sharing with them what you have learned on your topic. On the day of
+theses discussions each student must turn in an outline of the topic covered
+to receive full credit for their group project.  
+  
+**QUESTIONS**
+
+1\. What relationship, if any, can you find between the "Venus" figures from
+the Paleolithic and Neolithic periods and the Venus of the Greco-Roman period?
+What aspects of the goddess are represented in the Venus imagery of these two
+periods in human history.
+
+2\. After looking at images of the goddess from different periods in
+"Herstory" speculate on how goddess images may influenced the interpretation
+of women and women's roles.
+
+3 Trace the bull through the imagery of Cave Art, the shrines of Turkey and
+Crete, as well as the symbolism of Egypt and Greece and reflect on how the
+imagery reveals the human relationship to the animal powers. (You may want to
+use Joseph Campbell's The Way of the Animal Powers in the reference section of
+the library to understand this concept more fully.) How was this animal, the
+bull, related to the goddess in various traditions and what seems to have
+happened to that relationship?
+
+4\. Using question number three replace the examination of the bull with the
+examination of the snake.
+
+5\. One of the topics addressed in the early part of this class was the idea
+of "partnership societies." Through examination of the art one can begin to
+explore this concept. Where do you see partnership between the goddesses and
+gods? What are the functions of each? Which periods of history speak of
+partnership and which speak of a struggle for dominance between the feminine
+and masculine?
+
+6\. Focus on the tradition and Inanna/Istar and see how many things you can
+relate to this goddess from what you have learned of other periods in history,
+both before and after her. In other words How is Inanna like goddesses from
+earlier periods how is she like goddesses from later periods.
+
+Note: The number of images presented in this www site are a good overview of
+goddesses as related to this course. This limitation to our area of study
+makes the site somewhat narrow. Nonetheless, I believe that there are enough
+images to indicate a direction for your class project relating to one of the
+questions provided. Feel free to explore more fully the topic that you are
+addressing through the examination of other materials available in the
+library. You might want to look at the bibliography for this course as a
+starting point.
+
+**FINAL PAPER/GROUP PRESENTATION**
+
+As part of this course you must participate in a group project connected to
+goddesses from other areas of the planet that are not covered in the course
+lecturers. The class will be divided into approximately six to eight groups.
+Possible areas of study will be Africa, China, Japan, The Island Peoples,
+North American Indigenous People, South American Indigenous People, Celtic
+and/or Norse traditions (parts of Europe that we will barely touch.) It is
+expected that you will spend somewhere between 10 and 15 hours outside of
+class working with your group. Because of this expectation you will be given
+three class sessions as "group project" time. These classes are scheduled in
+weeks six, ten and twelve. Due to the importance of these meetings attendance
+is required. Each group will keep a sign-in sheet of those students present at
+each session. These sheets are to be handed in at the following class meeting.
+Sign-in sheets will also be require for the group discussion class in week
+seven and your final presentation at the end of the semester. Each signature
+missed will cost you 20 points from the 100 possible points listed for "group
+project."  
+  
+You are also required to write a six to ten page research paper on a specific
+goddess related to your group project.
+
+(1) You must choose one goddess from your group's area of study and write a 6
+to 10 page research paper on the history and mythology of this goddess. Papers
+are to be typed, referenced and presented in a standard research style. (200
+points)  
+Check http://www.webster.commnet.edu/mla.htm to be clear on your writing
+style. Papers are required to meet the (MLA) Modern Language Association
+Guidelines for Writing Research Papers.  
+Note: If when accessing this web site there is not a side bar showing "Table
+of Contents" follow the instructions for that material. This is a very helpful
+site for how to reference your paper correctly.  
+(2) As a group you are to find a creative way to present some of your
+information to the rest of the class. You will have a half an hour of class
+time during the last two weeks of classes for this presentation. Please be as
+creative with this as you possibly can. Consider telling stories, presenting
+goddesses foods, using puppets or masks as was of informing the class
+concerning goddess traditions from other countries.  
+  
+(3) It is important that you attend all four days of presentations during the
+last two weeks of classes. Attendance only on the day you present is not
+acceptable. Students work hard at creating these presentations and they need
+classmates to receive what they have developed.
+
+  
+**MID-TERM AND FINAL EXAMS**  
+The mid-term and final will consist of 50 question scan-tron multiple-
+choice/true-false exams.
+
+**SYLLABUS AND READING ASSIGNMENTS**  
+WEEK ONE  
+Tuesday -- Handouts - course expectations -  
+Introduction to the Topic -  
+Thursday -- Video - Her Story  
+Reading: The Myth of the Goddess, Chapters one and two
+
+WEEK TWO  
+Tuesday -- Getting Perspective - Bachofan to Daily  
+Thursday -- Gimbutas, Eisler and Campbell - the field of goddess religions  
+"archeomythology" and "partnership societies"  
+Creating the Myth of Matriarchy  
+The question of a Great goddess - what are the implications?  
+Reading: The Myth of the Goddess: Chapters three and four
+
+WEEK THREE  
+Tuesday -- Maps and Images - Paleolithic to Neolithic  
+Burial practices  
+Thursday -- The change to farming - Anatolia  
+Reading: When God Was A Woman: The first four chapters ( to page 103)
+
+WEEK FOUR  
+Tuesday -- The functions of the goddesses in specific traditions  
+The development of city states - Mesopotamia -  
+Thursday -- Archetypes and patterns -  
+Comparing mythology - Inanna as our reference  
+Reading: The Myth of the Goddess: Chapters five and six
+
+WEEK FIVE - Establish Groups and determine which question to focus on  
+Tuesday - -Crete - A high point in goddess religions  
+Thursday -- Sacred Sexual Customs  
+Reading: The Myth of the Goddess: Chapters seven and eight  
+When God Was A Woman - Chapters five, six and seven
+
+WEEK SIX  
+Tuesday -- Guest Speaker - goddesses from Hinduism and Buddhism  
+Thursday -- Meet in Groups to work on question. You must be prepared as a
+group to discuss your question with another group in class next Thursday  
+REMEMBER TO CREATE A SIGN-IN SHEET
+
+WEEK SEVEN  
+Tuesday -- The goddesses in Egypt  
+Thursday -- Group Session - Discussions concerning the questions on the
+handout  
+Turn in your outlines
+
+  
+WEEK EIGHT  
+Tuesday - - Video - Mother Wove the Morning - first half  
+Thursday -Mid-Term Examination  
+Reading: The Myth of the Goddess: Chapters nine and ten
+
+\- BREAK -
+
+WEEK NINE  
+Tuesday -- Hebrew Scriptures related to the goddess  
+Thursday -- Group Session - You must bring information on the goddess that you
+intent to write your paper on to this group session - Not just her name, but
+real information about her traditions and stories. This will enable your group
+to focus on how to work on the final project.  
+REMEMBER TO CREATE A SIGN-IN SHEET -  
+Reading: The Myth of the Goddess: Chapters eleven, twelve and thirteen  
+Complete When God Was a Woman
+
+WEEK TEN  
+Tuesday -- The influence of the Greeks and Romans Europe
+
+Thursday -- - Celtic and Norse Traditions  
+What happened to goddess religions in Europe?  
+Reading: The Myth of the Goddess: Chapters fourteen
+
+WEEK ELEVEN  
+Tuesday -- The Inquisition  
+Video on The Inquisition  
+Thursday- Christianity and the Virgin Mary  
+Reading:The Myth of the Goddess: Chapters fifteen and sixteen
+
+WEEK TWELVE  
+Tuesday -- meet to work on final project  
+REMBER TO CREATE A SIGN-IN SHEET  
+Thursday -- The return of the Goddess in the modern world  
+FINAL PAPERS DUE AT THE BEGINNING OF CLASS  
+_______________________________________________________________________WEEK
+THIRTEEN  
+Tuesday -- Catch up - questions, etc.  
+Thursday -Second half of the video "When Mother Wove the Morning"
+
+WEEKS FOURTEEN AND FIFTEEN  
+Tuesday and Thursday - group presentations  
+Each group has 30 minutes to make their presentation
+
+**FINAL EXAM**
+
+_Bibliography_  
+Akurgal, Ekrem. The Birth of Greek Art.London: Methuen  & Co. LTD., 1968.  
+Baring & Cashford. The Myth of The Goddess.London: Penguin Books, 1993.  
+Campbell, J.. Historical Atlas of World Mythology. Three Volumes. New York:
+Harperand Row, New York 1988.  
+Campbell & Muses. In All Her Names San Francisco: Harper, 1991.  
+Cavendish,R..An Illustrated Encyclopedia of Mythology.New York: Crescent
+Books,1980.  
+Chernin, Kim. Reinventing Eve. New York: Harper & Row, Publishers, 1987.  
+Clayton, P. Great Figures of Mythology. New York: Crescent Books, 1990.  
+Collom, Cominique. Ancient Near Eastern Art. Berkeley: University of
+California Press, 1995.  
+Cotterell, Arthur. A Dictionary of World Mythology. Melbourne, England: Oxford
+University Press, 1982.  
+Daly, Mary. Gynecology. Boston: Beacon Press, 1978.  
+Department of Antiquities.Mycenaean Art From Cyprus. Republic of
+Cyprus:Ministry of Communications and Works, 1968.  
+Devereux, P., Steele,Jo. & Kubrin, D.. Earthmind. Rochester, Vermont: Destiny
+Books, 1989.  
+Diamond, I. & Feman & Orenstein, G.. Reweaving the World. San Francisco:
+Sierra Club Books, 1990.  
+Downing, Christine. The Goddess. New York: Crossroad Publishing Co., 1987.  
+Edey, Maitland. The Sea Traders. New York: Time-Life Books, 1974.  
+Eisler, R.. The Chalice and The Blade.San Francisco: Harper and Row, 1987.  
+Eisler, R.. Sacred Pleasure. San Francisco: Harper, 1996.  
+Eliade, Mircea. Shamanism.,Archaic Techniques of Ecstasy. Bollingen Series
+LXXVI.  
+Princeton: Princeton University Press, 1964.  
+Englesman, Joan Chamberlain. The Queen's Cloak. Wilmette, Ill.: Chiron
+Publications,1994.  
+Every, George. Christian Mythology. London: Hamlyn Publishing Group Limited,
+1970.  
+Fagan, B.. Prehistoric Times, Reading from Scientific American.W.H. Freeman &
+Co., 1983.  
+Froncek, Thomas. The Northmen. New York: Time-Life Books, 1974.  
+Gimbutas, M.. The Language of the Goddess. San Francisco: Harper and Row,1989.  
+Griffin Susan. Woman and Nature. New York: Harper & Row, Publishers, 1978.  
+Harding, L.G.. The Antiquities of Jordan.New York: Thomas Y. Crowell Co.,
+1959.  
+Hart, George. A Dictionary of Egyptian Gods and Goddesses. London: Routledge &
+Kegan Paul Inc. 1986.  
+Harvey, Andrew. The Return of the Mother. Berkeley: North Atlantic Books,
+1995.  
+Hicks, Jim. The Empire Builders. New York:Time-Life Books,1974.  
+Husain, Shahrukh. The Goddess. London. One Spirit, 1997.  
+Kerenyi, C..Asklepios. Bollingen Series LXV3. New York: Pantheon Books,
+Inc.,1959.  
+Kerenyi, C.. Eleusis. Bollingen Series LXV4.New York: Pantheon Books, Inc.,
+1967.  
+Kerenyi, Karl. Goddesses of Sun and Moon. Dallas: Spring Publications, Inc.
+1979.  
+Lange, Kurt, and Hirmer, Max. Egypt. London: Phaidon, 1968.  
+Larrington, C.. The Feminist Companion to Mythology. Northhampton, England:
+Pandora/Harper Collins Publishers, 1992.  
+Leonard, J. N.. The First Farmers.New York: Time-Life Books, 1973.  
+Lloyd, S.,The Archaeology of Mesopotamia. London: Thames & Hudson, 1984.  
+Lurker, Manfred.Dictionary of Gods & Goddesses, Devils & Demons. London:
+Routledge, 1988.  
+Manley, John. Atlas of Prehistoric Britain. New York: Oxford University
+Press,1989.  
+Marshack, A.. The Roots of Civilization.New York: McGraw-Hill, 1972.  
+McLean, Adam. The Triple Goddess. Grand Rapids, MI.: Phanes Press, 1989.  
+Mellaart, J.. "A Neolithic City in Turkey," from Prehistoric Times,
+W.H.Freeman and Company, 1983.  
+Miller, Malcolm. Chartres Cathedral.Andover: Pitkin, 1992.  
+Monaghan, Patricia. The New Book of Goddesses & Heroines.St. Paul, Min:
+Llewellyn Publications, 1998.  
+Moon, B.. An Encyclopedia of Archetypal Symbolism. Boston: Shambhala, 1991.  
+Muscarella, O.W. Ladders to Heaven. Canada: McMlell & Stewart,1981.  
+National Hellenic Committee. The Mycenaean World.Athens, Greece: Ministry of
+Culture, 1988.  
+Neils, Jenifer. Goddess and Polis.Princeton: Princeton University Press, 1992.  
+Papaioannou, Kostas.The Art of Greece. New York: Harry N. Abrams, Inc., 1983.  
+Perera, Sylvia Brinton. Descent to the Goddess. Toronto, Canada: Inner City
+Books, 1981.  
+Picard, G.C.. Larousse Encyclopedia of Archaeology. Larousse & Co., 1983.  
+Porada, Edith. The Art of Ancient Iran .New York: Crown Publishers, Inc.1965.  
+Raftery, Barry, edt.. Celtic Art. Paris: Unesco Collection of Representative
+Works Art Album Series, 1990.  
+Reade, Julian. Mesopotamia.Boston: Harvard University Press, 1991.  
+Reynal and Co..The Complete Work of Michelangelo,New York: William Morrow &
+Co.  
+Reverdin, Olivier. Crete and its Treasures. New York: The Viking Press, 1961.  
+Roaf, M.. Cultural Atlas of Mesopotamia and the Ancient Near East. England;
+Equinox Ltd. 1990.  
+Rosenberg, D.. World Mythology.New York: NTC Publishing Group, 1986.  
+Spiteris, T.. The Arts of Cyprus.New York: William Morrow & Co.,1970.  
+Stone, M.. When God Was a Woman. Los Angeles:Harvest Books, HBJ, 1976.  
+Stone, M.. Ancient Mirrors of Womanhood.Boston: Beacon Press, 1990.  
+Streep, P., Sanctuaries of the Goddess.New York: Little, Brown & Co., 1994.  
+Uris, Jill & Leon. Jerusalem, Song of Songs.New York: Doubleday & Co. Inc.,
+1981.  
+Vieyra, Maurice. Hittite Art, 2300-750 B.C..London: Alec Tiranti Lts., 1955.  
+Walker, Barbara. The Woman's Encyclopedia of Myths and Secrets. San Francisco:
+Harper, 1983.  
+Wernick, Robert. The Monument Builders.New York: Time-Life Books, 1974.  
+Woolley, Leonard. The Art of the Middle East.New York: Crown Publishers, Inc.,
+1961.  
+Weiss, Harvey, ed.. Ebla To Damascus, Art & Archaeology of Ancient Syria.
+Washington D.C.:Smithsonian Institution Traveling Exhibition, 1985.  
+Weitzman et. Al.. Icons.London: Alpine Fine Arts Collection,1993.  
+White, R.. Dark Caves, Bright Visions.New York: Norton & Company, 1986.  
+Whitmont, Edward C.. Return of the Goddess. New York: Crossroads Publishing
+Co., 1986.  
+Woolger, Jenmnifer Barker & Roger J.. The Goddess Within. New York: Fawcett
+Columbine/Ballantine Books, 1987.  
+Zimmermann, Jean-Louis.,Ancient Art from the Barbier-Mueller Museum.New York:
+Harry N. Abrams, Inc., 1990.  
+  
+  
+  
+
+RS 350  < [Religious Studies](../index.html) <
+[CAHSS](http://www.humboldt.edu/%7Eah) < [HSU](http://www.humboldt.edu)  
+  
+---  
+  
+
+
+
+

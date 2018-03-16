@@ -1,0 +1,555 @@
+**JOURNAL OF THE FACULTY SENATE** The University of Oklahoma (Norman
+campus)Regular session - September 8, 1997 - 3:30 p.m. - Jacobson Faculty Hall
+102
+
+office: Jacobson Faculty Hall 206 phone: 325-6789 FAX: 325-6782e-mail:
+facsen@ou.edu web site: http://www.ou.edu/admin/facsen/
+
+The Faculty Senate was called to order by Professor Connie Dillon, Chair.
+
+PRESENT: Albert, Badhwar, Beasley, Benson, Blank, Dillon, Durica, Edwards,
+Egle, Eliason, Elisens, Emery, Engel, Friedrich, Fung, Gabert, Gilje, Greene,
+Gronlund, Gupta, Harper, Hillyer, Hobbs, Holmes, Joyce, Konopak, Laird,
+Lancaster, Livesey, Murphy, Norwood, Okediji, Pailes, Palmer, Patten,
+Patterson, Rasmussen, Ratliff, Reynolds, Robertson, Scherman, Shaughnessy,
+Sipes, St.John, Stoltenberg, Thulasiraman, VanGundy, Vieux, Wahl, Warner,
+Watts
+
+Provost's office representative: Mergler
+
+PSA representatives: Elder, Pyle
+
+UOSA representatives: Heaton
+
+ABSENT: Butler, Schwarzkopf
+
+__________________________________________________________________________
+
+TABLE OF CONTENTS
+
+Senate Chair's Report: orientation 1
+
+Announcements:
+
+Senate members for 1997-98 and schedule of meetings 2
+
+Faculty Senate and General Faculty parliamentarian 2
+
+1996-97 annual council reports 2
+
+Appointments to councils, committees, boards 2
+
+Disposition by administration of Senate actions for 1996-97 2
+
+Resources in Faculty Senate office 2
+
+Search committees, Fine Arts dean and Architecture dean 2
+
+Barnes & Noble booksellers 2
+
+Employee obligations to University 2
+
+Adopt-a-faculty program 2
+
+Post-tenure review 3
+
+Revisions in Continuing Education & Public Service Council charge 5
+
+Election, councils/committees/boards 5
+
+Remarks by President David Boren 6
+
+__________________________________________________________________________
+
+**Senate Chair's Report: orientation**
+
+In lieu of a chair's report, Prof. Connie Dillon presented a brief orientation
+of the Faculty Senate. Copies of the handouts are available from the Senate
+office.
+
+**APPROVAL OF JOURNAL**
+
+The Senate Journal for the regular session of May 5, 1997, was approved.
+
+**ANNOUNCEMENTS**
+
+A list of the Faculty Senate members is attached (Appendix I). The new members
+were introduced at the meeting.
+
+The regular meetings of the Faculty Senate for 1997-98 will be held at 3:30
+p.m. on the following Mondays in Jacobson Faculty Hall 102: September 8,
+October 13, November 10, December 8, January 12, February 9, March 16, April
+13, and May 4.
+
+The Senate Executive Committee elected Prof. Ruth Gana Okediji (Law) as
+parliamentarian of the Faculty Senate and General Faculty.
+
+The compilation of the 1996-97 annual reports of University councils was
+mailed August27 to the Faculty Senate members and to chairs/directors and
+deans to make available to the general faculty. Copies are available from the
+Senate office.
+
+The 1997-98 listing of faculty appointments to committees was mailed to the
+general faculty August 21.
+
+The summary record of the disposition by the administration of Faculty Senate
+actions for September 1996 to August 1997 is attached (Appendix II).
+
+The _Chronicle of Higher Education_ , _Academe_ , and the University Budget
+are available in the Senate office.
+
+Prof. Louis Ederington (Finance) was selected from nominations submitted by
+the Faculty Senate Executive Committee for the faculty-at-large position on
+the College of Fine Arts dean search committee. Professors Barbara Hillyer
+(Human Relations) and Victor Youritzin (Art) were selected for the College of
+Architecture dean search committee.
+
+Barnes & Noble Booksellers in Norman would like to stock books of professors
+who have current books in print. Faculty should have received a form to fill
+out and return to Barnes & Noble. For further information, contact Sandy See
+or Tina Greene at 579-8800.
+
+At their June meeting, the OU regents approved the following policy statement
+addressing the collection of employee obligations to the University. This
+statement was developed by an ad hoc committee, which included Faculty Senate
+representation (see 9/96 Senate Journal, p. 2 and 2/95 Senate Journal, p. 2).
+
+Faculty, staff, and student employees of The University of Oklahoma shall be
+required to pay all outstanding financial obligations due The University of
+Oklahoma in accordance with the due dates established for such obligations.
+Faculty, staff, and student employees who do not pay their past due financial
+obligations as indicated on the billing statement will be subject to the
+University's collection processes. The administration is directed to establish
+procedures at the Norman Campus and the Health Sciences Center to provide the
+means for the University to gain access to the funds to which it is entitled.
+
+For information on the adopt-a-faculty program, call Nanette Shadid at
+325-2895.
+
+Senators were reminded to turn in issues and concerns to the Faculty Senate
+office.
+
+**
+
+Recommendations of the post-tenure review task force
+
+**
+
+Draft 4.1 of the Post-Tenure Review Policy was distributed to all faculty
+September 12 and is available from the Senate office. Dean Paul Bell (Arts and
+Sciences) explained that the proposal was developed over the summer by a task
+force that he chaired and that included Prof. Susan Vehik (Anthropology),
+Prof. Roger Rideout (Music), Dean Richard Cosier (Business Administration),
+and Dean John Snow (Geosciences). Post-tenure review is intended to provide
+periodic review of faculty performance. The task force looked at what other
+institutions do and were guided by the American Association for Higher
+Education (AAHE) publication, which gives a good review of the issues. The
+general approach was to build upon existing policy by using the existing
+annual faculty evaluation and adding a formative review. In intervals of five
+years, faculty who have achieved tenure will review their performance and talk
+about professional development in the coming years.
+
+Prof. Van Gundy asked what the stimulus was for post-tenure review and whether
+it was the provost's perception that career development was not being done in
+annual reviews. Provost Mergler said units were having trouble moving from
+annual reviews to developing and growing the faculty. A second reason is many
+campuses are being mandated externally to have post-tenure reviews. Her choice
+is to self govern and develop wise policies prior to any mandate. The result
+is a culmination of practices that might be useful here and will avoid adding
+another layer.
+
+Dean Bell said the task force chose to focus on faculty development as the
+primary motive. For most faculty, it will be a formative evaluation. That is
+not happening in some units. For a very small percentage of faculty who are
+performing in the unacceptable category, the policy will lead to a mandatory
+professional development plan. If a faculty member is rated as unacceptable
+two years in a row, then the mandatory review is supposed to help him get his
+annual evaluation up to acceptable levels. If the 5-year average rating is
+unacceptable, then the faculty member, Committee A and Chair develop a plan to
+bring performance up to acceptable. If she does not bring her performance up
+to acceptable, then the institution can take whatever action it deems
+necessary, which could be to initiate the abrogation of tenure policy. This
+proposal does not affect the current abrogation of tenure policy. It does not
+change the university's need to demonstrate cause. Dean Bell asked the
+senators to discuss the proposal with their colleagues and e-mail questions to
+him.
+
+Prof. Egle clarified that the proposal affects faculty in the lowest two
+categories. Dean Bell said that was correct; the composite would have to be a
+2.0 or less, which would include the marginal and unacceptable categories.
+
+Prof. Norwood raised the question of teaching versus research and the measures
+used in evaluation. Dean Bell said the task force chose to focus on the
+composite because it allows faculty to differentiate their effort. The
+University of Nebraska looks at all categories. Prof. Gilje asked whether the
+committee considered putting in a reward system for people who do exceptional
+work. Dean Bell said the committee tried to avoid penalty and reward. Reward
+is built into the annual evaluation policy and promotion policy. The only
+penalty in this policy is a professional development plan, and that is only
+after consistently poor performance. However, some institutions have built in
+rewards.
+
+Prof. Albert asked about the mandatory plan. Dean Bell explained that faculty
+whose rating is 2.0 or less two years in a row or whose five-year average is
+2.0 or less must participate in a development plan. Prof. Albert asked what
+would happen if they chose not to participate. Dean Bell answered that the
+administration can decide what it wants to do.
+
+Prof. Beesley commented that we should have a reward plan like the federal
+government or like the automatic increases for promotion. Dean Bell noted that
+the universities that have a built-in reward also have a built-in penalty. He
+pointed out that the proposal also offers the option of a voluntary faculty
+development plan.
+
+Prof. Friedrich asked about rewarding faculty whose rating is in the highest
+category five years in a row. Dean Bell said the committee tried to write a
+policy that would require minimal time, was built on the annual evaluation
+process, and would provide a formative look in the future. For some faculty,
+it will be a very short meeting with Committee A and the Chair.
+
+Prof. Patten asked what would happen if the Faculty Senate decided to reject
+the proposal. He wondered whether the administration would ask the legislature
+to force OU to accept something. Dean Bell said he could not predict that.
+Prof. Laird questioned whether the task force reviewed policies of other
+institutions and considered the effect on race and gender relations. Dean Bell
+said the task force looked at the AAHE document, which is a good compilation
+of other policies, and tried to find a policy that did not create a lot of
+extra paperwork. Prof. Palmer asked whether there was an appeal process. Dean
+Bell answered that the appeal would be at the college level and would be
+between the faculty member, chair, committee A, and dean. Prof. Dillon added
+that faculty can appeal anywhere along the process.
+
+Prof. Egle asked how evaluations are handled when a faculty member is in the
+professional development plan. Dean Bell said the plan works out to be a
+period of about 2.5 years. Annual evaluation would measure performance during
+that time, and at the end of the 2.5 years, the expectation is the faculty
+would be performing better than 2.0. Prof. Egle asked about the rationale for
+selecting 2.0. Dean Bell said the committee looked at the previous two years
+of evaluations and chose a number that would pick up those people who really
+were having difficulty. Prof. Egle asked why the committee did not opt for the
+bottom 5%. Dean Bell said it was based on the current evaluation process. If a
+faculty member's performance is unacceptable or marginal, then he could use
+some help. There are very few faculty with those ratings.
+
+Prof. Ratliff asked for an interpretation of what would happen if someone's
+composite was above 2.0 but teaching was below that. Dean Bell answered,
+"Then the plan doesn't happen." The committee could have written the policy to
+apply to faculty who were below 2.0 in any category but chose to focus on the
+composite instead. Prof. Ratliff asked why we do not care about helping that
+person. Dean Bell responded that he would hope the chair and committee A would
+be interested in helping; however, the task force wanted to focus on the
+overall performance. Prof. Ratliff asked what percentage is below 2.0 now.
+Dean Bell replied, "It is relatively small." Prof. Engel observed that some
+units do not provide guidance, and composite numbers vary between units.
+Provost Mergler commented that the units have been given the numbers for 1995,
+and she will deliver the 1996 numbers to the Senate soon. Prof. Sipes remarked
+that if the net is catching such a small number, that might not fulfill the
+public idea of what this is intended to do. Dean Bell said the intent was to
+look at faculty as whole individuals rather than single out one component.
+
+Prof. Livesey asked whether the review cycle could be amended to coincide with
+the promotion process in order to avoid redundancy. Dean Bell explained that
+annual evaluation and promotion are separate processes here. The review for
+someone recently promoted probably would not be as lengthy. The task force did
+not want to build in exceptions. Prof. Dillon announced that a copy of the
+AAHE document is available in the Faculty Senate office, and other articles
+are on the Faculty Senate web page.
+
+**Revisions in Continuing Education and Public Service Council charge
+
+**
+
+Prof. Dillon explained that the Continuing Education and Public Service
+Council had proposed some revisions in its charge and membership that would
+remove public service from its charge and eliminate the two outside members
+(proposal available from the Senate office). The recommendations will be
+discussed at the next meeting. The council's past chair, Irv Wagner (Music),
+and current chair, Avi Scherman (Educational Psychology), will be present
+then.
+
+**ELECTION, COUNCILS/COMMITTEES/BOARDS
+
+**
+
+The Senate approved the following Senate Committee on Committees' nominations
+to fill vacancies on University and Campus Councils, Committees and Boards.
+
+Academic Regulations Committee: Susan Marcus-Mendoza (Human Relations)
+
+to replace Karen Hayes-Thumann, 1996-99 term
+
+Campus Planning Council: Nick Harm (Architecture)
+
+to replace Eleanor Weinel, 1995-98 term
+
+Commencement Committee: Steve Curtis (Music)
+
+to replace Carol Beesley, 1996-98 term
+
+Council on Campus Life: Pam Fry (Instr. Lead.  & Acad. Curr.)
+
+to replace Sally Beach, 1996-99 term
+
+Parking Violations Appeals Committee: John Chiodo (Instr. Lead. & Acad. Curr.)
+
+to replace Richard Resco, 1997-00 term
+
+Research Council: Paul Gilje (History)
+
+to replace Mary Margaret Holt, 1996-99 term--humanities
+
+Rita Lottinville Prize for Freshmen Committee: Andy Miller (Mathematics)
+
+to replace Ara Basmajian, 1996-99 term
+
+Patent Advisory Committee: Bill Patten (Aerospace and Mechanical Engr.)
+
+to replace Mark Gillett, 1995-98 term
+
+University Copyright Committee: Peter Kutner (Law)
+
+to replace Jayne Fleener, 1996-00 term
+
+University Libraries Committee: Richard Pailes (Anthropology)
+
+to replace Michael Havener, 1996-99 term
+
+**Remarks by President David Boren**
+
+President Boren said he had just been in Tulsa working on the higher education
+situation. He remarked that the state cannot afford another free-standing
+comprehensive university. A constructive solution may be coming about.
+
+We made some progress this year. Research expenditures on the Norman and HSC
+campuses went up 8-9%, which is about triple the national average; we will
+pass the $119 million mark this year. He is trying to create more funds for
+research and creative activity. The graduate fellowship program will be
+continued this year. The increase in research has created some space problems.
+Vice President for Research Eddie Smith is assessing the research and lab
+needs, so if we have an opportunity for a bond issue, we will know what to ask
+for. We had a good year in the legislature. The average faculty increase for
+this year was 5.5%. For the last two years, faculty salaries have increased
+10.5%, double the Big 12 increase. Faculty salaries and fringe benefits have
+moved up to sixth position in the Big 12, even without the cost of living
+factor. The percentage of the state budget going to higher education had been
+declining the past 15 years. We were above 16% but had fallen to 14.9%. In the
+last two fiscal years, we climbed to 15.5%. The president hopes to continue to
+get this kind of support from the state legislature. Efforts to cut
+administrative costs are continuing. Last year, we were the lowest in the
+state system by 2%. We have lowered costs again from 6.5% to 6.1% and will
+keep moving in that direction. Any savings will be put into the educational
+mission.
+
+Three more years are left in the fund-raising campaign. We raised about $185
+million in the first two years. We have a good chance to exceed our $250
+million goal. Most of the funds will go into the educational mission. Many
+endowed professorships are in the queue waiting for the match from the state
+regents. The regents agreed to give us the interest and to fill the positions
+before the match money is transferred.
+
+About 25 F.T.E. faculty were added in the last two years, and another 10-15
+F.T.E. will be added this year. In five years, we hope to have added 50-70
+faculty and improved our student/faculty ratio. We did extremely well in
+student enrollment in terms of quality and numbers. The test score spread
+between OU and OSU is growing. Our goal is to level off traditional freshmen
+at 3000 and emphasize quality. We went up about 8%; we are at about 2900 now.
+OSU has about 2200 freshmen.
+
+President Boren then discussed the challenges this year. Administrative
+salaries have been frozen three years. We will have to make some adjustments
+this year to retain administrators. Another critical area of concern is the
+library. Costs are escalating 20-25%. The library was given $1.1 million this
+year to avoid cuts in serials and monographs, and $1 million from the Affinity
+credit card program will go to the library endowment. We are exploring
+electronic subscriptions to save money, but electronic costs are starting to
+escalate. A committee composed of Susan Caldwell (Art), Roger Frech (Chemistry
+& Biochemistry), Wayne Morgan (History), Dan Wren (Management), Dean Sul Lee
+(Library), and the vice presidents was formed to try to solve the library
+budget problems. Just as the regents adopted the goal of bringing faculty
+salaries up to the average of Big 12, so are they receptive to setting goals
+for the library. They agreed to the goal of passing Kansas with regard to
+library expenditures and acquisitions.
+
+He said he really wants faculty to have a strong role in determining what
+post-tenure review should be, to allow enough time for input, and to have a
+post-tenure review that is effective. It remains to be seen if this will give
+evidence of greater accountability. The Senate has also been asked to consider
+some proposed revisions in the patent and copyright policies and will be
+allowed as much time as needed. We must have policies that give our faculty
+greater incentives in patents and copyrights.
+
+The governor has appointed a task force to look at the retirement system
+situation. OU's representatives are Lex Holmes (Economics), who will serve as
+chair, and Russ Driver (Administrative Affairs). OU will look at buying out of
+OTRS and replacing it with the defined contribution, although a shift is not
+likely this year. For new hires, OU has guaranteed that the defined
+contribution will not go below 8% for at least another two years. The OTRS
+caps are in place for three more years, but the caps are rising.
+
+Growth and revenue are up in the state, which will give us a chance for
+another good appropriation from the legislature. Salary increases are at the
+top of the priority list. There is strong interest in a higher education bond
+issue this year of $100-150 million, which would mean $15-20 million for OU.
+Several areas, all relating to academic programs, need funding, like the
+Nielsen Hall addition, completion of Holmberg Hall, and the Law library.
+President Boren thanked those who called legislators and helped with fund-
+raising activities.
+
+Prof. Palmer asked what was going to happen with the Connections building.
+President Boren said the University bought Connections and Logan apartments to
+protect OU. We will also buy the white building at Boyd and Elm and the duplex
+across from the stadium. OU wanted control over the use because of the
+proximity to campus. For now, we will move Fine Arts costuming to Connections
+for very little cost. Logan is more problematic because it could contain
+asbestos.
+
+Prof. Fung asked about the decision to have University hospital taken over by
+Columbia HCA in view of Columbia's recent problems. President Boren explained
+that we were losing $25 million. We failed to get other hospitals to join or
+to get any commitment from the legislature. We have not signed the final
+agreement yet. Columbia changed its leadership and some of its policies. Under
+the agreement, we have the right to buy them out and to veto any decision.
+Columbia has to guarantee a floor on the number of faculty/staff and indigent
+care expenditures.
+
+We are continuing to monitor the Athletic Department budget problem. Athletic
+Director Steve Owens has adopted an open policy. He and Associate Athletic
+Director Bob King are trying to get their arms around the numbers. The
+department is doing a good job on the revenue side.
+
+**ADJOURNMENT
+
+** The meeting adjourned at 5:30 p.m. The next regular session of the Senate
+will be held at 3:30p.m. on Monday, October 13, 1997, in Jacobson Faculty Hall
+102.
+
+____________________________________
+
+Trent Gabert, Secretary
+
+____________________________________
+
+Sonya Fallgatter, Administrative Coordinator
+
+\-----------------
+
+Appendix I
+
+The University of Oklahoma (Norman campus)
+
+_1997-98 Faculty Senate
+
+_
+
+__ Senators __|  Representing __|  Term  
+---|---|---  
+Dillon, Connie (Educ. Lead. & Policy St.) ****|  Chair | 1997-98  
+Holmes, Alexander (Economics) ****|  Chair-Elect | 1997-98  
+Gabert, Trent (Health & Sport Sciences) **|  Secretary** | 1997-98  
+Sipes, James (Landscape Architecture) | Architecture | 1995-98  
+Wahl, Iver (Architecture) | Architecture | 1996-99  
+Albert, John (Mathematics) | Arts & Sciences | 1996-99  
+Badhwar, Neera (Philosophy) | Arts & Sciences | 1997-00  
+Benson, Hugh (Philosophy) | Arts & Sciences | 1995-98  
+Blank, C. LeRoy (Chemistry & Biochem.) | Arts & Sciences | 1996-99  
+Butler, Charles (Human Relations) | Arts & Sciences | 1997-00  
+Durica, David (Zoology) | Arts & Sciences | 1995-98  
+Eliason, Stan (Mathematics) | Arts & Sciences | 1997-00  
+Elisens, Wayne (Botany & Microbiology) | Arts & Sciences | 1995-98  
+Friedrich, Gus (Communication) | Arts & Sciences | 1997-00  
+Fung, Bing (Chemistry & Biochem.) | Arts & Sciences | 1995-98  
+Gilje, Paul (History) | Arts & Sciences | 1995-98  
+Gronlund, Scott (Psychology) | Arts & Sciences | 1997-98  
+Hillyer, Barbara (Human Relations) | Arts & Sciences | 1995-98  
+Hobbs, Catherine (English) | Arts & Sciences | 1996-99  
+Lancaster, John (Botany & Microbiology) | Arts & Sciences | 1996-99  
+Livesey, Steven (History of Science) | Arts & Sciences | 1997-00  
+Murphy, Sheena (Physics & Astronomy) | Arts & Sciences | 1995-98  
+Norwood, Stephen (History) | Arts & Sciences | 1996-99  
+Pailes, Richard (Anthropology) | Arts & Sciences | 1997-00  
+Patterson, Lotsee (Library & Info. St.) | Arts & Sciences | 1997-00  
+Ratliff, Ronald (Health & Sport Sciences) | Arts & Sciences | 1997-99  
+St. John, Craig (Sociology) | Arts & Sciences | 1996-99  
+Van Gundy, Andy (Communication) | Arts & Sciences | 1996-98  
+Emery, Gary (Finance) | Business Administration | 1996-99  
+Robertson, Terry (Finance) | Business Administration | 1997-00  
+Schwarzkopf, Al (Management) | Business Administration | 1997-00  
+|  |  
+Greene, Barbara (Educ. Psychology) | Education | 1996-99  
+Konopak, Bonnie (Instr. Lead. & Acad. Cr.) | Education | 1995-98  
+Laird, Susan (Educ. Lead. & Policy St.) | Education | 1997-00  
+Egle, Davis (AME) | Engineering | 1995-98  
+Gupta, Anuj (PGE) | Engineering | 1995-98  
+Patten, William (Aerosp. & Mech. Engr.) | Engineering | 1996-99  
+Rasmussen, Maurice (Aerosp. & Mech. Engr.) | Engineering | 1997-00  
+Thulasiraman, K. (Computer Science) | Engineering | 1995-98  
+Vieux, Baxter (Civil Engr. & Env. Sci.) | Engineering | 1997-99  
+Edwards, Donn (Dance) | Fine Arts | 1997-00  
+Palmer, Allison (Art) | Fine Arts | 1995-98  
+Shaughnessy, Susan (Drama) | Fine Arts | 1995-98  
+Watts, Valerie (Music) | Fine Arts | 1997-00  
+Beasley, William (Meteorology) | Geosciences | 1997-00  
+Engel, Michael (Geology & Geophysics) | Geosciences | 1997-00  
+Harper, Charles (Geology & Geophysics) | Geosciences | 1997-98  
+Stoltenberg, Cal (Educ. Psychology) | Graduate College | 1995-98  
+Okediji, Ruth Gana (Law) | Law | 1997-00  
+Reynolds, Osborne (Law) | Law | 1996-98  
+Scherman, Avraham (Educ. Psychology) | Liberal Studies | 1997-99  
+Joyce, Beverly (University Libraries) | Provost Direct-Library | 1996-99  
+Warner, Bob (Aerospace Studies) | Provost Direct-ROTC | 1997-00  
+**| ** |  
+**
+
+\-----------------
+
+Appendix II
+
+Record of Disposition By Administration of Faculty Senate Actions
+
+_(September 1996-August 1997)
+
+_
+
+____| Date __| Item __| Origin __| Disposition  
+---|---|---|---|---  
+1 | 09-09-96 | Arts & Sciences dean search committee | President | Appointed  
+2 | 09-09-96 | Faculty replacements, councils/committees | Faculty Senate |
+Appointed  
+3 | 09-09-96 | Revisions in Environmental Concerns Committee charge |
+Environmental Concerns Com. | Approved with Faculty Senate changes; 10-17-96  
+4 | 09-09-96 | Internet newsgroup policy | Task force | Approved dual news
+feed; 10-28-96  
+5 | 09-09-96 | Conflict of interest policy | Provost | Approved until 12/96;
+12-12-96  
+6 | 10-14-96 | Elimination of Fac. Adv. Com. to Pres., Strat. Plan. Com.,
+Univ. Dev. Council | Faculty Senate | Under review  
+7 | 11-11-96 | Resolution recognizing Staff Senate's 25th anniversary |
+Faculty Senate  | Acknowledged; 12-2-96  
+8 | 12-09-96 | Faculty replacements, councils/committees | Faculty Senate  |
+Appointed; 1-2-97  
+9 | 12-09-96 | Faculty evaluation scale changes | Faculty develop-ment task
+force | Approved with revisions; 1-2-97  
+10 | 12-09-96 | Pre-finals week policy revisions | Provost | Approved with
+Faculty Senate changes; 1-2-97  
+11 | 12-09-96 | Campus network rights and responsibilities guidelines |
+Information Technology Council | Under review  
+12 | 01-13-97 | Revisions in Goddard Health Center Advisory Board charge |
+Goddard Board | Under review  
+13 | 01-13-97 | Optional mission statement on business cards | Faculty Senate
+| Approved verbally; 2-6-97  
+14 | 03-17-97 | Course syllabus requirement | Faculty Senate  | Approved;
+4-11-97  
+15 | 03-17-97 | G.A. health insurance subsidy | Graduate Student Senate | .5
+FTE G.A.s will receive a 50% insurance subsidy  
+16 | 03-17-97 | Faculty compensation survey results | Faculty Compensation
+Com. | 5% average raise given for FY98; 7-31-97  
+17 | 05-05-97 | Revisions in Athl. Coun., Bud. Coun., Cam. Disc. Coun., Coun.
+on Cam. Life, Equal Oppor. Com., Film Rev. Com., Recr. Serv. Adv. Com. |
+Faculty Senate | Under review  
+18 | 05-05-97 __|  Student jury duty, Faculty Handbook revisions | Provost |
+Under review  
+19 | 05-05-97 | Child care center policy revisions | Faculty Welfare Com. |
+Under review  
+20 | 05-05-97 | Faculty replacements, councils/committees | Faculty Senate |
+Appointed; 7-31-97
+

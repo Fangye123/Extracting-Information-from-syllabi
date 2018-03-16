@@ -1,0 +1,150 @@
+**A Bigger Place to Play:  
+Text, Knowledge, and Pedagogy  
+in the Electronic Age **
+
+release version 1.2
+
+Randy Bass, English,
+[bassr@gusun.georgetown.edu](mailto:bassr@gusun.georgetown.edu)
+
+Spring 1997
+
+Release Version for [Bigger Place to Play --
+1996](http://otal.umd.edu/~googie/bass/bassdemo.html)
+
+* * *
+
+Student Responsibilities | Reading Schedule
+
+* * *
+
+**Student Responsibilities:**
+
+Evaluation will be based on engagement and participation in the course, and
+evaluation on the following assignments:
+
+  * A hypertext of the "claims and contexts" of hypertext. In groups of three. Built in StorySpace. (weeks 3-6)
+  * One ["site analysis"](assgmt2.html) of a World Wide Web site on culture/history, written in HTML on the Web and based on our [lexicon of analytic terms](lexicon.html). Done individually. (Weeks 7-10)
+| _[List of Site Analyses](sites.html) or jump directly to a student's
+analysis:_ |  A-Bomb WWW MuseumAndy Warhol Museum PageBeat Culture
+1950-1965The Blue HighwayBosnian Virtual FieldtripCrime Scene Evidence
+FileCybrary of the HolocaustFitzgerald CentennaryGlobaLearnGreen Cart's Warhol
+TributeHamlet Home PageKing Kong: The Eighth Wonder"Literary Kicks"Midsummer
+Night's DreamMythopoeiaThe New York TimesThe Perseus SitePhiladelphia Museuem
+of ArtPhotoStoreRossetti ArchiveThe Times of MindenValley of the
+ShadowVictorian Women WritersWalt Whitman Archive [I]Walt Whitman Archive
+[II]WebMuseum ParisWilliam Faulkner on the WebWilliam Burroughs
+ExplorerWorcester Women's Project [I]Worcester Women's Project [II]  
+  
+---|---  
+  * [A final project](finals.html) in electronic or combination print/electronic format (weeks 13-15) 
+
+**Reading Schedule:**
+
+**I. Overview of Topics, Issues, Technologies (weeks 1-2)**
+
+T, 1/14: Opening Session: "Resisting the Myths of the Electronic Frontier"
+Where: Reiss 282
+
+T, 1/21: "What Are we Talking About When We're Talking About Electronic
+Texts?" Where: Reiss 282
+
+**Reading:** Kevin Kelly,  "Hive Mind" from _Out of Control_ (handout);
+Michael Joyce,  "Siren Shapes: Exploratory and Constructive Hypertexts"
+(handout); Jerome McGann, ["Rationale of
+Hypertext"](http://www.village.virginia.edu/public/jjm2f/rationale.html); the
+1996 Hypertext version of Unit III of _A Bigger Place to Play_ : [Rhetoric of
+Hypertext: Multilinearity and the Making of
+Meaning](http://otal.umd.edu/~googie/bass/unit3.html) (weeks 3-5)
+
+T, 1/28: Making Meaning in Hypertext and Electronic Texts (I) Where: New North
+311
+
+**Reading:** Landow, _Hypertext_ (at least chaps. 1-4)
+
+**II. Rhetoric of Hypertext, cont.**
+
+T, 2/4: Making Meaning in Hypertext (II) Where: New North 311
+
+**Reading:** Landow, _Hypertext_ (finish); Lanham, _The Electronic Word_
+(chaps. 1-2). Landow, ed. _Hyper/Text/Theory_ (chaps 2, 3).
+
+T, 2/11: Making Meaning in Hypertext (III) Where: Reiss 282
+
+Draft group critiques of hypertext projects. Reading: Landow, ed.
+_Hyper/Text/Theory_ (chaps 5, 6, and 11).
+
+**III. Topics: Text, Knowledge, Pedagogy**
+
+T, 2/18: Electronic Texts, Databases, Archives Where: New North 311
+
+**Reading:** Lynette Hunter,  "Fact-Information-Data-Knowledge: Databases as a
+Way of Organizing Knowledge." Literary & Linguistic Computing Oxford
+University Press. 5.1 (1990): 49;
+
+**Projects:** Hypertexts on Hypertext due in class. You'll be in six groups of
+three people. Group presentation of hypertexts in class. Group turns in a
+paper write-up that includes a one page cover sheet summarizing the approach
+and individual one page write-ups on conclusions and questions raised about
+the claims and contexts of hypertext, having worked on a hypertext about
+hypertext.
+
+T, 2/25: Narrative, Inquiry, and Cultural Archives Where: New North 311
+
+**Reading:** Roy Rosenzweig and Michael O'Malley,  "Brave New World of Blind
+Alley? American History on the World Wide Web, review essay for the Journal of
+American History, June 1997; Roy Rosenzweig, ["So, What's Next for Clio?" CD-
+ROM and Historians"](http://web.gmu.edu/chnm/clio.html); Journal of American
+History 81.4 (March 1995): 1621-1640; Randy Bass, ["Can American Studies Find
+a Whole in the
+Net?,"](http://www.georgetown.edu/crossroads/guide/asins96.html) American
+Studies in Scandinavia (Fall, 1996).
+
+T, 3/4: Narrative, Inquiry, and Cultural Archives (II) Where: Reiss 282
+
+**Reading:** Henrietta Shirk,  "Cognitive Architecture in Hypermedia
+Instruction"; Glen Hoptman, "The Virtual Museum and Related Epistemological
+Concerns" (handouts); Stone, _War of Desire and Technology_ (Intro, 1, 6, 7);
+See also related links for [electronic
+fieldwork](http://www.georgetown.edu/bassr/511/fieldlinks.html).
+
+T, 3/11: Procrastination, Margaritas, Sleep (Spring break)
+
+T, 3/18: Blurred Boundaries of The Interface: Narrative, Archive, and
+Knowledge
+
+**Readings:** Gary Marchionini, ["Bringing Treasures to the Surface: Iterative
+Design for the Library of Congress National Digital Library
+Program"](ftp://ftp.cs.umd.edu/pub/hcil/Reports-Abstracts-
+Bibliography/3694html/3694.html) (handout and on web); Cliffor Geertz,
+"Blurred Genres" (handout). Lanham, chaps 5 and 6; See also related links for
+[electronic fieldwork](http://www.georgetown.edu/bassr/511/fieldlinks.html).
+
+Begin thinking about and working on [site
+analysis](http://www.georgetown.edu/bassr/511/assgmt2.html).
+
+T, 3/25: Electronic Texts, Knowledge, and Pedagogy
+
+**Reading:** Lanham, (chaps 4, 7, 8); Clifford Stoll, _Silicon Snake Oil_
+(handout)
+
+T, 4/1: Postmodernity and the Subject
+
+**Reading:** Poster, Second Media Age, chaps 1  &2; Stone, _War of Desire and
+Technology_ ; Jameson, "The Cultural Logic of Late Capitalism";
+
+T, 4/8: Postmodernity and the Subject:
+
+**Reading:** Deleuze and Guattari,  "Introduction" (Rhizome);
+_Hyper/Text/Theory_ (chaps 8 and 9).
+
+T, 4/15: MOO Night (led by Eric Hofmann)
+
+T, 4/22: Class: Synthesis
+
+T, 4/29: Critique of Projects
+
+T, 5/6: Critique of Projets (make up class)
+
+**[FINAL PROJECTS DUE](finals.html)** : Thursday, May 13.
+

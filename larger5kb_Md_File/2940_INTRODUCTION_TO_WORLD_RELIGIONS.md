@@ -1,0 +1,1385 @@
+[![RS Home](../images/scroll.gif)](relstd.htm)
+
+##  MS. DONNA J. SLOAN
+
+## RELIG 2601, INTRODUCTION TO WORLD RELIGIONS
+
+![](../images/hline.gif)
+
+Please click on the appropriate area below to access course materials:
+
+Course Syllabus | Course Outlines | Prehistoric and Primitive Religions  
+---|---|---  
+Religions of Native Americans | African | Early Hinduism - Later Hinduism  
+Sikhism | [Hinduism/Buddhism](dswrhbud.htm) | Jainism  
+Religions of China | Shinto |  
+Zoroastrianism | Judaism | Christianity  
+Islamic Religion | [Course Study Guide #1](dswrsg1.htm) | [Course Study Guide
+#2](dswrsg2.htm)  
+[Course Study Guide #3](dswrsg3.htm) | Course Study Guide #4 | Religion
+Hyperlinks  
+  
+[_Click Here to Send E-mail to Ms. Sloan_](MAILTO:rvdnasln77@aol.com)
+
+![](../images/hrline.gif)
+
+**_COURSE SYLLABUS_ :**
+
+SPRING 2002
+
+COURSE TITLE: INTRODUCTION TO WORLD RELIGIONS
+
+RELIG 2601, COURSE CODES 2450 & 2452
+
+INSTRUCTOR: DONNA J. SLOAN, MPH, MDiv, ThM
+
+CLASS MEETS: Course Code 2450: MWF, 0900-0950; WILLIAMSON, ROOM 108
+
+Course Code 2452: MWF, 1100-1150; WILLIAMSON, ROOM 205
+
+OFFICE: DeBartolo Hall Rm 413; Phone 742-3448
+
+OFFICE HOURS: M-F 1200-1300 or by appointment
+
+I. COURSE GOALS AND GENERAL EDUCATION REQUIREMENTS
+
+A. GOALS
+
+1\. To provide students with knowledge of the major World Religions, including
+their Systems of thought, symbols, sacred literature, and common threads.
+
+2\. To engage students in a process of responding to the underlying goals,
+purposes and issues addressed by all religions and to grapple with how they
+have impacted human existence throughout history and continue to affect our
+lives today
+
+3\. To enable students to perceive religious understanding as a vehicle
+through which a goal of world wide reconciliation can be achieved.
+
+4\. To empower students to gain insights into their own inner yearnings to
+find enlightenment and to understand their life experiences as metaphors for
+their personal spiritual journey.
+
+B. GENERAL EDUCATION REQUIREMENTS:
+
+Goal 10: Understand the development of cultures and organizations of human
+societies throughout the world and their changing interrelationships with
+Western Society
+
+1. Via the study of world religions, students will understand how various societies have identified and resolved the common problems of human existence over time
+
+2. Students will understand the interrelatedness of all aspects of culture: technology systems, economic Systems, political Systems, esthetics, social systems. ideology and language. How every culture has these aspects in some form and that each reflect and are impacted by the environment, the geography and the milieu of the society.
+
+Goal 11: Evaluate the impact of theories, events and institutions on the
+social, economic, legal and political aspects of society.
+
+1\. Students will gain an understanding of how these theories, events and
+institutions interact with and interrelate with each other not only locally
+but personally and globally.
+
+2\. Students will gain an appreciation for incorporating a broad range of
+perspectives in their armanentarium of explanations for the infrastructure of
+the social order.
+
+Goal 12: Comprehend and appreciate the development of diversity in America in
+all its forms
+
+1\. Students explore the religious beliefs of various groups to gain insights
+into their behavior and as a vehicle of toleration and reconciliation.
+
+2\. Students gain insights into the basic characteristics which define and
+identify all persons, groups, genders and classes as participants in the drama
+of human life. Everyone has a part, no part is more or less important than the
+other and none can be eliminated.
+
+C. OBJECTIVES: EXPECTED OUTCOMES --- AT THE COMPLETION OF THE COURSE, STUDENTS
+WILL BE ABLE:
+
+1\. To identify theories of the origin of religion, basic characteristics,
+common features and functions of all religions.
+
+2\. To recognize the inter relatedness of religion to other aspects of
+society, culture, and the world community.
+
+3. To understand the universality of Religion, the problems it poses and the solutions it offers for various world cultures and traditions, 
+
+4\. To trace the evolution of religious practice, ideation and theologies from
+antiquity to the present.
+
+II. REQUIRED TEXT.
+
+Fisher, Mary Pat, LIVING RELIGIONS, fourth edition: (Prentice Hall, N.J.),
+1999.
+
+III. COURSE REQUIREMENTS AND CRITERIA FOR GRADING.
+
+A. COURSE FORMAT: Classes will be comprised of various learning methods,
+including lectures, videos and pauses to discuss relevant issues. A study
+guide and study session will precede each exam. Syllabus is subject to change
+as needed. The Web Site can be accessed through Department of Philosophy and
+Religious Studies, Courses, 2002.
+
+B. EXPECTATIONS: Students are expected to be active members of the learning
+process. this includes attending classes, reading assignments before class,
+participating in class discussions and helping to create a learning
+environment by bringing to the classroom experience an open mind and a
+willingness to grow.
+
+C. ATTENDANCE POLICY: Attendance will be taken on a regular basis. If more
+
+than five classes are missed without a valid written excuse, your grade for
+the course will be decreased by ten points.
+
+D. GRADING AND EXAMINATIONS
+
+Grading Scale:
+
+A -- 90-100 percent
+
+B -- 80-89 percent
+
+C --70-79 percent
+
+D -- 60-69 percent
+
+F -- less than 60 percent
+
+2\. Breakdown of grades:
+
+a. Four exams each exam is 22.5 percent of final grade
+
+b. Class attendance and participation is 10 percent of grade
+
+c. Extra credit option up to 10 points
+
+4\. Examination questions will be true, false, matching and multiple choice
+
+5\. MAKE UP EXAMINATIONS: Will be given only if your absence at the regular
+
+examination is unavoidable. A make-up exam must be taken no later than one
+week after the regularly scheduled examination. Only one make-up exam may be
+taken.
+
+E. EXTRA CREDIT: May be earned by writing a paper. The paper should be 3-6
+
+typewritten pages, double spaced and must include footnotes and a bibliography
+of sources and references when they are used. It must be turned in before the
+last class. Please talk with me by the end of the eighth week if you plan to
+write a paper. Papers may be written on the following topics:
+
+1\. In depth research on a religious tradition which differs from your own.
+
+2\. A personal, life changing or deeply moving religious experience you have
+had.
+
+3\. You may visit a religious worship service, or interview a religious
+leader, in a religion other than your own, and write a report on your
+experience.
+
+PENALTY FOR CHEATING: If the instructor believes that a student is guilty of
+
+cheating on an examination, he/she will receive a failing grade for the course
+and recommended for disciplinary action as specified by the _YSU Code._
+
+IV. READING ASSIGNMENTS AND COURSE SCHEDULE:
+
+A. PART ONE:
+
+WEEK #1 January 14, 16, 18 INTRODUCTION; The Religious Response;
+
+Definitions of Religion; The social importance of religion
+
+ASSIGNMENT: Chapter 1
+
+WEEK #2: January 21 (holiday, no class) January 23, 25 Theories of the
+
+Origin of Religion. Characteristics of Basic Religion
+
+ASSIGNMENT: Web Site
+
+WEEK #3 January 28, 30, February 1 INDIGENOUS SACRED WAYS; Prehistoric
+
+Religion
+
+ASSIGNMENT: Chapter 2
+
+QUIZ #1 CHAPTERS 1 & 2
+
+B. PART TWO: RELIGIONS ORIGINATING IN INDIA
+
+WEEK #4 February 4, 6, 8 \-- HINDUISM
+
+ASSIGNMENT: Chapter 3
+
+WEEK #5 February 11, 13, 15 \-- BUDDHISM
+
+ASSIGNMENT: Chapters 5
+
+WEEK #6 February 18, 20, 22 \-- JAINISM & SIKHISM
+
+ASSIGNMENT: Chapters 4 & 11
+
+WEEK #7 February 25, 27, March 1 -- Review Session, Exam #2
+
+ASSIGNMENT:
+
+QUIZ #2 CHAPTERS 3, 4, 5, & 11
+
+PART THREE: RELIGIONS ORIGINATING IN CHINA AND JAPAN
+
+WEEK # 8 March 4, 6, 8 --- CONFUCIANISM & TAOISM
+
+ASSIGNMENT: Chapter 6
+
+Week #9: March 18, 20, 22 SHINTO, Review Session, Exam #3
+
+ASSIGNMENT: Chapter 7
+
+QUIZ #3: CHAPTERS 6, 7
+
+PART FOUR: RELIGIONS ORIGINATING IN THE MIDDLE EAST
+
+WEEK #10: March 25, 27, 29 - - ZOROASTRIANISM
+
+ASSIGNMENT: Handouts
+
+WEEK # 11: April 1,3, 5 \- - JUDAISM
+
+ASSIGNMENT: Chapter 8
+
+WEEK #12: April 8, 10, 12 -- CHRISTIANITY
+
+ASSIGNMENT: Chapter 9
+
+WEEK #13: April 15, 17, 19 - - ISLAM
+
+ASSIGNMENT: Chapter 10
+
+WEEK #14: April 22, 24, 26 - - NEW RELIGIOUS MOVEMENTS
+
+ASSIGNMENT: Chapter 12
+
+WEEK # 15: April 29, May 1, 3 \- -RELIGION AT THE TURN OF THE CENTURY
+
+ASSIGNMENT: Chapter 13
+
+FINAL EXAM:
+
+RETURN TO TOP
+
+![](../images/hrline.gif)
+
+**_INTRODUCTION TO WORLD RELIGIONS COURSE OUTLINES_ :**
+
+****
+
+**COURSE OUTLINE 1** **\- Spring, 2002**
+
+**INTRODUCTION TO WORLD RELIGIONS**
+
+**Donna J. Sloan, MPH, MDiv., ThM**
+
+****_A.DEFINITIONS OF RELIGION_
+
+_1.WEBSTER'S_ \- -RELIGION IS THE SERVICE AND ADORATION OF GOD OR A GOD AS
+EXPRESSED IN FORMS OF WORSHIP IN OBEDIENCE TO DIVINE COMMANDS.
+
+_2.OXFORD ENGLISH DICTIONARY_ \--RELIGION IS THE RECOGNITION OF A SUPERHUMAN
+CONTROLLING POWER AND ESPECIALLY OF A PERSONAL GOD ENTITLED TO OBEDIENCE.
+
+_3\. LATIN_ \- - TO TIE BACK, OR TO TIE AGAIN. THE GOAL OF ALL RELIGION IS TO
+TIE PEOPLE TO A GREATER REALITY WHICH LIES BEYOND THE WORLD THAT WE CAN
+PERCEIVE WITH OUR FIVE SENSES.
+
+_4.WESTERN_ \- - A SET OF BELIEFS TO DO WITH THE GODS AND THROUGH WHICH ONE IS
+TAUGHT A MORAL SYSTEM. SOME RELIGIONS ARE CONCERNED WITH HUMANITY'S PROPER
+RELATIONSHIP WITH GODS, DEMONS AND SPIRITS RATHER THAN WITH ETHICAL
+RELATIONSHIPS.
+
+_5\. TILLICH_ (THEOLOGICAL)..RELIGION IS ULTIMATE CONCERN - - THE BELIEF THAT
+HUMAN EXISTENCE, IF IT IS TO BE FULFILLED MUST BE HARMONIZED WITH OR
+SUBORDINATED TO WHAT HUMANS EXPERIENCE A HOLY.
+
+6\. WILLIAM JAMES(PHILOSOPHICAL) RELIGION CONSISTS OF THE BELIEF THAT THERE IS
+AN UNSEEN ORDER AND THAT OUR SUPREME GOOD LIES IN HARMONIOUSLY ADJUSTING
+OURSELVES TO IT.
+
+_7\. ALFRED NORTH_ WHITEHEAD...RELIGION IS THE VISION OF SOMETHING WHICH
+STANDS BEYOND, BEHIND AND WITHIN THE PASSING FLUX OF IMMEDIATE THINGS;
+SOMETHING WHICH IS REAL, YET WAITING TO BE REALIZED; SOMETHING REMOTELY
+POSSIBLE, YET THE GREATEST OF PRESENT FACTS; SOMETHING THAT GIVES MEANING TO
+ALL PASSES YET ELUDES APPREHENSION.
+
+**_8._** _BROAD GENERAL DEFINITION- -_ RELIGION IS SEEKING AND RESPONDING TO
+WHAT HUMANS EXPERIENCE AS HOLY OR ULTIMATE; A SET OF BELIEFS, PRACTICES AND
+SOCIAL STRUCTURES, GROUNDED IN A PEOPLE'S EXPERIENCE OF THE HOLY, THAT
+ACCOMMODATES THEIR EMOTIONAL, SOCIAL, INTELLECTUAL AND _MEANING-GIVING_ NEEDS.
+
+_B. RELIGION IS INTERRELATED WITH ALL ASPECTS OF CULTURE:_
+
+1\. SOCIAL SYSTEMS
+
+2\. ECONOMIC SYSTEMS
+
+3\. POLITICAL SYSTEMS
+
+4\. TECHNOLOGY
+
+5\. ESTHETICS
+
+6\. LANGUAGE
+
+7\. IDEOLOGY
+
+_C. FUNCTIONS OF RELIGION_
+
+1\. EMOTIONAL
+
+2\. SOCIAL
+
+3\. INTELLECTUAL
+
+_D.ASPECTS OF EVERY RELIGION_
+
+1\. RITUAL
+
+2\. ETHICAL
+
+3\. DOGMATIC
+
+_E. THEORIES OF THE ORIGIN OF RELIGION_
+
+1\. EDWARD TYLER (ANTHROPOLOGIST)
+
+a. ANIMISTIC THEORY
+
+2\. EMIL DURKHEIM (SOCIOLOGIST)
+
+a. SOCIQLOGICAL THEORY
+
+3\. SIR JAMES FRAZIER (MAGIC THEORY)
+
+a. MAGIC
+
+b. RELIGION
+
+c. SCIENCE
+
+4\. LUDWIG FUERBACK (PHILOSOPHER)
+
+a. PROJECTION OF HUMAN NEED
+
+5\. NATURE WORSHIP THEORY
+
+6\. ORIGINAL MONOTHEISM
+
+7\. KARL MARX
+
+8\. SIGMUND FREUD
+
+9\. MOTHER GODDESS THEORY
+
+_F. THE RELIGIOUS RESPONSE_ (HOW PEOPLE EXPERIENCE ULTIMATE REALITY)
+
+1\. MYSTICAL ENCOUNTERS
+
+2\. TRANSCENDENT EXPERIENCE
+
+3\. RATIONAL THOUGHT
+
+4\. DIRECT INTUITION
+
+_G. SCIENTIFIC UNDERSTANDING OF RELIGION_
+
+1\. ANCIENT
+
+2\. RENAISSANCE...14-16TH CENTURY
+
+3\. ENLIGHTENMENT... 18TH CENTURY
+
+4\. TWENTIETH CENTURY
+
+5\. QUANTUM PHYSICS
+
+_H. MANY FACES OF ULTIMATE_ _REALITY_
+
+1\. IMMANENT
+
+2\. TRANSCENDENT
+
+3\. THEISTIC
+
+4\. MONOTHEISTIC
+
+5\. POLYTHEISTIC
+
+6\. HENOTHEISTIC
+
+7\. INCARNATION
+
+8\. ATHEISTIC
+
+9\. AGNOSTIC
+
+10\. NON-THEISTIC
+
+_I. INTERPRETATIONS OF THE SACRED_
+
+1\. ORTHODOX
+
+2\. FUNDAMENTALISTS
+
+3\. LIBERALS
+
+4\. HERETIC
+
+5\. MYSTIC
+
+_J. WAYS OF BEING SACRED_
+
+1\. DEFINITIONS
+
+a. SACRED
+
+b. SECULAR
+
+c. PROFANE
+
+2\. SACRED SPACE
+
+3\. SACRED PERSONS
+
+4\. SACRED STORIES
+
+a. EPICS
+
+b. MYTHS
+
+5\. SACRED WRITINGS
+
+6\. SACRED ACTIONS
+
+7\. SACRED DANCE
+
+8\. SACRED DRAMA
+
+_K. SACRED PRACTICES OF BASIC (PRIMAL. PRIMITIVE OR INDIGENOUSt RELIGIONS_
+
+1\. AWE BEFORE THE SACRED
+
+2\. EXPRESSIONS OF ANXIETY IN RITUAL
+
+3\. RITUAL AND EXPECTANCY
+
+a. RITES OF PASSAGE
+
+4\. MYTH AND RITUAL
+
+5\. MAGIC
+
+a. SYMPATHETIC
+
+b. PRODUCTIVE
+
+c. DESTRUCTIVE (AVERSIVE)
+
+d. CONTAGIOUS
+
+6\. CONTROL OF SPIRIT POWER
+
+a. FETISHISM
+
+b. PRAYER
+
+c. DIVINATION
+
+7\. BELIEF IN MANA
+
+8. **** ANIMISM
+
+9\. VENERATION, WORSHIP, AWE OF POWERS
+
+10\. RECOGNITION OF A SUPREME BEING
+
+11\. TABOO
+
+12\. PURIFICATION RITES
+
+13\. SACRIFICES AND GIFTS
+
+14\. ATTITUDES TOWARD THE DEAD
+
+15\. TOTEMISM
+
+a. SOCIAL
+
+b. CULT
+
+_L. SHAMANS... WITCH DOCTORS. SORCERERS. EXORCISTS, MEDICINE MEN OR WOMEN._
+
+1\. SPIRITUAL SPECIALISTS
+
+2\. MYSTICAL INTERMEDIARIES
+
+3\. CONJURE SPIRITS
+
+a. EXORCISM
+
+b. SORCERY
+
+4\. CONTROL SPIRITS
+
+a. MAGICAL POWERS
+
+b. RELIGIOUS FUNCTIONS
+
+5\. MEDICAL PRACTICES
+
+a. HEALING
+
+b. COMMUNICATE WITH THE SPIRIT WORLD
+
+c. DIVINATION
+
+d. CONTEMPLATION
+
+6\. TRAINING OF SHAMAN
+
+a. INHERITANCE OR SPECIAL GIFT
+
+b. PHYSICAL DEATH AND REBIRTH
+
+c. RITUALS OF PURIFICATION
+
+d. SHAMANIC APPRENTICESHIP
+
+7\. SHAMANIC TECHNIQUES
+
+a. ALTERED STATE
+
+b. ENTER SPIRIT WORLD
+
+c. RECEIVE MESSAGE
+
+RETURN TO TOP
+
+**PREHISTORIC AND PRIMITIVE RELIGIONS**
+
+**_A._** _OLD STONE AGE..NEANDERTHALS (125,000-30,000 BCE.)_
+
+1\. EVIDENCE OF RELIGION
+
+a. ADVANCED SPIRIT POWERS
+
+b. BURIAL PRACTICES
+
+2\. BEAR CULT
+
+a. WORSHIPED BEARS
+
+b. HUNTING MAGIC
+
+_B. CRO-MAGNONS (30.000-8.000 BCE)_
+
+1\. BURIAL RITES
+
+a. FEAR/AWE OF THE DEAD
+
+2\. CAVE PAINTINGS
+
+a. MAGICO-RELIGIOUS
+
+3\. PRIESTS
+
+4\. MOTHER GODDESS
+
+a. FERTILITY MAGIC
+
+5\. BEAR CULT
+
+a. BEAR GOD
+
+_C. MESOLITHIC--MIDDLE STONE AGE (10,000 BCE)_
+
+1\. FROM NOMADIC TO VILLAGE LIFE
+
+2\. NEW DIRECTIONS IN RELIGION
+
+a. GRAIN SPIRIT WORSHIP
+
+3\. NATURE WORSHIP
+
+4\. FETISHES
+
+5\. MAGIC
+
+_D. NEOLITHIC LATE STONE AGE (7.000-3.000 BCE)_
+
+1\. REVOLUTIONARY DEVELOPMENTS
+
+a. AGRICULTURE
+
+b. DOMESTICATED ANIMALS
+
+c. ART
+
+2\. DEVELOPMENTS IN RELIGION
+
+a. GREAT MOTHER GODDESS
+
+b. FEMALE DIVINE POWER
+
+3\. MEGALITHS
+
+a. THEORIES
+
+RETURN TO TOP
+
+  
+  
+
+**RELIGIONS OF NATIVE AMERICANS**
+
+****_A.PROBLEMS OF STUDYING NATIVE AMERICAN RELIGIONS_
+
+1\. MANY DIVERSE CULTURES
+
+2\. COVERS MORE THAN 25,000 YEARS
+
+3\. LIMITED SOURCES OF INFORMATION
+
+_B.GENERAL CHARACTERISTICS_
+
+1\. SPIRIT WORLD:
+
+a. POLYTHEISTIC
+
+b. MONOTHEISTIC
+
+c. HENOTHEISTIC
+
+**2.** DEITIES: a. SUN GOD b. MOON GOD c. HIGH GOD
+
+_C. SACRED PRACTICES & BELIEFS_
+
+1. **** ANIMISM
+
+2\. NO SACRIFICES
+
+3\. TABOOS: (AS PROTECTION FROM EVIL)
+
+a. MENSTRUATING WOMEN
+
+b. CONTACT WITH THE DEAD
+
+4\. CEREMONIES:
+
+a. DANCING
+
+b. FASTING
+
+c. BATHING
+
+_D. RITUALS_
+
+1\. THE VISION QUEST
+
+2\. THE CALUMET
+
+3\. USE OF PEYOTE
+
+4\. RITUAL OF THE HUNT
+
+_E.WORLD VIEW_
+
+1\. CREATION...MANIFESTATION OF ACTIVE SPIRITS
+
+2\. HUMANS... ARE RELATED TO ANIMALS
+
+3\. ANIMALS
+
+4\. THE PROBLEM FOR HUMANS
+
+5\. THE SOLUTION FOR HUMANS
+
+6\. PHYSICAL ILLNESS
+
+a. CAUSED BY SPIRITUAL DISORDER
+
+7\. HEALING
+
+a. APPEASING VENGEFUL SPIRITS
+
+8\. COMMUNITY AND ETHICS
+
+a. SHARED RESPONSIBILITIES
+
+9\. INTERPRETATION OF HISTORY
+
+a. MEDICINE WHEEL
+
+_F. SYMBOLS AND RITUALS_
+
+1\. FEATHERS
+
+2\. RITES OF PASSAGE
+
+a. BIRTH
+
+b. PUBERTY - -FOR YOUNG GIRLS - -FOR BOYS
+
+c. MARRIAGE
+
+d. DEATH RITES
+
+  
+  
+
+3\. BELIEFS REGARDING LIFE AFTER DEATH
+
+a. SOUL OF DECEASED REBORN
+
+b. ANCESTORS HONORED
+
+RETURN TO TOP
+
+**AFRICAN RELIGIONS**
+
+_A. HIERARCHY OF GODS_
+
+1\. THE HIGH GOD
+
+a. CREATOR OF THE WORLD
+
+b. DISTANT HEAVEN
+
+2\. LESSER SPIRITS
+
+a. ANIMISTIC SPIRITS
+
+b. SUN, MOON, EARTH GODS
+
+c. EARTH MOTHER GODDESS
+
+_B.SACRED OBJECTS_
+
+1\. WATER
+
+2\. SNAKES
+
+_C. DEPARTED ANCESTORS_
+
+1\. MOST RECOGNIZED SPIRITUAL FORCE
+
+2\. CAPRICIOUS, UNPREDICTABLE
+
+3\. INTERVENE IN AFFAIRS OF THE LIVING
+
+_D. SACRIFICES_
+
+1\. USES
+
+2\. RITUALS
+
+3\. TYPES
+
+a. ANIMAL
+
+b. BLOOD
+
+c. HUMAN
+
+_E. RITES OF PASSAGE_
+
+1\. BIRTH...
+
+a. NAMING CEREMONIES
+
+2\. PUBERTY...
+
+a. INSTRUCTIONS ON ADULT ROLES
+
+b. CIRCUMCISION
+
+3. **** MARRIAGE
+
+4\. DEATH
+
+a. BURIAL RITES
+
+_F. RELIGIOUS LEADERS_
+
+1\. PRIESTS
+
+2\. WITCH DOCTORS
+
+3\. DIVINERS
+
+4\. PROPHETS
+
+5\. CHIEF KING
+
+_G. WORLD VIEW_
+
+1\. THE WORLD
+
+2\. HUMANS
+
+a. THE PROBLEM FOR HUMANS
+
+b. THE SOLUTION FOR HUMANS
+
+3\. LIFE AFTER DEATH a. THE SOUL OR SPIRIT
+
+b. THE SPIRIT WORLD
+
+  
+RETURN TO TOP
+
+**RELIGIONS OF CHINA**  
+  
+
+**_A. NO NATIVE RELIGION_**
+
+1\. RELIGIONS ADOPTED FROM MISSIONARIES
+
+2\. THREE MAJOR RELIGIONS/PHILOSOPHIES
+
+a. BUDDHISM, TAOISM, CONFUCIANISM
+
+b. ECLECTIC MIXTURE FOLLOWED BY MOST
+
+c. WEAKENED BY MODERN INFLUENCES  
+  
+
+**_B. BASIC~ CHARACTERISTIC~_**
+
+1\. ANCESTOR WORSHIP & FILIAL PIETY
+
+2\. HIERARCHY OF GODS AND SPIRITS
+
+a. LOCAL DEITIES...GOOD & EVIL SPIRITS
+
+3\. YIN AND YANG..TRUE NATURE OF UNIVERSE
+
+a. YIN...NEGATIVE, DARK, COOL, DAMP, FEMALE, EARTH, MOON
+
+b. YANG...POSITIVE, LIGHT, WARMTH, DRY, SUN, BRIGHTNESS, MALE
+
+4\. DIVINATION I CHING...THE BOOK OF CHANGE
+
+5\. SHANG TI...SUPREME GOD  
+  
+
+**TAOISM**  
+  
+
+**_A. FOUNDER_**
+
+1\. LAO TZU...b 600 BCE
+
+2\. LITTLE KNOWN ABOUT HIS LIFE  
+  
+
+**_B. DIFFERENT MEANINGS OF TAO_**
+
+1\. THE INFINITE PURE VOID...NOT GOD
+
+2\. VITAL PRINCIPLE, BEING ITSELF
+
+3\. ETERNAL WAY OF THE UNIVERSE, THE WAY
+
+4\. THE NAMELESS, EVERYTHING THAT EXISTS
+
+5\. POETIC MEANING  
+  
+
+**_C. DESCRIPTIONS OF TAOISM_**
+
+t. MANY CULTS AND SCHOOLS
+
+a. PRODUCED VAST LITERATURE
+
+2\. NO ORGANIZED CHURCH
+
+3\. PRESERVED THROUGH DYNASTIES
+
+4\. USED DIVINATION, MAGIC, MEDICINE
+
+5\. MANY GODS...HEAVENLY PALACES  
+  
+  
+  
+
+Religions of China page 2  
+  
+
+**_D. WESTERN VIEW OF THE WORLD_**
+
+1\. STRUCTURE
+
+2\. SEPARATENESS
+
+3\. SHAPES, SIZES
+
+4\. DIVIDED BY DEFINITION  
+  
+
+**_E. TAOIST PERCEPTIONS OF THE REAL WORLD_**
+
+1\. CONTINUOUS MOVEMENT...UNDULATIONS
+
+2\. CHANGES AND TRANSFORMATIONS
+
+3\. STREAMING CLOUDS, FLOWING WATER
+
+4\. INDIVIDUALS INTERACT WITH ENVIRONMENT
+
+5\. THE BODY IN PERPETUAL CHANGE/PROCESS  
+  
+
+**_F. TWO ASPECTS OF INTUITION OF THE TAO_**
+
+1\. NOTHING EVER REPEATS ITSELF
+
+2\. PAST-PRESENT-FUTURE...ONE GREAT WHOLE  
+  
+
+**_G. THEORY QF THE TAO_**
+
+1\. ESSENCE NEVER CEASING
+
+2\. NETWORK OF VORTEXES, TIME AND CHANGE
+
+3\. NATURAL COURSE...PERFECTION & HARMONY
+
+4\. HARMONY WITH TAO NOURISHES INNER SELF  
+  
+
+**_H. TEACHINGS OF EARLY TAOIST PHILOSOPHERS_**
+
+1\. TAO...BASIC UNITY BEHIND THE UNIVERSE
+
+2\. LIFE._THE GREATEST POSSESSION
+
+3\. LIVE LIFE SIMPLY
+
+4\. DESPISE POMP AND GLORY  
+  
+
+**_I. TAOIST THEOLOGY_**
+
+**** 1\. FIRST CAUSE...NOT GOD
+
+2\. NO PRAYERS, SACRIFICE, RITUALS, WORSHIP
+
+3\. NO BELIEF IN LIFE AFTER DEATH
+
+4\. EMPHASIZED QUALITY OF DAILY LIFE
+
+5\. REJECTED RELIGION  
+  
+
+**_J. PHILOSOPHY OF TAO TE CHING_**
+
+1\. NON-BEING
+
+2\. QUIETNESS
+
+3\. LOW POSITION
+
+4\. REVERSION
+
+5\. ONENESS WITH NATURE
+
+6\. SPONTANEITY
+
+Religions of China page 3  
+  
+
+**_K. ETHICS OF THE TAO TE CHING_**
+
+**** 1\. WU WEI...NEGATIVE TERMS
+
+a. NON AGGRESSIVE
+
+b. NO AMBITIONS
+
+2\. WU WEI...POSITIVE TERMS
+
+a. QUIETUDE OF POWER
+
+b. SPONTANEOUS LOVE, KINDNESS  
+  
+
+**_L. MYSTICAL INVULNERABILITY_**
+
+1\. MAGICAL POWERS OF THE TAO
+
+2\. PROTECTS FROM VIOLENCE
+
+3\. PROVIDES IMMUNITY  
+  
+
+**_M. THEORY OF GOVERNMENT OF THE TAO_**
+
+1\. POLITICAL PRINCIPLE...LAISSEZ-FAIRE
+
+2\. IDEAL COMMUNITY...SMALL VILLAGE STATE  
+  
+
+**_N. RIVALS OF EARLY TAOISM_**
+
+1. **** CONFUCIANS 
+
+2\. LEGALISTS OR REALISTS
+
+3\. MOHISTS  
+  
+
+**_O. LATER DEVELOPMENT OF TAOISM_**
+
+1\. TWO GROUPS
+
+a. FOLLOWERS OF LAO TZU
+
+b. SEARCHERS FOR IMMORTALITY
+
+2\. RELIGIOUS TAOISM
+
+a. MANY GODS
+
+3\. TAOISM ACHIEVES OFFICIAL STATUS
+
+a. SEVENTH CENTURY AD
+
+b. MONASTIC TAOISM  
+  
+
+**_P. TAOISM TODAY_**
+
+1\. 20TH CENTURY TRANSFORMATION
+
+2\. INFLUENCE OF FOREIGN IDEAS
+
+3\. COMMUNISM:
+
+a. TAOISM DERIDED
+
+b. GOVT REDUCED TO MINIMUM
+
+c. FAMILIES DISRUPTED
+
+4\. 1980s RESTRAINTS ON TAOISM REMOVED
+
+a. TEMPLES REBUILT, TAOISM RESTORED  
+  
+  
+  
+
+Confucianism Outline --- page 1  
+  
+
+**CONFUCIANISM**  
+  
+
+**_A. THE WRITINGS OF CONFUCIUS_**
+
+1\. THE FIVE CONFUCIAN CLASSICS
+
+a. THE SHU JING...BOOK OF HISTORY
+
+b. THE SHI JING..BOOK OF POETRY
+
+c. THE LI JI...THE BOOK OF RITES
+
+d. THE I CHING...THE BOOK OF CHANGES
+
+e. THE CHUN CHIU...ANNALS OF SPRING &
+
+2\. THE YUI...THE BOOK OF MUSIC & DANCE (WRITTEN LATER)
+
+3\. IT IS BELIEVED THAT CONFUCIUS DID NOT WRITE THE CLASSICS...PROBABLY USED
+THEM --MAY HAVE BEEN WRITTEN BY HIS DISCIPLES  
+  
+
+**_B. TEACHINGS_**
+
+1\. EQUITABLE SOCIAL ORDER
+
+2\. PRAYER... INTERFERES
+
+3\. RESPECT FOR SPIRITS  
+  
+
+**_C. ETHICAL PRINCIPLES_**
+
+1\. FIVE CARDINAL VIRTUES
+
+a. REN (JEN) ...THE ROOT, SEEK GOODNESS
+
+b. YI...THE TRUNK, RIGHTEOUSNESS
+
+c. LI...THE BRANCHES, MORAL ACTIONS
+
+d. CHI...THE FLOWER, WISDOM
+
+e. XIN...THE FRUIT, FAITHFULNESS
+
+2\. LI IS THE GREATEST
+
+a. IDEAL STANDARD OF SOCIAL CONDUCT
+
+b. RELIGIOUS AND SOCIAL CONNOTATIONS
+
+c. REGULATES PRINCIPLE HUMAN RELATIONSHIPS
+
+i. FATHER TOSON
+
+ii. ELDER BROTHER TO YOUNGER BRO
+
+iii. HUSBAND TO WIFE
+
+iv. ELDER TO JUNIOR
+
+v. RULER TO SUBJECT
+
+3\. LI = OUTWARD EXPRESSION....JEN = INWARD EXPRESSION
+
+a. LI + JEN = JUNZI...SUPERIOR HUMAN BEING
+
+4\. QUALITIES OF THE JUNZI
+
+a. RIGHTEOUSNESS
+
+b. EXPRESS FORGIVENESS TO OTHERS
+
+c. SINCERE IN SPEECH & ACTION
+
+d. EARNEST & GENUINE
+
+e. BENEVOLENT & GENEROUS  
+  
+
+Confucianism Outline --- page 2 ** __**  
+  
+
+**_D. POLITICAL PHILOSOPHY OF CONFUCIUS_**
+
+1\. MERGED ETHICS & POLITICS
+
+2\. REFORMING SOCIETY BEGINS AT THE TOP
+
+3\. ULTIMATE ETHICAL PRINCIPLES & FUNDAMENTAL BELIEFS
+
+a. HUMANS ARE BY NATURE GOOD
+
+b. HUMANS LEARN BEST BY EXAMPLE  
+  
+
+**_E. RELIGIOUS TEACHINGS_**
+
+1\. HUMANISTIC AND RATIONALISTIC BELIEFS
+
+2\. NO BELIEF IN SUPERNATURAL
+
+3\. HAD FAITH IN RELIGIOUS REALITY .... RITUALS, ANCESTOR WORSHIP
+
+4\. NATURAL GOODNESS OF HUMANKIND
+
+5\. MORAL LAW IS THE WILL OF HEAVEN
+
+6\. NO BELIEF IN AFTERLIFE, HEAVEN OR HELL  
+  
+
+**_F. CONFUCIANISM TODAY_**
+
+1.NEW CULTURE MOVEMENT 1920s
+
+2.COMMUNIST REGIME 1949
+
+3.CULTURAL REVOLUTION 1966-1976
+
+4.CHINA OPENED TO THE WEST 1978
+
+5.PARTY LEADER ZHAO ZIYANG 1989
+
+6.RESULTS OF THE FALL OF MAO & CONFUCIUS
+
+a. CONFUCIAN TEACHINGS NO LONGER PRIMARY TEXT FOR SCHOOLS
+
+b. VERY FEW CONFUCIAN PRIESTS  
+  
+
+Shinto Outline page 1  
+  
+
+**SHINTO**  
+  
+
+**_A. BACKGROUND_**
+
+1\. ORGANIZED FROM INDIGENOUS RELIGION
+
+2\. NO FOUNDER, NO SACRED LITERATURE
+
+3\. NAMED- - SHIN...DIVINE BEING; DO...WAY
+
+a. CHINESE WORD, SHENDAO..WAY OF HIGHER SPIRITS
+
+b. JAPANESE WORD...KAMI-NO-MICHI - - KAMI'S WAY
+
+4\. JAPANESE CREATION MYTH
+
+a. IZANAGI AND IZANAMI..PRIMAL MAN AND WOMAN, CREATORS OF JAPAN & GODS
+
+b. EVERYONE DESCENDED FROM KAMI  
+  
+
+**_B. HISTORY OF SHINTO (3 STAGES)_**
+
+1\. BEFORE 300 CE....LITTLE KNOWN
+
+2\. INFLUENCE OF CHINESE RELIGIONS, 600 CE....SUBMERGED INTO BUDDHISM
+
+3\. REVIVAL OF SHINTO...15TH - 19TH CENTURY
+
+Shinto Outline page 2  
+  
+
+a. MILITARY EFFORT TO RENOUNCE BUDDHISM & CHRISTIANITY
+
+b. BUSHIDO WARRIORS...RELIGIOUS STATEMENT...HARI KARl  
+  
+
+**_C. RELIGIOUS ELEMENTS OF SHINTO_**
+
+1\. NO DOCTRINES
+
+2\. WORSHIPFUL ATTITUDE TOWARD THE LAND
+
+3\. SHRINES TO HONOR KAMI  
+  
+
+**_D. CENTRAL ASPECTS OF SHINTO_**
+
+1\. AFFINITY WITH NATURAL BEAUTY... HARMONY WITH THE ENVIRONMENT
+
+2\. PURIFICATION RITUALS
+
+a. NO CONCEPT OF SIN
+
+b. IMPURITY (TSUMI) COMES FROM EVIL
+
+c. TSUMI REMOVED BY: WISDOM, GRACE, CLEANSING
+
+3\. HARMONY WITH THE SPIRITS (KAMI)
+
+a. SACRED AS IMMANENT & TRANSCENDENT
+
+b. WAYS OF HONORING KAMI
+
+c. MANIFESTATIONS OF KAMI  
+  
+
+**_E. RELIGIOUS BELIEFS: KANNAGARA_**
+
+1\. NATURAL, SPONTANEOUS RELIGION .... COMMUNION WITH NATURAL BEAUTY
+
+2\. WORSHIP IN THE HOME ...DAILY OFFERINGS & RITUALS
+
+3\. RELIGION AS PATRIOTISM ...DEVOTION TO FAMILY AND COUNTRY
+
+a. SOCIAL ORGANIZATION
+
+5\. THE ABSOLUTE
+
+a. POLYTHEISTIC...MANY DEITIES
+
+i. AMATERASU...GODDESS OF THE SUN
+
+ii. SUSANOO...STORM GOD
+
+iii. TSUKIYOMI...MOON GOD
+
+b. REVERENCE FOR ORDER IN NATURE
+
+c. JIMMU...FIRST HUMAN EMPEROR
+
+i. HUMAN WITH DIVINE NATURE
+
+6\. LIFE AFTER DEATH
+
+7\. RITUALS & CEREMONIES
+
+a. TORII..SACRED GATEWAY TO THE SHRINE
+
+b. PILGRIMAGES TO SHRINE OF ISE
+
+i. OFFICIAL FOR IMPERIAL HOUSE
+
+ii. SPONTANEOUS...FOR THE POOR
+
+c. PRAYERS, OFFERINGS TO KAMI  
+  
+
+**_F. THREE FORMS OF SHINTO_**
+
+1\. STATE SHINTO 1889-1945
+
+a. STATE SUPPORTED SHRINES  
+  
+
+Shinto Outline page 3  
+  
+
+2\. SECTARIAN SHINTO...MANY SECTS
+
+a. MOUNTAIN WORSHIP
+
+b. SHAMANISM & DIVINATION
+
+c. PURE SHINTO...BASIC TRADITIONS
+
+3\. DOMESTIC SHINTO
+
+a. SIMPLE, COMMON FORM
+
+b. BASIC DEITY...KAMI-DAMA  
+  
+
+**_G. SHINTO TODAY_**
+
+1\. THREATS TO EXISTENCE
+
+a. REMOVAL OF GOVERNMENT SUPPORT
+
+b. RAPID INDUSTRIALIZATION
+
+2\. NEW SECTS...MODERNIZED
+
+a. PRIVATE SUPPORT
+
+b. FAITH HEALING, CHANTING
+
+3\. SEASONAL HOLIDAYS, FESTIVALS, RITUALS
+
+a. NEW YEARS, ALL SOUL'S DAY
+
+b. CLEANSING RITES  
+  
+RETURN TO TOP
+
+![](../images/hrline.gif)
+
+HYPERLINKS TO INTERNET RESOURCES:
+
+
+
+![](../images/redline.gif)
+
+[![YSU](../images/ysulogo2.gif)](http://www.ysu.edu/) This site is maintained
+by: [The Department of Philosophy and Religious
+Studies](mailto:%22jcsmith@cc.ysu.edu%22)  
+Copyright (C) 2002, Youngstown State University. All rights reserved.
+

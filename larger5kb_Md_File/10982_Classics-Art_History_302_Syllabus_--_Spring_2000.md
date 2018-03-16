@@ -1,0 +1,201 @@
+## CLASSICS / ART HISTORY 302
+
+## [_![](images/emperors.gif)_](302topicsS00.html)
+
+#  ROMAN ART AND ARCHAEOLOGY
+
+### SYLLABUS - SPRING SEMESTER 1999-2000
+
+### ![](images/bargreek.gif)
+
+**INSTRUCTOR: STUART WHEELER  
+OFFICE: NORTH COURT 206  
+OFFICE HOURS: 1:30 to 2:30 MW and by appointment.  
+TELEPHONE: 289-8426  
+E-MAIL:[swheeler@richmond.edu](mailto:swheeler@richmond.edu)**  
+  
+**_TEXTBOOKS FOR COURSE:_  
+  
+Martin Henig, ed. _A Handbook of Roman Art_ , Cornell.  
+Mortimer Wheeler, _Roman Art and Architecture_ , Praeger.  
+  
+_RATIONALE STATEMENT - CLASSICS-ART HISTORY 302:_  
+  
+Roman art is one of the traditional divisions into which scholarship divides
+the larger category of artifacts created by the human race which it has
+designated as visual art. We will begin this course by examining the likely
+possibility that such a division is prejudicially effected by applying
+political boundaries to artistic endeavor. We will see that  "Roman art," in
+fact, includes the artistic production of many cultures over a period of over
+one thousand years only loosely tied together under the aegis of "imperium
+Romanum," and that Etruscan, Hellenistic, Hebrew, Egyptian, Punic, and other
+artistic productions all work together to create an amalgamated style which we
+call "Roman." We will proceed to a discussion of what is "Roman" about Roman
+art, looking for those features which make of this amalgam one entity, thereby
+validating the scholarly designation. In so doing it will be necessary to
+examine the various threads of the lengthy scholarly discussion which has
+defined the subject as traditionally promulgated. In our discussion we will
+explore the likelihood that the specific content of what we think and say
+about the subject is a construct of scholarly speculation rather than an
+absolute.  
+**
+
+**Once we have established the existence of Roman art as a scholarly theory,
+we will examine the "influences" of the two most pervasive (Etruscan and
+Greek) of the artistic currents which are subsumed within our traditional
+view. We will then proceed to a study of the genre divisions by which scholars
+have systematized the subject of Roman art, and explore how individual
+examples fit into that systemization through a study of their forms,
+traditions, meanings, and historical contexts.  
+  
+In the process, students will experience Roman art directly through two
+projects: (1) The examination and analysis of Roman art objects in the
+Virginia Museum of Fine Arts and (2) through their personal creation of one of
+the artistic products outlined later in this syllabus under "project two." In
+these projects, students will be able to investigate and interpret original
+works of Roman art, and actually experience the creation of an artistic
+product.  
+  
+As a result of our study of Roman art, students should understand that people
+are as profoundly influenced by the visual world around them as they are by
+the ideas which they store in their minds. They will further understand that a
+scholarly evaluation and analysis of that visual world is a necessary
+component of sophisticated appreciation.  
+  
+_OBJECTIVES OF COURSE:_  
+  
+(1) to attempt to determine what we mean when we speak of Roman art, and to
+become familiar with the principal forces and influences which produced and
+underlie it, (2) to understand the artistic development and purpose of the
+principal genres of Roman art, (3) to understand some of the techniques by
+which Roman art was produced, and by which it has been reclaimed and is
+displayed, (4) to understand the importance of a knowledge of the visual
+remains of past civilizations (particularly Roman) for our society and the
+consequent value of art history and archaeology, and (5) to assimilate the
+materials and information necessary to recognize the contributions of Roman
+art to the world around us.  
+**
+
+**_TOPICS TO BE COVERED INCLUDE_**
+
+  * **I. The Geography and Topography of the Roman world.**
+  * **II. The controversial nature of the term "Roman" in "Roman art."**
+  * **II. The artistic background to Roman art.**
+    * **A. Greek art**
+    * **B. Etruscan art**
+  * **III. Roman architecture - aulic and provincial**
+  * **IV. Roman Sculpture**
+    * **A. numismatics and portraiture**
+    * **B. historic relief**
+  * **V. Roman painting** 
+
+**_ATTENDANCE POLICY:_  
+  
+Each student is expected to attend all classes. More than 3 absences may
+result in the lowering of a student's grade. Project and review deadlines must
+be observed (late work discounted at one grade increment per day late).
+Students will be excused from classes due to religious obligations and
+observances.  
+  
+_EVALUATION:_**
+
+  * **project no. 1 - 20%;**
+  * **test no. 1 - 20%;**
+  * **test no. 2 - 30%;**
+  * **project no. 2 - 30%** 
+
+**_PROJECT NO. 1:_**
+
+> **An analysis of Roman artifacts housed in the Virginia Museum of Fine Arts
+or another appropriate museum.**
+
+**_PROJECT NO. 2:_**
+
+> **You must select _one_ of the following:**
+
+>
+
+> **1\. Through a study of Etruscan fresco painting, it is possible to
+reconstruct Etruscan ritual dancing. Using the laser disc hypercard program,
+_De Italia_ , housed in the Classics Department's computer lab in North Court
+214, collect examples of scenes which depict Etruscan dancing. Create a
+hypercard stack of your collection. Carefully study your evidence to determine
+how you will create such dances in actual performance. Your final project will
+be a showing of your collected examples, and your performance in which you
+recreate an Etruscan ritual dance.  
+>  
+>  2\. From representative scenes of Roman comedy depicted in Roman frescoes
+and mosaics, and on the painted pottery of Southern Italy we are able to
+reconstruct the theatrical costumes worn by actors in Roman productions of the
+plays of Plautus and Terence. Using the laser disc hypercard program _De
+Italia_ , collect examples of such art objects. Save your examples as a
+hypercard stack. Then produce a series of watercolor sketches in which you
+design costumes for the characters of Euclio, Megadorus, Eunomia, and
+Lyconides in Plautus' comedy, _Aulularia_ (Pot of Gold). You can read the play
+in English translation in Boatwright Library and watch scenes from a
+production of the play on the World Wide Web at http://hermes@richmond.edu,
+the UR Department of Classical Studies World Wide Web site.  
+>  
+>  3\. Mosaic and tile work is one of Rome's most important and pervasive art
+forms. The earliest such mosaics were made from pebbles, naturally smoothed in
+stream and river beds, embedded in cement, and were used for the flooring of
+Hellenistic and Roman buildings. Such  "pebble mosaics" are still widely
+created in the Mediterranean today. Although we will discuss the creation of
+mosaics in class, you will need to further explore through your research how
+the work was done. Then create a small mosaic of this "pebble" type using a
+design of your own creation.  
+>  
+>  4\. Architectural photography demands the artistic ability to recapture the
+form and line of buildings on film. Study examples of architectural
+photography on the World Wide Web. Then study Richard Cheek's excellent book
+of photographs of the architecture of the University of Richmond, available in
+the UR bookstore.**
+
+>
+
+> **Using the ideas you learn from your study, produce a portfolio (or your
+own world wide web site) of architectural photographs of selected Roman
+Revival buildings. (If you want tocreate a www site, your photographs can be
+optically scanned in UR's computer center in Jepson Hall or in the computer
+center located in the Department of Classical Studies - North  
+>  Court 214.)  
+>  
+>  Your portfolio should include both general and detailed views of the
+Virginia State Capitol Building, the Science Museum of Virginia, St. Paul's
+Episcopal Church, and the old Second Baptist Church, now part of the Jefferson
+Hotel property. Or, if you prefer, you can travel to Charlottesville, Va. and
+photograph the buildings of Jefferson's original academic village, one of the
+most outstanding examples of Roman Revival architecture in the world.  
+>  
+>  Explain your photographs in an essay in which you describe the processes
+and techniques you learned and used in producing your portfolio.  
+>  
+>  5\. The Romans were masters in the art of sculpted portraiture, capturing
+the essence of the appearance and personality of a particular human being.
+Over a period of time the Romans developed three styles of representation by
+which they accomplished the various purposes of different kinds of portraits -
+idealistic, in which the subject was presented as he or she would appear with
+all flaws removed ; realistic, in which the subject was presented as he or she
+actually appears, and sympathetic, in which the inner motivations of the daily
+stress of human life appears as a focus of the subject portrayed. Today rather
+than sculpture, the favored medium for portraiture is photography. But the
+three styles developed by the Romans can still be applied.  
+>  
+>  Your job is to produce a photographic portfolio of portraits using these
+three styles. Each subject you choose should be photographed in each of the
+three styles so that comparative value and effect can be clearly seen.  
+>  
+>  Accompany your portfolio with a short written analysis in which you
+describe the techniques you discover in your use of the camera to create the
+effects demanded for these three styles.  
+>  **
+
+[**_GO TO TOPICS AND READINGS_**](302topicsS00.html)
+
+**N.B. ALL WORK IN THIS CLASS MUST BE COMPLETED ACCORDING TO THE RULES OF THE
+UNIVERSITY OF RICHMOND HONOR SYSTEM. THE PLEDGE IS "I PLEDGE THAT I HAVE
+NEITHER GIVEN NOR RECEIVED UNAUTHORIZED ASSISTANCE DURING THE COMPLETION OF
+THIS WORK."**
+
+![](images/bargreek.gif)
+

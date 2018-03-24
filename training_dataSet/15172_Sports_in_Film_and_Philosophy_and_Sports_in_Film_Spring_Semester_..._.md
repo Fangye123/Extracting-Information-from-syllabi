@@ -1,0 +1,258 @@
+**Sports in Film and Philosophy and Sports in Film**
+
+**Spring Semester 2002**
+
+ [HOME](http://faculty.ssu.edu/~jdhatley/welcome.html)
+
+* * *
+
+**INSTRUCTORS** :
+
+  
+  
+
+**Dr. James Hatley, Philosophy**
+
+Office: Philosophy House #2 (across from Holloway Hall on Campus Avenue)
+
+Phone: 410-677-5072 (O), 410-543-7635 (H)
+
+Office Hours: M,W 2-3; Th 11-12 and BY APPOINTMENT  
+
+
+**Dr. Thomas Erskine, English**
+
+Office: 351 HH
+
+Phone: 410-543-6371 (O), 410-289-0104 (H)
+
+Office Hours: T, 10:00-11:30, W, 2-5 and BY APPOINTMENT  
+  
+
+* * *
+
+**COURSE DESCRIPTION:**
+
+  
+  
+
+            What place should sports hold in our lives? Many argue sports are a trivial pursuit with which too many of us are far too obsessed, others that our cultivation of sports is crucial to our very development as morally fit and socially sensitive human beings.Some argue the contemporary sports scene is nothing more than the expression of fascist fanaticism, others that it builds democracy and community spirit.In sports, we find a theater of the human condition, as many of us avidly follow the narratives of various players or teams.It could be easily argued we spend more time talking about or watching sports (including on films) than we do in actually playing them.Certainly sports has many faces and many roles: whether professional, school, club or amateur, whether, coach, player, spectator or booster.And the number of types of sports is dizzying--running from NASCAR to Mountain Climbing to Basketball to Cutting Logs to, perhaps, Chess.   
+
+
+            This course will consider a series of questions inspired both by our own pursuit of sports and by the way they serve as a cultural icon in the films we watch.What is the nature of sports?How serious is it to play?What is the difference between being a good sport and an effective competitor?What is the place of athleticism in sports?Of money?Of drugs?Of machines and technology?How do sports serve to define gender and racial distinctions, as well as to resist them?How does television affect our understanding of sports?While this course will not improve your swing, or develop your physical coordination, it will allow you to consider how either of those activities brings you into contact with a multitude of questions about the way you live and the way you play.   
+  
+
+* * *
+
+**TEXTS** :  
+  
+
+**_Philosophy of Sport_** ( **PS** ), M. Andrew Holowchak, ed.
+
+**_Into Thin Air_** _,  _Jon Krakauer
+
+**_The Loneliness of the Long-Distance Runner_** , Alan Sillitoe
+
+**_Shoeless Joe Comes to Iowa_** , Thomas Kinsella  
+
+
+**GRADING:**  
+
+
+**For English** : **a** ) six reading essays ( **PS** ), 25%; **b** ) two
+four-page papers 1,000 word minimum) on sports films, 40%; **c** ) final exam,
+25%; **d** ) quizzes on assigned articles and literary texts, plus class
+discussion, 10%.  
+
+
+**For Philosophy** : **a** ) six reading essays ( **PS** ), 25%; **b** ) four
+philosophy discussion essays, 40%; **c** ) final exam, 25%.; **d** ) quizzes
+on assigned articles and literary texts, plus class discussion, 10%.  
+  
+
+* * *
+
+**DESCRIPTION OF ASSIGNMENTS:**
+
+  
+  
+
+**Reading Essays (Required for English and Philosophy)** : For each of the six
+weeks we are reading and discussing essays from _Philosophy of Sport_ , a one-
+page essay answering a question or questions concerning the texts to be
+discussed for that week will be due at the beginning of class.The question or
+questions to be answered will be given to you the week before the response is
+due in class.You will turn in a copy of your essay but will also make and keep
+another copy to help with the class discussion.  
+
+
+**Discussion Essays (Required for Philosophy)** :Four of the six philosophy
+reading essays are to be rewritten in light of class discussion.Each of these
+rewritings should be no less than two pages (500 words).These are to be turned
+in within two weeks after the philosophy reading essay was turned in.  
+
+
+**Papers (Required for English):** two, 1,000 words each, on a sports film
+that is related to the readings.You must have your choice of films approved by
+the instructor.You will write about a film, using your reading, other related
+sports films you 've seen, and, if you choose, secondary sources.I'm not
+looking for a film review; I am looking for a paper with a thesis with
+supporting material.It should be the kind of paper you could not have written
+without taking this class.  
+
+
+**Quizzes (Required for English and Philosophy)** : factual, short-answer
+variety design to reward the conscientious and to promote good class
+discussion.  
+
+
+**Final Essay Exam (Required for English and Philosophy)** : all students will
+come to the final with whatever written resources they wish.Students will be
+shown a sports film that they have not seen or discussed before, given three
+topics, and asked to write about one of them, using all they have learned in
+the course.The emphasis here is on APPLICATION.  
+
+
+ALL ASSIGNMENTS WRITTEN OUTSIDE OF CLASS SHOULD BE TYPED.  
+  
+
+* * *
+
+  
+**CLASS SCHEDULE** :
+
+**[Sports and Philosophy Web
+Site](http://www.dmu.ac.uk/dept/schools/pesl/affiliat/links2.htm)  
+  **
+
+**[BI-WEEKLY READING
+QUESTIONS](http://faculty.ssu.edu/~jdhatley/sportreadingquest.htm)**
+
+**[](http://faculty.ssu.edu/~jdhatley/sportreadingquest.htm)**
+
+1-31      Introduction to the course
+
+
+
+2-6                Film and **PS** , selections 1 and 2
+
+2-7                Discussion  
+
+
+2-13             **PS** , selections 1,2,5, and 6 (Theme: The Nature of
+Sports)
+
+                [Interview with Bruce Pandolfini](http://faculty.ssu.edu/~jdhatley/pandolfi.htm)   
+
+
+2-20             Film
+
+2-21             Discussion  
+
+
+2-27             **PS** , selections 13,14,15, and 16 (Theme: Ethics and
+Sports)  
+
+
+3-6                Film and articles to be assigned
+
+3-7                Discussion  
+
+
+3-13             **PS** , selections 17,19,22, and 26 (Theme: Winning,
+Violence and Drugs)
+
+                [People Who Love Bobby Knight](http://www.imsa.edu/~mozart/people/knight.html)[People Who Hate Bobby Knight I](http://members.aol.com/rmkgeneral)[People Who Hate Bobby Knight II](http://www.aardvarkexpress.com/storywellerknight.htm)
+
+                [Phil Jackson and his Adventure in Nowness](http://www.cigaraficionado.com/Cigar/Aficionado/people/fe1098.html)   
+
+
+3-20             Film and articles to be assigned
+
+3-21             Discussion  
+
+
+**VACATION**  
+
+
+4-3                **PS** , selections 23,32,36, and 37 (Theme: Gender Race
+and Species)[TCWILLIAMS
+BASKETBALL](http://faculty.ssu.edu/~jdhatley/tcwilliams.htm)  
+
+
+4-10             Film
+
+4-11             Discussion  
+
+
+4-17             _Into Thin Air_ (Theme: Sports and the Environment)  
+
+
+4-24     _The Loneliness of the Long-Distance Runner_
+
+4-25     Discussion of film and short-story source  
+
+
+5-1                **PS** , selections 39,41,42, and 43 (Theme: Sports in
+Society)  
+
+
+5-8                "Shoeless Joe Comes to Iowa" (just the one short story) and
+film
+
+5-9                Discussion  
+  
+
+* * *
+
+**Attendance Policy** : BE IN CLASS. Unexcused absences will lower your grade
+since you will not get credit for quizzes, class participation, or philosophy
+reading essays.
+
+  
+  
+
+**Aims of the Course** : to explore how the film medium presents sports on
+film; to place sports in a cultural context; to explore moral issues raised in
+the practice of sports; to reflect on the nature of play and its contribution
+to a well-lived life; to think critically; and to make coherent and valid
+arguments for a position.  
+
+
+**Inclement Weather Policy** : identical to SU policy--don't drive if it's
+dangerous--you will get an excused absence and be allowed to make up the work.  
+
+
+**Religious Holidays** : excused absences IF you observe the holidays.  
+  
+
+* * *
+
+# Plagiarism
+
+            The English Department takes plagiarism, the unacknowledged use of other people's ideas, very seriously indeed.As outlined in the Student Handbook under the "Policy on Student Academic Integrity," plagiarism may receive such penalties as failure on a paper or failure in the course.The Department's Plagiarism Committee determines the appropriate penalty in each case, but bear in mind that the committee recognizes that plagiarism is a very serious academic offense and makes its decisions accordingly.
+
+  
+  
+
+Each of the following constitutes plagiarism:  
+
+
+1.Turning in as your own work a paper or part of a paper that anyone other
+than you wrote.This would include but is not limited to work taken from
+another student, from a published author, or from an Internet contributor.  
+
+
+2.Turning in a paper that includes unquoted and / or undocumented passages
+someone else wrote.  
+
+
+3.Including in a paper someone else's original ideas, opinions or research
+results without attribution.  
+
+
+4.Paraphrasing without attribution.  
+
+
+            A few changes in wording do not make a passage your property.As a precaution, if you are in doubt, cite the source.Moreover, if you have gone to the trouble to investigate secondary sources, you should give yourself credit for having done so by citing those sources in your essay and by providing a list of Works Cited or Works Consulted at the conclusion of the essay.In any case, failure to provide proper attribution could result in a severe penalty and is never worth the risk.
+

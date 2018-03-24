@@ -1,0 +1,93 @@
+[[Contents](/users/mfcjh/wiu/contents.htm)]
+[[Comment](/users/mfcjh/wiu/comment.htm)] [[Home
+Page](/users/mfcjh/wiu/home.html)] [[Index to Helm's home
+page](/users/mfcjh/wiu/index.htm)] [Page Up] [Page Down]
+
+## Modern Political Theory Glossary of Terms (M to Z)
+
+* [Return to first part](http://www.ecn.bgu.edu/users/mfcjh/wiu/class/glossary/glossar1.htm) of the glossary (A-L)
+
+**_Machiavelli**_ \-- Machiavelli was born in 1469 and he died in 1527. He was
+born in the great city of [ Florence](http://) into a middle-class family. We
+don't know a great deal about his early years until he entered the Florentine
+chancery. While many in his family had held office in the city's government,
+his father's position had been more modest than other members of the family.
+Given his backgound, Machiavelli's prospects were rather slim. We know that he
+was well read in his early years, but not a great deal beyond that. He entered
+the Florentine chancery in 1498 just a few days after the execution of the
+religious fanatic Girolamo Savonarola in the Piazza della Signoria. His
+responsibilities in the chancery dealt with domestic and foreign affairs. In
+July of 1498 he was selected to be the secetrary to the Ten of War.
+Machiavelli received considerable practical experience in these years in
+government service from 1498 to 1512. We know that his later criticisms of
+standing armies and his defense of a citizen militia in the name of
+citizenshhip was formed during this period. During these years Machiavelli met
+Cesare Borgia, a figure we see recurring thoroughout the _**Prince.**_
+Machiavelli both feared and admired Borgia. Feared him for the threat he posed
+to the independence of Florence. Admired him in that Borgia held out the
+possibility of unifing the Italian penisula. His fear was well placed. In
+1512, Borgia returned to power in November of 1512 and Machiavelli was forced
+into retirement from public office and was never to return again, This was for
+Machiavelli one of the hardest of choices but what Florence lost as a great
+statesman the world has received as a political theorist and strategic thinker
+whose influence has only grown in the ensuing centuries. For the reticient
+author prior to 1512 he suddenly found his voice and published T _he Art of
+War, The Discourses, "The History of Florence, the Mandrake Root, Belfagor,
+The Life of Castruccio Castracani and Cliza_
+
+* **_Machiavellian_** \-- Webster's Unabridged, Second Edition defines Machiavellian as pertaining to Niccolo Machiavelli, Florentine Statesman, or denoting the political principles of craftiness and duplicity advocated by him. Iago in Shakespeare's Othello is the consumate Machiavellian on this definition. As we shall see however this definition is somewhat narrowly focussed on **The Prince** and less on the **Discouses on Titus Livy** and his other writings.
+
+* **_Middle Ages_**\-- One of the three main historical classifications of Western society. (The other two are the Classical period and the Modern era.) These distinctions are historical classifications of earlier periods that date from the Nineteenth century. The rough time frame of the Middle Ages is from the eighth century to the fifteenth century. While Chrisitianity was a dominant system throughout the Middle Ages we can further divide these seven hundred years into a Christian era from the 8th to the 12th century and the later more saecular and scholastic era until to the 15th century. The dominant instituions throughout this perios were feudalism (see above), paternalistic authority, a Christian commenwealth with a stress on God's immanence, a Christian cosmology, and the earth as a testing place for enterance into heaven.
+
+* _**Modernity**_ \--In political theory it is traditional to divide the history of political theory into two broad classifications: The Classical Period--Greeks to the End of the Middle Ages-- and the Modern period from Machiavelli, in the sixteenth century to the present. Such a distinction is, of course, arbirtrary. but there are real grounds for drawing such a distinction between the modern and the earlier era. The term has meant different things at different times, and in the hands of different interpreters. Machiavelli defines himself in opposition to the earlier classical period. He contends that he will take a new "realist" stance toward the study of political philosophy and focus on what is "real" rather than what ought to be. He provides a new justification for the use of violence and differentiaties between appearance and reality arguing that how we appeared was more important than how we really are. This is reinforced with the scientific revoulution of the seventeenth century with an explanation of natural phenomena by reference to laws of nature in the absence of any talk of the diety. Modernity is also identified with liberalism and the emphasis on the individual, rights, the social contract and a public-private distinction. In the nineteenth century, modernity is identified with the industrial revolution and the rise of the masses. In the twentieth modernity has been identified with such horrors as totalitaritanism, the holocaust and Nazism on the one hand; and on the other, with the rise of the middle class, the spread of democratization and the rise of minorities and women.
+
+* * **_"One Simple Principle"_ ** The "one simple principle" is John Stuart Mill's effort to establish a distinction between a public and private realm. The principle from On Liberty states "that the sole end for whichb mankind are warranted, individually or collectively, in interfering with liberty of action of any of their number, is self protection...The only purpose for which power can be rightfull exercized over any memmer of a civilized community, against his will, is to prevent harm to others. His won good, either physicak or moral, is not a sufficient warrant." He then makes an equally famous distinction between "self and other regarding" acts. "The only part of the conduct of any one, for which he is amenable ot society, is that which merely concerns himself, his independence is , of right, absolute. Over himself, over his own body and mind, the individual is sovereign." This principle is far from simple and has led to considerable debate about its usefullness particularly as society grew more complex and interdepent. 
+
+* **_Participatory or Direct Democracy_**
+
+* **_Political Theory_**
+
+* _**Puritanism**_ \--Puritanism was a form of fundamentalism in seventeenth England. In the 1530's Henry VIII broke away from the Church of Rome and formed the Anglican church. By that he unleashed a series of unattended consequences that were finally played in the Putitanism of the seventeenth century and accompanying political revolution. Puritans wanted to complete the break with the Church of Rome and more importantly they wanted to reform the corrupt Anglican church. We are part of Christian Commonwealth, a Great Chain of Being in which God's plan was seen in all aspects of human life. The Puritans were driven by a heavenly zeal to make this a heaven on earth. This impulse was to drive them in the early part of the seventeenth century to immigrate to the New World in the hopes of a founding a Christian community dedicated to the pursuit of God's perfection. There indirect impact was to bring down a governement in England and lead to the Cromellian commenweatlh and in the United States there stress on a social contract and the pre-eminence of the individual was to have profound implications for our later political history. For one good account see David E. Stannard, **The Puritan Way of Death: A Study in Religion, Culture and Social Change** (New York: Oxford University Press, 1977)
+
+* **_Reformation_**\--The moral deterioration of the Catholic Church, in particular the popes, resulted in in a call for a religious renewal. The impetus for the Reformation resulted from the Church's sale of indulgences to finance the ambitious plans of the crusaders and the architectural builders of that day. Luther unable to find evidence of God's grace and suspicious of the temporal church sale of indulgences, turned to the bible for guidance and discovered a new faith in God's redeeming virtues . 
+
+* **_Renaissance_** \-- The terms implies a rebirth, a new beginning and a throwing off of the earlier medieval era. It is almost impossible to date the period with any precision. The traditional confinement of the term to the sixteenth century and the Reformationa and Counter-Reformation is arbitrary and too neat. Clearly the later part of the Middle Ages with a rise of more saecular values after the twelfth century was crucial to the beginning of the Middle Ages. The Renaissance implied a new centrality to human striving and suggests a breaking away from dependence on the Church or God. Men sought explanations of natural phenomena in laws of nature that had perhaps their origin in the watch maker's eye but which now ran on their own. "Within the span of a single generation, Leonardo, Michelango, and Raphael produced their masterworks, Columbus discovered the New World, Luther rebelled against the Catholic Church and began the Reformation, and Corpernicus hypothesized a heliocentric universers and commenced the Scientific Revolution." Richard Tarnas, _The Passion of the Western Mind,_ , p.224
+
+* **_Representative Democracy_**
+
+* **_Republicanism_**\-- Republicanism or Civic Humanism (There are distinctions to be drawn between the two terms, but for our purposes we will collapse those distinctions.) is a political philosophy that can be traced from Machiavelli in the Discourses (though many of its component can be traced back to Aristotle and Cicero) up until to the later part of the nineteenth century. J.G.A. Pocock in a now classic work The Machiavellian Moment (Princeton: Princeton University Press, 1975) is probably the central figure in convincing the academic community of the importance of this movement. He reads much of the seventeenth century and beyond as an exhchange between the two schools of Civic Humanism and Liberalism. The Civic Humanist stresses such values as citizenship, political participation, political education, community and public spiritedness. In the debate between Republicanism and Liberalism both sides have been given to carricature in their account of the other. The Republican sees the individual as a citizen and participant and characterizes the liberal individual as withdrawn living a private life and attending to the acquisiton of material things. 
+
+* **_Scholasticism_** \--In the later part of the middle ages the hold of Christian thinking increasinly was reshaped to a more secular framework. There was increasing attention paid to the reality of the natural world. This increasing secularization resulted in a rise of the universities and the develoment of the famous trivium (grammar, rhetoric, and dialetic) and the quadrivium (arithmetic, music, geometry and astronomy). There was an increasing optimism that humans's could understand the natural world that they operated in.
+
+* **_Scientific Revolution_**
+
+* **_Social Contract_**--This is a core componet of the liberal tradition. The social contract, which has its roots in earlier feudal traditions, is used by liberal theorists like Hobbes and Locke to define the conditions under which people will leave the state of nature. People living in the state of nature find at certain point that they can continue living in the state of nature. While the terms of the contract differ with each theorists,m for each it is way to define the powers of the state and vacate the state of nature. The contract gives the parties to it some leverarge to control the behavior of each other. The contract assumes that we are rational creatures and that we enter into the contract freely. The legitimacy of the rests on its adherance to the terms of the contract.
+
+* **_Socialism_**
+
+* **_State of Nature_** -\- The state of nature is a fiction used by liberal theorists to analyze and justify the character and limits of state power. Liberal theorists like Hobbes and Locke postulate a state of nature prior to the state and ask what is human nature like and under what conditions do humans leave the state of nature. The social contract is closely linked to this pre-political state in that the details of the contract reflect quite closely the conditions found in the state of nature. Human behavior in the state of nature varies greatly in the theories of Locke, Hobbes and Rousseau and shapes their conception of the state and nature of political power. 
+
+* **_Tyranny of the Majority_**\--This concept is identified most closely with the writings of the 19th century theorists Alexis de Tocqueville and John Stuart Mill. The tyranny they fear is less that of representative majorities operating in the poitical area and more the social tyranny in our daily social relations. With the rise of democracy in the 19th century there are new pressures of conformity as the ascribed status distintinctions and class lines are increasingly weakened. Traditional lines of authority are weakened and their place a levelling occurs with a concommitant pressure for social levelling. This is a quiet tyranny that comes in on cat's paws rather then the jack boots of totalitarianism. As citizens of a democracy we aborgate our rights in the name of harmony. We go along to get along.
+
+* _**Welfare State Liberalism**_ \-- In the U.S. the expansion of government is identified with the presidency of Franklin Delano Roosevelt and the crisis of capitalism in the thirties. With heightended unempolyment reaching record levels citizens looked to the federal government and we saw the passage of social security, unemployment and other protections of the vulnerable. These protections, some would say conditions of dependency, were extended considerably during the late sixties during the LBJ era. The result has been an extension of AFDC, food stamps, subsidized housing, medicaid and other means tested social programs. In the new Republican majority elected in 1994 many of these programs are now being seriously questioned.
+
+[Return to the first part of the
+](http://www.ecn.bgu.edu/users/mfcjh/wiu/class/glossary/glossar1.htm) of the
+glossary from A to K
+
+Return to [Syllabus](http://www.ecn.bgu.edu/users/mfcjh/wiu/class/382.htm)
+
+* * *
+
+![](/users/mfcjh/wiu/images/colorbar.gif)
+
+[![\[Contents\]](/users/mfcjh/wiu/images/cntsicox.gif)
+[Contents]](contents.htm)
+[![\[Index\]](/users/mfcjh/wiu/images/indxicox.gif)[Index]](/users/mfcjh/wiu/index.htm)
+[
+![\[Comment\]](/users/mfcjh/wiu/images/cmnticon.gif)[Comment]](/users/mfcjh/wiu/comment.htm)
+[
+![\[Home\]](/users/mfcjh/wiu/images/homeicon.gif)[Home]](/users/mfcjh/wiu/home.html)
+![\[Up\]](/users/mfcjh/wiu/images/upicon.gif)[Up]
+![\[down\]](/users/mfcjh/wiu/images/downicon.gif)[Down]
+

@@ -1,0 +1,369 @@
+#  Psychology 101, Section 3, Spring 2002
+
+
+
+**TABLE OF CONTENTS**
+
+  1. Course information
+  2. Instructor and Teaching Assistant
+  3. Required textbook
+  4. Exams and Grades
+  5. Research Participation
+  6. Grade worksheet
+  7. Lectures and Reading Assignments
+  8. Attendance policy
+  9. Scholastic dishonesty policy
+
+* * *
+
+##  Course Information
+
+PSYCHOLOGY 101, SECTION 3  
+INTRODUCTORY PSYCHOLOGY  
+ROOM E100 VET CLINIC  
+CLASS MEETING TIMES: TUES & THURS, 12:40 - 2:30
+
+* * *
+
+##  Instructor and Teaching Assistant
+
+###  INSTRUCTOR - PROFESSOR ROBERT A. CALDWELL
+
+OFFICE: 125 Snyder Hall
+
+PHONE: 353-4548
+
+e-mail: [bob@msu.edu](mailto:bob@msu.edu)
+
+OFFICE HOURS: Monday 9:00 - 9:50, Tuesday 11:00 - 11:50
+
+###  John Morris, Teaching Assistant
+
+OFFICE: S338 Plant Biology
+
+PHONE: 432-1674
+
+e-mail: [morri127@msu.edu](mailto:morri127@msu.edu)
+
+OFFICE HOURS: WED. 11:00 - 1:00
+
+* * *
+
+##  Required textbook
+
+###  TEXT: PSYCHOLOGY by Sdorow and Richabaugh, 5th Edition, McGraw Hill.
+
+Text readings should be read before the class for which they are assigned.
+Lectures will be more beneficial if you have already read the assigned
+material.
+
+* * *
+
+##  **_Exams and Grades_**
+
+There will be three in-class examinations and a final. Each exam will cover
+the lectures given since the previous exam and will contain 60 multiple choice
+questions. The lowest grade from the three in-class examinations will be
+dropped. Therefore, only the two highest scores on the three in-class exams
+will count toward your class grade. The final exam is mandatory. If you should
+miss one of the three in-class examinations, **there will be no make-up
+exams** , the two exams that you do take will be counted. If you should miss
+more than one of these exams, it is very unlikely that you will pass this
+course. PLEASE TRY TO AVOID THIS. The remaining 10% of your grade must be
+earned in one of the ways described below.
+
+  
+  
+
+The FINAL EXAM will be held in our usual classroom(E100 VCC) on WEDNESDAY, MAY
+1ST at 12:45-2:45 pm. Note that this is different from our usual meeting time.
+The final exam will cover material from the last quarter of the semester.
+
+* * *
+
+##  **_Research Participation_**
+
+Psychology is the scientific study of the human mind and of people's behavior.
+Consistent with this definition, the faculty and graduate students of the
+Psychology Department maintain active research programs in all areas of
+psychological study. There are many ways for you to become familiar with these
+research programs, but one unique way to learn about them is by being a
+participant in a research study.
+
+**__The ten percent solution_. _** Throughout the semester, researchers in
+need of participants will post their experiments on the internet. You may sign
+up for these experiments via the internet using the procedures outlined in a
+handout distributed on the first day of class. Participation in these research
+projects will earn you research "credits". A research credit is equal to
+approximately a half hour of your time. To earn the final ten percent of your
+class grade you must (except under special circumstances discussed below) earn
+ten research credits - approximately five hours of participation.
+
+Your participation in psychological research is vital to the continued
+development of the science of Psychology. Without your participation, the
+faculty and graduate students in the Psychology department would be severely
+hampered in their efforts to understand people and their behavior. However,
+you benefit from participation, too. Besides receiving class credit, you will
+have the opportunity to know about research in a very direct way. You will
+have the opportunity to talk to the researchers about their projects (usually
+after your participation is complete) and every effort will be made to make
+your participation a learning experience.
+
+**__Some rules of the game_. _** Participation in research can be a rewarding
+experience if both the researcher and the participant follow a few simple
+rules. For their part, the researchers must ensure that your safety, comfort,
+dignity, and privacy are protected. To make sure that this happens, each
+research project is carefully considered by the University Committee for
+Research Involving Human Subjects (UCRIHS) before it is posted on the web.
+UCRIHS only approves those projects that ensure that your rights as a
+participant are fully protected.
+
+**__If you can't come, cancel_. _** For your part, you must show up for the
+experiment(s) that you have signed up for and you must participate in good
+faith. If you fail to show up for your experiment, one research credit will be
+subtracted from the total you have earned for each experiment you miss. If you
+cannot make an experiment that you have signed up for, you may cancel, without
+penalty, at least one day in advance of the experiment by following the
+directions on the handout.
+
+**__Vote early, vote often_. _** A word to the wise -- don't leave all your
+research participation to the end of the semester. Avoid the end of the
+semester rush, when there may be more participants than research projects.
+
+**__Extra Credit_ :_**  Ten credits of research participation are required for
+the final 10% of your class grade. You may earn up to five additional research
+credits (i.e., fifteen total credits). These additional research credits will
+count as extra class credit, one extra point for each extra research credit
+(up to five).
+
+**__Conscientious objectors_. _** I really encourage each of you to
+participate in the research programs of the department, but occasionally a
+student may choose not to participate as a subject. If for some reason, you
+feel unable or unwilling to participate in research, you may choose a
+different way to earn the final 10% of your grade. If you wish to choose this
+option, please talk to the teaching assistant as soon as possible.  
+  
+
+_Problems with your research credit:_ On each in-class exam and on your final
+exam, we will ask you to record the number of research credits you have earned
+to date. To find this information, you should sign onto the research
+participation web site and check your personal history. This will tell you how
+many credits you have earned and any penalties you have had deducted for
+missed sessions. If this information is incorrect, you should  immediately
+contact:
+
+  
+  
+
+**Mrs. Seka Remsing, Subject Pool Secretary**
+
+**OFFICE: 137 Snyder Hall PHONE: 355-9561 **
+
+**EMAIL:**[ **seka.remsing@ssc.msu.edu**
+**](mailto:seka.remsing@ssc.msu.edu)**
+
+  
+  
+
+It is your responsibility to make sure your personal history is accurately
+recorded on the computer. At the end of the semester we will take your
+research credits from the computer, so if there is a problem, it could be
+reflected in your grade for the class.
+
+  
+  
+
+******How to calculate your grade** : At the end of every semester, there is
+much interest (and usually some confusion) about how we calculate grades. This
+work sheet should help you figure out what grade you have earned in the class.
+
+  
+  
+
+List your three in-class exam grades. These scores are the number of items you
+marked correctly (i.e., it should be a number between zero and 60).
+
+  
+  
+
+1\. Exam 1 grade ___________Exam 2 grade__________ Exam 3 grade _________
+
+  
+  
+
+2\. Total of the two highest in-class exam grades (0-120)________
+
+  
+  
+
+3\. Final exam grade (0-60) __________
+
+  
+  
+
+4\. Total of lines 2 and 3 (0-180) __________
+
+  
+  
+
+5\. Multiply line 4 by 0.50 __________ (do not round your answer, carry two
+decimal places to the next steps. Your answer should be in this range:
+0.00-90.00)
+
+  
+  
+
+6\. Total number of research credits earned __________
+
+  
+  
+
+7\. Subtract the number of research credits deducted for no-shows from line 6
+(0-15) __________
+
+  
+  
+
+8\. Add line 5 and line 7 __________. This is your class total. Do **not**
+round your total in any way. Here is how to convert this to a class grade.
+
+  
+  
+
+90.00 - 100 = 4.0
+
+85.00 - 89.99 = 3.5
+
+80.00 - 84.99 = 3.0
+
+75.00 - 79.99 = 2.5
+
+70.00 - 74.99 = 2.0
+
+65.00 - 69.99 = 1.5
+
+60.00 - 64.99 = 1.0
+
+< 60 = 0.0
+
+  
+  
+
+**Unfortunately, some of you will be very close to the line for the next
+highest grade. There is nothing I can do about that. I cannot give you a grade
+you did not earn. Please do not call me or the TA to see if we will make an
+exception in your case. We will not!**
+
+  
+  
+  
+  
+
+**SYLLABUS**
+
+  
+  
+
+**DATE - TOPICS - READINGS**
+
+  
+  
+
+1/8/02 Administrative details, Intro to Psychology... Ch. 1
+
+1/10/02 Research in Psychology, Ethics, Professional Psychology...Ch. 2
+
+1/15/02 Biological Psychology, Part 1 ... Ch. 3
+
+1/17/02 Biological Psychology, Part 2... Ch. 3
+
+1/22/02 Body Rhythms & Mental States ... Ch. 6
+
+1/24/02 Sensation ... Ch. 5
+
+1/29/02 Perception ... Ch. 5  
+  
+
+**1/31/02 EXAM 1**  
+  
+
+2/5/02 Infant and Child Development ... Ch. 4
+
+2/7/02 Child and Adolescent Development ... Ch. 4
+
+2/12/02 Adult Development, Gerontology ... Ch. 4
+
+2/14/02 Learning ... Ch. 7
+
+2/19/02 Memory ... Ch. 8
+
+2/21/02 Cognition ... Ch. 9
+
+2/26/02 Language ... Ch. 9  
+  
+
+**2/28/02 EXAM 2**  
+  
+
+**March 4 - 8** **SPRING BREAK**  
+  
+
+3/12/02 Intelligence ... Ch. 10
+
+3/14/02 Emotions ... Ch. 12
+
+3/19/02 Motivation ... Ch. 11
+
+3/21/02 Personality, Part 1 ... Ch. 13
+
+3/26/02 Personality, Part 2 ... Ch. 13
+
+3/28/02 Abnormal Psychology... Ch. 14  
+  
+
+**4/2/02 EXAM 3**  
+  
+
+4/4/02 Psychotherapy, Part 1 ... Ch. 15
+
+4/9/02 Psychotherapy, Part 2 ... Ch. 15
+
+4/11/02 Stress and Illness ... Ch. 16
+
+4/16/02 Social Support and Health ... Ch. 16
+
+4/18/02 Social Thinking and Influence ... Ch. 17
+
+4/23/02 Social Relations and Group Behavior ... Ch. 17
+
+4/25/02 Applied Psychology & Social Diversity ... Appendix B  
+  
+
+* * *
+
+##  **_Attendance policy_**
+
+Regular attendance is suggested, however, attendance will not be taken.
+
+* * *
+
+##  **_Scholastic dishonesty policy_**
+
+Scholastic dishonesty will not be tolerated and will be prosecuted to the
+fullest extent. You are expected to have read and understood the current issue
+of Michigan State University, Academic Programs published by the Registrar's
+Office, for information about procedures and about what constitutes scholastic
+dishonesty (page 51).
+
+* * *
+
+**_Spring Semester 2002_** [
+![](http://www.7am.com/graphics/clocksml.gif)](http://www.7am.com)
+
+* * *
+
+**_3 January 2002_**  
+**_Department of[Psychology](http://psychology.msu.edu), [College of Social
+Sciences](http://www.ssc.msu.edu), [Michigan State
+University](http://www.msu.edu/)_**
+

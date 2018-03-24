@@ -1,0 +1,259 @@
+![](rutgers.gif)  
+Camden College of Arts & Sciences  
+Department of Philosophy and Religion
+
+  
+
+#  Spring 2001
+
+  
+**History of Philosophy II (Modern)**  
+**730:302**
+
+Instructor:  Charles Jarrett  
+    
+  Office: | 461 Armitage Hall  
+---|---  
+Office Hours: | F 9:00 - 10:00, MWF 12:15 - 1:15, and by appointment  
+Phone: | 856-225-6233  
+Fax: | 856-225-6544  
+Email: | [jarrett@crab.rutgers.edu](mailto: jarrett@crab.rutgers.edu)  
+Secretarial Office | 445 Armitage      856-225-6136      M-F 8:30 - 4:30  
+Mailing Address | Department of Philosophy and Religion  
+| Rutgers University  
+| 311 N. 5th St.  
+| Camden, N.J., 08102  
+  
+Contents of this page:
+
+  * Texts
+  * Grades
+  * Tentative Reading Schedule
+  * Homework Assignments
+
+  
+
+
+**TEXTS:**  
+No textbooks need to be bought for this course.  All of our readings are
+available on the web (or from me).
+
+I)    Rene Descartes, _Meditations on First Philosophy_  
+       <http://philos.wright.edu/DesCartes/Meditations.html>   
+       <http://www.utm.edu/research/iep/text/descart/des-med.htm>   
+       Descartes, _Meditations on First Philosophy_. Hackett Publishing Co., 1998. 
+
+II)  David Hume,  _An Enquiry Concerning   Human Understanding_  
+      <http://www.utm.edu/research/hume/wri/1enq/1enq.htm>   
+      <http://eserver.org/18th/hume-enquiry.html>   
+      <http://coombs.anu.edu.au/Depts/RSSS/Philosophy/Texts/Enquiry1-5.html>   
+      Hume, _An Enquiry Concerning Human Understanding_.   Hackett Publishing   
+          Co.,1993. 
+
+III) Immanuel Kant, _Prolegomena to Any Future Metaphysics_  
+      <http://www.utm.edu/research/iep/text/kant/prolegom/prolegom.htm>   
+      <http://eserver.org/philosophy/kant-prolegomena.txt>   
+      Kant, _Prolegomena to Any Future Metaphysics._ Hackett Publishing Co., 1977 _._
+
+IV) Georg Wilhelm Frederich Hegel, _Introduction to the Philosophy of History_  
+    <http://home.mira.net/~andy/history0.htm><http://www.ets.uidaho.edu/mickelsen/texts/Hegel%20-%20Philosophy%20of%20History.htm>   
+Hegel, _Introduction to the Philosophy of History_.   Hackett Publishing Co.,
+1988.
+
+V)  Friedrich Wilhelm Nietzsche, _The Gay Science_  
+ <http://www.cwu.edu/~millerj/nietzsche/gayscience.html>
+
+VI)  Jean-Paul Sartre, "Existentialism as a Humanism"  
+ <http://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm>
+
+VII) John Stuart Mill, _On Liberty_  
+ <http://www.fordham.edu/halsall/mod/jsmill-lib.html>
+
+VII Russell, _The Problems of Philosophy_  
+ <http://www.voyageronline.net/~daniel/bertrand.htm>  
+
+
+**RECOMMENDED TEXTS** (Not Required)::
+
+Wallace I. Matson, _A New History of Philosophy.   Volume Two: From Descartes
+to_  
+_         Searle. _  Harcourt College Publishers, 2000.  
+Robert C. Solomon, _The Big Questions_. _A Short Introduction to Philosophy_.
+Harcourt,  
+        Brace,  Javonovich (HBJ).   
+Forrest E. Baird and Wlater Kaufmann (eds.),  _Philosophical Classics:   From
+Plato to_  
+_         Derrida_. Prentice Hall.
+
+**GRADES** : (See NOTES below.)  
+  Midterm | 25%  
+---|---  
+Final Exam  | 30%  
+Oral Presentation  | 10%  
+Term Paper | 20%  
+Homework | 10%  
+Attendance & Participation |   5%  
+  
+    
+    
+  **Tentative Reading Schedule** Read the assigned material BEFORE class. Be
+prepared, for each reading, to answer these questions: 1) What is the author's
+central thesis? 2) What argument is (and /or could be) given for this thesis?
+3) How can the argument or the thesis be criticized? 4) What is your own
+position on the issue and what reasons do you have for it ? 5) What else, if
+anything, is of interest in the reading? (Come to class with questions as well
+as answers.)
+
+Please note that we will proceed at our own pace, and that modification in the
+schedule may be made as we go.  
+
+
+Jan 17    Introduction  
+Jan 19    Introduction
+
+Jan 22    Descartes, _Meditations_  
+Jan 24    Descartes, _Meditations_ (cont'd)  
+Jan 26    _Meditations_
+
+Jan 29    _Meditations_  
+Jan 31    _Meditations_  
+Feb  2    Hume, _Enquiry Concerning Human Understanding_
+
+Feb   5    Hume, _Enquiry_ (cont'd)  
+Feb   7    Hume, _Enquiry_  
+Feb   9    _Enquiry_
+
+Feb 12    _Enquiry_  
+Feb 14    Kant, _Prolegomena to Any Future Metaphysics_  
+Feb 16    Kant, _Prolegomena to Any Future Metaphysics_ (cont'd)
+
+Feb 19    Kant, _Prolegomena_  
+Feb 21    Kant, _Groundwork of the Metaphysics of Morals_ (excerpts)  
+Feb 23    Hegel, _Introduction to the Philosophy of History_
+
+Feb 26    Hegel, _Introduction_  
+Feb 28    Hegel, _Introduction_  
+Mar   2    Nietzsche, _The Gay Science_
+
+Mar   5    Nietzsche, _The Gay Science_  
+Mar   7    Review  
+Mar   9    Midterm Exam
+
+Mar 12 - Mar 16 Spring Recess. (No classes.)
+
+Mar 19     Nietzsche  
+                 LAST DAY TO DROP A COURSE (without petitioning SSC)   
+Mar 21     Mill, _Utilitarianism_  
+Mar 23     Oral Presentations
+
+Mar 26     Mill, _Utilitarianism_  
+Mar 28     Mill, _On Liberty_.  
+Mar 30     Oral Presentations
+
+April   2     Mill, _On Liberty_  
+April   4     Sartre, _Existentialism as a Humanism_  
+April   6     Oral Presentations
+
+April   9     Sartre, _Existentialism_  
+April 11     Sartre, _Existentialism_  
+April 13     Oral Presentations
+
+April 16     Russell, "Why I am not a Christian"  
+April 18     Russell, _Problems of Philosophy_  
+April 20     Oral Presentations
+
+April 23     Russell, _Problems of Philosophy_  
+April 25     Russell, _Problems_  
+April 27     Oral Presentations
+
+April 30     Review
+
+Final Exam: Friday, May 4, from 9:00 A.M - 12:00 P.M, in our regular
+classroom.  
+    
+
+
+**Notes** on Grades
+
+**Midterm** and   **Final Exam**.  
+        These will be closed-note and closed-book exams. The final will be cumulative.  The exams will be partly essay-style, with questions based on our readings, class discussions, and the oral presentations. 
+
+**Oral Presentation**  
+    Sign up by January 31 for a date on which to give your oral presentation.  (See the Reading Schedule for available dates.)  Note that your paper is due one week before your oral presentation and that an outline or draft of the paper is due two weeks before your oral presentation.   
+    Your presentation should last approximately 10 minutes and should consist of a presentation of  the issue, the central thesis, and the main arguments that are found in your Term Paper.   
+    Use notes, or your paper itself, if you wish, but DO NOT READ your presentation.   
+    You will be graded on style and content.  (Do not mumble. Make eye contact.  Use handouts or other visual aids.  Present good reasons for your view. Be clear and consistent. Anticipate and address plausible objections.)   
+    Expect one of the following grades:   
+        95   Truly Outstanding Presentation   
+        85   Fairly Good Presentation   
+        75   There is a noticeable problem in style or content.   
+        65   There is more than one problem in style or content.   
+          0    No presentation 
+
+**Term Paper**  
+    The term paper is due one week before your oral presentation is to be given.  An outline or draft of the paper _must_ be submitted one week before your paper is due.   This outline or draft must also be approved by me.   
+    The paper should be approximately eight (plus or minus two), double-spaced pages with reasonable margins and font size.   
+    Essential to the paper is a statement of your own view of the issue raised and your reasons for it, as well as a defense of your thesis against some good objection. .  I suggest the following procedure:  a) Select a short article or book excerpt;  b) Describe and evaluate the central theses and arguments of the author; c)  State your own view and your main reasons for it; d) defend your view against some good objection. 
+
+    An optional paper may be turned in by April 16. The topic of the paper **_must_** be explicitly approved by me, and a rough draft or detailed outline of the paper must be turned in to me, at least one week before you submit the paper. This paper will increase your midterm exam score by 0 to 10 percentage points. 
+
+    A revised version of your paper may be submitted by April 30. This will increase your paper grade by 0 to 10 points. Substantial improvements in the paper must be made to receive any extra credit for this. 
+
+NOTE:  Plagiarism will result in a failing grade for the course and a referral
+to the Dean of Students' office. Dismissal from the college is a penalty the
+Dean may impose.
+
+**Homework**.  
+        These are short writing assignments (typically one or two paragraphs), due at the _beginning_ of the next class meeting.   (You may email or fax your homework to me prior to the beginning of class.)  You may skip any two of these, but one point will be deducted from your course grade for each assignment (beyond the first two) not done.  There is no limit to the number of points you can lose for this.   
+        Your answer to these assignments may be used as a basis for class discussion. (They may be read out in class.)   
+    
+
+
+**Attendance and Participation**.  
+        Please attend every class and be prepared to contribute to the class discussion of the readings. You may miss five classes without penalty.  After that, one point will be deducted from your course grade for each unexcused absence.  Absences are excused for medical reasons (for example), but you must provide a note.  Check with me before you miss class or immediately after your return; otherwise, your absence will be unexcused.   
+        One point will be lost for lack of preparation.  (Each time you are called on in class and haven't a clue, one point will be deducted from your course grade.)   
+    There is no limit to the number of points you can lose for unexcused absences or lack of preparation.   
+
+
+**Homework Assignments**
+
+1.  How, if at all, do you know that you are not now dreaming?  How (if at all) did Neo know that he had "awakened" from the matrix? 
+
+2.  What are Descartes' reasons for doubting mathematical truths (in Meditations I)?  How, if at all, would you resolve those doubts? 
+
+3.  What is it that Descartes cannot doubt (in Meditations II)?  Explain why you agree or disagree. 
+
+4.  Briefly describe you own idea about what God is.  For what reasons do you believe that God does, or does not, exist? 
+
+5.  State Descartes' main argument in Meditation III for the existence of God.  State and assess one good objection to his argument. 
+
+6.  How, in your view, is your mind related to your body?  State and reply to one good objection to your view. 
+
+7.  State (a) Descartes' argument for the real distinction between mind and body or (b) Descartes' explanation of the phantom limb phenomenon, in Meditation VI.  Explain why you agree or disagree with his views. 
+
+8.  How, if at all, is it possible for you to have knowledge of something that you have not experienced? 
+
+9.  What is the basis of our knowledge of matters of fact not now perceived or remembered, according to Hume?  State and evaluate one good objection to his view. 
+
+10\. What is the source and content of our idea of causality (and of a
+necessary connection between cause and effect), according to Hume?  State and
+evaluate one good objection to his view.
+
+11.  What is the conflict between liberty and necessity and how does Hume attempt to resolve it?  What is your view about this issue? 
+
+12.  Briefly explain Kant's distinction between (a) synthetica and analytic judgments and (b) a priori vs. a posteriori knowledge.  How, in outline, is it possible for us to have synthetic a priori knowledge in mathematics? 
+
+13.  What is the difference between a judgment of perception and a judgment of experience, according to Kant?  What is the role of the categories here?  How does Kant criticize Hume's views about causality? 
+
+14.  Briefly explain Kant's distinction between the ideas of pure Reason and the pure concepts of the Understanding.  Explain how Kant resolves the third antinomy. 
+
+15.  What is it that is good is good in itself, or good without qualification, accoarding to Kant?  State and illustrate the categorical imperative.  State and assess one good objection to Kant's views. 
+
+16.  Does the world or human history have a point?  Explain your answer.  What difference does it make to you? 
+
+17.  What is the goal of the world and by what means is it achieved, according to Hegel?  State and assess one good objection to this.   
+    
+    
+    
+
+

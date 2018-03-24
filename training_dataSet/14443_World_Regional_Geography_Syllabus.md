@@ -1,0 +1,257 @@
+
+    ![](earthspn.gif)
+    	**
+    
+
+#  WORLD REGIONAL GEOGRAPHY
+
+![](earthspn.gif) **  
+  
+_Instructor:_ C.V. Prorok  
+_Course #:_ G &ES; 105  
+_Office:_ 107D X2384  
+_Office Hours:_ 10:30-11:30pm MWF  & 4-5pm TR  
+  
+  
+![](RunningMonkey.gif) _Text:_ World Regional Geography by Lydia Pulsipher &  
+Goode's World Atlas, 20th edition_  
+  
+  
+  
+  
+  
+  
+_Course Objectives:_  
+Students will know and understand:  
+1\. The meaning and significance of place:  
+a. by describing the same place at different times in its history  
+b. describing why places have specific physical and human characteristics in
+different parts of the world  
+  
+2\. The processes that shape places:  
+a. by describing how forces from within Earth influence the character of place  
+b. by describing the role of climate in shaping places  
+c. by describing how culture affects the characteristics of place  
+d. by describing the ways in which the character of a place relates to its
+economic, political and population characteristics  
+e. by describing how places are made distinctive and meaningful by human
+activities that alter physical features  
+  
+3\. How multiple criteria can be used to define a region:  
+a. by describing the physical or human factors that constitute a region  
+b. by describing how changing conditions can result in a region taking on new
+character  
+c. by describing why regions once characterized by one set of criteria may be
+defined by a different set of a criteria  
+  
+  
+4\. The distribution of major physical and human features of the world:  
+a. by identifying the locations of countries, their capitals, and other
+cultural features  
+b. by identifying the locations of major topographical features  
+  
+  
+_Evaluation:_  
+These criteria will be assessed based upon unit tests, map quizzes, and class
+participation. Six tests will cover each of six units as outlined below. Each
+will be worth 15% of the student's final grade. A map quiz (see map packet for
+schedule and study guide) will be given on a designated day for each region.
+Map quizzes will be worth 15% of the final grade. Participation, which
+presumes regular attendance, includes question and answer with the instructor
+as well as participation in classroom activities. This will be worth 10% of
+the final grade.  
+  
+_ SPECIAL NOTE:_ **There are no make up tests or quizzes at any time.**  
+I will drop the lowest test grade and the lowest map quiz grade. If you miss a
+test or a quiz it automatically becomes your drop grade. If you miss more than
+one test then you must take the comprehensive final exam (which will be worth
+45% or three test grades). There are no exceptions. If you miss more than one
+map quiz then you will have to absorb the "0" mark. It is in your best
+interest to take all of the tests and quizzes so that a poor showing on one of
+them does not adversely affect your grade. Do not waste your drop grades!!!  
+  
+_Unit Test Dates:_  
+1) January 31st:             Chapters 1 & 4  
+2) February 16th:          Chapters 2 & 5  
+3) March 05th:              Chapter 3  
+4) March 30th:              Chapters 6 & 7  
+5) April 18th:                 Chapters 8 & 9 (except the section on Japan)  
+6) May 04th:                 Chapters 10 & 11 (this includes the section on
+Japan from ch. 9)  
+  
+_Map Quiz Dates:_  
+1) January 22nd           Europe  
+2) Februar 2nd            Northern Eurasia  
+3) Februar 9th             North America  
+4) Februar 19th           Middle America  
+5) Februar 28th           South America  
+6) March 19th             SubSaharan Africa  
+7) March 26th             North Africa/Southwest Asia  
+8) April 2nd                South Asia  
+9) April 9th                 East Asia  
+10) April 20th             Southeast Asia  
+11) April 27th             Pacific  
+  
+_Course Outline:_  
+I. Definition of Geography  
+A. Approaches to the Study of Geography  
+  
+1\. Techniques  
+2\. Topical or Systematic Approach  
+3\. Regional or Area Studies Approach  
+  
+a. Identifying Regions  
+b. Conceptualizing Formal Regions  
+  
+1) Homogeneity  
+2) Spatial System  
+3) Cultural Construction  
+4) Scale  
+  
+c. Classifying Regions by scale  
+  
+1) Culture Realms  
+2) Culture Regions  
+3) Cultural sub-Regions  
+  
+B. Using your Atlas  
+1\. Gazetteer  
+2\. Types of Maps  
+  
+  
+II. Each unit includes two macro-regions, or cultural realms, and I will
+follow a similar pattern in presentation for each one. After each lecture quiz
+is given, I will introduce the new unit. Then, on the first day that each
+macro-region is studied, a map quiz on selected place names will be given.
+Within each unit, a representative physical or environmental characteristic
+will be covered, and/or a representative human-based, or cultural,
+characteristic will be presented. The study of each area will culminate in a
+multi-media presentation depending on the availability of appropriate
+materials.  
+  
+**It is essential that students maintain an excellent attendance record since
+all materials for the course are presented in class in conjunction with the
+atlas. **  
+  
+**Please bring your atlas to every class meeting.**  
+  
+  
+_QUIZ PACKET AND SCHEDULE_  
+  
+**Do not miss a quiz!**  
+It is to your advantage that you take all quizzes in that they prepare you for
+material on the lecture quizzes, and they assist in understanding class
+material. Do not miss a quiz because there are absolutely no make-up quizzes.
+I will drop the lowest quiz score to determine your quiz grade. If you miss a
+quiz you must take it as a dropped grade. All quizzes will be on place
+locations for the major culture realms of the world.  
+  
+_Map Quiz Areas:_  
+1\. **Europe** (From Iceland to Greece and Poland to Portugal)  
+2\. **Northern Eurasia** (Former Soviet Union: from Estonia to Belarus to
+Moldavia to Armenia to Turkmenistan to Russia)  
+3\. **Anglo-North America** (United States and Canada)  
+4\. **Middle America** (Mexico, Central America, Caribbean Basin)  
+5\. **South America** (From Columbia to Argentina)  
+6\. **Sub-Saharan Africa** (Africa: from the Sahara Desert southwards)  
+7\. **North Africa/Southwest Asia** (Saharan Africa to Turkey to Afghanistan
+and back to the Arabian Peninsula)  
+8\. **South Asia** (Pakistan to Bangladesh to Sri Lanka)  
+9\. **East Asia** (China, Mongolia, Taiwan, Hong-Kong, and the Koreas)  
+10\. **Southeast Asia** (Myanmar/Burma to Indonesia to the Philippines)  
+11\. **Pacific** (Japan, Australia, New Zealand and Pacific Island Groups)  
+  
+At the beginning of class we will have a short oral quiz, whereby I pass out a
+blank map (just like the one on the web site) and ask you to identify 10 place
+names from the list by placing the number in the correct location. Duplicate
+numbers and numbers that cross boundaries are wrong. Quizzes are strictly
+marked. You can prepare for the quizzes by looking up the place names in
+advance and transferring them to the blank maps. Please do not use red or pink
+ink when taking the quiz, and do not write the name of the place on the quiz
+map. If you need any help, please see me.  
+  
+_PLACE NAMES LIST_  
+  
+1\. Europe: countries and capitals, Atlantic Ocean, North Sea, Baltic Sea,
+Gulf of Bothnia, Irish Sea, Mediterranean Sea, Adriatic Sea, Aegean Sea, Bay
+of Biscay, English Channel, Straits of Gibraltar, Alps, Pyrenees, Carpathian
+Mountains, Thames, Seine, Rhine, Danube, Po Rivers, Sicily  
+  
+2\. Northern Eurasia: countries and capitals, Atlantic, Arctic and Pacific
+Oceans, Barents Sea, Sea of Okhotsk, Sea of Japan, Caspian, Black, White, and
+Baltic Seas, Gulf of Finland, Ural, Caucasus, Tien Shan Mountains, Volga,
+Lena, Ob, Dnieper Rivers, Kamchatka Peninsula, Siberia, St. Petersburg.  
+  
+3\. Anglo-North America: countries and capitals, States and Provinces, Great
+Lakes, Hudson Bay, Pacific, Atlantic  & Arctic Oceans, Gulf of Mexico, Rocky,
+Appalachian Mountains, Mississippi, Missouri, Ohio, Mackenzie Rivers, St.
+Lawrence Seaway, Mojave Desert.  
+  
+4\. Middle America: countries and capitals, Pacific and Atlantic Oceans,
+Caribbean Sea, Lago de Nicaragua, Gulf of Mexico, Golfo de Panama, Istmo
+(Isthmus) de Tehuantepec, Sierra Madre Oriental, Sierra Madre Occidental,
+Sierra Maestra, Puerto Rico, Panama Canal, Yucatan Peninsula, Baja Peninsula,
+Rio Grande (major river), Lesser Antilles, Greater Antilles  
+  
+5\. South America: countries and capitals, Pacific and Atlantic Oceans,
+Caribbean Sea, Drake Passage, Estrecho de Magallanes (Straits of Magellan),
+Andes Mountains, Brazilian Highlands, Guiana Highlands, Patagonia, Pampas,
+Lake Titicaca, Amazon, Parana, Orinoco Rivers, Atacama Desert  
+  
+6\. Sub-Saharan Africa (south of the Tropic of Cancer): countries & capitals,
+Atlantic and Indian Oceans, Gulf of Guinea, Mozambique Channel, Red Sea, Lake
+Victoria, Niger, Congo (Zaire), Nile Rivers, Ethiopian Plateau, Drakensberg
+Mountains, Sahara and Kalahari Deserts  
+  
+7\. North Africa/Southwest Asia: countries and capitals, Indian Ocean,
+Mediterranean, Red, Black, Caspian, Arabian Seas, Persian Gulf, Gulf of Aden,
+Gulf of Oman, Straits of Hormuz, Atlas and Hindu Kush Mountains, Plateau of
+Iran, Nile, Tigris, Euphrates, Jordan Rivers, Suez Canal, Mecca, Istanbul,
+Sahara Desert, Ar Rub' al Khali  
+  
+8\. South Asia: countries and capitals, Indian Ocean, Arabian Sea, Gulf of
+Mannar, Palk Strait, Bay of Bengal, Himalaya, Karakoram, Hindu Kush Mountains,
+Western Ghats, Eastern Ghats, Nilgiri Hills, Deccan Plateau, Indus, Ganges,
+Brahmaputra Rivers, Mumbai (Bombay), Calcutta, Chennai (Madras), Karachi,
+Great Indian Desert (Thar), Mt. Everest.  
+  
+9\. East Asia: countries and capitals, Gulf of Tonkin, South China, East China
+& Yellow Seas, Sea of Japan, Taiwan Strait, Korean Peninsula, Tibetan Plateau,
+Himalaya, Tien Shan Mountains, Yangtse and Huang Ho Rivers, Gobi Desert, Hong
+Kong, Shanghai, Great Wall, Shikoku, Honshu, Hokkaido, Kyushu, Pacific Ocean,
+Chunchon, Kyongju  
+  
+10\. Southeast Asia: countries and capitals, Indian & Pacific Oceans, Gulf of
+Tonkin, South China Sea, Andaman, Philippine, Celebes, Java and Sulu Seas,
+Gulf of Thailand, Straits of Malacca, Annamese Cordillera, Mekong, Irrawaddy,
+Chao Phraya Rivers, Mindanao, Kalimantan, Java, Sumatra, Borneo  
+  
+11\. Pacific: Japan/Tokyo, Australia/Canberra, New Zealand/Wellington, Papua
+New Guinea/Port Moresby, Fiji/Suva, Tasmania, Great Sandy Desert, Murray
+River, Great Dividing Range, Sydney, Melbourne, Perth, Outback, Great Victoria
+Desert, North Island, South Island, Auckland, Christchurch, Kyushu, Shikoku,
+Hokkaido, Honshu, Kobe/Osaka, Kyoto, Pacific Ocean, Indian Ocean, Sea of
+Japan, Tasman Sea, Hawaii  
+  
+  
+  
+  
+![](writeus.gif)[carolyn.prorok@sru.edu](mailto:carolyn.prorok@sru.edu)  
+  
+  
+
+#####  ![](om.gif) [Return to Carol's index
+page....](http://www.sru.edu/depts/artsci/ges/prorok/index.htm)
+
+  
+  
+[![](earth.gif)
+
+### Go to Department of Geography and Environmental Studies Homepage
+
+](http://www.sru.edu/depts/artsci/ges/ges.htm)  
+  
+[![](buton5.gif)](http://www.sru.edu)
+
+###### This homepage last updated 2/01
+

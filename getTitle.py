@@ -1,6 +1,7 @@
 import re
 import os
 from fuzzywuzzy import fuzz
+from shutil import copyfile
 
 def checkFont(line):
     line=re.sub(' ','',line)
@@ -28,8 +29,16 @@ def getTitle(path, title):
                 # print(line)
                 if fuzz.token_set_ratio(title,line) > 90:
                     # print(count,"-------------")
-                    print(title, "-------------title-------")
-                    print(line)
+                    # print(title, "-------------title-------")
+                    # print(line)
+                    # print(path)
+                    try:
+                        new_path = 'training_dataSet' + path.replace('/Users/ziyunzhong/nlpProject/larger5kb_Md_File','')
+                        copyfile(path, new_path)
+                    except:
+                        pass
+
+
 
 
 listing = os.listdir("/Users/ziyunzhong/nlpProject/larger5kb_Md_File")

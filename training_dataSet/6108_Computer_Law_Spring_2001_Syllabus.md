@@ -1,0 +1,207 @@
+**Computer Law  
+Prof. Mark Lemley  
+Spring 2001**  
+  
+---  
+  
+This is an advanced course on the law governing computer software. A major
+focus of the course will be on intellectual property protection for computer
+software, with some discussion of intellectual property on the Internet as
+well. The course will also touch on contract and tort problems in the
+licensing of software and digital information, and antitrust issues in the
+computer industry. The course is designed for students with some knowledge of
+intellectual property law who wish to do in-depth work in the application of
+intellectual property law to computer technology. No background in computer
+science is required, although students should be willing to be exposed to some
+of the technical details of how programs are written. At least one prior
+course in intellectual property law (or consent of the instructor) is
+required.
+
+The text for the class is **Mark Lemley, Peter Menell, Robert Merges & Pamela
+Samuelson,** **Software and Internet Law** (Aspen Law and Business 1st ed.
+2000). The text is available in at the bookstore. In addition, students may
+find a general intellectual property statutory supplement helpful, although it
+is not required. One such supplement, **Merges _et al._ ,** **Intellectual
+Property in the New Technological Age: 2000 Statutory Supplement** , is
+available at the bookstore as well. [Those of you who took Introduction to
+Intellectual Property in the fall should already have a copy of this book].
+Finally, because computer law is a rapidly changing field, we maintain an
+update Web page for the book at
+[http://www.law.berkeley.edu/institutes/bclt/pubs/swbook/](/institutes/bclt/pubs/swbook/).
+You should treat this Web page as part of the regular reading assignment, and
+check it when you do your reading for each class.
+
+There are two requirements for the class. The first is a final exam. It will
+be an essay exam, and will cover general knowledge of the legal subjects
+discussed in class, your ability to identify and analyze legal problems, and
+policy considerations. Second, students are responsible for class
+participation. Students are expected and encouraged to participate in all
+sessions of the class.
+
+The course will be graded primarily on the basis of the final exam. Overall
+class participation will be graded on a "check-plus", "check", "check-minus"
+basis, with emphasis on quality rather than quantity of participation. Pluses
+or minuses will be used as tiebreakers to raise or lower your grade in
+borderline cases.
+
+The class meets Monday and Wednesday from 11:10 a.m. to 12:25 p.m. My
+scheduled office hours are Monday and Wednesday from 2:30 to 4:00 p.m. in Room
+347, in Boalt's North Addition. In addition, you should feel free to stop by
+any other time I am in my office, or to call and schedule an appointment. My
+office phone number is 643-2670. Finally, you can e-mail me at
+[mlemley@law.berkeley.edu](mailto:mlemley@law.berkeley.edu)  
+  
+
+
+**Computer Law**  
+  
+---  
+  
+**Date**
+
+|
+
+**Topic**
+
+|
+
+**Reading Assignment**  
+  
+January 15 | **KING DAY -- NO CLASS** |  
+January 17 | Introduction; Course Mechanics |  [Menell, Merges, Samuelson &
+Lemley pp. 1-29 background reading if desired]  
+January 22 | Economics of Computer Markets; Trade Secrets I |
+
+  * MMSL pp. 30-45, 49-61
+
+  
+January 24 | Trade Secrets II |
+
+  * MMSL pp. 61-96
+
+  
+January 29 | Copyright I |
+
+  * MMSL pp. 97-149
+
+  
+January 31 | Copyright II |
+
+  * MMSL pp. 149-186
+
+  
+February 5 | Copyright III |
+
+  * MMSL pp. 186-212
+
+  
+February 7 | Copyright IV |
+
+  * MMSL pp. 213-257
+
+  
+February 12 | Copyright V |
+
+  * MMSL pp. 213-257
+
+  
+February 14 | Copyright VI |
+
+  * [_A &M; Records v. Napster_](http://news.cnet.com/News/Pages/Special/Napster/napster_patel.html)
+
+  
+February 19 | **PRESIDENTS DAY -- NO CLASS** |  
+February 21 | Copyright VII |
+
+  * MMSL 891-903; 912-920
+  * _[Universal City Studios v. Reimerdes](http://www.eff.org/pub/Intellectual_property/Video/MPAA_DVD_cases/20000202_ny_memorandum_order.html)_
+
+  
+February 26 | Patent I |
+
+  * MMSL pp. 259-312
+
+  
+February 28 | Patent II |
+
+  * MMSL pp. 312-326; 364-368
+
+  
+March 5 | Patent III |
+
+  * MMSL pp. 326-349
+
+  
+March 7 | Patent IV |
+
+  * MMSL pp. 349-364
+  * Cohen & Lemley, _[Patent Scope and Innovation in the Software Industry](http://papers2.ssrn.com/paper.taf?ABSTRACT_ID=209668)_
+
+  
+March 12 | Trademarks I |
+
+  * MMSL pp. 369-392
+
+  
+March 14 | Trademarks II |
+
+  * MMSL pp. 799-835
+
+  
+March 19 | Trademarks III |
+
+  * MMSL pp. 835-859
+
+  
+March 21 | SCPA and _Sui Generis_ Protection |
+
+  * MMSL pp. 393-437
+
+  
+March 26 | **SPRING BREAK -- NO CLASS** |  
+March 28 | **SPRING BREAK -- NO CLASS** |  
+April 2 | Contracts and Licensing I |
+
+  * MMSL pp. 439-470
+
+  
+April 4 | Contracts and Licensing II |
+
+  * MMSL pp. 470-517
+
+  
+April 9 | **NO CLASS** |  
+April 11 | **NO CLASS** |  
+April 16 | Contracts and Licensing III |
+
+  * MMSL pp. 517-537
+
+  
+April 18 | Attend [Digital Music Roundtable](../../../events/2001/music.html)
+|  
+April 23 | Antitrust I |
+
+  * MMSL pp. 539-568
+
+  
+April 25 | Antitrust II |
+
+  * MMSL pp. 568-594
+
+  
+April 30 | Antitrust III |
+
+  * MMSL pp. 594-615
+
+  
+May 1 | Antitrust IV |
+
+  * MMSL pp. 615-641
+
+  
+Date TBA | Review Session |  
+  
+
+
+
+

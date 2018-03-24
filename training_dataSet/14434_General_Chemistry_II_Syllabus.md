@@ -1,0 +1,352 @@
+![](../../images2/BENZENE.GIF)
+
+# General Chemistry II  
+V25.0102  
+Spring 2001
+
+## Prof. John M. Halpin
+
+### 1018A Main Building  
+(212) 998-8418
+
+#### Office Hours:  
+M, T, W 12:00-1:00 p.m.
+
+  
+
+* * *
+
+* * *
+
+V25.0102| | General Chemistry II  
+---|---|---  
+| Course Schedule and Outline|  
+Lectures:| Section 001| Time:T, Th 8:00-9:15 a.m.| Room:200 Cantor  
+---|---|---|---  
+| Section 002| Time:T, Th 9:30-10:45 a.m.| Room:200 Cantor  
+| | |  
+  
+**DATE**|  **DAY** | **CHAP.**|  **TOPIC**  
+---|---|---|---  
+Jan. 16| T | 11 | Intermolecular Forces, Liquids, and Solids  
+Jan. 18| Th | 11 | Intermolecular Forces, Liquids, and Solids  
+Jan. 23| T | 13 | Properties of Solutions  
+Jan. 25| Th | 13 | Properties of Solutions  
+Jan. 30| T | 13 | Properties of Solutions  
+Feb. 1| Th | 14 | Chemical Kinetics  
+Feb. 6| T | 14 | Chemical Kinetics  
+Feb. 8| Th | 14, 15 | Chemical Kinetics; Chemical Equilibrium  
+Feb. 13| T | 15 | Chemical Equilibrium  
+Feb. 15| Th | 15 | Chemical Equilibrium  
+Feb. 16|  **F** |    | **Exam 1 (chaps. 11, 13-15)**  
+Feb. 20| T | 16 | Acid-Base Equilibria  
+Feb. 22| Th | 16 | Acid-Base Equilibria  
+Feb. 27| T | 16 | Acid-Base Equilibria  
+Mar. 1| Th | 17 | Additional Aspects of Equilibria  
+Mar. 6| T | 17 | Additional Aspects of Equilibria  
+Mar. 8| Th | 17 | Additional Aspects of Equilibria  
+ |   |   | _Spring Recess (Mar. 12-16)_  
+Mar. 20| T | 17 | Additional Aspects of Equilibria  
+Mar. 22| Th | 19 | Chemical Thermodynamics  
+Mar. 27| T | 19 | Chemical Thermodynamics  
+Mar. 29| Th | 19 | Chemical Thermodynamics  
+Mar. 30|  **F** |    | **Exam 2 (chaps. 15-17, 19)**  
+Apr. 3| T | 19 | Chemical Thermodynamics  
+Apr. 5| Th | 20 | Electrochemistry  
+Apr. 10| T | 20 | Electrochemistry  
+Apr. 12| Th | 20 | Electrochemistry  
+Apr. 17| T | 20, 21 | Electrochemistry; Nuclear Chemistry  
+Apr. 19| Th | 21 | Nuclear Chemistry  
+Apr. 24| T | 21 | Nuclear Chemistry  
+Apr. 26| Th | 21 | Nuclear Chemistry  
+May 9| W |   | **Final Exam (chaps. 11, 13-17, 19-21)**  
+  
+  
+General Information  
+  
+**  
+Registration:  
+**
+
+To receive credit for this course, you must register and attend three (3)
+sections. The purpose of each is discussed below. The sections are:  
+
+  * a lecture section (sects. 001-002)  
+
+  * a recitation section (sects. 003-021)  
+
+  * a clinic section (sects. 022-046) _(also known as "workshops")_  
+
+**None of these are optional!**  
+  
+A laboratory requirement is fulfilled by registering for and attending the
+_General Chemistry II Laboratory_ (V25.0104) course (a separate, 2-credit
+course).  
+**  
+
+Materials:  
+**
+
+The _required materials_ for this course are:  
+
+  * Textbook - _Chemistry: The Central Science,_ 8th Ed., by Brown, LeMay, and Bursten  
+
+  * Scientific Calculator - Your calculator must be capable of evaluating logarithms, performing exponentiation, and calculating trigonometric functions. It must have at least an eight-digit display and you must be able to switch between scientific notation and decimal notation. Most standard scientific calculators have these features and they are priced as low as $20. 
+The _recommended materials_ are:  
+
+  * Solutions to Red Exercises (to accompany _Chemistry: The Central Science_ ), by Wilson  
+
+**  
+Lectures:**  
+
+Since this is the second semester of General Chemistry, most of you are no
+doubt already aware of the purpose of the lecture class. As during the last
+term, (slightly) abridged copies of the lecture notes will be sold by Unique
+Copy on Green Street. For those of you new to my course, let me explain that I
+provide these lecture notes because the large class sizes forces me to use a
+computer display rather than a blackboard and you cannot copy everything as
+fast as it appears. However, a LOT more is said in lecture than appears on the
+handout, there are BIG margins on the handout, and you SHOULD write notes in
+them. If you don't, you'll have less information when you study and you might
+need that extra information when exam time arrives. Taking notes will keep you
+more alert during lecture too. The notes do not replace the lecture. If you do
+not attend the lecture, you will miss material and it is therefore less likely
+that you will excel in the course.  
+
+Last semester, our coverage of the material differed slightly from the text
+for certain topics. You can expect more of that this term, especially in the
+equilibrium chapter (though the difference is one of "convention" - the book
+is chemically/physically correct for that topic and you should still read it).
+You are responsible for everything covered in lecture, according to the
+methods and the conventions used in the lecture, as well as for all material
+in the text unless I specifically tell you to omit a portion of the text.
+Where the notes differ from the text, follow the notes.  
+
+The lectures are very large in this course. This should be no surprise to you
+since this is a very big university. The large lecture environment requires
+self-discipline on your part. If you talk to your neighbor during the lecture,
+I will probably never notice, so that you'll "get away with it." Your
+neighbors will certainly notice though, and it will make it difficult for them
+to listen to the lecture. If you have ever been annoyed by people distracting
+you during the lecture, please keep that in mind and save your conversation
+for after class.  
+
+**The Course Web Page:**  
+
+There will be a page for this course within the NYU World Wide Web site. The
+URL to use is  
+http://www.nyu.edu/classes/inorg  
+An account with the NYU Academic Computing Facility (ITS) has been established
+for each student in the course so that you will be able to access an
+appropriate computer even if you do not own one.  
+
+The web page will contain the syllabus (i.e., this document), the names of the
+recitation instructors and contact information, the homework assignment list,
+numerical answers to the most recent homework assignment, links to www sites
+that may help you with the course, and, most importantly, a list of class
+announcements. In this last item, I will post information about the course
+that you need to know, such as what is available on reserve at Bobst, which
+lecture notes are available, which sets of homework answers are available,
+etc. I'll keep it up to date and it will be a lot easier to access the page
+than to find me, so you really ought to use it.  
+A note about e-mail: I do not object to receiving e-mail. However, e-mail does
+not replace face-to-face conversation, it is not appropriate for all types of
+questions/requests, and I do not enjoy typing lengthy answers. There are
+definitely occasions when communication by e-mail is the most convenient mode
+(for both of us) and there are times when it is not. For example, I will not
+send nor discuss grades by e-mail. If you want my sympathy or need a favor,
+ask in person. Before sending a message, ask yourself if you would mind
+receiving such a message. After considering these guidelines, if for a
+particular situation you still think e-mail is the best option, then my
+address for this course is genchem@halpinpc.chem.nyu.edu  
+
+  
+**Recitations:  
+**
+
+While most questions can be asked in the lecture class, those requiring
+extensive answers or those that are not of interest to the majority of the
+class should be posed during the recitation section. Questions about homework
+problems are also appropriate for recitations. It is a good idea to write out
+your questions as they occur to you so that you do not forget to ask them when
+you have the opportunity.  
+
+The recitation will include a 10 minute quiz (except during exam weeks). Like
+last semester, the quizzes will be partly problem solving and partly in
+multiple choice format. When you do calculations you must show your work.
+Partial credit will be awarded where merited.  
+
+Transfers between recitation sections will be discouraged and will require
+written permission from me (Prof. Halpin). There will be no transfers allowed
+during the first three weeks of the semester. If after trying your section for
+three class meetings you present a reasonable request for transfer, I will
+consider it. Taking a quiz in another section to replace a missed quiz or to
+avoid missing a quiz will also require written permission from me.
+Unauthorized transfers or quizzes will result in no credit. Most of the
+recitation sections are already filled to capacity and these restrictions are
+necessary to preserve the "small class" format.  
+
+  
+**Clinics:  
+**
+
+The workshops or clinics are intended to be another "small class" environment,
+with a less formal and more interactive atmosphere than is found in
+recitations. The specific format of the clinic is left up to the individual
+instructors. I would like the clinics to employ "cooperative learning". That
+means that your section should be broken into small groups. The members of a
+group openly discuss the assigned problems and solve them together. The
+instructor serves as a moderator and expert. However, if your instructor and
+the majority of your section prefer another format, that is ok. Follow the
+format selected by your instructor. If you don't like it, talk to the
+instructor about it. If you need to transfer, the rules are the same as for
+the recitations: no transfers for three weeks and permission is required.  
+
+As you probably know, clinic attendance and participation are worth up to 40
+points toward your grade. That number of points can mean the difference
+between at least one, and often two, letter grades. To attend and participate
+is definitely worth your while. The emphasis on participation is to remind you
+that the instructors should not, and will not, grant full credit for a class
+meeting unless you make some contribution to the class. Raise your hand and
+ask questions or answer questions; get involved. You'll get more than just the
+points if you do!  
+
+A clinic week starts on Friday and ends on the following Thursday. If you need
+to make up a clinic (max. of two makeups) then you must arrange to do so
+during the same clinic week. If you don't do that, you'll need medical
+documentation or you will forfeit the points for that week. Clinics start on
+Friday, Jan. 26 and end on Thursday, April 26. There will be no clinic held
+during the week following an exam (Feb. 16-22, Mar. 30-Apr. 5).  
+
+  
+**Problem Sets:**  
+
+Homework will be collected and credit will be given for answering the
+problems. It will not be corrected for errors because your instructor will not
+have time to do so. As during the Fall semester, numerical answers to the
+homework problems will be shown on the course webpage. This is so that you can
+decide if your answer is correct or not. If it is not correct, and you do not
+know how to correct it, ask about that problem in your next recitation class.
+Do not try to obtain copies of the complete solutions because, while they
+might make perfect sense once you see them, you will not gain anything from
+the problem unless you work it out yourself.  
+
+The homework is worth 20 points of your grade. In most cases, that is one
+letter grade range. It is valuable pointwise and it is the only way for you to
+learn the skills necessary to demonstrate to us on quizzes and exams that you
+understand chemistry. Homework assignments and due dates will be given at the
+first lecture and will appear on the course webpage (if due dates are changed,
+the webpage will be updated).  
+
+**Missed Quizzes and Exams:  
+**
+
+A quiz or a midterm exam missed for medical reasons will not count against you
+if you provide verifiable documentation written on a physician's stationery.
+All such documentation must be given to Prof. Halpin. Recitation instructors
+will not accept these documents and cannot excuse your absence without my
+approval. Any piece of documentation should include your name and the dates to
+which it applies as part of the physician's entry. You should add to the
+document exactly what sort of work you missed (i.e., exam or quiz) and which
+recitation section you attend. A mid-term exam cannot be "made-up" at all (no
+makeups!) and quizzes may be replaced only during the same week (and with
+permission), but for excused absences your grade will be calculated so that
+the missed work does not detract from your grade. No more than one (1) midterm
+exam may be missed. If you miss both midterms or if you miss the final exam
+(and have medical documentation) you will be given a grade of incomplete (I).
+You can then replace the missing work when the course is given in the summer
+(late June thru early August) or in Spring 2002.  
+
+If you miss a clinic due to illness, you must make it up if it is possible to
+do so. The only way that you would not be able to do so would be if you were
+ill from the day of your clinic right through to the end of that clinic week
+and had documentation to prove it. If your return to classes before a clinic
+week ends, then make up the clinic that you missed. No kidding!!! Do not come
+to me 2 weeks later and tell me that you didn't know that you had to make up a
+clinic! I will simply refer you to this paragraph of the syllabus.  
+
+If you have a Wednesday recitation and miss a quiz, or if you know in advance
+that you will miss a Friday recitation, then you can obtain written permission
+from Prof. Halpin to take the quiz, for that occasion, in another section. If
+you need to attend a different clinic for one week, you may obtain permission
+from Cesar Grullon or Julie Kaplan (in 1001 Main) to attend an alternate
+section at which you must get written verification from the instructor that
+you attended and participated.  
+
+  
+**Conduct:  
+**
+
+When I catch a student cheating they receive an automatic F for the course and
+they are reported to the dean of their school. This happened in the Fall 1997,
+Spring 1998, and Spring 2000 terms. The only sure way to avoid this is: do not
+cheat. Most students would not even consider cheating. However, if you are
+thinking about it, consider the consequences.  
+
+  
+**Students with Disabilities:  
+**
+
+If you have a documented disability, you can arrange to take quizzes and/or
+exams at the Center for Students with Disabilities, on the 4th Floor of 240
+Greene Street. It is your responsibility to make arrangements with that office
+and with me before the first quiz or exam.  
+
+  
+**Religious Holidays:  
+**
+
+If you have a religious obligation that prevents you from attending, I
+recognize your right to miss class. The procedure for a quiz or exam missed
+because of a religious commitment is similar to that for medical excuses,
+except that you can write the documentation. Please specify the date of the
+absence, the reason (i.e., what holiday), and give the section number for your
+recitation. Clinics missed for religious reasons must be made-up. Therefore,
+you should speak with Cesar Grullon or Julie Kaplan (1001 Main) in advance and
+they will arrange an alternate clinic for you to attend that week.  
+
+  
+**Grading:  
+**
+
+You will be graded according to a fixed point scale. There are no curves,
+there is no reason to compete with your colleagues, and you _might_ all get
+_A_ 's if the grades are high! The point values for the course components are:  
+QUIZZES| ..........| 60 points  
+---|---|---  
+HOMEWORK| ..........| 20 points  
+CLINICS| ..........| 40 points  
+EXAM 1| ..........| 90 points  
+(Fri., Feb. 16)| |  
+EXAM 2| ..........| 90 points  
+(Fri., Mar. 30)| |  
+FINAL EXAM| ..........| 100 points  
+(Wed., May 9)| |  
+TOTAL| ..........| 400 points  
+  
+The grading scheme will be:  
+370-400| ..........| A  
+---|---|---  
+350-369| ..........| A-  
+330-349| ..........| B+  
+305-329| ..........| B  
+285-304| ..........| B-  
+265-284| ..........| C+  
+240-264| ..........| C  
+220-239| ..........| C-  
+200-219| ..........| D  
+< 200| ..........| F  
+  
+I reserve the right to lower the cutoff numbers (making it easier), but I will
+not raise them. However, don't count on them changing at all.  
+  
+
+* * *
+
+  
+  
+_last updated 9:25 pm, Wednesday, Jan. 10, 2001_  
+  
+  
+[![](../../images2/Return.gif) ](V25.0102.htm)
+

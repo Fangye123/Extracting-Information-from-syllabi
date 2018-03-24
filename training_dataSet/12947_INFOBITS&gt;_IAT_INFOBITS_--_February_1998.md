@@ -1,0 +1,295 @@
+INFOBITS> IAT INFOBITS -- February 1998
+
+# INFOBITS> IAT INFOBITS -- February 1998
+
+Date: Wed, 25 Feb 1998 14:19:36 -0500  
+From: Carolyn Kotlas <carolyn_kotlas@unc.edu>  
+To: infobits@unc.edu  
+Subject: IAT INFOBITS -- February 1998  
+
+IAT INFOBITS February 1998 No. 56 ISSN 1071-5223  
+
+About INFOBITS  
+
+INFOBITS is an electronic service of the Institute for Academic  
+Technology's Information Resources Group. Each month we monitor and  
+select from a number of information technology and instruction  
+technology sources that come to our attention and provide brief notes  
+for electronic dissemination to educators.  
+
+......................................................................  
+
+Collaboratories -- Doing Science in a Virtual Lab  
+Finding Experts/Colleagues Online  
+College Education Key to Office Workers' Success  
+Universal Access to Technology in Education  
+Interview with Cyberspace Pioneer  
+Metadata Project Holds Promise  
+
+......................................................................  
+
+COLLABORATORIES -- DOING SCIENCE IN A VIRTUAL LAB  
+
+A collaboratory, a term coined in 1989 by computer scientist William  
+Wulf, is a "center without walls" allowing users to "perform their  
+research without regard to geographical location-interacting with  
+colleagues, accessing instrumentation, sharing data and computational  
+resources, [and] accessing information in digital libraries." In "The  
+Virtues (and Vices) of Virtual Colleagues" (TECHNOLOGY REVIEW, vol.  
+101, no. 2, March/April 1998, pp. 52-59), Nancy Ross-Flanigan explores  
+the benefits derived when scientists can run experiments using remote  
+connections to data gathering instruments, can have shared access to  
+research results, and can communicate online with colleagues and  
+mentors. Ross-Flanigan points out that there are some downsides to  
+working in an electronic environment: lack of trust, difficulty in team  
+building, increased information overload. [See also "Balkanization of  
+the Global Village," IAT Infobits, December 1996, No. 42,  
+
+<http://www.iat.unc.edu/infobits/bitdec96.html#4>]  
+
+Collaboratories have been set up to help institutions with limited  
+resources partner with major research universities to share expensive  
+equipment. Some collaboratories allow scientists to mentor individual  
+students or provide expert advice to K-12 classrooms.  
+
+The complete article and links to the collaboratory projects described  
+in the article are available on the Web at  
+
+<http://web.mit.edu/techreview/www/articles/ma98/ross-flanigan.html>  
+
+Technology Review [ISSN 0040-1692] is published six times a year by the  
+Association of Alumni and Alumnae of the Massachusetts Institute of  
+Technology, 201 Vassar St., W59-200, Cambridge, MA 02139 USA; tel:  
+617-253-8250; fax: 617-258-5850; Web: <http://web.mit.edu/techreview/>  
+
+To subscribe, contact Technology Review, P.O. Box 489, Mount Morris, IL  
+61054 USA; tel: 800-877-5230; fax: 815-734-5237; email:  
+trsubscriptions@mit.edu; Web:  
+
+<http://web.mit.edu/techreview/www/freeissue.html>  
+Annual subscriptions are available for $19.95 (U.S.); $25.95 (Canada);  
+$37.95 (foreign air delivery to all other countries).  
+
+......................................................................  
+
+FINDING EXPERTS/COLLEAGUES ONLINE  
+
+Collaboratories are not the only virtual communities where thinkers and  
+researchers congregate. Founded in 1988, the non-profit Edge  
+Foundation, Inc., was established "to arrive at the edge of the world's  
+knowledge, seek out the most complex and sophisticated minds, put them  
+in a room together, and have them ask each other the questions they are  
+asking themselves." To eavesdrop on the latest Edge conversations,  
+check out their Web site at <http://www.edge.org/>  
+
+Want to start online dialogue with others in your field but don't know  
+how to contact them? Locating email addresses for others in academe can  
+be a time-consuming, frustrating task, despite the proliferation of  
+email address directories available on the Web. (See  
+
+<http://www.iat.unc.edu/guides/irg-08.html#2> for examples of  
+directories.) Many higher education institutions now provide online  
+faculty directories that include email addresses. To locate schools  
+that have a Web presence, try Christina DeMello's extensive list of  
+college and university Web pages. The list has not been updated  
+recently, nevertheless, with over 3,000 entries from around the world,  
+it is the most comprehensive list of its kind.  
+Alphabetical listing: <http://www.mit.edu:8001/people/cdemello/univ.html>  
+Geographical listing: <http://www.mit.edu:8001/people/cdemello/geog.html>  
+
+......................................................................  
+
+COLLEGE EDUCATION KEY TO OFFICE WORKERS' SUCCESS  
+
+A recent study by the Educational Testing Service (ETS) refutes the  
+conventional image of a future American workforce divided into two  
+groups: high-paying, high-technology jobs and low-paying, low-skilled  
+jobs. Anthony Carnevale and Stephen Rose, co-authors of the study's  
+report, "Education for What? The New Office Economy," found that in the  
+1990s office workers make up 41 percent of the U.S. workforce and  
+account for 50 percent of all earnings. The study also confirms that  
+college education is a key factor in securing a place in the growing  
+office economy: between 1959 and 1995, 75 percent of college-educated  
+workers held the high-paying elite professional and managerial jobs  
+that promise greater job growth and earnings potential.  
+
+A brief summary of the report is available on the Web at  
+
+<http://www.ets.org/aboutets/oficecon.html>  
+Free copies of the report are available from ETS, Communications  
+Services, MS 50-D, Rosedale Road, Princeton, NJ 08541 USA; tel:  
+609-734-5050.  
+
+ETS is the world's largest private educational measurement institution.  
+The non-profit organization develops and administers achievement,  
+occupational and admission tests, such as the SAT for the College  
+Board. For more information, contact Corporate Headquarters,  
+Educational Testing Service, Rosedale Road, Princeton, NJ 08541 USA;  
+tel: 609-921-9000; fax: 609-734-5410; email: etsinfo@ets.org; Web:  
+
+<http://www.ets.org/>  
+
+......................................................................  
+
+UNIVERSAL ACCESS TO TECHNOLOGY IN EDUCATION  
+
+Recent articles and reports stress that universal access to technology  
+in schools is vital for preparing students for future challenges in the  
+
+workplace and society. In "Creating a Level Playing Field for Campus  
+Computing: Universal Access" (SYLLABUS, vol. 11, no. 6, February 1998,  
+pp. 12, 14, 29, 44), Glen McCandless describes universal access in  
+higher education and outlines the major issues that are preventing the  
+realization of it: who pays, its impact on student enrollments, faculty  
+resistance to change, and the freedom from imposed standards in  
+academe. An excerpt from the article is available on the Web at  
+
+<http://www.syllabus.com/feb98_mag.html>  
+
+In the CEO Forum's "School Technology and Readiness (StaR) Report: From  
+Pillars to Progress" it was reported that "while 3% of American schools  
+[of the 80,000 public schools surveyed] are effectively using  
+technology in the classroom, almost 60% of America's schools have  
+inadequate and outdated technology." Using the "Four Pillars" of  
+education and technology outlined by the Clinton/Gore administration  
+(hardware, connectivity, digital content, and professional  
+development), the CEO Forum created an assessment tool (School  
+Technology and Readiness Chart) for school leaders to "gauge whether  
+their school is preparing its students for the 21st century." Copies of  
+the report can be obtained from the CEO Forum by calling 202-393-1010.  
+The complete report is also available on the Web at  
+
+<http://www.ceoforum.org/report97/> [HTML format] and  
+
+<http://www.ceoforum.org/report97/report97.pdf> [PDF format].  
+
+The CEO Forum on Education and Technology was founded in the Fall of  
+1996 to "help ensure that America's schools effectively prepare all  
+students to be contributing citizens and productive workers in the 21st  
+Century. To meet this objective, the Forum will issue an annual  
+assessment of the nation's progress toward integrating technology into  
+American classrooms through the year 2000." For more information,  
+contact: The CEO Forum on Education and Technology, 1001 G Street, NW,  
+Suite 900 East, Washington, DC 20001 USA; tel: 202-393-2260; fax:  
+202-393-0712; email: ceoforum@itstrategies.com; Web:  
+
+<http://www.ceoforum.org/>  
+
+Syllabus [ISSN 1089-5914] is published ten times a year by Syllabus  
+Press, Inc., 345 Northlake Drive, San Jose, CA 95117-1261 USA; tel:  
+408-261-7200; fax: 408-261-7280; email: info@syllabus.com; Web:  
+
+<http://www.syllabus.com/>  
+Annual subscriptions are available for $24 (individual/North America);  
+$75 (institution/North America); $75 (individual/outside North  
+America); $135 (institution/outside North America). Subscriptions in  
+the U.S. are free to individuals who work in colleges, universities,  
+and high schools. A free subscription application is available at  
+
+<http://www.syllabus.com/syllsub.html>  
+
+......................................................................  
+
+INTERVIEW WITH CYBERSPACE PIONEER  
+
+Asked about the use of computers in the classroom, John Perry Barlow  
+said, "We need to change our pedagogical model to one that enhances  
+students' opportunities to get out and really experience things." As  
+co-founder of the Electronic Frontier Foundation and of Lotus  
+Corporation, Barlow is no enemy of technology, but has strong opinions  
+on the appropriate applications of it in learning and training in  
+
+schools and in the corporate sector. An interview Barlow granted, after  
+delivering a speech at the 1997 Educom conference, is recorded in "A  
+Confederacy of Apprentices" (TRAINING, vol. 35, no. 1, January 1998,  
+pp. 44-48, 50).  
+The full text of the article is available this month on the Web at  
+
+<http://www.trainingsupersite.com/publications/magazines/training/article1.htm>  
+
+Training [ISSN 0095-5892] is published monthly by Lakewood  
+Publications, Inc., Lakewood Building, 50 S. Ninth St., Minneapolis, MN  
+55402 USA; tel: 612-333-0471; fax: 612-333-6526; Web:  
+
+<http://www.trainingsupersite.com/TSS_Link/lakeset.htm>  
+Annual subscriptions are available for $79 (U.S.); $89 (Canada); $100  
+(all other countries).  
+
+......................................................................  
+
+METADATA PROJECT HOLDS PROMISE  
+
+According to Elliot Soloway, in "No One Is Making Money in Educational  
+Software" (COMMUNICATIONS OF THE ACM, vol. 41, no. 2, February 1998,  
+pp. 11-15), finding educationally appropriate materials is a "classic  
+time-consuming, hit-or-miss activity for teachers." He points out that  
+the metadata system developed as part of Educom's Instructional  
+Management Systems (IMS) initiative [<http://www.imsproject.org/>] holds  
+great promise for solving this problem with regard to Web-based  
+materials. Metadata is "data about data" which "allows the user to  
+locate, evaluate, access, and manage online available learning  
+resources." The University of North Carolina at Chapel Hill is a member  
+of the IMS initiative, and Dr. Thomas Wason, IAT Director of Research  
+and Evaluation, is in charge of the IMS Metadata project. For more  
+information on the Metadata project, see the project's homepage at  
+
+<http://www.imsproject.org/metadata/index.html> and Dr. Wason's papers in  
+the IAT's technical publications area at  
+
+<http://www.iat.unc.edu/publications/tech.html>  
+
+Communications of the ACM [ISSN: 0001-0782] is published monthly by the  
+Association for Computing Machinery (ACM), One Astor Plaza, 1515  
+Broadway, New York, New York 10036 USA; tel: 212-869-7440; fax:  
+212-944-1318; email: acmhelp@acm.org; Web: <http://www.acm.org/>  
+Subscriptions are included with membership in the ACM. Annual  
+subscriptions for non-members are $144 (print version), $173 (print and  
+online versions), $115 (online version). Subscribers outside North  
+America can get expedited airmail delivery for an additional $35/year.  
+
+......................................................................  
+
+To Subscribe  
+
+IAT INFOBITS is published by the Institute for Academic Technology. The  
+IAT is a national institute working to place higher education at the  
+forefront of academic technology development and implementation. As a  
+part of the University of North Carolina at Chapel Hill, the IAT  
+strives to facilitate widespread use of effective and affordable  
+technologies in higher education.  
+
+To subscribe to INFOBITS, send email to listserv@unc.edu with the  
+following message:  
+
+SUBSCRIBE INFOBITS firstname lastname  
+
+substituting your own first and last names.  
+
+Example: SUBSCRIBE INFOBITS Mary Daheim  
+
+INFOBITS is also available online on the IAT's World Wide Web site at  
+
+<http://www.iat.unc.edu/infobits/infobits.html> (HTML format) and at  
+
+<http://www.iat.unc.edu/infobits/text/index.html> (plain text format).  
+
+If you have problems subscribing or want to send suggestions for future  
+issues, contact the editor, Carolyn Kotlas, at carolyn_kotlas@unc.edu  
+
+Article Suggestions  
+Infobits always welcomes article suggestions from our readers, although  
+we cannot promise to print everything submitted. Because of our  
+publishing schedule, we are not able to announce time-sensitive events  
+such as upcoming conferences and calls for papers or grant  
+applications; however, we do include articles about online conference  
+proceedings that are of interest to our readers. While we often mention  
+commercial products, publications, and Web sites, Infobits does not  
+accept or reprint unsolicited advertising copy. Send your article  
+suggestions to the editor at carolyn_kotlas@unc.edu  
+
+\-----------------------------------------------------------------------  
+Copyright 1998, Institute for Academic Technology. All rights reserved.  
+May be reproduced in any medium for non-commercial purposes.  
+
+  
+

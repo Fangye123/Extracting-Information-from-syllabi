@@ -1,0 +1,898 @@
+
+GTP - Events - Past Fall Intensives
+
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Friday 
+        Forums | Special Workshops | Sexual 
+        Harassment Workshops
+
+
+
+
+
+
+
+
+
+
+
+Past 
+                      Fall Intensives
+2001 
+                      / 2000 / 1999 / 
+                      98 / 97
+96 / 95 / 94 
+                      / 93 / 92 / 91
+FALL 
+                      2001
+August 
+                      22
+                      Welcome & Introduction to the Graduate Teacher Program
+
+Rodney Taylor, Associate Dean, Graduate School 
+                      Laura Border, Director, Graduate Teacher Program 
+                      Hoag Holmgren, Assistant Director, Graduate Teacher Program 
+                      
+                      Jennifer Thacher, President, United Government of Graduate 
+                      Students (UGGS)
+Teaching 
+                      Your First Course as Instructor of Record 
+Hoag Holmgren, Assistant Director & PFF Coordinator, 
+                      Graduate Teacher Program
+Dealing 
+                      With Problems, Part 1 
+Mackenzie Carrigan, Lead Graduate Teacher, Creative Writing
+The 
+                      Best Do Teach: Outstanding Graduate Teachers 
+Rose Marie Broughman, Lead Graduate Teacher, Spanish 
+                      
+                      Ross Haenfler, Lead Graduate Teacher, Sociology 
+                      Karen Eisenhart, Lead Graduate Teacher, Geography 
+                      Jinger Gottschall, Lead Gradaute Teacher, Kinesiology 
+
+Dealing with Racism in the Classroom 
+Eldridge Greer, Psychologist, Multicultural Counseling 
+                      Center 
+                      Bev Tuel, Director, GLBT Resource Center 
+                      Counseling Center Diversity Team
+Teacher 
+                      Training As Professional Development for any Career
+
+Elizabeth Herr, PhD, Economics
+                      Statistical Analyst, Noel-Levitz 
+                      Jeff Cox, Director, Center for Humanities
+Dealing 
+                      with Problems, Part 2 
+Jenny Kehl, Lead Graduate Teacher, Political Science
+TA/GPTI 
+                      Responsibility for Student Cheating and Plagiarism 
+Karen Bever, Assistant Dean, Arts & Sciences 
+
+Assessing Non-Written Work 
+Annette Thornton, Lead GT Coordinator, GTP & Ph.D. Cantidate, 
+                      Theatre & Dance
+Computer 
+                      and Media Assisted Instruction 
+Kuan-Yi Rose Chang, Director, ALTEC 
+                      Jenifer C. Martin, Coordinator, Sociology 
+                      Mark Werner, Coordinator, ITS
+Students 
+                      Will Evaluate You: Using the FCQ to Inform Your Teaching
+
+Greg Carey, Associate Professor, Physics 
+
+The Ira and Ineva Baldwin Best Should Teach Lecture:
+Teaching Science in the 21st Century
+Margret Murnane, Professor, Physics 
+Lead 
+                      and Teacher Awards, 2001-02 
+George Lares, The Stanford Company 
+                      Dr. Lindley Stiles, Professor Emeritus 
+                      Laura Border, Director, Graduate Teacher Program 
+Old 
+                      Main Heritage Center 
+                      Reception for all Fall Intensive Participants & Best Should 
+                      Teach Participants.
+August 
+                      23
+                      Assessment Techniques to Enliven Testing and Grading
+
+Katanna Conley, Lead Graduate Teacher, Education
+Dealing 
+                      with Conflict in the Classroom 
+Andrea Goldblum, Director, Office of Judicial Affairs 
+                      
+                      Sharon Campbell, Counselor, Counseling Center
+Kolb 
+                      Learning Styles Inventory 
+Laura Border, Director, Graduate Teacher Program
+Teaching 
+                      Writing: Workshopping Student Papers 
+Margie Krest, Senior Instructor, EPOB
+Career 
+                      Planning and CV Writing 
+Lynn Boyle, Counselor, Career Services
+Student 
+                      Disclosure: What's Appropiate? 
+Cheryl McFarren, Lead Graduate Teacher, Teatre & Dance 
+                      
+                      Doris Olsen, Counsler, Counseling and Psychological Services
+Teaching 
+                      Effectively with Discussions 
+Martin Bickman, Professor, English
+Students 
+                      with Disabilities in the Classroom: Rights and Responsibilities
+
+Cindy Donahue, Disability Services
+Aerobic 
+                      Languages 
+Patricia Schindler, Senior Instructor, German & Slavic 
+                      Languages 
+                      Patricia Brand, Senior Instructor, French & Italian
+Conflict 
+                      Management 
+Mary Chavez, Ombuds Person
+                      Tom Sebok, Ombuds Person
+Teaching 
+                      through Classroom Demonstrations 
+Mike Dubson, Instructor, Physiscs
+Teaching 
+                      Techniques for Large Science Courses 
+Steven Pollock, Assistant Professor, Physics
+Students 
+                      Who Struggle to Learn a Foreign Language: Identifying, Teaching 
+                      and Advising Students with Learning Problems 
+Barbara Hill, Latin Program Coordinator, 
+                      Department of Classics Program Coordinator, 
+                      Modified Foreign Language Program 
+                      Anne Becher, Instructor, Spanish & Portuguese
+Service 
+                      Learning: An Active Way to Tie Theory to Practice 
+Christina Monroe, Director, Service Learning
+Thinking 
+                      and Writing Critically 
+Elissa Guralnick, Professor, English
+August 
+                      24
+                      The CU-Boulder Sexual Harassment Policy 
+                      (Repeats at 2:30pm) 
+Duncan Rinehart, Instructor, Employee Development 
+                      Tangie Sutton, Instructor, Employee Development 
+                      Candice Bowen, Interim Director, Sexual Harrassment Policy 
+                      Office
+The 
+                      University Lecture 
+Dennis Van Gerven, Professor, Anthropology
+Teaching 
+                      Respect for All: Gay, Lesbian, Bisexual, and Transgender 
+                      Student Inclusion 
+Jan Johnson, Associate Director, Counseling & Psychological 
+                      Services, A Multicultural Center 
+                      Steven Medina, University Counselor
+Bringing 
+                      the Other into the Classroom: Teaching Culture in Foreign 
+                      Language Classrooms 
+Obdulia Castro, Assistant Professor, Spanish & Portuguese
+Non-Biased 
+                      Teaching: A Simulation 
+Laura Border, Director, Graduate Teacher Program
+Ethics 
+                      in Teaching 
+David Boonin, Assistant Professor, Philosophy
+Dilemmas 
+                      of Gendered Authority: Issues in TA-Student Interaction
+
+Amy Grim, Lead Graduate Teacher, Communications 
+                      Robert Agne, Graduate Student, Communications
+Active 
+                      Learning 
+David Clough, Professor, Engineering 
+                      Lawrence Carlson, Professor, Engineering
+What's 
+                      Wrong With the Way Things Are? An Interactive Theatre Piece 
+                      Addressing White Privilege 
+Rebecca Brown & Interactive Theatre Project
+The 
+                      Honor Code 
+Andrea Roth, Honor Code Representative 
+                      Emily Kyler, Honor Code Representative
+Teaching: 
+                      Do You Have the Personality for It? 
+Don Weatherley, Associate Professor, Psychology 
+
+Teaching Beginning Math and Calculus 
+Ann Scarritt, Coordinator, Student Academic Services 
+                      Center 
+                      Delsie Khadem-Ghaeini, Assistant Math Coordinator Student 
+                      Academic Services Center
+Dealing 
+                      With Problems 1 and 2 
+Cori Krauss, Lead Graduate Teacher, APS 
+                      Jeanette Domber, Lead Graduate Teacher, Aerospace Engineering
+Creative 
+                      Teaching 
+Jim Downton, Professor, Sociology
+The 
+                      CU-Boulder Sexual Harassment Policy 
+                      (Repeat of 9:00am session) 
+Duncan Rinehart, Instructor, Employee Development 
+                      Tangie Sutton, Instructor, Employee Development 
+                      Candice Bowen, Interim Director, Sexual Harrassment Policy 
+                      Office
+
+
+FALL 
+                        2000 
+
+                        August 23
+                        Welcome & Introduction to the Graduate Teacher Program
+
+Rodney Taylor, Associate Dean, Graduate School 
+                        Laura Border, Director, Graduate Teacher Program 
+                        Hoag Holmgren, Assistant Director, Graduate Teacher Program 
+                        
+                        Genét Kozik-Rosabal, Coordinator, Graduate Teacher 
+                        Program
+The 
+                        Best Do Teach: Outstanding Graduate Teachers 
+Eric August, Lead Graduate Teacher, Civil Engineering 
+                        
+                        Lisa Jaramillo, Lead Graduate Teacher, Germanic and Slavic 
+                        Languages 
+                        Dan Sturgis, Lead Graduate Teacher, Philosophy 
+                        Jennifer Thacher, Lead Graduate Teacher, Economics 
+                        Tracy Ferrell, Lead Graduate Teacher, Comparative Literature
+Dealing 
+                        With Problems, Part 1 
+Teresa Nugent, Lead Graduate Teacher, English
+Teaching 
+                        Your First Course as Instructor of Record 
+Hoag Holmgren, Assistant Director, Graduate Teacher 
+                        Program 
+
+TA/GPTI Responsibility for Student Cheating and Plagiarism
+
+Karen Bever, Assistant Dean, Arts & Sciences 
+                        Donald Lichtenstein, Associate Dean, College of Business 
+                        Administration 
+                        Andrew Corbett, Lead Graduate Teacher, Business
+Dealing 
+                        with Problems, Part 2 
+Andy MacDonald, Lead Graduate Teacher, French and Italian
+Dealing 
+                        with Racism in the Classroom 
+Eldridge Greer, Psychologist, Multicultural Counseling 
+                        Center 
+                        Bev Tuel, Director, GLBT Resource Center 
+                        Counseling Center Diversity Team 
+
+CU-Boulder Resources for Graduate Teachers & Their 
+                        Students 
+Ronald Stump, Vice Chancellor for Student Affairs
+Computer 
+                        and Media Assisted Instruction 
+Kuan-Yi Rose Chang, Director, ALTEC 
+                        Jenifer C. Martin, Coordinator, Sociology 
+                        Mark Werner, Assistant Professor, Fine Arts
+Using 
+                        Midterm Feedback & the Faculty Course Questionnaire 
+                        to Inform Your Teaching 
+Michelle Woodward, Lead Graduate Teacher, Anthropology, 
+                        1998-99 
+
+The Ira and Ineva Baldwin Best Should Teach Lecture
+
+Special Guest: Dr. Walter Parker, University of Washington 
+                        
+                        Chair, Professor William B. Stanley, Dean, School of Education 
+                        
+                          
+Recognition of Lead Graduate Teachers, 2000-01
+
+Dr. Lindley Stiles, Professor Emeritus 
+                        Laura Border, Director, Graduate Teacher Program
+
+Old 
+                      Main Heritage Center 
+Best Should Teach Reception
+August 
+                      24
+                      Kolb Learning Styles Inventory 
+Laura Border, Director, Graduate Teacher Program
+Assessment 
+                      Techniques to Enliven Testing and Grading 
+Genét Kozik-Rosabal, Coordinator, Graduate Teacher 
+                      Program
+Dealing 
+                      with Conflict in the Classroom 
+Andrea Goldblum, Director, Office of Judicial Affairs 
+                      
+                      Sharon Campbell, Counselor, Counseling Center
+Leading 
+                      Socratic Discussions 
+Edward Gac, Associate Professor, College of Business 
+                      Administration
+Career 
+                      Planning and CV Writing 
+Lynn Boyle, Counselor, Career Services
+Teaching 
+                      Writing: Workshopping Student Papers 
+Margie Krest, Senior Instructor, EPOB
+Testing 
+                      Foreign Languages 
+Kuan-Yi Rose Chang, Director, ALTEC
+Teaching 
+                      through Classroom Demonstrations 
+John Taylor, Professor, Physics
+Students 
+                      with Disabilities in the Classroom: Rights and Responsibilities
+
+Terri Bodhaine, Coordinator, Learning Disabilities Program
+Teaching 
+                      and Evaluating Creative Work 
+Annette Thornton, Lead Graduate Teacher, Theatre & 
+                      Dance, 1998-2000
+Aerobic 
+                      Languages 
+Patricia Schindler, Senior Instructor, German & Slavic 
+                      Languages 
+                      Patricia Brand, Senior Instructor, French & Italian 
+                      
+
+Thinking and Writing Critically 
+Elissa Guralnick, Director, University Writing Program
+Service 
+                      Learning: An Active Way to Tie Theory to Practice 
+Christina Monroe, Director, Service Learning
+Do's 
+                      & Don'ts for Science & Math TAs 
+Michel Dubson, Senior Instructor, Physics
+Students 
+                      Who Struggle to Learn a Foreign Language: Identifying, Teaching 
+                      and Advising Students with Learning Problems 
+Barbara Hill, Coordinator of Latin Program & Modified 
+                      Foreign Language Program 
+                      Anne Becher, Instructor, Spanish & Portuguese
+August 
+                      25
+                      The University Lecture 
+Dennis Van Gerven, Professor, Anthropology
+Teaching 
+                      Respect for All: Gay, Lesbian, Bisexual, and Transgender 
+                      Student Inclusion 
+Ian K. Macgillivray, GLBT Resource Center & School 
+                      of Education, Gay Straight Alliance
+Using 
+                      WebCT in Foreign Language Teaching 
+Obdulia Castro, Assistant Professor, Spanish and Portuguese
+
+
+Teaching Beginning Math and Calculus 
+Shelby Frost, Graduate Part-Time Instructor, Economics
+Developing 
+                      a Professional Portfolio 
+Laura Border, Director, Graduate Teacher Program
+Ethics 
+                      in Teaching 
+Michael Grant, Professor, EPO Biology, Presidential Teaching 
+                      Scholar, and Associate Vice Chancellor for Undergraduate 
+                      Affairs
+The 
+                      CU-Boulder Sexual Harassment Policy 
+Duncan Rinehart, Instructor, Employee Development 
+                      Tangie Sutton, Instructor, Employee Development 
+
+Dealing With Problems 1 & 2 
+Lee Turner, Lead Graduate Teacher, EPO Biology
+Creative 
+                      Teaching 
+Jim Downton, Professor, Sociology 
+
+Evaluating Written Assignments 
+Genét Kozik-Rosabal, Coordinator, Graduate Teacher 
+                      Program
+The 
+                      Truth Ain't Nothin' But a Sandwich 
+William King, Professor, Ethnic Studies
+Using 
+                      Poetry to Teach Any Subject 
+Matthew Cooperman, Instructor, University Writing Program 
+                      
+                        
+
+
+FALL 
+                      1999
+August 
+                      18
+Welcome & Introduction to the Graduate Teacher Program
+
+Laura Border, Director 
+                      Hoag Holmgren, Assistant Director 
+                      Toby Terrell, Coordinator, Lead Graduate Teacher Network 
+                      
+                      Lead Graduate Teachers, 1999-00 
+                      Preparing Future Faculty Fellows 
+ Dealing 
+                      with Problems-Part I 
+Micah Thompson, Lead Graduate Teacher, PFF Fellow, Psychology, 
+                      1997-1998
+Building 
+                      a Teaching Portfolio 
+Toby Terrell, Coordinator, Lead Graduate Teacher Network, 
+                      Graduate Teacher Program 
+Teaching 
+                      through Group Discussion 
+Mary Klages, Associate Professor, English
+Kolb 
+                      Learning Styles Inventory 
+Laura Border, Director, Graduate Teacher Program
+Ethics 
+                      in Teaching 
+Kenneth Howe, Professor, Education
+Dealing 
+                      with Racism in the Classroom 
+Eldridge Greer, Psychologist, Multicultural Counseling 
+                      Center 
+                      Bev Tuel, Directory, Gay, Lesbian, Bisexual Resources Center 
+                      
+                      Counseling Center Diversity Team 
+CU-Boulder 
+                      Resources for Graduate 
+Teachers & Their Students 
+Ron Stump, Interim Vice Chancellor for Student Affairs
+Dealing 
+                      With Conflict in the Classroom 
+Andrea Goldblum, Director, Office of Judicial Affairs
+Teacher 
+                      Training as Professional Development for any Career
+
+Graduate School Advisory Council Panel
+                      Moderated by Kaye Howe of Howe & Associates; former 
+                      Vice Chancellor for Academic Services, CU-Boulder;former 
+                      presdient, Western State College; former president, International 
+                      University 
+The 
+                      Ira and Invea Baldwin Best Should Teach Lecture:
+                      Where Love & Need Are One: A New Day for Teaching 
+Special Guest: Dr Eugene Rice, Director for the Forum 
+                      on Faculty Roles & Rewards, American Association for 
+                      Higher Education
+Recognition 
+                      of Lead Graduate Teachers, 1999-00 
+Dr. Lindley Stiles, Professor Emeritus
+Best 
+                      Should Teach Reception 
+                      All Fall Intensive speakers & attendees & Best Should 
+                      Teach Lecture attendees are welcome 
+
+August 
+                      19
+                      Teaching Your First Course 
+Hoag Holmgren, Assistant Director & Preparing Future 
+                      Faculty Coordinator, Graduate Teacher Program
+Career 
+                      Services for Graduate Students 
+Sandy Rosewell, Counselor, Career Services 
+The 
+                      Seven Habits of Highly Effective Language Teachers 
+Misae Nishikura, Senior Instructor, East Asian Languages 
+                      and Literatures 
+                      Patty Schindler, Instructor, Germanic and Slavic Languages 
+                      and Literatures 
+The 
+                      Best Do Teach: A Panel of Outstanding Graduate Student Teachers
+
+Jim Walker, Lead Graduate Teacher, Comparative Literature, 
+                      1999-00 
+                      Jennifer Russell, Lead Graduate Teacher, Mathematics, 1999-00 
+                      
+                      Tina Jenkins, Lead Gradate Teacher, East Asian Languages 
+                      & Literatures, 1999-00; PFF Fellow 
+                      Jon Webb, Lead Graduate Teacher, Chemical Engineering, 1998-99 
+                      
+Assessment 
+                      Techniques to Enliven Testing and Grading 
+Christina Standefer, Lead Graduate Teacher, Communication, 
+                      1998-99 
+Dealing 
+                      With Problems- Part II 
+Gioia Kerlin, Lead Graduate Teacher, Spanish & Portuguese, 
+                      1999-00 
+Students 
+                      with Math Anxiety 
+Jerry Dwyer, Instructor, Mathematics 
+Effective 
+                      Strategies for Working with Students with Disabilities
+
+Terri Bodhaine, Coordinator, Learning Disabilities Program 
+                       
+Using 
+                      Simulations to Enhance Learning 
+Sean Evans, Lead Graduate Teacher, Political Science, 
+                      1998-99 PFF Fellow
+Creating 
+                      The Humane Classroom 
+Brett Johnson, Lead Graduate Teacher, Sociology, 1998-99 
+                      
+                      Ross Haensler, Lead Graduate Teacher, Sociology, 1999-00 
+                      
+                      Brian Klocke, Ph.D. student, Sociology 
+                      Lizka Segal, Ph.D. student, Anthropology 
+                      Rob Gardner, Ph.D. student, Sociology
+Active 
+                      Learning: How to Motivate and Involve Your Students
+
+Toby Terrell, Coordinator, Lead Graduate Teacher Network, 
+                      Graduate Teacher Program
+Advancing 
+                      Creativity in Teaching 
+Ellis Jones, Lead Graduate Teacher, Sociology, 1998-99
+
+
+August 
+                      20
+                      Collaborative Learning Techniques for Math & Science 
+                      Recitations 
+Andi Pascarella, Lead Graduate Teacher, Physics, 1998-99 
+                      
+                      Dani Bundy, Lead Graduate Teacher, Applied Math, 1998-99
+Teaching 
+                      Respect for All: Gay, Lesbian, Bisexual, and Transgender 
+                      Student Inclusion 
+Ian K. Macgillivray, GLBT Resource Center & School 
+                      of Education, Gay Straight Alliance 
+                      Chicora Martin, GLBT Resource Center
+Avoiding 
+                      Bias in the Classroom: A Simulation 
+Laura Border, Director, Graduate Teacher Program
+TA 
+                      Responsibilities for Student Academic Misconduct 
+Karen Bever, Assistant Dean, Arts & Sciences
+
+Learning 
+                      Disabilities and Second Language Learning for Foreign Language 
+                      Instructors 
+Lynn Snyder, Director, Center for Language and Learning 
+                      
+                      Barbara Hill, Coordinator of Latin Program & Modified 
+                      Foreign Language Program 
+                      Ann Becker, Instructor, Spanish & Portuguese 
+Teaching: 
+                      Do You Have the Personality for It? 
+Donald Weatherly, Associate Professor, Psychology 
+The 
+                      CU-Boulder Sexual Harassment Policy 
+Duncan Rinehart, Ph.D., Employee Development 
+                      Tangie Sutton, Instructor, Employee Development
+Thinking 
+                      & Writing Critically 
+Elissa Guralick, Director, University Writing Program
+Teaching 
+                      with the Right Brain: Lessons Yoda Never Taught You
+
+Dr. Lee Potts, Associate Professor, Theatre & Dance 
+                      Annette Thorton, Lead Graduate Teacher, 
+                      Theatre & Dance, 1998-00
+                      Cherly McFarren, MFA, Theatre & Dance
+Evaluating 
+                      Written Assignments 
+Genet Kozik-Rosabal, Lead Graduate Teacher, Education, 
+                      1998-99 
+Race 
+                      Relations in Higher Education 
+William King, Professor, Ethnic Studies
+Using 
+                      Midterm Feedback & the Faculty Course Questionnaire 
+                      to Inform Your Teaching 
+Michelle Woodward, Lead Graduate Teacher Anthropology, 
+                      1998-99
+
+
+
+FALL 
+                      1998
+TA 
+                      Responsibility for Student Academic Misconduct 
+Karen Bever
+ Accomodations 
+                      for Students with Disabilities
+Terri Bodhaine
+Kolb 
+                      Learning Styles Inventory 
+Laura Border
+Teaching: 
+                      Do You Have the Personality for it?
+Laura 
+                      Border
+Avoiding 
+                      Bias in the Classroom: a Simulation
+Laura 
+                      Border
+Students 
+                      with Math and Science Anxiety, Part 1 
+Andi Pascarella, Dani Bundy
+Students 
+                      with Math and Science Anxiety, Part 2
+Andi Pascarella, Dani Bundy
+Collaborative 
+                      Learning Techniques for Math and Science Recitation
+Andi Pascarella, Dani Bundy
+CU-Boulder 
+                      Resources for Graduate Teachers and Their Students 
+Jean Kim, Ron Stump and others
+Using 
+                      the WebCT to Develop Interactive Course Websites
+John Dennett
+Advancing 
+                      Creativity in Teaching
+Jim Downton, Ellis Jones
+Using 
+                      Simulations for Deep Learning 
+Sean Evans
+Dealing 
+                      with Conflict in the Classroom
+                      Andrea Goldblum
+Career 
+                      Services for Graduate Students
+
+Gordon Gray
+Dealing 
+                      with Racism in the Classroom 
+Eldridge Greer
+Thinking 
+                      and Writing Critically
+Elissa Guralnick
+The 
+                      Seven Habits of Highly Effective Language Teachers
+Patricia Brand, Ellen Haynes, Madeline Spring
+Dealing 
+                      with Problems- Part I 
+Genet Kozik-Rosabal
+Dealing 
+                      With Problems- Part II 
+Gioia Kerling
+Dealing 
+                      With Problems- Part III
+Tammie Nakamura
+Evaluating 
+                      Written Assignments 
+Ralph Mann 
+Ethics 
+                      in Teaching
+Claudia Mills
+Using 
+                      Collaborative Learning in Recitation
+Adina Nack
+Orios 
+                      and Caucasion Devils: Examining our Bias and Assumptions
+
+Bonnie Richards, Jim Davis-Rosenthal
+Learning 
+                      Disabilities and 2nd Language Learning
+Lynn Snyder, Barbara Hill, Phyllis Bellver
+Assessment 
+                      Techniques to Enliven Teaching and Grading 
+Christina Standefer
+Teaching 
+                      Through Group Discussion 
+John Stevenson
+Teaching 
+                      Students to Write Clearly 
+Sally Susnowitz
+Service 
+                      Learning 
+Sally Susnowitz
+Building 
+                      a Teaching Portfolio 
+Toby Terrell
+Tracking 
+                      Grades via Microsoft Excel
+Jennifer Thackaberry
+Dealing 
+                      with Problems- Part I
+Micah Thompson
+Effective 
+                      Uses of Lecturing
+Dennis van Gerven
+Using 
+                      Midterm Feedback and FCQs to Inform Your Teaching
+Michelle Woodward
+
+FALL 
+                      1997
+Gender 
+                      Bias Panel
+Meacham, Meyeres, Thack
+ Facilitating 
+                      Classroom Discussion
+Barbara Fox
+How 
+                      to Help Students Acquire...
+Antonia Johnson
+Internet 
+                      in the Classroom
+Kate Romanov
+Kolb 
+                      Learning Styles 
+Hoag Holmgren
+Introduction 
+                      to Coursebuilder
+Webworks
+Dealing 
+                      with Problems- Part I 
+Heather Boylan
+Dealing 
+                      With Problems- Part II 
+Mark Ament
+Dealing 
+                      With Problems- Part III
+Antonia Johnson
+Learning 
+                      Styles Inventory (2 of 2)
+Laura Border
+Dealing 
+                      With Problems- Part II 
+Valerie Wallace
+Accomodating 
+                      for Students with Disabilities
+Terri Bodhaine
+Lecture: 
+                      Out of Style or Useful Tool?
+Dennis Van Gerven
+Understanding 
+                      the Sexual Harassment Policy
+                      Duncan Rinehart
+Go 
+                      With the Flow: Teaching Foreign Languages
+                      Brand, Hayes, Spring
+Resources 
+                      for Graduate Teachers
+                      Ronald Stump
+Students 
+                      with Math Anxiety, Part 1 
+Jim Loats
+Gender 
+                      Bias: A Simulation
+                      Laura Border
+Dealing 
+                      With Problems- Part II
+Antonia Johnson
+Provoking 
+                      Logical Argument
+                      Tom Zeiler
+Learning 
+                      Styles Inventory (1 of 2)
+Laura Border
+Midterm 
+                      Evaluations and FCQs
+Noha El-Mahdy
+Some 
+                      Thoughts About Industrial...
+                      Steve Oneil
+Shut 
+                      Up and Do What I Tell You
+                      Brett Johnson
+Students 
+                      with Math Anxiety, Part 2
+Jim Loats
+Incorporating 
+                      Multicultural Perspectives
+                      Margarita Olivas
+Service 
+                      Learning 
+Robin Crews
+Dealing 
+                      with Racism in the Classroom 
+Eldridge Greer, Duncan Rinehart
+Creativity 
+                      and Teaching
+                      Jim Downton
+Building 
+                      a Teaching Portfolio 
+Toby Terrell
+Getting 
+                      Started and Staying
+Michael Meloth
+Teaching 
+                      Students to Write
+Sally Susnowitz
+Active 
+                      Learning
+Hilda Borko
+Accelerated 
+                      and Brain-based Learning
+Deborah Fink
+Fostering 
+                      Engagement and Communication
+                      Dirk Aardsma
+Assumptions 
+                      About Students
+                      Alphonse Keasley
+Collaborative 
+                      Learning in Recitations
+                      Jim Marlin
+Teaching 
+                      Assistants in Large Classes
+Walt 
+                      Stone 
+Thinking 
+                      and Writing Critically
+Elissa Guralnick
+Teaching: 
+                      Do You Have the Personality for it?
+Don Weatherly
+Tracking 
+                      Grades with Excel
+Jennifer Thackaberry
+
+FALL 
+                      1996
+
+ Service 
+                      Learning 
+Robin Crews
+Research 
+                      and Teaching
+                      James Curry
+Leading 
+                      Recitations and Creating...
+ Terrence Deak
+Creativity 
+                      and Teaching
+                      Jim Downton
+Dealing 
+                      with Problems- Part I 
+Mairi Dorman
+Taking 
+                      on Full Course Responsibilities
+Jan Fernback
+Starting 
+                      a Teaching Portfolio 
+Margaret Johnson
+Atlas 
+                      Shrugged: New Roles for...
+ Brand, Hayes, S

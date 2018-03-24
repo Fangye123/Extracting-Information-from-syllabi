@@ -1,0 +1,280 @@
+
+
+
+Science and Society in 20th Century America - Syllabus
+
+
+
+Science and Society in 20th Century America
+HPSS*S571, Fall 2000 -- MW 11:20 to 12:50, CB 431
+The Rhode Island School of Design, Providence RI
+Roger B. Blumberg -- 
+Syllabus
+http://www.cs.brown.edu/~rbb/risd/S571.syllabus.html
+
+See also the S571 Reference Page
+
+
+Briefly:
+This course examines and raises questions about 
+the roles and representations of scientific 
+knowledge and practice 
+in the political/social/cultural history of the past century.
+During the semester, we will focus on two significant "projects" with
+natural science at their core: The Manhattan Project, which aimed at
+and succeeded in producing a "practical military weapon" in the form
+of an atomic bomb; and, The Human Genome Project, the aims of which
+include the identification of all the 100,000 genes in human DNA,
+the determination of the sequences of the 3 billion chemical base 
+pairs that make up human DNA, the development of technologies
+to analyze and store this information. In examining these Projects, 
+we'll be interested in understanding not only
+the science that facilitate(d) 
+these activities, but the relationships between individuals 
+and institutions, between science, history and politics, that 
+constituted these activities as well. We'll be especially interested in 
+thinking and learning about these relationships by examining
+diverse representations of scientific theory and practice
+in contemporary literatures and arts. 
+Attention will also be paid to considering 
+the moral and political responsibility of the educated layman as 
+well as the scientific expert, and the way different theories
+of social and political responsibility are inscribed in 
+representations of scientific theory and practice.
+
+
+Requirements:: The basis for our discussions in this course
+will be readings, and related writing assignments. Students 
+are expected to read 
+critically a variety of texts (philosophical, sociological and
+scientific) and to contribute to class discussions. In addition
+to short assignments, students will, before the Thanksgiving
+holiday, complete a 8-10 page essay that analyzes one or 
+several representations 
+of either nuclear or biological
+science (the representation may be drawn from the arts or the 
+sciences), and there will be 
+a final exam.
+
+
+Why This Course?: College and university courses dealing 
+with science generally fall into rather distinct and exclusive 
+disciplinary categories.
+Science departments offer courses in the knowledge and techniques 
+that ground and facilitate scientific practice, or at least the
+education and training of scientific professionals of various 
+sorts. History departments offer courses about the history of
+ancient and 
+modern science, and most often these aim to survey a period of
+several hundred years and present the achievements of science
+in the context of an investigation of "Great Experiments" or
+"Great Men/Women" or the classic texts of science. Philosophy 
+departments offer 
+courses in the philosophy of science, which generally 
+analyze scientific language and 
+what (if anything) is signified by the use of the 
+term "scientific" (e.g. in the phrases "scientific knowledge", 
+"scientific explanation", etc.). But as the HPSS department at RISD
+is not
+especially concerned with training scientists, philosophers, 
+or historians, we're free to ask whether/how these different 
+approaches refer to the same enterprise or set of activities 
+in using the word "science", and what that enterprise and/or
+set of activities is all about. Our emphasis will be on the 
+interpretation of  different 
+representations of science and scientific knowledge, and the
+relations between them, without worrying about disciplinary
+allegiance, and we'll
+use these comparisons and contrasts to arrive (I hope)
+at both
+a broader and deeper understanding 
+of the complex relations between
+science and society.
+
+
+Books
+Required Texts: (available in paperback editions
+at the RISD Bookstore)
+
+Latour, Bruno. We Have Never Been Modern (Harvard University Press, 1993).
+Catelon, Philip L. et al (eds.) The American Atom: A Documentary
+History of Nuclear Policies from the Discovery of Fission to the Present, 2nd edition (University of Pennsylvania Press, 1991, 1984)
+Hales, Peter Bacon. Atomic Spaces: Living on the Manhattan Project (University of Illinois Press, 1997)
+Selden, Steven. Inheriting Shame: The Story of Eugenics and Racism
+in America (Teachers College Press, 1999)
+Lewontin, Richard. Biology as Ideology: The Doctrine of DNA
+(Harperperennial Library, 1993)
+Kevles, Daniel and Leroy Hood. The Code of Codes: Scientific and
+Social Issues in the Human Genome Project (Harvard University Press,
+1992)
+
+
+Recommended Texts: (available in paperback editions
+at the RISD Bookstore)
+
+Rhodes, Richard. The Making of the Atomic Bomb (Touchstone Books, reprint edition, 1995).
+Judson, Horace Freeland. The Eighth Day of Creation (Cold Spring Harbor Laboratory, expanded edition, 1996)
+
+
+These and additional books and articles will eventually
+be on reserve at the RISD library. Our web site will 
+include additional readings
+and reference material.
+
+Weekly Schedule
+
+Week #1 (September 13): Introduction to the course
+From Snow's "The Two Cultures" to the Sokal Hoax, the 
+relationship between social and scientific studies in the US
+has always been a matter of some controversy. We'll discuss
+different views of this relationship in the last half of the 
+20th century, and establish a context for this course, as
+well as the study of science in higher education.
+
+Assignment:Sketch or otherwise represent your current
+views about the relationship between science and society,
+either in diagramatic. pictorial, or expository form. 
+This assignment is due in class on the 25th.
+
+
+Week #2 (September 18 & 20): Science and/in/for/against 
+Society
+Bruno Latour's We Have Never Been Modern and 
+competing answers to the question "What is Science?" A brief
+look at the origins and representations of modern science,
+and the consequences of this history for our received 
+notions of the role of science in contemporary life.
+
+Required Reading: Latour, chapters 1-2.
+
+
+Week #3 (September 25 & 27): The discovery of nuclear 
+fission, 1897-1939
+We'll review the physics and technology that led to the discovery
+of fission, as well as the mechanism of fission itself.
+We'll
+look at the discoveries, calculations and experiments, with
+attention to the  characteristics of scientific knowledge
+as well as the assumptions implicit in the way that knowledge is 
+inscribed and communicated. 
+
+Required Reading: Cantelon, et al., pp. 1-20.
+
+
+Week #4 (October 2 & 4): The Manhattan Project I:
+The first self-sustaining nuclear chain reaction + the 
+formation of the Manhattan Engineer District = the origins 
+of the Manhattan Project. The choices of Oakridge, Los Alamos, 
+and Hanford, and the interplay between the scientific and
+the social in the early 1940s.
+
+Required Reading: Hales, chapters 1-4.
+
+
+Week #5 (October 9 & 11): The Manhattan Project II
+The science of daily life on the Manhattan Project, and
+questions about the relationship between historical and
+scientific representations of the process of science.
+
+Required Reading: Hales, chapters 6-10.
+
+
+Week #6 (October 16 & 18): The Manhattan Project III
+July 16, 1945 (5:29 a.m.) and questions about understanding and
+representing "Trinity", "The Bomb", "the New World", etc. 
+Reflections on/of Latour.
+
+Required Reading: Catelon, et al, pp. 21-67; Hales, 
+chapter 11.
+
+
+Week #7 (October 23 & 25): Transition to Genetics
+Where was biology during the discovery of nuclear fission? A
+brief history and science of genetics and the discovery of DNA, 
+1865 - 1953. Two views of the background to the HGP.
+
+Required Reading: Selden, chapters 1-3.
+Assignment: Essay topic proposal due.
+
+
+Week #8 (October 30 & November 1): The Human Genome Project I
+The historical politics and/or political history of genetics.
+Tracing Eugenics in the US and thinking about the place of 
+genetic concepts in contemporary social theories and thoughts.
+
+
+Required Reading: Selden, chs. 4 and 7.; Kevles and Hood, ch. 2.
+
+
+Week #9 (November 6 & 8): The Human Genome Project II
+What is the Human Genome Project (really), and how does it 
+blend scientific, technological and social efforts? Views from
+the scientific community and questions about how ethical issues
+are inscribed in and/or described by science.
+
+
+Required Reading: Kevles and Hood, chs. 3-7.
+
+
+Week #10 (November 13 & 15): The Human Genome Project III
+
+Current developments in the HGP, 
+and continuing questions of scientific and social
+responsibility as the Project yields "results". Looking at 
+both professional and popular representations of the HGP and
+reflecting on how best to represent Latour's "networks".
+
+
+Required Reading: Kevles and Hood, chs. 9 and 11.
+
+
+Week #11 (November 20):  The Faces of Contemporary Genetics
+The latest issue of Nature Genetics carries a lead 
+editorial about the recent decision, in the UK, to allow the 
+Association of British Insurers (ABI) to use the results of a 
+genetic test for Huntington's Disease to determine whether or
+not to grant applicants life insurance policies in excess of 
+100,000 pounds. The second editorial summarizes an article in
+the journal concerning the reconstruction of the path(s) of 
+human evolution using molecular techniques to analyze the Y
+chromosome. We'll discuss these editorials, the events they
+report, and their significance as representations of contemporary
+genetics. 
+
+In-class reading Nature Genetics, November 2000,
+selected editorials.
+
+
+Week #12 (November 27 & 29): Science and Society Revisited
+We'll return to concerns raised by Latour's first and second 
+chapters, and examine his remarks in chapters 3 and 4 in light
+of our studies of the Manhattan Project and the HGP. We'll
+begin with Latour's comment (p. 87): "For each state of 
+Society there exists a corresponding state of Nature."
+
+
+Recommended Reading: Latour, chs. 3 and 4
+Essays must be turned in no later than Wednesday the 29th, in class.
+
+
+Week #13 (December 4 &: 6): Situating Science and 
+Society (again)
+We'll spend this week preparing for the final exam, with 
+discussions inspired by students' essays.
+
+December 11th: Final Exam
+
+Contact information
+
+My office at RISD is 206 Carr House, and my scheduled office hour
+is Monday 10-11 a.m. and Wednesday from 6-7 p.m. I am most easily 
+reached by e-mail (rbb@brown.edu) or at my office at Brown 
+(502 CIT, 863-7619), and I am happy to 
+schedule additional office hours if requested.
+
+
+
+© 2000 Roger B. Blumberg
+
+
+

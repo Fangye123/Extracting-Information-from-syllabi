@@ -1,0 +1,152 @@
+
+
+
+
+
+
+9.670 Object and Face Recognition
+
+
+9.67(0) Object and Face Recognition
+MIT
+Spring 2001
+ 
+Instructor
+Prof. Pawan Sinha
+email: sinha@ai.mit.edu
+office: E25-229
+Lecture Details
+Location: E25-202
+Times: Tuesdays and Thursdays 1-2:30
+Description
+Provides a comprehensive introduction to key issues and findings in object recognition in experimental, neural, computational, and
+applied domains. Emphasizes the problem of representation, exploring the issue of how 3-D objects should be encoded so as to
+efficiently recognize them from 2-D images. Second half focuses on face recognition, an ecologically important instance of the general
+object recognition problem. Describes experimental studies of human face recognition performance and recent attempts to mimic this
+ability in artificial computational systems. An additional project is required for graduate credit.
+Syllabus, etc.
+Syllabus [HTML 15 kB][PDF
+8kB]
+Handouts
+Lecture #1 Feb 6, 2001 [PDF
+71 kB]
+    Overview of what's to come.
+Lecture #2 Feb 8, 2001 [PDF
+1,777 kB]
+    The magic of insect hive-finding.
+    Questions
+Lecture #3 Feb 13, 2001 [PDF
+520 kB]
+    Pattern recognition in birds.
+    Questions
+Lecture #4 Feb 15, 2001 [PDF
+510 kB]
+   Characteristics of human object recognition psychophysics based
+on psychophysical experiments. 
+    Questions
+Lecture #5 Feb 22, 2001 [Directory of
+jpegs]
+    Questions
+Lecture #6 Feb 27, 2001 [PDF
+410 kB]
+    Questions
+Lecture #7 Mar 1, 2001 [Directory of
+jpegs]
+    Questions
+
+Lecture #8 Mar 6, 2001 [Directory of
+jpegs] 
+    Questions
+Lecture #9 Mar 8, 2001 [Directory
+of jpegs] 
+    Questions
+Lecture #10 Mar 13, 2001 [Directory of
+jpegs] 
+    Questions
+Lecture #11 Mar 20, 2001 [PDF
+265 kB]  
+    Questions
+Lecture #12 Mar 22, 2001 
+    Questions (not yet available)
+Lecture #13 April 3, 2001
+    Guest Lecturer: Bill Silver from Cognex Corp.
+Lecture #14 April 5, 2001
+    Midterm
+Lecture #15 April 10, 2001 [PDF
+10 kB]
+Lecture #16 April 12, 2001 
+Lecture #17 April 19, 2001
+Lecture #18 April 24, 2001 Jen's Notes [HTML
+22 kB] [PDF 8 kB]
+    Jen's Presentation [PDF
+38 kB] [PPT 185 kB]
+   Guest Lecturer: Officer Jack Skinner (Composite Artist)
+Lecture #19 April 26, 2001
+Lecture #20 May 1, 2001
+    Guest Lecturer: John Doherty, caricaturist
+Lecture #21 May 3, 2001 Janice's
+Notes
+    Guest Lecturer: CEO of Viisage, Thomas J. Colatosti
+Lecture #22 May 10, 2001
+    Sinha Lab Projects
+Lecture #23 May 15, 2001
+    Student Presentations #1
+Lecture #24 May 17, 2001
+    Student Presentations #2
+Announcements
+
+
+4/25/2001 Questions update:
+        4/19 class: charisse@mit.edu
+    4/24 class: jcshieh@mit.edu 
+
+4/12/2001 No class on Tuesday, April 17
+
+4/12/2001 Questions update:
+        4/10 class: liina@mit.edu
+    4/12 class: rprather@mit.edu 
+
+3/22/2001 Questions update:
+        3/22 class: beckin@mit.edu
+
+3/20/2001 Don't forget to talk about your PROJECT
+    with Prof. Sinha soon! Also, past scribes should send a summary of questions
+    you've received to faces@psyche.mit.edu.
+
+3/20/2001 Questions update:
+        3/8 class: thorek@mit.edu
+    (Keith Thoresz)
+        3/13 class: sinha@ai.mit.edu
+    3/15 NO CLASS
+        3/20 class: rrussell@mit.edu
+
+3/7/2001 Questions update:
+        3/1 class: jodi@mit.edu
+    3/6 class: amrys@mit.edu
+
+2/27/2001 Send your class questions to the following
+    addresses (see syllabus to refresh your memory
+    of the subject matter on a particular date):
+        2/15 class: sinha@ai.mit.edu
+    (Prof. Sinha)
+        2/22 class: bule@mit.edu
+    (Liu Jia)
+        2/27 class: sadr@mit.edu
+    (Javid Sadr)
+
+2/25/2001 Class will meet in E25-202 from now on.
+
+2/15/2001 No class next Tuesday (2/20/2001). Class
+    will meet in the usual location (4-149) next Thursday, but there may be a
+    classroom change starting the following week.
+
+2/13/2001 Send three questions (1 research question,
+    1 short answer question, and 1 multiple choice question) to the presenters
+    (2/13 presenter: yo@mit.edu; 2/8 presenter: mc@mit.edu)
+    about their presentations.
+
+2/7/2001 If you missed the handouts from a class,
+    pick them up from Prof. Sinha's office (E25-229)
+
+
+

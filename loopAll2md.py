@@ -5,7 +5,7 @@ import pymysql
 import html2text
 import re
 
-conn = pymysql.connect(host='localhost', port=3306, user='root', passwd='aven12345', db='syllabus')
+conn = pymysql.connect(host='localhost', port=3306, user='root', passwd='', db='syllabus')
 
 cur = conn.cursor()
 

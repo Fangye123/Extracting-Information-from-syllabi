@@ -1,0 +1,161 @@
+Week of 09/19/98 to 09/25/98
+
+
+www.orst.edu Usage Statistics
+** OSU Only **
+Week of 09/19/98 to 09/25/98
+Overall StatisticsCategoryTotalUnique sites served3592Unique documents served11443Unique trails followed5992Total visits12265Accesses per HourFigures are averages for that hour on a typical day.
+Hour
+Accesses
+Bytes
+Bits/Sec
+Bytes/Sec
+00:00158.141761537.143914.53489.3201:00222.292168828.574819.62602.4502:00213.432104602.574676.89584.6103:00126.291286054.292857.90357.2404:00110.291412314.713138.48392.3105:00210.001610084.293577.97447.2506:00221.291832162.004071.47508.9307:00456.573441688.867648.20956.0208:00757.007867853.1417484.122185.5109:001048.2911137851.2924750.783093.8510:001277.0014171806.8631492.903936.6111:001535.1414636497.5732525.554065.6912:001175.4310254109.0022786.912848.3613:001285.8610845194.8624100.433012.5514:001827.8619037037.0042304.535288.0715:002090.5716948150.2937662.564707.8216:001314.0011069463.1424598.813074.8517:00685.5714740276.2932756.174094.5218:00454.573808436.008463.191057.9019:00428.003270627.437268.06908.5120:00513.714018017.718928.931116.1221:00478.573511520.867803.38975.4222:00291.432557373.005683.05710.3823:00203.003030792.716735.09841.89Accesses per Day
+Date
+Accesses
+Bytes
+Bits/Sec
+Bytes/Sec
+09/19/9851704303168095625.9611953.2409/20/981089367043224148984.9418623.1209/21/9820431226044160502320.3662790.0409/22/9818731180412370400916.3850114.5509/23/9822952188238994418308.8852288.6109/24/9821498270455121601011.3875126.4209/25/9819915190430408423178.6852897.34TotalsItemAccessesBytesTotal Accesses119,5901,165,655,957
+Home Page Accesses26,479195,513,014
+Visitor Center74299,222
+Campus Update92417,724
+Student Services53292,515
+Main Campus89452,844
+Frontiers in Education36229,646
+Top 25 of 5992 Document TrailsRankTrailAccessesAvg. Minutes1http://www.orst.edu/, /ss/acareg/acareg.htm6450.002https://www.adminfo.ucsadm.orst.edu/PROD/owa/hwgkwbis.P_Logout, /ss/acareg/acareg.htm2160.003http://osu.orst.edu/, /ss/acareg/acareg.htm2130.004http://www.orst.edu/, /cu/people/ph_query.html1170.005http://www.orst.edu/, /mc/libcom/libcom.htm1160.006http://www.osu.orst.edu/, /ss/acareg/acareg.htm1010.007http://www.orst.edu/, /mc/coldep/coldep.htm760.008http://www.orst.edu/, /students740.009http://www.orst.edu/, /dept/catalogs, /dept/clasked, /dept/clasked/help.htm, /dept/clasked/toc.htm720.2210http://www.orst.edu/, /cu/atheve/atheve.htm680.0011http://www.orst.edu/, /cu/people/people.htm, /cu/people/ph_query.html580.2412http://osu.orst.edu/, /students550.0013http://osu.orst.edu/, /cu/people/ph_query.html430.0014/dept/clasked, /dept/clasked/help.htm, /dept/clasked/toc.htm380.0515http://www.orst.edu/, /students, /ss/acareg/acareg.htm282.2116http://www.orst.edu/, /vc/prostu/adminfo.htm270.0017http://www.orst.edu/, /dept/catalogs260.0018http://osu.orst.edu/, /mc/libcom/libcom.htm260.0019http://www.orst.edu/, /ss/financ/financ.htm, /dept/ses/jobs.htm250.2420http://www.osu.orst.edu/, /cu/people/ph_query.html250.0021http://www.orst.edu/, /dept/catalogs, /dept/clasked, /dept/clasked/toc.htm, /dept/clasked/help.htm230.1322http://osu.orst.edu/, /dept/catalogs, /dept/clasked, /dept/clasked/help.htm, /dept/clasked/toc.htm230.2623http://www.orst.edu/, /goodnews/1998/attend.htm220.0024http://www.orst.edu/, /ss/acareg/acareg.htm, /dept/clasked, /dept/clasked/help.htm, /dept/clasked/toc.htm221.2325/dept/library/database.htm, /dept/library/fsaccess.htm211.48Top 25 of 5385 Referring URLs by Access Count
+RankURLAccessesBytes1http://www.orst.edu/5,84948,024,030
+2http://osu.orst.edu/2,37422,039,516
+3http://osu.orst.edu/cfdocs/petersoe/guide/cfml/guide_RecordView.cfm1,7294,857,254
+4http://osu.orst.edu/dept/catalogs/1,72218,663,280
+5http://search.orst.edu:8765/query.html1,21911,655,089
+6http://osu.orst.edu/dept/library/database.htm86812,249,533
+7https://www.adminfo.ucsadm.orst.edu/PROD/owa/hwgkwbis.P_Logout7156,377,085
+8http://osu.orst.edu/dept/science/7143,676,265
+9http://www.osu.orst.edu/5654,550,249
+10http://www.orst.edu/mc/coldep/coldep.htm5092,241,597
+11http://osu.orst.edu/cfdocs/petersoe/guide/cfml/guide_RecordEdit.cfm4881,288,313
+12http://osu.orst.edu/dept/library/4874,069,561
+13http://www.orst.edu/mc/libcom/libcom.htm4223,644,443
+14http://osu.orst.edu/dept/gencat/general.htm3833,516,544
+15http://www.orst.edu/ss/acareg/acareg.htm3652,661,097
+16http://www.orst.edu/ss/acareg/acareg.htm#records3632,606,892
+17http://osu.orst.edu/dept/sociology/syllabi.htm3503,483,080
+18http://www.orst.edu/ss/financ/financ.htm3362,432,977
+19http://osu.orst.edu/dept/library/subject.htm2851,898,921
+20http://www.orst.edu/dept/library/2841,895,888
+21http://osu.orst.edu/dept/clasked/toc.htm2743,371,578
+22http://osu.orst.edu/students/index.htm2682,863,686
+23http://osu.orst.edu/admin/hr/desc/hrjobs.htm2591,530,003
+24http://osu.orst.edu/dept/gencat/catalog.html2352,074,802
+25http://www.orst.edu/ss/acareg/acareg.htm#csched2302,127,961
+
+Top 25 of 11443 Documents Sorted by Access Count
+RankURLAccessesBytes1/ss/acareg/acareg.htm3,27429,191,834
+2/dept/library/database.htm3,00733,437,108
+3/dept/catalogs1,5023,264,126
+4/dept/library1,3427,440,237
+5/students1,09121,304,025
+6/cfdocs/petersoe/guide/cfml/guide_RecordAction.cfm1,014257,743
+7/dept/clasked/help.htm9463,300,860
+8/mc/libcom/libcom.htm9338,460,396
+9/dept/clasked/toc.htm92425,754,345
+10/dept/clasked9204,266,692
+11/cfdocs/petersoe/guide/cfml/guide_RecordView.cfm8512,698,968
+12/mc/coldep/coldep.htm84313,864,798
+13/cu/people/ph_query.html7623,462,930
+14/dept/library/dbtitle.htm57012,594,337
+15/dept/library/fsaccess.htm5614,374,568
+16/tools/utils/cflogger.cfm50176,418,031
+17/ss/financ/financ.htm4852,268,116
+18/dept/gencat/bar.html4261,396,014
+19/dept/gencat/title.html4233,427,910
+20/dept/career-services3942,539,316
+21/dept/ccee3911,399,927
+22/dept/afrotc373611,043
+23/cu/people/people.htm3542,776,101
+24/mc/admsup/admsup.htm3044,622,214
+25/dept/consulting2911,944,218
+
+Top 25 of 3592 Sites by Access Count
+RankSiteAccessesBytes1instruct.library.orst.edu10,15260,763,790
+2pauling.library.orst.edu10,12861,227,690
+3slip180.ucs.orst.edu6923,608,876
+4www.orst.edu68076,239,676
+5slip200.ucs.orst.edu5742,346,343
+6uzgalisb.cla.orst.edu5164,315,910
+7slip188.ucs.orst.edu4973,080,856
+8slip182.ucs.orst.edu4622,518,331
+9slip163.ucs.orst.edu4582,016,451
+10park.cmc.orst.edu45014,559,378
+11cln420-cdcntr.library.orst.edu4414,287,261
+12cln347-painterc.library.orst.edu4072,549,314
+13slip198.ucs.orst.edu4012,690,722
+14cln430-cdcntr.library.orst.edu3813,758,547
+15cln417-cdcntr.library.orst.edu3803,821,685
+16cln363-oclcterm.library.orst.edu3803,464,592
+17mm3-cdcntr.library.orst.edu3763,962,092
+18wyattl.cla.orst.edu3712,496,294
+19dorboloj.library.orst.edu3541,625,857
+20m100.chee.orst.edu3521,654,472
+21cln421-cdcntr.library.orst.edu3493,497,349
+22slip247.ucs.orst.edu3491,979,281
+23cln419-cdcntr.library.orst.edu3453,613,378
+24mm1-cdcntr.library.orst.edu3212,999,989
+25reineccl.ads.orst.edu3162,449,221
+
+Top 25 of 366 user agents by Access Count
+RankUser AgentAccessesBytes1(Win95; I)25,902308,100,512
+2Ultraseek20,280121,991,480
+3Mozilla/3.0 (Win95; I)11,57685,895,753
+4Mozilla/3.01 (Win95; I)8,00378,257,353
+5Mozilla/3.04 (Win16; I)4,64045,889,029
+6Mozilla/4.0 (compatible; MSIE 4.01; Windows 95)4,21244,680,496
+7(WinNT; I)3,58228,304,726
+8(Win95; I ;Nav)3,34332,448,439
+9Mozilla/3.01Gold (Win95; I)2,41017,912,912
+10(Win95; U)2,28318,138,503
+11Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)2,21217,841,443
+12Mozilla/4.0 (compatible; MSIE 4.01; Windows NT)1,40215,819,191
+13Mozilla/2.0 (compatible; MSIE 3.01; Windows 95)1,39221,496,220
+14Mozilla/3.0 (Macintosh; I; PPC)1,3229,223,542
+15Mozilla/3.01 (Win16; I)1,28112,076,804
+16Mozilla/4.06 (Macintosh; I; PPC)1,2729,953,551
+17Mozilla/3.0Gold (WinNT; I)95710,143,153
+18Mozilla/3.0 (Win95; I; 16bit)8546,585,028
+19Mozilla/2.0 (Win16; I)8186,735,151
+20Mozilla/3.0Gold (Win95; I)7748,000,392
+21Mozilla/4.0 (compatible; MSIE 4.0; Windows 95)7125,162,973
+22Mozilla/4.05 (Macintosh; I; PPC)6585,782,264
+23Mozilla/3.0 (Win16; I)6334,207,754
+24Mozilla/2.0 (compatible; MSIE 3.02; Update a; Windows 95)5724,451,282
+25Mozilla/3.01-C-MACOS8 (Macintosh; I; PPC)5624,447,605
+
+Top 25 of 1181 Documents Not Found
+RankURLAccessesReferring URLs1/robots.txt673
+2/dept/affact/announce/001-1774.htm50http://osu.orst.edu/dept/affact/webjobs.htm#001, http://www.orst.edu/dept/affact/webjobs.htm, http://www.orst.edu/dept/affact/webjobs.htm#001, http://osu.orst.edu/dept/affact/webjobs.htm#005
+3/dept/ujima/images/Miscellaneous/mask.JPG49http://osu.orst.edu/dept/ujima/, http://osu.orst.edu/dept/ujima/services.htm, http://osu.orst.edu/dept/ujima/services/connect.htm, http://osu.orst.edu/dept/ujima/services/films.htm, http://osu.orst.edu/dept/ujima/services/retreat.htm, http://osu.orst.edu/dept/ujima/index.htm, http://osu.orst.edu/dept/ujima/org.htm, http://osu.orst.edu/dept/ujima/newsarticles/rhythms.htm
+4/_vti_inf.html40
+5/Dept/eli/johns.html31
+6/_vti_bin/shtml.exe/_vti_rpc29
+7/dept/sociology/courses/204dp.htm27http://osu.orst.edu/dept/sociology/syllabi.htm
+8/dept/sociology/courses/324syl.htm18http://osu.orst.edu/dept/sociology/syllabi.htm
+9/groups/ksa/alumni.html18http://osu.orst.edu/groups/ksa/main.html, http://www.orst.edu/groups/ksa/main.html
+10/dept/sociology/courses/480syl.htm16http://osu.orst.edu/dept/sociology/syllabi.htm
+11/dept/eli/johns.html16
+12/dept/develop/scholarships/OceAtmSci.html14
+13/dept/clasked/conduct.htm14
+14/dept/sociology/413syl.htm13http://osu.orst.edu/dept/sociology/syllabi.htm
+15/dept/sociology/syllabi.htm13http://osu.orst.edu/dept/sociology/soccrses.htm
+16/dept/sociology/courses/204sg.htm13http://osu.orst.edu/dept/sociology/syllabi.htm
+17/dept/career-services/main.htm13
+18/instruct/geo300/cook/photo.html12http://osu.orst.edu/instruct/geo300/cook/Tpage.html
+19/dept/sociology/courses/206lc.htm12http://osu.orst.edu/dept/sociology/syllabi.htm
+20/dept/lasells/calendar/9808.htm12
+21/dept/sociology/courses/441syl.htm12http://osu.orst.edu/dept/sociology/syllabi.htm
+22/dept/sociology/courses/204ks.htm12http://osu.orst.edu/dept/sociology/syllabi.htm
+23/dept/philosophy/ideas/guestbook/css/ideas.css12
+24/Dept/lasells/calendar/9808.htm12
+25/dept/sociology/courses/300syl.htm11http://osu.orst.edu/dept/sociology/syllabi.htm
+
+Visits ReportTotal visits: 12265Average visit: 4.80 minutesLongest visit: 534 minutes10 Example VisitsSiteMinutesTrailolsonti.rcn.orst.edu0http://rcn.orst.edu/help.htm, /dept/consultingmenge-5095-z.cordley.orst.edu1/dept/zoology/lubmengi, /ss/acareg/acareg.htm, /ss/acareg/regrec/regfor.htmjohnsond.mu.orst.edu0/Dept//munion/temp/html/pg4.html, /Dept//munion/temp/html/pg_1.htmlinstruct.library.orst.edu100/admin/instruction/wedit1.htm, /admin/instruction/wedit2.htm, /admin/instruction/expnet.htm, /admin/instruction/inthtm.htm, /admin/instruction/posting.htm, /admin/instruction/advtab.htm, /admin/instruction/advfor.htm, /instruct/nfm236/head/glossary, /Dept/crsp/who_we_are/hond/car/netters.html, /Dept/crsp/who_we_are/hond/car/netted_tilapia.html, /Dept/crsp/who_we_are/hond/car/el_carao_ponds.html, /Dept/crsp/who_we_are/hond/car/el_carao.html, /instruct/nfm236/quickbread, /Dept/research/fundlnks.htm, /instruct/nfm236/flourmix, /dept/animal-sciences/pos.htm, /dept/archives/archive/pho/p082des.html, /dept/english/faculty/havazelet.html, /dept/english/faculty/rodriguez.html, /dept/telecom, /dept/library/bulletins/ans.htm, /food-resource/c.html, /Dept/library/bulletins/ent.htm, /dept/library/bulletins/ent.htm, /food-resource/sensory/annotation.html, /food-resource/sensory/dena.html, /admin/hr/hr.htm, /instruction/bb331, /dept/radsafety/office.htm, /admin/instruction/classes/Kiosk/thewww2.htm, /admin/instruction/classes/Kiosk/html, /instruct/nfm236/head/glossary/7.html, /dept/unionco/irrigation/newsletr.html, /Dept/sociology/chair.htm, /admin/instruction/classes/Kiosk, /admin/instruction/classes/Kiosk/classes.htm, /admin/instruction/classes/Kiosk/apply.htm, /admin/instruction/classes/Kiosk/help.htm, /admin/instruction/classes/Kiosk/candj.htm, /admin/instruction/classes/Kiosk/wedit1.htm, /admin/instruction/classes/Kiosk/wedit2.htm, /admin/instruction/classes/Kiosk/wedit3.htm, /admin/instruction/classes/Kiosk/expnet.htm, /admin/instruction/classes/Kiosk/inthtm.htm, /admin/instruction/classes/Kiosk/posting.htm, /admin/instruction/classes/Kiosk/advtab.htm, /admin/instruction/classes/Kiosk/advcai.htm, /admin/instruction/classes/Kiosk/advfor.htm, /admin/instruction/classes/Kiosk/html, /admin/instruction/classes/Kiosk/html/classes.htm, /admin/instruction/classes/Kiosk/html/apply.htm, /admin/instruction/classes/Kiosk/html/help.htm, /admin/instruction/classes/Kiosk/html/candj.htm, /admin/instruction/classes/Kiosk/html/wedit1.htm, /admin/instruction/classes/Kiosk/html/wedit2.htm, /admin/instruction/classes/Kiosk/html/wedit3.htm, /admin/instruction/classes/Kiosk/html/expnet.htm, /admin/instruction/classes/Kiosk/html/inthtm.htm, /admin/instruction/classes/Kiosk/html/posting.htm, /admin/instruction/classes/Kiosk/html/advtab.htm, /admin/instruction/classes/Kiosk/html/advcai.htm, /admin/instruction/classes/Kiosk/html/advfor.htm, /dept/unionco/irrigation/prevnews.html, /dept/recsports/fac/facilities.html, /fac/challenge.htm, /dept/fmc/catinfo.html, /dept/fmc/fmcstaff.html, /groups/rotaryye/pages/students/stuo89/stuo89ac.htm, /groups/rotaryye/pages/students/stuo89/stuo89dk.htm, /groups/rotaryye/pages/students/stuo89/stuo89lr.htm, /groups/rotaryye/pages/students/stuo89/stuo89sz.htm, /dept/archives/archivestat.html, /dept/science/COSNewsHome.html, /Dept/archives/archivestat.html, /dept/science/COSNewsHome.html, /dept/afrotc/alumni, /dept/fmc/fecat.html, /dept/fmc/FRcat.html, /dept/fmc/plan.html, /dept/fmc/ford.html, /dept/fmc/woodpole.html, /dept/fmc/shrubs.html, /dept/fmc/snl.html, /dept/fmc/pest.html, /dept/fmc/Carcat.html, /dept/recsports/rugby, /groups/sigmaxi/banquet.htm, /Dept/IPPC/wea/wealinks.html, /dept/bentonext, /dept/affact/affact5.htm, /dept/int_ed/global_grads/amer34.html, /admin/hr/desc119.htm, /dept/affact/survey.htm, /dept/affact/stephanie.htm, /dept/affact/angelo.htm, /dept/affact/ina.htm, /dept/affact/anne.htm, /admin/hr/desc129.htm, /admin/hr/desc132.htm, /admin/hr/desc141.htm, /admin/hr/desc143.htm, /admin/hr/desc139.htm, /dept/kbvr-tv/sched.htm, /dept/develop/internal/adv/NewOrg.html, /Dept/ag_resrc_econ, /admin/hr/desc100.htm, /dept/archives/archive/pho/p170des.html, /dept/int_ed/global_grads/africa02.html, /Dept/IPPC/wea/weatab_WA.html, /dept/tbaynep/active.html, /dept/tbaynep/update.html, /admin/hr/pool4.htm, /admin/hr/pool5.htm, /admin/hr/pool6.htm, /dept/archives/archive/pho/p092des.html, /dept/library/distance_ed/bridgeo.htm, /cu/people/groinf/memform.htm, /dept/archives/archive/pho/p095des.html, /dept/archives/ARMH/rmb22dc.html, /dept/archives/ARMH/rmb24dm.html, /dept/archives/ARMH/rmb26dn.html, /dept/archives/ARMH/rmb21cd.html, /admin/hr/desc353.htm, /dept/seafood/surimi, /groups/rotaryye/pages/committee/5110con.htm, /Dept/geosciences/ucgis_facilities.html, /admin/finaid/jobs.htm, /cu/people/groinf/clghome.htm, /cu/people/groinf/clgled.htm, /cu/people/groinf/ledfrm.htm, /dept/archives/misc/nwa.html, /admin/hr/desc038.htm, /admin/hr/desc001.htm, /groups/sbp/brief.html, /groups/sbp/handbook.html, /admin/hr/desc145.htm, /admin/hr/desc074.htm, /admin/hr/desc146.htm, /Dept/IPPC/wea/weamodpp.html, /dept/foodsci/exten.htm, /admin/hr/desc113.htm, /admin/hr/desc124.htm, /Dept/budgets/travel/webtrav1.htm, /webworks, /webworks/proj, /webworks/contacts.htm, /webworks, /webworks/gateway.htm, /webworks/quality.htm, /webworks/icomm.htm, /webworks/ihres.htm, /webworks/partner.htm, /webworks/webtrain.htm, /webworks/central.htm, /admin/hr/devforma.htm, /admin/hr/devformb.htm, /admin/hr/hrpolicy.htm, /admin/hr/hrnews3.htm, /dept/zoology/z351syll.htm, /dept/ippc/wea/weatab.html, /dept/archives/archive/pho/p231_des.html, /dept/int_ed/global_grads/euro29.html, /admin/webworks/projects.htm, /admin/webworks/archive.htm, /admin/webworks/projects/aihm.htm, /admin/webworks/projects/alumni.htm, /admin/webworks/clasrev.htm, /pubs/ssm/SSMA_officers.html, /dept/pie/piesharingsp97.html, /Dept/IPPC/wea/weamap.html, /dept/career-services/online/state.htm, /admin/instruction, /dept/is/access/av/media.htm, /dept/develop/org, /dept/develop/org/mission.html, /dept/develop/org/results.html, /dept/develop/scholarships/AmericanIndian.html, /food-resource, /admin/hr/hr.htm, /admin/hristeam/current.htm, /dept/afrotc/cadet/announce/as100.html, /dept/afrotc/cadet/announce/as200.html, /dept/afrotc/cadet/announce/as300.html, /dept/afrotc/cadet/announce/as400.html, /dept/afrotc/cadet/announce/as700.html, /dept/is/access/av/biology.htm, /Dept/IPPC/wea/weacalc.html, /Dept/IPPC/wea/ddmaps.html, /dept/pie/piesharing.html, /dept/is/access/av/environ.htm, /dept/is/access/av/agri.htm, /dept/animal-sciences/intern.htm, /dept/munion/craftcenter, /dept/munion/craftcenter/craftclasses.html, /dept/int_ed/global_grads/euro28.html, /admin/instruction/advcai.htm, /dept/desext/homec.htm, /dept/munion/craftcenter, /Dept/crsp/pubs/technical/15tch/reg_research.html, /Dept/crsp/pubs/technical/15tch/4.c.1.html, /Dept/crsp/pubs/technical/15tch/4.c.2.html, /Dept/crsp/edops/edop_assiss/6-9-98.a.html, /Dept/crsp/edops/edop_assiss/6-9-98.b.html, /Dept/crsp/edops/edop_intern/6-9-98.a.html, /dept/library/position.htm, /dept/library/sslib.htm, /dept/gencat/catalog.html, /dept/cop/newsletter/calendar.htm, /groups/ksa/schedule.html, /dept/cop/textonly/indextxt.htm, /dept/cop, /admin/hr/desc136.htm, /dept/cop/newsletter/newsdex.htm, /dept/desext/4-H.htm, /dept/library/libasst.htm, /food-resource/be.html, /food-resource/misc/equip.html, /food-resource/misc/micro.html, /food-resource/misc/pd.html, /dept/library/bulletins/nfmnew.htm, /food-resource/food.html, /food-resource/a.html, /food-resource/misc/art.html, /food-resource/misc/ag.html, /food-resource/misc/chem.html, /food-resource/misc/culture.html, /food-resource/misc/emulsio.html, /food-resource/ref.html, /food-resource/misc/antibi.html, /food-resource/misc/cotton.html, /food-resource/misc/foam.html, /food-resource/misc/fungicid.html, /dept/library/subject.htm, /food-resource/a/aronia.html, /dept/archives/misc/com.htm, /dept/archives/chronology, /dept/archives/chronology/chron_1840.html, /dept/archives/chronology/chron_1860.html, /dept/archives/chronology/chron_sources.html, /Dept/archives/archive/arch100.html, /Dept/archives/archive/arch160.html, /Dept/archives/archive/arch120.html, /Dept/archives/archive/arch150.html, /Dept/archives/archive/arch190.html, /Dept/archives/archive/arch130.html, /Dept/archives/archive/arch170.html, /Dept/archives/archive/arch300.html, /Dept/archives/ARMH, /Dept/archives/archive/arch200.html, /Dept/archives/misc/hours.html, /dept/archives/overview/rm_prog_hist.html, /dept/archives/overview/rm_arc_pol.html, /dept/archives/overview/rm_rm_pol.html, /dept/archives/overview/rm_pph.html, /dept/archives/overview/rm_acknow.html, /Dept/archives/archive/mss/betzel.html, /Dept/archives/archive/mss/boice.html, /Dept/archives/archive/pubs/344_des.html, /Dept/archives/archive/pubs/8-41a_des.html, /dept/archives/archive/mss/bishop.html, /dept/archives/exhibits/build/main.html, /Dept/archives/archive/pubs/6-21a_des.html, /Dept/archives/archive/pubs/455des.html, /Dept/archives/archive/pubs/7-31a_des.html, /Dept/archives/archive/pubs/6-42d_des.html, /Dept/archives/exhibits/koac/main.html, /dept/archives/archive/mss/wagner.html, /dept/archives/exhibits/baseball/baseball.htm, /dept/archives/archive/pho/p170des.html, /dept/archives/exhibits/yrspast/yrspast.htm, /dept/archives/archive/mss/king_des.htm, /dept/archives/whats_new_old.html, /dept/archives/archive/pho/p101des.html, /dept/archives/ARMH/rm_gen_info.html, /dept/archives/ARMH/rma11ec.html, /dept/archives/ARMH/rma12ef.html, /dept/archives/ARMH/rma13lp.html, /dept/archives/ARMH/rma14sr.html, /dept/archives/ARMH/rma21rl.html, /dept/archives/ARMH/rma22ra.html, /dept/archives/ARMH/rma31gr.html, /dept/archives/ARMH/rma32sr.html, /dept/archives/ARMH/rma33sp.html, /dept/archives/ARMH/rma34rp.html, /dept/archives/ARMH/rma35cr.html, /dept/archives/ARMH/rma61ln.html, /dept/archives/ARMH/rma62aef.html, /dept/archives/ARMH/rma63agu.html, /dept/archives/ARMH/rma64aer.html, /dept/archives/ARMH/rm_serv_dept.html, /dept/archives/ARMH/rmb22dc.html, /dept/archives/ARMH/rmb24dm.html, /dept/archives/ARMH/rmb25ps.html, /dept/archives/ARMH/rmb26dn.html, /dept/archives/ARMH/rmb27dm.html, /dept/archives/ARMH/rmb31ev.html, /dept/archives/ARMH/rmb33cu.html, /dept/archives/ARMH/rmb52drc.html, /Dept/archives, /dept/archives/misc/nwa.html, /Dept/archives/archive/pubs/196_des.html, /Dept/archives/archive/pubs/57_des.html, /Dept/archives/archive/pubs/10-12a_des.html, /Dept/archives/archive/pubs/15-11b_des.html, /Dept/archives/archive/pubs/6-41a_des.html, /Dept/archives/archive/pubs/6-42f_des.html, /Dept/archives/archive/pubs/6-21b_des.html, /Dept/archives/archive/publ.policy.html, /Dept/archives/schedule/publication.html, /Dept/archives/schedule/extension.html, /Dept/archives/archive/pho/harrietsdes.html, /Dept/archives/archive/pho/phoindex.html, /Dept/archives/archive/arch122.html, /Dept/archives/archive/lantern.html, /Dept/archives/archive/arch121.html, /Dept/archives/archive/arch321.html, /Dept/archives/schedule/admin.html, /Dept/archives/archive/arch191.html, /Dept/archives/archive/arch132.html, /Dept/archives/archive/arch131.html, /Dept/archives/archive/arch310.html, /Dept/archives/archive/arch320.html, /Dept/archives/archive/arch330.html, /Dept/archives/archive/arch340.html, /Dept/archives/toc/zhandtoc.html, /Dept/archives/ARMH/rma10jus.html, /Dept/archives/ARMH/rma20pri.html, /Dept/archives/ARMH/rma30rrd.html, /Dept/archives/ARMH/rma40fs.html, /Dept/archives/ARMH/rma41fe.html, /Dept/archives/ARMH/rma50dim.html, /Dept/archives/ARMH/rma60ele.html, /Dept/archives/ARMH/conf_access.html, /Dept/archives/ARMH/rmb20des.html, /Dept/archives/ARMH/rmb30pfm.html, /Dept/archives/ARMH/rmb40mic.html, /Dept/archives/ARMH/rmb50tem.html, /Dept/archives/ARMH/rmb60pfc.html, /Dept/archives/ARMH/rmb70dis.html, /Dept/archives/ARMH/rmo_duty.html, /Dept/archives/schedule, /Dept/archives/archive/arch210.html, /Dept/archives/archive/arch220.html, /Dept/archives/archive/arch230.html, /Dept/archives/archive/arch240.html, /Dept/archives/archive/arch250.html, /dept/archives/overview/archivist_photo.html, /dept/archives/archive/arch324.html, /dept/archives/archive/arch342.html, /Dept/archives/archive/mss/betzel_inv.html, /Dept/archives/archive/rg/rg176des.html, /Dept/archives/archive/rg/rg002.html, /Dept/archives/archive/rg/rg016des.html, /Dept/archives/archive/rg/rg009des.html, /Dept/archives/archive/rg/rg202.html, /Dept/archives/archive, /Dept/archives/archive/film/P083inv.html, /Dept/archives/archive/pubs/8-41a_inv.html, /Dept/archives/archive/pho/p218inv_ralph.html, /Dept/archives/archive/pho/p218inv_other.html, /dept/archives/archive/pho/p092des.html, /dept/archives/archive/mss/bishop_inv.html, /dept/archives/archive/pubs/6-21b_inv.html, /dept/archives/exhibits/build/quiz.html, /dept/archives/exhibits/build/photos.html, /Dept/archives/archive/film/P120des.html, /Dept/archives/archive/pho/p132des.html, /Dept/archives/archive/film/P029inv.html, /Dept/archives/archive/rg/rg069inv.html, /Dept/archives/archive/pubs/6-21a_inv.html, /Dept/archives/archive/pubs/6-21amf_inv.html, /Dept/archives/archive/pubs/7-31a_inv.html, /Dept/archives/archive/pubs/6-42d_inv.html, /Dept/archives/archive/pubs/6-42dmf_inv.html, /Dept/archives/exhibits/koac/chrono.html, /Dept/archives/exhibits/koac/captions.html, /Dept/archives/archive/pho/p001des.html, /Dept/archives/archive/mss/finley.html, /dept/archives/archive/pubs/15-11bfm_inv.html, /dept/archives/archive/pubs/15-11b_inv.html, /dept/archives/archive/pubs/15-11bvl_inv.html, /dept/archives/archive/rg/rg039.html, /dept/archives/archive/pubs/10-12a_inv.html, /dept/archives/archive/pubs/10-12amf_inv.html, /dept/archives/archive/pubs/57_inv.html, /dept/archives/archive/pubs/6-41a_inv.html, /dept/archives/archive/pubs/6-41amf_inv.html, /dept/archives/archive/pubs/6-42fmf_inv.html, /dept/archives/archive/15-11b_des.html, /dept/archives/exhibits/baseball/1stbase.htm, /dept/archives/exhibits/baseball/2ndbase.htm, /dept/archives/exhibits/baseball/3rdbase.htm, /dept/archives/exhibits/baseball/home.htm, /dept/archives/exhibits/baseball/dugout.htm, /dept/archives/archive/film/P170inv.html, /dept/archives/exhibits/yrspast/1997ann.htm, /dept/archives/archive/mss/cowgill_des.html, /dept/archives/archive/mss/king_inv.htm, /dept/archives/archive/mss/bond.html, /dept/archives/archive/mss/raymond.html, /dept/archives/archive/mss/miller.html, /Dept/archives/archive/mss/gentner.html, /dept/archives/archive/pho/p217des.html, /dept/archives/archive/pho/p095des.html, /dept/archives/archive/pho/p222des.html, /dept/archives/archive/rg/rg180des.html, /dept/archives/archive/pho/p221.html, /dept/archives/archive/pho/p142des.html, /dept/archives/archive/pho/p112.html, /dept/archives/archive/mss/banks.html, /dept/archives/archive/mss/bernier.html, /dept/archives/archive/mss/mtclub.html, /Dept/archives/misc/nwa.html, /dept/archives/misc/rosarkh.html, /Dept/archives/osu_record/sp96v5.html, /dept/archives/archive/rg/rg033.html, /dept/archives/archive/pho/p212.html, /dept/archives/archive/pho/p213.html, /dept/archives/archive/mss/milne_des.html, /dept/archives/archive/mss/cox.html, /dept/archives/archive/arch323.html, /dept/archives/schedule/student_aca.html, /dept/archives/schedule/research.html, /dept/archives/schedule/curric.html, /dept/archives/chronology/chron_1990.html, /dept/archives/ARMH/rma36frm.html, /dept/archives/ARMH/rma42cc.html, /dept/archives/ARMH/rma43ce.html, /dept/archives/ARMH/rma44vf.html, /dept/archives/ARMH/rma45lf.html, /dept/archives/ARMH/rma46sf.html, /dept/archives/ARMH/rma47mf.html, /dept/archives/ARMH/rmb21cd.html, /dept/archives/ARMH/rma62b.html, /dept/archives/ARMH/rma62c.html, /dept/archives/ARMH/rma62d.html, /dept/archives/ARMH/rma62e.html, /dept/archives/ARMH/rma62f.html, /dept/archives/ARMH/rma62g.html, /dept/archives/ARMH/rma63b.html, /dept/archives/ARMH/rma63c.html, /dept/archives/ARMH/rma63d.html, /dept/archives/ARMH/rma63e.html, /dept/archives/ARMH/rma63f.html, /dept/archives/ARMH/rma63g.html, /dept/archives/ARMH/rma64br.html, /dept/archives/ARMH/rma64e.html, /dept/archives/ARMH/rma64c.html, /dept/archives/ARMH/rmb23frm.html, /dept/archives/ARMH/rmb28nm.html, /dept/archives/ARMH/rmb31con.html, /dept/archives/ARMH/rmb32con.html, /dept/archives/ARMH/rmb32dir.html, /dept/archives/ARMH/rmb33con.html, /dept/archives/ARMH/rmb33unc.html, /dept/archives/archive/mss/matthews_des.html, /dept/archives/schedule/ag_exper.html, /dept/archives/schedule/person_emp.html, /dept/archives/schedule/person_adm.html, /dept/archives/schedule/safety.html, /dept/archives/schedule/account.html, /dept/archives/schedule/analyt.html, /dept/archives/schedule/intercolleg.html, /dept/archives/schedule/rad_reactor.html, /dept/archives/schedule/library.html, /dept/archives/schedule/facility.html, /dept/archives/schedule/finaid.html, /dept/archives/schedule/contract.html, /dept/archives/schedule/institute.html, /dept/archives/schedule/equip.html, /dept/archives/schedule/budget.html, /dept/archives/schedule/travel.html, /dept/archives/schedule/health.html, /dept/archives/schedule/student_other.html, /dept/archives/schedule/rad_safety.html, /dept/archives/schedule/payroll.html, /dept/archives/exhibits/presidents/strand.html, /dept/archives/exhibits/garman/p95_282.html, /dept/archives/exhibits/garman/p95_560.html, /dept/archives/exhibits/garman/p95_260.html, /dept/archives/exhibits/garman/p95_44b.html, /dept/archives/exhibits/garman/p95_393b.html, /Dept/archives/webreport.html, /Dept/archives/booklet, /Dept/archives/overview, /Dept/archives/search.html, /dept/archives/osu_record/archivistsact.html, /Dept/archives/archive/archpres.html, /dept/archives/osu_record/rmqamay96.html, /dept/archives/misc/wvetask.htmlpauling.library.orst.edu40/admin/cc/act/meetmin.html, /dept/wrestling, /dept/history/home.htm, /dept/history/lecture_series.htm, /dept/history/history_department_resources.htm, /dept/library/refguide.htm, /admin/cc/act/meetmin.html, /dept/int_ed/global_grads/amer88.html, /Dept/ag_resrc_econ/events.html, /dept/library/dbtitle.htmconsult-mac.library.orst.edu51/dept/consulting, /dept/consulting/helpdocs, /dept/consulting/helpdocs/dialing_in, /dept/consulting/helpdocs/dialing_in/Windows_95.html, /dept/consulting, /vc/prostu/adminfo.htm, /dept/consulting, /dept/consulting/others/policy.htmlslip180.ucs.orst.edu2/instruct/nfm542, /instruct/nfm542/orient.html, /instruct/nfm542/syllabus.html, /instruct/nfm542/ref.html, /instruct/nfm542/topic.html, /instruct/nfm542/topic1.html, /instruct/nfm542/scen1.html, /instruct/nfm542/activity.html, /instruct/nfm542/act1.html, /instruct/nfm542/copypast.html, /instruct/nfm542/topic1.htmlgimt-desk.library.orst.edu42/dept/library/govpubs.htm, /fe/extedu/couvia, /Dept/cla/newsletter/philosophy, /dept/cla/newsletter, /dept/cla/newsletter/article, /dept/library/govpubs.htm, /dept/library/database.htm, /dept/library/govpubs.htmmillers-2.ads.orst.edu2/dept/career-services, /dept/career-services/student.htm, /dept/career-services/online, /dept/career-serviceshubbardc.oes.orst.edu1http://www.orst.edu/, /mc/admsup/admsup.htm, /admin/hr/hremphm.htm, /admin/hr/desc/hrjobs.htm, /admin/hr/desc/desc220.htm, /admin/hr/desc/desc223.htmAccesses by Result CodeCodeMeaningAccesses0?5200OK112176201Created0202Accepted0206?67301Moved Permanently4387302Moved Temporarily2024304Not Modified931400Bad Request0401Unauthorized80403Forbidden213404Not Found3847405?6500Internal Server Error0501Not Implemented0502Bad Gateway0503Service Unavailable0

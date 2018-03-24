@@ -1,0 +1,269 @@
+
+
+
+ESI - Environmental Studies Institute - Santa Clara University
+
+
+
+
+
+
+
+
+Updated: Tuesday, September 3, 2002
+
+
+
+
+
+
+
+Daly 
+          Science 204 - ph: 408.551.7086 
+          - f: 408.554.2312 - email: ashachter@scu.edu
+
+
+
+
+
+
+ SCU
+
+
+ ESI
+
+
+ HHMI
+
+
+ Ulistac
+
+
+ Academia
+
+
+ Archive
+
+
+ Faculty
+
+
+ Links
+
+
+ Resources
+
+
+
+
+
+
+Santa Clara University Environmental 
+          Studies Institute
+Institute 
+          Overview
+
+
+
+
+SUMMER
+
+
+Latest News from ESI
+ 
+ESI Recognized 
+                in the National Wildlife 
+                Federation's Campus 
+                Environmental Yearbook! Check out our case here!
+
+ Student 
+                Reports - Environmental Activism Spring 2002
+
+Historical 
+                Ecology of Santa Clara. A New ESI Project.
+                Please check out the new ESI Historical Ecology project display 
+                in the Orradre Reading Room this summer! The project is a work 
+                in progress, so don't expect any fancy maps just yet. We will 
+                be involved in Library displays from now into the future, so keep 
+                an eye out for us as the project progresses next year. If you 
+                have any suggestions for future displays, or things you would 
+                like to add, please let us know!
+
+NEW FALL 
+                CLASS - ENVS 
+                98: Outdoor Leadership Expedition
+                Explore the natural world, gain safety and outdoor technical skills, 
+                learn about the environment, and develop leadership skills.
+                Sign up in Daly Science 204, only 10-12 spots available so hurry!
+check out 
+                the syllabus here... (.doc, 25K)
+
+The University 
+                has approved two NEW 
+                MAJORS for ESI. Check out the descriptions and 
+                course requirements here!
+
+
+
+
+
+
+Howard 
+              Hughes Medical Institute | http://www.scu.edu/hhmi
+
+              Check out the information on SCU's new Biotechnology minor here!
+
+
+
+
+
+
+Ulistac Natural Area | http://www.scu.edu/envs/ulistac
+
+Update 
+                for August 2002
+                The next work session at the UNA will be August 24th, 9 a.m. - 
+                1 p.m.
+
+
+
+
+
+
+
+ Featured Faculty Paper 
+                | Dr. Leslie Gray, 
+                Political 
+                Science
+
+                Environmental Policy, Land Rights, and Conflict: Rethinking Community 
+                Natural Resource Management Programs in Burkina Faso 
+
+
+
+
+
+
+Quarterly Newsletter 
+              | Spring 2002 
+              (.pdf, 729K)
+
+In this quarter's issue:
+              Genetically Modified Organisms, Electronic Waste, Burrowing Owls... 
+              
+
+
+
+
+
+Grass 
+              Roots Environmental 
+              Efforts Now! 
+              | Club Page
+
+
+
+
+
+
+Featured Website | 
+              GreenBiz.com
+
+GreenBiz.com 
+              serves as an information clearinghouse on sustainable business practices. 
+              The website features a news center for timely news and expert opinions, 
+              business toolbox to assist companies, job link for green jobs and 
+              careers, and a reference desk providing business resources on the 
+              environment.
+
+
+
+
+
+
+ESI Radio
+
+Listen to the latest show from ESI Radio:"Geckos 
+                and Redwood Logging"
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interact 
+                  with ESI
+Get 
+                  the Latest ESI News delivered:
+
+Join 
+                  the ESI E-mail List Here!
+Comments 
+                  & Suggestions for ESI?
+
+Tell us what 
+                  you think Here!
+Questions 
+                  for ESI?
+
+Ask us here!
+
+Since 8/01
+ 
+
+ 
+                  Visitors to ESI
+
+
+
+EcoBytes News Ticker courtesy 
+                of 
+                Environmental News Network
+
+
+ SiteName = 'SCU_ESI'
+
+
+
+OffSite(SiteName);
+
+
+
+
+GreenBuzz News Ticker courtesy 
+                of 
+                GreenBiz.com 
+
+
+ SiteName = 'Greenbiz'
+
+
+<SCRIPT LANGUAGE='JAVASCRIPT'>
+
+
+
+
+
+
+
+
+
+
+
+
+©2002 
+          Environmental Studies Institute, Santa Clara University. Please direct 
+          site inquiries to dzimbra@scu.edu
+
+
+
+
+
+

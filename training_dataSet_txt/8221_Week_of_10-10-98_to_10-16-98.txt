@@ -1,0 +1,161 @@
+Week of 10/10/98 to 10/16/98
+
+
+www.orst.edu Usage Statistics
+** OSU Only **
+Week of 10/10/98 to 10/16/98
+Overall StatisticsCategoryTotalUnique sites served4774Unique documents served14228Unique trails followed11070Total visits20719Accesses per HourFigures are averages for that hour on a typical day.
+Hour
+Accesses
+Bytes
+Bits/Sec
+Bytes/Sec
+00:00449.434950085.5711000.191375.0201:00254.432727968.006062.15757.7702:00205.572465219.865478.27684.7803:00148.572080809.004624.02578.0004:0095.001826315.864058.48507.3105:0090.711591001.293535.56441.9406:00137.711858874.714130.83516.3507:00317.142923421.716496.49812.0608:001011.578181970.5718182.162272.7709:001560.0013425960.0029835.473729.4310:002091.0020945192.7146544.875818.1111:002172.1421979776.4348843.956105.4912:002124.2921123573.8646941.285867.6613:002315.8628640469.8663645.497955.6914:002318.2921115531.8646923.405865.4315:002381.7120940902.1446535.345816.9216:002107.7119729048.2943842.335480.2917:001530.4312382073.1427515.723439.4618:001095.8610794681.0023988.182998.5219:001197.4310461952.2923248.782906.1020:001177.7111173692.4324830.433103.8021:001148.8610192015.0022648.922831.1222:00900.718063937.0017919.862239.9823:00696.578439182.0018753.742344.22Accesses per Day
+Date
+Accesses
+Bytes
+Bits/Sec
+Bytes/Sec
+10/10/9814327132371620294159.1636769.8910/11/9814509156252301347227.3443403.4210/12/9839975418987124931082.50116385.3110/13/9837044301529892670066.4383758.3010/14/9832605298874888664166.4283020.8010/15/9831008300027149666727.0083340.8710/16/9823233268052608595672.4674459.06TotalsItemAccessesBytesTotal Accesses192,7011,876,095,582
+Home Page Accesses39,020285,693,367
+Visitor Center115465,001
+Campus Update178808,524
+Student Services52287,074
+Main Campus160818,490
+Frontiers in Education118740,869
+Top 25 of 11070 Document TrailsRankTrailAccessesAvg. Minutes1http://www.orst.edu/, /cu/people/ph_query.html3070.002http://www.orst.edu/, /mc/coldep/coldep.htm2420.003http://www.orst.edu/, /ss/acareg/acareg.htm2330.004http://www.orst.edu/, /mc/libcom/libcom.htm, /dept/library/err404.htm1420.045http://www.orst.edu/, /cu/atheve/atheve.htm1270.006http://osu.orst.edu/, /mc/coldep/coldep.htm1180.007http://www.orst.edu/, /mc/libcom/libcom.htm1140.008/dept/career-services, /dept/career-services/register1070.419http://www.orst.edu/, /cu/people/people.htm, /cu/people/ph_query.html1050.2710http://osu.orst.edu/, /cu/people/ph_query.html940.0011http://osu.orst.edu/, /ss/acareg/acareg.htm600.0012/mc/libcom/libcom.htm, /dept/library/err404.htm570.0513http://osu.orst.edu/, /cu/atheve/atheve.htm560.0014http://www.orst.edu/, /students530.0015/instruct/geo300, /instruct/geo300/cook/Tpage.html, /instruct/geo300/cook/q2c-ore.html, /instruct/geo300/cook/q2delay.html, /instruct/geo300/cook/q2gorge.html, /instruct/geo300/cook/q2immi.html, /instruct/geo300/cook/q2pollock.html, /instruct/geo300/cook/q2poplar.html, /instruct/geo300/cook/q2timber.html, /instruct/geo300/cook/q2water.html5218.1716http://www.orst.edu/, /ss/financ/financ.htm, /admin/hr/jobs/student.html400.1717http://www.orst.edu/, /ss/financ/financ.htm, /dept/career-services, /dept/career-services/register360.1418http://osu.orst.edu/, /mc/libcom/libcom.htm, /dept/library/err404.htm360.0019/cu/people/groinf/clghome.htm, /cu/people/groinf/clgdir.htm, /cu/people/groinf/clg.htm, /cu/people/groinf/memform.htm350.7420/dept/library/database.htm, /dept/library/iac.htm353.2321/instruct/hhp231, /instruct/hhp231/syllabus.htm, /instruct/hhp231/week2.htm320.4722/dept/library/database.htm, /dept/library/dbtitle.htm, /dept/library/fsaccess.htm301.7323http://www.osu.orst.edu/, /cu/people/ph_query.html300.0024/instruct/h312, /instruct/h312/h312help.html293.0325http://www.chem.orst.edu/ch331-7/ch337/msds.htm, /dept/ehs290.00Top 25 of 8045 Referring URLs by Access Count
+RankURLAccessesBytes1http://www.orst.edu/6,74060,947,393
+2http://osu.orst.edu/dept/library/database.htm3,42943,232,249
+3http://osu.orst.edu/3,04027,876,566
+4http://search.orst.edu:8765/query.html2,48724,235,856
+5http://osu.orst.edu/instruct/geo300/cook/Tpage.html2,06015,144,001
+6http://osu.orst.edu/instruct/hhp231/1,72511,473,460
+7http://www.orst.edu/mc/libcom/libcom.htm1,7099,227,209
+8http://osu.orst.edu/dept/library/subject.htm1,65810,612,660
+9http://osu.orst.edu/dept/science/1,5798,280,944
+10http://osu.orst.edu/dept/library/1,54612,265,310
+11http://www.orst.edu/mc/coldep/coldep.htm1,2085,638,503
+12http://osu.orst.edu/instruct/hhp231/lab.htm1,0578,884,888
+13http://osu.orst.edu/instruct/hhp231/index.htm9745,736,858
+14http://osu.orst.edu/dept/career-services/85812,576,357
+15http://osu.orst.edu/instruct/hhp231/syllabus.htm83111,227,152
+16http://pnwhandbooks.orst.edu/guide1998/cfml/images_RecordView.cfm8093,276,851
+17http://osu.orst.edu/mc/libcom/libcom.htm7813,762,237
+18http://www.orst.edu/dept/library/7705,408,945
+19http://www.osu.orst.edu/7416,721,750
+20http://osu.orst.edu/mc/coldep/coldep.htm7013,443,072
+21http://www.orst.edu/dept/catalogs/6518,889,259
+22http://osu.orst.edu/dept/library/dbtitle.htm5984,369,816
+23http://osu.orst.edu/instruct/geo300/5861,338,558
+24http://osu.orst.edu/admin/hr/jobs/classified/4822,858,643
+25http://www.orst.edu/ss/financ/financ.htm4523,990,971
+
+Top 25 of 14228 Documents Sorted by Access Count
+RankURLAccessesBytes1/dept/library/database.htm8,04689,535,710
+2/dept/library3,08617,560,747
+3/instruct/hhp2312,1974,346,328
+4/mc/libcom/libcom.htm2,12519,127,257
+5/mc/coldep/coldep.htm2,02233,298,009
+6/dept/library/err404.htm1,8334,873,401
+7/dept/ccee1,7935,153,007
+8/dept/career-services1,75010,364,633
+9/dept/library/dbtitle.htm1,73636,938,625
+10/cu/people/ph_query.html1,5276,968,180
+11/dept/library/fsaccess.htm1,52011,802,433
+12/dept/library/subject.htm1,4449,434,583
+13/dept/library/iac.htm1,3158,334,599
+14/ss/acareg/acareg.htm1,16110,361,641
+15/instruct/hhp231/lab.htm1,0662,440,250
+16/dept/library/govpubs.htm9344,670,801
+17/instruct/hhp231/syllabus.htm84012,269,589
+18/students78615,342,257
+19/dept/science7663,491,152
+20/instruct/h3127111,616,258
+21/ss/financ/financ.htm6663,088,586
+22/dept/athleticacademics6565,069,126
+23/dept/catalogs6532,506,126
+24/dept/career-services/register64914,386,265
+25/tools/utils/cflogger.cfm626134,794,600
+
+Top 25 of 4774 Sites by Access Count
+RankSiteAccessesBytes1pauling.library.orst.edu6,53962,534,677
+2refdesk.library.orst.edu1,69714,252,603
+3instruct.library.orst.edu1,48620,843,529
+4pscheidt2-1089b-b.cordley.orst.edu1,45718,969,323
+5cln142-cdcntr.library.orst.edu1,34513,251,875
+6cln430-cdcntr.library.orst.edu1,31911,840,865
+7cln417-cdcntr.library.orst.edu1,30612,321,737
+8cln419-cdcntr.library.orst.edu1,28218,082,019
+9cln421-cdcntr.library.orst.edu1,20611,032,205
+10mm2-cdcntr.library.orst.edu1,18811,819,712
+11cln420-cdcntr.library.orst.edu1,18111,214,445
+12cln314-cdcntr.library.orst.edu1,16010,657,584
+13mm1-cdcntr.library.orst.edu1,14310,847,583
+14cln363-oclcterm.library.orst.edu1,1239,644,422
+15cln345-cdcntr.library.orst.edu1,11810,100,966
+16www.orst.edu1,106135,125,319
+17cln265-cdcntr.library.orst.edu1,10110,204,295
+18mm4-cdcntr.library.orst.edu1,0489,730,856
+19mm3-cdcntr.library.orst.edu8648,571,234
+20cln342-ada.library.orst.edu8178,317,007
+21slip242.ucs.orst.edu7642,374,006
+22cln418-cdcntr.library.orst.edu7616,945,797
+23hotspare.library.orst.edu6594,773,396
+24wildman-260-fw.fwl.orst.edu63170,846,412
+25cln347-painterc.library.orst.edu6092,608,259
+
+Top 25 of 409 user agents by Access Count
+RankUser AgentAccessesBytes1(Win95; I)34,534328,547,558
+2Mozilla/3.04 (Win16; I)16,183152,741,850
+3Mozilla/3.0 (Win95; I)15,368132,967,456
+4Mozilla/4.0 (compatible; MSIE 4.01; Windows 95)12,131102,828,168
+5Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)10,76690,340,436
+6Mozilla/3.01 (Win95; I)9,00167,788,210
+7Ultraseek8,02583,378,206
+8(Win95; U)7,13670,306,813
+9(WinNT; I)6,90652,759,243
+10Mozilla/4.06 (Macintosh; I; PPC)6,81589,991,088
+11(Win95; I ;Nav)6,42857,632,803
+12Mozilla/3.01 (Win16; I)4,56141,978,109
+13Mozilla/2.0 (Win16; I)3,24022,128,315
+14(Win98; I)2,95518,379,387
+15Mozilla/3.0 (Macintosh; I; PPC)2,56624,198,383
+16Mozilla/2.0 (compatible; MSIE 3.01; Windows 95)2,42616,600,709
+17Mozilla/3.01Gold (Win95; I)2,16924,225,875
+18Mozilla/3.0Gold (Win95; I)1,66611,109,970
+19Mozilla/3.0Gold (WinNT; I)1,4859,615,143
+20Mozilla/4.0 (compatible; MSIE 4.0; Windows 95)1,43610,826,948
+21Mozilla/3.01 (X11; I; HP-UX B.10.20 9000/712)1,3819,696,549
+22Mozilla/3.0 (Win16; I)1,2978,149,941
+23Mozilla/2.0 (compatible; MSIE 3.0; Windows 95)1,1418,948,355
+24Mozilla/2.0 (compatible; MSIE 3.02; Update a; Windows 95)1,05914,527,249
+25Mozilla/3.0 (Macintosh; I; 68K)1,04510,245,894
+
+Top 25 of 1886 Documents Not Found
+RankURLAccessesReferring URLs1/robots.txt610netcarta_webmapper/p>s:tBvDy@z
+2/dept/fish_wild/untitledframeset4.html70
+3/instruct/ans378f/Lect13.html70http://www.orst.edu/instruct/ans378f/ANS378.html#Oct1, http://www.orst.edu/instruct/ans378f/ANS378.html##lecture, http://www.orst.edu/instruct/ans378f/ANS378.html#Oct5, http://www.orst.edu/instruct/ans378f/ANS378##lecture, http://www.orst.edu/instruct/ans378f/ANS378.html#Oct12, http://osu.orst.edu/instruct/ans378f/ANS378.html##lecture
+4/dept/career-services/main.htm61http://www.che.orst.edu/links.htm, http://www.bus.orst.edu/students/std_org/bap/bap.htm
+5/dept/eop/images/mailto.JPEG58http://osu.orst.edu/dept/eop/cos.html, http://www.orst.edu/dept/eop/students.html, http://osu.orst.edu/dept/eop/students.html, http://osu.orst.edu/dept/eop/course.desc.html, http://www.orst.edu/dept/eop/course.desc.html
+6/instruct/ans378f/Lect12.html45http://www.orst.edu/instruct/ans378f/ANS378.html##lecture, http://osu.orst.edu/instruct/ans378f/ANS378, http://www.orst.edu/instruct/ans378f/ANS378.html#Oct5, http://www.orst.edu/instruct/ans378f/ANS378.html#Oct1, http://osu.orst.edu/instruct/ans378f/ANS378.html##lecture, http://www.orst.edu/instruct/ans378f/ANS378.html#Oct12, http://www.orst.edu/instruct/ans378f/ANS378.html#Oct15
+7/instruct/ans378f/Lect14.html45http://www.orst.edu/instruct/ans378f/ANS378.html##lecture, http://www.orst.edu/instruct/ans378f/ANS378##lecture, http://www.orst.edu/instruct/ans378f/ANS378.html#Oct12, http://osu.orst.edu/instruct/ans378f/ANS378.html##lecture, http://osu.orst.edu/instruct/ans378f/ANS378.html#Oct8, http://www.orst.edu./instruct/ans378f/ANS378.html
+8/instruct/soc426/fall98/wk04out.html39http://osu.orst.edu/instruct/soc426/fall98/426mtrl.html
+9/dept/libary37
+10/instruct/ans378f/ANS378Lect11-Notes.html31http://www.orst.edu/instruct/ans378f/ANS378.html##lecture, http://www.orst.edu/instruct/ans378f/ANS378.html#exam1, http://www.orst.edu/instruct/ans378f/ANS378.html#Oct5, http://www.orst.edu/instruct/ans378f/ANS378.html#Oct12
+11/dept/career-services/recruiting/RNweek.HTM30http://www.orst.edu/dept/career-services/recruiting/TSSMAIN.HTM, http://www.osu.orst.edu/dept/career-services/recruiting/TSSMAIN.HTM, http://osu.orst.edu/dept/career-services/recruiting/TSSMAIN.HTM
+12/instruct/ans378f/ANS378Lect9-Notes.html25http://www.orst.edu/instruct/ans378f/ANS378.html#Oct12, http://www.orst.edu/instruct/ans378f/ANS378.html##lecture
+13/instruct/soc426/fall98/wk03out.html23http://osu.orst.edu/instruct/soc426/fall98/426mtrl.html
+14/dept/career-services/index4.htm21http://www.orst.edu/dept/animal-sciences/intern.htm, http://www.engr.orst.edu/INDUSTRIAL/main/links/career.html
+15/instruct/fw323/IMAGES/CNTUUM.JPG20http://osu.orst.edu/instruct/fw323/05lec.html, http://www.orst.edu/instruct/fw323/05lec.html
+16/instruct/H31219http://www.ece.orst.edu/instruct/H312, http://www.osu.orst.edu/instruct/H312
+17/dept/foreign_lan/spn31118
+18/dept/kbvr/black18http://www.orst.edu/dept/kbvr/top20rock.html, http://www.orst.edu/dept/kbvr/top20hiphop.html, http://www.orst.edu/dept/kbvr/top20reggae.html, http://www.orst.edu/dept/kbvr/top20RPM.html, http://osu.orst.edu/dept/kbvr/top20rock.html, http://osu.orst.edu/dept/kbvr/top20hiphop.html, http://osu.orst.edu/dept/kbvr/top20RPM.html, http://osu.orst.edu/dept/kbvr/top20reggae.html
+19/_vti_inf.html17
+20/instruct/HHP23117
+21/admin/webworks/stu/zwartg/printing/copy/css/level2_style.css15
+22/dept/multco/map.pcx14http://osu.orst.edu/dept/multco/Map.html, http://osu.orst.edu/dept/multco/map.html
+23/dept/chem14http://www.orst.edu/chem
+24/dept/hdfs.13
+25/dept/writing-center/twc.html13http://www.cs.orst.edu/~laichi/home_page.html
+
+Visits ReportTotal visits: 20719Average visit: 5.62 minutesLongest visit: 401 minutes10 Example VisitsSiteMinutesTrailslip182.ucs.orst.edu3http://osu.orst.edu/admin/finaid/, /admin/finaid/typfin.htm, /admin/finaid/appfin.htm, /admin/finaid/schol.htmbasket3.hhp.orst.edu2http://www.orst.edu/, /cu/atheve/atheve.htm, /cu/people/people.htmslip111.ucs.orst.edu12/instruct/geo300, /instruct/geo300/cook/Tpage.html, /instruct/geo300/cook/q2c-ore.html, /instruct/geo300/cook/q2delay.html, /instruct/geo300/cook/q2gorge.html, /instruct/geo300/cook/q2immi.html, /instruct/geo300/cook/q2pollock.html, /instruct/geo300/cook/q2poplar.html, /instruct/geo300/cook/q2timber.html, /instruct/geo300/cook/q2water.html, /instruct/geo300hellmane.nwrec.aes.orst.edu45/dept/infonet, /dept/infonet/snew.htm, /dept/infonet, /dept/infonet/research.htm, /dept/infonet/pestmgt.htm, /dept/infonet/enewslet.htm, /dept/infonet/commish.htm, /dept/infonet, /dept/infonet/commish.htm, /dept/infonet/research.htm, /dept/infonet/pestmgt.htm, /dept/infonet/research.htmmac37.physics.orst.edu9http://www.orst.edu/, /fe/extedu/couvia, /ss/acareg/acareg.htm, /dept/admindb/bcc/bccwic.htm, /fe/fe.htm, /instruct/hhp231, /instruct/hhp231/syllabus.htm, /instruct/hhp231/lab.htm, /instruct/hhp231/labinstructors.htm, /instruct/hhp231/update.htm, /instruct/hhp231/waiver.htmpent120.range.orst.edu22http://www.osu.orst.edu/, /cu/people/people.htm, /cu/people/ph_query.html, /mc/coldep/coldep.htm, /dept/agric/agrsci.htm, /Dept/agric/depts.html, /dept/range, /dept/range/material.htm, /instruct/rng341/finkel.htm, /instruct/rng341/ethic.htm, /dept/range/theses/theses.htm, /dept/range/theses/Sissoko/sissoko.htm, /dept/range/gradstud, /dept/range/gradstud/webdoc2.htm, /dept/range/gradstud/webdoc3.htm, /dept/range/gradstud/Epith10_3.htm, /dept/range/links.htm, /dept/range/ecolprov.html, /Dept/agric/depts.html, /dept/range, /dept/range/links.htmkad-b008-stu3.ads.orst.edu0http://www.orst.edu/dept/career-services/employ/posting.htm, /dept/career-servicespscheidt2-1089b-b.cordley.orst.edu13/guide1998/cfml/index.cfm, /guide1998, /guide1998/buttonJava.js, /guide1998/intro.htm, /dept/botany, /guide1998/3D, /guide1998/cfml/images.htm, /guide1998/cfml/images_View.htm, /guide1998/cfml/images_RecordView.cfm, /guide1998/cfml/guide_View.htm, /guide1998/cfml/guide_RecordView.cfm, /guide1998/cfml/jumptoImages.cfm, /guide1998/cfml/jumpto.cfm, /guide1998/cfml/guide_RecordAction.cfm, /guide1998/cfml/guide_RecordEdit.cfm, /guide1998/cfml/guide_RecordAction.cfm, /guide1998/cfml/guide_RecordView.cfm, /guide1998, /guide1998/pindex.cfm, /guide1998/disease.cfm, /guide1998/buttonJavaPage.js, /guide1998/plant_images/ACFQDA026527.JPG, /guide1998/plant_images/ACFSDA026527.JPG, /guide1998/disease.cfm, /guide1998/plant_images/ACFUDA026527.JPG, /guide1998/disease.cfm, /guide1998/plant_images/ACFAEA026527.JPG, /guide1998/plant_images/ACFCEA026527.JPG, /guide1998/SearchResults.cfm, /guide1998/disease.cfm, /guide1998/plant_images/ACFOEA026527.JPG, /guide1998/disease.cfm, /guide1998/pindex.cfm, /guide1998, /guide1998/pindex.cfm, /guide1998/disease.cfm, /guide1998/factsheet.cfm, /guide1998/cfml/links_RecordView.cfm, /guide1998/cfml/links_RecordAction.cfm, /guide1998/cfml/links_RecordView.cfm, /guide1998/cfml/links_RecordAction.cfm, /guide1998/cfml/links_RecordView.cfm, /guide1998/cfml/links_RecordAction.cfm, /guide1998/cfml/links_RecordView.cfm, /guide1998/cfml/links_RecordAction.cfm, /guide1998/cfml/links_RecordView.cfm, /guide1998/cfml/index.cfm, /guide1998, /guide1998/cfml/images.htm, /guide1998, /guide1998/cfml/images.htmslip103.ucs.orst.edu1http://www.orst.edu/, /aw/aw.htm, /admin/instruction, /aw/polpro/deprep.htmbat5004.ie.orst.edu0/dept/ccee, /aw/aw.htmAccesses by Result CodeCodeMeaningAccesses0?3200OK181576201Created0202Accepted0206?108301Moved Permanently7949302Moved Temporarily1133304Not Modified1932400Bad Request0401Unauthorized82403Forbidden538404Not Found4903406?6500Internal Server Error0501Not Implemented1502Bad Gateway0503Service Unavailable0

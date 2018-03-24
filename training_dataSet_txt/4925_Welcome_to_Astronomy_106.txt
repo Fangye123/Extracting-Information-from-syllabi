@@ -1,0 +1,245 @@
+~
+
+Welcome to Astronomy 106
+
+
+
+Welcome to Astronomy 106
+23 Sep 2000
+All astro LABS BEGIN monday, August 28
+
+
+Time:
+ Lecture 9:10-10:05 MWF
+ in Room C112, MatSci Bldg
+Instructor:
+ Dr. Robert Sheldon
+Office Hours:
+ MWF 8-9, & TBA, Room 348 Optics Bldg
+
+
+Phone:
+UAH:824 2860
+MSFC:544 1652
+E-mail: sheldonr@uah.edu
+
+
+Teaching Assistants:
+
+Yuki Kaneko
+Office Hours: MWF 10:30-12
+Office: OB 432  824-3138
+ kanekoy@email.uah.edu
+
+Landon Freeman
+Office Hours: TuTh 4-6
+ freemal@email.uah.edu
+
+ Nate Lewis
+ Office Hours: Mon 4-6
+ lewisn@email.uah.edu
+
+Text:
+
+Universe, 5th edition
+William J. Kaufmann, III,
+W.H. Freeman and Company, NY
+
+
+
+
+COURSE DESCRIPTION:
+
+	Exploring the Cosmos, parts I and II, is designed to give you an
+overall look at the history of astronomy, the techniques and equipment used
+to make astronomical observations, the life cycle of stars, the theories of
+the evolution of our solar system and galaxy, and the theories of the our
+entire universe.  Part I of this course will cover chapters 1-8 and 17-24,
+which include the basics of our view of the sky, telescopes, the nature of
+light, our solar system, and the life cycle of stars all the way to black
+holes.  Part II will cover the remaining chapters, which include the
+evolution of galaxies, clusters and superclusters, basic cosmology, and a
+survey of our solar system's bodies. 
+
+	These courses are meant primarily for non-science majors, though
+they are also the introductory courses for physics students with an
+astrophysics interest.  Students will be expected to perform only basic
+algebraic and mathematical calculations to support various theories; no high
+level mathematics is required.  (Basic Algebra is a course pre-requisite!)  
+While learning about the solar system and the stars, you will learn physical
+relationships between quantities such as temperature, pressure, brightness,
+distance, speed, angle, etc.  You will also learn to interpret data to make
+informed decisions about astronomical theories, particularly in the
+laboratory exercises which accompany the lecture. 
+
+	The laboratory exercises will also include a simple observing
+project which will be due later in the semester.  Other than that project,
+there are few observational requirements for this course.  However, the
+graduate students teaching the laboratory and I are all available to conduct
+viewing exercises as required.  There are small telescopes in the astronomy
+laboratory that you may check out from the lab instructor or from me.  If
+you know of an upcoming astronomical event or would just like the
+opportunity to look through a scope at whatever might be visible, please
+make your request known and we'll schedule a viewing.  If you wish to be
+notified of any last-minute observing activities, send me an email message
+so that I may add you to my viewing list.  Also, the Von Braun Astronomical
+Society has an observatory and planetarium on Monte Sano Mountain which is
+open quite often to the public for planetarium shows and general observing.  
+Visit their website at www.vbas.org for more information
+
+HOMEWORK:
+  Homework assignment due dates are listed below with assignments
+due at the beginning of class, folded, stapled, with your full name written
+legibly on the outside.  Many homework problems are based on information
+contained in the "boxes" within the chapters.  Late homework may be
+submitted TO ME with a penalty of 25% per day late; written excuses required
+from an appropriate authority for no penalty.
+ 
+RETURNS:
+  Homework assignments will be returned in class within two class
+periods.  All homework will be available before an exam.  If you are absent
+when assignments are returned, you can retrieve them from a box 
+outside my office.  Exams will also be returned in class within two
+class periods or can be picked up from me during office hours after the
+second class period; I do not leave exams in the box outside my office.
+ 
+SOLUTIONS:
+  After the due date, solutions to the homework assignments will
+be posted on the main syllabus web page as gif files.  The
+solutions are good study aids as I often supply more information than
+necessary to answer the question.  This is my way of "going over the
+homework".
+ 
+EXAMS: 
+ My exams reflect the homework, examples that I work in class and
+discussions in lecture and in your book.  Exam grades may be scaled to give
+a class average of 75%, should the class average be lower than this.  If 
+you don't come to class and/or don't do homework, you will find it
+difficult to pass the exams! No early exams.  Notification of absence for an
+exam must be made within 24 hours of exam time. There is an answering
+machine on my office phone for this purpose.  Makeup exams, which may be
+oral or more difficult, will only be given for absences with a written
+excuse from the dean.  
+
+LABORATORY:
+  The laboratory will be taught by a graduate student and/or experienced 
+undergraduates.  The grade
+will be averaged with your class grade as shown above.  Many students do
+well enough in the lab to raise their overall class grade.  ATTENDANCE IS
+MANDATORY TO PERFORM THE EXPERIMENTS; LAB REPORTS BASED ON EXPERIMENTS THAT
+YOU DID NOT PERFORM WILL NOT BE ACCEPTED.
+ 
+TENTATIVE LAB SCHEDULE
+PREFLIGHTS/WARM-UPS/QUIZZES
+ I am trying out a new teaching style that tries to use the WWW as a
+fast-response feedback loop. Before each Wed/Fri class, a Quiz will be posted on the
+WWW, which must be completed before 8:00 AM on the day that it is assigned.
+PLEASE do not try to take the quiz after the
+deadline time, I will not be able to accept it. These quizzes will form the
+basis of the following lecture. A web site describing this approach can be
+found at the JiTT
+Website.
+ 
+GRADING:
+The final grade will be derived from:
+
+Exam #1----------15%
+Exam #2----------15%
+Final Exam---------20%
+Labs-------------25%
+Quizzes-----------10%
+Homework---------15%
+
+
+I use an absolute scale for letter grades:
+
+  
+90-100 = A
+80--90 = B
+70--80 = C
+60--70 = D
+00--60 = N/C
+
+
+ Note that beginning in 2000, the "F" grade is replaced with a "N/C" for all
+100-level physics courses. That is, failing will no longer reduce your GPA,
+but it will be treated as if you had withdrawn.
+ 
+TENTATIVE LECTURE SCHEDULE:
+
+
+WEEKDATE CHAPTOPIC QUIZ HOMEWORKSOLUTIONS
+
+ 1Aug 23 1The Universe[1]:2,3,6,10,12,16,20,21,23,24
+ 1Aug 25 2The Heavens Quiz 01
+
+ 2Aug 28 2The Heavens  [2]:5,6,8,9,10,13,21,24,28,30
+ 2Aug 30 2The Heavens Quiz 02 Chap 1 
+ 2Sep 01 3Eclipses    Quiz 03[3]:1,2,3,9,11,14,15,20,22,27
+
+ 3Sep 04 * *Holiday *  
+ 3Sep 06 3Eclipses    Quiz 04Chap 2 
+ 3Sep 08 4Gravitation Quiz 05[4]:
+ 3,4,6,10,12,14,16,17,22,27 
+
+ 4Sep 11 4Gravitation   Chap 3 
+ 4Sep 13 4Gravitation Quiz 06
+ 4Sep 15 5Light&Matter;No Quiz[5]:
+4,5,7,10,11,14,18,21,25,28Chap 4 
+
+ 5Sep 18 5Light&Matter; 
+ 5Sep 20 6Telescopes  Quiz 08Chap 5
+ 5Sep 22 ***TEST 1*** 
+
+ 6Sep 25 6Telescopes  [6]: 3,4,6,7,12,13,15,18,19,21
+ 6Sep 27 6Telescopes  Quiz 09
+
+ 6Sep 29 7Solar SystemNo Quiz 
+ 7Oct 02 7Solar System[7]:1,2,7,9,12,13,14,16,18,19 Chap  6
+ 7Oct 04 8Living EarthNo Quiz[8]:3,5,6,7,10,11,12,13,18,19  
+ 7Oct 06 * *Holiday * 
+
+ 8Oct 09 8Living Earth Chap 7 
+ 8Oct 1117Vagabonds   Quiz 12
+[17]:5,8,9,11,12,15,19,22,25,26 
+ 8Oct 1317Vagabonds   No QuizChap 8 
+
+ 9Oct 1618Our Star    [18]:2,6,8,13,14,17,21,25,26,31
+ 9Oct 1818Our Star    Quiz 14Chap 17
+ 9Oct 2018Our Star    No Quiz
+
+10Oct 2319Nature of Stars[19]: 2,5,8,9,10,14,19,20,25,34Chap 18
+10Oct 2519Nature of StarsNo Quiz
+10Oct 2719Nature of StarsNo QuizChap 19
+
+11Oct 30 ***Test 2***   
+11Nov 0120Birth of StarsNo Quiz [20]: 3,6,7,8,12,14,15,17,19, 24  
+11Nov 0320Birth of StarsNo Quiz
+
+12Nov 0621Evolution of Stars[21]: 2,3,5,9,11,13,14,17,24,25  
+12Nov 0821Evolution of StarsQuiz 21
+12Nov 1022Death of StarsQuiz 21Chap 20
+
+13Nov 1322Death of Stars[22]:3,4,7,9,12,14,17,18,24,26                  
+13Nov 1522Death of StarsNoQuizChap 21
+13Nov 1723Neutron Stars NoQuiz[23]:2,3,4,12,13,15,17,18,23,27
+
+14Nov 2023Neutron Stars  Chap 22
+14Nov 22 * *Holiday *   
+14Nov 24 * *Holiday *  
+
+15Nov 2723Black Holes   [24]:4,6,10,11,12,14,15,16,20,22Chap 23
+15Nov 2924Black Holes   No Quiz
+15Dec 0124Black Holes   NoQuiz
+
+16Dec 0430SETI          Chap24
+16Dec 06 Study Day     
+16Dec 11 **Final Exam**8:00-10:30
+
+
+
+
+
+ Last Modified Aug 28, 2000
+
+

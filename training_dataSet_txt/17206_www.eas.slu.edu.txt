@@ -1,0 +1,283 @@
+www.eas.slu.edu
+www.eas.slu.edu
+Index
+ Summary
+ Top level domains accessing
+ Top 40 archive sections by Number of Hits
+ Top 40 archive sections by Volume Transferred
+ Top 40 files downloaded by Number of Hits
+ Top 40 files downloaded by Volume Transferred
+ Top 40 domains by Number of Hits
+ Top 40 domains by Volume Transferred
+ Complete archive section statistics
+
+
+Summary
+Period Covered: 09:37:51 11 August 2000 to 21:12:55 31 August 2000
+Total Files Transfered: 1,914
+Total Bytes Transfered: 308,132,520
+Unique Domains: 335
+Return to Index
+
+Top Level Domains
+
+Accesses       Bytes   Top Level Domain
+
+     758   180433784   edu        - US Educational
+     676    26534141   com        - US Commercial
+     144    19993059   net        - Network
+     119     8692272   Unresolved - Unresolved Domain
+      66    14891066   it         - Italy
+      56    40325193   gov        - US Government
+      39     7503247   gr         - Greece
+      26     1622145   in         - India
+       5       17830   us         - United States
+       4       56400   org        - Non-Profit Organization
+       3     1795582   ca         - Canada
+       3       68874   eg         - Egypt
+       3       54341   jp         - Japan
+       3     3453524   fr         - France
+       2      557056   tw         - Taiwan
+       2     1754969   de         - Germany
+       2        7004   mil        - US Military
+       1      120831   ua         - Ukraine
+       1      228864   au         - Australia
+       1       22338   br         - Brazil
+
+Return to Index
+
+Top 40 Archive Sections by Number of Hits
+
+Last Accessed        Accesses       Bytes   Archive Section
+
+21:12:55 31 Aug 2000      736   213225764   /ftp/
+15:00:44 31 Aug 2000      698    92433288   /eas/
+14:24:52 30 Aug 2000      607    23429251    gif graphic files
+23:22:09 12 Aug 2000      437     2036253   /net/
+17:18:21 31 Aug 2000       42      387455   /www/
+17:18:21 31 Aug 2000       33      308708    html files
+16:45:30 31 Aug 2000        8      615019    jpg graphic files
+10:14:02 25 Aug 2000        1       49760   /usr/
+
+Return to Index
+
+Top 40 Archive Sections by Volume Transferred
+
+Last Accessed        Accesses       Bytes   Archive Section
+
+21:12:55 31 Aug 2000      736   213225764   /ftp/
+15:00:44 31 Aug 2000      698    92433288   /eas/
+14:24:52 30 Aug 2000      607    23429251    gif graphic files
+23:22:09 12 Aug 2000      437     2036253   /net/
+16:45:30 31 Aug 2000        8      615019    jpg graphic files
+17:18:21 31 Aug 2000       42      387455   /www/
+17:18:21 31 Aug 2000       33      308708    html files
+10:14:02 25 Aug 2000        1       49760   /usr/
+
+Return to Index
+
+Top 40 Files by Number of Hits
+
+Last Accessed        Accesses       Bytes   File
+
+21:12:55 31 Aug 2000      225      802110   /ftp/pub/Earthquake/master.slu
+20:35:19 31 Aug 2000       82     2113784   /ftp/pub/Earthquake/master.wld
+05:51:04 20 Aug 2000        9      195021   /ftp/pub/incoming/Ammon/Private/EQCF/EQCF_EQ_Fatalities.PDF
+05:41:33 20 Aug 2000        8      196276   /ftp/pub/incoming/Ammon/Private/EQCF/EQCF_ground_movements.PDF
+21:06:14 25 Aug 2000        8    12611895   /eas/as/singer/shalom.MPG
+03:08:44 23 Aug 2000        8       49456   /ftp/pub/rbh/NPROGRAMS/README
+10:44:11 22 Aug 2000        7     1987981   /ftp/pub/rbh/USGS/smsim185.exe
+21:34:50 28 Aug 2000        7     1215831   /ftp/pub/incoming/Ammon/Private/EQCF/EQCF_glbl_map.PDF
+17:18:21 31 Aug 2000        6       20283   /www/EAS/People/BJMitchell/TextPages/Teaching/EAS437-syllabus.html
+12:16:18 31 Aug 2000        6    24553173   /eas/es/mejia/download/sac/sac2000.tgz
+00:58:38 23 Aug 2000        6     1055672   /ftp/pub/rbh/MAEC/rbhsm18.exe
+12:59:18 31 Aug 2000        5     8666980   /ftp/pub/incoming/Ammon/Private/RftnStuff/Rftn.Codes.tar.Z
+12:46:44 31 Aug 2000        4     3282752   /ftp/pub/incoming/graves/990102_12.ps
+05:47:53 19 Aug 2000        4     2186082   /ftp/pub/rbh/NPROGRAMS/NVOLV.EXE
+12:56:30 31 Aug 2000        4     3326520   /ftp/pub/incoming/graves/990103_18.ps
+09:06:21 30 Aug 2000        4      160757   /www/EAS/Department/classes.htm
+12:38:47 31 Aug 2000        4     8739144   /ftp/pub/incoming/graves/990102_00.ps
+09:20:14 20 Aug 2000        4      335180   /ftp/pub/rbh/NPROGRAMS/gChap2.ps
+10:13:15 20 Aug 2000        4        1096   /ftp/pub/rbh/.PROGRAMS/00README
+12:51:09 31 Aug 2000        4     3429170   /ftp/pub/incoming/graves/990103_03.ps
+12:40:12 31 Aug 2000        4     3485774   /ftp/pub/incoming/graves/990102_03.ps
+13:46:11 31 Aug 2000        4       86292   /ftp/pub/incoming/Ammon/Private/Codes.IterDecon/iterdecon.tar.Z
+12:43:38 31 Aug 2000        4     3274652   /ftp/pub/incoming/graves/990102_09.ps
+12:52:53 31 Aug 2000        4     3294744   /ftp/pub/incoming/graves/990103_06.ps
+05:38:10 25 Aug 2000        4      161996   /ftp/pub/Earthquake/Master.wld
+12:48:33 31 Aug 2000        4     3467464   /ftp/pub/incoming/graves/990102_15.ps
+12:42:00 31 Aug 2000        4     3298306   /ftp/pub/incoming/graves/990102_06.ps
+12:55:02 31 Aug 2000        4     3304448   /ftp/pub/incoming/graves/990103_12.ps
+12:08:00 30 Aug 2000        4     2118674   /ftp/pub/incoming/Ammon/Private/Theses/Ketter_SLU_MSci_99.pdf
+12:57:14 31 Aug 2000        4     3261992   /ftp/pub/incoming/graves/990103_21.ps
+11:17:55 11 Aug 2000        4      240524   /ftp/pub/incoming/EJHaug/SIRR/SIRRMembers.prn
+12:55:37 31 Aug 2000        4     3363112   /ftp/pub/incoming/graves/990103_15.ps
+12:49:16 31 Aug 2000        4     3499172   /ftp/pub/incoming/graves/990102_18.ps
+12:50:16 31 Aug 2000        4     3437398   /ftp/pub/incoming/graves/990103_00.ps
+12:53:59 31 Aug 2000        4     3237490   /ftp/pub/incoming/graves/990103_09.ps
+16:35:01 26 Aug 2000        3      705796   /eas/as/sully/newgifs/lsx_1830.gif
+03:00:12 23 Aug 2000        3      423892   /ftp/pub/rbh/PROGRAMS/VOLIV.MAN/ivps.exe
+07:26:06 17 Aug 2000        3     1011824   /ftp/pub/rbh/PROGRAMS/VOLII.MAN/iips.exe
+10:00:20 20 Aug 2000        3        2034   /ftp/pub/rbh/PROGRAMS/README
+03:01:31 23 Aug 2000        3      392116   /ftp/pub/rbh/PROGRAMS/VOLIV.MAN/surfdoc.ps.Z
+
+Return to Index
+
+Top 40 Files by Volume Transferred
+
+Last Accessed        Accesses       Bytes   File
+
+16:37:21 15 Aug 2000        1    33181184   /ftp/pub/incoming/jim/mark/MMOUT_DOMAIN1_mark.v2
+12:16:18 31 Aug 2000        6    24553173   /eas/es/mejia/download/sac/sac2000.tgz
+16:21:12 15 Aug 2000        1    19892420   /ftp/pub/incoming/jim/mark/MMOUT_DOMAIN1_mark
+21:06:14 25 Aug 2000        8    12611895   /eas/as/singer/shalom.MPG
+12:38:47 31 Aug 2000        4     8739144   /ftp/pub/incoming/graves/990102_00.ps
+12:59:18 31 Aug 2000        5     8666980   /ftp/pub/incoming/Ammon/Private/RftnStuff/Rftn.Codes.tar.Z
+12:43:40 31 Aug 2000        1     5316228   /eas/es/mejia/download/sac/aps102eng.exe
+10:18:49 17 Aug 2000        1     4911532   /eas/ap/moore/ioware-w32-x86-251.exe
+09:09:13 25 Aug 2000        1     4318646   /eas/met/slubrew/slubrew_aug24.tgz
+19:31:21 19 Aug 2000        1     4203968   /eas/as/sully/shalom.MPG
+10:31:40 25 Aug 2000        1     4113314   /eas/es/ortega/PAPER/paper1.tar.gz
+15:00:44 31 Aug 2000        2     3581952   /eas/as/sully/sls00.ppt
+12:49:16 31 Aug 2000        4     3499172   /ftp/pub/incoming/graves/990102_18.ps
+12:40:12 31 Aug 2000        4     3485774   /ftp/pub/incoming/graves/990102_03.ps
+12:48:33 31 Aug 2000        4     3467464   /ftp/pub/incoming/graves/990102_15.ps
+12:50:16 31 Aug 2000        4     3437398   /ftp/pub/incoming/graves/990103_00.ps
+12:51:09 31 Aug 2000        4     3429170   /ftp/pub/incoming/graves/990103_03.ps
+12:55:37 31 Aug 2000        4     3363112   /ftp/pub/incoming/graves/990103_15.ps
+19:25:04 29 Aug 2000        1     3335026   /ftp/pub/incoming/jim/IWDPatch106.exe
+12:56:30 31 Aug 2000        4     3326520   /ftp/pub/incoming/graves/990103_18.ps
+12:55:02 31 Aug 2000        4     3304448   /ftp/pub/incoming/graves/990103_12.ps
+12:42:00 31 Aug 2000        4     3298306   /ftp/pub/incoming/graves/990102_06.ps
+12:52:53 31 Aug 2000        4     3294744   /ftp/pub/incoming/graves/990103_06.ps
+12:46:44 31 Aug 2000        4     3282752   /ftp/pub/incoming/graves/990102_12.ps
+12:43:38 31 Aug 2000        4     3274652   /ftp/pub/incoming/graves/990102_09.ps
+12:57:14 31 Aug 2000        4     3261992   /ftp/pub/incoming/graves/990103_21.ps
+12:53:59 31 Aug 2000        4     3237490   /ftp/pub/incoming/graves/990103_09.ps
+08:35:11 30 Aug 2000        2     3199467   /ftp/pub/incoming/Ammon/Private/Theses/Chang_SLU_PhD_97.pdf
+10:16:09 20 Aug 2000        1     3098265   /ftp/pub/rbh/.Katherine/Sec2.ps
+17:25:50 30 Aug 2000        3     2383872   /ftp/pub/incoming/graves/20000311_09.ps
+09:26:32 20 Aug 2000        3     2201601   /ftp/pub/rbh/NPROGRAMS/gChap5.ps
+05:47:53 19 Aug 2000        4     2186082   /ftp/pub/rbh/NPROGRAMS/NVOLV.EXE
+12:08:00 30 Aug 2000        4     2118674   /ftp/pub/incoming/Ammon/Private/Theses/Ketter_SLU_MSci_99.pdf
+20:35:19 31 Aug 2000       82     2113784   /ftp/pub/Earthquake/master.wld
+10:44:11 22 Aug 2000        7     1987981   /ftp/pub/rbh/USGS/smsim185.exe
+17:23:31 30 Aug 2000        2     1975800   /ftp/pub/incoming/graves/20000311_00.ps
+17:27:44 30 Aug 2000        2     1923366   /ftp/pub/incoming/graves/20000311_15.ps
+17:24:22 30 Aug 2000        2     1895590   /ftp/pub/incoming/graves/20000311_03.ps
+17:28:32 30 Aug 2000        2     1888442   /ftp/pub/incoming/graves/20000311_18.ps
+17:25:07 30 Aug 2000        2     1862736   /ftp/pub/incoming/graves/20000311_06.ps
+
+Return to Index
+
+Top 40 Domains by Number of Hits
+
+Last Access          Accesses       Bytes   Domain
+
+23:23:37 12 Aug 2000      443     2188259                   pppsv1-11.slu.edu
+19:31:21 19 Aug 2000      311    11232247                ACAA214D.ipt.aol.com
+17:06:00 26 Aug 2000      188     5761075                AC9BE6FE.ipt.aol.com
+16:07:39 28 Aug 2000       67    30320629                robeson.Colorado.EDU
+17:39:09 31 Aug 2000       50    35924880                 frodo.nssl.noaa.gov
+10:03:52 31 Aug 2000       48    40411620                     mnw.eas.slu.edu
+08:42:14 25 Aug 2000       41     1007727                AC998A85.ipt.aol.com
+08:20:44 17 Aug 2000       39     7503247              egelados.civil.auth.gr
+10:23:33 20 Aug 2000       34     7000872                 sv4.ictp.trieste.it
+04:15:58 17 Aug 2000       28     6525848             geopc13.univ.trieste.it
+15:00:44 31 Aug 2000       26     9375052               planetoid.eas.slu.edu
+16:52:26 31 Aug 2000       25      340540                 granite.eas.slu.edu
+03:08:44 23 Aug 2000       25     1618563                 shillong.meg.nic.in
+14:51:08 30 Aug 2000       24     5105509                   geoid.eas.slu.edu
+08:13:50 14 Aug 2000       19      399053                       209.58.117.73
+22:22:10 25 Aug 2000       18       57888                  jtmppp.eas.slu.edu
+06:17:26 17 Aug 2000       15      736585                      203.185.44.107
+17:18:21 31 Aug 2000       15       41280                     bjm.eas.slu.edu
+15:22:23 28 Aug 2000       15     2489897                 helioid.eas.slu.edu
+07:22:25 31 Aug 2000       14       49988                       149.63.101.12
+00:58:38 23 Aug 2000       13     1702499                       193.231.5.201
+17:36:08 31 Aug 2000       11     2095692                    thor.eas.slu.edu
+20:35:15 24 Aug 2000       10     1195553   ppp-207-193-21-43.stlsmo.swbell.net
+20:38:53 11 Aug 2000        8       24844                   pppsv4-61.slu.edu
+05:51:04 20 Aug 2000        6      146761              207user30.ctimail3.com
+06:49:52 19 Aug 2000        5     1919136                       202.9.184.211
+04:20:26 19 Aug 2000        5     1133186                        202.9.184.81
+16:41:46 28 Aug 2000        5      363162                AC9EAB9E.ipt.aol.com
+17:07:11 24 Aug 2000        5      930297               calaveras.eas.slu.edu
+05:38:10 25 Aug 2000        5      184893   pool0041.cvx17-bradley.dialup.earthlink.net
+17:53:10 25 Aug 2000        5       17910        216-163-125-73.du.wabash.net
+15:54:40 25 Aug 2000        4       65536   ip-209-23-4-215.modem.capital.net
+11:17:55 11 Aug 2000        4      240524                 wiggles.eas.slu.edu
+19:10:02 14 Aug 2000        4      169349                ACAA3DAA.ipt.aol.com
+07:06:26 21 Aug 2000        4     1364346             einstein.irrs.mi.cnr.it
+10:43:03 28 Aug 2000        4       30907                    lolo.eas.slu.edu
+01:06:37 31 Aug 2000        4       14968              dialin14.dustdevil.com
+23:38:47 23 Aug 2000        3       90862      c190577-a.batavia1.il.home.com
+17:22:16 20 Aug 2000        3       52818   Hartville-AS2-13.windo.missouri.org
+15:54:20 30 Aug 2000        3     4345007                 shadow.crh.noaa.gov
+
+Return to Index
+
+Top 40 Domains by Volume Transferred
+
+Last Access          Accesses       Bytes   Domain
+
+16:37:21 15 Aug 2000        3    53974721       cargsun1.atmos.washington.edu
+10:03:52 31 Aug 2000       48    40411620                     mnw.eas.slu.edu
+17:39:09 31 Aug 2000       50    35924880                 frodo.nssl.noaa.gov
+16:07:39 28 Aug 2000       67    30320629                robeson.Colorado.EDU
+12:43:40 31 Aug 2000        2    11289945                    pppsv1-7.slu.edu
+19:31:21 19 Aug 2000      311    11232247                ACAA214D.ipt.aol.com
+15:00:44 31 Aug 2000       26     9375052               planetoid.eas.slu.edu
+08:20:44 17 Aug 2000       39     7503247              egelados.civil.auth.gr
+10:23:33 20 Aug 2000       34     7000872                 sv4.ictp.trieste.it
+04:15:58 17 Aug 2000       28     6525848             geopc13.univ.trieste.it
+17:06:00 26 Aug 2000      188     5761075                AC9BE6FE.ipt.aol.com
+14:51:08 30 Aug 2000       24     5105509                   geoid.eas.slu.edu
+19:33:25 29 Aug 2000        1     4915200   dialup-63.208.41.232.SaintLouis1.Level3.net
+08:48:10 30 Aug 2000        2     4711933     234-A-MADR.adsl.jazztelbone.net
+21:04:01 29 Aug 2000        1     4374528   dialup-63.208.41.72.SaintLouis1.Level3.net
+15:54:20 30 Aug 2000        3     4345007                 shadow.crh.noaa.gov
+21:06:14 25 Aug 2000        1     4203965               pppcisco1-103.slu.edu
+18:30:02 25 Aug 2000        1     4203965               pppcisco2-158.slu.edu
+10:33:06 25 Aug 2000        2     4116123                 selman.geo.utep.edu
+18:09:53 29 Aug 2000        3     4066833                   pppsv2-38.slu.edu
+18:42:30 29 Aug 2000        1     3866624                   pppsv1-17.slu.edu
+19:25:50 29 Aug 2000        2     3524752                AC91CF6C.ipt.aol.com
+15:22:23 28 Aug 2000       15     2489897                 helioid.eas.slu.edu
+23:23:37 12 Aug 2000      443     2188259                   pppsv1-11.slu.edu
+17:36:08 31 Aug 2000       11     2095692                    thor.eas.slu.edu
+06:49:52 19 Aug 2000        5     1919136                       202.9.184.211
+09:57:26 31 Aug 2000        1     1790976                AC981578.ipt.aol.com
+05:13:20 30 Aug 2000        2     1754969          CONRAD.Uni-Geophys.gwdg.de
+08:58:12 14 Aug 2000        2     1754969            saw01.seismo.nrcan.gc.ca
+19:49:25 27 Aug 2000        1     1733396                        147.46.19.17
+09:41:42 18 Aug 2000        1     1733396           lgit2.obs.ujf-grenoble.fr
+04:39:32 23 Aug 2000        2     1720128                tharsis.u-strasbg.fr
+00:58:38 23 Aug 2000       13     1702499                       193.231.5.201
+03:08:44 23 Aug 2000       25     1618563                 shillong.meg.nic.in
+17:57:44 30 Aug 2000        1     1572864   dialup-63.208.47.135.SaintLouis1.Level3.net
+07:06:26 21 Aug 2000        4     1364346             einstein.irrs.mi.cnr.it
+20:35:15 24 Aug 2000       10     1195553   ppp-207-193-21-43.stlsmo.swbell.net
+04:20:26 19 Aug 2000        5     1133186                        202.9.184.81
+08:42:14 25 Aug 2000       41     1007727                AC998A85.ipt.aol.com
+17:07:11 24 Aug 2000        5      930297               calaveras.eas.slu.edu
+
+Return to Index
+
+Complete archive section statistics
+
+Last Accessed        Accesses       Bytes   Archive Section
+
+14:24:52 30 Aug 2000      607    23429251    gif graphic files
+17:18:21 31 Aug 2000       33      308708    html files
+16:45:30 31 Aug 2000        8      615019    jpg graphic files
+15:00:44 31 Aug 2000      698    92433288   /eas/
+21:12:55 31 Aug 2000      736   213225764   /ftp/
+23:22:09 12 Aug 2000      437     2036253   /net/
+10:14:02 25 Aug 2000        1       49760   /usr/
+17:18:21 31 Aug 2000       42      387455   /www/
+
+Return to Index
+
+Created using FTPWebLog 1.0.2. 
+

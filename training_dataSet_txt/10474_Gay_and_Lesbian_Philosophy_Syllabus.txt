@@ -1,0 +1,316 @@
+
+
+
+
+
+Gay and Lesbian Philosophy Syllabus
+
+
+          NS_ActualOpen=window.open;
+
+          function NS_NullWindow(){this.window;}
+
+          function NS_NewOpen(url,nam,atr){return(new NS_NullWindow());}
+
+          window.open=NS_NewOpen;
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Philosophy 407
+
+Gay & Lesbian Philosophy
+
+Reading Assignments
+Revised 1/23/02
+
+
+
+
+
+
+
+1. Week of January 28: Sexualities
+and Representations
+Optional Reading: 
+For a basic introduction to gay and lesbian
+life, see Richard Mohr, Gays/Justice: A Study of Ethics, Society, and
+Law (New York: Columbia, 1988), Part 1 (pp. 22-45).
+Read:
+Richard Dyer, The Matter of Images: Essays
+on Representations (London: Routledge, 1993), chapters 1-3 (pp. 1-18).
+**Samuel R. Delany, "Coming/Out," in Patrick
+Merla, ed., Boys Like Us: Gay Writers Tell Their Coming Out Stories
+(New York: Avon Books, 1996).
+Further reading (completely
+optional) for Week 1
+2. Week of February 4:  
+The Pre-Stonewall Era; Introduction  to Social Constructionism
+Tuesday, February 5: Class will view
+the film
+Before Stonewall in Room 4206 Hornbake (Non-Print Media
+Services). Note that this film runs longer
+(87 minutes) than the standard 75 minute class and will be shown in its
+entirety starting promptly at 3:30 PM. Students are expected to make
+arrangements to stay to the end, approximately 5 PM, if at all possible.
+However, if that proves impossible, you may leave early but are required
+to watch the continuation of the film on your own within this week.
+You can watch it at Hornbake (HQ76.8 U5B42) at your convenience.
+Read:
+George Chauncey, Gay New York: Gender,
+Urban Culture, and the Making of the Male Gay World 1890-1940 (New
+York: Basic Books, 1994) - selections: "Introduction" (pp. 1-29), Ch. 4
+[social construction] (pp. 99-127), Ch. 5 (pp. 131-150), pp. 152-163, 168-173,
+179-180, 195-205, Chapter 8 (pp. 207-226), pp. 227-228, 237-267.
+*Edward Stein, "Essentialism and Constructionism
+About Sexual Orientation" (in David L. Hull and Michael Ruse, eds. The
+Philosophy of Biology, Oxford: Oxford University Press, 1998), pp.
+427-442.
+Recommended Films: The Naked Civil Servant,
+Last Call at Maude's
+Further reading for
+Week 2
+3. Week of February 11: The Pre-Stonewall
+Era: Lesbians; Essentialism vs. Social Constructionism
+Read:
+Elizabeth Lapovsky Kennedy & Madeline
+D. Davis, Boots of Leather, Slippers of Gold: The History of a Lesbian
+Community, Chs. 1-4. (1-150)
+View required film outside of class:
+The
+Celluloid Closet (PN 1995.9 H55C4 1986).
+This film will be on the midterm.
+Further reading for
+Week 3
+4. Week of February 18: Gay Sensibility I:
+Wilde vs. Gide
+Read:
+Jonathan Dollimore, Sexual Dissidence
+(New York : Oxford University Press, 1991), Chapters 1-3
+View required film by today or tomorrow:
+The
+Gang's All Here (PN 1997.G27 1997). This
+film will be  on the midterm.
+Suggested Films: Edward II, Sebastian
+(both by Derek Jarman), My Own Private Idaho
+Further reading for
+Week 4
+5. Week of February 25: Gay Sensibility II: Camp
+& Style
+Read:
+*Susan Sontag, "Notes on Camp," pp. 275-292
+in her Against Interpretation (New York: Anchor, 1964)
+George Chauncey, Gay New York: Gender,
+Urban Culture, and the Making of the Male Gay World 1890-1940 (New
+York: Basic Books, 1994), ch. 10 (pp. 271-299.
+*Eric Garber, "A Spectacle in Color: The
+Lesbian and Gay Subculture of Jazz Age Harlem," pp. 318-331 in Martin Duberman,
+Martha Vicinus, and George Chauncey, Jr. (eds.) Hidden From History:
+Reclaiming the Gay & Lesbian Past (New York: New American Library,
+1989).
+Richard Dyer, The Matter of Images: Essays
+on Representations (London: Routledge, 1993), Ch. 4 (pp. 19-51).
+Further reading for
+Week 5
+Films exemplifying camp:
+
+
+
+The Gang's All Here (Busbey Berkeley, Carmen
+Miranda, Edward Everett Horton)
+
+Gold-Diggers of 1933 (Busby Berkeley, Dick Powell)
+
+Gold-Diggers of 1935 (Busby Berkeley, Dick Powell)
+
+Dames (Busby Berkeley, Dick Powell)
+
+Babes on Broadway (Busby Berkeley, Judy Garland,
+Mickey Rooney)
+
+Babes in Arms (Busby Berkeley, Judy Garland,
+Mickey Rooney)
+
+Springtime in the Rockies (Carmen Miranda)
+
+Flying Down to Rio (Dolores Del Rio, Fred Astaire,
+Ginger Rogers, Eric Blore)
+
+Shall We Dance (Fred Astaire, Ginger Rogers,
+Edward Everett Horton, Eric Blore)
+
+Top Hat (Fred Astaire, Ginger Rogers, Edward
+Everett Horton, Eric Blore)
+
+Vegas in Space (Drag sci-fi)
+
+
+6. Week of March 4: Gay Liberation: Stonewall
+and Its Aftermath
+Read:
+George Chauncey, Gay New York: Gender,
+Urban Culture, and the making of the Male Gay World 1890-1940 (New
+York: Basic Books, 1994), Ch. 12, "Epilogue" (pp. 331-361)
+Spend some time looking at the website of Stonewall
+and Beyond, an exhibit at the Columbia University Libraries; pay
+particular attention to cases one and two.
+Recommended Reading:
+*Richard Dyer, Only Entertainment
+(New York: Routledge, 1992), Chapter 14 "Getting Over the Rainbow: Identity
+and Pleasure in Gay Cultural Politics" (pp. 159-172)
+Suggested Videos: The Killing of Sister
+George, The Fox, Fried Green Tomatoes
+Further reading for
+Week 6
+7. Week of March 11: Gay Liberation: Taking
+on Religion & Psychiatry
+Read:
+*Frederick Suppe, "Medical and Psychiatric
+Perspectives on Human Sexuality," pp. 17-37 in E. Shelp (ed.), Sexuality
+and Medicine, Vol. 1 (Dordrecht: D. Reidel, 1987).
+*Eve Kosofsky Sedgwick, "How to Bring Up
+Your Kids Gay," pp. 69-81 in Michael Warner (ed.), Fear of a Queer Planet:
+Queer Politics and Social Theory (Minneapolis: University of Minnesota
+Press, 1993).
+Andrew Sullivan, ed., Same-Sex Marriage:
+Pro and Con, pp. 7-21, 46-77.
+Listen to this radio documentary by Alix Spiegel
+and This American Life: Click here,
+then click on "02" under "Episodes by Year" on the left of the page, then
+scroll down to January 18 ("81 Words"). You need Real Audio to listen.
+Recommended Reading:
+*Jonathan Dollimore, Sexual Dissidence  
+(New York: Oxford University Press, 1991);  Chs. 16-17 (pp. 233-275);
+strongly recommended  as background: Chapters 8-9 (pp. 103-147)
+Suggested Videos: The Boys in the Band;
+Changing Our Minds: The Story of Dr. Evelyn Hooker
+Further reading for
+Week 7
+8. Week of March 18: Gay Liberation: Sexual
+Liberation, Gender Liberation
+Read:
+*Michael Bronski, Culture Clash: The
+Making of Gay Sensibility , Pt. III (pp. 189-214).
+Elizabeth Lapovsky Kennedy & Madeline
+D. Davis, Boots of Leather, Slippers of Gold: The History of a Lesbian
+Community, Ch. 5-6. (pp. 151-230).
+Bowers v. Hardwick, 478 U.S. 186
+(1986). Read all the opinions: the opinion of the Court, the concurring
+opinions, and the dissenting opinions. Search for the full text online
+at this  Northwestern
+University site (which includes a link to a  Real
+Audio recording of the oral arguments in the case).
+Radicalesbian
+Manifesto
+Suggested Videos: Cruising, Urinal, Tasxi
+zum Klo, Claire of the Moon, Desert Hearts, Go Fish, and
+The Adventures
+of Priscilla, Queen of the Desert
+Further reading for
+Week 8
+9. Week of April 1: AIDS: History; the Transformation
+of Society
+Read:
+*David Wojnarowicz, Close to the Knives:
+A Memoir of Disintegration (News York: Vintage, 1991), pp. 84-137 ("Living
+Close to the Knives" and "Postcards from America")
+Suggested Videos: Blue (Derek Jarman),
+Zero
+Patience, Longtime Companion, Parting Glances, Well Sexy Women
+Further reading for
+Week 9
+10. Week of April 8: AIDS: Sex and Ethics
+*Eric Rofes, Reviving the Tribe: Regenerating
+Gay Men's Sexuality and Culture in the Ongoing Epidemic (New York):
+Harrington Park Press, 1996), Chapters 4-6, pp. 97-190.
+11. Week of April 15: Same-Sex Marriage and
+Queer Families
+Elizabeth Lapovsky Kennedy & Madeline
+D. Davis, Boots of Leather, Slippers of Gold: The History of a Lesbian
+Community, ch. 7 (pp. 231-277).
+Andrew Sullivan, ed., Same-Sex Marriage:
+Pro and Con, pp. 118-140, 146-168, 196-199, 239-294, 323-326. And whatever
+else catches your eye.
+12. Week of April 22: Ethnic and Racial Minority
+Gays & Lesbians
+Read:
+*Essix Hemphill, Brother to Brother         
+(Boston: Alyson, 1991):
+
+
+
+Charles I Nero, "Toward a Black Gay Aesthetic: Signifying
+in Contemporary Black Gay Culture," pp. 229-252.
+
+
+
+
+
+Charles Henry Fuller, "The Jazz Singer," pp. 3-6.
+
+
+
+
+
+Guy-Mark Foster, "The Book of Luke," pp. 23-27.
+
+
+**Craig Seymour, "Response to Question 21
+from the Fall 1995 final exam for this course."
+*Randy Burns, "Preface," pp. 1-5 in Will
+Roscoe, Living the Spirit: A Gay American Indian Anthology (New
+York: St. Martions, 1988).
+*Russell Leong, "Introduction: Home Bodies
+and the Body Politic," pp. 1-20 in Russell DeLeong, Asian American Sexualities:
+Dimensions of the Gay & Lesbian Experience (New York: Routledge,
+1996)
+More readings to be announced.
+Suggested Films: Looking for Langston,
+The Color Purple, Okoge, Ernesto, Strawberries and Chocolate, Queen of
+the Night (La Reina de la Noche)
+Further reading for
+Week 12
+13. Week of April 29: Ethnic and Racial Minority
+Gays &  Lesbians (continued)
+Read:
+*Thomas Almaguer, "Chicano Men: A Cartography
+of Homosexual Identity and Behavior" pp. 255-273 in Henry Abelove, Maichele
+Aina Barale, and David M. Halperin (eds.), The Lesbian and Gay Studies
+Reader (New York: Routledge, 1993).
+*Richard Rodriguez, Days of Obligation:
+An Argument with My Mexican Father (New York: Penguin Books, 1992),
+Chapter 2.
+Recommended reading:
+Richard Dyer, The Matter of Images: Essays
+on Representations (London: Routledge, 1993), ch. 13 (pp. 141-163)
+More readings to be announced.
+14. Week of May 6: The Epistemology of Homosexuality
+Read:
+*Eve Kosofsky Sedgwick, The Epistemology
+of the Closet (Berkeley: University of California Press, 1990), Chapter
+1 (pp. 67-90).
+Recommended reading:
+Elizabeth Lapovsky Kennedy & Madeline
+D. Davis, Boots of Leather, Slippers of Gold: The History of a Lesbian
+Community, Chs 9-10.
+Further reading for
+Week 14
+15. Week of May 13: Conclusions
+May 22: Final Exam Due
+ 
+
+
+Return to main menu
+ window.open=NS_ActualOpen; 
+
+

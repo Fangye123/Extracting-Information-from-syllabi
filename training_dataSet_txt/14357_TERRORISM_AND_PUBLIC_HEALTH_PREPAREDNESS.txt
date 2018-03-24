@@ -1,0 +1,576 @@
+
+
+
+
+
+
+TERRORISM AND PUBLIC HEALTH PREPAREDNESS
+
+
+
+
+
+
+
+
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Comic Sans MS";
+	panose-1:3 15 7 2 3 3 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:script;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman"; margin-left:0in; margin-right:0in; margin-top:0in}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	tab-stops:171.0pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:0pt;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:14.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:normal;
+	text-decoration:underline;
+	text-underline:single;}
+h3
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-indent:.5in;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:14.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:normal;}
+h4
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:4;
+	font-size:16.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";}
+h5
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:5;
+	font-size:12.0pt;
+	font-family:Arial;
+	font-weight:normal;
+	font-style:italic;}
+h6
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:6;
+	font-size:12.0pt;
+	font-family:Arial;
+	font-weight:normal;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:14.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:.7in .7in .7in .7in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:78451225;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-191840818 -488846064 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:-1.25in;
+	mso-level-number-position:left;
+	margin-left:-1.25in;
+	text-indent:-.25in;}
+@list l1
+	{mso-list-id:287859945;
+	mso-list-type:hybrid;
+	mso-list-template-ids:208456082 -1 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l1:level1
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l2
+	{mso-list-id:304940028;
+	mso-list-type:hybrid;
+	mso-list-template-ids:589986210 -1566928214 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l2:level1
+	{mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l3
+	{mso-list-id:434600497;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1925470236 -1 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l3:level1
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l3:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l4
+	{mso-list-id:476849236;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-9436268 -946302048 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l4:level1
+	{mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l5
+	{mso-list-id:510412551;
+	mso-list-type:hybrid;
+	mso-list-template-ids:607161074 398492506 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l5:level1
+	{mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l6
+	{mso-list-id:931282228;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-2125832582 398492506 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l6:level1
+	{mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l7
+	{mso-list-id:1021471620;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-423868416 398492506 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l7:level1
+	{mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l8
+	{mso-list-id:1030764836;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1080423940 2005319022 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l8:level1
+	{mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l9
+	{mso-list-id:1049954328;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-2024616110 1678541670 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l9:level1
+	{mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l10
+	{mso-list-id:1129401410;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1971646062 2005319022 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l10:level1
+	{mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l10:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:0in;
+	mso-level-number-position:left;
+	margin-left:0in;
+	text-indent:-.25in;}
+@list l11
+	{mso-list-id:1184712800;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1894246218 398492506 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l11:level1
+	{mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l12
+	{mso-list-id:1193877738;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-481521376 67698703 67698711 67698711 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l12:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l12:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%2\)";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.25in;}
+@list l12:level3
+	{mso-level-number-format:alpha-lower;
+	mso-level-text:"%3\)";
+	mso-level-tab-stop:117.0pt;
+	mso-level-number-position:left;
+	margin-left:117.0pt;
+	text-indent:-.25in;}
+@list l13
+	{mso-list-id:1224026448;
+	mso-list-type:hybrid;
+	mso-list-template-ids:540418276 -1753859830 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l13:level1
+	{mso-level-start-at:2;
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l14
+	{mso-list-id:1263300793;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1324182640 742455102 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l14:level1
+	{mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l15
+	{mso-list-id:1265916967;
+	mso-list-type:hybrid;
+	mso-list-template-ids:816848614 -98159512 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l15:level1
+	{mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l15:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l16
+	{mso-list-id:1490637224;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1063618278 398492506 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l16:level1
+	{mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l17
+	{mso-list-id:1500193847;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1956076076 -762662918 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l17:level1
+	{mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l18
+	{mso-list-id:1803889544;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1439350452 -98159512 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l18:level1
+	{mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+@list l19
+	{mso-list-id:2090613666;
+	mso-list-type:hybrid;
+	mso-list-template-ids:64785022 398492506 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l19:level1
+	{mso-level-tab-stop:1.25in;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+
+
+
+
+
+Terrorism and Public Health Preparedness
+PMCH 693, Sec. 801
+ 
+Course Director:                                  James
+Cisek, MD  (acisek1@msn.com)
+Co-Director:                                       Michael Edmond, MD, MPH  (medmond@hsc.vcu.edu)
+
+Teaching Assistant:                           Thomas Frank, MD, MPH  (tgfranck@aol.com)
+ 
+Course website:                      http://views.vcu.edu/commed/bioterror/        
+
+            
+June 3, 2002
+ 
+1.      
+Welcome                                        Herman Ellis, MD, MPH, 
+Richmond City Public Health Director
+ 
+2.      
+Course Overview                  James Cisek, MD, Michael
+Edmond, MD, MPH
+ 
+3.      
+Overview of Disaster Preparedness / The Disaster Response
+System in Virginia
+Walter
+Green, III, PhD, Emergency Services Management, 
+University of 
+Richmond
+ 
+4.      
+History of Bioterrorism                      Thomas Franck, MD, MPH
+TF PowerPoint slides.
+ 
+June 10, 2002
+ 
+1.      
+Secure Virginia Initiative       John O'Bannon, MD,
+Virginia House of Delegates
+ 
+2.      
+Public Health and Clinical Aspects of Bacterial Agents           Michael Edmond, MD, MPH
+ 
+June 17, 2002
+ 
+1.      
+Legal Aspects of Bioterrorism                       Leonard Vance, JD, PhD
+ 
+June 24,2002
+ 
+1.      
+Public Health and Clinical Aspects of Viral Agents: 
+a.      
+Small Pox                                             Richard Wenzel, MD, M. Sc.
+
+
+Smallpox column in RTD
+b.      
+Viral Hemorrhagic Fevers                        Michael Edmond, MD, MPH
+ 
+2.      
+Public Health and Clinical Aspects of Crush Injuries, Blunt
+Trauma, and Thermal Burns
+Rao Ivatury, MD
+     Terrorism Ppt Slide Show
+
+July 1, 2002
+ 
+1.      
+Surveillance and VDH Response to Terrorism             Dianne Woolard,
+PhD
+ 
+2.      
+Interface between local, state, and federal government            William Nelson, MD, MPH 
+ 
+3.      
+Psychological Aspects of Terrorism
+ 
+July 8,2002
+ 
+1.      
+Midterm Examination        [Auditing
+students are exempt from exam]
+ 
+2.      
+Public Health and Clinical Aspects of Biological Toxins: Ricin, Botulism, Fungal Toxins
+James
+Cisek, MD
+ 
+July 15, 2002
+ 
+1.      
+Laboratory Diagnosis of Biological Agents: Culture, PCR, Immunohistochemistry, ELISA
+Dee Pettit, Division of Consolidated Laboratory Services
+ 
+2.      
+Laboratory Diagnosis of Chemical Agents: 
+Tim Crowley, Division of Consolidated Laboratory Services
+ 
+3.      
+Site Visit of DCLS
+James Pearson / Tim Crowley / Dee Pettit, Division of Consolidated Laboratory
+Services
+ 
+July 22, 2002
+ 
+Chemical
+Terrorism:
+
+
+1.       
+    
+
+Public Health and Clinical Aspects of Nerve Agents: Military 
+    Agents (Soman / Sarin 
+    / VX), Organophosphates, 
+ Carbamates                  James Cisek, MD
+  
+ Dr 
+Cisek's Ppt Slides
+   
+2.      
+Prehospital Detection of Chemical
+Agents      Leonard Vance, JD, PhD
+ 
+July 29, 2002
+ 
+1.      
+Public Health and Clinical Aspects of Radiation Related
+Terrorism       Dean Broga,
+PhD
+            
+August 5, 2002
+ 
+1.      
+Public Health and Clinical Aspects of Chemical Agents
+Continued: Blistering Agents, Blood Agents, Choking Agents      James Cisek, MD
+ 
+2.      
+Prehospital and Hospital Cutaneous
+Decontamination 
+Steven DeLisi, Virginia Department of Emergency
+Management
+ 
+August 12,
+2002                        Final
+Examination       [Auditing students are exempt from exam]
+ 
+Auditing
+students must attend at least nine class sessions to receive certificate of
+completion.
+ 
+References: 
+
+Public Health - Relation to Security:
+
+
+
+
+http://www.homelandsecurity.org/journal/Articles/displayarticle.asp?article=66
+Public Health 
+- Why not to include in the Homeland security office.
+
+
+
+
+http://www.homelandsecurity.org/journal/Articles/displayarticle.asp?article=65
+
+ 
+
+Dr.
+Michael Edmond:
+
+
+Presentation on Anthrax, Plague and Tularemia
+
+
+Presentation on Viral hemorrhagic Fever
+ACIP 
+Recommendations on Smallpox Vaccination.
+ 
+Dr. Richard 
+Wenzel:
+
+Smallpox Issues
+ 
+JAMA
+series on bioterrorism (free, full-text online) 
+http://jama.ama-assn.org/
+ 
+Online
+medical dictionary 
+http://www.medic8.com/MedicalDictionary
+ 
+Online
+drug information
+http://www.drugs.com
+ 
+
+
+
+Click here: kaisernetwork.org:healthcast 
+This is a series of web casts on Public Health Law that would complement the 
+lectures last Monday.  I would especially recommend the last one:  "The Future 
+of Public Health Preparedness."
+
+
+National Academy 
+of Medicine - First Responder 
+Bioterror Information Site 
+
+ 
+

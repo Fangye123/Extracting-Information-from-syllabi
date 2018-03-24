@@ -1,0 +1,1154 @@
+
+
+EDU 247 - Syllabus - Science for Elementary Educators II
+
+
+
+
+<!--
+function MM_displayStatusMsg(msgStr) { //v1.0
+  status=msgStr;
+  document.MM_returnValue = true;
+}
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v3.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    if ((nbArr = document[grpName]) != null)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = args[i+1];
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+
+
+
+a.white:hover {color: #FFFFCC; text-decoration: underline}
+a.white:link {color: #FFFFFF; text-decoration: none}
+-->
+
+
+
+
+
+
+Gustavus Adolphus College - Spring 2002
+
+
+
+
+
+ 
+
+
+
+
+
+Teaching as Principled Practice
+
+
+
+EDU 247 : Science for Elementary Educators 
+      II
+
+
+The course is worth 1 credit.
+
+
+
+
+
+
+
+
+Choose a topic
+- - - - - - - - - - - - - - -
+Location & time of classes
+Schedule EDU 247
+Required texts
+Description
+Objectives
+Attendance
+Grading
+Standards
+- National Science Standards
+- Mn Graduation Standards
+
+
+
+
+
+
+
+
+Instructors: 
+
+
+
+
+
+Judy Biederman : 
+ 
+Nobel 221C 
+
+
+Phone: 
+ 
+ 933-6319 
+
+
+Email: 
+ 
+jbied@gac.edu
+
+
+
+Office 
+                  Hours: 
+ 
+Monday and Thursday: 9:00 to 9:50 am
+
+
+
+
+
+
+
+Michele J. Koomen: 
+ 
+Education Department, Old Main Room # 204-E 
+                  
+
+
+Phone: 
+ 
+ 933-6057 
+
+
+Fax: 
+ 
+933-6020
+
+
+Email: 
+ 
+mkoomen@gac.edu
+
+
+Web Site: 
+ 
+http://www.gac.edu/~mkoomen/
+
+
+
+Office 
+                  Hours: 
+ 
+Monday 12:30 - 1:30 pm and Thursday 12:30 
+                  - 1:30 pm.
+                  I am available at other times by appointment. 
+
+
+
+
+
+
+
+ 
+
+
+Location and Time 
+            of classes
+
+
+ 
+Lectures: 
+            Monday, Tuesday and Thursday mornings, 8:00-8:50 in Nobel Hall 105.  
+            
+            Laboratory:  
+            Section 1 meets Friday 10:30-12:20, Nobel Hall Room 322  
+            Section 2 meets Friday 1:30-3:20, Nobel Hall Room 322 
+
+
+Required texts/materials 
+               
+
+
+ 
+
+
+Integrated Science, Bill Tillery, et.al. 
+                
+Teaching the Fun of Science, Janice 
+                Van Cleave 
+Course packet 
+ Safety goggles 
+Colored pencils 
+
+* All of the items above are available at the Book 
+              Mark. 
+The web site for the course contains syllabus 
+              and schedule.
+
+
+
+
+
+ 
+
+
+
+
+
+Description
+
+
+ 
+
+EDU 247, Science for Elementary Educators II 
+              is a course designed for future K-6 classroom teachers. The focus 
+              of this course is on the nature of science, fundamental concepts 
+              and principles of earth, space and environmental science, physics, 
+              and safe environment standards required for teacher licensure in 
+              Minnesota. 
+The course will include classroom lectures discussions, 
+              laboratory work, experiences out of doors, individual and group 
+              projects.
+  
+          
+
+
+ Objectives
+
+
+ 
+
+
+To develop a framework of science knowledge 
+                in the natural sciences. Content knowledge in life, earth, physical, 
+                and environmental science will
+                be included within an interdisciplinary context.
+ To learn about the process of science.
+ To discover the nature of science. 
+To appreciate the complexity and diversity of 
+                living and non-living systems.
+To develop inquiry (curiosity) skills.
+To develop scientific literacy: skills that 
+                help you learn on your own, by critical thinking and making connections. 
+                
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Course Requirements
+
+
+ 
+
+
+
+
+
+Attendance
+
+
+ 
+Please be in the classroom or laboratory prepared 
+            to start at the scheduled time. It is expected and necessary for you 
+            to attend class. Attendance and punctuality is important in the education 
+            profession. Now is a good time to be sure the habit is ingrained. 
+            Attendance will be taken in the laboratory. If for any reason you 
+            are unable to attend, please notify me in advance if possible. Assistance 
+            for making up work will be available for excused or unavoidable absences 
+            only.
+
+
+ 
+NOTE: No food or drink will be allowed in the laboratory.
+
+
+
+ 
+
+
+Grading EDU 247 - Spring 2002
+
+
+ 
+From February 11 to April 19 you will be studying 
+            Earth, Space, and Environmental science with Michele Koomen. Following 
+            that until the end of the semester you will be studying physics with 
+            Judy Biederman. Your grade for the semester will be determined by 
+            the total number of points that you receive for the entire semester, 
+            following the standard system as outlined by the college. You can 
+            always calculate your current percent by dividing the number of points 
+            you have by the total number of points possible to that date.
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+Space, Earth and 
+                        Environmental Science Points
+
+
+ ACTIVITY
+ POINT 
+                         VALUE
+ DUE 
+                        DATE
+
+
+ Exam 1
+ 60
+ March 
+                        7
+
+
+ Exam 2
+ 60
+ April 
+                        19
+
+
+ Article Review from 
+                        Popular Press
+ 10
+ February 
+                        25
+
+
+ Biography of Scientist
+ 10
+ March 
+                        13
+
+
+ Non fiction Literature 
+                        Resources
+ 10
+ April 
+                        12
+
+
+ Rock Collections
+ 10
+ March 
+                        22
+
+
+ Environmental Topic 
+                        Research
+ 25
+ April 
+                        22
+
+
+ Moon Phases and Report 
+                        
+ 10
+ March 
+                        28
+
+
+ Weather Data, Interpretation 
+                        of Weather Maps
+ 10
+ April 
+                        8
+
+
+ Participation, Attendance, 
+                        Habits of Scientist/Student
+ 20
+ 
+
+
+ 
+ 
+ 
+
+
+ Assignments Homework 
+                        and Labs
+                         (Complete or Noncomplete)
+ Total 
+                        25  points
+ Due 
+                        Dates to be  announced 
+
+
+ Plate Tectonics
+ 
+ 
+
+
+ Elliptical Orbits
+ 
+ 
+
+
+ A Voyage Through Time
+ 
+ 
+
+
+ Lab 3 
+ 
+ 
+
+
+ Lab 4
+ 
+ 
+
+
+ Lab 5
+ 
+ 
+
+
+ Lab 6
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+ TOTAL POINTS POSSIBLE
+ 250
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+Assignments turned in late will be penalized 10% 
+              per day, including weekends. 
+Earth, Space, and Environmental Science exams will 
+              consist of matching, multiple choice, short answer and essay questions. 
+              Questions will cover any material up to the day of the exam unless 
+              otherwise indicated, and will be taken from films, reading material, 
+              lab material, classroom discussions, and demonstrations. 
+This schedule is subject to change if an activity 
+              is not done, or if additional activities are added. Website will 
+              be adjusted accordingly. You will always be informed of any changes 
+              and are strongly encouraged to ask if you do not understand or if 
+              the assignment is unclear.
+ATTENDANCE:  Daily attendance will 
+              be taken in lecture and it is expected and necessary for you to 
+              attend class. Attendance will be taken in the laboratory. If for 
+              any reason you are unable to attend, please notify me in advance.
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Standards
+
+
+ 
+
+The content development of this course fulfills 
+              the requirements set forth by the:
+
+
+National Science Education Standards
+Minnesota Graduation Standards.
+
+The standards that will be addressed in the course 
+              are:
+
+
+
+
+ 
+National 
+            Science Standards
+
+
+
+
+ 
+
+Standards for Professional Development for Teachers 
+              of Science
+PROFESSIONAL DEVELOPMENT STANDARD A:
+
+              Professional development for teachers of science requires learning 
+              essential science content through the perspectives and methods of 
+              inquiry. Science learning experiences for teachers must involve 
+              teachers in actively investigating phenomena that can be studied 
+              scientifically, interpreting results, and making sense of findings 
+              consistent with currently accepted scientific understanding. 
+
+Address issues, events, problems, or topics 
+                significant in science and of interest to participants. 
+Introduce teachers to scientific literature, 
+                media, and technological resources that expand their science knowledge 
+                and their ability to access further knowledge.
+Build on the teacher's current science understanding, 
+                ability, and attitudes.
+Incorporate ongoing reflection on the process 
+                and outcomes of understanding science through inquiry.
+Encourage and support teachers in efforts to 
+                collaborate.
+
+PROFESSIONAL DEVELOPMENT STANDARD B:
+Professional development for teachers of science 
+              requires integrating knowledge of science, learning, pedagogy, and 
+              students; it also requires applying that knowledge to science teaching. 
+              Learning experiences for teachers of science must 
+
+ Connect and integrate all pertinent aspects 
+                of science and science education.
+Occur in a variety of places where effective 
+                science teaching can be illustrated and modeled, permitting teachers 
+                to struggle with real situations and expand their knowledge and 
+                skills in appropriate contexts.
+Address teachers' needs as learners and build 
+                on their current knowledge of science content, teaching, and learning.
+Use inquiry, reflection, interpretation of research, 
+                modeling, and guided practice to build understanding and skill 
+                in science teaching.
+
+
+
+
+ 
+ SCIENCE CONTENT STANDARDS
+
+
+
+
+ 
+
+Science as Inquiry Standard
+In the vision presented by the Standards, inquiry 
+              is a step beyond "science as a process," in which students 
+              learn skills, such as observation, inference, and experimentation. 
+              The new vision includes the "processes of science" and 
+              requires that students combine processes and scientific knowledge 
+              as they use scientific reasoning and critical thinking to develop 
+              their understanding of science. Engaging students in inquiry helps 
+              students develop
+
+Understanding of scientific concepts.
+An appreciation of "how we know" what 
+                we know in science.
+Understanding of the nature of science.
+Skills necessary to become independent inquirers 
+                about the natural world.
+The dispositions to use the skills, abilities, 
+                and attitudes associated with science.
+
+
+
+
+ 
+PHYSICAL SCIENCE, LIFE SCIENCE, AND EARTH AND SPACE 
+            SCIENCE STANDARDS
+
+
+
+
+ 
+
+The standards for physical science, life science, 
+              and earth and space science describe the subject matter of science 
+              using three widely accepted divisions of the domain of science. 
+              Science subject matter focuses on the science facts, concepts, principle 
+              theories, and models that are important for all students to know, 
+              understand, and use. Tables 
+              6.2, 6.3, and 6.4 are the standards for physical science, life 
+              science, and earth and space science, respectively.
+
+
+
+ 
+
+
+
+
+
+
+Table 
+                        6.2  Physical 
+                        Science Standards
+
+
+Levels 
+                        K - 4
+Levels 
+                        5 - 8
+Levels 
+                        9 -12
+
+
+Properties 
+                        of objects and Materials
+Properties 
+                        and changes of properties in matter
+Structure 
+                        of atoms
+
+
+Position 
+                        and motion of objects
+Motions 
+                        and forces
+Structure 
+                        and properties of matter
+
+
+Light, 
+                        heat, electricity and magnetism
+Transfer 
+                        of energy
+ 
+                        Chemical reactions
+
+
+ 
+ 
+Motion 
+                        and forces
+
+
+ 
+ 
+Conservation 
+                        of energy and increase in disorder
+
+
+ 
+ 
+Interactions 
+                        of energy and matter
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Table 
+                        6.3  Life 
+                        Science Standards
+
+
+Levels 
+                        K - 4
+Levels 
+                        5 - 8
+Levels 
+                        9 -12
+
+
+Characteristics 
+                        of organisms
+Structure 
+                        and function in living systems
+The 
+                        cell
+
+
+Life cycles 
+                        of organisms
+Reproduction 
+                        and heredity
+Molecular 
+                        basis of heredity
+
+
+Organisms 
+                        and environments
+Regulation 
+                        and behavior
+ 
+                        Biological evolution 
+
+
+ 
+Populations 
+                        and ecosystems
+Interdependence 
+                        of organisms
+
+
+
+ 
+
+Diversity 
+                        and adaptions of organisms
+Matter, 
+                        energy and organization in living systems
+
+
+ 
+ 
+Behavior 
+                        of organisms
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Table 
+                        6.4  Earth 
+                        and Space Science Standards
+
+
+Levels 
+                        K - 4
+Levels 5 - 8
+Levels 
+                        9 -12
+
+
+Properties 
+                        of earth materials
+Structure of the earth system
+Energy 
+                        in the earth system
+
+
+Objects 
+                        in the sky
+Earth's history
+Geochemical 
+                        cycles
+
+
+Changes 
+                        in earth and sky
+Earth in the 
+                        solar system
+ 
+                        Origin and evolution of the earth system
+
+
+ 
+ 
+Origin 
+                        and evolution of the universe
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+Minnesota Graduation Standards:
+
+
+
+
+ 
+
+Scientific Concepts and Applications : 
+Learning Area : Inquiry 
+              and Research
+              Education Level : Primary
+              Content Standard : Data 
+              Categorization, Classification, and Recording
+
+
+
+A student shall demonstrate 
+                  the ability to categorize, classify, and record information 
+                  by: 
+
+
+ 
+ 
+
+
+A -
+gathering information from media sources, 
+                  direct observation, interviews, and experiment or investigation 
+                  
+
+
+B -
+recording the gathered information;
+
+
+C -
+displaying the gathered information using 
+                  the appropriate format;
+
+
+D 
+                  - 
+explaining the answer to the question. to 
+                  answer a question;
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+ Learning Area : Inquiry and Research
+            Education Level : Intermediate
+            Content Standard : Media, 
+            Observation, and Investigation
+
+
+
+
+A student shall demonstrate 
+                  the ability to answer a question by gathering information from:
+
+
+ 
+ 
+
+
+A -
+direct observations or experiments with a 
+                  variable, including framing a question; collecting, recording, 
+                  and displaying data; identifying patterns; comparing individual 
+                  findings to large group findings; and identifying areas for 
+                  further investigation; 
+
+
+B -
+media sources, including selecting a topic 
+                  and framing a question; accessing information from any or all 
+                  of electronic media, print, interviews, and other sources; recording 
+                  and organizing information; and reporting findings in written, 
+                  oral, or visual presentation;
+
+
+C -
+direct observation and interviews, including 
+                  identifying a topic or area for investigation, writing a detailed 
+                  description of the observation, conducting an interview with 
+                  follow-up questions or designing and conducting a survey, recording 
+                  and organizing information, and evaluating the findings to identify 
+                  areas for further
+                  investigation.
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+Scientific Concepts and Applications
+Learning Area : Scientific 
+              Concepts and Applications
+              Education Level : Primary
+              Content Standard : Direct 
+              Science Experience
+
+
+A student shall demonstrate 
+                  knowledge of basic science concepts of
+                  physical science, life science, and earth and space science 
+                  through direct experience, including understanding of:
+
+
+ 
+ 
+
+
+A -
+concepts related to everyday life through 
+                  characteristic
+                  properties of objects, patterns and how they repeat,
+                  and cycles
+
+
+B -
+how the basic needs of organisms are met;
+
+
+C -
+responses of organisms to changes in the environment;
+
+
+D 
+                  - 
+how the personal use of materials, energy, 
+                  and water impacts the
+                  environment;
+
+
+E 
+                  - 
+the characteristics of objects or phenomena, 
+                  including measuring
+                  changes that occur in objects or phenomena as a result of interaction, 
+                  sorting and classifying objects based on one or two properties, 
+                  displaying information
+                  using graphs, and describing how previously learned concepts 
+                  apply to
+                  new situations.
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+Learning Area : Scientific Concepts and Applications
+              Education Level : Intermediate
+              Content Standard : Living 
+              and Nonliving Systems
+
+
+A student shall demonstrate:
+
+
+ 
+ 
+
+
+A 
+                  - 
+an understanding of:
+
+
+ 
+
+
+
+ 
+ 
+
+
+1 
+                        -
+characteristics of organisms including 
+                        plants, animals, and microorganisms;
+
+
+2 
+                        -
+basic structures and functions of the 
+                        human body;
+
+
+3 
+                        -
+cycles and patterns in living organisms, 
+                        earth systems, and systems;
+
+
+4 -
+how human behavior and technology impact 
+                        the environment;
+
+
+5 -
+characteristics of the physical world.
+
+
+ 
+ 
+
+
+
+
+
+
+
+B 
+                  - 
+the ability to:
+
+
+ 
+
+
+
+ 
+ 
+
+
+1 
+                        -
+measure and classify objects, organisms, 
+                        and materials on the basis of properties and relationships;
+
+
+2 
+                        -
+make systematic observations of objects, 
+                        events, or phenomena by recording data and predicting 
+                        change;
+
+
+3

@@ -1,0 +1,351 @@
+
+ Computer Science II Syllabus 
+
+
+ Course Syllabus             
+
+ 810:059                     
+ Computer Science II :       
+ Object-Oriented Programming 
+ Spring Semester 2002        
+
+
+   [        Basics             |
+             Goals              |
+      Requirements       |
+        Evaluation         |
+          Policies           |
+       Machines           |
+          Tentative Schedule ]
+
+
+
+ Basics 
+
+ Instructor: Eugene Wallingford
+    
+ Office: 327 Wright
+     Phone:  273-5919
+     E-Mail: wallingf@cs.uni.edu
+ WWW:    http://www.cs.uni.edu/~wallingf/
+
+ Click here for my
+         
+            my office hours and schedule
+
+ Resources
+    
+ Required Texts:
+         
+ 
+                 Understanding Object-Oriented Programming with Java,
+              by
+              Tim Budd
+ 
+                 The Java Programming Language,
+              by
+              Ken Arnold and
+              James Gosling
+
+
+ Optional Texts:
+         
+ 
+                 Java in a Nutshell,
+              by 
+                 David Flanagan of
+              O'Reilly Publishing
+
+
+ Electronic resources:
+         
+ The course web page,
+              http://www.cs.uni.edu/~wallingf/teaching/053/
+ The course mailing list,
+              810-059-05@uni.edu
+
+ Note that to send messages to the course mailing list, you must
+         send from the mailing address from which you are subscribed.  By
+         default, that is your acad.uni.edu e-mail address.  If you'd like
+         to be subscribed from some other address, just let me know.
+    
+
+
+
+
+ Course Goals 
+ Your skill as a programmer depends largely on how many ways you can think
+    about problems and solutions.  At the most abstract level, flexibility
+    allows you to be creative.  At a more concrete level, flexibility allows
+    you to learn new kinds of programming languages more effectively.
+    And, at the most concrete level, such flexibility allows you to use
+    individual programming languages more effectively.
+
+ This course aims to help you develop an in-depth understanding of a new
+    way to think about computer programs: as collections of independent
+    objects that collaborate to achieve some goal.  It does so by giving you
+    the opportunity to design, critique, and implement object-oriented
+    solutions in Java.
+
+ By the end of the semester, you should have a solid grasp of the
+    object-oriented approach to software development.  You should:
+    
+ know the basic features of OO techniques,
+     know the vocabulary of object-oriented modeling,
+     be able to analyze a real-world situation in an object-oriented way,
+     be able to design an object-oriented model containing multiple classes
+         and collaborations, and
+     be able to implement such a model in Java using OO programming
+         techniques.
+    
+ Among the more general goals that you should have for the course is to
+    learn both low- and high-level patterns of programming that will make you
+    wonderful, intelligent programmers and designers.
+
+ The course is not a "Java course".  As a side effect, though, you
+    will probably become a reasonable Java programmer.  Likewise, the course
+    is not organized so that you will be become expert 3:00 AM Java hackers,
+    but that may happen anyway, depending on your programming habits.
+
+
+
+ Course Requirements 
+
+ Class sessions -- Our class meetings will consist
+     of a mixture of short lecture, discussion, and in-class exercises.  Nearly
+     all of our lecture and discussion material will go beyond what you read
+     in your textbooks, so attendance is essential.  I expect you to read
+     assigned topics prior to the class session and to participate actively in
+     class.
+
+ Homework -- Over the course of the term, you will
+     complete approximately ten homework assignments.  These assignments will
+     involve applying analysis, design, and implementation techniques learned
+     in class.  Some assignments will involve writing and some will consist of
+     paper exercises, but many will involve programming.
+
+ Exams -- We will have one exam near the middle of
+     the course and a comprehensive exam at the end of the course.
+
+
+
+
+ Course Evaluation 
+ Grades will be determined on the basis of your performance on homework
+    assignments and examinations.  Final grades will be based on the following
+    distribution:
+
+
+
+
+ Item
+        Number
+        Weight
+
+ Homework
+        10-12
+        35%
+
+ Midterm exam
+        1
+        30%
+
+ Final exam
+        1
+        35%
+
+
+
+
+ Grades will be assigned using an absolute scale:
+    
+ 90% or above for an A,
+     80% or above for a B,
+     70% or above for a C,
+     60% or above for a D, and
+     below 60% for an F.
+    
+ This means that there is no curve.
+
+
+
+ Course Policies 
+
+ I try to accommodate student needs whenever possible, but I can only do so
+     if I know about them.  If you ever have to make alternate arrangements for
+     a class session, an assignment, or an examination, please contact me in
+     advance.  The safest way to make such arrangements is by notifying me
+     via e-mail or phone of your circumstances and of how you can be reached.
+
+ My regularly-scheduled office hours are times when I am committed to
+     provide assistance to you.  No matter how busy I may appear when you
+     arrive, the office hours are for you.  You are welcome -- and
+     encouraged -- to make use of that time.   I am also available by
+     appointment at other times if you cannot make an office hour.
+
+ All assignments are due at their assigned date and time.  In order to
+     receive partial credit, always submit your best effort at that time.
+     Late work will not be accepted.
+
+ I encourage you to work together on homework assignments, as a way to
+     help you understand the problems better and to encounter different points
+     of view about possible solutions.  However, unless the assignment
+     explicitly states otherwise, any work you submit must be your own.
+     Discuss ideas, but write your own answers, including all code.  You
+     should acknowledge any collaboration explicitly in the work you submit.
+     Undocumented or unacceptable collaboration is considered a form of
+     academic dishonesty.
+
+ UNI has an established policy of academic integrity.  I will not tolerate
+     plagiarism or any other form of academic dishonesty in this course.  See
+     the UNI catalog for details on the university's policy.
+
+
+
+
+ Computing Environment 
+ We will use computing resources in this course for two purposes: to
+    communicate with one another and to do programming assignments that explore
+    course topics.
+
+ Communication will be done by e-mail and by World Wide Web.  I will post
+    materials for the course to the
+    053 web page,
+    and we will make use of other web-based resources when appropriate.  We
+    also have a class-wide mailing lists,
+    810-059-05@uni.edu, by which we
+    carry on discussion outside the confines of class meetings.  Be sure
+    that you remain current in your use of these resources!  I leave you on
+    your own to choose and use web browsing and e-mail tools on any platform
+    you like.
+
+ You will write your programs in the language
+    Java.
+    Numerous Java resources are available on the web, and Java implementations
+    are available for many platforms, including Unix and Windows.
+
+ My base platform for the course is the CNS Linux system for students.
+    It provides Version 1.2 of the Java Development Kit, a set of tools for
+    compiling and executing Java programs.  I will not require you to use an
+    integrated development environment of any sort.   On chaos, you can enter
+    Java programs using any text editor with which you are comfortable.  Many
+    students find comfort in using the Grasp environment they came to know and
+    love in Computer Science I.  Though I am not a Grasp user, I have collected
+    a number of useful tips on how to use Java within Grasp on the
+    course Java page.
+
+
+
+ Tentative Schedule 
+ The following schedule gives a rough sketch of the topics we will cover and
+    the distinguished dates this semester.  It is tentative and subject to
+    change at any time.  I will announce any substantive changes in class and
+    give you sufficient notice.
+
+
+
+
+
+
+ Week
+        Dates
+        Topics
+ Special Events
+
+
+ 1
+        01/15 - 01/17
+                     Introduction to OO, Java
+                     .
+
+ 2
+        01/22 - 01/24
+                     Introduction to OO, Java
+        MLK Day
+
+ 3
+        01/29 - 01/31
+                     Object-oriented design
+       
+
+ 4
+        02/05 - 02/07
+                     The basics of object-oriented programming
+                     .
+
+ 5
+        02/12 - 02/14
+                     The basics of object-oriented programming
+                     .
+
+ 6
+        02/19 - 02/21
+                     The basics of object-oriented programming
+                     .
+
+ 7
+        02/26 - 02/28
+                     Midterm Exam (Tue)
+        Thursday off
+
+ 8
+        03/05 - 03/07
+                     Inheritance
+                     .
+
+ 9
+        03/12 - 03/14
+                     Inheritance
+                     .
+
+
+ 03/19 - 03/21
+        Spring Break
+              .
+
+ 10
+        03/26 - 03/28
+                     Polymorphism
+                     .
+
+ 11
+        04/02 - 04/04
+                     Polymorphism
+                     .
+
+ 12
+        04/09 - 04/11
+                     OOP Patterns
+                     .
+
+ 13
+        04/16 - 04/18
+                     OOP Patterns
+        Tuesday off
+
+ 14
+        04/23 - 04/25
+                     OOP Patterns
+                     .
+
+ 15
+        04/30 - 05/02
+                     OOP Patterns; Course wrap-up
+                     .
+
+
+
+
+ The FINAL EXAM is Wednesday, May 8, from 8:00 AM -  9:50 AM.
+
+
+
+
+Eugene Wallingford ====
+   wallingf@cs.uni.edu ====
+   January 15, 2002
+
+
+
+
+

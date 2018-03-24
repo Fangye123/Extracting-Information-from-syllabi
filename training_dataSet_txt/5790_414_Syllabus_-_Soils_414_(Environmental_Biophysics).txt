@@ -1,0 +1,310 @@
+
+
+
+414 Syllabus - Soils 414 (Environmental Biophysics)
+
+
+
+<!--
+
+
+
+ /* Style Definitions */
+
+
+
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+
+
+
+	{mso-style-parent:"";
+
+
+
+	margin:0in;
+
+
+
+	margin-bottom:.0001pt;
+
+
+
+	mso-pagination:widow-orphan;
+
+
+
+	font-size:12.0pt;
+
+
+
+	font-family:"Times New Roman";
+
+
+
+	mso-fareast-font-family:"Times New Roman";}
+
+
+
+a:link, span.MsoHyperlink
+
+
+
+	{color:blue;
+
+
+
+	text-decoration:underline;
+
+
+
+	text-underline:single;}
+
+
+
+a:visited, span.MsoHyperlinkFollowed
+
+
+
+	{color:blue;
+
+
+
+	text-decoration:underline;
+
+
+
+	text-underline:single;}
+
+
+
+p
+
+
+
+	{margin-right:0in;
+
+
+
+	mso-margin-top-alt:auto;
+
+
+
+	mso-margin-bottom-alt:auto;
+
+
+
+	margin-left:0in;
+
+
+
+	mso-pagination:widow-orphan;
+
+
+
+	font-size:12.0pt;
+
+
+
+	font-family:"Times New Roman";
+
+
+
+	mso-fareast-font-family:"Times New Roman";}
+
+
+
+@page Section1
+
+
+
+	{size:8.5in 11.0in;
+
+
+
+	margin:1.0in 1.25in 1.0in 1.25in;
+
+
+
+	mso-header-margin:.5in;
+
+
+
+	mso-footer-margin:.5in;
+
+
+
+	mso-paper-source:0;}
+
+
+
+div.Section1
+
+
+
+	{page:Section1;}
+
+
+
+-->
+
+
+
+
+Soils 414*/514 -
+Environmental Biophysics
+Spring 2002
+Instructor: 
+Colin Campbell
+251 Johnson Hall, 335-3661
+Office Hours:
+M10:10-11am and by appointment
+(please note:  I rarely will be in my
+campus office during other times)
+ 
+Off-campus
+office:  Decagon
+Devices, 950 NE Nelson Ct., 332-0261 ext. 44,
+(I will typically
+be in my off-campus office)
+colin@decagon.com
+(email is a
+great way to contact me!)
+TA:     
+Nu Nu Wai
+235-A Johnson Hall Phone: 335-7817
+Dept. of Crop and Soil Science.
+email: nwai@wsu.edu
+Office Hours: Tu/Thur 9:10-10 AM
+Course
+Format: Two 50-minute lecture periods: M and
+W, 9:10-10:00am
+Location:   Pullman (Johnson 120). While not
+required, it is recommended that the associated lab class (415/515)
+be taken simultaneously.
+Course Prerequisites:
+414 - Upper division standing in biological, physical, or earth
+sciences, or engineering
+514 - Graduate standing in biological, physical, or earth sciences,
+or engineering
+Text: G. S. Campbell and J. M. Norman. 1998. An
+Introduction to Environmental Biophysics, 2nd ed.
+Springer Verlag, New York.
+Course Objective Students will use physical principles and
+reasoning to describe microenvironments of living organisms and
+energy and mass transfer between organisms and their environment.
+Within this objective, more specific course goals include:
+·  Increased
+understanding of microclimates and their effect on organisms;
+·  Learning
+to understand and work with mathematical expressions to make
+estimations where measured values are lacking;
+·  Learning
+to use microclimatic variables and transfer laws and associated
+mathematical expressions to estimate transfer of energy, water, and
+gases between organisms and the environment.
+Topic Outline
+I. Principles of
+and mathematical expressions for physical microenvironment
+variables
+- Temperature
+- Water (vapor and liquid)
+- Wind
+- Radiation
+II. Simple models of
+energy and mass exchange
+- Overview of transport
+laws
+- Conduction and diffusion
+- Convection and turbulence
+III. Applications
+- Soil temperature and
+heat flow
+- To animals
+- To plant leaves, canopies
+Evaluation of Learning:
+Quizzes:
+Approximately seven (7) announced quizzes (15 to 30 min long) will be
+given over the semester, including one in the scheduled final exam
+period (TBA). Because an important part of the class is learning how
+to choose and use the relevant equations, students will be
+allowed to bring one 3 x 5 index card to each quiz containing
+equations relevant to material covered (in other words,
+understanding and use of equations is emphasized, not
+memorization!).
+Homework: Due to the
+abundance of new terms and equations in each section, homework will
+be given frequently. These assignments will consist of problems to be
+solved using the principles and relations in past and current course
+material, as well as discussion questions designed to draw
+relationships between the subject material and our every day
+lives.
+The homework will be checked but not
+graded other than for participation. Each assignment will be worth 1
+point. The homework total will carry the same weight as one quiz
+(below). In some cases the problems may include a computer exercise,
+given by the instructor or available on the Internet.
+The problem portion of the assignments
+should be submitted neatly on paper. SHOW ALL WORK when solving
+problems. The major goal of the problem sets is to give you practice
+working with the concepts and relationships described in class. (The
+online discussion portion of the assignments does not need to be
+printed out.) Your time spent on these assignments will greatly aid
+in your understanding of the fundamentals.
+Class attendance is
+considered to be an essential component of this course. Class
+participation is encouraged, especially if questions and comments
+reflect thought and preparation of the material.
+514 Requirements: In
+addition to the homework and quizzes discussed above, students
+enrolled in 514 are also required to complete and present (written
+and oral) an independent research project. 514 students are required
+to meet an additional hour (arranged time) approximately weekly to
+plan and discuss the research projects, including related literature
+and skills necessary to carry out the research.
+- The project will
+involve data analysis or modeling relevant to the student’s own
+field of interest. A journal-quality written report of the project
+and results is due to the instructor by April 21. A 10 minute
+professional-quality oral presentation of the work and findings will
+be given to the group taking the 500-level version. More details will
+be provided in a separate handout.
+- Students who are also enrolled in 515
+may combine research projects for the two classes so that the project
+can involve both field data collection and modeling/analysis.
+ 
+Final Grade
+Determination:
+414 - Grades will
+be based on the scores of the quizzes plus completion of the
+homework.
+514 - The research project and presentation will account for
+20% of the final grade. The remaining portion of the final grade will
+be based on the scores of the quizzes plus completion of the homework
+(80%).
+Students with Disabilities: Reasonable
+accommodation will be made for students who have a documented
+disability. Please notify the instructor during the first week of
+class of any accommodation needed for the course. Late notification
+may mean that the requested accommodation cannot be made.
+* Crosslisted as Env.Sci. 414, and also through the Botany
+Program at Univ. of Idaho
+Questions/Comments?
+
+Return
+to Soils 414 homepage
+Dept. of  Crop and Soil
+Sciences
+Washington State University
+Pullman, WA 99164-6420
+
+
+
+
+Copyright
+© Washington State University  Disclaimer
+Modified 1/08/01 C.S.
+Campbell
+ 
+
+
+

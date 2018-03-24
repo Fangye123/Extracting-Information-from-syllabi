@@ -1,0 +1,1643 @@
+
+
+rec.martial-arts FAQ part 2
+
+
+
+Archive-name: martial-arts/faq/part2
+
+Last-modified: 11 August 2002
+
+Posting-Frequency: twice per month
+Go back to Part One.
+Go on to Part Three.
+
+rec.martial-arts FAQ - Part 2 of 3
+
+16. What are the different Arts, Schools, Styles?
+
+
+
+  Aikido
+  Baguazhang
+  Brazilian JiuJitsu
+
+
+  Bushidokan
+  Capoeira
+  Cha Yon Ryu
+
+
+  Cuong Nhu
+  Daito Ryu Aiki-Jujustu
+  Gatka
+
+
+  Hapkido
+  Hwa Rang Do
+  Iaido
+
+
+  Judo
+  Jujutsu
+  Kajukenbo
+
+
+  Kali/Escrima/Arnis
+  Karate
+  Kendo
+
+
+  Kenjutsu
+  Kenpo (Amer.)
+  Kempo (Kosho Ryu)
+
+
+  Kempo (Ryukyu)
+  Kobudo
+  Krav Maga
+
+
+  Kyudo
+
+
+
+in Part 3 of 3:
+
+
+
+  Lua
+  MMA/NHB
+  Moo Do
+
+
+  Muay Thai
+  Ninjutsu
+  Praying Mantis
+
+
+  ROSS
+  SAMBO
+  Sanshou
+
+
+  Savate
+  Shogerijutsu
+  Shuaijiao
+
+
+  Silat
+  Tae Kwon Do
+  Taijiquan
+
+
+  Wing Chun
+  Wushu/Gongfu
+  Xingyiquan
+
+
+  Yoseikan Budo
+
+
+
+
+
+16) What are the different Arts, Schools and Styles?
+
+
+This is a question with many, many answers -- some could say that there
+are as many styles as there are martial artists.  So, we'd like to
+introduce some Schools and Styles that will give you a basic familiarity 
+with the world of martial arts.  The Arts are listed alphabetically.
+
+
+
+Important note:  This information is true to the best of the knowledge of
+those who wrote the descriptions of the various arts.  If your style has
+only a small write up or none at all and you have enough information on it
+to make a good FAQ entry, write it up in the form shown below and send it to
+mcweigel.cs.cmu.edu.
+
+
+
+If you have a question about a particular style or its writeup, one option 
+is to look in the next section for who contributed to the art's writeup, and
+send e-mail to them.  Otherwise, comment to mcweigel@cs.cmu.edu.
+
+
+
+
+16.1) Aikido
+
+
+(Contributors:
+Eric Sotnak - esot@troi.cc.rochester.edu,
+ Alex Jackl - ajackl@avs.com)
+
+
+Intro:
+
+
+Aikido emphasizes evasion and circular/spiral redirection of an attacker's
+aggressive force into throws, pins, and immobilizations as a primary
+strategy rather than punches and kicks.
+
+
+Origin: Japan.
+
+History:
+
+
+Aikido was founded in 1942 by Morihei Ueshiba (1883-1969). Prior to this
+time, Ueshiba called his art "aikibudo" or "aikinomichi".  In developing
+aikido, Ueshiba was heavily influenced by Daito Ryu Aikijujitsu, several
+styles of Japanese fencing (kenjutsu), spearfighting (yarijutsu), and by
+the so- called "new religion": omotokyo.  Largely because of his deep
+interest in omotokyo, Ueshiba came to see his aikido as rooted less in
+techniques for achieving physical domination over others than in attempting
+to cultivate a "spirit of loving protection for all things."  The extent to
+which Ueshiba's religious and philosophical convictions influenced the
+direction of technical developments and changes within the corpus of aikido
+techniques is not known, but many aikido practitioners believe that perfect
+mastery of aikido would allow one to defend against an attacker without
+causing serious or permanent injury.
+
+
+Descriptions:
+
+
+The primary strategic foundations of aikido are:
+(1) moving into a position off the line of attack;
+(2) seizing control of the attacker's balance by means of 
+    leverage and timing;
+(3) applying a throw, pin, or other sort of immobilization
+    (such as a wrist/arm lock).
+
+
+
+Strikes are not altogether absent from the strategic arsenal of the
+aikidoist, but their use is primarily (though not, perhaps, exclusively) as
+a means of distraction -- a strike (called "atemi") is delivered in order
+to provoke a reaction from the aggressor, thereby creating a window of
+opportunity, facilitating the application of a throw, pin, or other
+immobilization.
+
+
+
+Many aikido schools train (in varying degrees) with weapons. The most
+commonly used weapons in aikido are the jo (a staff between 4 or 5 feet in
+length), the bokken (a wooden sword), and the tanto (a knife, usually made
+of wood, for safety). These weapons are used not only to teach defenses
+against armed attacks, but also to illustrate principles of aikido
+movement, distancing, and timing.
+
+
+Training:
+
+
+A competitive variant of aikido (Tomiki aikido) holds structured
+competitions where opponents attempt to score points by stabbing with a
+foam-rubber knife, or by executing aikido techniques in response to attacks
+with the knife.  Most variants of aikido, however, hold no competitions,
+matches, or sparring.  Instead, techniques are practiced in cooperation
+with a partner who steadily increases the speed, power, and variety of
+attacks in accordance with the abilities of the participants. Participants
+take turns being attacker and defender, usually performing pre-arranged
+attacks and defenses at the lower levels, gradually working up to
+full-speed freestyle attacks and defenses.
+
+
+Sub-Styles:
+
+
+There are several major variants of aikido.  The root variant is the
+"aikikai", founded by Morihei Ueshiba, and now headed by the founder's
+grandson, Moriteru Ueshiba.  Several organizations in the United States
+are affiliated with the aikikai, including the United States Aikido
+Federation, the Aikido Association of America, and Aikido Schools of
+Ueshiba.
+
+
+
+Other major variants include:
+
+ the "ki society", founded by Koichi Tohei,
+  yoshinkan aikido, founded by Gozo Shioda,
+  the kokikai organization, headed by Shuji Maruyama,
+  "Tomiki aikido" named after its founder, Kenji Tomiki.
+
+
+
+
+16.2)Baguazhang (Pa Kua Chang)
+
+
+(Contributors:
+William Breazeal  - breazeal@tweedledee.ucsb.edu,
+
+Mike Martelle - 3mbm@qlink.queensu.ca)
+
+
+Intro:
+
+
+Baguazhang is one of the three orthodox "internal" styles of Chinese martial
+art (the other two being Taijiquan and Xingyiquan).  Translated, Bagua means
+"Eight Trigram".  This refers to the eight basic principles described in the
+ancient metaphysical treatise the Yijing (I-Ching), or "Book of Changes". 
+Bagua is meant to be the physical manifestation of these eight principles.
+"Zhang" means "palm" and designates Baguazhang as a style of martial art
+which emphasizes the use of the open hand over the closed fist.  Baguazhang
+as a martial art is based on the theory of continuously changing in response
+to the situation at hand in order to overcome an opponent with skill rather
+than brute force.
+
+
+Origin: Northern China.
+
+History:
+
+
+Although there are several theories as to the origins of Baguazhang, recent
+and exhaustive research by martial scholars in mainland China concludes
+without reasonable doubt that the art is the creation of one individual,
+Dong Haichuan (or Dong Haiquan). Dong was born in Wen'an County, Hebei
+Province about 1813. Dong practiced local martial arts (which reportedly
+relied heavily upon the use of openhand palm strikes) from his youth and
+gained some notoriety as a skilled practitioner. At about 40 years of age,
+Dong left home and travelled southward. At some point during his travels
+Dong became a member of the Quanzhen (Complete Truth) sect of Taoism. The
+Taoists of this sect practiced a method of walking in a circle while
+reciting certain mantras. The practice was designed to quiet the mind and
+focus the intent as a prelude to enlightenment. Dong later combined the
+circle walking mechanics with the boxing he had mastered in his youth to
+create a new style based on mobility and the ability to apply techniques
+while in constant motion.
+
+
+
+Dong Haiquan originally called his art "Zhuanzhang" (Turning Palm). In his
+later years, Dong began to speak of the Art in conjunction with the Eight
+Trigrams (Bagua) theory expoused in the Book Of Changes (Yijing). When Dong
+began teaching his "Zhuanzhang" in Beijing, the vast majority of his students
+were already accomplished martial artists in their own right. Dong's teachings
+were limited to a few "palm changes" executed while walking the circle and his
+theory and techniques of combat. His students took Dong's forms and theories
+and combined them with their original arts. The result is that each of Dong's
+students ended up with quite different interpretations of the Baguazhang
+art.
+
+
+
+Most of the various styles of Baguazhang found today can be traced back to
+one of several of Dong Haiquan's original students. One of these students
+was a man called Yin Fu. Yin studied with Dong longer than any other and was
+one of the most respected fighters in the country in his time (he was the
+personal bodyguard to the Dowager Empress, the highest prestige position of
+its kind in the entire country). Yin Fu was a master of Luo Hanquan, a
+Northern Chinese "external" style of boxing before his long apprenticeship
+with Dong. Another top student of Dong was Zheng Dinghua, originally a master
+of Shuaijiao (Chinese wrestling). Zheng taught a great number of students in
+his lifetime and variations of his style are many. A third student of Dong
+which created his own Baguazhang variant was Liang Zhenpu. Liang was
+Dong's youngest student and was probably influenced by other of Dong's older
+disciples. Although Baguazhang is a relatively new form of martial art, it
+became famous throughout China during its inventor's lifetime, mainly because
+of its effectiveness in combat and the high prestige this afforded its
+practitioners.
+
+
+Description:
+
+
+Baguazhang is an art based on evasive footwork and a kind of "guerilla
+warfare" strategy applied to personal combat. A Bagua fighter relies on
+strategy and skill rather than the direct use of force against force or
+brute strength in overcoming an opponent. The strategy employed is one of
+constant change in response to the spontaneous and "live" quality of
+combat. 
+
+
+
+Bagua is a very circular art that relies almost entirely on open hand 
+techniques and full body movement to accomplish its goals.  It is also 
+characterized by its use of spinning movement and extremely evasive 
+footwork.  Many of the techniques in Bagua have analogs in other Northern 
+Chinese systems;however, Bagua's foot work and body mechanics allow the 
+practitioner to set up and execute these techniques while rapidly and smoothly 
+changing movement direction and orientation.  Bagua trains the student to be 
+adaptable and evasive, two qualities which dramatically decrease the amount 
+of physical power needed to successfully perform techniques.
+
+
+
+The basis of the various styles of Baguazhang is the circle walk practice.
+The practitioner "walks the circle" holding various postures and executing
+"palm changes" (short patterns of movement or "forms" which train the body
+mechanics and methods of generating momentum which form the basis of the
+styles' fighting techniques). All styles have a variation of the "Single Palm
+Change" which is the most basic form and is the nucleus of the remaining palm
+changes found in the Art. Besides the Single Palm Change, other forms include
+the "Double Palm Change" and the "Eight Palm Changes" (also known variously as
+the "Eight Mother Palms" or the "Old Eight Palms"). These forms make up the
+foundation of the Art. Baguazhang movements have a characteristic circular
+nature and there is a great deal of body spinning, turning and rapid changes
+in direction. In addition to the Single, Double and Eight Palm Changes, most
+but not all styles of Baguazhang include some variation of the "Sixty-Four
+Palms." The Sixty-Four Palms include forms which teach the mechanics and
+sequence of the specific techniques included in the style. These forms take
+the more general energies developed during the practice of the Palm Changes
+and focus them into more exact patterns of movement which are applied directly
+to a specific combat technique. 
+
+
+Training: 
+
+
+Training usually begins with basic movements designed to train the
+fundamental body mechanics associated with the Art. Very often the student
+will begin with practicing basic palm changes in place (stationary
+practice), or by walking the circle while the upper body holds various
+static postures (Xingzhuang). The purpose of these exercises is to
+familiarize the beginning student with the feeling of maintaining correct
+body alignment and mental focus while in motion. The student will progress
+to learning the various palm changes and related forms. The Sixty-Four
+Palms or other similar patterns are usually learned after some level of
+proficiency has been attained with the basic circle walk and palm changes.
+Some styles practice the Sixty-Four Palms on the circle while other styles
+practice these forms in a linear fashion. All of the forms in Baguazhang
+seek to use the power of the whole body in every movement, as the power of
+the whole will always be much greater than that of isolated parts. The
+body-energy cultivated is flexible, resilient and "elastic" in nature.
+
+
+
+In addition to the above, most styles of Baguazhang include various two-
+person forms and drills as intermediate steps between solo forms and the
+practice of combat techniques. Although the techniques of Baguazhang are
+many and various, they all adhere to the above mentioned principles of
+mobility and skill. Many styles of Baguazhang also include a variety of
+weapons, ranging from the more "standard" types (straight sword,
+broadsword, spear) to the "exotic." An interesting difference with other
+styles of martial arts is that Baguazhang weapons tend to be "oversized,"
+that is they are much bigger than standard weapons of the same type (the
+extra weight increases the strength and stamina of the user). 
+
+
+SUBSTYLES:
+
+
+Each of Dong Haiquan's students developed their own "style" of Baguazhang
+based on their individual backgrounds and previous martial training. Each
+style has its own specific forms and techniques. All of the different styles
+adhere to the basic principles of Baguazhang while retaining an individual
+"flavor" of their own. Most of the styles in existence today can trace their
+roots to either The Yin Fu, Zheng Dinghua Or Liang Zhenpu
+variations.
+
+
+
+Yin Fu styles include a large number of percussive techniques and fast
+striking combinations (Yin Fu was said to "fight like a tiger," moving in
+swiftly and knocking his opponent to the ground like a tiger pouncing on
+prey). The forms include many explosive movements and very quick and evasive
+footwork. Variations of the Yin Fu style have been passed down through his
+students and their students, including Men Baozhen, Ma Kuei, Gong Baotian,
+Fu Zhensong and Lu Shuitian.
+
+
+
+Zheng Dinghua styles of Baguazhang include palm changes which are done in a
+smooth and flowing manner, with little display of overt power (Zheng
+Dinghua's movement was likened to that of a dragon soaring in the clouds).
+Popular variants of this style include the Gao Yisheng system, Dragon style
+Baguazhang, "Swimming Body" Baguazhang, the Nine Palace system, Jiang
+Rongqiaok style (probably the most common form practiced today) and the Sun
+Ludang style.
+
+
+
+The Liang Zhenpu style was popularized by his student Li Ziming (who was
+the president of the Beijing Baguazhang Association for many years and who
+did much to spread his art worldwide).
+
+
+
+16.3) Brazilian JiuJitsu
+
+(Contributor:
+ Don Geddis - webmaster@bjj.org)
+
+Intro:
+
+Possibly the premier ground-fighting martial art. Made famous by Royce
+Gracie in the early UFCs in the mid-1990's, it specializes in
+submission grappling when both fighters are on the ground. Techniques
+include positional control (especially the "guard" position), and
+submissions such as chokes and arm locks.
+
+Origin:
+
+Brazil.
+
+History:
+
+
+In the mid-1800's in Japan, there were a large number of styles ("ryu")
+of jiu-jitsu (sometimes spelled "jujitsu"). Techniques varied between
+ryu, but generally included all manner of unarmed combat (strikes,
+throws, locks, chokes, wrestling, etc.) and occasionally some weapons
+training. One young but skilled master of a number of jiu-jitsu styles,
+Jigoro Kano, founded his own ryu and created the martial art Judo (aka
+Kano-ryu jiu-jitsu) in the 1880's. One of Kano's primary insights was
+to include full-power practice against resisting, competent opponents,
+rather than solely rely on the partner practice that was much more
+common at the time.
+
+
+
+One of Kano's students was Mitsuo Maeda, who was also known as Count Koma
+("Count of Combat"). Maeda emigrated to Brazil in 1914. He was helped a
+great deal by the Brazilian politician Gastão Gracie, whose father
+George Gracie had emigrated to Brazil himself from Scotland. In gratitude
+for the assistance, Maeda taught jiu-jitsu to Gastao's son Carlos Gracie.
+Carlos in turn taught his brothers Osvaldo, Gastão Jr., Jorge, and
+Helio.
+
+
+
+In 1925, Carlos and his brothers opened their first jiu-jitsu academy,
+and Gracie Jiu-Jitsu was born in Brazil.
+
+
+
+At this point, the base of techniques in BJJ was similar to those in
+Kano's Judo academy in Japan. As the years progressed, however, the
+brothers (notably Carlos and Helio) and their students refined their
+art via brutal no-rules fights, both in public challenges and on the
+street. Particularly notable was their willingness to fight outside of
+weight categories, permitting a skilled small fighter to attempt to
+defeat a much larger opponent.
+
+
+
+They began to concentrate more and more on submission ground fighting,
+especially utilizing the guard position. This allowed a weaker man to
+defend against a stronger one, bide his time, and eventually emerge
+victorious.
+
+
+
+In the 1970's, the undisputed jiu-jitsu champion in Brazil was Rolls
+Gracie. He had taken the techniques of jiu-jitsu to a new level.
+Although he was not a large man, his ability to apply leverage using
+all of his limbs was unprecedented. At this time the techniques of the
+open guard and its variants (spider guard, butterfly guard) became a
+part of BJJ. Rolls also developed the first point system for jiu-jitsu
+only competition. The competitions required wearing a gi, awarded
+points (but not total victories) for throws and takedowns, and awarded
+other points for achieving different ground positions (such as passing
+an opponent's guard). After Rolls' death in a hang-gliding accident,
+Rickson Gracie became the undisputed (and undefeated!) champion, a
+legend throughout Brazil and much of the world. He has been the
+exemplar of Brazilian Jiu-Jitsu technique for the last two decades,
+since the early 1980's, in both jiu-jitsu competition and no-rules MMA
+competition.
+
+
+
+Jiu-jitsu techniques have continued to evolve as the art is constantly
+tested in both arenas. For example, in the 1990's Roberto "Gordo"
+Correa, a BJJ black belt, injured one of his knees, and to protect his
+leg he spent a lot of practice time in the half-guard position. When he
+returned to high-level jiu-jitsu competition, he had the best
+half-guard technique in the world. A position that had been thought of
+as a temporary stopping point, or perhaps a defensive-only position,
+suddenly acquired a new complexity that rapidly spread throughout the
+art.
+
+
+
+In the early 1990's, Rorion Gracie moved from Brazil to Los Angeles. He
+wished to show the world how well the Gracie art of jiu-jitsu worked.
+In Brazil, no-rules Mixed Martial Art (MMA) contests (known as "vale
+tudo") had been popular since Carlos Gracie first opened his academy in
+1925, but in the world at large most martial arts competition was
+internal to a single style, using the specialized rules of that style's
+practice.
+
+
+
+Rorion and Art Davie conceived of the Ultimate Fighting Championship.
+This was a series of pay-per-view television events in the United
+States that began in 1993. They pitted experts of different martial
+arts styles against each other in an environment with very few rules,
+in an attempt to see what techniques "really worked" when put under
+pressure. Rorion also entered his brother Royce Gracie, an expert in
+Brazilian Jiu-Jitsu, as one of the contestants.
+
+
+
+Royce dominated the first years of the UFC against all comers, amassing
+eleven victories with no fighting losses. At one event he defeated four
+different fighters in one night. This, from a fighter that was smaller
+than most of the others (at 170 lbs, in an event with no weight
+classes), looked thin and scrawny, and used techniques that most
+observers, even experienced martial artists, didn't understand.
+
+
+
+In hindsight, much of Royce's success was due to the fact that he
+understood very well (and had trained to defend against) the techniques
+that his opponents would use, whereas they often had no idea what he
+was doing to them. In addition, the ground fighting strategy and
+techniques of BJJ are among the most sophisticated in the world.
+Besides the immediate impact of an explosion of interest in BJJ across
+the world (particularly in the US and Japan), the lasting impact of
+Royce's early UFC dominance is that almost every successful MMA fighter
+now includes BJJ as a significant portion of their training.
+Description:
+
+
+
+Brazilian Jiu-Jitsu is primarily a ground-fighting art. Most techniques
+involve both fighters on the mat. There is a heavy emphasis on
+positional strategy, which is about which fighter is on top, and where
+each person's legs are. Positions are stable situations, from which a
+large variety of techniques are available to both fighters.
+
+
+
+The primary positions include:
+
+
+ Guard: The person applying the guard is on the bottom with his
+    back on the ground; his legs are wrapped around his opponent's hips
+    (who is said to be "in the guard").
+     Side control: Chest-on-chest but without the legs being entangled.
+     Mount: On top of his opponent (who "is mounted"), sitting on his
+    chest, with one leg on either side of his torso.
+     Back mount: Behind his opponent, with his feet hooked around his
+    opponent's hips and upper thighs.
+
+
+
+Specific techniques taught are designed either to improve one's
+position (for example, to "pass the guard", by going from being "in the
+guard" to getting around the opponent's legs, resulting in side
+control); or else as a finishing submissions. Most submissions are
+either chokes (cutting off the blood supply to the brain) or arm locks
+(hyperextending the elbow, or twisting the shoulder).
+
+
+
+Belt ranks start at white belt, and progress through blue, purple,
+brown, and then black. It generally takes about 2-3 years of training
+multiple times per week to be promoted to the next belt rank. However,
+there is no formal rank test. Instead, rank is about the ability to
+apply jiu-jitsu techniques in a competitive match. A student generally
+needs to be able to reliably defeat most other students at a given rank
+in order to be promoted to the next rank.
+
+
+
+Given the jiu-jitsu roots, and the interest in competition,
+occasionally related techniques are taught. In each case, other
+specific martial arts focus on these sets of techniques more than BJJ,
+and they generally just receive passing mention and rare practice in
+BJJ training. For example, takedowns tend to be similar to Judo and
+western wrestling; leg locks (such as in Sambo) are not encouraged but
+sometimes allowed. Some schools teach street self-defense or weapon
+defense as well; this instruction tends to be much more like old-style
+Japanese jiu-jitsu with partner practice, and rarely impacts the
+day-to-day grappling training. Also, many dedicated BJJ students are
+also interested in MMA competition, and attempt to practice their
+techniques without a gi, and sometimes with adding striking from boxing
+or Muay Thai.
+
+Training:
+
+
+Most training has students wearing a heavy ("jiu-jitsu" or "Judo")
+gi/kimono, on a floor with padded mats. A typical class involves 30
+minutes of warm ups and conditioning, 30 minutes of technique practice
+with a willing partner, and 30 minutes of free sparring training,
+against an opponent of equal skill who attempts to submit you.
+
+
+
+Most of the training is done with all students on the mat. For example,
+training usually beings with both students facing each other from a
+kneeling position.
+
+
+
+Competition is also encouraged. For a jiu-jitsu tournament, competitors
+are divided by age, belt rank, and weight class. Time limits are
+generally five to ten minutes, depending on belt rank. Matches start
+with both competitiors standing, on a floor with a padded mat. A tap
+out from submission ends the match. If time runs out without a
+submission, points determine the winner:
+
+
+ 2 points: Takedown from standing; Knee-on-stomach position; or
+    Scissor, sweep, or flip, using legs (from bottom position to top)
+     3 points: Passing the guard
+     4 points: Mount; or Mount on back (with leg hooks in)
+
+
+
+Many BJJ students are also interested in open submission grappling
+tournaments (different points rules, usually no gi), or Mixed Martial
+Arts (MMA). Most BJJ instructors encourage such competition, and often
+assist in the training. However, typically BJJ classes wear a gi, start
+from the knees, and prohibit strikes.
+
+Sub-Styles:
+
+
+None.
+
+
+
+However, note that Brazilian Jiu-Jitsu is sometimes taught under
+slightly different names. In Brazil it is generally known simply as
+"jiu-jitsu".
+
+
+
+Members of the Gracie family often call it "Gracie Jiu-Jitsu", and in
+fact this name probably pre-dates the now more-generic BJJ for
+labelling the art when outside of Brazil. (This probably would have
+become the generic name for the art, but Rorion Gracie trademarked the
+phrase for his academy in Torrance, CA. A later lawsuit between Rorion
+Gracie and Carley Gracie was resolved to permit Gracie family members
+to use that phrase when teaching their family's art of jiu-jitsu.
+However, the generic term "Brazilian Jiu-Jitsu" is now preferred for
+referring to the art independent of instructor.)
+
+
+
+Also, the Machado brothers (cousins of the Gracies) sometimes call
+their style "Machado Jiu-Jitsu". Any of these names refer to basically
+the same art.
+
+
+
+16.4) Bushidokan
+
+
+(Contributor:
+ Bob Blount - robertb@sound.net)
+
+
+
+Bushidokan is an eclectic art of recent origin, founded by Jim
+Harrison in the late 1960's.  Harrison has studied Judo and Shorin-Ryu
+karate extensively.  The Bushidokan Art is a combination of Okinawan
+karate, judo, and some JJ, with the primary emphasis on karate.  The
+karate portion of Bushidokan's training is quite similar to Shotokan -
+definitely Okinawan in ancestry.  Bushidokan is best suited for those
+interested in effective street self-defense, tournament fighting, and
+fairly rugged physical conditioning.
+
+
+
+Beginning students learn seven basic stances, seven basic strikes (six
+linear, one circular), seven basic blocks (one of which is circular)
+and seven basic kicks.  Many of the self-defenses taught incorporate
+techniniques not included in the "basic" seven, thus exposing the
+student to a greater variety.  These include a number of throws, a few
+soft (redirecting) blocks, and several wrist/hand locks. Two basic
+self-defense strategies - a direct counter and an indirect counter -
+are taught for each type of attack.  Sparring is introduced as
+students progress, but is always optional, and ranges from "no
+contact" to "full contact".
+
+
+
+16.5) Capoeira
+
+
+(Contributor:
+Daniel C. Sobral - e8917523@linf.unb.br,
+"Lagartixa" (Gecko) - nworthin@rohan.sdsu.edu)
+
+
+Intro:
+
+This is a very acrobatic, very energetic Brazilian martial art.
+
+Origin: Angola and Brazil
+
+History:
+
+
+Capoeira is the common name for the group of African martial arts that came 
+out of west Africa and were modifed and mixed in Brazil. These orginal
+stlyes included weapons, grappling and striking as well as animal forms that 
+became incorpated into different components and sub styles of the popular 
+art.
+
+
+
+In the 1500's, black slaves from Africa were used in Brazil to build the
+empire of the sugar cane. These slaves lacked a form of self-defense, and
+in a way quite parallel to Karate, they developed a martial-art with the
+things they had in hand, namely, sugar cane knives and 3/4 staffs. Being
+slaves, they had to disguise the study of the art, and that is how the
+dance came into it.
+
+
+
+In the early 1800's Capoeira was outlawed in Brazil, especially in its
+"home state" of Bahia, where gangs utilized it as their personal fighting
+style against police.
+
+
+
+Capoeira was born in the "senzalas", the places where the slaves were kept,
+and developed in the "quilombos", the places where they used to run to when
+they fled from their enslavers.
+
+
+Description:
+
+
+Capoeira consists of a stylized dance, practiced in a circle called the
+"roda", with sound background provided by percussion instruments, like the
+"agogo", the "atabaqui", etc.  The "Berimbau" is a non-percussion 
+instrument that is always used on rodas.
+
+
+
+Capoeira relies heavily on kicks and leg sweeps for attacks and dodges for
+defenses.  Is not uncommon to not be taught any kind of hand strike of
+parry, though arm positioning for blocks is taught.
+
+
+
+The "ginga" (meaning "swing), the footwork of Capoeira, consists in changing
+the basic stance (body facing the adversary, front leg flexed with body
+weight over it, the other leg stretched back) from the right leg to the left
+leg again and again.
+
+
+
+Capoeira also puts a heavy emphasis on ground fighting, but not grappling
+and locks. Instead, it uses a ground stance (from the basic stance, you
+just fall over your leg stretched back, flexing it, and leaving the front
+leg stretched ahead), from which you make feints, dodges, kicks, leg
+sweeps, acrobatics, etc.
+
+
+
+Hand positioning is important but it's used only to block attacks and
+ensure balance, though street fighting "capoeiristas" use the hands for
+punches.
+
+
+
+When fighting, it is rare to stop in one stance, and in this case, you just
+"follow" your opponent with your legs, preventing him from getting close,
+or preparing a fast acrobatic move to take advantage when he attacks. The
+rest of the time, you just keep changing stances, feinting, and doing the
+equivalent of boxing "jabs".
+
+
+Training:
+
+
+After a thorough warm-up, standing exercises are done, with emphasis on the
+"ginga", the footwork characteristic of the art, and on the basic kicks:
+"bencao", a front-stomping kick, "martelo", a roundhouse kick, "chapa", a
+side-kick, "meia-lua", a low turning kick, "armada", a high turning kick,
+"queixada", an outside-inside crescent kick. Then walking sequences are
+done, with the introduction of sommersaults, backflips and headstands, in
+couples and individual. Some more technical training follows, with couples
+beginning a basic and slow "jogo", and then the whole class forms and goes
+for "roda" game for at least 30 minutes.
+
+
+
+Capoeira conditions and develops the muscles, especially the abdominal
+muscles.
+
+
+Sub-Styles:
+
+
+Regional: Capoeira in a more artistic, open form, giving more way to
+athletic prowess and training. The newer, faster, more popular style created
+by mestre Bimba (the guy who was responsible for the legalization of
+capoeira and the founder of the first academy). Breakdancing evolved from
+this style, and 90% of all breakdancing moves come directly from capoeira.
+This is a faster game, less a fight and more of a showing off. Flourishes,
+high kicks, and aerial, acrobatic maneuvers are the hallmark of the regional
+game, which is usually played to the beat of the berimbau known as Sao Bento
+Grande.
+
+
+
+Angola: a more closed, harder style that is closest to the original African 
+systems that came to Brazil. The "traditional" capoeira, the game is
+accompanied by a specific beat of the berimbau by the same name. Angola
+games are generally slow and low to the ground, and incorporate a lot of
+trickery, sweeps and takedowns, and physically grueling movements that
+require great strength and balance.
+
+
+
+Iuna: Iuna is not really a style of capoeira. Rather, it refers to a rhythm
+of the berimbau that is played when somebody dies or when mestres (masters)
+play alone. There is no singing when iuna is played, and only masters
+allowed to play during iuna. 
+
+
+
+16.6) Cha Yon Ryu
+
+
+(Contributor:
+Ross Deforrest - ssor@prismnet.com)
+
+
+Intro:  An eclectic, fairly new martial art.
+
+History:
+
+
+The Cha Yon Ryu ("Natural Way") system was founded in 1968 by Kim Soo of
+Houston, Texas, who remains Director of the system.  Grand Master Kim, who
+holds upper dan rankings in both tae kwon do and hapkido chose to
+incorporate into the Cha Yon Ryu system techniques and forms from several
+different martial arts.
+
+
+Description:
+
+
+Tae Kwon Do contributes kicking techniques, strong stances and direct,
+linear strikes and blocks, as does Shotokan Karate.  With the study of
+movements from Okinawa te (Okinawa), the Cha Yon Ryu practitioner starts to
+add techniques with some angularity to his/her repertoire, and eventually
+progresses to the fluid, circular movements of Ch'uan Fa Gongfu.  Hapkido
+is the martial art from which are drawn defenses against chokes, grabs and
+armed attacks, as well as various throwing and falling techniques.
+
+
+Training:
+
+
+The Dojang Hun  (Training Hall Oath)
+
+Seek perfection of character
+Live the way of truth
+Endeavor
+Be faithful
+Respect your seniors
+Refrain from violent behavior
+
+
+Sub-Styles: None
+
+
+16.7) Cuong Nhu (pronounced "Kung New")
+
+
+(Contributors:
+
+Elizabeth Roman and Robert First - rafirst@unity.ncsu.edu and 
+http://www4.ncsu.edu/unity/users/r/rafirst/cooldojo/)
+
+
+
+Cuong Nhu is another eclectic, fairly new martial art, founded in 1965 by
+Master Ngo Dong in Vietnam.  The first US school opened in Gainesville FL in
+1971.  Cuong Nhu is an integrated martial art blending hard aspects ("cuong"
+in Vietnamese) from Shotokan Karate, Wing Chun Gongfu, and American Boxing,
+with influences from the soft ("nhu" in Vietnamese) arts of Judo, Aikido,
+and Taiji, in addition to Vovinam, a Vietnamese martial art using both hard
+and soft techniques. In keeping with its inclusive nature, Cuong Nhu
+instruction extends beyond the traditionally martial to public speaking,
+poetry, paintint, and philosophy.  There is a strong emphasis on developing
+self control, modesty, and a non-defeatist attitude.
+
+
+
+Beginning students focus on the hard, linear arts, mostly modified
+Shotokan Karate techniques and katas.  Experienced students add
+movements from more advanced softer, circular arts such as Aikido and
+Taiji.  All levels get some exposure to the entire range of styles.
+Training emphasizes moral and philosophical development, and students
+discuss the "Code of Ethics" and selections from Cuong Nhu philosophy
+in class. As with other styles, belt color indicates rank as certified
+by regional testing.
+
+
+
+There are approximately 70 Cuong Nhu dojos in the US. For more information
+or the location of a school near you, the Cuong Nhu Oriental Martial
+Arts Association (CNOMAA) can be reached at (904) 737-7094 or http://www.cuongnhu.com.
+
+
+
+16.8) Daito Ryu Aiki-Jujustu
+
+
+(Contributors:
+Torben Alstrup/Ole Kingston - alstrup@imada.ou.dk
+
+Intro:  A prominent sub-style of Jujutsu
+
+History:
+
+
+Daito-ryu Aiki-Jujutsu is an old Jujutsu style presumably founded my
+Minamoto, Yoshimitsu in the eleventh century.  Originally, it was only
+practised by the highest ranking Samurais in the Takeda family in the Kai
+fiefdom in northern Japan.
+
+
+
+Feudal overlord Takeda, Shingen died in 1573, and his kinsman Takeda,
+Kunitsugu moved to the Aizu fiefdom, where he became Jito - overseer of the
+fief. Kunitsugu introduced Daitoryu Aikijujutsu at the Aizu fiefdom, where
+the secret fighting art only was taught to the feudal lords and the highest
+ranking samurais and ladies in waiting.
+
+
+
+The feudal system was broken down after 1868 when the Meiji restoration
+begun.  Saigo, Tanomo (1829-1905), the heir to Daito-ryu gave the system to
+Takeda, Sogaku (1859-1943) and instructed him to pass it on to future
+generations. Takeda, Sogaku first used the term "Daito-ryu Aikijujutsu" in
+the beginning of the twentieth century and taught the art of it to many
+students.
+
+
+
+Takeda, Sogaku taught Daito-ryu from the beginning of the twentieth century
+until his death in 1943 two of his best known students were Ueshiba, 
+Morihei, founder of Aikido and Choi, Yong Sul, founder of Hapkido.
+
+
+
+Other prominent 20th century Daito-ryu masters include Horikawa, Kodo
+(1894-1980); Takuma, Hisa (1895-1979); Hakaru, Mori (1931-), the current
+director of the Daitoryu Aikijujutsu Takumakai; Sagawa, Yukiyoshi (1902-);
+Takeda, Tokimune (1916-1993), son of Takeda, Sogaku; Katsuyuki, Kondo
+(1945-); and Okamoto, Seigo (1925-), who is often considered the most
+progressive teacher of Daitoryu Aikijujutsu.
+
+
+Description and Training:
+
+
+The way of teaching Daitoryu comes from Takeda, Sogaku's students in the
+same manner as the understanding, feeling and character of the techniques.
+Daito-ryu Aikijujutsu has four levels of techniques: Shoden (Lowest),
+Chuden (advanced), Okuden (highest) and Hiden (secret techniques).
+
+
+Shoden
+The training in Daito-ryu starts with Shoden, where the student learns
+ukemi (falling and rolling), taisabaki (moving the body), tesabaki and
+ashisabaki (movements of the hands and feet and legs), defense against
+grappling, and continues with defense against punches, kicks and weapons,
+as for instance short and long staffs (tanbo, jo and chobo) and knives and
+swords (tanto and katana).
+
+
+
+There are techniques that can be done from standing, sitting or lying
+positions. The first transmission scroll Hiden Mokuroku describes the first
+118 jujutsu techniques from the Shoden level.
+
+
+Chuden
+These are advanced jujutsu techniques with large soft movements as known
+from Aikido.  The actual aiki training consists of a combination of these
+techniques and those from Shoden.  At this level of training it is allowed
+to use some amount of force, several steps and large movements.
+
+
+Okuden
+When doing Okuden all movements should be as small as possible.  Breathing,
+reflexes, circles and timing are used instead of muscles; the techniques
+are small and fast, and it is not necessary to hold an attacker in order to
+throw him.
+
+
+
+The reflexes of the attacker are used against him.  He gets a soft shock,
+similar to an electric shock activating his reflexes, and it becomes easy
+to manipulate the body of the attacker so it is felt as an extension of
+one's own.
+
+
+Hiden
+These are the secret techniques. The real aiki consists always of soft
+techniques that only work properly when the whole body and proper breathing
+is used. The attacker is touched easily, you are as glued to him, and the
+techniques are so small that even experienced budokas cannot see what is
+happening.  However, the most fascinating part of Daito-ryu Aikijujutsu is
+that it is unnecessary to use physical power for incapacitating the
+attacker his own force is turned against him.
+
+
+
+16.9) Gatka
+
+(Contributor:
+Arun Singh - arun145@lycos.com)
+
+Intro:
+
+A Sikh martial art.
+
+Origins and History:
+
+
+Gatka is the martial art of the Sikhs, and is tied in with the
+religion Sikhism. It's a weapons-based martial art, which was
+imparted to the Sikhs in the time of Guru Hargobind Ji (the sixth
+Guru of the Sikhs) by the Rajputs (Hindu warriors of northern India)
+in the 16th century, in gratitude for their release from imprisonment
+by the fledgling Sikh army of that time. The Sikhs at that time
+opposed the Mughal Empire, which violently oppressed both Sikhs and
+Hindus in the name of Islam.
+
+
+
+The Tenth Master of the Sikhs, Guru Gobind Singh Ji, was an extremely
+proficient martial artist.
+
+
+
+He continued to encourage the Sikhs to train seriously in the martial
+arts, and in 1699 founded the Khalsa, a special Order, to which all
+Sikhs would thereafter aspire to joining. The Khalsa was subject to
+strict military and personal discipline, and were enjoined to, inter
+alia, always carry 5 items with them: the Kanga (a small wooden
+comb), Kachhehra (long drawers instead of a loincloth), Kara (a steel
+bracer worn on the right wrist), Kesh (uncut hair) and Kirpan (curved
+sword). The Khalsa was enjoined to train to fight, and to vigorously
+resist the oppression of any religious community, including Sikhs and
+Hindus. The wearing of the kirpan represented the martial character
+of the Khalsa, and all Sikhs, men, women and children, were
+encouraged to resist their Mughal oppressors, and to train diligently
+in gatka.
+
+
+
+Gatka was used succesfully by the Sikhs throughout the 16th and 17th
+centuries, in numerous battles against the Mughal forces. Eventually,
+the Sikhs succeeded in deposing the Mughal overlords, and in creating
+a new, tolerant rulership in the Punjab (the "Land of Five Rivers", a
+region in modern-day India and Pakistan).
+
+
+
+Gatka is, and has always been, taught as a spiritual exercise in
+Sikhism. Sikhism requires its followers to become absorbed in
+honouring the Name of God, and this is taught through the ecstatic
+exercise of gatka. Sikhism and gatka are inextricably intertwined, in
+many ways.
+
+Description:
+
+
+Gatka actually refers to the soti, a wooden stick used in training,
+which is equipped with a basket hilt. The entire martial art is based
+on the correct use of a vast array of melee (hand-to-hand) weapons.
+The foundation of the art is the panthra, a basic form and
+methodology for moving the feet, body, arms and weapons correctly, in
+unison. Gatka is normally taught with rhythmic accompaniment, and the
+object is to achieve fluid, natural and flowing movement, without
+hesitation, doubt or anxiety. The attacking and blocking methods are
+all based upon the positions of the hands, feet and weapon(s) during
+the panthra dexterity exercise. Many weapons are taught with special
+methodologies, in addition to the panthra exercise.
+
+
+
+There are set of unique "chambers" and other techniques, which are
+unique to certain weapons, such as the khanda (two-edged sword), the
+tabar (axe) and the barcha (spear).
+
+
+
+The most common weapon used by gatka exponents today is the lathi (a
+stick of varying length), but all of the other traditional weapons
+are still taught. A common combination in that hands of gatka
+practitioners of today and in the past is the sword and shield.
+
+
+
+The panthra exercise is a flowing, non-stop movement, and there are
+no specific "techniques" as such in gatka. Rather, the methods of
+attacking and defending are the same, and the application depends on
+the circumstances at the time. The panthra exercise is practised at
+the same time as the "Jaap Sahib" prayer is being sung. Also, a
+three-beat-per-cycle is played by a drummer at the same time. This
+assists in developing natural and flowing co-ordination.
+
+Training:
+
+
+Most gatka groups train in a religious or semi-religious situation,
+such as in a gurdwara (a Sikh place of worship) or in a Sikh cultural
+centre or school. However, in recent years a number of "Akhara"
+(regiment or gymnasium) organisations have been founded, with the
+express purpose of teaching and disseminating the skill of gatka.
+
+
+
+Gatka students always train with "both hands full", as this is both
+an excellent exercise for matching the two halves of the body and is
+emphasised as ideal for combat. Gatka emphasises the superiority of
+having something in both hands, whether it's two sticks, or a stick
+and a sword, or a sword and a shield or any other combination.
+
+
+
+At an advanced level, gatka is always tailored to the practitioner.
+Hence the gatka practitioner will eventually focus all of his effort
+on training his or her abilities with a chosen weapon or combination
+of weapons.
+
+Competition:
+
+
+Gatka was never originally intended as a competitive sport. However,
+recently a number of modern gatka organisations have introduced
+competition. Normally, these are based on a "best of two" or a "best
+of Five" hits contest between two practitiners.
+
+How to find an instructor:
+
+
+The best traditional gatka practitioners outside the Punjab are known
+by word of mouth only. However, some organisations have recently
+begun teaching their own variation of gatka, in schools and clubs, in
+the same way as any other martial art. These organisations usually
+advertise, too. However, their gatka may differ significantly from
+the traditional form of the art, either by accident or design. It may
+be fruitful to consult your local gurdwara (Sikh temple) officials in
+order to find a reputable gatka instructor who is willing to teach
+you.  Discretion (most gatka experts disdain being the centre of
+attention) and courtesy will be indispensable in finding yourself a
+willing instructor in the art.
+
+
+
+16.10) HapKiDo
+
+
+(Contributors:
+Randy Pals - pals@ipact.com,
+Ray Terry - rterry@hpkel02.cup.hp.com,
+Dakin Burdick - burdick@silver.ucs.indiana.edu)
+
+
+Intro:
+
+
+This Korean art is sometimes confused with Aikido, since the Korean and
+Japanese translation of the names is the same.
+
+
+Origin: Korea
+
+History:
+
+
+Hapkido history is the subject of some controversy.
+
+
+
+Some sources say that the founder of Hapkido, Choi, Yong Sul was a
+houseboy/servant (some even say "the adopted son") of Japanese Daito Ryu
+Aikijujutsu GrandMaster Takeda, Sokaku.  In Japan, Choi used the Japanese
+name Yoshida, Tatsujutsu since all immigrants to Japan took Japanese names
+at that time.  Choi's Japanese name has also been given as Asao, Yoshida by
+some sources.  According to this view, Choi studied under Takeda in Japan
+from 1913, when he was aged 9, until Takeda died in 1943.  However, Daito 
+Ryu records do not reflect this, so hard confirmation has not been 
+available.  Some claim that Choi's Daito Ryu training was limited to 
+attending seminars.
+
+
+
+Ueshiba, Morihei, the founder of Aikido, was also a student of Takeda (this 
+is not disputed).  Hapkido and Aikido both have significant similarities to 
+Daito Ryu Aikijujutsu, so it would seem that Hapkido's link to it is real, 
+regardless of how and where Choi was trained.
+
+
+
+Choi returned to Korea after Takeda's death and began studying Korean arts
+and teaching Yu Sool or Yawara (other names for jujutsu), eventually
+calling his kwan ("school") the Hapki Kwan.  Ji, Han Jae, began studying
+under Choi and eventually started his own school, where he taught what he
+called Hapkido, after the grandmaster's school.  Along the way, Hapkido
+adopted various techniques from Tang Soo Do, Tae Kyon, and other Korean
+kwans (schools).
+
+
+
+Korean sources may tend to emphasize the Korean arts lineage of Hapkido
+over the Aikijujutsu lineage, with some even omitting the Aikijujutsu
+connection.  However, as noted above, the connection can be seen in the 
+techniques.
+
+
+
+Ji now calls his system Sin Moo Hapkido.  He currently lives and teaches in
+California, as does another former Choi student, Myung, Kwang Sik, who is
+GrandMaster of the World Hapkido Federation.
+
+
+
+Some other Choi Hapkido students are still living.  Chang, Chun Il
+currently resides in NY, and Im, Hyon Soo who lives and teaches in Korea. 
+Both of these men were promoted to 9th dan by Choi.  One of the first
+Hapkido masters to bring the art to the western culture was Han, Bong Soo.
+
+
+
+In the 1970's and 80's Hapkido was taught as the style of choice to
+elite South Korean armed forces units.
+
+
+Description:
+
+
+Hapkido combines joint locks, pressure points, throws, kicks, and strikes
+for practical self-defense.  More soft than hard and more internal than
+external, but elements of each are included.  Emphasizes circular motion,
+non-resistive movements, and control of the opponent.
+
+
+
+Although Hapkido contains both outfighting and infighting techniques, the
+goal in most situations is to get inside for a close-in strike, lock, or
+throw.  When striking, deriving power from hip rotation is strongly
+emphasized.
+
+
+Training:
+
+
+Varies with organization and instructor.  As a general rule, beginners
+concentrate on basic strikes and kicks, along with a few joint locks and
+throws.  Some of the striking and kicking practice is form-like, that is,
+with no partner, however, most is done with a partner who is holding heavy
+pads that the student strikes and kicks full power.
+
+
+
+Advanced students add a few more strikes and kicks as well as many more 
+throws, locks, and pressure points.  There is also some weapons training 
+for advanced students - primarily belt, kubatan, cane, and short
+staff.
+
+
+
+Some schools do forms, some do not.  Some do sparring and some do not, 
+although at the advanced levels, most schools do at least some sparring.
+Many Hapkido techniques are unsuitable for use in sparring, as their use 
+would result in injury, even when protective gear is used.  Thus, sparring 
+typically uses only a limited subset of techinques.
+
+
+
+There is generally an emphasis on physical conditioning and excercise, 
+including "ki" exercises.
+
+
+Sub-Styles: [more info needed]
+
+
+16.11) Hwa Rang Do
+
+
+(Contributor:
+Carsten Jorgensen - hwrang@usa.net)
+
+
+Intro:
+
+
+Hwa Rang Do is a comprehensive martial arts system whose training
+encompasses unarmed combat, weaponry, internal training and healing
+techniques.  Translated, Hwa Rang Do means "the way of flowering
+manhood".
+
+
+Origin:	Korea
+
+History:
+
+
+For the ancient history of the Hwarang, please refer to the Ancient Korean
+History section of 
+http://www.hwarangdo.com/hrd1.htm.
+
+
+
+In March 1942 present day founder of Hwa Rang Do, Dr. Joo Bang Lee and his
+brother, Joo Sang Lee was introduced to the Buddhist monk Suahm Dosa by
+their father, who was a personal friend of the monk, and they began their
+formal training aged 5 & 6. 
+
+
+
+The brothers lived and trained as the sole students with the monk mostly in
+weekends and during school vacations but also trained in other martial arts
+when they were unable to train under Suahm Dosa.  Influences include
+Boxing, Yudo, Komdo, and Tang Soo Do.  In addition the Lee Brothers
+attained Master level of Dae Dong Ryu Yu Sul (modern name - Hapkido) from
+its founder Choi Yong Sool in October 1956. 
+
+
+
+In April 1960 Dr. Joo Bang Lee created and founded his martial art by
+combining Suham Dosa's techniques with the other systems he had trained. He
+choose the name Hwa Rang Kwan to describe his system and this also marked
+the first time the Hwa Rang was used publicly in connection with unarmed
+Korean martial arts.  There is no way of knowing if the techniques Suahm
+Dosa taught the brothers actually was the martial art of the Silla Hwa
+Rang, or another form of monk martial art. 
+
+
+
+In 1967, at the request of President Park, Dr. Joo Bang Lee organized the
+unification of the Korean martial arts and directed the Unified Korean
+Martial Arts Exposition on May 27, 1968 at the Jang Chung Sports Arena in
+Seoul.  Since it was difficult for all martial art organization leaders to
+agree on methods of administration, this organization was also disbanded
+shortly after the exposition. 
+
+
+
+Following the dissolution, Dr. Joo Bang Lee concentrated his efforts
+solely on the development of his martial art to the exclusion of all
+other martial arts. He renamed it Hwa Rang Do translated to mean "The
+Way of the Flowering Manhood". (Do - represents "the way" or the
+"martial art"). Also this marked the first time the character for "Way"
+was used in connection with the Hwa Rang and the unarmed martial
+arts.
+
+
+
+In 1968, Head Grandmaster Joo Sang Lee introduced Hwa Rang Do to the
+United States of America. Dr. Joo Bang Lee became the system's supreme
+grandmaster upon Suahm Dosa's death in 1969. He immigrated to America in
+1972 and founded the World Hwa Rang Do Association and since then Hwa
+Rang Do has spread all over the world. Today Dr. Joo Bang Lee presides
+over the World Hwa Rang Do Association, Hwa Rang Do World Headquarters
+in Downey, California (USA).
+
+
+Description:
+
+
+Hwa Rang Do is a combination of UM (soft/circular movement) and YANG
+(hard/linear movement).  The Mu Sul (martial aspects) of Hwa Rang Do can be
+further explained in four distinct - though interconnecting - major paths
+of study. 
+
+
+
+NAE GONG - deals with developing, controlling, and directing one's Ki, or
+internal energy force, through breathing and meditation exercises in
+conjunction with specific physical techniques. 
+
+
+
+WAE GONG - Wae gong includes more than 4000 offensive and defensive
+combative applications. Combining elements predominantly tense and linear
+in nature with those soft and circular, these techniques mesh to form a
+natural fighting system. This phase includes full instruction in all hand
+strikes and blocks (trapping and grabbing as well as deflection
+applications, using the hands, wrist, forearm, elbows, arms and shoulders),
+365 individual kicks, throws and falls from any position and onto any
+surfaces, human anatomical structure as it pertains to combat applications
+(knowing and utilizing the body's weak points to effectively control the
+opponent, regardless of their size), joint manipulation and breaking,
+finger pressure-point application, prisoner arrest, control and transport,
+grappling applications, forms, offensive choking and flesh-tearing
+techniques, defense against multiple opponents, breaking techniques,
+counter-attacks, and killing techniques. 
+
+
+
+MOO GI GONG - involves the offensive and defensive use of the over 108
+traditional weapons found within 20 categories of weaponry. By learning
+these various weapon systems, the practitioner can most effectively utilize
+any available object as a weapon as the situation demands. 
+
+
+
+SHIN GONG - is the study, development, and control of the human mind in
+order to attain one's full potential and mental capabilities. Techniques
+are taught to achieve an increase in one's total awareness, focus, and
+concentration levels. Included are instruction in : controlling one's mind;
+development of the "sixth sense"; memory recall; the study of human
+character and personalities; practical psychology; visualization; the art
+of concealment and stealth as utilized by special agents (Sulsa); as well
+as advanced, secretive applications.  Hwa Rang Do teaches both the martial
+art (mu-sul) and healing art (in-sul). If one is able to injure or worse,
+then he/she should know how to heal as well, once again maintaining harmony
+through balance of opposites. First aid applications, revival techniques
+are taught in conjunction with the traditional full studies of acupuncture,
+Royal Family acupressure, herbal and natural medicines, and bone setting.
+
+
+Training:
+
+
+A typical training session includes Meditation (beginning and end of
+class). Total body stretching and warm-up exercises. Basic punching and
+kicking practice. Ki power exercises. "Basic-8" combination drills (which
+vary by belt rank). Two-man countering techniques (vary by belt rank). Open
+session which may include: sparring, tumbling, grappling, sweeps, or
+advanced techniques. Self-defense techniques. Cool down exercises. Hwa Rang
+Do code of ethics. 
+
+
+
+For further information, please refer to http://www.hwarangdo.com
+and/or write to:
+
+	World Hwa Rang Do Association
+	8200 E. Firestone Blvd.,
+	Downey, Ca 90241
+	(310) 861-0111
+
+
+Sub-styles:  None
+
+
+16.12) Iaido
+
+
+(Contributor:
+Al Bowers - bowers@wilbur.dfrf.nasa.gov)
+
+
+Intro: The Art of drawing the sword for combat.
+
+Origin: Japan
+
+History:
+
+
+This art is very old, and has strong philosophical and historical ties to
+Kenjutsu.  It was practiced by Japanese warriors for centuries. 
+
+
+Description:
+
+
+The object is to draw the sword perfectly, striking as it is drawn,  so
+that the opponent has no chance to defend against the strike. 
+
+
+Training: 
+
+
+Usually practiced in solo form (kata), but also has partner forms
+(kumetachi).
+
+
+Sub-Styles: Muso Shinden Ryu, Muso Jikishin Ryu, and others. 
+
+
+16.13) Judo
+
+
+(Contributors:
+Neil Ohlenkamp - JudoSensei@aol.com,
+Michael D'Auben - 72517.1031@compuserve.com)
+
+
+Intro:
+
+
+Judo is a sport and a way to get in great shape, but is also very useful 
+for self-defense.
+
+
+Origin: Japan
+
+History:
+
+
+Judo is derived from Jujutsu (see Jujutsu). It was created by Professor
+Jigoro Kano who was born in Japan in 1860 and who died in 1938 after a
+lifetime of promoting Judo. Mastering several styles of jujutsu in his
+youth he began to develop his own system based on modern sports principles.
+In 1882 he founded the Kodokan Judo Institute in Tokyo where he began
+teaching and which still is the international authority for Judo. The name
+Judo was chosen because it means the "gentle way". Kano emphasised the
+larger educational value of training in attack and defense so that it could
+be a path or way of life that all people could participate in and benefit
+from. He eliminated some of the traditional jujutsu techniques and changed
+training methods so that most of the moves could be done with full force to
+create a decisive victory without injury. 
+
+
+
+The popularity of Judo increased dramatically after a famous contest hosted
+by the Tokyo police in 1886 where the Judo team defeated the most
+well-known jujutsu school of the time. It then became a part of the
+Japanese physical education system and began its spread around the world.
+In 1964 men's Judo competition became a part of the Olympics, the only
+eastern martial art that is an official medal sport. In 1992 Judo
+competition for women was added to the Olympics. 
+
+
+Description: 
+
+
+Judo is practiced on mats and consists primarily of throws (nage-waza),
+along with katame-waza (grappling), which includes osaekomi-waza (pins),
+shime-waza (chokes), and kansetsu-waza (armbars). Additional techniques,
+including atemi-waza (striking) and various joint locks are found in the
+judo katas.  Judo is generally compared to wrestling but it retains its
+unique combat forms.  As a daughter to Jujutsu these techniques are also
+often taught in Judo classes. 
+
+
+
+Because the founder was involved in education (President of Tokyo 
+University) Judo training emphasizes mental, moral and character 
+development as much as physical training.  Most instructors stress the 
+principles of Judo such as the principle of yielding to overcome greater 
+strength or size, as well as the scientific principles of leverage, 
+balance, efficiency, momentum and control.
+
+
+
+Judo would be a good choice for most children because it is safe and fun.
+
+
+Training: 
+
+
+Judo training has many forms for different interests.  Some students 
+train for competition by sparring and entering the many tournaments that 
+are available.  Other students study the traditional art and forms (kata)
+of Judo.  Other students train for self-defense, and yet other students 
+play Judo for fun. Black belts are expected to learn all of these aspects 
+of Judo.
+
+
+Sub-Styles:
+
+
+Because Judo originated in modern times it is organized like other major
+sports with one international governing body, the International Judo
+Federation (IJF), and one technical authority (Kodokan).  There are several
+small splinter groups  (such as the Zen Judo Assoc.) who stress judo as a
+"do" or path, rather than a sport. 
+
+
+
+Unlike other martial arts, Judo competition rules, training methods, and
+rank systems are relatively uniform throughout the world. 
+
+
+
+16.14) Jujutsu 
+
+
+(Contributor:
+Darren Wilkinson - wilkinson@hippo.herston.uq.oz.au)
+
+
+Intro:
+
+Old, practical, fighting art.  A parent to Judo, Aikido, and
+Hapkido.
+
+Origin: Japan
+	
+History:
+
+
+The begining of Ju-jutsu can be found in the turbulent period of Japanese
+history between the 8th and 16th Century.  During this time, there was
+almost constant civil war in Japan and the classical weaponed systems were
+developed and constantly refined on the battle field.  Close fighting
+techniques were developed as part of these systems to be use in conjunction
+with weapons against armoured, armed apponents.  It was from these
+techniques that Ju-jutsu arose. 
+
+
+
+The first publicly recognised Ju-jutsu ryu was formed by Takenouchie
+Hisamori in 1532 and consisted of techniques of sword, jo-stick and

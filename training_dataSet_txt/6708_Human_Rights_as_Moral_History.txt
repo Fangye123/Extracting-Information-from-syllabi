@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+
+
+Human Rights as Moral History
+
+
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Garamond;
+	panose-1:2 2 4 4 3 3 1 1 8 3;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:50331648 0 0 0 1 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Times;}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	font-family:Garamond;
+	mso-font-kerning:0pt;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:Garamond;
+	text-decoration:underline;
+	text-underline:single;
+	font-weight:normal;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.5pt;
+	font-family:Garamond;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#CC00CC;
+	text-decoration:underline;
+	text-underline:single;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+@list l0
+	{mso-list-id:1649556887;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-694666012 -1829732180 1639433 1770505 984073 1639433 1770505 984073 1639433 1770505;}
+@list l0:level1
+	{mso-level-start-at:15;
+	mso-level-text:%1;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+
+
+
+
+
+Human Rights as Moral History
+ 
+Draft Syllabus
+Samuel Moyn
+ 
+This European history course provides a basic
+undergraduate introduction to the post-1945 regime of humanitarian norms and
+law. But, more fundamentally, it aims to take a step back and to place that
+system of belief in historical, ideological, and moral context. The emphasis is
+on analysis rather than on advocacy. The course is therefore dedicated to four
+main topics: 1) long-term origins; 2) short-term origins; 3) evolution through
+the present; and 4) moral defenses and ideological criticisms. The first three
+topics structure the course and the fourth arises throughout. Thematically, the
+course is meant to consider rival candidates for the historical roots of human
+rights, with special focus on the religious background; competing proposals to
+secure a philosophical justification for the emerging body of norms; and the
+moral and/or ideological purposes that the movement may serve. Where did it
+come from? Where is it going?
+ 
+Course
+Requirements:
+Attendance
+and Participation (10%)
+Two 5-6
+pp. papers (25% each)
+Final
+Examination (40%)
+                   
+Papers
+handed in after the due date will be graded down by one letter grade per day.
+ 
+ 
+Assigned Texts
+ 
+The
+essential and mandatory course text is
+ 
+Henry J.
+Steiner and Philip Alston, International Human Rights in Context, 2nd ed. (2000).
+ 
+This is
+supplemented by many other readings. The following books are available for
+purchase.
+ 
+David
+Brion Davis, The Problem of Slavery in Western Culture (1966)
+Jürgen
+Habermas, The Structural Transformation of the Public Sphere (1962)
+Mark
+Mazower, Dark Continent: Europe’s Twentieth Century (1998)
+ 
+The
+other texts (noted with an asterisk below) are available in the course
+sourcebook.
+All
+readings are also on reserve.
+ 
+ 
+Schedule
+of Lectures and Readings:
+ 
+Introduction
+ 
+1                Premises
+of the Course
+ 
+*W.E.H.
+Lecky, A History of European Morals, excerpts
+*Paul W.
+Kahn, The Cultural Study of Law, excerpts
+ 
+ 
+PART I:
+PREHISTORY OF THE HUMAN RIGHTS MOVEMENT
+ 
+The
+Origins of Universalism and the Notion of Humanity
+ 
+2                Judeo-Christianity
+and the Value of the Human Person
+3                The
+Enlightenment and Cosmopolitanism
+ 
+*Ernst
+Troeltsch, “The Ideas of Natural Law and Humanity in World
+Politics”
+Jürgen
+Habermas, The Structural Transformation of the Public Sphere, selections
+ 
+The
+Immorality of Cruelty and the Protection of Bodies
+ 
+4                How
+Cruelty Became Wrong and the Body Became Sacrosanct
+ 
+*Judith
+Shklar, Ordinary Vices, chap. 1, “Putting cruelty first”
+*Thomas
+Laqueur, “Bodies, Details, and the Humanitarian
+Narrative”
+*Michel
+Foucault, Discipline and Punish, sections
+ 
+                                                                                                                                     The
+Origins of the Concept of Rights
+ 
+5                Medieval
+and Early Modern Political Theories
+ 
+*Richard
+Tuck, “The ‘Modern’ Theory of Natural Law”
+ 
+                                                                                                                                     Rights
+in Modern Liberalism
+                                                                                                                                     
+6                Democratic
+Revolutions and the Rights of Man
+7                The
+Problematic Distinction between Political and Social Rights
+ 
+*U.S.
+Constitution, “Bill of Rights”
+*“Declaration
+of the Rights of Man and Citizen”
+*Olympe
+de Gouges, “Declaration of the Rights of Woman and Citizen”
+*Constant,
+“Ancient and Modern Liberty” 
+ 
+Humanitarianism
+in the Nineteenth Century: Ideology and the Case of Antislavery
+ 
+8                Abolitionism:
+Religious Origins and Political Effects
+9                The
+Underside of the Humanitarian Defense of Rights
+ 
+David
+Brion Davis, The Problem of Slavery, excerpts
+*Karl
+Marx, “On the Jewish Question”
+*Thomas
+Haskell, “Capitalism and the Origins of Humanitarian Sentiment”
+ 
+The
+Later Nineteenth Century
+ 
+10              The
+Law of War as Catalyst
+11              The
+Hague Regulations and the International Committee of the Red Cross
+ 
+*The
+Hague Regulations for the Conduct of War
+*Caroline
+Moorehead, Dunant’s Dream, excerpts
+*Kenneth
+Anderson, “First in the Field”
+ 
+ 
+PART II:
+INTERWAR, WARTIME, AND POSTWAR
+ORIGINS OF HUMAN RIGHTS
+ 
+ 
+The
+Interwar Collapse of Liberalism
+ 
+12              The
+Contest of Ideologies and the Interwar Minorities Regime
+ 
+Mark
+Mazower, Dark Continent, begin
+ 
+Wartime
+ 
+13              The
+Holocaust
+14              The
+Wartime Revival of Rights Talk
+                   
+Mark Mazower,
+Dark Continent,
+finish
+*Jacques
+Maritain, The Rights of Man and Natural Law, sections
+*Jacques
+Maritain, ed., Human Rights: An Int’l Symposium, sections, esp. B. Croce essay
+ 
+Postwar
+Justice
+ 
+15                    
+The
+Origins of the Concept of Crimes against Humanity and the Nuremberg Trials
+ 
+*Arieh
+Kochavi, Prelude to Nuremberg, excerpts
+*Robert
+H. Jackson, “Opening Address for the United States”
+FILM: Judgment
+at Nuremberg
+ 
+Founding
+Documents
+ 
+16              Origins
+of the Universal Declaration
+17              Raphael
+Lemkin and the Genocide Convention
+ 
+*“Universal
+Declaration of Human Rights”
+*“Convention
+for the Prevention of Genocide”
+*Michael
+Ignatieff, “Lemkin’s Word”
+*Geneva
+Conventions
+*Hannah
+Arendt, “The Perplexities of the Rights of Man”
+ 
+ 
+PART III:
+THE 
+HUMAN RIGHTS REGIME
+ 
+ 
+Human Rights
+in the United Nations
+ 
+17              The
+Covenants and the U.N. Bureaucracy
+18              The
+Cold War and Human Rights
+ 
+Henry J.
+Steiner, International Human Rights, relevant sections
+ 
+The Rise
+of NGOs
+ 
+19              Amnesty
+International
+20              Others
+ 
+Steiner,
+relevant sections
+*Margaret
+Keck and Kathryn J. Sikkink, Activists beyond Borders, sections
+ 
+The
+Erosion of Sovereignty?
+ 
+21              The
+Implications of Human Rights for Sovereignty and Realism
+22              Humanitarian
+Intervention
+ 
+Steiner,
+relevant sections
+*Additional
+Protocols to Geneva Conventions
+ 
+International
+Justice
+ 
+23             The
+History of International Jurisdiction
+24              ICTY,
+ICTR, ICC: The Emergence of International Tribunals
+ 
+Steiner,
+relevant sections
+*Stephen
+J. Krasner, “A World Court that Could Backfire”
+ 
+Present
+and Future
+ 
+25              Rights
+and the Ideological Politics of Neo-Liberalism
+ 
+Steiner,
+relevant sections
+*Michael
+Ignatieff, “Human Rights: The Midlife Crisis?”
+
+
+

@@ -1,0 +1,361 @@
+
+
+
+
+Computing in the Arts Syllabus
+
+
+VIS 40
+Introduction to Computing in the Arts
+Fall 1997
+Instructor: Natalie Bookchin
+bookchin@jupiter.ucsd.edu
+Lecture Wednesday 5:45 - 7:35 PM
+Center Hall 105
+Office Hours Thursday 12:00-1:00 PM
+Office Room 351 Visual Arts Facility
+Lab: Room 228 Visual Art Facility
+
+Teaching Assistants:
+Lisa Hutton
+Rachel Stevens
+
+COURSE OVERVIEW
+The class consists of a weekly lecture and lab. The lectures will cover
+the history of computers and computing in the arts, and theories and trends
+in new media art and digital culture.We will investigate conceptual strategies
+and creative possibilities for artists working in new media and will examine
+the immense visual, social, and psychological impact of the "Digital Revolution"
+on our culture.Thoughout the quarter, we will view a broad range of work
+by artists who use the computer as a medium, as a tool, as subject matter
+or all of the above, screening projects on CD-ROMS, the Web and videos
+as well as other cultural artifacts of the digital age, from games to chat
+rooms. During weekly labs, students will be introduced to the Silicon Graphics
+work station and will use some of its basic media and mail tools to develop
+art projects. Also during labs, students will discuss the required readings
+and present and critique their art projects.
+
+CLASS REQUIREMENTS
+1. Art projects
+2. Assignments and readings
+3. Final exam
+4. Attendance and Promptness
+
+GRADING POLICY AND GENERAL RULES
+All assignments must be turned on time. Failure to complete work on
+due date will result in a full letter grade reduction for each subsequent
+class in which project is not turned in . Final projects must be turned
+in on time to receive credit. No late final projects will be accepted.
+There is no make-up time for the final exam.
+
+ATTENDANCE
+In the case of an excused absentee, student will provide a written
+excuse or a doctor's note. Student will be allowed one unexcused absentees
+for a lecture and one for a lab during the quarter. After this limit, each
+unexcused absentee will automatically lower student's grade one half a
+letter grade. At the end of the lectures, students must sign attendance
+sheet being passed around or held onto by their teaching assistant. Arriving
+to class late, forgetting to sign attendance sheet or leaving early will
+be counted as absentee on the student's record.
+
+MATERIALS
+Zip disk for backing up projects.
+
+ON-LINE JOURNALS TO SUBSCRIBE TO OR SURF
+Rhizome
+Telepolis
+Ctheory
+Speed
+Hotwired
+RECOMMENDED Art Sites
+Turbulence
+Adaweb
+The Thing
+
+
+Schedule (Please note: this schedule is subject to revision
+and most likely will be modified during the quarter. Readings and surfing
+assignments are listed on date they are due.)
+Works listed under "Screening/Surfing followed by an asterisk means
+they are available for viewing in the Art and Architecture section of the
+Geisel Library.
+
+
+1. 10/1 : Introduction
+Screening:
+Olia Lialina
+Adib Fricke, Leonardo Da Vinci's Smile*
+Julia Scher:
+konsent klinik
+(Outside of class: )Gary Hill, "Tall Ships" University Art Gallery
+Mandville Center
+Tu-Sat 11 AM - 4 PM
+
+2. 10/8: History and Theory of Computers
+Reading
+Vannevar
+Bush, As We May Think (1945)
+ 
+Screening/Surfing:
+UNIX Cheat
+Sheet
+History of Computers
+Historic computer
+images
+The
+Virtual museum of Computing
+Timeline
+of Events in Computer History
+
+3. 10/15: The Internet and Hypermedia
+Project 1:
+due the week of 10/29 during lab
+
+Reading
+Toshiya Ueno, A Preliminary
+Thesis Toward The Work of Art in the Age of Cyber Technology
+Paul Virilio, Speed and Information:
+Cyberspace Alarm!
+Mark
+Amerika, Surf-Sample-Manipulate: Playgiarism On The Net
+Screening/Surfing
+General Internet Information
+Basic Internet Terms
+Internet Timeline
+An
+Outlined History of the Internet
+A
+Beginners Guide to HTML
+HTML
+Quick Reference
+Hypertext and Hypermedia
+The
+Surrealism Compliment Generator
+Paul Vee, Charlotte
+Mario
+Hergueta, In the Text
+Christa Erikson,
+Coding Tricks
+Paul Vanouse, The Persistant
+Data Confidante
+Nino Rodriguez, Face
+Value
+Cyberpoetry
+Interactive
+Poems
+Stuart Moulthrop,
+Sketch for a New Interactive Fiction;Stratosphere
+Laurie Anderson,
+Here 
+Alexei Shulgin, Form art
+
+4. 10/22: Human-computer Interfaces
+Reading
+Interview
+with Jodi
+John
+Walker, Through the Looking Glass; Beyond "User Interfaces"
+Simon
+Penny, Consumer Culture and the Technological Imperative: The Artist in
+Dataspace
+Screening/Surfing:
+Blind Rom*
+Calculators, from ID Interactive Design, 1996*
+Jodi
+Vertical blanking interval
+Jeremy Quinn,Future Sound of
+London on Line
+
+5. 10/29:  Interactivity and Interactive Digital
+Narratives
+Reading
+Andy Cameron
+Dissimulations: Illusions of Interactivity
+Grahame
+Weinbren, The Digital Revolution is a Revolution of Random Access
+Optional Reading:
+Jay
+David Bolter, Digital Media and Cinematic Point of View
+Screening/Surfing
+Marcel Duchamp's
+Rotoreliefs
+Fluxus on Line
+Nam June
+Paik
+Myst*
+The Residents: Bad Day on The Midway*
+Grahame Weinbren
+Nino Rodriguez, Boy*
+Adrienne Jenik, Mauve Desert*
+George Legrady, Slippery Traces and
+Ken Feingold, JCJ -Junkman from Artintact 3, ZKM*
+Group Z , I
+Confess 
+
+6. 11/5: Digital Imaging and Digital Photography
+Reading
+William
+J. Mitchell, Intention and Artifice
+Lev
+Manovich, The Labor of Perception
+Optional Reading:
+William
+J. Mitchell, How to Do Things with Pictures
+Screening/Surfing
+El Lissitzky,
+The Constructor, Self Portrait
+Early Computer
+Art, Cybernetic Serendipity
+David Em
+Mariko Mori
+More
+Markio Mori
+(Art)n Laboratory
+Digital Reserves
+7:30 Museum of Contemporary Art, 700 Prospect Street, La Jolla
+Video screening program: "Surveillance Culture/Surveying Culture"
+
+7. 11/12: Artificial Intelligence and Artificial Life
+Final
+Project
+Reading
+Harold
+Cohen, The further exploits of AARON, Painter
+Pattie
+Maes, Artificial Life meets Entertainment: Lifelike Autonomous Agents
+Optional Reading:
+Julian
+Dibbell,Viruses Are Good for You;Spawn of the devil, computer viruses may
+help us realize the full potential of the Net.
+Screening/Surfing
+The Turing
+Test
+Face
+Recognition Demo
+Chris
+Csikszentmihalyi, Character Input
+Smart
+Chair
+Smart
+Cameras
+Smart
+Cloths
+Machine Understanding:
+Grammatical Analysis
+Eliza
+Simon
+Penny
+Craig Reynolds, Boids
+Luc Courchesne, Portrait 1, Artintact 2*
+Christa Sommerer and Laurent Mignonneau projects:
+A-Volve
+(A
+still from project)
+Ars Electronic
+1993: GENETIC ART - ARTIFICIAL LIFE
+Naoko Tosa, Neruo
+Baby
+
+8. 11/19:  The Body and the Machine: Cyborgs and
+Surveillance
+Reading
+Donna
+Haraway, The Ironic Dream of a Common Language for Women in the Integrated
+Circuit: Science, Technology,
+and
+Socialist Feminism in the 1980s or A Socialist Feminist Manifesto for Cyborgs
+Orlan,
+Artist Statement about work
+Optional Reading
+Barbara
+Rose, Orlan: Is it art?  Orlan and the Transgressive Act
+Various
+texts on Surveillance and Technology
+ 
+Screening/Surfing
+Augmented
+Reality
+Orlan (Some
+images of the surgery)
+Cyborg Center
+Stelarc
+Ping
+Body Performance
+Eva Wohlgemuth, the evasys.bodyscan
+Lynn Hershman
+, Deep Contact
+A Room of
+Ones Own
+The
+Visible Human Project
+bureau of inverse
+technology (BIT)
+Is big brother
+watching you?
+Video: Spies Above: Someone is Watching You
+
+
+9.11/26:2001 A Space Odyssey
+Reading
+Thanksgiving recipes
+from Aunt Emma: Thanksgiving football cookies
+The Family Fun Network - Thanksgiving
+Recipes
+
+
+10. 12/3:Telepresence. VR and other Immersive Environments
+ 
+Reading
+Michael
+Heim, The Essence of VR
+Sandy
+Stone, Will the Real Body Please Stand Up?
+Optional Reading
+Sandy
+Stone, Mondo 2000 Interview
+Julian
+Dibbell, "Rape in Cyberspace"
+Zoe Beloff,
+Statement on Beyond (Ideas)
+Screening/Surfing
+Zoe Beloff, Beyond (1996)
+Sheldon
+Brown
+Telepresence Research,
+Inc.
+The Telegarden
+Eduardo Kac,
+Ornitorrinco in Eden
+Teleporting an Unknown
+State
+Construct
+The Palace
+Survival Research Laboratories
+Char Davies
+
+
+**Final
+exam worksheet**
+
+
+11. Final Exam: Friday December 12 7-10 PM
+ 
+
+Optional Reading:
+Erkki
+Huhtamo, Art on the CD-ROM Frontier - a Mirage, a Fly in the Eye, or a
+real thing
+ Marshall McLuhan,"The
+Playboy Interview"
+The
+fe.mail data_set
+Diane Bertolo, Probing into Science [An Investigation] (1995)
+Nobukiro Shibayama, Bio-Morph Encyclopedia *
+Net Animations:
+John Hudak,
+Artifact
+Bullseye art
+ 
+ 
+
+

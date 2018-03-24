@@ -1,0 +1,183 @@
+
+
+
+CSc 4210/6210 Computer Architecture Syllabus
+
+
+
+ 
+CSc 4210/6210 Computer Architecture Syllabus
+
+Summer Semester, 2000
+
+Computer Number: 1174 (undergrad) / 2124 (graduate)
+Classroom: 327-G
+Time: 4:45-7:30 p.m. Mondays and Wednesdays
+
+Instructor: Dr. Michael Weeks
+Computer Science Department
+Office: 732 College of Education building
+Office Hours: 2:30 - 4 p.m. Mondays and Wednesdays 
+
+web-page: http://www.cs.gsu.edu/~cscmcw
+e-mail: mweeks@cs.gsu.edu
+Phone: (404) 651-0660
+
+
+
+Teaching Assistant : Mr. Praveen Madiraju
+TA's e-mail: mvnpraveen@hotmail.com
+TA's office: 796 College of Education building
+TA's office hours: 10 - 1 Tuesdays and Thursdays
+
+
+
+
+
+See Attached Calendar
+FINAL EXAM
+The Final Exam will be given in the above classroom on 
+Monday, August 7, at 5-7 p.m.
+
+
+TEXT
+M. Morris Mano.  Computer System Architecture.  3rd Ed.  Prentice Hall
+1993.  (Required.)
+
+PREREQUISITES
+CSc 3210 Computer Organization and Programming (assembly
+language) plus its prerequisites which include Math 2420 Discrete Mathematics
+(discrete structures applicable to computer science, number bases, logic,
+sets, Boolean algebra, graph theory).  Note the prerequisite CSc 3210 is
+required - IF YOU DO NOT HAVE CSc 3210 (OR ITS EQUIVALENT FROM ANOTHER
+INSTITION) ON YOUR TRANSCRIPT, WITHDRAW FROM THIS COURSE NOW. 
+
+CONTENT
+Logic design, combinatorial and sequential circuits,
+micro-operations, computer organization and design, programming a basic
+computer, controllers and micro-programmed control, central processing unit,
+bit slicing, input-output devices, memory. Additionally, as time permits,
+pipelining, reduced instruction sets (RISC), and VLIW (Very Long Instruction 
+Word). (See the outline for important dates and notices)
+
+ATTENDANCE
+
+Attendance is vital to success in this class. Roll will be taken during class, 
+and a late student will be counted as absent. If a student is marked absent 2 
+or more classes in a row then he (or she) may be dropped from this class. 
+Anyone missing approximately 10% of the classes without notifying the 
+professor in advance and obtaining the professor's concurrence may be 
+withdrawn from the course or receive a lower (possibly failing) course 
+grade at the discretion of the professor; anyone receiving V.A. benefits 
+will be reported to the Dean's Office in these circumstances. Students 
+are responsible for all material covered or assigned in class whether or 
+not it is in the text.
+
+
+Students are expected to attend all classes.
+Religious holidays as identified by the
+Provost and Academic Vice President are one exception; if this is your
+case, please identify yourself to me.
+See p.52 of the GSU General Catalog for more information.
+
+HOMEWORK
+
+Regular completion of all assignments, especially outside reading
+and the accomplishment of assignments, is critical to succeed in this 
+course.
+
+GRADING
+
+4210 Students
+4 Quizzes will constitute one-third of the course grade.
+4 Assignments will constitute one-third of the course grade.
+The final exam will constitute one-third of the course grade.
+
+6210 Students
+4 Quizzes will constitute one-third of the course grade.
+4 Assignments will constitute one-third of the course grade.
+The project will constitute one-third of the course grade.
+
+If class is not held on an assignment collection or test date, the 
+collecting or testing will take place on the next day class meets. 
+Because test dates are scheduled in advance, make-up tests will not be
+given. In the case of illness, written evidence from an MD physician or 
+a hospital must be submitted on original letterhead stationary. A missed 
+test will receive a grade of 0%.
+Assignments are due at
+the START of class (by the professor's watch) at the professor's desk in 
+the classroom on
+their due dates.
+An assignment turned in after the start of class on its due date 
+may be considered by the professor to be late and late penalty may 
+be applied to that assignment. 
+A missing assignment will receive a grade of 0. 
+The nominal grade ranges are: 
+  A is 90 to 100%
+B is 80 to 89%
+C is 70 to 79%
+D is 60 to 69%
+F is 0 to 59%
+Any scaling is done solely at the discretion of the professor.
+
+
+
+PLAGIARISM
+
+
+Students may work alone on assignments or in groups, but only within this 
+section of the course. Students working in groups must turn in one assignment 
+for the group and must state on that assignment the names of all the students 
+in the group who contributed to that assignment; the grade for the assignment
+will be divided among the students in the group. For example, if 3 students 
+in this section worked on an assignment that receives a grade of 18 (out of
+25), then each of the three students will receive a a grade of 6 (out of 25). 
+Students who turn in similar assignments without indicating that they 
+collaborated, either within this section or outside of this section, will 
+be assigned a grade of 0 for that assignment. Students must work individually 
+on quizzes and exams without any assistance from persons or things. Any 
+student found to be cheating on an examination will receive a score of 0 
+for that exam. It is the student's responsibility to protect work from 
+copying. No outside help is permitted. If a book or paper is used, it 
+must be referenced and not copied. Plagiarized work is determined solely 
+by the professor and is graded solely at the professor's discretion.
+
+OFFICE HOURS
+
+Office hours and the office location are given at the top. To schedule an 
+appointment outside of these hours, contact the instructor with 3 suggested 
+dates and times when you can meet, and be prepared to meet at one of those 
+times. Office hours may be canceled occasionally because of meetings, 
+seminars, talks, conferences, etc. Office hours for the Teaching Assistant 
+will be given in class.
+
+CSC 6210
+The schedule for CSc 6210 is the same as that for 4210. You will present your 
+project to the class on the date it is due. 
+LATE WORK
+Unless otherwise specified in class, work will be due on the date given 
+in the attached calendar. 
+Late work will be accepted by the instructor at the instructor's discretion. 
+A late penalty of 10%  will be applied for work turned in late, 
+within one 
+week of the original due date. After this, late work will not be accepted.
+Additional points may be deducted for errors. 
+Late copies of any work due during the last 3 classes will not be 
+accepted so that the grades can be turned in on time.
+
+
+
+
+POP QUIZZES
+
+may be given to the class,
+at the instructor's discretion, therefore it is important to attend all
+classes. These pop quizzes (if any are given) will factor into the quiz/test
+grade. If you score below an 80% score on a pop quiz, it indicates that you need
+to dedicate more time to studying the material.
+
+
+Notes: All dates are subject to change. 
+
+
+

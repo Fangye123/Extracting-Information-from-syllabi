@@ -1,0 +1,978 @@
+
+
+
+Ling 001 Background concepts
+
+
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+  
+
+
+
+
+Ling 
+        001     Background concepts
+
+
+
+
+Today we'll cover some basic ideas that underly work in linguistics,
+to help you understand the approach to language that we'll be
+taking in this course.
+
+What is language?
+The word "language" is used in many different ways.
+For most linguists, language is the pattern
+of human speech, and -- what most distinguishes linguistics
+from the everyday use -- the (implicit) systems
+that speaking and listening rely on.
+Other phenomena come to be called "language" because
+of more or less close connections or analogies
+to this central case: writing, sign languages, computer languages,
+the language of dolphins or bees. The ordinary-language meaning
+of the word reflects this process of extension from a speech-related
+core.
+Notice the range of meanings in
+this dictionary entry:
+
+
+[lan·guage]
+
+
+1.
+a.
+Communication of thoughts and feelings through a system of arbitrary signals, such as
+      voice sounds, gestures, or written symbols.
+
+
+ 
+b.
+Such
+      a system including its rules for
+      combining its components, such as
+      words.
+
+
+ 
+c.
+Such
+      a system as used by a nation, people, or other distinct community;
+      often contrasted with dialect.
+
+
+2.
+a.
+A
+      system of signs, symbols, gestures, or rules used in communicating:
+      the language of algebra.
+
+
+ 
+b.
+Computer Science
+       A system of symbols and rules used for communication with
+      or between computers.
+
+
+3.
+ 
+Body
+      language; kinesics.
+
+
+4.
+ 
+The
+      special vocabulary and usages of a scientific, professional,
+      or other group: "his total mastery of screen language
+      -- camera placement, editing -- and his handling of actors"
+      (Jack Kroll)
+
+
+5.
+ 
+A
+      characteristic style of speech or writing: Shakespearean language.
+
+
+6.
+ 
+A
+      particular manner of expression: profane language; persuasive
+      language.
+
+
+7.
+ 
+The
+      manner or means of communication between living creatures other
+      than humans: the language of dolphins.
+
+
+8.
+ 
+Verbal
+      communication as a subject of study.
+
+
+9.
+ 
+The
+      wording of a legal document or statute as distinct from the spirit.
+
+
+
+American
+      Heritage Dictionary, 4th ed.
+
+
+Note that the phenomena named by the extended
+senses are quite different from one another.
+
+Writing is a system of transcription
+  for speech.
+  Sign languages used by the Deaf
+  are an expression of the same underlying human capabilities as
+  spoken language, but in a different medium (gesture rather than
+  sound).
+  Computer languages are artificial
+  systems with some formal analogies (of debatable significance)
+  to the systems underlying human speech.
+
+
+The central role of spoken language, as seen by the
+first definition in the dictionary entry, is also reflected by
+the source of the equivalent word in various
+languages. One common strategy is simply to use the word
+tongue to express the concept
+"language": it's one of that organ's most obvious functions
+in modern humans.
+
+French langue
+
+source of English language
+    as well
+  
+Spanish lengua
+Greek glossa
+Russian jazyk
+Irish teanga
+Hebrew lâshôn
+Hausa harshèe
+
+a Chadic language of Nigeria and Niger
+  
+and of course English tongue!
+
+Another typical source is a word related to a verb such as
+speak or say,
+the basic linguistic act; or a noun meaning speech
+or word(s), what language
+consists of.
+
+German Sprache
+
+cf. sprechen "to speak"
+  
+Dutch taal
+
+related to English tale
+
+Sanskrit bhâSâ
+
+cf. bhâS- "speak"
+  
+Mandarin Chinese yû (yán)
+
+also "talk; words, speech"
+  
+Japanese kotobá
+
+also "word"
+  
+Korean mal
+
+also "words, speech"
+  
+Hawaiian 'ôlelo
+
+also "to say"
+  
+Alsea yul
+
+also "to speak"; a native language of Oregon
+  
+Kashaya cahno
+
+also "to utter" and "word"; a native
+    language of California
+  
+
+The core of the field of linguistics
+has always been the analysis of spoken linguistic
+structure, and this course will introduce the basic concepts
+of this disciplinary core. However, there's a lot of intellectual,
+practical and human interest in other aspects of the study of
+language, and we'll mention these as well when it's appropriate. 
+
+What's a dialect?
+In common parlance, "dialect" implies a nonstandard
+variety of a language. This can be seen in the first definition
+below, which uses "language" for the standard variety.
+(Cf. definition 1c for "language" above.)
+
+
+[di·a·lect]
+
+
+1.
+a.
+A
+      regional or social variety of a language distinguished by pronunciation,
+      grammar, or vocabulary, especially a variety of speech differing from the standard literary language or speech pattern of the culture in which it
+      exists: Cockney is a dialect of English.
+
+
+ 
+b.
+A
+      variety of language that with other
+      varieties constitutes a single language
+      of which no single variety is standard: the dialects of Ancient
+      Greek.
+
+
+2.
+ 
+The
+      language peculiar to the members of a group, especially in an
+      occupation; jargon: the dialect of science.
+
+
+3.
+ 
+The
+      manner or style of expressing oneself in language or the arts.
+
+
+4.
+ 
+A
+      language considered as part of a larger family of languages or
+      a linguistic branch. Not in scientific use: Spanish and French
+      are Romance dialects.
+
+
+
+American
+      Heritage Dictionary, 4th ed.
+
+
+For linguists, however, no one actually speaks an entire "language";
+rather, every utterance occurs in some (social
+and geographical) dialect of a language.
+
+Different dialects are mutually intelligible
+  varieties of a language.
+  Different languages are not mutually
+  intelligible with one another.
+
+Nonstandard dialects lack prestige, but not logic or communicative
+function. A dialect may be socially stigmatized, just like a particular
+word or usage may be; but that says nothing about its linguistic
+status.
+
+Beliefs about language
+Attitudes toward dialects bring up the fact that linguists
+and laypeople often have different views toward linguistic issues.
+There are plenty of valid controversies
+about language. Some questions are entirely political:
+
+should governments try to accommodate speakers of minority
+  languages?
+  how important is it to maintain rigorous standards of usage?
+  is it bad to borrow words from another languages rather than
+  inventing native ones?
+
+Other questions are factual, though
+they have immediate practical consequences:
+
+does bilingual education work?
+  what are the consequences of oral education for deaf children?
+  to what extent can ordinary citizens understand legal contracts?
+  how well do computer speech recognition systems work?
+
+Still other questions are mainly interesting to those who care
+about language itself:
+
+are Korean and Japanese derived from the same ancestral language?
+  how much of linguistic structure is an innate faculty of
+  the brain, and how much emerges from the experience of communication?
+
+Reasonable and informed people can and do disagree about these
+and innumerable other linguistic issues. Particular arguments
+may be illogical, or particular claims may be false, as in any
+debate, but our state of knowledge leaves room for a range of
+opinions.
+
+On the other hand, there are some disagreements
+about language where one side is just wrong, as wrong as
+those who believe that the
+Earth is flat or that it was created out of nothing in 4004 BCE.
+These include plenty of misconceptions
+about language among otherwise reasonable people, simply
+because they have never really learned how language works.
+
+Non-standard dialects are less logical than standard dialects.
+  Languages degrade over time.
+  The language that you speak determines the way you think.
+
+In this course we'll see why these myths are, in fact, provably
+wrong. For more examples, see The
+sci.lang FAQ.
+
+"Grammar"
+When beginning the study of linguistics, it's important to
+understand what linguists normally mean
+by the word grammar. The following distinction is
+crucial.
+Prescriptive grammar: Rules of proper usage that distinguish
+"good" grammar from "bad" grammar. An example
+according to this perspective:
+
+Good:
+  
+He doesn't know.
+
+Bad:
+  
+He don't know.
+
+
+The perceived problem with #2, of course, is that verbs in
+standard English generally require the agreement suffix -(e)s
+when the subject is third person singular, i.e. does rather
+than do.
+(Not all verbs do this, however: Even in standard English,
+so-called modal verbs such as can, will, should,
+etc. never take this agreement suffix. So clearly subject-verb
+agreement is not necessary for the language to function! Many
+languages dispense with it entirely, such as Swedish and Chinese.)
+
+Descriptive grammar: What native speakers know about their language
+in order to make use of it. A similar example according to this
+perspective:
+
+Grammatical (depending on dialect, style, etc.):
+  
+He doesn't know.
+He don't know.
+
+Ungrammatical (regardless of style):
+  
+*He not know.
+*He known't.
+*Not know he.
+
+
+(The asterisk means "ungrammatical"
+in the linguistic sense, i.e. inconsistent with the native speaker's
+knowledge and use of the language.)
+For a linguist, the sentences in #1 both illustrate a fundamental
+property of English, called do-support:
+when most verbs take the negative word not, they require
+addition of the verb do because
+the main verb is not permitted to bear the negation itself.
+
+The same thing happens in questions:
+Do you know them?
+  *Know you them?
+Compared to this rather odd and interesting restriction --
+it's unknown in most languages -- the question of whether or not
+the agreement suffix -(e)s is present seems quite
+boring from a scientific point of view.
+
+It's often said that nonstandard dialects are inferior to the
+standard dialect (usually called "language" in this
+context) because they are less logical,
+or simplified versions of the standard.
+In fact, the rules by which nonstandard dialects work are often more logical or more complex than
+those of standard dialects.
+An example of greater logic:
+
+The nonstandard reflexive pronouns hisself,
+  theirselves use the possessive pronoun just
+  like myself, yourself, ourselves do.
+
+
+ 
+my
+      hat
+myself
+
+
+ 
+your
+      hat
+yourself
+
+
+ 
+his
+      hat
+hisself
+
+
+ 
+her
+      hat
+herself
+
+
+ 
+our
+      hats
+ourselves
+
+
+ 
+your
+      hats
+yourselves
+
+
+ 
+their
+      hats
+theirselves
+
+
+
+Standard himself, themselves
+  irregularly use the object pronoun form in two (or three) instances.
+
+
+ 
+my hat
+see me
+myself
+
+
+ 
+your hat
+see you
+yourself
+
+
+ 
+his
+hat
+see him
+himself
+
+
+ 
+her hat
+see her
+herself
+
+
+ 
+our hats
+see us
+ourselves
+
+
+ 
+your hats
+see you
+yourselves
+
+
+ 
+their
+hats
+see them
+themselves
+
+
+An example of greater complexity:
+
+A nonstandard double negative
+  (I don't see nothing) is actually the agreement
+  with the negative marker not
+  modifying entire clause.
+When the subject of the sentence needs to take this copied
+  negation, the order is reversed,
+  since the not has
+  to occur to the left of the agreeing word.
+
+Can't nobody hold me down.
+    *Nobody can't hold me down.
+    *Nobody can hold me down. (ungrammatical
+    in this dialect)
+If necessary, ain't is added as a kind of negative
+  support (similar to standard do-support).
+
+Ain't nobody saw me.
+    *__ Nobody saw me. (ungrammatical
+    in this dialect)
+By the way, many "standard" languages use double
+  negatives all the time, including French, Spanish, and Russian.
+
+I don't see nothing.
+Je ne vois rien.
+No veo nada.
+Nichevo ne vizhu.
+
+
+Arbitrary correctness
+For the most part, judgments about what type of language is
+"right" and what type is "wrong" is an accident of history. The following example
+illustrates how arbitrary it can be at times.
+Richard Faust, in Columbia Magazine, 11/83, points out
+that there is a historical tendency for
+the -ed ending to drop in commonly used terms that
+start out as phrases of the form Verb-ed Noun:
+
+
+
+Newer (reduced) Form
+
+Older (full) Form
+
+
+ 
+ 
+
+
+
+skim milk
+
+skimmed milk
+
+
+
+ice cream
+
+iced cream
+
+
+
+popcorn
+
+popped corn
+
+
+
+roast beef
+
+roasted beef
+
+
+
+wax paper
+
+waxed paper
+
+
+ 
+ 
+
+
+
+ice tea
+
+iced tea
+
+
+ 
+ 
+
+
+
+whip cream
+
+whipped cream
+
+
+
+cream corn
+
+creamed corn
+
+
+Many of these terms are now standard
+without the -ed, such as ice cream, and they
+sound odd in the older form. For example, Mr. Burns on "The
+Simpsons" is known for his old-fashioned way of talking,
+as illustrated by the use of -ed in places where it has
+generally been abandoned.
+
+
+
+"I feel like such a free spirit, and I'm really enjoying
+      this so-called ... iced cream."
+ 
+    
+
+
+
+
+Montgomery Burns in The Simpsons
+      Episode 1F05,
+      Bart's Inner Child
+
+
+Other phrases have not achieved this status yet, and sound
+distinctly informal without -ed, such as cream corn.
+But in linguistic structure, they are identical;
+the relative status depends not on "logic" or "grammatical
+correctness" in any meaningful sense, but rather on what
+has achieved social acceptability.
+Here's a current example. I have noticed lately that CD's and
+DVD's are often sold in box sets
+rather than boxed sets, though
+both terms are common. Two web searches on Google,
+a year apart, found evidence of an increasing preference for "box
+set":
+
+
+
+January
+      2001
+January
+      2002
+
+
+"box
+      set"
+144,000
+      hits
+= 59%
+333,000
+      hits
+= 66%
+
+
+"boxed
+      set"
+98,700
+      hits
+= 41%
+172,000
+      hits
+= 34%
+
+
+I personally find the phrase box set rather odd -- I
+expect to see "a set of boxes" -- but clearly many other
+speakers of the language have a different point of view. Either
+term has ample precedent in English (skim milk, creamed
+corn); I just haven't gotten used to this particular phrase
+yet.
+Given the usual trend, and the preference reflected in the
+web search, box set
+is likely to win out. I'll just have to get used to it,
+as others in the past had to get used to ice cream when
+they had grown up saying iced cream. Those who don't adjust
+will eventually sound like Mr. Burns.
+
+It's instructive to think of attidutes
+toward language usage as a kind of fashion.
+
+
+
+
+Some styles are hopelessly outdated.
+Speaking today in Elizabethan English, such as asking your
+      roommate Hast thou bought the detergent?,
+      would be absurd.
+    
+
+
+
+
+
+Other styles are appropriate today,
+      if not in every circumstance.
+Whom did you see? is good, but
+      formal, modern English.
+It would be silly to ask your friend, Whom
+      did you see at the frat party?
+
+
+
+
+
+
+
+
+
+Still other styles are complete fantasy.
+Similarly, some standards of usage have no basis in English
+      grammar, such as the prohibition on split
+      infinitives.
+(This prohibition was based on the fact that
+      a Latin infinitive is a single word, e.g. amare. Since
+      Latin was consider the "ideal" language, the silly
+      conclusion was that English two-word infinitives such as to
+      love should be treated as if they were one word as well!)
+
+
+
+Importantly, however, particular styles are appropriate
+for some contexts but not for others -- depending on whether
+you're accepting an Oscar, chatting on a talk show, or battling
+evil.
+
+
+
+
+
+
+
+
+
+Similarly, you have to adopt different
+speaking styles -- and different grammatical usages --
+depending on the situation, audience, and purpose of communication.
+None of these is necessarily "better" than the others
+from a linguistic point of view, but one style will usually be
+the most appropriate in any given
+circumstance.
+
+Changing fashions
+Linguists like to poke fun at prescriptivists by citing some
+historical objections that are hard to understand
+today. This is a bit unfair, since of course the examples
+are selected from cases where complaint and ridicule failed to
+stem the tide of change. One might also cite a set of linguistic
+innovations that died out instead of taking over. On the other
+hand, people generally feel compelled to speak out against a particular
+usage just in case it is spreading.
+In 1837, the Englishman Captain Frederick Marryat ridiculed
+the following American usages, which all seem perfectly
+reasonable today (though some, especially stoop, do retain
+a certain informal character).
+
+
+ 
+fix
+instead of 
+prepare
+
+
+ 
+strike
+ 
+attack
+
+
+ 
+great
+ 
+splendid
+
+
+ 
+right
+      away
+ 
+at
+      once
+
+
+ 
+stoop
+ 
+porch
+
+
+In books like Words and Their Uses (1870) and
+Everyday English (1880), American Richard Grant White objected
+to
+
+"words that are not words,
+  ... a cause of great discomfort
+  to all right thinking, straightforward people."
+His examples of "non-words" included:
+
+reliable  (1850)
+  telegraph  (1794)
+  donate  (1845, U.S.)
+  jeopardize  (1828, though once
+  in 1646)
+  gubernatorial  (1734 and 1809,
+  both in U.S.)
+These were relatively new creations
+at the time (as indicated by first recorded uses shown), and thus
+did not have the level of acceptance they do today -- since they're
+quite well established now.
+
+In 1828, Noah Webster wrote the following about jeopardize:
+
+"This is a modern word used by respectable writers in
+    America, but synonymous with jeopard, and therefore useless."
+Now it's the shorter word that's useless, or rather unused.
+In fact, while well attested from 1374-1654, jeopard
+  was already marked obsolete in Samuel Johnson's dictionary of
+  1755. Vesey said this about jeopard in 1841:
+
+"it is quite out of use," and its attempted revival
+    "indicates rather a spirit of research than good taste."
+
+White also objects to words that are
+really words, but are "constantly abused": 
+
+ 
+
+Good
+Bad
+Comments
+
+
+pitcher
+jug
+ 
+
+
+remainder
+balance
+ 
+
+
+overtake
+catch
+ 
+
+
+earth
+dirt
+"dirt means
+      filth, and primarily filth of the most offensive kind."
+
+
+leading
+      article
+editorial
+ 
+
+
+wharf
+dock
+"docks must
+      be covered"
+
+
+send
+transmit
+ 
+
+
+oversee
+supervise
+ 
+
+
+condemn
+repudiate
+ 
+
+
+home
+residence
+ 
+
+
+recover
+recuperate
+ 
+
+
+killed
+executed
+"a perversion"
+
+
+settle
+locate
+"insufferable"
+
+
+convince
+persuade
+"vulgar"
+
+
+good
+splendid
+"coarse"
+
+
+jewels
+jewelry
+"of very low
+      caste"
+
+
+?
+caption
+"laughable
+      and absurd"
+
+
+iced
+      cream
+ice
+      cream
+(remember Mr.
+      Burns?)
+
+
+Note that Marryat and White, only 33 years apart though on
+opposite sides of the Atlantic, have quite different views regarding
+the use of spendid. Also,
+both verbs convince and persuade are perfectly acceptable
+now, but prescriptivists require convince that but persuade
+to.
+Again, these perspectives are essentially arbitrary. You certainly
+have to pay attention to the prevailing standards in order to
+use language in a way that will be considered "standard"
+or prestigious, but the details themselves are a
+matter of fashion.
+
+
+syllabus   schedule
+
+
+
+
+<!---//hide from naive browsers
+document.write("<font size=-1>last modified: " + document.lastModified +
+"</font>&nbsp;&nbsp;&nbsp;");
+//end hiding ---></FONT>gene@unagi.cis.upenn.edu
+
+

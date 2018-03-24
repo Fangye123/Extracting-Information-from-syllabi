@@ -1,0 +1,182 @@
+
+
+ CSC 221 - Course Syllabus - Spring 2002 
+
+
+ CSC 221 - Course Syllabus - Spring 2002 
+
+document.write("Page last updated: "+document.lastModified)
+ 
+Course Schedule
+Course Links
+
+ 221-001 Lecture   TR   2:00 -  2:50  DO 202   
+ 221-200 Lab        W   9:00 - 10:40  BR 165   
+ 221-201 Lab        W  11:00 - 12:40  BR 165  
+ 221-202 Lab        W   2:20 -  3:55  BR 165  
+INSTRUCTOR 
+Dr. David R.Berman 
+E-mail: bermand@uncwil.edu 
+Office hours (BR 128): MF 12:30-1:30, TR 12:00-1:30. Drop-ins are welcome anytime. 
+Phone: 962-3247
+COURSE DESCRIPTION
+
+CSC 221 is the second course in the three course programming sequence:
+CSC 121, CSC 221, CSC 332. These courses are currently taught using the
+Java programming language and a Windows environment. The prerequisite for
+CSC 221 is CSC 121 (with a grade of "C" or better), and the corequisite is CSC 133 (Discrete Structures).
+Topics in CSC 221 include searching and sorting, recursive algorithms, file input and output, 
+reusable classes and packages, inheritance and polymorphism, event-driven
+programming, and graphical user interfaces. This corresponds to chapters 10-16 of our textbook.
+
+Note 1: Students may declare a major in Computer Science after completion of 
+CSC 121, 133, and 221 with a grade point average of at least 2.5 on these 
+3 courses and with an overall grade point
+average of at least 2.0. (effective for students entering Fall 2000) 
+
+Note 2: A grade of "C" or better is required for taking courses 
+for which CSC 221 is a prerequisite.
+REQUIRED TEXTBOOK
+
+ C. Thomas Wu, 
+ An Introduction to Object-Oriented Programming
+with Java,
+Second Edition, WCB/McGraw-Hill, 2001. 
+ COURSE REQUIREMENTS AND GRADING CRITERIA 
+
+Each student must be registered for the lecture section (TR 2:00 -  2:50, DO 202) and one of the three labs
+(W 9:00 - 10:40, W 11:00 -  12:40, or W 2:20 -  3:55). All labs meet in BR 165. Students are required to attend the
+lab that they are signed up for except under exceptional situations and then when prior arrangements have been made with Dr. Berman.
+The lecture section will determine 58% of the course grade and the lab section 42% of the course grade as itemized below.
+Thus, to succeed/excel in the course, a student must succeed/excel in both lecture and lab section.
+
+
+
+ Lecture Section 
+
+Programming concepts will be presented and discussed in the lecture section. This includes algorithms, Java syntax and semantics, program design,
+and discussion of programming projects and labs. Exams and quizzes will take place in the lecture section. You should come
+to lecture prepared by having read the sections that are listed for that day on the class schedule. Sample programs will
+be linked to the course schedule. Check the schedule at least once a week for updates.
+
+ Quizzes 
+
+Quizzes will serve as milestones between exams and provide valuable feedback to you and Dr. Berman. 
+There will be 7 short quizzes. Each quiz will be given near the end of the class period and last about 10 minutes.
+Quizzes will occur every third lecture period between exams and will cover material from previous lectures and/or labs.
+Make-up quizzes will not be given, but your lowest quiz grade will be dropped. 
+Your graded quiz will be returned the next lecture period. Each quiz will be worth 20 points.
+The average of your 6 quiz grades (multiplied by 5 to put it on a 100 point scale) will count 10% of your course grade.
+ Exams 
+
+There will be three 50-minute exams.  Tentative dates are given in the course schedule.
+Each exam will count 12% of your course grade. Make-up exams will not be given.  
+If a student misses one exam, the grade on the final exam will substitute for it.
+If a student does not miss any exams, the final will substitute for the lowest
+exam grade (if the final is higher). If a student has already missed an exam, subsequent
+missed exams will result in zeroes.
+ Final Exam 
+
+The final exam will be comprehensive and counts either 12% of your 
+course grade, if the final exam grade is lower than your lowest exam, 
+or 24% of your course grade, if the final replaces your lowest exam grade.
+The final exam may not be used to replace your quiz, lab, or program grades.
+
+ Lab Section 
+
+Your lab section will be used for hands-on programming activities. These activities may be structured or unstructured, 
+individual or collaborative, and may vary between the three lab sections. You should come to lab with your Java book(s) and notes and be ready to write code for the entire period. Bring floppy disk(s) to lab to put your work on,
+on be sure to back up your work on your home computer. 
+
+ Lab Participation 
+
+You are expected to stay for the entire lab period and remain focused on the assigned tasks. Hopefully, you 
+will feel that the lab is a non-threatening environment where you can work to improve your programming
+ability. Dr. Berman realizes that there is a wide range in programming abilities and encourages 
+all students to work to do better. Strong programmers who complete the task at hand may be asked to 
+peer tutor their weaker classmates and/or work on other programs. Lab participation (i.e. attendance, following
+directions, etc.) will count 6% of your course grade.
+ Lab Activities 
+
+During most lab periods you will be given a mini-project to work on. Generally, labs will be collaborative in nature,
+i.e. you can talk to your classmates, get help from the lab assistant and Dr. Berman. However, there will be some
+lab quizzes that must be completed without assistance. Lab quizzes will
+be announced the week before. Each lab activity will be graded and the average will count 18% of your course grade.
+ 
+ Programming Projects 
+
+There will be two individual programming projects and two team projects. Some lab time may be devoted to the
+projects, however you will generally be expected to work on the projects outside of class, 
+either in BR 202 or Schwartz Hall or on your home computer. Programming projects will count 18% of your course grade. 
+Specific instructions concerning due dates, late programs, assessment criteria, etc., will be given when the programs
+are assigned.
+
+ Course Grade 
+
+A modified 10-point scale will be used to compute your course grade.
+ 
+
+    Numeric Score     Letter Grade     Quality Points 
+  ====================================================               
+     93.3 - 100            A                4.00 
+     90.0 - 93.2           A-               3.67
+     86.7 - 89.9           B+               3.33
+     83.3 - 86.6           B                3.00
+     80.0 - 83.2           B-               2.67
+     76.7 - 79.9           C+               2.33
+     73.3 - 76.6           C                2.00
+     70.0 - 73.2           C-               1.67
+     66.7 - 69.9           D+               1.33
+     63.3 - 66.6           D                1.00
+     60.0 - 63.2           D-               0.67
+     00.0 - 59.9           F                0.00
+
+
+Honor Code
+
+It is the responsibility of every student to follow
+the UNCW Academic Honor Code (see Section V of your Student Handbook).  
+You violate the honor code when you represent someone else's work
+as your own. Individual programming assignments may be discussed at a conceptual (i.e. 
+design and algorithms) level
+with other students but implementation details and coding must be your own. Team programming assignments
+must be completed without collaboration with other teams. Copying of programs is prohibited and
+will result in disciplinary action (see your Student Handbook). Copying includes digital copies, hand copies,
+as well as representing a slight modification of someone else's code as your own work. 
+Learning Strategies
+
+You are expected to take an active role in your learning in this
+course.  This includes regular attendance, paying attention
+in class, reading the textbook, and completing all course 
+requirements.  You are encouraged to study with your classmates
+outside of class. Programming assignments usually require a lot
+more time than expected, so start early and work some every day.
+
+The following resources are available at UNCW:
+
+ UNCW Labs
+You may work on your programs in BR 202 and Schwartz Hall (open 24 hours). 
+
+ Tutors 
+The Computer Science Department will keep a list of tutors for this class. To view the list
+go to the Computer Science Department web site:
+www.uncwil.edu/csc, and follow the links. 
+
+ Lab Assistants 
+A student lab assistant is assigned to each lab section.
+
+
+Students with Disabilities
+
+If you have a disability and need reasonable accommodation in
+this course, you should inform the instructor of this fact
+in writing within the first week of class or as soon as possible.
+If you have not already done so, you must register with the Office 
+of Disability Services in Westside Hall (extension 3746) and
+obtain a copy of your Accommodation Letter.  You should then meet
+with your instructor to make mutually agreeable arrangements
+based on the recommendations of the Accommodation Letter.
+
+
+
+

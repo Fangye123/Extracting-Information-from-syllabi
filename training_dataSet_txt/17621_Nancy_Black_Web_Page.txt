@@ -1,0 +1,358 @@
+
+
+
+
+
+
+
+
+
+Nancy Black Web Page
+
+
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:Univers;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:Arial;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:24.0pt;
+	font-family:"Times New Roman";
+	mso-font-kerning:18.0pt;
+	font-weight:bold;}
+h2
+	{mso-style-next:Normal;
+	margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+h3
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:"Times New Roman";
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{margin-right:0in;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+@list l0
+	{mso-list-id:470287127;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-2025302898 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:628248250;
+	mso-list-type:hybrid;
+	mso-list-template-ids:332136448 1906575124 -148970360 -1247782232 1929703974 1661352930 -1178032172 298058510 -1883234540 -1171470266;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:965431226;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1868896374 1365418570 -1591834034 1128148264 -1279090490 1390850830 -1080503468 -396578862 -1790411666 -45590396;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3
+	{mso-list-id:1041396490;
+	mso-list-type:hybrid;
+	mso-list-template-ids:254729704 -1873757432 -1717797912 -484692400 42255212 -1992630090 1304350144 -142176686 1227887118 164380726;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4
+	{mso-list-id:1718235830;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1032626994 1190036462 -925722024 -877994862 2070994450 223268458 1149250914 1280853954 1399723596 -719275672;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+Brooklyn College 
+Nancy
+  B. Black 
+Graduate
+  Deputy & Professor of English 
+Office: 2314 Boylan 
+Office
+  Hours: M, T, Th, 3:00-6:00 p.m. 
+(August
+  19-December 19)
+Phone:
+  718-951-5197 
+Voice
+  Mail: 718-951-4275 
+E-mail:
+  nblack@brooklyn.cuny.edu 
+For information about graduate
+  studies at Brooklyn College:
+Graduate Studies in
+  English
+Graduate
+  Studies (general)
+Publications
+
+
+
+
+ Beinecke Rare Book and
+  Manuscript Library, Yale University
+
+
+Medieval Club of New York
+
+
+
+
+
+
+
+Courses
+
+
+
+English 795.7X
+
+
+Seminar in Textual Analysis:
+  Arthurian Legend Transformed (Fall 2000); syllabus; writing
+  assignments
+
+
+
+
+English 5
+
+
+Advanced Exposition and Peer
+  Tutoring (Fall 2000)
+
+
+
+
+Comp Lit 21
+
+
+Comparative Medieval Literature (Fall 2001)
+Syllabus
+
+
+
+
+English 705 X
+
+
+Canterbury Tales (Fall 2001)
+Syllabus; Paper
+  Topics
+
+
+
+
+English 791X
+
+
+Medieval Arthurian Legends (Spring 2002)
+Syllabus;
+  Bibliography; Research
+  Topics
+
+
+
+
+English 706X
+
+
+Chaucer's Work
+  Exclusive of The Canterbury Tales
+(Fall 2002)
+Syllabus 
+
+
+
+
+English 794X
+
+
+The Short Story (Fall
+  2002)
+Syllabus
+
+
+
+
+MARS COURSE (NYU)
+
+
+
+Arthurian Legend (Spring 2001); syllabus
+Selected
+       Bibliography
+Paper
+       Topics
+
+
+
+
+
+
+
+Links
+General Resources
+
+Library
+     Resources (English)
+Other
+     Library Catalogues
+Blackboard Discussion Group
+     (password needed)
+MLA Style
+The Victorian Web
+List of Other Useful Sites
+
+Chaucer Sites
+
+Hanly’s Chaucer
+     Scriptorium
+Chaucer Metapage
+Language and
+     Linguistics
+Middle English Audio
+     (General Prologue) 
+
+Medieval Sites
+
+Bayeux Tapestry
+Paston
+     Family Letters
+Medieval Sourcebook
+Middle
+     English Pronunciation
+The Wars of the
+     Roses
+Cloisters
+NetSERF
+Early Manuscripts at Oxford University
+
+Arthurian Sites
+
+The Tristan Story in
+     Stained Glass (Nineteenth Century)
+Arthurian Images
+MS
+     229
+Alfred, Lord Tennyson's
+     Idylls of the King
+Sir
+     Thomas Malory's Le Morte Darthur
+Camelot
+King Arthur
+The
+     Alliterative Morte Arthure
+The Charrette Project
+Sir Gawain and the
+     Green Knight
+Arthuriana
+
+ 
+
+
+

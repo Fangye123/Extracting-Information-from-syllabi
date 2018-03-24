@@ -1,0 +1,457 @@
+
+
+
+
+
+
+
+PoSc 206 - International Politics
+
+
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"WP TypographicSymbols";
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.0pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+ /* Page Definitions */
+@page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;
+	mso-endnote-numbering-style:arabic;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:1.0in;
+	mso-footer-margin:1.0in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+@page Section2
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:1.0in;
+	mso-footer-margin:1.0in;
+	mso-paper-source:0;}
+div.Section2
+	{page:Section2;}
+@page Section3
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:1.0in;
+	mso-footer-margin:1.0in;
+	mso-paper-source:0;}
+div.Section3
+	{page:Section3;}
+@page Section4
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:1.0in;
+	mso-footer-margin:1.0in;
+	mso-paper-source:0;}
+div.Section4
+	{page:Section4;}
+@page Section5
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:1.0in;
+	mso-footer-margin:1.0in;
+	mso-paper-source:0;}
+div.Section5
+	{page:Section5;}
+-->
+
+
+
+
+Political Science 206                                                     R.
+G. C. Thomas
+Spring 2002                                                                 Room:
+WW-409; Ph: 288-6840
+Tue 5 - 7; WW-418                                                     Office
+Hrs: TuTh 9:45 - 10:45, 12:45 - 1:45,
+3:45
+- 4:45, and by appointment
+ 
+ 
+                                                    INTERNATIONAL
+POLITICS
+ 
+Course Objectives:
+ 
+This is basically a
+"readings" course intended to provide a survey of some of the
+important theoretical and policy-oriented literature in the field of
+international politics.
+ 
+ 
+Course Requirements:
+ 
+There are two
+requirements:  (1) Assigned written
+reviews and oral presentations of the readings (25 points); (2) Three 15-20
+page analytical essays based on the readings (25 points each).  Some basic questions to help you develop
+these essays are provided at the end of this syllabus.
+ 
+Beyond fulfilling the above
+requirements, regular attendance and participation in class discussions are
+also important for determining your grade.
+ 
+ 
+Texts:
+ 
+1. John Baylis and Steve
+Smith, Globalization of World Politics, Oxford University Press, [BS]
+ 
+2. Robert Art and Robert
+Jervis, Eds. International Politics, Addison Wesley Longman 5th
+edition [AJ]
+ 
+3. Phil Williams, Donald
+Goldstein, Jay Shafritz, Eds., Classical Readings of International Relations
+(2nd  edition),
+Prentice-Hall  [WGS]
+ 
+4. John Hutchinson &
+Anthony D. Smith, Eds.,  Nationalism,
+Oxford University Press  [HS]
+ 
+5. Bruce Hoffman, Inside
+Terrorism, Columbia University Press [BH]
+ 
+
+
+
+
+                                                          SYLLABUS
+& READINGS
+ 
+ 
+A.  Historical Background
+ 
+Robert H. Jackson, AThe Evolution of International Society@ [BS, 35-50]
+Susan L. Carruthers, AInternational History 1900-1945@ [BS, 51-73]
+Len Scott, AInternational History 1945-1990" [BS, 74-91]
+ 
+ 
+B. Theories of World
+Politics
+ 
+Timothy Dunne & Brian C.
+Schmidt, ARealism@
+[BS, 141-161]
+Timothy Dunne, ALiberalism@
+[BS, 162-181]
+Steven L. Lamy, ANeo-Realism and Neo-Liberalism,@ [BS, 182-199]
+Steve Hobden and Richard Wyn
+Jones, AMarxist Theories of International Relations@ [BS, 200-223]
+Steve Smith, AReflectivist and Constructivist Approaches to
+International Theory@ [BS, 224-249]
+ 
+ 
+C.  Anarchy and International Society
+ 
+Kenneth Waltz, "The
+Anarchic Structure of World Politics" 
+[AJ, 49-69]
+Kenneth Waltz,
+"International Conflict & International Anarchy: The Third
+Image," [WGS, 231-233]
+John Herz, "The Security
+Dilemma  in the Atomic Age," [WGS,
+234-237]
+Robert Jervis,
+"Cooperation Under the Security Dilemma," [WGS, 237-245]
+Stephen Walt,
+"Alliances: Balancing and Bandwagoning"  [AJ, 110-117]
+ 
+ 
+D.  Classical Theories of International Society
+ 
+Hedley Bull, "The Idea
+of International Society" [WGS, 26-30]
+Thomas Hobbes,
+"Relations Among Sovereigns," [WGS, 35-38]
+Thucydides, "Reflections
+on the Peloponnesian War," [WGS, 222-230]
+Niccolo Machiavelli, "Recommendations
+for the Prince"  [WGS, 30-35]
+Michael Doyle, " Kant,
+Liberal Legacies and Foreign Affairs" [AJ, 97-109]
+Hugo Grotius, "The
+Rights of War and Peace," [WGS, 18-20]
+Hans Morgenthau, "The
+Moral Blindness of Scientific Man," [AJ, 7-16]
+E.H. Carr, "The Realist
+Critique and the Limitations of Realism" [WGS, 39-43]
+Kenneth Waltz, "The
+Origins of War in Neorealist Theory" [WGS, 49-59]
+ 
+ 
+E.  Diplomacy, International Law and
+Organizations
+Hans Morgenthau, "The
+Future of Diplomacy" [AJ, 118-128]
+William D. Coplin,
+"International Law and Assumptions About the State," [WGS, 270-287]
+Stanley Hoffmann, "The
+Uses and Limits of International Law" 
+[AJ, 129-133]
+Robert Keohane, "A
+Functional Theory of Regimes"  [AJ,
+134-140]
+Susan Strange, "Cave!
+Hic Dragones: A Critique of Regime Analysis," [WGS, 298-311]
+David Mitrany, "The
+Functionalist Alternative," [WGS, 311-313]
+
+
+
+
+Donald J. Puchala,
+"Integration Theorists and the Study of IR," [WGS, 314-330]
+Adam Roberts, The United
+Nations and International Security [AJ, 141-149]
+Oran R. Young, "The
+United Nations and the International System," [WGS, 203-214]
+Innis L. Claude,
+"Collective Security as an Approach to Peace," [WGS, 254-266]
+ 
+ 
+F.  Military Balances and Nuclear Deterrence
+Theories
+Kenneth Waltz, "The Stability
+of a Bipolar World," [WGS, 77-85]
+Raymond Aron,
+"Homogenous and Hetrogeneous International Systems," [WGS, 88-91]
+Hans J. Morgenthau, "The
+Balance of Power," [WGS, 246-250]
+A.F.K. Organski,
+"Criticism of Balance of Power Theory," [WGS, 250-254]
+Bernard Brodie, "Nuclear
+Weapons and Strategy," [WGS, 336-341]
+Albert Wohlstetter, "The
+Delicate Balance of Terror," [WGS, 341-345]
+Robert Jervis, "The
+Utility of Nuclear Deterrence" 
+[AJ, 220-228]
+Robert Keohane and Joseph
+Nye, "The Characteristics of Complex Interdependence," [WGS, 92-95]
+ 
+ 
+G.  War/The Use of Force
+Carl von Clausewitz,
+"War as an Instrument of Policy," [WGS, 403-410]
+Sun Tzu, "Offensive
+Strategy," [WGS, 411-413]
+Mao Tse-Tung,
+"Preserving Oneself and Destroying the Enemy," [WGS, 414-421]
+Robert J. Art, "The Four
+Functions of Force"  [AJ, 156-168]
+Thomas Schelling, "The
+Diplomacy of Violence" [AJ, 169-183]
+John Mueller, "The
+Obsolesence of War in the Modern World" [AJ, 204-217]
+Robert Keohane & Joseph
+Nye, "Complex Interdependence & Force" [AJ, 229-244]
+ 
+ 
+H.   State, Foreign Policy and Decision-Making
+J. David Singer, "The
+Level-of-Analysis Problem in International Relations," [WGS, 105-118]
+John Herz, "The
+Territorial State Revisited: Future of the Nation State," [WGS, 119-130]
+B.P. White, "Decision-Making
+Analysis," [WGS, 131-153]
+Ole R. Holsti,
+"Cognitive Dynamics and Images of the Enemy," [WGS, 154-159]
+Graham Allison,
+"Conceptual Models and the Cuban Missile Crisis," [WGS, 160-190]
+Edward L. Morse, "The
+Transformation of Foreign Policies," [WGS, 511-529]
+ 
+ 
+I.  Nations, States and Nationalism
+Fred Halliday, ANationalism@
+[BS, 440-455]
+Hutchinson & Smith,
+"Introduction" [HS, 3-13]
+Joseph Stalin, "The
+Nation"  [HS, 18-21]
+Max Weber, "The
+Nation"  [HS, 21-25]
+Walker Connor, "A Nation
+is a Nation, is a State, is an Ethnic Group, is a..."  [HS, 36-46]
+Ernest Gellner,
+"Nationalism & Modernization" and "Nationalism and High
+Cultures" [HS, 55-69]
+Benedict Anderson,
+"Imagined Communities"  [HS,
+89-96] 
+Hugh Seton-Watson, "Old
+and New Nations" [HS, 134-137]
+John Armstrong, "Nations
+before Nationalism" [HS, 140-147]
+Anthony D. Smith, "The
+Origins of Nations" [HS, 147-154]
+Walker Connor, "When is
+a Nation?" [HS, 154-159]
+
+
+
+
+ 
+ 
+ 
+J.   Nationalism and Secessions
+ 
+Francis Robinson, "Islam
+and Nationalism" [HS, 214-217]
+Crawford Young, "The
+Colonial Construction of African Nations" [HS, 225-231]
+Benjamin Neuberger,
+"State and Nation in African Thought"  [HS, 231-235]
+Edward H. Carr, "Three
+Phases of Nationalism" [HS, 243-245]
+Alfred Cobban, "The Rise
+of the Nation-State System"  [HS,
+245-250]
+Charles Tilly, "Europe
+and the International State System" [HS, 251-254]
+Michael Howard, "War and
+Nations" [HS, 254-258]
+Arend Lijphart, "Ethnic
+Conflict in the West" [HS, 258-261]
+Donald Horowitz, "The Logic
+of Secessions" [HS, 261-269]
+James Mayall,
+"Irredentist and Secessionist Challenges" [HS, 269-280]
+John Armstrong, "Towards
+a Post Communist World"  [HS,
+280-286]
+Philip Schlesinger,
+"Europeaness: A New Cultural Battlefield?" [HS, 316-325]
+ 
+ 
+K.   Cold War and Post Cold War
+George Kennan, "The
+Sources of Soviet Conduct," [WGS, 469-475]
+Arthur Schlesinger, "The
+Origins of the Cold War," [WGS, 475-485]
+Christopher Lasch, "The
+Cold War Revisited and Re-Visioned," [WGS, 485-496]
+Richard Crockatt, AThe End of the Cold War@ [BS, 92-110]
+Michael Cox, AInternational History Since 1989,@ [BS, 111-137]
+John Lewis Gaddis, "The
+Long Peace: Elements of Stability in the Postwar International System,"
+[WGS, 496-511]
+John Mearsheimer, "Why
+We Will Soon Miss the Cold War," [WGS, 563-579]
+Samuel P. Huntington,
+"The Clash of Civilizations?" [WGS, 633-652, AJ, 423-438]
+Chaim Kaufmann, APossible and Impossible Solutions to Ethnic Civil
+Wars,@ [AJ, 439-460]
+Robert D. Kaplan, "The
+Coming Anarchy," [WGS, 653-676]
+Nicholas J. Wheeler, AHumanitarian Intervention and World Politics@ [BS, 470-493]
+Fiona Butler, AEuropean and Regional Integration@ [BS, 494-518]
+Chris Brown, AHuman Rights@
+[599-614]
+ 
+ 
+L.   Weapons of Mass Destruction and
+Unconventional Threats
+Darryl Howlett, ANuclear Proliferation,@ [BS, 415-439]
+John F. Sopko, "The
+Changing Proliferation Threat," [WGS, 587-600]
+Kenneth Waltz, APeace, Stability and Nuclear Weapons,@ [AJ, 461-475]
+Robert J. Art, AThe Dangers of NBC Spread,@[AJ, 476-481]
+Louise I. Shelley, "Transnational
+Organized Crime: An Imminent Threat to the Nation-State," [WGS, 601-622]
+Bruce Hoffman, Inside
+Terrorism [Read sections of book as needed]
+ 
+
+
+
+
+                                                            ESSAY
+REQUIREMENT
+ 
+You are expected to write
+three essays during the semester based on the readings and general themes
+discussed in class.  The broad titles
+for the three essays are provided below. 
+The quotes and the set of questions that follow are only advisory and
+suggestive on the substance to be covered and the possible directions your
+essay could follow. You may cover more or less, or adopt other directions.
+However, most of the themes suggested in the questions  must be addressed.
+ 
+The essays should be about
+15-20 pages double-spaced depending on the font you use.  Essay I is due Tuesday March 5th; Essay II
+by Tuesday April 16th; and Essay III on or before Thursday May 9th.
+ 
+ 
+ 
+                                           I.  International Society and the Use of Force
+ 
+I.  "Wars are unavoidable in international society because of
+the nature of the international system." 
+ 
+Reflect on this statement
+with reference to the following: (a) The underlying sources of conflict (e.g.
+Waltz and others). (b) Classical and contemporary perspectives on war and peace
+(e.g., Hobbesian, Kantian and Grotian perspectives, the lessons of the "Athenian-Melian
+dialogue, E.H. Carr's critique of the "harmony of interests," etc.
+(c) Conventional and Nuclear Military balances. (d) Insurgency and terrorism as
+a means of warfare. (E) Regional economic integration and globalization as
+responses to violent conflict.
+ 
+ 
+                                      II.  Nations, Nationalism and the Future of the
+State
+ 
+"Controlling and
+containing nationalism and secessionist movements in the world will prove to be
+a far greater challenge to US foreign and security policy-makers as compared to
+their past ability to avoid or manage conflict during the Cold War."
+ 
+Explore the above observation
+with reference to the following: (a) Interpretations of ethnicity, nation,
+nationalism, state, nation-state, and sovereignty. (b) The demands of ethnic
+groups who insist on the right to national self-determination, as against that
+of governments who insist on the territorial integrity and sovereignty of
+states. (c) Nationalism, Civil War and Humanitarian Intervention
+ 
+ 
+                                     III.  Post Cold War and Weapons of Mass
+Destruction
+ 
+"The end of the Cold War
+has made little difference to the spread of weapons of mass destruction."
+ 
+Address the above
+observations with reference to the following: (a) Explanations for the Cold
+War. (b) The technological, legal and strategic aspects of the nuclear weapons
+proliferation problem. (c) Parallels and differences in the problems of
+biological and chemical weapons proliferation compared with that of nuclear
+weapons proliferation. (c) Missile proliferation and the utility of Theater
+Missile Defense and National Missile Defense (d) Future conflicts and problems.
+ 
+
+
+

@@ -1,0 +1,336 @@
+
+
+
+
+Biology of Consciousness Syllabus
+
+
+
+
+
+
+
+Navigation Section
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HONORS 4000-882
+The Biology of Consciousness
+
+
+
+
+
+
+
+
+© 1998
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course HomePage
+
+
+
+
+Student Projects
+
+
+
+
+Syllabus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course Bookmarks
+
+
+
+
+Dubin Bookmarks
+
+
+
+
+Instructor Info
+
+
+
+
+
+
+
+
+
+Syllabus and Readings
+To see only the topics without the readings click here
+
+
+
+A few assumptions and principles that I start with.
+
+There is a real physical world. 
+
+Science is an attempt to reproducibly characterize that world
+			in predictive ways 
+
+This results in useful constructions that are what we know about
+			the "true" nature of things. 
+
+The physical brain evolved in ways consistent with Darwinian principles
+			of natural selection. 
+
+
+
+
+
+What are we talking about when we use the term consciousness,
+		and what can we know about it?
+
+"What is consciousness?"
+Summary of class discussion 
+			
+Mind and Brain, a dualism.
+			Descartes, from Cogito Ergo Sum  - Brief Abstract
+			Descartes, from Body as Machine  - Brief Abstract
+			Descartes, Meditation #2  - at The Internet Encyclopedia of Philosophy
+Introduction and Section I (parts 1-6)  - at Mind and Body: Descartes to James 
+Reading questions on the above for discussion.
+
+Consciousness and the incorrigible nature of qualia.
+			Nagel, What is it like to be a bat?  (handout) 
+Reading questions on Nagel for discussion.
+			Two papers by Dennett that argue against the existance of Qualia:
+Instead of Qualia and Quining Qualia. 
+			
+Consciousness, reductionism and the brain.
+			Searle, Minds, Brains and Science  - chapters 1 and 6.
+
+Yes, there is a hard problem.
+			Chalmers,The Puzzle of Conscious Experience. (handout) 
+			
+Can/Will we ever know?
+			Dubin, Of Aspirin and Elephants.
+
+
+
+
+What are some neural correlates of consciousness?
+
+Bridging from the philosophical to the biological.
+			Churchland, Can Neurobiology Teach us Anything about Consciousness?
+Searle, How to study consciousness . . . (1998) Brain Research Interactive Online. (handout)
+
+A bit of basic neuroscience.
+			Basic Neuroscience principles at Explore the Brain and Spinal Cord. The sections on The Brain and The Neuron are required, others
+			are optional. 
+			
+Using Neuroimaging to look at cognition and consciousness.
+			Learn about Neuroimaging techniques at these sites:
+Neuroimaging Primer
+MRI and fMRI, some basics
+Watching the Brain in Action. Be sure to watch the on-line movie.
+PET (Positron Emmision Tomography) basics. Be sure to look at the
+			on-line brochure.
+
+
+other resources: More introductory information is available at:
+				MRI Introduction for High School Students
+What is fMRI? A basic explanation for patients.
+				Neuroimaging links list.
+				MRI resource links.
+Links to MRI Journals with online materials.
+
+
+fMRI of a visual-motor task. Use this to familiarize yourself with
+			typical images.
+
+Note the usual MRI convention that the LEFT side of the head is
+				presented at the RIGHT side of the picture, as if one were facing
+				the subject and looking upwards at the head. (this is not always
+				the case, and images are usually labeled so you can tell.) Also
+				note that there is activity in the visual cortex, at the back
+				of the brain, as well as in the motor area of the cortex.
+
+
+Task-related fMRI images and single images from a movie.
+
+Note that the movie itself is not in a format that many browsers
+				can handle. However, the single images and their explanations
+				are of interest. Be sure you understand that the images are often
+				viewed in different planes, such as saggital, coronal and axial.
+				Be sure you understand the basis of the TASK-RELATED nature of
+				these images.
+
+
+Stimulus-related PET normal brain images and visualization of abnormalities in Alzheimer's, development and dyslexia (fMRI).
+
+Research article: Cortical areas supporting category learning identified using functional
+			MRI. P. J. Reber, et al. (1998) PNAS. 95:747-750. (handout)
+
+Research article: Brain Regions Responsive to Novelty in the Absence of Awareness. G.S. Berns, et al. (1997) Science. 276:1272-1275. (handout)
+
+
+NOTE ON IMAGES: The color pictures from the above two articles
+				can be seen on-line here.
+
+Other resource: Whole Brain Atlas
+
+
+Blindsight.
+			Online Demonstration and basic introduction.
+Research article:Pattern of neuronal activity associated with conscious and unconscious
+			processing of visual signals. A. Sahraie, et al. (1997) PNAS. 94:9406-9411. (handout)
+
+Vision of 'What vs. How' and blindsight. Starts here and continues on the next web page.
+
+Section on blindsight from a review article: Visual Perception and Visual Awareness after Brain Damage: A Tutorial
+			Overview. (1995) In: Attention and Performance XV, edited by C. Umilita and M. Moscovitch, MIT Press. (handout)
+
+Research article: Do imagined and executed actions share the same neural substrate? J. Decety (1996) Cognitive Brain Research. 3:87-93. (handout)
+
+Illusions: tricks the brain plays.
+			Start with the Online discussion and demonstration Tricks of the Eye at Serendib. Be sure to visit all the links at Serendib related
+			to illusions, including: Seeing more than your eye does (four link levels), and lateral inhibition. 
+
+
+Optional: While at Serendib you might want to play The Prisioners Dilemma in order to experience how one can operate in a cognitively ambiguous
+				environment. 
+
+
+Next, go to Illusion Works, which has examples of the major types of illusions, as well
+			as discussions about them. Be sure to see: Introduction to Illusions, the Interactive Demonstrations Hall of Illusions, and Illusions in Art including the discussion. 
+
+Then, you should check out the sites Fun Things in Vision and the Visual Illusions Gallery. While many of the illusions there are repeats of ones at the
+			ones above, in some cases the display format is different and
+			some not at the other sites are shown.
+
+
+IMPORTANT TECHNICAL NOTE: The Browser you use needs up-to-date plugins for Java and Shockwave
+				to see some of these demos properly (or at all). If it is your
+				own machine and you know what to do, you can follow the onscreen
+				suggestions for installation of the necessary items. Most of the
+				browsers on campus should work, but some may not be properly updated.
+				If you have trouble, look for a machine that is current, such
+				as in a faculty lab you have access to.
+
+
+Cognitive Illusions
+Research article - Judgement under uncertainty: Heuristics and Biases. Tversky, A. & D. Kahneman (1974) Science. (handout)
+
+Pathological Conditions.
+			Annotated list of Agnosias, and Related Behavioral and Cognitive Disorders.
+Abstracts of case descriptions from the journal Neurocase.
+Handout, What Course Can Teach Us How to Understand a Fading of the Soul? by Lawrence Biemiller.
+
+Handout, from Ch. 11, The Neurology of Thinking by D.F. Benson
+The Binding Problem.
+			This is treated in an on-line seminar run by the Association for the Scientific Study of Consciousness.
+			Start by reading the target article, Temporal Binding, Binocular Rivalry and Consciousness. Then examine the commentary and discussion items that interest you.
+
+
+
+		Can we show that consciousness matters?
+
+What might be the evolutionary pressure for its selection?
+			Polgar & Flanagan. Is Consciousness an Adaptation.
+Barlow, The Biological Role of Consciousness. In: Mindwaves, Blakemore and Greenfield, eds. (handout) 
+			
+Does parapsychology tell us anything relevant?
+			See the site Princeton Engineering Anomalies Research: Scientific Study of Consciousness-Related Physical Phenomena and then read the sections Background, The PEAR Laboratory, and
+			Human/Machine Anomoly in their paper Consciousness and Anomalous Physical Phenemona.
+
+
+
+
+Are animals conscious?
+
+How Might We Know.
+Colin Allen and Marc Bekoff, Species of Mind, chapter 8, Consciousness: Essential or dispensable? (handout)
+			
+			
+Primate consciousness.
+			NATURE video, Monkey in the Mirror (shown in class)
+
+
+
+
+Is the brain (like) a computer? Can a computer have a mind?
+
+Turing Machines. Replacement of the brain a part at a time, Turing
+			Machines and Syntax vs. Semantics - The Chinese Room.
+Is the brain (like) a computer?
+
+Computational Approaches
+			Research Paper (handout): Mathis and Mozer, On the Computational
+			Utility of Consciousness.
+
+
+
+
+ 
+Who/What is I?
+
+Buddhism.
+The Buddhist concept of mindfulness.
+
+The Implications of psychoactive agents.
+			Kramer, Chapter 9, Listening To Prozac.
+			
+Agent vs. locus.
+
+Free will.
+
+
+
+
+
+

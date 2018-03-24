@@ -1,0 +1,828 @@
+
+
+
+
+
+
+American Political Development Syllabus Spring 2002
+
+
+Ph.D. Program in Political
+Science, CUNY Professor Andrew J. Polsky
+P SC 82601 Office: 5205 GC
+Spring 2002 Phone (Hunter College):
+Monday 4:15-6:15, 5382 GC (212) 772-5507
+e-mail: apolsky@hunter.cuny.edu Office hours: Mon., 3-4 PM
+ajpolsky@aol.com
+http://urban.hunter.cuny.edu/~apolsky/
+ 
+ 
+
+
+
+American Political Development
+
+Course Description
+ 
+The study of American political development offers scholars a vehicle
+for exploring many dimensions of politics, state formation, and political
+life in the United States. Accordingly, during the past two decades proponents
+of various analytical approaches have embarked upon historical research.
+From a formal theory perspective, history offers a rich source of cases
+that may be used to test various propositions. Scholars who pursue the
+rational choice version of new institutionalism have drawn upon historical
+evidence to explore a number of significant concepts, including structure-induced
+equilibrium and endogeneity. Practitioners of other approaches likewise
+have turned to the past to better explain how the political system operates
+today. The descriptive-narrative new institutionalists offer single-case
+longitudinal and comparative studies to demonstrate the impact of past
+decisions on later institutional, political, and policy development. This
+research has yielded concepts like path dependence that have become a standard
+component in accounts of institutional development. At the same time, scholars
+of American political ideas and culture have traced the impact of debates,
+narratives, and rhetoric on politics. American political development, in
+short, has become the terrain upon which the different major approaches
+to the study of American politics (and political phenomena more generally)
+engage each other and break down many of the standard categories within
+the American politics field. The results range from positive cross-fertilization
+to sharp and sometimes angry debate.
+ 
+In this seminar we will examine a number of approaches to the study
+of American political development. Note that unlike a history course, this
+one is not organized chronologically. Rather, each session will be devoted
+to the discussion of a different analytical approach. It is to be expected
+that there will be some overlap in historical coverage; indeed, that overlap
+is desirable, because it will help us understand how different approaches
+draw upon different kinds of evidence and illuminate different aspects
+of the same phenomenon. I have selected readings that I regard as "productive":
+that is, they have either generated significant discussion or have given
+rise to further research that employs the same analytical tools. Students
+will be encouraged to consider how the material we cover in the course
+might be used as a springboard for their own research, up to and including
+doctoral dissertations, in American politics and other fields.
+ 
+Course Requirements
+ 
+1. Complete assigned readings before class meetings and prepare seven
+two-page summaries. I have limited the number of pages in assigned readings
+to keep the reading assignment manageable, though of course you may disagree
+with my notion of what that means. The syllabus is also on-line at http://urban.hunter.cuny.edu/~apolsky/.
+Over the course of the semester you are required to submit seven typed
+summaries of assigned readings. These summaries will be due at the start
+of the class session at which the reading will be discussed. I do not accept
+late summaries for any reason. I often ask certain students in advance
+to be ready to lead the discussion of specified readings and to raise questions
+about an author's method and use of evidence. It makes sense to write summaries
+of readings you are designated to discuss. As indicated below, the course
+grade is based in part on the summaries.
+ 
+2. Attend class regularly and participate. Contribution to the class
+discussion will be considered in the calculation of the final grade for
+the course. (See below under grading.)
+ 
+3. Complete the final exam. We will decide together whether the final
+exam will be an in-class exercise or a take-home exam. Either way, you
+must complete the exam by the scheduled date. I will grant an extension
+only for documented, valid reasons, and I will give you only as much time
+as you were incapacitated. Students who do not complete the final exam
+will not be able to pass the course and will not be given an incomplete
+grade.
+ 
+4. Complete the research paper. As an 800-level research seminar, this
+course requires a substantial research paper of standard journal-article
+length (20-25 pages). I encourage you to select a topic that reflects both
+the course content and your major interest in political science. For example,
+if comparative politics is your major, you may wish to do a paper comparing
+some aspect of American political development to that of another nation;
+if you are primarily interested in international relations, consider doing
+a paper on the development of American foreign policy or on how international
+events have shaped domestic American development; etc. The research paper
+may use existing secondary literature to explain some aspect of American
+political development or may rely upon original research using archival
+and other sources. To get a sense of how research in American political
+development is presented, I recommend you review journals like Studies
+in American Political Development or Journal of Policy History.
+I will require that you identify a topic and prepare a preliminary bibliography
+by a specified date during the semester. Failure to do so will, again,
+make you ineligible for an incomplete grade in the course. The schedule
+of topics below contains many bibliographic citations that may serve as
+a useful starting point for your research. Late in the term students will
+give an oral presentation to the seminar in which they will state the central
+theoretical problem or question that guides their research, identify the
+specific historical outcome(s) they seek to explain, present a "causal
+story" that connects causal factors to the outcome(s), and indicate their
+plan for carrying out the research needed to investigate the posited causal
+connection. All papers must be completed by the end of the summer vacation
+period and submitted to me by September 1, 2002.
+ 
+Grading
+ 
+Grading for the course will be based on the following:
+Class participation and preparation: 25%
+Final exam: 25%
+Research paper: 50%
+The class participation grade will be based upon the summaries and participation.
+Timely completion of seven summaries establishes a base participation grade
+of A-. If you submit fewer than seven, the base participation grade drops
+to B; if you submit fewer than four, to C+. The participation grade will
+also reflect your active, thoughtful contribution to the discussion. As
+indicated above, you must maintain "satisfactory progress" in the course
+in order to complete it in good standing or to be eligible for an incomplete
+grade. You cannot attend sporadically, fail to submit summaries, fail to
+identify a paper topic or present it to the class, tell me you are unprepared
+for the final exam, and then expect to receive an incomplete. It is my
+goal to ensure that you have finished all in-semester course requirements
+and made a serious start on your research paper before the summer, and
+to have you complete the course by September 1, 2002.
+ 
+Books for Purchase
+ 
+The titles listed here are available through the Hunter College Bookstore,
+operated by Barnes and Noble, located at Lexington Avenue and 68th Street.
+Note that these books are also on reserve at the Graduate School library.
+Less expensive used copies of several titles are available on-line through
+Amazon.com. Additional required readings have been compiled in a course
+pack available from Campus Coursepaks, Inc. I will explain how this may
+be purchased at the first class. One copy of the course pack has been placed
+on library reserve, too, but I strongly recommend that you buy it.
+ 
+John H. Aldrich, Why Parties? The Origin and Transformation of Political
+Parties in America (Chicago: University of Chicago Press, 1995).
+Richard F. Bensel, Sectionalism and American Political Development:
+1880-1980 (Madison: University of Wisconsin Press, 1984).
+Paul Frymer, Uneasy Alliances: Race
+and Party Competition in America (Princeton: Princeton University Press,
+1999).
+Karen Orren, Belated Feudalism: Labor, the Law, and Liberal Development
+in the United States (New York: Cambridge University Press, 1991).
+Andrew J. Polsky, The Rise of the Therapeutic State (Princeton:
+Princeton University Press, 1993).
+Stephen Skowronek, Building a New American State: The Expansion of
+National Administrative Capacities, 1877-1920 (New York: Cambridge
+University Press, 1982).
+Peter Trubowitz, Defining the National Interest: Conflict and Change
+in American Foreign Policy (Chicago: University of Chicago Press, 1998).
+ 
+ 
+ 
+Schedule of Class Topics and Assignments
+ 
+Required readings are preceded by a double asterisk. You should read
+them in the order in which they are listed. Additional readings for each
+topic (listed alphabetically) are intended as a guide to further research.
+These readings may be linked to the assigned reading by common methodology
+or substantive focus.
+ 
+February 4th. Introduction and Overview: The New Institutionalisms.
+**David Brian Robertson, "Politics and the Past: History, Behavioralism,
+and the Return to Institutionalism in American Political Science," in Eric
+H. Monkkonen, ed., Engaging the Past: The Uses of History Across the
+Social Sciences (Durham, NC: Duke University Press, 1994), pp. 113-53.
+[course pack]
+**Ira Katznelson, "The State to the Rescue? Political Science and History
+Reconnect," Social Research 59 (4) (Winter 1992): 719-37. [course
+pack]
+Amy Bridges, "Path Dependence, Sequence,
+History, Theory," Studies in American Political Development 14:1
+(Spring 2000): 109-112.
+Peter Evans, Dietrich Rueschemeyer, and Theda Skocpol, eds., Bringing
+the State Back In
+(New York: Cambridge University Press, 1985).
+Ellen M. Immergut, "The Theoretical Core
+of the New Institutionalism," Politics and Society 26:1 (March,
+1998) 5-34.
+Ira Katznelson, "The Doleful Dance of Politics
+and Policy: Can Historical Institutionalism Make a Difference?" American
+Political Science Review 92:1 (March 1998): 191-198.
+James G. March and Johan P. Olsen, "The New Institutionalism: Organizational
+Factors in Political Life," American Political Science Review 78
+(3) (1984): 734-49.
+James G. March and Johan P. Olsen, Rediscovering Institutions: The
+Organizational Basis of
+Politics (New York: Free Press, 1989).
+Peter F. Nardulli, ed., The Constitution and American Political Development:
+An Institutional Perspective (Urbana: University of Illinois Press,
+1991).
+Paul Pierson, "Increasing Returns, Path
+Dependence, and the Study of Politics," American Political Science Review
+94 (2) (June 2000): 251-67.
+Paul Pierson, "When Effect Becomes Cause: Policy Feedback and Political
+Change," World Politics 45 (July 1993): 123-63.
+Sven Steinmo, Kathleen Thelen, and Frank Longstreth, eds., Structuring
+Politics: Historical Institutionalism in Comparative Analysis (Cambridge:
+Cambridge University Press, 1992).
+Elaine K. Swift and David W. Brady, "Common Ground: History and Theories
+of American Politics," in Lawrence C. Dodd and Calvin Jillson, eds., The
+Dynamics of American Politics: Approaches and Interpretations (Boulder:
+Westview Press, 1994), pp. 83-104.
+February 11th. Approach Building in an Established Discipline: Politics
+and State Formation in the Modern United States.
+**Skowronek, Building a New American State, chaps. 1-3, 5-6,
+8, Epilogue.
+Glenn C. Altschuler and Stuart M. Blumin,
+Rude Republic: Americans and their Politics in the Nineteenth Century
+(Princeton: Princeton University Press, 2000).
+Charles C. Bright, "The State in the United States During the Nineteenth
+Century," in Charles Bright and Susan Harding, eds., Statemaking and
+Social Movements: Essays in History and Theory (Ann Arbor: University
+of Michigan Press, 1984), pp. 121-58.
+Daniel P. Carpenter, The Forging of
+Bureaucratic Autonomy: Reputations, Networks, and Policy Innovation in
+Executive Agencies, 1862-1928 (Princeton: Princeton University Press,
+2001).
+Matthew A. Crenson, The Federal Machine: Beginnings of Bureaucracy
+in Jacksonian America (Baltimore: Johns Hopkins University Press, 1975).
+Richard R. John, Spreading the News: The American Postal System from
+Franklin to Morse (Cambridge, MA: Harvard University Press, 1995).
+Samuel Kernell and Michael P. McDonald,
+"Congress and America's Political Development: The Transformation of the
+Post Office from Patronage to Service," American Journal of Political
+Science 43:3 (July 1999): 792-811.
+Terrence J. McDonald, "Building the Impossible State: Toward an Institutional
+Analysis of Statebuilding in America, 1820-1930," in John E. Jackson, ed.,
+Institutions in American Society: Essays in Market, Political, and Social
+Organizations (Ann Arbor: University of Michigan Press, 1990).
+William E. Nelson, The Roots of American Bureaucracy, 1830-1900
+(Cambridge : Harvard University Press, 1982).
+William J. Novak, The People's Welfare: Law and Regulation in Nineteenth-Century
+America (Chapel Hill: University of North Carolina Press, 1996).
+William G. Shade, "`Revolutions Can Go Backwards': The American Civil
+War and the Problem of Political Development," Social Science Quarterly
+55 (3) (December 1974): 753-67.
+Elaine K. Swift, The Making of an American Senate: Reconstitutive
+Change in Congress 1787-1841 (Ann Arbor: University of Michigan Press,
+1996).
+ 
+February 20th (Wednesday) and 25th. Geography is Destiny: Sectionalism,
+Political Economy, and Political Development.
+**Bensel, Sectionalism and American Political Development., chaps.
+1-3, 7-9.
+**Trubowitz, Defining the National Interest.
+Lee J. Alston and Joseph P. Ferrie, Southern
+Paternalism and the American Welfare State: Economics, Politics, and Institutions
+in the South, 1865-1965 (New York: Cambridge University Press, 1999).
+Richard Franklin Bensel, The Political
+Economy of American Industrialization, 1877-1900 (New York: Cambridge
+University Press, 2001).
+Richard Franklin Bensel, Yankee Leviathan: The Origins of Central
+State Authority in America, 1859-1877 (Cambridge: Cambridge University
+Press, 1990).
+David W. Brady and Bernard Grofman, "Sectional Differences in Partisan
+Bias and Electoral Responsiveness in US House Elections, 1850-1980," British
+Journal of Political Science 21 (April 1991): 247-56.
+Scott C. James, "A Party System Perspective on the Interstate Commerce
+Act of 1887: The Democracy, Electoral College Competition, and the Politics
+of Coalition Maintenance,"
+Studies in American Political Development
+6 (Spring 1992): 163-205.
+Desmond King, "Sectionalism and Policy Formation in the United States:
+President Carter's Welfare Initiatives," British Journal of Political
+Science 26 (3) (July 1996): 337-68.
+Elizabeth Sanders, "Industrial Concentration, Sectional Competition,
+and Antitrust Politics in America, 1880-1980," Studies in American Political
+Development 1 (1986): 142-214.
+Elizabeth Sanders, Roots of Reform:
+Farmers, Workers, and the American State, 1877-1917 (Chicago: University
+of Chicago Press, 1999).
+Bruce J. Schulman, From Cotton Belt to Sunbelt: Federal Policy, Economic
+Development, and the Transformation of the South, 1938-1990 (New York:
+Oxford University Press, 1991).
+Regina Werum, "Sectionalism and Racial
+Politics: Federal Vocational Policies and Programs in the Predesegregation
+South," Social Science History 21:3 (Fall 1997): 399-453.
+ 
+March 4th. The Impact of Political Culture: Values, Boundaries, and
+Causes
+**David Greenstone, "Political Culture and American Political Development:
+Liberty, Union, and the Liberal Bipolarity," Studies in American Political
+Development 1 (1986): 1-49. [course pack]
+**Rogers M. Smith, "Beyond Tocqueville, Myrdal, and Hartz: The Multiple
+Traditions in America," American Political Science Review 87 (3)
+(September 1993): 549-66. [course pack]
+**Karen Orren and Rogers Smith (forum), "Structure, Sequence, and Subordination
+in American Political Culture: What's Tradition Got to Do with It?" Journal
+of Policy History 8 (4) (1996): 470-84. [course pack]
+**Russell L. Hanson, "Liberalism and the Course of American Social Welfare
+Policy," in Lawrence C. Dodd and Calvin Jillson, eds., The Dynamics
+of American Politics: Approaches and Interpretations (Westview Press,
+1994), pp. 132-59. [course pack]
+Gillian Brown, The Consent of the Governed:
+The Lockean Legacy in Early American Culture (Cambridge: Harvard University
+Press, 2001).
+Ronald P. Formisano, The Transformation of Political Culture: Massachusetts
+Parties, 1790s-1840s (New York: Oxford University Press, 1983).
+J. David Greenstone, "Political Culture and American Political Development:
+Liberty, Union, and the Liberal Bipolarity," Studies in American Political
+Development 1 (1986): 1-49.
+Louis Hartz, The Liberal Tradition in America: An Interpretation
+of American Political Thought Since the Revolution (San Diego: Harcourt
+Brace Jovanovich, 1962).
+Samuel P. Huntington, American Politics: The Promise of Disharmony
+(Cambridge: Harvard University Press, 1981).
+Robert Kelley, The Cultural Pattern in American Politics: The First
+Century (New York: Alfred A. Knopf, 1979).
+James A. Morone, The Democratic Wish: Popular Participation and the
+Limits of American Government, rev. ed. (New Haven: Yale University
+Press, 1998).
+Theda Skocpol, "Thinking Big: Can National Values or Class Factions
+Explain the Development of Social Provision in the United States?: A Review
+Essay," Journal of Policy History 2 (4) (1990): 425-38.
+Sven Steinmo, "Why is Government So Small in America?" Governance
+8 (3) (July 1995): 303-34.
+March 11th. Parties and American Political Development: Self-Interest,
+Ambition, and Ideas.
+**Aldrich, Why Parties?, chaps. 1-5.
+**John Gerring, "A Chapter in the History of American Party Ideology:
+The 19th Century Democratic Party, 1828-1892," Polity 26 (4) (Summer
+1994): 729-68. [On reserve]
+**John Gerring, "Continuities of Democratic
+Ideology in the 1996 Campaign," Polity 30 (1) Fall 1997): 167-86.
+[On reserve]
+William Bianco, David B. Spence, and John D. Wilderson, "The Electoral
+Connection in the Early Congress: The Case of the Compensation Act of 1816,"
+American Journal of Political Science 40 (1) (February 1996): 145-71.
+Donald B. Cole, Martin Van Buren and the American Political System
+(Princeton: Princeton University Press, 1984).
+David Epstein and Sharyn O'Halloran, "The Partisan Paradox and the U.S.
+Tariff, 1877-1934,"
+International Organization 50 (2) (Spring 1996):
+301-24.
+John Gerring, Party Ideologies in America,
+1828-1996 (New York: Cambridge University Press, 1998).
+William E. Gienapp, The Origins of the Republican Party, 1852-1856
+(New York: Oxford University Press, 1987).
+Anna L. Harvey, Votes Without Leverage: Women in American Electoral
+Politics, 1920-1970 (New York: Cambridge University Press, 1998).
+Richard Hofstadter, The Idea of a Party System: The Rise of Legitimate
+Opposition in the United States, 1780-1840 (Berkeley: University of
+California Press, 1969).
+Michael F. Holt, The Rise and Fall of
+the American Whig Party: Jacksonian Politics and the Onset of the Civil
+War (New York: Oxford University Press, 1999).
+Scott C. James and Brian L. Lawson, "The
+Political Economy of Voting Rights Enforcement in America's Gilded Age:
+Electoral College Competition, Partisan Commitment, and the Federal Election
+Law," APSR 93 (1) (March 1999): 115-31.
+Scott C. James, Presidents, Parties,
+and the State: A Party System Perspective on Democratic Regulatory Choice,
+1884-1936 (New York: Cambridge University Press, 2000).
+ 
+March 18th. Positive Theory Meets the Past.
+**Barry R. Weingast, "Political Stability and Civil War: Institutions,
+Commitment, and American Democracy," in Robert H. Bates et al., Analytic
+Narratives (Princeton: Princeton University Press, 1998), pp. 148-93.
+[On reserve]
+**Terry M. Moe, "Interests, Institutions, and Positive Theory: The Politics
+of the NLRB,"
+Studies in American Political Development 2 (1987):
+236-299. [On reserve]
+**Charles Stewart III and Barry Weingast, "Stacking the Senate, Changing
+the Nation: Republican Rotten Boroughs, Statehood Politics, and American
+Political Development,"
+Studies in American Political Development
+6 (Fall 1992): 223-71. [On reserve]
+**Rogers M. Smith, "If Politics Matters: Implications for a `New Institutionalism,'"
+Studies in American Political Development 6 (Spring 1992): 1-36.
+[course pack]
+Michael J.G. Cain and Keith L. Dougherty,
+"Suppressing Shays' Rebellion: Collective Action and Constitutional Design
+under the Articles of Confederation," Journal of Theoretical Politics
+11:2 (April 1999): 233-260.
+Douglass C. North, Institutions, Institutional Change and Economic
+Performance (Cambridge: Cambridge University Press, 1990.)
+Charles Stewart III, Budget Reform Politics: The Design of the Appropriations
+Process in the House of Representatives, 1865-1921 (New York: Cambridge
+University Press, 1989).
+William H. Riker, The Strategy of Rhetoric: Campaigning for the American
+Constitution (New Haven: Yale University Press, 1996).
+ 
+Spring Recess.
+ 
+April 1st. The Layering of Institutional Logics: Law and Labor in
+American Political Development.
+**Orren, Belated Feudalism.
+Robin Archer, "Unions, Courts, and Parties:
+Judicial Repression and Labor Politics in Late Nineteenth-Century America,"
+Politics and Society 26:3 (September, 1998): 391-422.
+Melvyn Dubofsky, The State and Labor in Modern America (Chapel
+Hill: University of North Carolina Press, 1994).
+William Forbath, Law and the Shaping of the American Labor Movement
+(Cambridge: Harvard University Press, 1991).
+Julie Greene, Pure and Simple Politics:
+The American Federation of Labor and Political Activism, 1881-1917
+(New York: Cambridge University Press, 1998).
+Victoria C. Hattam, Labor Visions and State Power: The Origins of
+Business Unionism in the United States (Princeton: Princeton University
+Press, 1993, 1994).
+Gwendolyn Mink, Old Labor and New Immigrants in American Political
+Development: Union, Party, and State, 1875-1920 (Ithaca: Cornell University
+Press, 1986).
+Ruth O'Brien, Workers' Paradox: The Republican Origins of New Deal
+Labor Policy, 1886-1935 (Chapel Hill: University of North Carolina
+Press, 1998).
+Karen Orren, "The Primacy of Labor in American Constitutional Development,"
+American Political Science Review 89 (2) (June 1995): 377-88.
+David Brian Robertson, Capital, Labor,
+and State: The Battle for American Labor Markets from the Civil War to
+the New Deal (Lanham, MD: Rowman and Littlefield, 2000).
+Christopher L. Tomlins, The State and the Unions: Labor Relations,
+Law and the Organized Labor Movement in America, 1880-1960 (New York:
+Cambridge University Press, 1985).
+ 
+April 8th. Crisis, Discourse, and the Creation of Partisan Regimes.
+**David Plotke, Building a Democratic Political Order: Reshaping
+American Liberalism in the 1930s and 1940s (Cambridge University Press,
+1996), Introduction and chaps. 1-2. [On reserve]
+**Andrew J. Polsky, "A Theory of American Partisan Regimes," paper presented
+at the 2001 APSA Annual Meeting, San Francisco, CA. [course pack]
+**Karen Orren and Stephen Skowronek, "Regimes and Regime Building in
+American Government: A Review of the Literature on the 1940s," Political
+Science Quarterly 113 (4) (1998-1999): 689-701. [On reserve]
+Andrew J. Enterline, "Regime Changes and
+Interstate Conflict, 1816-1992," Political Research Quarterly 51:2
+(June, 1998): 385-410.
+Kenneth Finegold and Theda Skocpol, State and Party in America's
+New Deal (Madison: University of Wisconsin Press, 1995).
+Robert Higgs, Crisis and Leviathan: Critical Episodes in the Growth
+of American Government (New York: Oxford University Press, 1987).
+Andrew S. McFarland, "Interest Groups and Political Time: Cycles in
+America," British Journal of Political Science 21 (July 1991): 257-84.
+David Resnick and Norman C. Thomas, "Reagan and Jackson: Parallels in
+Political Time,"
+Journal of Policy History 1 (2) (1989): 181-205.
+David Resnick and Norman C. Thomas, "Cycling Through American Politics,"
+Polity 23 (Fall 1990): 1-21.
+Martin Shefter, "Party, Bureaucracy, and Political Change in the United
+States," in Political Parties and the State (Princeton: Princeton
+University Press, ), pp. 61-97.
+Stephen Skowronek, "Notes on the Presidency in the Political Order,"
+Studies in American Political Development 1 (1986): 286-302.
+Stephen Skowronek, The Politics Presidents Make: Leadership from
+John Adams to George Bush (Cambridge: Harvard University Press, 1993).
+Patricia Sykes, "Party Constraints on Leaders in Pursuit of Change,"
+Studies in American Political Development 7 (1) (Spring 1993): 151-76.
+ 
+April 15th. Party and Race in American Political Development.
+**Frymer, Uneasy Alliances.
+Pamela Brandwein, Reconstructing Reconstruction,
+The Supreme Court and the Production of Historical Truth (Durham, NC:
+Duke University Press, 1999).
+Michael K. Brown, Race, Money, and the
+American Welfare State (Ithaca: Cornell University Press, 1999).
+Edward G. Carmines and James A. Stimson, Issue Evolution: Race and
+the Transformation of American Politics (Princeton: Princeton University
+Press, 1989).
+Gareth Davies and Martha Derthick, "Race
+and Social Welfare Policy: The Social Security Act of 1935, "Political
+Science Quarterly 112:2 (Summer 1997): 217-236.
+Mary Dudziak, Cold War Civil Rights:
+Race and the Image of American Democracy (Princeton: Princeton University
+Press, 2000).
+Gary Gerstle, American Crucible: Race and Nation in the Twentieth
+Century (Princeton: Princeton University Press, 2001).
+Michael Goldfield, The Color of Politics: Race, Class, and the Mainsprings
+of American Politics (New York: New Press, 1997).
+Hugh Davis Graham, The Civil Rights Era: Origins and Development
+of National Policy, 1960-1972 (New York: Oxford University Press, 1990).
+Desmond King, Making Americans: Immigration,
+Race, and the Origins of the Diverse Democracy (Cambridge: Harvard
+University Press, 2000).
+Desmond King, Separate and Unequal: Black Americans and the US Federal
+Government (New York: Oxford University Press, 1995).
+Philip A. Klinkner with Rogers M. Smith,
+The Unsteady March: The Rise and Decline of Racial Equality in America
+(Chicago: University of Chicago Press, 1999).
+Daniel Kryder, Divided Arsenal: Race
+and the American State During World War II (New York: Cambridge University
+Press, 2000).
+Robert C. Lieberman, Shifting the Color Line: Race and the American
+Welfare State (Cambridge: Harvard University Press, 1998).
+Manning Marable, Race, Reform, and Rebellion: The Second Reconstruction
+in Black America, 1945-1990 (Jackson, MS: University Press of Mississippi,
+1991).
+Jill Quadagno, The Color of Welfare: How Racism Undermined the War
+on Poverty (New York: Oxford University Press, 1994).
+Richard Valelly, "Party, Coercion, and Inclusion: The Two Reconstructions
+of the South's Electoral Politics," Politics and Society 21 (1)
+(1993): 37ff.
+Hanes Walton, Jr. and Robert C. Smith,
+American Politics and the African American Quest for Universal Freedom
+(New York: Longman, 2000).
+Richard P. Young and Jerome S. Burstein, "Federalism and the Demise
+of Prescriptive Racism in the United States," Studies in American Political
+Development 9 (1) (Spring 1995): 1-54.
+ 
+April 22nd. State-Building Reconsidered: Political Development in
+the Modern Era.
+**Ira Katznelson and Bruce Pietrykowski, "Rebuilding the American State:
+Evidence from the 1940s," Studies in American Political Development
+5 (2) (1991): 301-39. [On reserve]
+**Bartholomew H. Sparrow, From the Outside In: World War II and the
+American State (Princeton: Princeton University Press, 1996), chaps.
+1 and 7. [course pack]
+**Margaret Weir, Politics and Jobs:
+The Boundaries of Employment Policy in the United States (Princeton:
+Princeton University Press, 1992), chap. 2 "Creating an American Keynesianism,"
+pp. 27-61. [On reserve]
+**John J. Coleman, "State Formation and the Decline of Political Parties:
+American Parties in the Fiscal State," Studies in American Political
+Development 8 (2) (Fall 1994): 195-230. [On reserve]
+Jonathan J. Bean, Beyond the Broker State: Federal Policies toward
+Small Business, 1936-1961 (Chapel Hill: University of North Carolina
+Press, 1996).
+Ballard Campbell, The Growth of American Government: Governance From
+the Age of Cleveland to the Present (Bloomington: Indiana University
+Press, 1995).
+John J. Coleman, Party Decline in America: Policy, Politics, and
+the Fiscal State (Princeton: Princeton University Press, 1996.)
+Andrew Grossman, Neither Dead Nor Red: Civilian Defense and American
+Political Development During the Early Cold War (New York: Routledge,
+2001).
+David M. Hart, Forged Consensus: Science,
+Technology, and Economic Policy in the United States, 1921-1953 (Princeton:
+Princeton University Press, 1998).
+Michael J. Hogan, A Cross of Iron: Harry
+S. Truman and the Origins of the National Security State, 1945-1954
+(New York: Cambridge University Press, 1998).
+Alan Ware, The Breakdown of Democratic Party Organization, 1940-1980
+(New York: Oxford University Press, 1985, 1989).
+Martin P. Wattenberg, The Decline of American Political Parties,
+1952-1988 (Cambridge: Harvard University Press, 1990).
+ 
+April 29th. Multiple Orders, Discursive Forces, and Policy Development.
+**Karen Orren and Stephen Skowronek, "Beyond the Iconography of Order:
+Notes for a `New Institutionalism,'" in Lawrence C. Dodd and Calvin Jillson,
+eds., The Dynamics of American Politics: Approaches and Interpretations
+(Boulder: Westview Press, 1994), pp. 311-30.
+**Polsky, The Rise of the Therapeutic State, chapters TBA.
+Otis L. Graham, Toward a Planned Society: From Roosevelt to Nixon
+(New York: Oxford University Press, 1976).
+Peter A. Hall, ed. The Political Power of Economic Ideas: Keynesianism
+Across Nations (1989).
+Christopher McGrory Klyza, "Ideas, Institutions, and Policy Patterns:
+Hardrock Mining, Forestry, and Grazing Policy on United States Public Lands,
+1870-1985," Studies in American Political Development 8 (2) (1994).
+Gary Mucciaroni, The Political Failure of Employment Policy, 1945-1982
+(Pittsburgh: University of Pittsburgh Press, 1990).
+Alice O'Connor, Poverty Knowledge: Social Science, Social Policy,
+and the Poor in Twentieth-Century U.S. History (Princeton: Princeton
+University Press, 2001).
+Dietrich Rueschemeyer and Theda Skocpol, eds., States, Social Knowledge,
+and the Origins of Modern Social Policies (Princeton: Princeton University
+Press, 1996).
+ 
+May 6th and May 13th. Student Presentations.
+ 
+May 20th. Final Exam (in class or take-home due).
+ 
+ 
+ 
+Supplemental Topics:
+ 
+Below I have listed several other topics
+that have attracted significant attention in recent scholarship on American
+political development. Because there is some overlap with the topics we
+cover in the seminar, you also should be sure to review the additional
+readings listed above.
+ 
+Social Change: Economics, Politics, Social Movements, and the Constitution
+of Interests.
+Peter H. Argersinger, The Limits of Agrarian Radicalism: Western
+Populism and American Politics (Lawrence: University Press of Kansas,
+1995).
+Gerald Berk, Alternative Tracks: The Constitution of American Industrial
+Order, 1865-1917 (Baltimore: Johns Hopkins University Press, 1994).
+Lawrence Goodwyn, The Populist Moment: A Short History of the Agrarian
+Revolt in America (New York: Oxford University Press, 1978).
+Hugh Heclo, "Ideas, Interests, and Institutions," in Lawrence C. Dodd
+and Calvin Jillson, eds.,
+The Dynamics of American Politics: Approaches
+and Interpretations (Boulder: Westview Press, 1994), pp. 366-92.
+David Montgomery, Citizen Worker: The Experience of Workers in the
+United States with Democracy and the Free Market during the Nineteenth
+Century (New York: Cambridge University Press, 1994).
+Gretchen Ritter, Goldbugs and Greenbacks: The Antimonopoly Tradition
+and the Politics of Finance in America, 1865-1896 (New York: Cambridge
+University Press, 1997).
+William G. Ross, A Muted Fury: Populists, Progressives, and Labor
+Unions Confront the Courts, 1890-1937 (Princeton: Princeton University
+Press, 1993).
+Richard M. Valelly, Radicalism in the States: The Minnesota Farmer-Labor
+Party and the American Political Economy (Chicago: University of Chicago
+Press, 1989).
+Sean Wilentz, Chants Democratic: New York City and the Rise of the
+American Working Class, 1788-1850 (New York: Oxford University Press,
+1986).
+ 
+Building the American Welfare State.
+Edwin Amenta, Bold Relief: Institutional Politics and the Origins
+of Modern American Social Policy (Princeton: Princeton University Press,
+1998).
+"Conference Panel: On Theda Skocpol's Protecting Soldiers and Mothers:
+The Political Origins of Social Policy in the United States," Studies
+in American Political Development 8 (1) (1994): 111-149
+Elisabeth S. Clemens, "Organizational Repertoires and Institutional
+Change: Women's Groups and the Transformation of U.S. Politics, 1890-1920,"
+American Journal of Sociology 98 (4) (January 1993): 755ff.
+Elizabeth S. Clemens, The People's Lobby:
+Organizational Innovation and the Rise of Interest Group Politics in the
+United States, 1890-1925 (Chicago: University of Chicago Press, 1997).
+Jess Gilbert and Carolyn Howe, "Beyond `State vs. Society': Theories
+of the State and New Deal Agricultural Policies," American Sociological
+Review 56 (April 1991): 204-220.
+Patrick J. Kelly, Creating a National Home: Building the Veteran's
+Welfare State, 1860-1900 (Cambridge: Harvard University Press, 1997).
+Ann Shola Orloff, "The Political Origins of America's Belated Welfare
+State," in Margaret Weir, Ann Shola Orloff, and Theda Skocpol, The Politics
+of Social Policy in the United States (Princeton: Princeton University
+Press, 1988).
+Theda Skocpol, Protecting Soldiers and Mothers: The Political Origins
+of Social Policy in the United States (Cambridge: Harvard University
+Press, 1992).
+ 
+Gender in American Political Development
+Kristi Anderson, After Suffrage: Women in Partisan and Electoral
+Politics before the New Deal (Chicago: University of Chicago Press,
+1996).
+Paula Baker, "The Domestication of Politics: Women and American Political
+Society, 1780-1920," American Historical Review 85 (3) (June 1984):
+620-47.
+Lee Ann Banaszak, Why Movements Succeed or Fail: Opportunity, Culture,
+and the Struggle for Woman Suffrage (Princeton: Princeton University
+Press, 1996).
+Philip N. Cohen, "Nationalism and Suffrage: Gender Struggle in Nation-Building
+America," Signs 21 (3) (Spring 1996): 707-727.
+Rebecca Edwards, Angels in the Machinery:
+Gender in American Party Politics from the Civil War to the Progressive
+Era (New York: Oxford University Press, 1997).
+Margaret Finnegan, Selling Suffrage:
+Consumer Culture and Votes for Women (New York: Columbia University
+Press, 1999).
+Alice Kessler-Harris, "In the Nation's
+Image: The Gendered Limits of Social Citizenship in the Depression Era,"
+Journal of American History 86:3 (December 1999): 1251-1279.
+Suzanne M. Marilley, Woman Suffrage and the Origins of Liberal Feminism
+in the United States, 1820-1920 (Cambridge: Harvard University Press,
+1997).
+Susan E. Marshall, Splintered Sisterhood: Gender and Class in the
+Campaign Against Woman Suffrage (Madison: University of Wisconsin Press,
+1997).
+Carol R. McCann, Birth Control Politics in the United States, 1916-1945
+(Ithaca: Cornell University Press, 1994).
+Michael McGerr, "Political Style and Women's Power, 1830-1930," Journal
+of American History 77 (Dec. 1990): 864-885.
+Suzanne Mettler, "Dividing Social Citizenship
+by Gender: The Implementation of Unemployment Insurance and Aid to Dependent
+Children, 1935-1950," Studies in American Political Development
+12:2 (Fall 1998): 303-342.
+Sonya Michel and Seth Koven, "Womanly Duties: Maternalist Politics and
+the Origins of Welfare States in France, Germany, Great Britain, and the
+United States, 1880-1920," American Historical Review 95 (October
+1990): 1076-1108.
+Gwendolyn Mink, The Wages of Motherhood: Inequality and the Welfare
+State, 1917-1942 (Ithaca: Cornell University Press, 1995).
+Gretchen Ritter, "Gender and Citizenship
+After the Nineteenth Amendment," Polity 32:3 (Spring 2000): 345-376.
+Mary P. Ryan, Women in Public: Between Banners and Ballots, 1825-1880
+(Baltimore: Johns Hopkins University Press, 1990).
+Kathryn Kish Sklar, Florence Kelley and the Nation's Work: The Rise
+of Women's Political Culture, 1830-1900 (New Haven: Yale University
+Press, 1995).
+Theda Skocpol and Gretchen Ritter, "Gender and the Origins of Modern
+Social Policies in Britain and the United States," Studies in American
+Political Development 5 (1) (1991): 36-93.
+Christina Wolbrecht, The Politics of
+Women's Rights: Parties, Positions, and Change (Princeton: Princeton
+University Press, 2000).
+ 
+Developmental Patterns in the Constitution
+and Law
+Maxwell Bloomfield, Peaceful Revolution:
+Constitutional Change and American Culture from Progressivism to the New
+Deal (Cambridge: Harvard University Press, 2000).
+John Braeman, "Law and American Economic Development," Journal of
+Policy History 6 (4) (1994): 439-67.
+Michael Kent Curtis, Free Speech, "The
+People's Darling Privilege": Struggles for Freedom of Expression in American
+History, 2000 (Durham: Duke University Press, 2000).
+Barry Cushman, Rethinking the New Deal
+Court: The Structure of a Constitutional Revolution (New York: Oxford
+University Press, 1998).
+Morton J. Horowitz, The Transformation of American Law, 1780-1860
+(Cambridge: Harvard University Press, 1977).
+Herbert Hovencamp, Enterprise and American Law, 1836-1937 (Harvard
+University Press, 1991).
+Donald J. Pisani, "Promotion and Regulation: Constitutionalism and the
+American Economy,"
+Journal of American History 74 (December 1987):
+740-68.
+Martin Shapiro, "The Supreme Court's `Return' to Economic Regulation,"
+Studies in American Political Development 1 (1986): 91-141.
+Yale Law Journal 108:8 (June 1999)
+[Special issue on Bruce Ackerman's We the People.]
+Keith E. Whittington, Constitutional
+Construction: Divided Powers and Constitutional Meaning (Cambridge:
+Harvard University Press, 1999).
+ 
+The Electoral Realignment Debates.
+David W. Brady, Critical Elections and Congressional Policy Making
+(Palo Alto: Stanford University Press, 1988).
+Clem Brooks, "Civil Rights Liberalism and
+the Suppression of a Republican Political Realignment in the United States,
+1972-1996," American Sociological Review 65:4 (August 2000): 483-505.
+Walter Dean Burnham, Critical Elections and the Mainsprings of American
+Politics (New York: Norton, 1970).
+William N. Chambers and Walter Dean Burnham, eds., The American Party
+Systems: Stages of Political Development (New York: Oxford University
+Press, 1967, 1975).
+Jerome M. Clubb, William H. Flanigan, and Nancy H. Zingale, Partisan
+Realignment: Voters, Parties, and Government in American History (Sage,
+1980).
+Gerald H. Gamm, The Making of the New Deal Democrats: Voting Behavior
+and Realignment in Boston, 1920-1940 (Chicago: University of Chicago
+Press, 1989).
+John B. Gates, The Supreme Court and Partisan Realignment: A Macro-
+and Microlevel Perspective (Boulder, CO: Westview Press, 1992).
+James M. Glaser, Race, Campaign Politics, and the Realignment in
+the South (New Haven: Yale University Press, 1997).
+David G. Lawrence, The Collapse of the Democratic Presidential Majority,
+Realignment, Dealignment, and Electoral Change from Franklin Roosevelt
+to Bill Clinton (Boulder, CO: Westview Press, 1996).
+Richard L. McCormick, "The Realignment Synthesis in American History,"
+in McCormick, The Party Period and Public Policy (New York: Oxford
+University Press, 1986), pp. 64-88.
+Peter F. Nardulli, "The Concept of a Critical Realignment, Electoral
+Behavior, and Political Change," American Political Science Review
+89 (1) (March 1995): 10-22.
+Joel H. Silbey, The American Political Nation (Stanford: Stanford
+University Press, 1991).
+Robert W. Speel, Changing Patterns of
+Voting in the Northern United States: Electoral Realignment 1952-1996
+(University Park: Penn State University Press, 1998).
+James L. Sundquist, Dynamics of the Party System: Alignment and Realignment
+of Political Parties in the United States (Washington, DC: Brookings,
+1973, 1983).
+ 
+ 
+ 
+The Progressive Period
+Eldon J. Eisenach, The Lost Promise of Progressivism (Lawrence:
+University Press of Kansas, 1994).
+William Graebner, "Federalism and the Progressive Era: A Structural
+Interpretation of Reform,"
+Journal of American History 64 (2) (September
+1977): 331-57.
+Beatrix Hoffman, The Wages of Sickness,
+The Politics of Health Insurance in Progressive America (Chapel Hill:
+University of North Carolina Press, 2001).
+Scott C. James, "Building a Democratic Majority: The Progressive Party
+Vote and the Federal Trade Commission," Studies in American Political
+Development 9 (2) (Fall 1995): 331-85.
+Scott C. James, "Prelude to Progressivism:
+Party Decay, Populism, and the Doctrine of 'Free and Unrestricted Competition'
+in American Antitrust Policy, 1890-1897," Studies in American Political
+Development 13:2 (Fall 1999): 288-336.
+Eileen L. McDonagh, "The `Welfare Rights State' and the `Civil Rights
+State': Policy Paradox in the Progressive Era," Studies in American
+Political Development 7 (2) (1993): 225-274.
+Sidney Milkis and Daniel Tichenor, "The Progressive Party, Social Reformers,
+and the Politics of `Direct Democracy,'" Studies in American Political
+Development 8 (2) (1994).
+Sidney M. Milkis and Jerome M. Mileur,
+Progressivism and the New Democracy (Amherst: University of Massachusetts
+Press, 1999).
+Martin J. Sklar, The Corporate Reconstruction of American Capitalism,
+1890-1916: The Market, the Law, and Politics (Cambridge: Cambridge
+University Press, 1988).
+Martin J. Sklar, "Periodization and Historiography: Studying American
+Political Development in the Progressive Era, 1890s-1916," Studies in
+American Political Development 5 (Fall 1991): 173-213.
+Camilla Stivers, Bureau Men, Settlement
+Women: Constructing Public Administration in the Progressive Era (Lawrence,
+KS: University Press of Kansas, 2000).
+ 
+Business and State Formation
+Michael Patrick Allen, "Capitalist Response to State Intervention: Theories
+of the State and Political Finance in the New Deal," American Sociological
+Review 56 (October 1991): 679-89.
+Edwin Amenta and Sunita Parikh, "Capitalists Did Not Want the Social
+Security Act: A Critique of the `Capitalist Dominance' Thesis," American
+Sociological Review 56 (February 1991): 124-131.
+Robert F. Burk, The Corporate State and the Broker State: The Du
+Ponts and American National Politics, 1925-1940 (Cambridge: Harvard
+University Press, 1990).
+Thomas Ferguson, "From Normalcy to New Deal: Industrial Structure, Party
+Competition, and American Public Policy in the Great Depression," International
+Organization 38 (Winter 1984): 41-94.
+Thomas Ferguson, Golden Rule: The Investment Theory of party Competition
+and the Logic of Money-Driven Political Systems (Chicago: University
+of Chicago Press, 1995).
+Elizabeth A. Fones-Wolf, Selling Free Enterprise: The Business Assault
+on Labor and Liberalism, 1945-60 (Champaign, IL: University of Illinois
+Press, 1995).
+Colin Gordon, New Deals: Business, Labor, and Politics in America,
+1920-1935 (New York: Cambridge University Press, 1994).
+Peter Swenson, "Arranged Alliance: Business Interests in the New Deal,"
+Politics and Society 25 (1) (March 1997): 66-116.
+
+

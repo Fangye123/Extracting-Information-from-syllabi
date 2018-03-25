@@ -71,14 +71,6 @@ print(onehot_encoded)
 def word_encoded_pair():
     out = []
     for i in range(0, len(wordlist)):
-        out.append((wordlist[i], onehot_encoded[i]))
-    return out
-print(word_encoded_pair())
-
-#word+encoded
-def word_encoded_pair():
-    out = []
-    for i in range(0, len(wordlist)):
         #print(i)
         out.append((wordlist[i], onehot_encoded[i]))
     return out

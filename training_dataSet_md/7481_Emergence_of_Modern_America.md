@@ -4,15 +4,15 @@
   
 ---  
   
-[![](../gifs/calendar-b-sm.GIF)](../calendar/)
+![](../gifs/calendar-b-sm.GIF)
 
-[![](../gifs/contact-b-sm.GIF)](../home/contact.html)
+![](../gifs/contact-b-sm.GIF)
 
-[![](../gifs/courses-b-sm.GIF)](../courses/index.html)
+![](../gifs/courses-b-sm.GIF)
 
-[![](../gifs/faculty-b-sm.GIF)](../faculty/index.html)
+![](../gifs/faculty-b-sm.GIF)
 
-[![](../gifs/home-r-sm.GIF)](http://www.history.upenn.edu/)
+![](../gifs/home-r-sm.GIF)
 
 |
 
@@ -186,20 +186,15 @@ Children_. New York: Basic Books, 1987.
   
 * * *
 
-Calendar | [Contacts](../home/contact.html) |
-[Courses](http://www.history.upenn.edu/courses/index.html) |
-[Graduate](http://www.history.upenn.edu/grad/) |
-[Undergraduate](http://www.history.upenn.edu/undergrad/index.html) |
-[People](http://www.history.upenn.edu/people/index.html) |
-[Search](http://www.history.upenn.edu/home/search.html) |
-[Home](http://www.history.upenn.edu/) | [UPENN](http://www.upenn.edu/) |
+Calendar | Contacts | Courses | Graduate | Undergraduate | People | Search |
+Home | UPENN |
 
-[![](../gifs/quill.gif)](mailto:webmaster@history.upenn.edu)
+![](../gifs/quill.gif)
 
-[Webmaster](mailto:webmaster@history.upenn.edu)
+Webmaster
 
 | URL: http://www.history.upenn.edu  
-[(C) 2000 University of Pennsylvania](http://www.upenn.edu/)  
+(C) 2000 University of Pennsylvania  
 Last modified:  
 ---|---|---
 

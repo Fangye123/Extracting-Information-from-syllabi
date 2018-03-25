@@ -72,8 +72,7 @@ Read selections from _Lone Ranger and Tonto Fistfight in Heaven_ , pp. 1-36,
 43-54.  
   
 Wednesday, June 12  
-In class: Listen to Alexie reading ["Dear John
-Wayne"](http://www.fallsapart.com/recordings.html)  
+In class: Listen to Alexie reading "Dear John Wayne"  
 Read selections from _Lone Ranger and Tonto Fistfight in Heaven_ , pp. 59-75,
 83-103.  
   
@@ -145,10 +144,9 @@ Keith Basso, "Stalking with Stories". In _Wisdom Sits in Places_
 
 Monday, June 24  
 **Paper Due**  
-In class: Definitions of Contemporary Poetry, reading [Luci
-Tapahonso](http://www.hanksville.org/storytellers/luci/)  
-Listen to [Luci Tapahonso interview, a reading of "Hills Brothers Coffee" and
-other poems](http://wings.buffalo.edu/epc/linebreak/programs/tapahonso/)  
+In class: Definitions of Contemporary Poetry, reading Luci Tapahonso  
+Listen to Luci Tapahonso interview, a reading of "Hills Brothers Coffee" and
+other poems  
 Read: selections from Tapahonso's _Saanii Dahataal: The Women Are Singing_ ,
 pp. ix-10, 5-10, 15-20, 27-32, 43-44, 59-64, 69-76, 85-92.  
   
@@ -179,9 +177,8 @@ Killing the Deer"
 **second paper will be due on Monday, July 1st**  
   
 **recommended**  
-sermon: [_The Elder's Truth: a Yaqui
-Sermon](http://digital.library.arizona.edu/jsw/3503/intro.html), Miki Masso,
-Felipe S. Molina, and Larry Evers  
+sermon: _The Elder's Truth: a Yaqui Sermon, Miki Masso, Felipe S. Molina, and
+Larry Evers  
 
   
   
@@ -192,8 +189,7 @@ Monday, July 1
 **Paper Due**  
 In class: Text collections in the Americanist tradition  
 Introduction to Ethnopoetics  
-Introduction to using [Harry Hoijer's _Chiricahua and Mescalero Apache
-Texts_](http://etext.lib.virginia.edu/apache)  
+Introduction to using Harry Hoijer's _Chiricahua and Mescalero Apache Texts_  
 Read: Hymes, Dell. _Reading Takelma Texts_ , pp. 1-22.  
   
 Tuesday, July 2  

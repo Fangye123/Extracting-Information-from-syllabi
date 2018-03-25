@@ -1,25 +1,18 @@
-[ ![William M. Logan Library - Home](../images/hdr.gif)](../default.htm)  
+![William M. Logan Library - Home](../images/hdr.gif)  
   
 ---  
   
-[Library Information ](../libxinfo.htm) ![](../images/clear.gif) [Services &
-Policies](../libxserv.htm) ![](../images/clear.gif) [Special
-Collections](../libxspeccoll.htm)  
+Library Information  ![](../images/clear.gif) Services & Policies
+![](../images/clear.gif) Special Collections  
   
-[**Search WorldCat**
-](http://firstsearch.oclc.org/autho=100-234-395;dbname=WorldCat;FSIP)
-![](../images/trigold.gif)  [ **Search  for
-Books**](http://catalog.schreiner.edu/WebOpac/index.asp)
-![](../images/trigold.gif)  [ **Search  for
-Books**](http://172.16.0.6/WebOpac/index.asp)   ![](../images/trigold.gif)  [
-**Search  for Articles**](../dbsres/libxdbssubj.htm)  
+**Search WorldCat**   ![](../images/trigold.gif)   **Search  for Books**
+![](../images/trigold.gif)   **Search  for Books**
+![](../images/trigold.gif)   **Search  for Articles**  
 use outside the Library          use inside the Library  
   
-[Schreiner Home ](http://www.schreiner.edu/) ![](../images/clear.gif)[Guides &
-Tutorials](../libxguides.htm)![](../images/clear.gif)[Periodical
-Holdings](/journals/libxjourna-f.htm) ![](../images/clear.gif) [Student
-Resource Pages](../libxwebres.htm) ![](../images/clear.gif) [Schreiner
-e-mail](http://mail.schreiner.edu/exchange/logon.asp)  
+Schreiner Home  ![](../images/clear.gif)Guides &
+Tutorials![](../images/clear.gif)Periodical Holdings ![](../images/clear.gif)
+Student Resource Pages ![](../images/clear.gif) Schreiner e-mail  
 **Active Titles by Subject**  
   
 |  **Art s, Visual & Performing  
@@ -336,8 +329,8 @@ RN
   
 ![](../images/up_arrow.gif) |   |
 
-![](../images/up_arrow.gif) |  [ ![W. M. Logan Library -
-Home](../images/ftr.gif)](../default.htm)  
+![](../images/up_arrow.gif) |  ![W. M. Logan Library -
+Home](../images/ftr.gif)  
   
 
 

@@ -41,7 +41,7 @@ Additional handouts and readings supplement the book assignments.
 Internet sites are found in the Topics and Readings section of the syllabus.
 These links may be accessed through the on-line copy of this syllabus found on
 my homepage:  
-[http://www.ithaca.edu/faculty/history](http://www.ithaca.edu/faculty/history%20)
+http://www.ithaca.edu/faculty/history
 
 **Communications**  
 1\. Scheduled office hours are set for Monday, Wednesday and Friday
@@ -113,27 +113,26 @@ Assignment: designing a future.
 The Millennium in perspective and the concept  of time.  Earliest visions of
 the future  
 Utopia Reader, pp.1-76  
-World Future Society  <http://www.wfs.org>  
- The Study of Future  <http://www.wfs.org/studytoc.htm>  
+World Future Society  http://www.wfs.org  
+ The Study of Future  http://www.wfs.org/studytoc.htm  
 ---|---|---|---  
 2. | Jan. | 28 | An evaluation and discussion of "The State of  the Art" and "Past Futures."Early historical perceptions of the future:  classical, biblical and other models and prophecies.    
 Utopia Reader, pp.1-76  
-History  <http://www.ukans.edu/history/VL>  
+History  http://www.ukans.edu/history/VL  
 3. | Feb | 4 | Utopia - the perfect society, an appraisal of More's Utopia. Visions of the future from the long past.    
 Utopia Reader, pp.77-93, 106-126 and handout  
 Begin reading Player Piano  
-Utopia [ http://www.utoronto.ca/utopia/](http://www.utoronto.ca/utopia/)  
+Utopia  http://www.utoronto.ca/utopia/  
 4. | Feb | 11 | Nineteenth century utopian thought and communal societies. Entering the 20th Century: expectations of future change in the pre-millennial century    
 Utopia Reader, pp.182-312  
-Millennium <http://www.mille.org/>  
-USHistory <http://historymatters.gmu.edu/>  
+Millennium http://www.mille.org/  
+USHistory http://historymatters.gmu.edu/  
 5. | Feb | 18 | The world-system of development and the "modern"  age    
 \- industrialization, political and technological models for the future.  
 Discussion and analysis of handouts.  
 Complete reading Player Piano  
  Technology  
-[
-http://www.asap.unimelb.edu.au/hstm/hstm_alphabetical.htm](http://www.asap.unimelb.edu.au/hstm/hstm_alphabetical.htm)  
+ http://www.asap.unimelb.edu.au/hstm/hstm_alphabetical.htm  
 6. | Feb | 25 | Perceptions of technological, economic transformations, and the human condition.    
 A  discussion of Player Piano.  
 "The Future of Wealth and Power"  
@@ -142,41 +141,41 @@ A  discussion of Player Piano.
 Begin reading Utopia Reader, pp.312-420  
 Manhattan  
 Begin reading Alas, Babylon  
-<http://gis.net/~carter/manhattan/index.html>  
-<http://www.nearearthobjects.co.uk/>  
+http://gis.net/~carter/manhattan/index.html  
+http://www.nearearthobjects.co.uk/  
 8. | Mar | 11 - 15 | SPRING BREAK!  Read Utopia Reader, pp.312-420   
 9. | Mar | 18 | World War or nuclear, biological or chemical terrorism? The power of science, human engineering and authoritarianism. Twentieth century utopian and dystopian works as historical reflections. Dicuss Alas, Babylon   
 Begin reading Ecotopia  
 Science  
-<http://www.nhgri.nih.gov>  
-<http://www.nlm.nih.gov/hmd/hmd.html>  
-[](http://weber.u.washington.edu/~hssexec/index.html)  
+http://www.nhgri.nih.gov  
+http://www.nlm.nih.gov/hmd/hmd.html  
+  
 10. | Mar | 25 | Reflecting on the twentieth century at the end of the twentieth century: are we entering a "Brave new world?"    
 20th Century  
-<http://history1900s.miningco.com/>  
+http://history1900s.miningco.com/  
 11. | April | 1 | The human condition and the environment: health, numbers and survival. Living Beyond 100 Changing                   Perceptions of Old Age    
 "The Future of the Earth."  
 Read the handout "A Feminist Utopia."  
-Environment  <http://h-net2.msu.edu/~aseh/>  
-Envirolink  <http://www.envirolink.org/>  
+Environment  http://h-net2.msu.edu/~aseh/  
+Envirolink  http://www.envirolink.org/  
 12. | April | 8 | An environmental worldview.  The evolution of  gender relations and feminist visions.    
 Discussion of "A Feminist Utopia."  
 Finish reading Ecotopia  
 Begin reading A Short History of the Future  
 "The Future of Living."  
-Women  <http://www.library.wisc.edu/libraries/WomensStudies/others.htm>  
- Global <http://www.womeninworldhistory.com/>  
+Women  http://www.library.wisc.edu/libraries/WomensStudies/others.htm  
+ Global http://www.womeninworldhistory.com/  
 13. | April | 16 | Utopian visions or a real future?  Discussion of  Ecotopia. Constructing the ideal community:    
 from Disney to Ecovillage.  
 Ecotopia critique is due!  
 The future as history.  Three paradigms for the future, a conceptual
 introduction to A Short History of the Future.  
 Wagar, "Epilogue, The Next Three Futures."  
-Liberty <http://www.geocities.com/~newliberty/>  
-Victory <http://www.victorycities.com/>  
-EcoVillage <http://www.cfe.cornell.edu/ecovillage/>  
+Liberty http://www.geocities.com/~newliberty/  
+Victory http://www.victorycities.com/  
+EcoVillage http://www.cfe.cornell.edu/ecovillage/  
 Scenarios and Projects  
-<http://mars2.caltech.edu/whichworld/index.html>  
+http://mars2.caltech.edu/whichworld/index.html  
 14. | April | 22 | **Presentations of semester projects  **  
 15. | April | 29 | Analysis and discussion of "Book the First: Earth, Inc."    
  The last age of capital and ruling circles.  
@@ -186,13 +185,13 @@ housecleaning.
  "Book the Third: The House of Earth."  
  The small revolution, the autonomous society and transhumanity.  
  A critical summary evaluation of the "next three futures."  
-<http://www.ruckus.org/>  
-<http://www.worldwatch.com/>  
-<http://www.hrw.org/>  
-<http://www.aging.state.ny.us>  
-<http://www.wri.org/wri/busiwee>  
-<http://www.dol.gov/asp/futurework/report.htm>  
-[](http://www.hrw.org/)  
+http://www.ruckus.org/  
+http://www.worldwatch.com/  
+http://www.hrw.org/  
+http://www.aging.state.ny.us  
+http://www.wri.org/wri/busiwee  
+http://www.dol.gov/asp/futurework/report.htm  
+  
 16. | May | 6 | **Final Examination Week  **  
   
 * * *
@@ -200,9 +199,8 @@ housecleaning.
 Zenon V. Wasyliw  
 Muller 427  
 274-1587  
-[Wasyliw@ithaca.edu](mailto:Wasyliw@ithaca.edu)  
-[http://www.ithaca.edu/faculty/wasyliw](http://www.ithaca.edu/faculty/wasyliw%20)
-| Office Hours:  
+Wasyliw@ithaca.edu  
+http://www.ithaca.edu/faculty/wasyliw | Office Hours:  
 MWF 10:00-10:45am, 12:00 - 12:45pm  
 T / TH 1:00-2:00  
 and by appointment  

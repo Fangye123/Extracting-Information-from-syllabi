@@ -1,12 +1,12 @@
   
-[![Composition Center](../graphics/banner.gif)](../index.html)  
+![Composition Center](../graphics/banner.gif)  
 ---  
-[![Student Resources](../graphics/student.gif)](index.html)  
+![Student Resources](../graphics/student.gif)  
 ![](../resources/dot_clear.gif)  
 |  ![](../resources/dot_clear.gif)  
 Writing Intensive Courses Throughout the College  
 ![](../resources/dot_clear.gif)  
-[Table of Contents](index.html)  
+Table of Contents  
 |  ![](../resources/dot_clear.gif) |  ![](../resources/dot_clear.gif)  
 **Writing Intensive Courses Throughout the College**  
 ![](../resources/dot_clear.gif)  
@@ -18,7 +18,7 @@ information from professors.
 If you are a faculty member and would like to inform students about your
 course, or would like students to be able to link to your course site via this
 website, please contact, via blitz or Hinman:  
-[Karen Gocsik,](mailto:gocsik@dartmouth.edu) Director of Composition - HB 6032  
+Karen Gocsik, Director of Composition - HB 6032  
   
 **Writing Intensive Courses**  
   
@@ -78,15 +78,13 @@ Writing is the central focus of this course. All reading and
 writing serve the student's increased understanding of,  
 and skill writing in the essay form. Course is usually  
 taught Credit/No Credit.  
-_[24: "Shakespeare"](http://www.dartmouth.edu/%7Eengl24/information.html) _ w/
-Prof. Luxon  
-_[28: "Milton"](http://www.dartmouth.edu/%7Eengl28/information.html)_ w/ Prof.
-Luxon  
+_24: "Shakespeare" _ w/ Prof. Luxon  
+_28: "Milton"_ w/ Prof. Luxon  
   
 All English courses prioritize writing and have written assignments as central
 course requirements.  
   
-**[German](http://www.dartmouth.edu/artsci/german)**  
+**German**  
 _42: "Topics in German Civilization"_ (In English translation)  
 _43: "German Literature & Thought"_(In English translation)  
   
@@ -96,17 +94,10 @@ Offers instruction in how to write well in the social
 sciences.  
   
 **Greek and Roman Studies**  
-_[6: "Introduction to Classical
-Archaeology"](http://www.dartmouth.edu/artsci/classics/syllabi/grs6.html)_ w/
-Prof. Rutter  
-_[20: "Prehistoric Archaeology of the
-Aegean"](http://www.dartmouth.edu/artsci/classics/syllabi/grs20.html) _ w/
-Prof. Rutter  
-_[21: "Greek Archaeology ca. 110-480
-B.C."](http://www.dartmouth.edu/artsci/classics/syllabi/GRS21.html)_ w/ Prof.
-Rutter  
-_[22: "Greek Classical Archaeology"](http://www.dartmouth.edu/%7Egrs22)_ w/
-Prof. Rutter  
+_6: "Introduction to Classical Archaeology"_ w/ Prof. Rutter  
+_20: "Prehistoric Archaeology of the Aegean" _ w/ Prof. Rutter  
+_21: "Greek Archaeology ca. 110-480 B.C."_ w/ Prof. Rutter  
+_22: "Greek Classical Archaeology"_ w/ Prof. Rutter  
   
 **History**  
 _75: "Modern Southeast Asia"_ w/ Prof. Haynes  
@@ -130,7 +121,7 @@ Prof. Spitzer, chair, reports that all of the courses, with the exception of
 language courses in Hebrew and Yiddish, require a good deal of writing -- from
 short essays to long research papers. Students generally receive substantial
 feedback on their work, both about content and writing. Please check out the
-[Web site for Jewish Studies.](http://www.dartmouth.edu/%7Ejewish/index.html)  
+Web site for Jewish Studies.  
   
 **Philosophy**  
 _3: "Reason and Argument"_  

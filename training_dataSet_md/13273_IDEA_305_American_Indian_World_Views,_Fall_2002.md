@@ -1,10 +1,9 @@
 ****IDEA 305 American Indian World Views**  
 **To be announced**  
 **Tuesday, 1600 - 1800 PM** | ![Oscar Howe designed
-logo](../iais/ohowelogo2.gif) [ **Logo
-history**](http://www.usd.edu/iais/iais/histlogo.html) | **Fall 2002**  
+logo](../iais/ohowelogo2.gif) **Logo history** | **Fall 2002**  
 **Leonard Bruguier**  
-[**bruguier@usd.edu**](mailto:bruguier@usd.edu)  
+**bruguier@usd.edu**  
 ---|---|---  
   
 **My office is located in _Dakota_ Hall, Room 18, on the lower level. Office
@@ -14,7 +13,7 @@ intervenes. Call 605.677.5209 to make an appointment. You are encouraged to
 visit the Institute offices. While here, you may use the materials found in
 the South _Dakota_ Oral History Center (appointments appreciated), or browse
 the Joseph H. Cash Memorial Library. Specific information about the
-Institute's resources are available on our [website](http://www.usd.edu/iais).
+Institute's resources are available on our website.
 
 If you have a disability for which you are or may be requesting an
 accomodation, you are encouraged to contact both your instructor and Dr.
@@ -59,11 +58,10 @@ COMPUTER LITERACY
 Please gain access to and develop your computer skills with the University of
 South Dakota's computer network. Periodically, cyberspace smokesignals is used
 to provide updates on events, readings, and other pertinent matters. You are
-responsible for maintaining your [Electronic
-Portfolio](http://www.usd.edu/admin/vpaa/themes/EP's/electronicportfolios.htm).
-Please go to this page and review the requirements and take the necessary
-steps to establish your account. Those who are not familiar with computers
-please visit with me for alternative solutions.
+responsible for maintaining your Electronic Portfolio. Please go to this page
+and review the requirements and take the necessary steps to establish your
+account. Those who are not familiar with computers please visit with me for
+alternative solutions.
 
 ASSESSMENT
 
@@ -85,7 +83,7 @@ University Fall Semester 2002 Calendar.
 
   * September 24: Visit with Gene Thin Elk, Doyle Pipe On Head, and _Tiospaye_ Council officers at the Native American Cultural Center. Discussion of Indian spirituality and medicines, set up field trip to USD spiritual grounds. Discussion of Indian activities on campus, upcoming events, and services available on campus. _Tiospaye_ Council officers for briefing on their activities.
 
-  * October 1: Visit American Indian World Views librarian [Tess Gibson](mailto:tgibson@usd.edu) at I. D. Weeks Library for introduction to accessing materials related to the theme.
+  * October 1: Visit American Indian World Views librarian Tess Gibson at I. D. Weeks Library for introduction to accessing materials related to the theme.
 
   * October 8: meeting with available American Indian Studies major faculty and interested personnel at Oscar Howe Art Gallery. Discuss areas of studies with relevent faculty.
 
@@ -97,10 +95,10 @@ BOOKS:
 
 To be announced.
 
-**[Return](fall02crs.html) to Fall 2002 Courses  
-[Return](indexa.html) to Courses, Schedules, and Calendar  
-[Return](../index.html) to Institute mainpage  
-[Return](http://www.usd.edu) to University of South _Dakota_ mainpage
+**Return to Fall 2002 Courses  
+Return to Courses, Schedules, and Calendar  
+Return to Institute mainpage  
+Return to University of South _Dakota_ mainpage
 
 13 August 2002, lrb  
 

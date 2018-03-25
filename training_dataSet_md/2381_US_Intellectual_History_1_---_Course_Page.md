@@ -23,30 +23,30 @@ ISBN:0321043693
 
 Benjamin Franklin, _The Autobiography of Benjamin Franklin._ (NY: Oxford,
 1999). ISBN:0192836692.  
-<http://www.earlyamerica.com/lives/franklin/>
+http://www.earlyamerica.com/lives/franklin/
 
 Alexander Hamilton and James Madison,  _Federalist Papers._  
-<http://lcweb2.loc.gov/const/fed/fedpapers.html>
+http://lcweb2.loc.gov/const/fed/fedpapers.html
 
 Thomas Jefferson, _The Portable Jefferson_ , Merrill Peterson, ed. (NY:
 Viking, 1977). ISBN:0140150803.  
-<http://etext.lib.virginia.edu/jefferson/texts/>
+http://etext.lib.virginia.edu/jefferson/texts/
 
 Ralph Waldo Emerson, _The Portable Emerson_ , Malcolm Cowley, ed. (NY: Viking,
 1987). ISBN:0140150943.  
-<http://www.rwe.org/>
+http://www.rwe.org/
 
 Alexis Tocqueville, _Democracy in America_ , J.P. Mayer, ed. (NY: Harper,
 2000). ISBN:0060956666.  
-<http://xroads.virginia.edu/~HYPER/DETOC/toc_indx.html>
+http://xroads.virginia.edu/~HYPER/DETOC/toc_indx.html
 
 Walt Whitman, _The Portable Walt Whitman_ , Mark Van Doren, ed. (NY: Viking,
 1977). ISBN:0140150781.  
-<http://jefferson.village.virginia.edu/whitman/works/leaves/1882/text/frameset.html>
+http://jefferson.village.virginia.edu/whitman/works/leaves/1882/text/frameset.html
 
 Frederick Douglass, _Narrative of the Life of Frederick Douglass_ , John
 Blassingame, ed. (New Haven: Yale, 2001). ISBN:0300088310.  
-<http://sunsite.berkeley.edu/Literature/Douglass/Autobiography/>
+http://sunsite.berkeley.edu/Literature/Douglass/Autobiography/
 
 Ann Douglas, _The Feminization of American Culture._ (NY: Farrar, Straus,
 1998.) ISBN:0374525587.
@@ -182,7 +182,7 @@ Wed, Sep 12: Benjamin Franklin, 1706-1790.
 Fri, Sep 14: Discussion.  
 Reading: Benjamin Franklin, _The Autobiography of Benjamin Franklin_ , first
 half.  
-<http://www.earlyamerica.com/lives/franklin/>  
+http://www.earlyamerica.com/lives/franklin/  
 
 
 **POLITICS AND RATIONALITY IN AMERICAN CULTURE**
@@ -193,42 +193,38 @@ Wed, Sep 19: The Ideological Background of the Revolution, 1700-1770.
 Fri, Sep 21: Discussion.  
 Reading: Benjamin Franklin, _The Autobiography of Benjamin Franklin_ , second
 half.  
-<http://www.earlyamerica.com/lives/franklin/>  
-[John Trenchard and Thomas Gordon, _Cato's Letters,_ vol. 1, no.
-15.](http://www.constitution.org/cl/cato_015.htm)
+http://www.earlyamerica.com/lives/franklin/  
+John Trenchard and Thomas Gordon, _Cato's Letters,_ vol. 1, no. 15.
 
 _Week 5_  
 Mon, Sep 24: The tracts and pamphlets of the Revolution, 1761-1776.  
 Wed, Sep 26: The Federalists, 1780s.  
 Fri, Sep 28: Discussion.  
-Reading: Alexander Hamilton and James Madison, _[Federalist
-Papers](http://lcweb2.loc.gov/const/fed/fedpapers.html)._   Read numbers 10,
-15, 23, 48, and 51.  
-[John Trenchard and Thomas Gordon, _Cato's Letters,_ vol. 1, no.
-31.](http://www.constitution.org/cl/cato_031.htm)  
-[John Trenchard and Thomas Gordon, _Cato's Letters,_ vol. 1, no.
-33.](http://www.constitution.org/cl/cato_033.htm)
+Reading: Alexander Hamilton and James Madison, _Federalist Papers._   Read
+numbers 10, 15, 23, 48, and 51.  
+John Trenchard and Thomas Gordon, _Cato's Letters,_ vol. 1, no. 31.  
+John Trenchard and Thomas Gordon, _Cato's Letters,_ vol. 1, no. 33.
 
 _Week 6_  
 Mon, Oct 1:  The Antifederalists, 1780s.  
 Wed, Oct 3:  Jeffersonianism, 1770s-1808.  
 Fri, Oct 5: Discussion.  
 Reading: Thomas Jefferson, _The Portable Jefferson_. Read:  
-* Declaration of Independence," <http://www.nara.gov/exhall/charters/declaration/declaration.html>   
-* "Bill for Establishing Religious Freedom,"  <http://etext.virginia.edu/toc/modeng/public/JefPapr.html> , #3   
-* "The Kentucky Resolutions,"  <http://etext.virginia.edu/toc/modeng/public/JefPapr.html> , #13   
-* "Report of the Commissioners for the Univ of Virginia,"  <http://etext.virginia.edu/toc/modeng/public/JefPapr.html> , #14   
+* Declaration of Independence," http://www.nara.gov/exhall/charters/declaration/declaration.html   
+* "Bill for Establishing Religious Freedom,"  http://etext.virginia.edu/toc/modeng/public/JefPapr.html , #3   
+* "The Kentucky Resolutions,"  http://etext.virginia.edu/toc/modeng/public/JefPapr.html , #13   
+* "Report of the Commissioners for the Univ of Virginia,"  http://etext.virginia.edu/toc/modeng/public/JefPapr.html , #14   
 * "Notes on the State of Virginia"   
     (In the book:  pages 122-50, 177-199, and 208-217.)   
-    <http://etext.virginia.edu/toc/modeng/public/JefVirg.html> , Queries 8, 14, 17-19.   
+    http://etext.virginia.edu/toc/modeng/public/JefVirg.html , Queries 8, 14, 17-19.   
 * Letters   
     (In the book: pages 415-18, 428-33, 438-40, 444-51, 544-47, and 567-69.)   
-    <http://etext.virginia.edu/toc/modeng/public/JefLett.html>   
+    http://etext.virginia.edu/toc/modeng/public/JefLett.html   
     To James Madison: 1/30/1787,  12/20/1787,  3/15/1789,  9/6/1789.   
     To Edward Coles: 8/25/1814.   
     To John Holmes: 4/22/1820.   
 * (Optional) Crevecoeur, _Letters from an American Farmer_ , "What is an American?"   
-    <http://xroads.virginia.edu/~HYPER/CREV/letter03.html>
+    http://xroads.virginia.edu/~HYPER/CREV/letter03.html
 
 _Week 7_  
 Mon, Oct 8:  The Enlightenment in America, 1750-1820.  
@@ -244,10 +240,10 @@ Mon, Oct 15: **MIDTERM EXAM.**
 Wed, Oct 17: Thought of Jacksonians and Whigs, 1825-1850.  
 Fri, Oct 19: Work on papers.  
 Reading: Ralph Waldo Emerson, _The Portable Emerson_. Read:  
-"Nature" <http://www.rwe.org/pages/Nature_html.htm>  (all chapters of this in
+"Nature" http://www.rwe.org/pages/Nature_html.htm  (all chapters of this in
 the online version)  
 "The Divinity School Address"
-<http://www.rwe.org/works/Nature_addresses_2_Divinity_School_Address.htm>  
+http://www.rwe.org/works/Nature_addresses_2_Divinity_School_Address.htm  
 
 
 _Week 9_  
@@ -258,10 +254,10 @@ Fri, Oct 26: Discussion.
 Reading: Ralph Waldo Emerson, _The Portable Emerson_. Read: "The Fugitive
 Slave Law," "Letter to President Van Buren," and "John Brown: Speech at
 Salem." (I don't have online copies of these.)  
-"Self-Reliance," <http://www.rwe.org/works/Essays-1st_Series_02_Self-
-Reliance.htm>  
-"The American Scholar," <http://www.rwe.org/works/Essays-1st_Series_02_Self-
-Reliance.htm>  
+"Self-Reliance," http://www.rwe.org/works/Essays-1st_Series_02_Self-
+Reliance.htm  
+"The American Scholar," http://www.rwe.org/works/Essays-1st_Series_02_Self-
+Reliance.htm  
 
 
 _Week 10_  
@@ -271,11 +267,11 @@ Fri, Nov 2:  Discussion.
 Reading: Tocqueville, _Democracy in America_. Read pages: 50-57, 231-76, and
 429-75.  
 Online, read:  
-<http://xroads.virginia.edu/~HYPER/DETOC/1_ch03.htm>  
-<http://xroads.virginia.edu/~HYPER/DETOC/1_ch14.htm>  
-<http://xroads.virginia.edu/~HYPER/DETOC/1_ch15.htm>  
-<http://xroads.virginia.edu/~HYPER/DETOC/1_ch16.htm>  
-    Also read, in <http://xroads.virginia.edu/~HYPER/DETOC/toc_indx.html> :   
+http://xroads.virginia.edu/~HYPER/DETOC/1_ch03.htm  
+http://xroads.virginia.edu/~HYPER/DETOC/1_ch14.htm  
+http://xroads.virginia.edu/~HYPER/DETOC/1_ch15.htm  
+http://xroads.virginia.edu/~HYPER/DETOC/1_ch16.htm  
+    Also read, in http://xroads.virginia.edu/~HYPER/DETOC/toc_indx.html :   
 **     VOLUME II, SECTION 1:**  
     Chap 1,  "Philosophical Method of The Americans," _THROUGH_ Chap 14, "The Trade of Literature."   
 
@@ -286,7 +282,7 @@ Wed, Nov 7: Tocqueville, 1830s-1840s.
 Fri, Nov 9: Discussion.  
 Reading: Tocqueville, _Democracy in America_. In the book, read pages 503-67,
 590-608, 667-70, and 690-705.  
- <http://xroads.virginia.edu/~HYPER/DETOC/toc_indx.html> Read:  
+ http://xroads.virginia.edu/~HYPER/DETOC/toc_indx.html Read:  
 **     VOLUME II, SECTION 2:** Entire.  
     Chap 1, "Why Democratic Nations Show a More Ardent...." _THROUGH_ Chap 20, "How an Aristocracy may be Created by Manufactures."   
 **     VOLUME II, SECTION 3:**  
@@ -307,7 +303,7 @@ Wed, Nov 14: Whitman, 1840s-1860s.
 Fri, Nov 16: Discussion.  
 Reading: Walt Whitman, _Portable Walt Whitman_. Read "Song of Myself,"
 "Crossing Brooklyn Ferry," and "Song of the Open Road."  
-<http://jefferson.village.virginia.edu/whitman/works/leaves/1882/text/frameset.html>  
+http://jefferson.village.virginia.edu/whitman/works/leaves/1882/text/frameset.html  
 
 
 **RACE, SECTIONALISM, AND GENDER IN AMERICAN IDEAS**
@@ -327,7 +323,7 @@ Mon, Nov 26: Lincoln, Douglas, and other Northerners on the Civil War,
 Wed, Nov 28: Abolitionism and black intellectuals, 1820s-1860s.  
 Fri, Nov 30: Discussion  
 Reading: Frederick Douglass, _Narrative of the Life of Frederick Douglass._  
-<http://sunsite.berkeley.edu/Literature/Douglass/Autobiography/>  
+http://sunsite.berkeley.edu/Literature/Douglass/Autobiography/  
 
 
 **BEGINNING OF AN INDUSTRIAL AND MATERIAL CULTURE**
@@ -341,18 +337,18 @@ Reading: Abraham Lincoln, _Abraham Lincoln: A Documentary Portrait_. Read the
 following addresses: 3-4, 6-7, 18-20, 23, 25-26, 28-30, 32-33, 36, 40-41, 44,
 68-69, 87, 105.  
 Or read online:  
-<http://lincoln.lib.niu.edu/cgi-
-bin/navigate?/lib35/artfl1/databases/sources/IMAGE/.167>  
-<http://lincoln.lib.niu.edu/cgi-
-bin/navigate?/lib35/artfl1/databases/sources/IMAGE/.171>  
-<http://lincoln.lib.niu.edu/cgi-
-bin/navigate?/lib35/artfl1/databases/sources/IMAGE/.354>  
-<http://lincoln.lib.niu.edu/cgi-
-bin/navigate?/lib35/artfl1/databases/sources/IMAGE/.357>  
-<http://lincoln.lib.niu.edu/cgi-
-bin/navigate?/lib35/artfl1/databases/sources/IMAGE/.550>  
-<http://showcase.netins.net/web/creative/lincoln/speeches/1inaug.htm>  
-<http://showcase.netins.net/web/creative/lincoln/speeches/inaug2.htm>  
+http://lincoln.lib.niu.edu/cgi-
+bin/navigate?/lib35/artfl1/databases/sources/IMAGE/.167  
+http://lincoln.lib.niu.edu/cgi-
+bin/navigate?/lib35/artfl1/databases/sources/IMAGE/.171  
+http://lincoln.lib.niu.edu/cgi-
+bin/navigate?/lib35/artfl1/databases/sources/IMAGE/.354  
+http://lincoln.lib.niu.edu/cgi-
+bin/navigate?/lib35/artfl1/databases/sources/IMAGE/.357  
+http://lincoln.lib.niu.edu/cgi-
+bin/navigate?/lib35/artfl1/databases/sources/IMAGE/.550  
+http://showcase.netins.net/web/creative/lincoln/speeches/1inaug.htm  
+http://showcase.netins.net/web/creative/lincoln/speeches/inaug2.htm  
 
 
 _Week 16_  

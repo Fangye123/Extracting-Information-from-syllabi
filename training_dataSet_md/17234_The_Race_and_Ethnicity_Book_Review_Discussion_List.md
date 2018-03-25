@@ -1,30 +1,24 @@
 |
 
 **POS334-L: THE RACE AND ETHNICITY BOOK REVIEW DISCUSSION LIST  
-** [ (faster download)  ](default2.htm)
+** (faster download)
 
-[Home](Default.htm) |  [Index](Default.htm#index) |[ Schedule
-](Default.htm#SCHED)|  [Archive](Default.htm#Archive) | [Syllabus](syl02.htm)
-|  [New Books](/gmklass/pos334/altread.htm) |  [Publication](Default.htm#ref)
-|  [Subscribing](Default.htm#sub) |  [Host](Default.htm#host)  
-Archives: | [A-D ](Default.htm#a_e)| [E-L ](Default.htm#e_l)| [M-R
-](Default.htm#m_s)| [S-Z ](Default.htm#s_z)|  
+Home |  Index | Schedule |  Archive | Syllabus |  New Books |  Publication |
+Subscribing |  Host  
+Archives: | A-D | E-L | M-R | S-Z |  
 ---  
   
 |
 
 #####  
 
-|  [Gary Klass  
-](http://www.ilstu.edu/~gmklass)[Department of Political
-Science](http://WWW.ilstu.edu/depts/polisci/pos.htm)  
-[Illinois State University  
-](http://WWW.ilstu.edu)[gmklass@ilstu.edu](mailto:gmklass@ilstu.edu) |
+|  Gary Klass  
+Department of Political Science  
+Illinois State University  
+gmklass@ilstu.edu |
 
-[![](PICS/drct_mh.gif)](http://138.87.207.1:8900/SCRIPT/pos334/scripts/serve_home.pl)
-| [Course WebCT site  
-(registered
-students)](http://webct.cast.ilstu.edu/SCRIPT/pos334/scripts/serve_home.pl)  
+![](PICS/drct_mh.gif) | Course WebCT site  
+(registered students)  
 ---|---|---  
   
 #####  
@@ -61,22 +55,22 @@ any time, including books that are not on the class schedule. **
 
 ###  The Course:
 
-  * [Course Syllabus (Spring, 1995)](gopher://www.ilstu.edu:70/00/depts/polisci/COURSES/POS302/Asyllabus.txt)
-  * [Course Syllabus (Spring, 1996)](/gmklass/pos334/syls96.htm)
-  * [Course Syllabus (Spring, 1997)](/gmklass/pos334/syll97.htm)
-  * [Course Syllabus (Spring, 1998)](/gmklass/pos334/syll98.htm)
-  * [Course Syllabus (Spring 1999)](/gmklass/pos334/syl99.htm)
-  * [Course Syllabus (Spring 2000)](syl00.htm)
-  * [Course Syllabus (Spring 2001)](syl01.htm)
-  * [ Final Papers (Spring 1995)  ](archive/final.html)
-  * [ Final Papers (Spring 1997)  ](archive/final97.html)
-  * [ Final Papers (Spring 1998)  ](archive/final98.html)
+  * Course Syllabus (Spring, 1995)
+  * Course Syllabus (Spring, 1996)
+  * Course Syllabus (Spring, 1997)
+  * Course Syllabus (Spring, 1998)
+  * Course Syllabus (Spring 1999)
+  * Course Syllabus (Spring 2000)
+  * Course Syllabus (Spring 2001)
+  * Final Papers (Spring 1995) 
+  * Final Papers (Spring 1997) 
+  * Final Papers (Spring 1998) 
   * Publication about this course 
-  * [Supplemental student evaluations, Spring 1995](/gmklass/pos334/eval.gif)
-  * [Supplemental student evaluations, Spring 1997](/gmklass/pos334/EVAL97.htm)
-  * [ Supplemental student evaluations, Spring 1998  ](/gmklass/pos334/EVAL98.htm)
-  * [Supplemental student evaluations, Spring 1999](EVAL99.htm)
-  * [Supplemental student evaluations, Spring 2000](EVAL00.htm)
+  * Supplemental student evaluations, Spring 1995
+  * Supplemental student evaluations, Spring 1997
+  * Supplemental student evaluations, Spring 1998 
+  * Supplemental student evaluations, Spring 1999
+  * Supplemental student evaluations, Spring 2000
   * Buy your books on-line: 
 
 **
@@ -89,18 +83,13 @@ any time, including books that are not on the class schedule. **
 ---|---  
   
 |  
-[![In Association with
+![In Association with
 Amazon.com](http://www.associmg.com/assoc/us/logos2000/ap-search-
-logo-126x32.gif?tag-
-id=pos334ltheracean)](http://www.amazon.com/exec/obidos/redirect-
-home/pos334ltheracean?tag-id=pos334ltheracean&placement=ap-search-
-logo-126x32.gif&site=amazon)  
+logo-126x32.gif?tag-id=pos334ltheracean)  
 **Click here to order books from Amazon.com and Amazonl   will make a 5%
-contribution to the ISU\IWU Habitat for Humanity Collegiate Home  ** |
-**[![In Association with Amazon.com](http://www.associmg.com/assoc/us/home-
-btn-120x90.gif?tag-
-id=pos334ltheracean)](http://www.amazon.com/exec/obidos/redirect-
-home?tag=pos334ltheracean&placement=home-btn-120x90.gif&site=amazon)**  
+contribution to the ISU\IWU Habitat for Humanity Collegiate Home  ** |  **![In
+Association with Amazon.com](http://www.associmg.com/assoc/us/home-
+btn-120x90.gif?tag-id=pos334ltheracean)**  
   
 **
 
@@ -108,25 +97,23 @@ home?tag=pos334ltheracean&placement=home-btn-120x90.gif&site=amazon)**
 
 **
 
-> Abelmann, Nancy and John Lie.  [ Blue Dreams
-](archive/abelmann_and_lie.htm)**
+> Abelmann, Nancy and John Lie.  Blue Dreams  **
 
 **
 
-> Anderson, Elijah. [Streetwise](archive/anderson.html)** **![](new.jpg)**
+> Anderson, Elijah. Streetwise** **![](new.jpg)**
 
 **
 
-> K. Anthony Appiah and Amy Gutmann.  [ Col  or Conscious
-](archive/apiah.html)**
+> K. Anthony Appiah and Amy Gutmann.  Col  or Conscious  **
 
 **
 
-> Asante, Molefi. [The Afrocentric Idea](archive/asante.html)**
+> Asante, Molefi. The Afrocentric Idea**
 
 **
 
-> Banks, William. [Black Intellectuals](archive/banks.html)
+> Banks, William. Black Intellectuals
 
 >
 
@@ -134,26 +121,24 @@ home?tag=pos334ltheracean&placement=home-btn-120x90.gif&site=amazon)**
 
 **
 
-> Barber, Benjamin. [Jihad vs. McWorld](archive/barber.html)**
+> Barber, Benjamin. Jihad vs. McWorld**
 
 **
 
-> Barrera, Mario. [Beyond Aztlan](archive/barrera.htm)**
+> Barrera, Mario. Beyond Aztlan**
 
 **
 
-> Beckner, Chrisanne.  [100 African-Americans Who Shaped
-America](archive/beckner.htm)**
+> Beckner, Chrisanne.  100 African-Americans Who Shaped America**
 
 **
 
-> Bell, Derrick. [And We are not Saved](archive/bell.html); [Faces at the
-Bottom of the Well](archive/bell.html);  [Gospel Choirs](archive/bell.html)**
+> Bell, Derrick. And We are not Saved; Faces at the Bottom of the Well;
+Gospel Choirs**
 
 **
 
-> Barbara R. Bergmann. [In Defense of Affirmative
-Action](archive/bergman.htm)**
+> Barbara R. Bergmann. In Defense of Affirmative Action**
 
 >
 
@@ -161,8 +146,7 @@ Action](archive/bergman.htm)**
 
 >
 
-> Billingsley, Andrew. [Black Families in White
-America](archive/billing.html)**
+> Billingsley, Andrew. Black Families in White America**
 
 >
 
@@ -170,106 +154,101 @@ America](archive/billing.html)**
 
 >
 
-> Bordewich, Fergus. [Killing the White Man's Indian](archive/borde.htm)**
+> Bordewich, Fergus. Killing the White Man's Indian**
 
 **
 
-> Brimlow, Peter. [Alien Nation](archive/brimelow.htm)**
+> Brimlow, Peter. Alien Nation**
 
 **
 
-> Brown, Tony.  [Black Lies, White Lies](archive/brown.htm)**
+> Brown, Tony.  Black Lies, White Lies**
 
 **
 
-> Bullard, Robert.  [Unequal Protection](archive/bullard.htm)**
+> Bullard, Robert.  Unequal Protection**
 
 **
 
-> Caldwell, Earl. [Black American Witness](archive/caldwell.html)**
+> Caldwell, Earl. Black American Witness**
 
 **
 
-> Chavez, Linda. [Out Of The Barrio](archive/chavez1.html)**
+> Chavez, Linda. Out Of The Barrio**
 
 **
 
-> Chavez, Lydia.** [**The Color Bind**](archive/chavezlydia.htm)
-**![](new.jpg)**
+> Chavez, Lydia.** **The Color Bind** **![](new.jpg)**
 
 >
 
-> **Cole, David ** **. _[No Equal Justice](archive/cole.htm) _[ .
-](archive/cole.htm)_ _** _****_ **![](new.jpg)**
+> **Cole, David ** **. _No Equal Justice _ .  _ _** _****_ **![](new.jpg)**
 
 **
 
-> Collins, Patricia Hill.  [Black Feminist Thought](archive/collins.html)**
+> Collins, Patricia Hill.  Black Feminist Thought**
 
 **
 
-> Cornell, Stephen. [The Return Of The Native](archive/cornell.htm)**
+> Cornell, Stephen. The Return Of The Native**
 
 **
 
-> Cose, Ellis.  [The Rage Of A Privileged Class](archive/cose.htm)**
+> Cose, Ellis.  The Rage Of A Privileged Class**
 
 > **
 
 >
 
-> Crawford, James. [Hold Your Tongue](archive/crawford.html)**
+> Crawford, James. Hold Your Tongue**
 
 **
 
-> Crow Dog, Mary. [Lakota Woman](archive/crowdog.htm)**
+> Crow Dog, Mary. Lakota Woman**
 
 **
 
-> Cruse, Harold. [Plural, But Equal](archive/cruse.htm)**
+> Cruse, Harold. Plural, But Equal**
 
 **
 
-> Davis, Angela. [Women, Culture And Politics](archive/davis.htm)**
+> Davis, Angela. Women, Culture And Politics**
 
 **
 
-> Dalton, Harlon L. [Racial Healing](archive/dalton.htm)**
+> Dalton, Harlon L. Racial Healing**
 
 **
 
-> Richard Delgado.** [**The Coming Race War?  **](archive/delgado.htm)
+> Richard Delgado.** **The Coming Race War?  **
 
 **
 
-> Deloria, Vine and Lytle, Clifford. [The Nations
-Within](archive/deloria.htm)**
+> Deloria, Vine and Lytle, Clifford. The Nations Within**
 
 **
 
-> Deloria, Vine. [Red Earth White Lies](archive/deloria.htm); [Custer Died for
-Your Sins](archive/deloria.htm)**
+> Deloria, Vine. Red Earth White Lies; Custer Died for Your Sins**
 
 **
 
-> Dionne, E.J. [Why Americans Hate Politics](archive/dionne.html)**
+> Dionne, E.J. Why Americans Hate Politics**
 
 **
 
-> D'Souza, Dinesh. [Iliberal Education; The End of
-Racism](archive/dsouza.htm)**
+> D'Souza, Dinesh. Iliberal Education; The End of Racism**
 
 **
 
-> Duneier, Mitchel. [Slim's Table](archive/duneier.htm)**
+> Duneier, Mitchel. Slim's Table**
 
 **
 
-> Micheal Eric Dyson. [Race Rules](archive/dyson.htm)**
+> Micheal Eric Dyson. Race Rules**
 
 **
 
-> Terry Eastland. [Ending Affirmative Action](archive/east.htm)
+> Terry Eastland. Ending Affirmative Action
 
 >
 
@@ -277,12 +256,11 @@ Racism](archive/dsouza.htm)**
 
 **
 
-> Edsall, Thomas and Mary. [Chain Reaction](archive/edsall.htm)**
+> Edsall, Thomas and Mary. Chain Reaction**
 
 **
 
-> Ezorsky, Gertrude. [Racism and Justice](archive/ezorsky.htm)
-**![](new.jpg)**
+> Ezorsky, Gertrude. Racism and Justice **![](new.jpg)**
 
 >
 
@@ -290,256 +268,241 @@ Racism](archive/dsouza.htm)**
 
 **
 
-> Farber, Daniel A. and Suzanna Sherry. [_Beyond All
-Reason_](archive/farber.htm)**
+> Farber, Daniel A. and Suzanna Sherry. _Beyond All Reason_**
 
 **
 
-> Fleisher, Mark S. [Beggars and Thieves](archive/fleisher.htm)**
+> Fleisher, Mark S. Beggars and Thieves**
 
 **
 
-> Frady, Marshall. [Jesse: The Life and Pilgrimage of Jesse
-Jackson](archive/frady.htm)**
+> Frady, Marshall. Jesse: The Life and Pilgrimage of Jesse Jackson**
 
 **
 
-> Frankenburg, Ruth. [The Social Construction of
-Whiteness](archive/frank.html)**
+> Frankenburg, Ruth. The Social Construction of Whiteness**
 
 **
 
-> Georgie Anne Geyer.** [**Americans No More**](archive/geyer.htm)
+> Georgie Anne Geyer.** **Americans No More**
 
 **
 
-> Gilder, George. [Men and Marriage](archive/gilder.htm)
+> Gilder, George. Men and Marriage
 
 >
 
-> Philip Gourevitch _[We Wish to Inform You That Tomorrow We Will be Killed
-With Our Families](archive/Gourev.htm)_ _ _ **![](new.jpg)** **
+> Philip Gourevitch _We Wish to Inform You That Tomorrow We Will be Killed
+With Our Families_ _ _ **![](new.jpg)** **
 
 > **
 
 >
 
-> Glazer, Nathan. [We Are All Multiculturalists  Now](archive/glazer.html)**
+> Glazer, Nathan. We Are All Multiculturalists  Now**
 
 **
 
-> Guinier, Lani. [The Tyranny Of The Majority](archive/guinier.htm)**
+> Guinier, Lani. The Tyranny Of The Majority**
 
 **
 
-> Hacker, Andrew. [Two Nations](archive/hacker.htm)
+> Hacker, Andrew. Two Nations
 
 >
 
-> Hart  ,  Dianne Walta _,[Undocumented in L.A](archive/hart.htm)._ __
-**![](new.jpg)** **
+> Hart  ,  Dianne Walta _,Undocumented in L.A._ __ **![](new.jpg)** **
 
 **
 
-> Henry, William A. III. [In Defense Of Elitism](archive/henry.htm)**
+> Henry, William A. III. In Defense Of Elitism**
 
 **
 
-> Herrnstein, Richard J. and Charles Murray. [The Bell
-Curve](archive/murray.htm)**
+> Herrnstein, Richard J. and Charles Murray. The Bell Curve**
 
 **
 
-> Hochschild, Jennifer. [Facing Up To The American Dream](archive/hoch.htm)**
+> Hochschild, Jennifer. Facing Up To The American Dream**
 
 **
 
-> Ignatiev, Noel,** [**How the Irish Became White**](archive/ignatiev.htm)
+> Ignatiev, Noel,** **How the Irish Became White**
 
 **
 
-> Isay, David. [ Our America](archive/isay.htm)**
+> Isay, David.  Our America**
 
 **
 
-> Jackson, Jesse, Jr. [ Legal Lynching](archive/jackson.htm)**
+> Jackson, Jesse, Jr.  Legal Lynching**
 
 **
 
-> Jhally, Sut and Justin Lewis**. [**Enlightened Racism**](archive/jhally.htm)
+> Jhally, Sut and Justin Lewis**. **Enlightened Racism**
 
 **
 
-> Kahlenberg, Richard D. [The Remedy](archive/kalen.htm)**
+> Kahlenberg, Richard D. The Remedy**
 
 **
 
-> Kaus, Mickey. [The End of Equality](archive/kaus.html)**
+> Kaus, Mickey. The End of Equality**
 
 **
 
-> Kennedy, Randall**. [ **Race, Crime, and the Law**](archive/kennedy.htm)
+> Kennedy, Randall**.  **Race, Crime, and the Law**
 
 **
 
-> Kotlowitz, Alex. [There Are No Children Here](archive/kotlow.htm)**
+> Kotlowitz, Alex. There Are No Children Here**
 
 **
 
-> Kozol, Jonathan. [Amazing Grace](archive/kozol.htm)  Savage Inequalities
-Ordinary Resurrections **(Spring 2001)
+> Kozol, Jonathan. Amazing Grace  Savage Inequalities Ordinary Resurrections
+**(Spring 2001)
 
 **
 
-> Lauffer, Armand. [Careers, Colleagues and Conflicts](archive/lauffer.htm)**
+> Lauffer, Armand. Careers, Colleagues and Conflicts**
 
 **
 
-> Lane, Harlan. [The Mask of Benevolence](archive/lane.htm)**
+> Lane, Harlan. The Mask of Benevolence**
 
 > **
 
 >
 
-> Lorde, Andre. [Zami: A New Spelling of My Name](archive/lorde.htm) **
+> Lorde, Andre. Zami: A New Spelling of My Name **
 
 > **
 
 >
 
-> Massey, Douglas and Nancy Denton. [American Apartheid](archive/massey.htm)**
+> Massey, Douglas and Nancy Denton. American Apartheid**
 
 > **
 
 >
 
-> McCall, Nathan. [Makes Me Wanna Holler](archive/mccall.htm)**
+> McCall, Nathan. Makes Me Wanna Holler**
 
 **
 
-> Mead, Lawrence. [The New Politics of Poverty](archive/mead.html)**
+> Mead, Lawrence. The New Politics of Poverty**
 
 > **
 
 >
 
-> Moynihan, Daniel P.  [Family and Nation](archive/moyn.html)**
+> Moynihan, Daniel P.  Family and Nation**
 
 **
 
-> Orfield and Ashkinaze. [The Closing Door](archive/orfield.html)**
+> Orfield and Ashkinaze. The Closing Door**
 
 **
 
-> Orlando Patterson.** [**The Ordeal Of Integration**](archive/patterson.htm)
+> Orlando Patterson.** **The Ordeal Of Integration**
 
 **
 
-> Payne,** **Richard J.   [Getting Beyond Race](archive/payne.htm)**
+> Payne,** **Richard J.   Getting Beyond Race**
 
 **
 
-> Phillips, Kevin. [The Politics of Rich and Poor](archive/phillips.html)**
+> Phillips, Kevin. The Politics of Rich and Poor**
 
 **
 
-> Porter, Rosalie Pedalino. [Forked Tongue](archive/porter.htm)**
+> Porter, Rosalie Pedalino. Forked Tongue**
 
 **
 
-> Portes, Alejandro and Ruben G. Rumbaut**. [**Immigrant
-America**](archive/portes.htm)
+> Portes, Alejandro and Ruben G. Rumbaut**. **Immigrant America**
 
 >
 
-> **Rieder, Jonathan. ** _[Canarsie](archive/rieder.html)_**
-[](archive/rieder.html)  **
+> **Rieder, Jonathan. ** _Canarsie_**  **
 
 >
 
 > **Robinson, Randall ****. ** _**The Debt**_ (Spring, 2001)  
 >
 
-> **Roediger, David** _**[The Wages of Whiteness ](archive/roedig.htm)**_
+> **Roediger, David** _**The Wages of Whiteness **_
 
 **
 
-> Ryan, William. [Blaming The Victim](archive/ryan.htm)
+> Ryan, William. Blaming The Victim
 
-> Schlesinger, Arthur, Jr. [The Disuniting of America](archive/schlesin.htm)**
+> Schlesinger, Arthur, Jr. The Disuniting of America**
 
 > **
 
 >
 
-> Shipler, David K. [A Country of Strangers](archive/shipler.htm)**
+> Shipler, David K. A Country of Strangers**
 
 **
 
-> Sidel, Ruth. [Women and Children Last](archive/sidel.htm); [Battling
-Bias](archive/sidel.htm)**
+> Sidel, Ruth. Women and Children Last; Battling Bias**
 
 **
 
-> Simon, Rita J., Howard Altstein, and Marygold S. Melli. [The Case For
-Transracial Adoption](archive/simon.htm)**
+> Simon, Rita J., Howard Altstein, and Marygold S. Melli. The Case For
+Transracial Adoption**
 
 **
 
-> Simpson, Andrea Y. [The Tie That Binds](archive/simpson.htm)**
+> Simpson, Andrea Y. The Tie That Binds**
 
 **
 
-> Skrentny, John David. [THE IRONIES OF AFFIRMATIVE
-ACTION](archive/skrentny.htm)**
+> Skrentny, John David. THE IRONIES OF AFFIRMATIVE ACTION**
 
 **
 
-> Sleeper, Jim.  [Liberal Racism ](archive/sleeper.html)**
+> Sleeper, Jim.  Liberal Racism **
 
 **
 
-> Sniderman, Paul M. and Thomas Piazza. [The Scare of
-Race](archive/snider.htm); [Reaching beyond Race](archive/snider.htm)**
+> Sniderman, Paul M. and Thomas Piazza. The Scare of Race; Reaching beyond
+Race**
 
 **
 
-> Sowell, Thomas. [Race and Culture](archive/sowell.htm)** [ (C-span
-interview) (real audio)
-](http://www.booktv.org/ram/booknotes/review/0499/btv041799a_5.ram)
+> Sowell, Thomas. Race and Culture** (C-span interview) (real audio)
 
 **
 
-> Steele, Shelby. [The Content of Our Character;A Dream
-Deferred](archive/steele.html)**
+> Steele, Shelby. The Content of Our Character;A Dream Deferred**
 
 **
 
-> Swain, Carol M. [Black Faces, Black Interests](archive/swain.htm)**
+> Swain, Carol M. Black Faces, Black Interests**
 
 **
 
-> Sykes, Charles. [A Nation Of Victims](archive/sykes.html)**
+> Sykes, Charles. A Nation Of Victims**
 
 **
 
-> Tagaki, Dana. [Retreat From Race](archive/tagaki.htm)**
+> Tagaki, Dana. Retreat From Race**
 
 **
 
-> Thernstrom, Stephen and Abigail**, [**America in Black and
-White**](archive/thernstrom.htm)
+> Thernstrom, Stephen and Abigail**, **America in Black and White**
 
 **
 
-> Tonry, Michael. [Malign Neglect-Race, Crime, and Punishment in
-America](archive/tonry.htm)**
+> Tonry, Michael. Malign Neglect-Race, Crime, and Punishment in America**
 
 **
 
-> Urofsky, Melvin I. [Affirmative Action On Trial  
->  ](archive/urofsky.htm)**([oral arguments and opinions in the
-case](http://oyez.nwu.edu/cases/cases.cgi?command=show&case_id=192))
+> Urofsky, Melvin I. Affirmative Action On Trial  
+>  **(oral arguments and opinions in the case)
 
 >
 
@@ -551,25 +514,23 @@ case](http://oyez.nwu.edu/cases/cases.cgi?command=show&case_id=192))
 
 **
 
-> West, Cornell. [Race Matters](archive/west.htm)**
+> West, Cornell. Race Matters**
 
 **
 
-> Wicker, Tom.  [Tragic Failure](archive/wicker.htm)**
+> Wicker, Tom.  Tragic Failure**
 
 **
 
-> Wilson, John Karl. [The Myth of Political
-Correctness](archive/wilsonjk.htm)**
+> Wilson, John Karl. The Myth of Political Correctness**
 
 **
 
-> Wilson, William J. [The Truly Disadvantaged](archive/wilson.htm); [When Work
-Disappears](archive/wilson.htm)**
+> Wilson, William J. The Truly Disadvantaged; When Work Disappears**
 
 **
 
-> Wood, Forrest. [The Arrogance of Faith](archive/wood.html)
+> Wood, Forrest. The Arrogance of Faith
 
 >
 
@@ -585,18 +546,13 @@ Disappears](archive/wilson.htm)**
 > ---|---  
 >  
 > |  
-> [![In Association with
+> ![In Association with
 Amazon.com](http://www.associmg.com/assoc/us/logos2000/ap-search-
-logo-126x32.gif?tag-
-id=pos334ltheracean)](http://www.amazon.com/exec/obidos/redirect-
-home/pos334ltheracean?tag-id=pos334ltheracean&placement=ap-search-
-logo-126x32.gif&site=amazon)  
+logo-126x32.gif?tag-id=pos334ltheracean)  
 > **Click here to order books from Amazon.com and Amazonl   will make a 5%
-contribution to the ISU\IWU Habitat for Humanity Collegiate Home  ** |
-**[![In Association with Amazon.com](http://www.associmg.com/assoc/us/home-
-btn-120x90.gif?tag-
-id=pos334ltheracean)](http://www.amazon.com/exec/obidos/redirect-
-home?tag=pos334ltheracean&placement=home-btn-120x90.gif&site=amazon)**  
+contribution to the ISU\IWU Habitat for Humanity Collegiate Home  ** |  **![In
+Association with Amazon.com](http://www.associmg.com/assoc/us/home-
+btn-120x90.gif?tag-id=pos334ltheracean)**  
 >  
 > **
 
@@ -604,20 +560,19 @@ home?tag=pos334ltheracean&placement=home-btn-120x90.gif&site=amazon)**
 
 **Authors who have appeared in our class:**
 
-> **Fleisher, Mark S.[Beggars and Thieves](archive/fleisher.htm)  
->  Payne,  ** **Richard J.,   [Getting Beyond Race](archive/payne.htm)** **  
->  Wilson, John Karl. [The Myth of Political
-Correctness](archive/wilsonjk.htm) **
+> **Fleisher, Mark S.Beggars and Thieves  
+>  Payne,  ** **Richard J.,   Getting Beyond Race** **  
+>  Wilson, John Karl. The Myth of Political Correctness **
 
 **Original Interview with Lawrence Mead: **
 
-> **Mead, Lawrence,[The New Politics of Poverty](archive/mead.html)**
+> **Mead, Lawrence,The New Politics of Poverty**
 
 **Books that students really liked:**
 
-> **Kotlowitz, Alex,[There Are No Children Here](archive/kotlow.htm)  
->  Kozol, Jonathan, [Amazing Grace](archive/kozol.htm)  
->  Payne,** **Richard J.,   [Getting Beyond Race](archive/payne.htm)**
+> **Kotlowitz, Alex,There Are No Children Here  
+>  Kozol, Jonathan, Amazing Grace  
+>  Payne,** **Richard J.,   Getting Beyond Race**
 
 
 
@@ -647,8 +602,7 @@ in the Humanities and Social  Sciences, at  Michigan  State  ****University.
 **
 
 **Matrix hosts   discussion networks and  a World  Wide Web site  for H-NET:
-Humanities and  Social Sciences Online.  Please visit the [H-NET  Web
-site](http://www.h-net.msu.edu) .**
+Humanities and  Social Sciences Online.  Please visit the H-NET  Web site .**
 
 **For more information about H-NET please contact webstaff@h-net.msu.edu**.
 
@@ -744,10 +698,7 @@ ISBN: 0060974990
 
 > Ezorsky, Gertrude. **_Racism and Justice_** ISBN 0-8014-9922-4  
 >  Urofsky, Melvin I. **_Affirmative Action On Trial_** ISBN: 0700608303  
->  (alternative: Howard Ball  , **_The Bakke Case_** (order from
-[amazon.com](http://www.amazon.com/exec/obidos/external-
-search/106-8552320-6268426?keyword=howard+ball+bakke+case&mode=blended&tag=pos334ltheracean&tag-
-id=pos334ltheracean&placement=ap-search-go-btn.gif))  
+>  (alternative: Howard Ball  , **_The Bakke Case_** (order from amazon.com)  
 >  Mar 12
 
 **Section 3:**
@@ -796,9 +747,8 @@ the following week.) .  _
 * * *
 
 ###  Publication:  
-Gary Klass,  "[Bringing the World into the
-Classroom](/gmklass/articles/psarticle.htm)," **_P S: Political Science and
-Politics _** XXVIII (4), 723-725.  XXVIII (4), 723-725.
+Gary Klass,  "Bringing the World into the Classroom," **_P S: Political
+Science and Politics _** XXVIII (4), 723-725.  XXVIII (4), 723-725.
 
 * * *
 

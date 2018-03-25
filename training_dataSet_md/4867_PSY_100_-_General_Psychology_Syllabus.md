@@ -1,35 +1,22 @@
 #  **_Syllabus_**
 
-**_[  Course Description ](http://www.mssc.edu/psych/cochran/psypg1a.htm#PSY
-100 - Description)_** |
-**_[Miscellaneous](http://www.mssc.edu/psych/cochran/psypg1a.htm#MISCELLANEOUS)_**  
+**_  Course Description _** | **_Miscellaneous_**  
 ---|---  
-**_[ Objectives ](http://www.mssc.edu/psych/cochran/psypg1a.htm#PSY 100 -
-Objectives)_** |
-**_[Requirements](http://www.mssc.edu/psych/cochran/psypg1a.htm#PSY 100 -
-Requirements)_**  
-**_[Textbook](http://www.mssc.edu/psych/cochran/psypg1a.htm#PSY 100 -
-Textbook)_** |
-**_[Bibliography](http://www.mssc.edu/psych/cochran/psypg1a.htm#PSY 100 -
-Bibliography)_**  
-**_[Course Outline ](http://www.mssc.edu/psych/cochran/psypg1a.htm#PSY 100 -
-Course Outline)_** |
-**_[Back](http://www.mssc.edu/psych/cochran/psypg1.htm)_**  
-**_[Instructional Methods](http://www.mssc.edu/psych/cochran/psypg1a.htm#PSY
-100 - Instructional Methods)_** | **_[
-Home](http://www.mssc.edu/psych/cochran/psyhome)_**  
+**_ Objectives _** | **_Requirements_**  
+**_Textbook_** | **_Bibliography_**  
+**_Course Outline _** | **_Back_**  
+**_Instructional Methods_** | **_ Home_**  
   
 * * *
 
 **GENERAL PSYCHOLOGY - PSY 100** **Syllabus** **MISSOURI SOUTHERN STATE
 COLLEGE** **Joplin, Missouri** **School of Education and Psychology**
-**Department of Psychology**
-**[www.mssc.edu/psych/cochran/psyhome.htm](http://www.mssc.edu/psych/cochran/psyhome.htm)**
+**Department of Psychology** **www.mssc.edu/psych/cochran/psyhome.htm**
 
 **INSTRUCTOR Dr. H. Keith Cochran**  
 **    132 Taylor Hall**  
 **    Office (417) 625-9776**  
-**    [cochran-k@mail.mssc.edu](mailto:cochran-k@mail.mssc.edu)**
+**    cochran-k@mail.mssc.edu**
 
 **OFFICE HOURS:**
 
@@ -314,9 +301,6 @@ Information**
 
 * * *
 
-[![Assignments](min38.jpg)](http://www.mssc.edu/psych/cochran/psypg1b.htm)[![Extra
-Credit](min40.jpg)](http://www.mssc.edu/psych/cochran/psypg1d.htm) [![Reading
-List](min39.jpg)](http://www.mssc.edu/psych/cochran/psypg1c.htm)[![Helpful
-Info](min41.jpg)](http://www.mssc.edu/psych/cochran/psypg1e.htm)
-[![HOME](home.jpg)](http://www.mssc.edu/psych/cochran/psyhome.htm)[![](mssclant.jpg)](http://www.mssc.edu/)
+![Assignments](min38.jpg)![Extra Credit](min40.jpg) ![Reading
+List](min39.jpg)![Helpful Info](min41.jpg) ![HOME](home.jpg)![](mssclant.jpg)
 

@@ -121,59 +121,59 @@ The readings assigned for each class session should be completed prior to that
 session.
 
     
-    
-    24 Aug	Introduction to Class
-    
-    29 Aug	New Technologies and Society: Overview	Readings: Dizard: 1;  Grant: 1; Pitter: 1
-    31 Aug	Cable: The Basics and History	Readings: Dizard: 4;  Grant: 3
-    
-    5 Sept	Cable: the Big Change I: Satellites	Readings: Dizard: 5;  Grant: 26
-    7 Sept	Cable: Programming	Readings:  Dizard: 6; Grant: 4 & 7
-    	   Internet Assignment 1: E-Mail & Joining the Listserve		Pitter: 2
-    
-    12 Sept	Cable: Competition	Readings: Grant: 8 & 9
-    14 Sept	Cable: The Coming Big Change II	Readings: Dizard: 2; Grant: 2, 13, & 30
-    
-    19 Sept	Cable & Telephony: Foundation	Readings: Dizard: 3;  Grant: 29 & 31
-    21 Sept	Cable & Telephony: Cross Competition	Readings: Grant: 5 & 6
-    
-    26 Sept	Cable & Telephony: Cross Competition	Readings:  Grant: 32 & 33
-    28 Sept	The New Kid: Internet & NII/GII	Readings: Grant: 14 & 15
-    		Internet Assignment 2:  Usenets & Gophers		Pitter: 3, 4 & 5
-    
-    3 Oct	Net Content and Services: Still Under Construction	Readings: Grant: 16 & 17
-    5 Oct	Catch-up & Review
-    
-    10 Oct	Test # 1
-    12 Oct	Fall Break (no class)
-    
-    17 Oct	Hollywood & Emerging Technologies	Readings: Dizard: 7;  Grant: 22
-    19 Oct	Print & Emerging Technologies	Readings: Dizard: 8
-    		Internet Assignment 3: Papers & Zines on the Web		Pitter: 8
-    
-    24 Oct	The Individualization of Mass Media	
-    26 Oct	New "Broadcasting" Services & Technologies: TV	Readings: Grant: 10 & 11
-    
-    31 Oct	New Services & Technologies: Radio & Audio	Readings: Grant: 12 & 25
-    1 Nov	Personal Technologies: Video	Readings: Grant: 23 & 24
-    
-    7 Nov	PersonalTechnologies: Publishing	Readings: Grant: 20 & 21
-    9 Nov	Personal Technologies: Communications	Readings: Grant: 34 & 36
-    
-    14 Nov	Personal Technologies: Entertainment	Readings: Grant: 18 & 19 
-    16 Nov	Catch-Up & Review
-    
-    21 Nov	Test # 2
-    23 Nov	Thanksgiving (no class)
-    
-    28 Nov	New Technologies & Education	Readings: Grant: 28
-    		Internet Assignment 4: Finding research materials		Pitter: 6 & 7
-    30 Nov	New Technologies & Business	Readings: Grant: 27 & 35
-    
-    5 Dec	Future Directions & Issues	Readings: Dizard: 9;  Grant: 37
-    7 Dec	Presentations I
-    
-    14 Dec	2:45-4:45     Presentations II	Term Paper Due
+    
+    24 Aug	Introduction to Class
+    
+    29 Aug	New Technologies and Society: Overview	Readings: Dizard: 1;  Grant: 1; Pitter: 1
+    31 Aug	Cable: The Basics and History	Readings: Dizard: 4;  Grant: 3
+    
+    5 Sept	Cable: the Big Change I: Satellites	Readings: Dizard: 5;  Grant: 26
+    7 Sept	Cable: Programming	Readings:  Dizard: 6; Grant: 4 & 7
+    	   Internet Assignment 1: E-Mail & Joining the Listserve		Pitter: 2
+    
+    12 Sept	Cable: Competition	Readings: Grant: 8 & 9
+    14 Sept	Cable: The Coming Big Change II	Readings: Dizard: 2; Grant: 2, 13, & 30
+    
+    19 Sept	Cable & Telephony: Foundation	Readings: Dizard: 3;  Grant: 29 & 31
+    21 Sept	Cable & Telephony: Cross Competition	Readings: Grant: 5 & 6
+    
+    26 Sept	Cable & Telephony: Cross Competition	Readings:  Grant: 32 & 33
+    28 Sept	The New Kid: Internet & NII/GII	Readings: Grant: 14 & 15
+    		Internet Assignment 2:  Usenets & Gophers		Pitter: 3, 4 & 5
+    
+    3 Oct	Net Content and Services: Still Under Construction	Readings: Grant: 16 & 17
+    5 Oct	Catch-up & Review
+    
+    10 Oct	Test # 1
+    12 Oct	Fall Break (no class)
+    
+    17 Oct	Hollywood & Emerging Technologies	Readings: Dizard: 7;  Grant: 22
+    19 Oct	Print & Emerging Technologies	Readings: Dizard: 8
+    		Internet Assignment 3: Papers & Zines on the Web		Pitter: 8
+    
+    24 Oct	The Individualization of Mass Media	
+    26 Oct	New "Broadcasting" Services & Technologies: TV	Readings: Grant: 10 & 11
+    
+    31 Oct	New Services & Technologies: Radio & Audio	Readings: Grant: 12 & 25
+    1 Nov	Personal Technologies: Video	Readings: Grant: 23 & 24
+    
+    7 Nov	PersonalTechnologies: Publishing	Readings: Grant: 20 & 21
+    9 Nov	Personal Technologies: Communications	Readings: Grant: 34 & 36
+    
+    14 Nov	Personal Technologies: Entertainment	Readings: Grant: 18 & 19 
+    16 Nov	Catch-Up & Review
+    
+    21 Nov	Test # 2
+    23 Nov	Thanksgiving (no class)
+    
+    28 Nov	New Technologies & Education	Readings: Grant: 28
+    		Internet Assignment 4: Finding research materials		Pitter: 6 & 7
+    30 Nov	New Technologies & Business	Readings: Grant: 27 & 35
+    
+    5 Dec	Future Directions & Issues	Readings: Dizard: 9;  Grant: 37
+    7 Dec	Presentations I
+    
+    14 Dec	2:45-4:45     Presentations II	Term Paper Due
     
 
 * * *

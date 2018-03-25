@@ -4,9 +4,8 @@ Dr. Thomas R. Maddux
 Office--Sierra Tower 602  
 Office Hours: MW 10-11 TBA  
 Telephone: 677-5450, 3566  
-Course Web Page: [
-http://www.csun.edu/~vchis009/menu.html](http://www.csun.edu/~vchis009/menu.html)  
-E-mail: [thomas.maddux@csun.edu](mailto:vchis009@email.csun.edu)
+Course Web Page:  http://www.csun.edu/~vchis009/menu.html  
+E-mail: thomas.maddux@csun.edu
 
 * * *
 
@@ -77,10 +76,10 @@ learn Email and Netscape on the Internvet. Special handouts will be provided
 to the class. The specific requirements include:  
 
   1. Obtain a CSUN Computer Account if you don't already have one. 
-  2. Email a message to the instructor at [thomas.maddux@email.csun.edu](mailto:vchis009@email.csun.edu) in which you identify your name and your new CSUN account I.D. 
+  2. Email a message to the instructor at thomas.maddux@email.csun.edu in which you identify your name and your new CSUN account I.D. 
   3. Subscribe to the course list serv discussion group by sending an email message to majordomo@csun.edu after the "To" in the address field of your message. Then as the top line of your message write: subscribe history369-c. Then send the message. After the students subscribe to the list serv, a message sent to history369-c will be sent to all subscribers to the list. 
   4. Prepare an introduction of your self for the class and send it to history369-c. Some of the topics you could mention include major, previous education, previous exposure to the subject of the class, reasons for taking the course, and special areas of interest with respect to American Indians. 
-  5. After you learn how to access the world wide web with Netscape or some other software, visit the History 369 web site at the following address: [http://www.csun.edu/ ~vchis009/menu.html](%20%0ahttp://www.csun.edu/~vchis009/menu.html). You should then use the internet resrouces at the web site to visit another web site related to American Indians. Please save the address for this web site, the url similar to the address for History 369 and submit a report to the 369 list serv in which you provide the web site address and a description of the site you visited on American Indians. 
+  5. After you learn how to access the world wide web with Netscape or some other software, visit the History 369 web site at the following address: http://www.csun.edu/ ~vchis009/menu.html. You should then use the internet resrouces at the web site to visit another web site related to American Indians. Please save the address for this web site, the url similar to the address for History 369 and submit a report to the 369 list serv in which you provide the web site address and a description of the site you visited on American Indians. 
 
 * * *
 
@@ -164,13 +163,11 @@ Odyssey: The Life of Lesa Phillip Roberts," 557-569.
   
 * * *
 
-**[ [ History 369 Menu](menu369.html) ] [ [History 369 Internet
-Resources](online.html) ] [ [Dr. Maddux Home
-Page](http://www.csun.edu/vchis009/menu.html) ] **
+**[ History 369 Menu ] [ History 369 Internet Resources ] [ Dr. Maddux Home
+Page ] **
 
 * * *
 
-   **`Updated: 28 August 1998`** | **`Constructed
-by:[jjarvis@lrc.csun.edu](mailto:jjarvis@lrc.csun.edu)`**  
+   **`Updated: 28 August 1998`** | **`Constructed by:jjarvis@lrc.csun.edu`**  
 ---|---
 

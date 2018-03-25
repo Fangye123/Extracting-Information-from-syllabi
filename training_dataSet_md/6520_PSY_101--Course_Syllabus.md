@@ -15,10 +15,9 @@ Ohio University, Zanesville Campus
 112 Elson Hall  
 Zanesville, OH 43701  
 (740) 588-1522  
-E-mail: [loschiav@ohio.edu](mailto:loschiav@oak.cats.ohiou.edu)  
-Website:
-[www.zanesville.ohiou.edu/psych/losch/losch.htm](http://www.zanesville.ohiou.edu/psych/losch/losch.htm)
-|  ![](../../winteronline/graphics/planetearth.gif)
+E-mail: loschiav@ohio.edu  
+Website: www.zanesville.ohiou.edu/psych/losch/losch.htm |
+![](../../winteronline/graphics/planetearth.gif)
 
   
   
@@ -57,8 +56,8 @@ student, an OAK email account has been provided to you free of charge. You
 must activate your OAK email account, even if you plan to have your OAK email
 forwarded to another address (e.g., Hotmail, Yahoo). To activate your OAK
 account, or to set your OAK account to forward your email, visit
-[**www.cns.ohiou.edu/email**](http://www.cns.ohiou.edu/email). While you are
-enrolled in this course, you should check your email every day.
+**www.cns.ohiou.edu/email**. While you are enrolled in this course, you should
+check your email every day.
 
 * * *
 
@@ -75,10 +74,8 @@ The textbook comes bundled with a student activity CD and a copy of the
 Scientific-American Reader.
 
 **Note:** If you are near the Zanesville campus, you can purchase this
-textbook at the [**Campus
-Bookstore**](http://www.matc.tec.oh.us/bookstore/index.html). Or you may
-purchase the books for the course at Specialty Books, (740) 594-4002. [**Click
-here**](http://www.specialtybookstore.com) for online ordering.
+textbook at the **Campus Bookstore**. Or you may purchase the books for the
+course at Specialty Books, (740) 594-4002. **Click here** for online ordering.
 
 * * *
 
@@ -87,8 +84,7 @@ here**](http://www.specialtybookstore.com) for online ordering.
 ### **Course Calendar**
 
 |  | **WEEK** | **SUBJECT** | **ASSIGNMENT** |  by June 17 | Activate and/or
-forward Oak account at [**www.cns.ohiou.edu/email/**
-](http://www.cns.ohiou.edu/email/) |
+forward Oak account at **www.cns.ohiou.edu/email/** |
 
 Friday,  
 June 21  
@@ -227,7 +223,7 @@ midterm exams and a comprehensive final exam. Each midterm exam will be worth
 100 points, while the final exam will be worth 200 points. The exams will be
 spaced evenly throughout the quarter.
 
-  * **Exams must be taken at proctored sites.** You may select a proctored site that is convenient for you. Locations are listed on the [**Ohio University Online**](http://www.ohiou.edu/ouonline) website. Although some proctored sites charge a fee for their services, there is no charge for taking an exam on any of Ohio University's six campuses; Athens, Chillicothe, Eastern, Lancaster, Southern, and Zanesville. It will be easiest for everyone if you take your exams at one of OU's campuses. Please remember, it is your responsibility to call the proctored site, make a reservation for testing, and then inform the Ohio University Online staff of the arrangments either by sending email to **[OU.Online@ohio.edu](mailto:%22OU.Online@ohio.edu%22)** , or by calling (740) 593-2583 or 1-888-551-6446. The Ohio University Online staff will send the exams to the proper location. 
+  * **Exams must be taken at proctored sites.** You may select a proctored site that is convenient for you. Locations are listed on the **Ohio University Online** website. Although some proctored sites charge a fee for their services, there is no charge for taking an exam on any of Ohio University's six campuses; Athens, Chillicothe, Eastern, Lancaster, Southern, and Zanesville. It will be easiest for everyone if you take your exams at one of OU's campuses. Please remember, it is your responsibility to call the proctored site, make a reservation for testing, and then inform the Ohio University Online staff of the arrangments either by sending email to **OU.Online@ohio.edu** , or by calling (740) 593-2583 or 1-888-551-6446. The Ohio University Online staff will send the exams to the proper location. 
 
   * **Each exam must be completed by its corresponding due date.** All due dates are listed above on the course calendar. 
 
@@ -278,8 +274,7 @@ provides FREE access to computers, printers, email, and the internet. Call
 | **Important Note** |  If you would like to contact me, please feel free to
 call me at (740) 588-1522, or send email. If you would like more information
 about online courses at Ohio University (e.g., computer requirements, course
-offerings), please visit [**Ohio University
-Online**](http://www.ohiou.edu/ouonline).
+offerings), please visit **Ohio University Online**.
 
 To give us a chance to meet each other, I have scheduled an **optional** face-
 to-face meeting--your decision to attend will not affect your grade. The
@@ -315,9 +310,8 @@ Information** | **Active Terms:** Term-based; 10 week quarter system
 
 **Registration Dates:** April 1-June 20, 2002
 
-Call the [**Ohio University Online
-Staff**](http://www.ohiou.edu/ouonline/index.html) at 1-888-551-6446 if you
-have questions about this course or the enrollment process.
+Call the **Ohio University Online Staff** at 1-888-551-6446 if you have
+questions about this course or the enrollment process.
 
 Call the education counselors in the Division of Lifelong Learning at (740)
 593-2150 if you have questions about Ohio University Degree Opportunities.

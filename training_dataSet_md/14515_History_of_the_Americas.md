@@ -205,7 +205,7 @@ Required Reading_
 Quintard Taylor  
 ---|---  
   
-| _<http://faculty.washington.edu/qtaylor/>_  
+| _http://faculty.washington.edu/qtaylor/_  
 ---|---  
   
 | **  

@@ -2,8 +2,7 @@
 
 ### \- A Design for Technology Education in the 21st Century
 
-by [John Murray](http://www-personal.engin.umich.edu/~jxm), University of
-Michigan, MI 48109-2117  
+by John Murray, University of Michigan, MI 48109-2117  
 Email: jxm@acm.org. Copyright 1995 John Murray
 
 ### Contents

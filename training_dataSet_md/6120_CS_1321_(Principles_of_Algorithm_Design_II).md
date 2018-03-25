@@ -28,10 +28,9 @@ The objectives of this course include, but are not limited to, the following:
 ##  Instructor
 
 **Instructor:**      Dr. Berna Massingill **E-mail:**
-[bmassing@cs.trinity.edu](mailto:bmassing@cs.trinity.edu) **Web page:**     [
-http://www.cs.trinity.edu/~bmassing/](http://www.cs.trinity.edu/~bmassing/)
-**Office:**      Halsell 201L **Office hours:**      See my Web page. **Office
-phone:**      (210) 999-8138
+bmassing@cs.trinity.edu **Web page:**
+http://www.cs.trinity.edu/~bmassing/ **Office:**      Halsell 201L **Office
+hours:**      See my Web page. **Office phone:**      (210) 999-8138
 
 ##  Textbook
 
@@ -43,16 +42,16 @@ Savitch; Addison-Wesley; 1997.
 (This list of references graciously provided by Drs. Oldham and Eggen.)
 
   * Cormen, Leiserson and Rivest, _Introduction to Algorithms_ , McGraw Hill, 1990. Emphasizes algorithms, not programming. 
-  * Cygnus, [The ISO/ANSI C++ Draft Standard](http://www.cygnus.com/misc/wp/). If you want to know about some obscure C++ rule and have lots of hours to understand the terminology. 
-  * Daniel P. Friedman and Matthias Felleisen, [ _The Little LISPer_](http://mitpress.mit.edu/book-home.tcl?isbn=0262560380), MIT Press, 1987, Trade Edition. A good book on recursion. 
-  * Daniel P. Friedman and Matthias Felleisen, [ _The Little Schemer_](http://mitpress.mit.edu/book-home.tcl?isbn=0262560992), MIT Press, 1995, Fourth Edition. A good book on recursion. 
-  * Nicolai M. Josuttis, [ _The C++ Standard Library: A Tutorial and Reference_](http://cseng.aw.com/bookpage.taf?ISBN=0-201-37926-0&ptype=0&catpage=&), Addison Wesley, 1999. A good STL reference book. 
-  * Brian W. Kernighan and Dennis M. Ritchie, [ _The C Programming Language_](http://www.phptr.com/), Prentice Hall, 1989, Second Edition. _The_ reference for C, written by its creators. 
-  * Andrew Koenig and Barbara Moo, [ _Ruminations on C++_](http://cseng.aw.com/bookdetail.qry?ISBN=0-201-42339-1&ptype=1031), Addison Wesley, 1997. A great but advanced book on C++ programming. 
-  * Stanley B. Lippman and Josee Lajoie, [ _C++ Primer_](http://cseng.aw.com/bookdetail.qry?ISBN=0-201-82470-1&ptype=0), Addison Wesley, 1998. A lengthy book introducing C++ language features. 
-  * Stanley B. Lippman, [ _Essential C++_](http://cseng.aw.com/bookdetail.qry?ISBN=0-201-48518-4&ptype=0), Addison Wesley, 2000. A very short, not-yet-published book covering C++ essentials. 
+  * Cygnus, The ISO/ANSI C++ Draft Standard. If you want to know about some obscure C++ rule and have lots of hours to understand the terminology. 
+  * Daniel P. Friedman and Matthias Felleisen,  _The Little LISPer_, MIT Press, 1987, Trade Edition. A good book on recursion. 
+  * Daniel P. Friedman and Matthias Felleisen,  _The Little Schemer_, MIT Press, 1995, Fourth Edition. A good book on recursion. 
+  * Nicolai M. Josuttis,  _The C++ Standard Library: A Tutorial and Reference_, Addison Wesley, 1999. A good STL reference book. 
+  * Brian W. Kernighan and Dennis M. Ritchie,  _The C Programming Language_, Prentice Hall, 1989, Second Edition. _The_ reference for C, written by its creators. 
+  * Andrew Koenig and Barbara Moo,  _Ruminations on C++_, Addison Wesley, 1997. A great but advanced book on C++ programming. 
+  * Stanley B. Lippman and Josee Lajoie,  _C++ Primer_, Addison Wesley, 1998. A lengthy book introducing C++ language features. 
+  * Stanley B. Lippman,  _Essential C++_, Addison Wesley, 2000. A very short, not-yet-published book covering C++ essentials. 
   * P.J. Plauger, Alexander A. Stepanov, and Meng Lee, _Standard Template Library: A Definitive Approach to C++ Programming_ , Prentice Hall, 1996. Presumably authoritative, since one of the authors wrote the STL. 
-  * Bjarne Stroustrup, [ _The C++ Programming Language_](http://cseng.aw.com/bookdetail.qry?ISBN=0-201-88954-4&ptype=0), Addison Wesley, 1997. The creator of the C++ programming language introduces its features. 
+  * Bjarne Stroustrup,  _The C++ Programming Language_, Addison Wesley, 1997. The creator of the C++ programming language introduces its features. 
 
 ##  Grades
 
@@ -110,11 +109,11 @@ Regular class attendance is strongly encouraged.
 
 Much course-related information (this syllabus, homework assignments and
 sample solutions, example programs, and so forth) will be made available via
-the World Wide Web. You can find the home page for the course at [
-http://www.cs.trinity.edu/~bmassing/CS1320_2000spring/info.html](http://www.cs.trinity.edu/~bmassing/CS1320_2000spring/info.html).
-This page is not only a starting point for Web-accessible course material but
-will also be used for course-related announcements, so you should plan to
-check it frequently.
+the World Wide Web. You can find the home page for the course at
+http://www.cs.trinity.edu/~bmassing/CS1320_2000spring/info.html. This page is
+not only a starting point for Web-accessible course material but will also be
+used for course-related announcements, so you should plan to check it
+frequently.
 
 ##  Late and missed work
 

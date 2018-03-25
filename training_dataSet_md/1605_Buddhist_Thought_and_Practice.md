@@ -1,12 +1,11 @@
-[![Kenyon College homepage](../../../KC1.gif)](http://www.kenyon.edu)
-[Department of Religion](../../../welcome.htm)  
-[Joseph Adler](../adler.htm)  
+![Kenyon College homepage](../../../KC1.gif) Department of Religion  
+Joseph Adler  
 
 * * *
 
-  * [Links](links260.htm) for Buddhism 
-  * [Selected handouts](handouts260.htm)
-  * [Pictures](pix.htm)
+  * Links for Buddhism 
+  * Selected handouts
+  * Pictures
   * Syllabus: 
 
 **Religious Studies 260**  
@@ -23,7 +22,7 @@ PBX 5290 / Home 427-4535                                 Office hours: MWF
 
     Buddhism has been one of the major connective links among the varied cultures of South, Southeast, and East Asia for over two millennia, and in this century it has established a solid presence in Europe and North America. This course will survey the history, doctrines, and practices of Buddhism in South Asia, Tibet, and East Asia. Readings will be in both primary texts and secondary sources, and will be supplemented by films and slides. The format will be a combination of lecture and discussion. 
 
-[![Mikaeri Amida](Images260/amida.JPG)](Images260/amida-big.jpg)  
+![Mikaeri Amida](Images260/amida.JPG)  
 **Reading:  **
 
   * Peter Harvey, _An Introduction to Buddhism: Teachings, History and Practices_
@@ -163,9 +162,8 @@ chapter.
 > Film: "The Awakening Bell" (on Thich Nhat Hanh)
 
   
-**10.** 4/5-9 **Vajrayana** [Click
-[![](Images260/Kalachakra.gif)](Images260/Kalachakra.jpg) for picture of
-Kalachakra Sand Mandala]
+**10.** 4/5-9 **Vajrayana** [Click ![](Images260/Kalachakra.gif) for picture
+of Kalachakra Sand Mandala]
 
 > > Reading:  Dalai Lama, _The World of Tibetan Buddhism_ , pp. 93-156
 
@@ -203,5 +201,5 @@ Zazengi), 115-125 (Hotsu Mujo Shin), 133-150 (Raihai Tokuzui), 205-210 (Kajo)
 
 * * *
 
-[![Back](../../../Images/L-arrow2.gif)](../adler.htm#COURSES)
+![Back](../../../Images/L-arrow2.gif)
 

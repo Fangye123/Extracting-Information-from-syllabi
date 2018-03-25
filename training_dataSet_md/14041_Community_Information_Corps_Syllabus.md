@@ -1,6 +1,6 @@
 ## SI 575 Community Information Corps Seminar
 
-## Professor [Paul Resnick](http://www.si.umich.edu/~presnick)
+## Professor Paul Resnick
 
 ## Winter 2002
 
@@ -159,12 +159,12 @@ A CIC project may be organized by faculty, with student participation through
 DFE, independent study, PEP workshop course, hourly pay, or GSRA. Some ongoing
 faculty-led projects include:
 
-  * [Who's That?](http://www.whothat.org) Building Social Capital in groups through photo directories. (Resnick)
+  * Who's That? Building Social Capital in groups through photo directories. (Resnick)
   * NPTechAssist recommender service for Non-Profit technology assistance providers. Working with NPower Michigan. (Resnick)
   * CoTelCo (Cogburn)
-  * [How Libraries and Librarians Help: Context Centered Methods for Evaluating Public Library Efforts at Bridging the Digital Divide and Building Community](http://www.si.umich.edu/libhelp/) (Durrance)
+  * How Libraries and Librarians Help: Context Centered Methods for Evaluating Public Library Efforts at Bridging the Digital Divide and Building Community (Durrance)
   * Environmental scan on knowledge management for the W.K. Kellogg Foundation (Atkins)
-  * [CHICO](http://www.si.umich.edu/CHICO) (Frost)
+  * CHICO (Frost)
   * IT and the future of higher education (Atkins and Dudestadt)
 
 A CIC project need not involve faculty, however. For example, a DFE or
@@ -178,10 +178,10 @@ in the CIC seminars and the ACT/CIC presence at the ExpoSItion.
 Sue Davidsen has identified the following DFE opportunities as of potential
 interest to CIC students:
 
-  * Community Residence Corporation <http://intel.si.umich.edu/cfdocs/si/dfe/dfe-viewer.cfm?RecordID=210>
-  * Legal Services Technology Network <http://intel.si.umich.edu/cfdocs/si/dfe/dfe-viewer.cfm?RecordID=207>
-  * Arab Community Center (ACCESS) <http://intel.si.umich.edu/cfdocs/si/dfe/dfe-viewer.cfm?RecordID=196>
-  * Another Ann Arbor <http://intel.si.umich.edu/cfdocs/si/dfe/dfe-viewer.cfm?RecordID=171>
+  * Community Residence Corporation http://intel.si.umich.edu/cfdocs/si/dfe/dfe-viewer.cfm?RecordID=210
+  * Legal Services Technology Network http://intel.si.umich.edu/cfdocs/si/dfe/dfe-viewer.cfm?RecordID=207
+  * Arab Community Center (ACCESS) http://intel.si.umich.edu/cfdocs/si/dfe/dfe-viewer.cfm?RecordID=196
+  * Another Ann Arbor http://intel.si.umich.edu/cfdocs/si/dfe/dfe-viewer.cfm?RecordID=171
 
 In addition, Kathleen Teodoro of NPower Michigan and Jennifer Bright of NPower
 Seattle are "interested in having a student review the existing web-hosted
@@ -199,19 +199,18 @@ saying what you're looking for.
 The Community Information Fellows Program is a competitive fellowship for
 graduates of the School of Information who plan to take public interest jobs.
 It provides money, mentoring, and a network. Apply while you're still a
-student. For more details see the [web page](http://www.si.umich.edu/cic/).
-Note that the terms of the fellowship may be somewhat different this year, and
-that some of the procedures may change. Please check the site again when it
-gets closer to the Feb. 15 deadline for applications. (We're also not sure yet
-whether we'll have funding, but we're hoping.)
+student. For more details see the web page. Note that the terms of the
+fellowship may be somewhat different this year, and that some of the
+procedures may change. Please check the site again when it gets closer to the
+Feb. 15 deadline for applications. (We're also not sure yet whether we'll have
+funding, but we're hoping.)
 
 ## Support for Summer Jobs
 
 Last year we were able to supplement summer salaries for public interest jobs
 and internships. We hope to have money to do that again this year. For info on
-last year's program, see the [web page](http://www.si.umich.edu/cic/summer-
-fellows-program.htm). Watch for more information on this year's program in the
-coming months.
+last year's program, see the web page. Watch for more information on this
+year's program in the coming months.
 
 ## Travel and Social Networking
 
@@ -228,16 +227,15 @@ Please take advantage of this great opportunity!
 
 ## About ACT and Its Relationship to CIC
 
-ACT, the Alliance for Community Technology
-([www.communitytechnology.org](http://www.communitytechnology.org)), conducts
-a number of catalytic activities at the nexus of academia, community serving
-organizations and social investors. These activities include environmental
-scanning, convening discussions and framing emerging issues such as the
-potential role of open source software and ASPs for non-profit organizations,
-incubating innovative projects such as digital libraries for Native American
-Tribal Colleges. developing new knowledge about community technology through
-research, and training the next generation of public interest and community
-informationists.
+ACT, the Alliance for Community Technology (www.communitytechnology.org),
+conducts a number of catalytic activities at the nexus of academia, community
+serving organizations and social investors. These activities include
+environmental scanning, convening discussions and framing emerging issues such
+as the potential role of open source software and ASPs for non-profit
+organizations, incubating innovative projects such as digital libraries for
+Native American Tribal Colleges. developing new knowledge about community
+technology through research, and training the next generation of public
+interest and community informationists.
 
 This last activity, grooming the next generation, is where CIC fits in. CIC is
 the identifier for the suite of ACT activities involving students. For obvious
@@ -309,7 +307,7 @@ the Twenty-First Century_
 | Nathan Parham, Lou Weber  
 | Abdul Alkalimat and Kate Williams. _Social Capital and Cyberpower in the
 African American Community: A Case Study of a Community Technology Center in
-the Dual City._ <http://www.communitytechnology.org/cyberpower/>  
+the Dual City._ http://www.communitytechnology.org/cyberpower/  
   
 Other events:
 

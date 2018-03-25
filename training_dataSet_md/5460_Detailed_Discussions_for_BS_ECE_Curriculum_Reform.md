@@ -3,14 +3,14 @@
 
 **Talks in Chronological Order**
 
-  * February 15, 2000, Gustavo de Veciana, "Increasing the Place of Information, Signals, and Systems Early in the Curriculum" [PDF](gustavo.pdf)
-  * February 29, 2000, Gary Hallock, "EE464H/K Senior Laboratory" [PDF](hallock.pdf)
-  * April 14, 2000, Brian L. Evans, "Summary of Ideas for the BSEE Degree in the 2002-2004 Catalog" presented to the ECE Visiting Committee [PDF](EEreform.pdf) \- [PowerPoint](EEreform.ppt)
-  * September 5, 2000, Brian L. Evans, "BSEE and BS Comp. Eng. Degrees: Ideas for the 2002-2004 Catalog" presented to EE302 Honors Section [PDF](TalkInEE302.pdf) \- [PowerPoint](TalkInEE302.ppt)
-  * October 24, 2000, Brian L. Evans, "Summary of Faculty and Student Discussions for the BSEE Curriculum for the 2002-2004 Catalog", presented to the ECE Department [PDF](TalkECEDept.pdf) \- [PowerPoint](TalkECEDept.ppt)
-  * November 7, 2000, "Computer Engineering: Proposed Changes for 2002-2004 and Beyond," presented to the ECE Department [PDF](CraigTalk.pdf) \- [PowerPoint](CraigTalk.ppt)
-  * December 1, 2000, Brian L. Evans, "Proposal for the BSEE Curriculum for the 2002-2004 Catalog," presented to the ECE Faculty [PDF](BSEEproposal.pdf) \- [PowerPoint](BSEEproposal.ppt)
-  * December 1, 2000, Craig Chase, "Proposed Changes for 2002-2004 and Beyond," presented to the ECE Faculty [PDF](BSCEproposal.pdf) \- [PowerPoint](BSCEproposal.ppt) 
+  * February 15, 2000, Gustavo de Veciana, "Increasing the Place of Information, Signals, and Systems Early in the Curriculum" PDF
+  * February 29, 2000, Gary Hallock, "EE464H/K Senior Laboratory" PDF
+  * April 14, 2000, Brian L. Evans, "Summary of Ideas for the BSEE Degree in the 2002-2004 Catalog" presented to the ECE Visiting Committee PDF \- PowerPoint
+  * September 5, 2000, Brian L. Evans, "BSEE and BS Comp. Eng. Degrees: Ideas for the 2002-2004 Catalog" presented to EE302 Honors Section PDF \- PowerPoint
+  * October 24, 2000, Brian L. Evans, "Summary of Faculty and Student Discussions for the BSEE Curriculum for the 2002-2004 Catalog", presented to the ECE Department PDF \- PowerPoint
+  * November 7, 2000, "Computer Engineering: Proposed Changes for 2002-2004 and Beyond," presented to the ECE Department PDF \- PowerPoint
+  * December 1, 2000, Brian L. Evans, "Proposal for the BSEE Curriculum for the 2002-2004 Catalog," presented to the ECE Faculty PDF \- PowerPoint
+  * December 1, 2000, Craig Chase, "Proposed Changes for 2002-2004 and Beyond," presented to the ECE Faculty PDF \- PowerPoint 
 
 * * *
 
@@ -41,19 +41,19 @@
   * 12.0 Agenda for the February 9, 2001, ECE Faculty Meeting  
 
   * 13.0 Committee
-  * [Appendix A: Discussion about EE316](ee316.html)  
+  * Appendix A: Discussion about EE316  
 
-  * [Appendix B: Proposals for EE321](ee321.html)  
+  * Appendix B: Proposals for EE321  
 
-  * [Appendix C: Proposals for EE338 (EE438)](ee338.html)  
+  * Appendix C: Proposals for EE338 (EE438)  
 
-  * [Appendix D: Discussion about EE313](ee313.html)  
+  * Appendix D: Discussion about EE313  
 
-  * [Appendix E: Discussion about EE411](ee411.html)  
+  * Appendix E: Discussion about EE411  
 
-  * [Appendix F: Discussion about EE302](ee302.html)  
+  * Appendix F: Discussion about EE302  
 
-  * [Appendix G: ABET, University, and College Requirements](abet.html) 
+  * Appendix G: ABET, University, and College Requirements 
 
 * * *
 
@@ -167,8 +167,8 @@ Std. Dev._ | Non-transfer | 85 | 62% | 14% | 80% | 22%  | Transfer | 41 | 55%
 | 13% | 73% | 22%
 
 To help make the transition more smooth, the ECE department publishes
-suggestions for [transferring into the ECE department from Austin Community
-College](http://www.ece.utexas.edu/undergradinfo/courseinfo/EvenProgUpdate/programinfo.html).
+suggestions for transferring into the ECE department from Austin Community
+College.
 
 Concerning expedience in finishing the BSEE degree under the 1998-2000
 catalog, the biggest obstacle encountered by a transfer student is the
@@ -192,7 +192,7 @@ transfer students in mind.
 1.4 _ABET, IEEE, and University Guidelines_
 
 The ABET, IEEE, and University guidelines for a BSEE degree are given in more
-detail in [Appendix G](abet.html) and summarized below.
+detail in Appendix G and summarized below.
 
 A summary of ABET Guidelines follows:
 
@@ -527,8 +527,8 @@ The six tracks of required courses follow:
   * _Required Courses Track #1_ (Analog Circuits): EE302 (Lab) -- > EE411 --> EE438 (Lab)  
 
     * EE302 
-    * EE411 lists M427K as a co-requisite, which covers Laplace transforms in special sections as of Spring 2000. For Fall 2000, Laplace transforms has been added to M 427K according to the [Syllabus for M 427K](http://www.ma.utexas.edu/text/syllabi/syllabi29.html). 
-    * EE438 would be EE338 plus a laboratory ([proposed modifications to EE338](ee338.html)) 
+    * EE411 lists M427K as a co-requisite, which covers Laplace transforms in special sections as of Spring 2000. For Fall 2000, Laplace transforms has been added to M 427K according to the Syllabus for M 427K. 
+    * EE438 would be EE338 plus a laboratory (proposed modifications to EE338) 
 
   * _Required Courses Track #2_ (Systems): EE313 -- > EE351K, EE362K  
 
@@ -607,7 +607,7 @@ A new technical area in Circuit Design is proposed that would consist of
 EE316, EE321, EE321K, and EE338K. In addition, EE316 could be added as a
 technical area elective in Computer Engineering (Group 2) and Integrated
 Electronics since it is a pre-requisite for EE360M and EE360R, respectively.
-See [Appendix A: Discussion about EE316](ee316.html).
+See Appendix A: Discussion about EE316.
 
 We suggest making PHY355 optional and add it to two Technical Areas:
 Electromagnetic Engineering, and Electronic Materials and Devices. Some of the
@@ -666,16 +666,13 @@ telecommunications technical areas.
 
 | _Class_ | _Amount of Material_ | _Decade of Syllabus_ | _Relevance to all
 EEs_ | _Any Redundant Material_ | _Course Rating_ | _Instructor Rating_ |
-[EE302](http://www.ece.utexas.edu/courses/fall_99/ee302/) |  Just right (DHLR)
-| 1980s | Yes (HR) Make optional (L) Too narrow (EV) | No | 3.65 | 3.65  |
-[EE411](http://www.ece.utexas.edu/~ee411acc/) | Too much (EV) Just right (LR)
-| 1980s | Yes (HL) No (E) | Yes, with EE302 | 3.80 | 3.55  |
-[EE312](http://www.ece.utexas.edu/projects/courses/fall_99/ee312) | Should
-cover more (V) | 1990s | Yes (EL) Medium (H) | No | 3.00 | 3.05  |
-[EE313](http://www.ece.utexas.edu/~bevans/courses/ee313/) | Too much (E) |
-1980s | Yes (EH) | No | 3.60 | 3.69  | EE316 | Redundant with itself | 1980s |
-Yes (DL) Medium (H) No (E) | Yes, with EE302 | 3.33 | 3.03  | EE319K |  |
-1990s | Yes (DEL) Medium (H) | No | 3.18 | 3.24
+EE302 |  Just right (DHLR) | 1980s | Yes (HR) Make optional (L) Too narrow
+(EV) | No | 3.65 | 3.65  | EE411 | Too much (EV) Just right (LR) | 1980s | Yes
+(HL) No (E) | Yes, with EE302 | 3.80 | 3.55  | EE312 | Should cover more (V) |
+1990s | Yes (EL) Medium (H) | No | 3.00 | 3.05  | EE313 | Too much (E) | 1980s
+| Yes (EH) | No | 3.60 | 3.69  | EE316 | Redundant with itself | 1980s | Yes
+(DL) Medium (H) No (E) | Yes, with EE302 | 3.33 | 3.03  | EE319K |  | 1990s |
+Yes (DEL) Medium (H) | No | 3.18 | 3.24
 
 The Course Ratings and Instructor Ratings represent the average of these
 ratings given on the Student Evaluation from Fall 1996 to Summer 1999
@@ -738,7 +735,7 @@ The agenda for the meeting follows:
 
   1. 5 minutes: Agenda for the meeting and summary of previous discussions: Brian Evans 
   2. 5 minutes: The importance of abstraction: Brian Evans 
-  3. 15 minutes: Increasing the place of Information, Signals, and Systems early in our EE (CE/SE) curriculum: Gustavo de Veciana ([Slides](gustavo.pdf)) 
+  3. 15 minutes: Increasing the place of Information, Signals, and Systems early in our EE (CE/SE) curriculum: Gustavo de Veciana (Slides) 
   4. 15 minutes. Discussion concerning EE302 
   5. 15 minutes: Summary of the content in EE316: Chuck Roth 
   6. 15 minutes. Discussion of ideas for updating EE316 
@@ -793,7 +790,7 @@ Fall of 2002 semester.
 
   * Agenda items #2 and #3, Amending the BSEE and BSCE curriculums. Please note, curricula package for the 2002-2004 catalog described at 
 
-<http://www.ece.utexas.edu/~bevans/eereform/index.html>
+http://www.ece.utexas.edu/~bevans/eereform/index.html
 
 Since a number of the specific items in the proposed BSEE and BSCE curriculums
 are in common, it will be more efficient to discuss these items for both BSEE
@@ -802,7 +799,7 @@ will be made independently for each curriculum.
 
     * a. We propose to have 15 technical areas. There are ten technical areas associated with EE fields and five technical areas associated with CE. fields. A BSEE student would either choose both technical areas from the EE areas or one technical area from the EE areas and one technical area from the CE areas. A BSCE student would either choose both technical areas from the CE areas or one technical area from the CE areas and one technical area from the EE areas. A student would choose three classes in a technical area. A class can only be counted for one technical area. The proposed set of technical area courses is described at 
 
-<http://www.ece.utexas.edu/~bevans/eereform/catalog/techareas.html>
+http://www.ece.utexas.edu/~bevans/eereform/catalog/techareas.html
 
 Floor open to amendments on technical areas. votes taken.
 
@@ -942,22 +939,21 @@ Floor open to amendments on EE316 requirement for BSEE degree, vote taken.
 The committee coordinating the faculty discussion on the BSEE degree for the
 2002-2004 catalog consists of the following faculty:
 
-  * Mr. Gary Daniels (D) [RGDAustin@aol.com](mailto:RGDAustin@aol.com)
-  * Prof. Gustavo de Veciana (V) [gustavo@ece.utexas.edu](mailto:gustavo@ece.utexas.edu)
-  * Prof. Brian L. Evans, Chair (E) [bevans@ece.utexas.edu](mailto:bevans@ece.utexas.edu)
-  * Prof. Gary Hallock (H) [hallock@ece.utexas.edu](mailto:hallock@ece.utexas.edu)
-  * Prof. Jack Lee (L) [lee@ece.utexas.edu](mailto:lee@ece.utexas.edu)
-  * Prof. Rebecca Richards-Kortum (R) [kortum@mail.utexas.edu](mailto:kortum@mail.utexas.edu) 
+  * Mr. Gary Daniels (D) RGDAustin@aol.com
+  * Prof. Gustavo de Veciana (V) gustavo@ece.utexas.edu
+  * Prof. Brian L. Evans, Chair (E) bevans@ece.utexas.edu
+  * Prof. Gary Hallock (H) hallock@ece.utexas.edu
+  * Prof. Jack Lee (L) lee@ece.utexas.edu
+  * Prof. Rebecca Richards-Kortum (R) kortum@mail.utexas.edu 
 The following students have been participating in the discussion of the ideas
 for a new BSEE curriculum:
 
-  * [Ms. Ariane Beck](http://www.ece.utexas.edu/~ariane/), BSEE, Materials and Devices Technical Area, senior, [ariane@ece.utexas.edu](mailto:ariane@ece.utexas.edu)
-  * [Mr. Robert Knock](http://www.ece.utexas.edu/~knock/), BS Computer Engineering, sophomore, [knock@ece.utexas.edu](mailto:knock@ece.utexas.edu)
-  * [Mr. Elijah Liu](http://www.ece.utexas.edu/~eliu2/), BSEE, Telecommunications and Signal Processing, sophomore, [eliu2@ece.utexas.edu](mailto:eliu2@ece.utexas.edu)
-  * [Mr. Brian Ward](http://www.ece.utexas.edu/~bsward/), BSEE, Solid State Technical Area, senior, [brian_w@mail.utexas.edu](mailto:brian_w@mail.utexas.edu) 
+  * Ms. Ariane Beck, BSEE, Materials and Devices Technical Area, senior, ariane@ece.utexas.edu
+  * Mr. Robert Knock, BS Computer Engineering, sophomore, knock@ece.utexas.edu
+  * Mr. Elijah Liu, BSEE, Telecommunications and Signal Processing, sophomore, eliu2@ece.utexas.edu
+  * Mr. Brian Ward, BSEE, Solid State Technical Area, senior, brian_w@mail.utexas.edu 
 
 * * *
 
-Last updated 06/09/02. Mail comments about this page to
-[bevans@ece.utexas.edu](mailto:bevans@ece.utexas.edu).
+Last updated 06/09/02. Mail comments about this page to bevans@ece.utexas.edu.
 

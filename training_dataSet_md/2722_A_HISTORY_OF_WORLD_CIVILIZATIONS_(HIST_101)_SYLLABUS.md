@@ -127,7 +127,7 @@ Office Address: Irwin Hall 209B
 
 Telephone: 6302 [On Campus]; (707) 942-1518 [Off Campus]
 
-E-mail Address: [kfrancis@puc.edu](mailto:kfrancis@puc.edu)
+E-mail Address: kfrancis@puc.edu
 
 
 
@@ -451,6 +451,5 @@ _
 
 * * *
 
-[Back to: Index of Links for HIST 101
-Page](http://www.puc.edu/Faculty/Keith_Francis/Hist_101/wwwkf.html)
+Back to: Index of Links for HIST 101 Page
 

@@ -1,6 +1,6 @@
 ## SI 575 Community Information Corps Seminar
 
-## Professor [Paul Resnick](http://www.si.umich.edu/~presnick)
+## Professor Paul Resnick
 
 ## Fall 2001
 
@@ -9,10 +9,9 @@
 Last revised 11/28/01 (PR).
 
 Meets Fridays 12-1:30  in 311 West Hall (Informal lunch at 11:30)  
-[CIC Project listings](projects.html)  
+CIC Project listings  
 Schedule  
-[CourseTools](https://coursetools.ummu.umich.edu/2001/winter/si/575/001.nsf)
-(for discussion and other nice features: access restricted)
+CourseTools   (for discussion and other nice features: access restricted)
 
 This 1-credit seminar course offers reading, reflection, and social networking
 experiences for students who are engaged in projects or considering careers as
@@ -87,7 +86,7 @@ This is a 1-credit class. Class meets for an hour and a half each week. You
 should spend, on average, about two and a half hours each week outside of
 class, doing the following:
 
-  * 24 hours before each class where readings will be discussed, post a 1-page reaction through [Course Tools](https://coursetools.ummu.umich.edu/2001/winter/si/si/575/001.nsf) (I recommend that you compose this separately and then cut and paste it to Course Tools; some people have had their work disappear if they compose for a long time using the web interface in course tools).
+  * 24 hours before each class where readings will be discussed, post a 1-page reaction through Course Tools (I recommend that you compose this separately and then cut and paste it to Course Tools; some people have had their work disappear if they compose for a long time using the web interface in course tools).
   * for any 2 of the guests during the semester, post brief comments in the Course Tools discussion area after the guest's visit.
   * If you're involved in complementary project work, once or twice during the semester you'll be asked to present a 10 minute status report to the rest of the class. 
   * At the end of the semester you'll be required to hand in a 4-5 page reflection paper tying your project work to the themes and activities discussed in class. If you're not doing a project, this paper will simply reflect on what you've learned.
@@ -130,23 +129,21 @@ Sep 14 | More summer work reports |   |
 
   * Katy Krieg, report on summer circuit-riding at NEW
   * Carrie Auster, report on summer internship at cyberstate.org
-  * Megan Kinney, [ report on summer internship at Washtenaw County Library](http://www-personal.si.umich.edu/~kinneymc/washco.html)
+  * Megan Kinney,  report on summer internship at Washtenaw County Library
 
 |  
 Sep 21 | Why We Do This Work |   |    |  
 Sep 23, 5:00PM | Potluck dinner at Prof. Atkins house; discussion on "Why We
-Do This Work" at 5:30PM, over dinner  |   |    | _[Common
-Fire](http://www.amazon.com/exec/obidos/ASIN/0807020052/qid=999871462/sr=2-1/ref=aps_sr_b_1_1/104-2889343-2223916)_
-, by Daloz, Keen, Keen, and Daloz Parks  
-Sep 28 | CTCs | Mike Tenbusch, [ ThinkDetroit](http://www.thinkdetroit.org/) |
+Do This Work" at 5:30PM, over dinner  |   |    | _Common Fire_ , by Daloz,
+Keen, Keen, and Daloz Parks  
+Sep 28 | CTCs | Mike Tenbusch,  ThinkDetroit |
 
   * Walter Mosley, entrepreneur's report on new social venture, DotCom Detroit
 
-| [CTCNet startup manual](http://www.ctcnet.org/toc.htm)
+| CTCNet startup manual
 
-Albert Fong and Josh Senyak: [Into the Mix: Ten Thoughts for Your New
-Community Technology Center Community Computing Centers for Employment and
-Education](http://www.ciof.org/toolkits/articles/10thoughts.htm)  
+Albert Fong and Josh Senyak: Into the Mix: Ten Thoughts for Your New Community
+Technology Center Community Computing Centers for Employment and Education  
 Oct 5 | Working with Diverse Communities | Mel King, TentCity Tech Center,
 Boston |
 
@@ -158,31 +155,28 @@ Oct 12 | Technology for Advocacy | Rich Cowan, Organizers' Collaborative,
 Cambridge, MA |
 
   * Vishant Shah report on Circuit Riders conference
-  * [Megan Kinney's report](http://www-personal.si.umich.edu/~kinneymc/crroundup.html) on Circuit Riders Conference
+  * Megan Kinney's report on Circuit Riders Conference
 
 |  
 special session: Oct. 17, 10AM-noon | 411 West Hall (Ehrlicher Room) | Cheryl
 Keen, author of Common Fire |   |  
-Oct 19 | No Class; participate in [CPSR annual
-meeting](http://www.cpsr.org/conferences/annmtg01/) instead  |   |   |  
+Oct 19 | No Class; participate in CPSR annual meeting instead  |   |   |  
 Oct 26 | The Domestic Institutional Landscape: Non-profits and their funding |
-|    | _[Making Nonprofits Work: A Report on the Tides of Nonprofit Management
-Reform](http://www.amazon.com/exec/obidos/ASIN/0815752458/qid=999871989/104-2889343-2223916)_
-, Paul Light  
+|    | _Making Nonprofits Work: A Report on the Tides of Nonprofit Management
+Reform_ , Paul Light  
 Nov 2 | Digital Libraries and other uses of information technology at Native
 American Tribal Colleges | Carrie Billy, Director of Technology Development &
-Operations, American Indian Higher Education Consortium |   | [About the
-speaker](docs/CLBBIO20011.DOC)
+Operations, American Indian Higher Education Consortium |   | About the
+speaker
 
-[The AIHEC web site](http://www.aihec.org/)  
+The AIHEC web site  
 Nov 9 | Civic Extension for the Information Age |   |   | excerpt from Boyte
-and Kari,[ _Building America: The Democratic Promise of Public
-Work_](http://www.amazon.com/exec/obidos/ASIN/1566394589/qid=999872062/sr=2-2/104-2889343-2223916);  
+and Kari, _Building America: The Democratic Promise of Public Work_;  
   
 Civic Extension whitepaper (not in coursepack; will be provided when
 available)  
-Nov 16 | Community Networks | Dirk Koning, [Grand Rapids Community Media
-Center](http://www.grcmc.org) |
+Nov 16 | Community Networks | Dirk Koning, Grand Rapids Community Media Center
+|
 
   * Vishant Shah and Danielle Kurzweil, Online Hate and Muslim Youth
 
@@ -192,14 +186,13 @@ Nov 30 | Recruiters: tech assistance for non-profits, and community networking
 | Kathleen Teodoro, director of training, Michigan NPower;  
   
 Peggy Sindt, Executive Director, Albion Economic Development Corporation and
-Jo King, Clerk, City of Albion | none | [www.forks.org](http://www.forks.org)  
+Jo King, Clerk, City of Albion | none | www.forks.org  
 Dec 7 | Wrapup |   |   |  
 |   |   |   |  
 future date TBA | The International Institutional Landscape | Vikas Nath, UNDP
-(invited) |   | [KnowNet Initiative Web site](http://www.knownet.org/)
+(invited) |   | KnowNet Initiative Web site
 
-[International Environment and Development jobs
-site](http://www.devnetjobs.org/)  
+International Environment and Development jobs site  
   
 Early winter speaker ideas:
 

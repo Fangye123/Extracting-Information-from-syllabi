@@ -6,23 +6,23 @@
   
 ---|---  
   
-[![](../images/home.jpg)](../index.html)
+![](../images/home.jpg)
 
 |
 
-[![](../images/major.jpg)](../major.html)
+![](../images/major.jpg)
 
 |
 
-[![](../images/faculty.jpg)](../faculty.html)
+![](../images/faculty.jpg)
 
 |
 
-[![](../images/students.jpg)](../students.html)
+![](../images/students.jpg)
 
 |
 
-[![](../images/weekends.jpg)](../experiential.html)  
+![](../images/weekends.jpg)  
   
   
 
@@ -30,10 +30,9 @@
   
 
 Madeline McMurray, Ph.D.  
-e-mail - [mlm5@humboldt.edu](mailto:mlm5@humboldt.edu)  
+e-mail - mlm5@humboldt.edu  
   
-Web Site Address:
-[http://www.humboldt.edu/~mlm5](http://www.humboldt.edu/%7Emlm5)  
+Web Site Address: http://www.humboldt.edu/~mlm5  
 Name: mlm5  
 Password: Tidbits  
 ___________________________________
@@ -41,7 +40,7 @@ ___________________________________
 **REQUIRED READING**  
 The Myth of The Goddess - Baring  & Cashford  
 When God Was A Woman - Stone  
-McMurray Web Site - [humboldt.edu/~mlm5](http://www.humboldt.edu/%7Emlm5)  
+McMurray Web Site - humboldt.edu/~mlm5  
 Recommended Reading: Ancient Mirrors of Womanhood - Stone  
 _______________________________  
   
@@ -435,8 +434,7 @@ Harry N. Abrams, Inc., 1990.
   
   
 
-RS 350  < [Religious Studies](../index.html) <
-[CAHSS](http://www.humboldt.edu/%7Eah) < [HSU](http://www.humboldt.edu)  
+RS 350  < Religious Studies < CAHSS < HSU  
   
 ---  
   

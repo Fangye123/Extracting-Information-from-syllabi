@@ -7,7 +7,7 @@ Course Description and Syllabus
 **Political Studies 130** | **OFFICE HOURS**  
 ---|---  
 Tuesday and Thursday 9:40-10:50 | Mon: 10:00-11:00  
-[Professor Dana Ward](../../Homepage.html) | Tues: 11:00-12:00  
+Professor Dana Ward | Tues: 11:00-12:00  
 Office: A207 | Wed: 10:00-11:00  
 Telephone: 73177 | Thur: 11:00-12:00  
   
@@ -49,24 +49,18 @@ Scott, J. _Deciding to Intervene: Regan and American Foreign Policy_
 
 ### Useful Internet Links
 
-[CIA and the Vietnam Policy Makers: Three Episodes
-1962-68](http://www.odci.gov/csi/books/vietnam/index.html)  
-[C-Span on Cuban Missile Crisis](http://www.c-span.org/guide/society/cuba/)  
-[Cuba Project](http://www.soc.qc.edu/procuba/)  
-[Foreign Affairs Online](http://www.people.virginia.edu/%7Erjb3v/rjb.html)  
-[Foreign Relations of the United States (State Department site with
-documentary history)](http://www.state.gov/r/pa/ho/frus/)  
-[Human and Constitutional Rights Resource Page at Columbia
-University](http://www.hrcr.org/)  
-[Portals on the World (LOC
-links)](http://www.loc.gov/rr/international/portals.html)  
-[Project on Defense Alternatives](http://www.comw.org/pda/)  
-[Researching Treaties and International
-Agreements](http://www.llrx.com/features/ustreaty.htm#international)  
-[U.S. Diplomatic History Resources](http://www.tamu-
-commerce.edu/coas/history/sarantakes/stuff.html)  
-[World Fact Book
-(CIA)](http://www.odci.gov/cia/publications/factbook/index.html)  
+CIA and the Vietnam Policy Makers: Three Episodes 1962-68  
+C-Span on Cuban Missile Crisis  
+Cuba Project  
+Foreign Affairs Online  
+Foreign Relations of the United States (State Department site with documentary
+history)  
+Human and Constitutional Rights Resource Page at Columbia University  
+Portals on the World (LOC links)  
+Project on Defense Alternatives  
+Researching Treaties and International Agreements  
+U.S. Diplomatic History Resources  
+World Fact Book (CIA)  
 
 ## SYLLABUS
 

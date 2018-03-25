@@ -4,7 +4,7 @@
 
 Instructor: Mary Whitlock Blundell
 
-Email: [mwb@u.washington.edu](mailto:mwb@u.washington.edu)
+Email: mwb@u.washington.edu
 
 Office: Denny 224 (phone 543-6904; message 543-2266)
 
@@ -272,5 +272,5 @@ Course grade will be based on midterm (30%), final (50%) and paper (20%). _You
 must receive a passing grade on each of these in order to pass the_ course.
 Attendance and class participation will also be taken into account.
 
-[**Back to CHID Homepage**](http://depts.washington.edu/chid/)
+**Back to CHID Homepage**
 

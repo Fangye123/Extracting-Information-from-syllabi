@@ -12,16 +12,16 @@
   * Office Hours: Mondays and Wednesdays 11:00 AM-12:00 PM, and by appointment 
   * Office: Hitchcock Communication Arts Building (CA) Room 304 A 
   * Office Telephone: (402) 280-2522 
-  * [email: fajardo@creighton.edu](mailto:%20fajardo@creighton.edu)
-  * Web Home Page: [http://mockingbird.creighton.edu/english/worldlit/fajardo.htm](../../fajardo.htm)   
+  * email: fajardo@creighton.edu
+  * Web Home Page: http://mockingbird.creighton.edu/english/worldlit/fajardo.htm   
 
-[**STUDENTS AND STUDENT PROJECTS**](students.htm)
+**STUDENTS AND STUDENT PROJECTS**
 
-[**TARA KNAPP**](tara.htm)
+**TARA KNAPP**
 
-[**JULIE MULLANY**](julie.htm)
+**JULIE MULLANY**
 
-[**NORAH SWARTZ**](norah.htm)
+**NORAH SWARTZ**
 
 
 
@@ -111,7 +111,7 @@ Wed Jan 14
 
 Wed Jan 21
 
-> [Anglo-Saxon (Old English) Period](anglosax.htm).
+> Anglo-Saxon (Old English) Period.
 
 >
 
@@ -123,15 +123,15 @@ Wed Jan 28
 
 Wed Feb 04
 
-> [Beowulf](beowulf.htm)
+> Beowulf
 
 Wed Feb 11
 
-> [Beowulf](beowulf.htm)
+> Beowulf
 
 Wed Feb 18
 
-> [Middle English Period: Outline and Chronology](mideng.htm)
+> Middle English Period: Outline and Chronology
 
 >
 
@@ -139,7 +139,7 @@ Wed Feb 18
 
 Wed Feb 25
 
-> [Geoffrey of Monmouth's _History of the Kings of Britain_](geoffrey.htm)
+> Geoffrey of Monmouth's _History of the Kings of Britain_
 
 Wed March 04
 

@@ -22,14 +22,10 @@ drawn from them requires reasoning and logic. It is important to understand
 both how and why an analysis is performed. Thus, this course is designed to
 focus on the conceptual side of statistics. It is also important to understand
 some of the assumptions, limitations, or strengths that come along with a
-particular procedure. [View the
-syllabus](http://www.smlr.rutgers.edu/Syllabus/533_542.htm)  [View the book
-list](http://www.smlr.rutgers.edu/Sp02MHRMBook.htm)  
+particular procedure. View the syllabus  View the book list  
 38:533:566:01  | **Law of Employment Relations**  
-Professor John Burton [View the
-syllabus](http://www.smlr.rutgers.edu/Syllabus/533_566.htm)  [View the book
-list](http://www.smlr.rutgers.edu/Sp02MHRMBook.htm)  
-[Midterm Grades](http://www.smlr.rutgers.edu/Syllabus/lmidterm.htm)  
+Professor John Burton View the syllabus  View the book list  
+Midterm Grades  
 38:533:580:01 | **Human Resource Strategy**  
 Professor Charles Nanry Class participants will prepare a team report based on
 one of the three integrative case studies found on pages 682-735 of the
@@ -39,16 +35,13 @@ Schuler and Jackson textbook. Teams will prepare a written report due on April
 points for the entire class. In addition, each class member will select a
 topic based on one of the chapter headings in the textbook, i.e., an area of
 application of HR such as performance appraisal, training and development,
-compensation, etc. [View the
-syllabus](http://www.smlr.rutgers.edu/Syllabus/533_580.htm)   [View the book
-list](http://www.smlr.rutgers.edu/Sp02MHRMBook.htm)  
+compensation, etc. View the syllabus   View the book list  
 38:533:634:01 | **Developing Human Capital**  
 Professor Charles Nanry In the first half of the course we will focus on
 development. The second half will focus on performance appraisal. Through a
 combination of lecture, case studies and exercises we will explore options and
-best practice models of appraisal and development. [View the
-syllabus](http://www.smlr.rutgers.edu/Syllabus/533_634.htm)  [View the book
-list](http://www.smlr.rutgers.edu/Sp02MHRMBook.htm)  
+best practice models of appraisal and development. View the syllabus  View the
+book list  
 38:533:636:01 | **Designing Work and Governance Systems**  
 Professor Joseph Blasi The focus of this course is to familiarize students
 with the basic production systems including manufacturing, service, and
@@ -65,12 +58,10 @@ systems and worker governance for other HR functions and the effect of the
 resulting HR systems on firm performance. Looks at worker participation in
 both union and non-union work environments. Provides and overview of the
 development of unions and the roles they play in organizations and society as
-a whole. Considers the ethical questions raised by work design. [View the
-syllabus](http://www.rci.rutgers.edu/~smlr/Syllabus/38-533-636.htm) [View the
-book list](http://www.smlr.rutgers.edu/Sp02MHRMBook.htm)  
+a whole. Considers the ethical questions raised by work design. View the
+syllabus View the book list  
 38:533:665 | **Managing The Global Workforce**  
-[View the syllabus](http://www.rci.rutgers.edu/~smlr/Syllabus/533_665.htm)
-[View the book list](http://www.smlr.rutgers.edu/Sp02MHRMBook.htm)  
+View the syllabus View the book list  
 38:533:590 | **Human Resource Strategy II:Business Functional Areas**  
 Professor James Sesil.     In order for a human resource manager to
 effectively function as a business partner you will need to have knowledge of
@@ -80,9 +71,7 @@ and/or firm level. Additionally, HR managers will find themselves working in
 settings with unique characteristics. The environment will impact the way in
 which the HR function is developed and deployed. For instance, the HR issues
 and corresponding strategy within a unionized manufacturing setting may be
-different from a R & D facility [View the
-syllabus](http://www.rci.rutgers.edu/~smlr/Syllabus/38_533_590.htm) [View the
-book list](http://www.smlr.rutgers.edu/Sp02MHRMBook.htm)  
+different from a R & D facility View the syllabus View the book list  
   | **  
 **SPRING 2002  
 Master of Labor and Employment Relations  
@@ -107,7 +96,7 @@ larger, international contexts, and to explore paradigms such as the new
 international division of labor, gendered pay gaps and glass ceilings through
 the prism of global, transnational and international economic practices, and
 through the everyday lives of women working within various global and local
-sites.[View the syllabus](http://www.smlr.rutgers.edu/Syllabus/38-578-541.htm)  
+sites.View the syllabus  
 38:578:562 | **International/Comparative Labor**  
 Professor Carola M Frege. On the eve of the 21st century, we are witnessing an
 amazing expansion of capitalism around the world. Freer trade and currency
@@ -124,11 +113,9 @@ levels. We introduce the principal models of industrial relations systems in
 various countries and the main problems facing them in the new century, and
 then in the second half of the term we turn to look at the industrial
 relations actors in comparative perspective: trade unions, state and
-employers. [View the
-Syllabus](http://www.smlr.rutgers.edu/Syllabus/38-578-562.htm)  
+employers. View the Syllabus  
 38:578:610 Index:72619 | **Corporate Governance and Financial Analysis**  
-Professor Jeff Keefe [View the
-Syllabus](http://www.smlr.rutgers.edu/Syllabus/38-578-610.htm)  
+Professor Jeff Keefe View the Syllabus  
   | **  
 **SPRING 2002  
 Undergraduate: Bachelor in Labor and Employment Relations  
@@ -138,8 +125,7 @@ integration, the impact of technological innovations, new forms of work
 organization, employee diversity and the always-present employer resistance to
 unionization. The student of the labor movement should recognize the potential
 for very broad inquiry in this area given the enormous amount of academic,
-business, and union literature on the subject. [View the
-syllabus](http://www.smlr.rutgers.edu/Syllabus/37-575-363.htm)  
+business, and union literature on the subject. View the syllabus  
 37:575:395 | **Perspectives on Labor Studies**  
 Professor Carola M Frege. This course will trace the intellectual and
 historical evolution of theory and research on Industrial Relations/Labor
@@ -150,11 +136,9 @@ course treats industrial relations from a disciplinary perspectives and
 explores how different social sciences such as sociology, economics, law or
 political science have influenced our thinking and how industrial relations as
 a discipline has contributed to the broader social science understanding of
-work, employment and society. [View the
-syllabus](http://www.smlr.rutgers.edu/Syllabus/37-575-395.htm)  
+work, employment and society. View the syllabus  
 37:575:450 | **Senior Seminar in Labor Studies**  
-Prof. David Bensman   [View the
-syllabus](http://www.smlr.rutgers.edu/Syllabus/37-575-450.htm)  
+Prof. David Bensman   View the syllabus  
 37:575:491 | **Organizational Behavior**  
 Jane E. Barnes Organizational behavior affects almost all areas of society. In
 this introductory course, you will learn how individual, group and
@@ -162,8 +146,7 @@ organizational processes interact to shape behavior. Topics such as
 organizational culture, decision-making, job performance and feedback,
 motivation, leadership, stress management and group dynamics will be covered.
 Course content will be taught through lecture, group exercises and projects,
-and case problems. [View the
-syllabus](http://www.smlr.rutgers.edu/Syllabus/37-575-491.htm)  
+and case problems. View the syllabus  
   | **  
 **SUMMER Master of Human Resource Management**  
 **Course  
@@ -175,14 +158,13 @@ Master of Labor and Employment Relations
 Labor Studies and Employment Relations**  
 **Graduate**  
 38:578:550 | **Professor Vikrant Kishin Advani**   Labor Law  
-[View the Syllabus](http://www.smlr.rutgers.edu/Syllabus/578-550.htm)  
+View the Syllabus  
   |  
 **Summer 2002 BA/LSER**  
 37:575:230 | **Human Resource Issues**  Darcel Lowery  
-[View the Syllabus  
+View the Syllabus  
 37:575:491  | **Special Topics: Working Women and the Law**  
-Professor Mia Cahill    [View the
-syllabus](http://www.smlr.rutgers.edu/Syllabus/37-575-491.htm)  
+Professor Mia Cahill    View the syllabus  
   |  
 **COURSE SYLLABUS**  
   
@@ -219,7 +201,7 @@ you to recognize the basic patterns in human resource management systems
 across developed and developing nations. It considers, globalization,
 multinational and expatriate human resource management issues in the context
 of overseas subsidiaries, joint ventures and the multinational corporation.
-[View the syllabus](http://www.smlr.rutgers.edu/Syllabus/globalF02.htm)  
+View the syllabus  
   |  
 **Fall 2002 Master of Labor and Employment Relations**  
 38:578:500 | **Introductory Seminar in Labor and Employment Relations**  
@@ -227,9 +209,7 @@ Profesor Saul Rubinstein, M 4:30pm - 7:10pm Room 166,Labor Education Center,
 Index #10498  
 38:578:556 | **Employee Involvement And New Work Organization**  
 Professor Eileen Applebaum, Th 7:20pm - 10:00 pm, Room 166, Labor Education
-Center, Index #14341 [ View the
-Syllabus](http://www.smlr.rutgers.edu/Syllabus/578-556.htm)  or [ View the
-Course Schedule](http://www.smlr.rutgers.edu/Syllabus/578-556_course.htm)  
+Center, Index #14341  View the Syllabus  or  View the Course Schedule  
 38:578:560 | **Collective Bargaining**  
 Professor Jeff Keefe, M 7:20pm - 10:00pm Room 130/131, Labor Education Center,
 Index#10499  
@@ -254,7 +234,7 @@ Undergraduate: Bachelor in Labor and Employment Relations**
 37:575:100 | **Introduction to Labor Studies**  
 W, 6:10 p.m. - 9:00p.m. Auditorium/102, Index #11516, **Slott, Mike,** Labor
 Education Center  
-[View the Syllabus](http://www.smlr.rutgers.edu/Syllabus/575-100.htm)  
+View the Syllabus  
 37:575:101 | **Introduction to Labor Studies**  
 M, 11:30 a.m. - 12:50 p.m. and W 11:30 a.m. - 2:10 Tillett Hall Room 116 Index
 # 03949, 03950, 03951, 03952, 03953, 05712, 05713 **Keddie, Wells,**
@@ -289,13 +269,12 @@ Labor Education Center
 37:575:308 | **Dynamics of Work & Work Organizations**  
 W, 7:40 p.m. - 10:30 p.m., Art History Room 100, Index #11526, **Appelbaum,
 Eileen,** Labor Education Center  
-[View the syllabus](http://www.smlr.rutgers.edu/Syllabus/575-308.htm) or
-[Course Schedule](http://www.smlr.rutgers.edu/Syllabus/575-308_course.htm)  
+View the syllabus or  Course Schedule  
   
 37:575:309 | **Working Women in American Society**  
 T, 1:10 p.m. - 4:10 p.m., Thompson Hall, Room 206, Index #11527, **Gatta,
 Mary** , Douglass Campus  
-[View the syllabus](http://www.smlr.rutgers.edu/Syllabus/575_309.htm)  
+View the syllabus  
 37:575:310 | **Labor Relations in Professional Sports**  
 T, 6:10 p.m. - 9:00 p.m., Auditorium/102, Index # 13075, **Angelo, Bob,**
 Douglass Campus  
@@ -308,7 +287,7 @@ Th, 6:10 p.m. - 9:00 p.m., Food Science Building, Room 109, Index #12351,
 37:575:338 | **Occupational Safety & Health**  
 Saturday, 9:00 a.m. - 11:55 a.m., Room 130/131, Index #10983, **Bahruth,
 Amy,** Labor Education Center  
-[View the syllabus](http://www.smlr.rutgers.edu/Syllabus/575_338.htm)  
+View the syllabus  
 37:575:395 | **Perspectives on Labor Studies (Section I)**  
 W, 9:50 a.m. - 12:50 p.m., Ruth Adams Building, Room 209-B, Index # 08758
 (Prerequisite), **Frege, Carola,** Douglas Campus  

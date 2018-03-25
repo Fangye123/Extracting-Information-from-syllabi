@@ -94,7 +94,7 @@ _Required Reading_ :
 _Required Reading_ :
 
   * Anthony Wallace, _Death and Rebirth of the Seneca_ , pp. 21-48 (R) 
-  * Cornelia Dayton, "Taking the Trade: Abortion and Gender Relations in an 18th-Century New England Village" _[William and Mary Quarterly](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di971088/97p01816/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/8dd5254c0050122f81&dpi=3)_ 48 (1991), 19-49 (R) 
+  * Cornelia Dayton, "Taking the Trade: Abortion and Gender Relations in an 18th-Century New England Village" _William and Mary Quarterly_ 48 (1991), 19-49 (R) 
   * Toby Ditz, "Shipwrecked; or Masculinity Imperiled: Mercantile Representations of Failure and the Gendered Self in Eighteenth-Century Philadelphia," _Journal of American History_ 81 (June 1994), 51-80 (R) 
   * Ruth Bloch, "The Gendered Meanings of Virtue in Revolutionary America," _Signs_ 13 (1987), pp. 37-58 (R) 
 
@@ -143,7 +143,7 @@ _Required Reading_ :
 _Optional Reading_ :
 
   * * Frederick Douglass, _Narrative of the Life of Frederick Douglass, A Slave_. (O) 
-  * Bertram Wyatt-Brown, "The Mask of Obedience: Male Slave Psychology in the Old South." _[American Historical Review](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00028762/di951458/95p0009b/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/8dd5254c0050122f81&dpi=3)_ (1988), 1228-1252. (R) 
+  * Bertram Wyatt-Brown, "The Mask of Obedience: Male Slave Psychology in the Old South." _American Historical Review_ (1988), 1228-1252. (R) 
 
 **Feb. 3 WHITE SOUTHERN MANHOOD**
 

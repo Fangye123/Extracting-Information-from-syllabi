@@ -10,9 +10,9 @@
 
   * General Information
   * Reading Assignments
-  * Tentative Class Outline [
-  * Student Projects](http://www.sru.edu/depts/artsci/ges/urban.htm) [
-  * Other Supporting Materials](http://www.sru.edu/depts/artsci/ges/disco-6.htm)
+  * Tentative Class Outline
+  * Student Projects
+  * Other Supporting Materials
   * Goals 
 
 * * *
@@ -28,9 +28,8 @@ Intended Clientele: There are no prerequisites for this course, and those who
 enroll need not have taken any previous work in geography at the college
 level. It is anticipated that a majority of those who take the class will be
 sophomores or juniors. G&ES; 310 is required in the Department of Geography
-and Environmental Studies' B.S. program in [ Environmental
-Planning](http://www.sru.edu/depts/artsci/ges/programs.htm#BS_Geography). The
-class should also prove to be particularly valuable to students in Secondary
+and Environmental Studies' B.S. program in  Environmental Planning. The class
+should also prove to be particularly valuable to students in Secondary
 Education--Social Studies, Public Administration, Parks & Recreation, Social
 Work, Environmental Studies, and those interested in real estate or health
 care planning.
@@ -67,14 +66,14 @@ Required Textbook: John J. Macionis and Vincent N. Parrillo, _Cities and Urban
 Life_ , Upper Saddle River, NJ: Prentice Hall, 1998. 432pp. Additional reading
 materials will be distributed in class and will also be required reading.
 
-Project on Selected Neighborhood: You are asked to select a [ census tract
-block group](http://www.sru.edu/depts/artsci/ges/discover/d-6-47.htm) within
-the Pittsburgh Metropolitan Area to use as a study area for your semester
-project. It should be a block group that has not been previously studied for
-this class, and should be closer to or within the City of Pittsburgh or
-another solidly built-up area (such as Butler) within the metropolitan area
-than many of those that were studied in the past. Instructions on how to study
-your tract and what to look for will be given throughout the semester.
+Project on Selected Neighborhood: You are asked to select a  census tract
+block group within the Pittsburgh Metropolitan Area to use as a study area for
+your semester project. It should be a block group that has not been previously
+studied for this class, and should be closer to or within the City of
+Pittsburgh or another solidly built-up area (such as Butler) within the
+metropolitan area than many of those that were studied in the past.
+Instructions on how to study your tract and what to look for will be given
+throughout the semester.
 
 The final project on the neighborhood that you select will come in two parts:
 1) an oral report, approximately fifteen minutes in length, based upon your
@@ -83,28 +82,27 @@ residents and/or businesspeople working there; and 2) a written description of
 250 words and two snapshot-sized photographs that represent the character of
 that neighborhood. The written text should be sent via e-mail to me at
 james.hughes@sru.edu. The snapshots should be given to me in person. The
-written description and photographs will be added to those that are [already
-displayed](http://www.sru.edu/depts/artsci/ges/urban.htm) on the World Wide
-Web and will be accessible to the public. The oral presentation will be
-according to the following tentative schedule:
+written description and photographs will be added to those that are already
+displayed on the World Wide Web and will be accessible to the public. The oral
+presentation will be according to the following tentative schedule:
 
 Thursday, _December 3, 1998_  
-[10:00 Doniele Beck -- 4110-2](4110-2.htm)  
-[10:15 Tom Connelly -- 451103-3](451103-3.htm)  
-[10:30 Cory P. Deacon -- 5094-1](5094-1.htm)  
-[10:45 John Ebken -- 9121-4](9121-4.htm)
+10:00 Doniele Beck -- 4110-2  
+10:15 Tom Connelly -- 451103-3  
+10:30 Cory P. Deacon -- 5094-1  
+10:45 John Ebken -- 9121-4
 
 Tuesday, _December 8, 1998_  
-[10:00 Steve Hensler -- 9123-4](9123-4.htm)  
-[10:15 Paul Jones -- 9121-3](9121-3.htm)  
-[10:30 Bryan Malseed -- 9022-2](9022-2.htm)  
-[10:45 Sondra McCleary -- 451101-9](451101-9.htm)
+10:00 Steve Hensler -- 9123-4  
+10:15 Paul Jones -- 9121-3  
+10:30 Bryan Malseed -- 9022-2  
+10:45 Sondra McCleary -- 451101-9
 
 Thursday, _December 10, 1998_  
-[10:00 Andrew Pasarilla -- 4454-2](4454-2.htm)  
-[10:15 James Ray -- 9119-2](9119-2.htm)  
-[10:30 Tage Rosendahl -- 6021-2](6021-2.htm)  
-[10:45 Steve Valkovec -- 429202-2](429202-2.htm)
+10:00 Andrew Pasarilla -- 4454-2  
+10:15 James Ray -- 9119-2  
+10:30 Tage Rosendahl -- 6021-2  
+10:45 Steve Valkovec -- 429202-2
 
 * * *
 
@@ -141,7 +139,7 @@ V. Urban Political Economy
 Tues., Nov. 3 -- Chapter Seven: Urban Political Economy  
 Thurs., Nov. 5 -- Chapter Ten: Housing and Crime  
 Thurs., Nov. 12 -- Chapter Fourteen: Planning the Urban Environment  
-[Ch. 14](Ch14.htm)  
+Ch. 14  
 
 VI. Case Studies of Selected World Cities  
 
@@ -284,13 +282,11 @@ themselves both orally and in writing.
 This document is available on the World Wide Web at
 http://www.sru.edu/depts/artsci/ges/urban/syllabus.htm
 
-[![](earth.gif)](http://www.sru.edu/depts/artsci/ges/ges.htm) [Go to
-Department Main Page](http://www.sru.edu/depts/artsci/ges/ges.htm)
+![](earth.gif) Go to Department Main Page
 
-[![](srulogo.gif)](http://www.sru.edu/) [Go to SRU Main
-Page](http://www.sru.edu)
+![](srulogo.gif) Go to SRU Main Page
 
-#### [Send Comments](mailto:james.hughes@sru.edu)
+#### Send Comments
 
 #### Last Revised: December 3, 1998
 

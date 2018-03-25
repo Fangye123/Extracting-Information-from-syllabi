@@ -1,12 +1,8 @@
-[
-
 ## Notre Dame Archives
 
-](../default.htm)
+### FXN 020
 
-### [FXN](FXN001.HTM) 020
-
-#### [Previous : FXN019](FXN019.htm#99)
+#### Previous : FXN019
 
 _
 
@@ -120,5 +116,5 @@ Newton Highlands, MA 1962-1970 _
 
 **
 
-#### [Next : FXN021](FXN021.htm)**
+#### Next : FXN021**
 

@@ -3,7 +3,7 @@ Professor J. Freyd
 
 ### _Syllabus Version 5 March 1999_
 
-_(Check_<http://dynamic.uoregon.edu/~jfreyd/psygen/> _for updates)_
+_(Check_http://dynamic.uoregon.edu/~jfreyd/psygen/ _for updates)_
 
 **University of Oregon**
 
@@ -13,7 +13,7 @@ Tuesdays and Thursdays 9:30 - 10:50; 242 Gerlinger; CRN 34833; 4 credits
 
 Prerequisites: None
 
-WWW Home Page: <URL:<http://dynamic.uoregon.edu/~jfreyd/psygen/>>  
+WWW Home Page: <URL:http://dynamic.uoregon.edu/~jfreyd/psygen/>  
   
   
 ---  
@@ -294,15 +294,14 @@ completing the library research on your final poster project. The assignment
 must be completed and turned in by April 15. You will need to use the World
 Wide Web to do this assignment. A tutorial with information about the library
 resources and the assignment itself can be found at:
-<http://axe.uoregon.edu/subjguid/psychology/psyc380/>
+http://axe.uoregon.edu/subjguid/psychology/psyc380/
 
 ### Final Project: Poster 80 points
 
 The final project will be an individual or small-team activity that you do
 _outside of class meeting time._ The final project will be in the form of a
 written "poster." Details about the poster form can be found at the poster
-guidelines page [( http://dynamic.uoregon.edu/~jfreyd/psygen/poster.html
-)](poster.html)
+guidelines page ( http://dynamic.uoregon.edu/~jfreyd/psygen/poster.html )
 
 The project will present material you have learned and synthesized about a
 particular topic in psychology of gender. You will pick a topic fairly early
@@ -339,7 +338,7 @@ due on April 22
 
 An extra credit option is to publish the project on the World Wide Web. (For
 WWW publication guidelines see
-<http://dynamic.uoregon.edu/~jfreyd/psygen/termweb.html>.) Note: your grade on
+http://dynamic.uoregon.edu/~jfreyd/psygen/termweb.html.) Note: your grade on
 the final project will be severely lowered if it is at all late. The completed
 poster (and the WWW version of the final project if your group does that) is
 due on Tuesday, May 25 by 11:00 AM. _Classroom presentations will occur in the
@@ -409,7 +408,7 @@ on student interests and class discussions. The instructor will also use the
 list to post important course-related information.
 
 Please see additional important information about using email in this class at
-<http://dynamic.uoregon.edu/~jfreyd/psygen/email.html>
+http://dynamic.uoregon.edu/~jfreyd/psygen/email.html
 
 ### More About In-Class Small Groups
 
@@ -537,8 +536,8 @@ make especially valuable contributions to the email discussion, you may earn
 extra points. Or you can get extra credit for a particularly terrific project.
 This might include a special presentation or publishing your project on the
 WEB (for WWW publication guidelines see
-<http://dynamic.uoregon.edu/~jfreyd/psygen/termweb.html>.) In general, if you
-do something creative, special, contributive, and above-and-beyond the course
+http://dynamic.uoregon.edu/~jfreyd/psygen/termweb.html.) In general, if you do
+something creative, special, contributive, and above-and-beyond the course
 requirements, you may earn extra credit.
 
 ## Additional Notes
@@ -553,7 +552,7 @@ will be taken seriously and are noted on student disciplinary records. If you
 are in doubt regarding any aspect of these issues as they pertain to this
 course, please consult with the instructor before you complete any relevant
 requirements of the course. (Text adopted here as recommended from the UO web
-site regarding academic honesty at: <http://darkwing.uoregon.edu/~conduct/>).
+site regarding academic honesty at: http://darkwing.uoregon.edu/~conduct/).
 
 ### Students with Directory Restricted Access
 
@@ -584,7 +583,7 @@ pursue that external support by seeking out a supportive friend, counselor,
 and/or a social service. The other class members and the instructor and TAs
 cannot fulfill that function in a class this size and with the mission of an
 academic experience. (Also see
-<http://dynamic.uoregon.edu/~jfreyd/psygen/email.html> for e-mail etiquette.)
+http://dynamic.uoregon.edu/~jfreyd/psygen/email.html for e-mail etiquette.)
 
 A sample of counseling and social service resources follows. **Disclaimer: We
 do not assume any responsibility for the quality of services offered by the

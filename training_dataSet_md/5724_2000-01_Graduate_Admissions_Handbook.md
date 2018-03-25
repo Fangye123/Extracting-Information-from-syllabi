@@ -110,41 +110,41 @@ Engineering, Law, Human and Social Development, and Graduate Studies.
 The University of Victoria's Faculty of Graduate Studies offers degrees in the
 following areas:
 
-  * [Anthropology](http://web.UVic.CA/anth/master.htm) \- MA 
-  * [Biochemistry and Microbiology](http://zeus.bioc.uvic.ca/BiocDept.Html) \- MSc, PhD 
-  * [Biology](http://darwin.ceh.uvic.ca/) \- MSc, PhD 
-  * [Business](http://www.business.uvic.ca/) \- MBA 
-  * [Chemistry](http://chemserver1.chem.uvic.ca/chemistw/gradstud.htm) \- MSc, PhD 
-  * [Child & Youth Care](http://www.hsd.uvic.ca/CYC/cyc.htm) \- MA 
-  * [Computer Science](http://www.csc.uvic.ca/) \- MA, MSc, PhD 
-  * [Earth and Ocean Sciences](http://ceor.seos.uvic.ca/seos/) \- MSc, PhD 
-  * [Economics]( http://web.uvic.ca/econ) \- MA, PhD 
-  * [Education](http://www.educ.uvic.ca/) \- MA, MEd, PhD 
-    * Arts in Education ([ Art](http://www.educ.uvic.ca/depts/aied/pages/programs/pro.art.grad.html) or [Music](http://www.educ.uvic.ca/depts/aied/pages/programs/pro.music.grad.html) Education) 
+  * Anthropology \- MA 
+  * Biochemistry and Microbiology \- MSc, PhD 
+  * Biology \- MSc, PhD 
+  * Business \- MBA 
+  * Chemistry \- MSc, PhD 
+  * Child & Youth Care \- MA 
+  * Computer Science \- MA, MSc, PhD 
+  * Earth and Ocean Sciences \- MSc, PhD 
+  * Economics \- MA, PhD 
+  * Education \- MA, MEd, PhD 
+    * Arts in Education ( Art or Music Education) 
     * Communication and Social Foundations (Curriculum Studies, Educational Administration, Language Arts) 
     * Physical Education - MA, MEd, MSc (Coaching Studies, Sports and Exercise Studies) 
     * Psychological Foundations (Counselling, Educational Psychology, Special Education) 
     * Social and Natural Sciences (Mathematics, Science, or Social Studies Education) 
-  * [Electrical and Computer Engineering](http://www.grad.ece.uvic.ca/) \- MASc, MEng, PhD 
-  * [English](http://www.engl.uvic.ca/Grad/gradHome.html) \- MA, PhD 
-  * [French Language and Literature](http://web.uvic.ca/french/) \- MA 
-  * [Geography](http://geography.geog.uvic.ca/dept/homepage.html) \- MA, MSc, PhD 
-  * [Germanic Studies](http://web.uvic.ca/german/) \- MA 
-  * [Greek and Roman Studies](http://web.uvic.ca/GRS/) \- MA 
-  * [History](http://web.uvic.ca/history/grads.html) \- MA, PhD 
-  * [History in Art](http://kafka.uvic.ca/historyinart/) \- MA, PhD 
-  * [Human and Social Development](http://www.hsd.uvic.ca/MDM/mdm.htm) \- MA, MSW, MN (Interdisciplinary programs with streams in Child & Youth Care, Nursing, Social Work, [Dispute Resolution](http://dispute.resolution.uvic.ca/madr.htm) and [Indigenous Governance, M.A.](http://web.uvic.ca/igov/).) 
-  * [Linguistics](http://web.uvic.ca/ling/) \- MA, PhD 
-  * [Mathematics and Statistics](http://www.math.uvic.ca/grad/grad.html) \- MA, MSc, PhD 
-  * [Mechanical Engineering](http://www.me.uvic.ca/) \- MASc, MEng, PhD 
-  * [Music](http://kafka.uvic.ca/music/grad2.html) \- MA, MMus, PhD (Musicology, Performance, Composition, Musicology with Performance) 
-  * [Physics and Astronomy](http://www.phys.uvic.ca/) \- MSc, PhD 
-  * [Political Science](http://www.cous.uvic.ca/poli/gradl.htm) \- MA 
-  * [Psychology](http://web.uvic.ca/psyc/grad.html) \- MA, MSc, PhD 
-  * [Public Administration](http://www.hsd.uvic.ca/PADM/programs/gradprog/mpa.htm) \- MPA 
-  * [Sociology](http://web.uvic.ca/soci/) \- MA 
-  * [Theatre](http://kafka.uvic.ca/theatre/phoenix.html) \- MA, MFA, PhD 
-  * [Visual Arts](http://kafka.uvic.ca/visualarts/) \- MFA 
+  * Electrical and Computer Engineering \- MASc, MEng, PhD 
+  * English \- MA, PhD 
+  * French Language and Literature \- MA 
+  * Geography \- MA, MSc, PhD 
+  * Germanic Studies \- MA 
+  * Greek and Roman Studies \- MA 
+  * History \- MA, PhD 
+  * History in Art \- MA, PhD 
+  * Human and Social Development \- MA, MSW, MN (Interdisciplinary programs with streams in Child & Youth Care, Nursing, Social Work, Dispute Resolution and Indigenous Governance, M.A..) 
+  * Linguistics \- MA, PhD 
+  * Mathematics and Statistics \- MA, MSc, PhD 
+  * Mechanical Engineering \- MASc, MEng, PhD 
+  * Music \- MA, MMus, PhD (Musicology, Performance, Composition, Musicology with Performance) 
+  * Physics and Astronomy \- MSc, PhD 
+  * Political Science \- MA 
+  * Psychology \- MA, MSc, PhD 
+  * Public Administration \- MPA 
+  * Sociology \- MA 
+  * Theatre \- MA, MFA, PhD 
+  * Visual Arts \- MFA 
 
 * * *
 
@@ -159,10 +159,9 @@ bachelor's degree from a recognized institution, and have earned the
 equivalent of a grade average of at least "B" on the last two years' of course
 work (eg, 30 UVic units; 10 full courses; 60 semester-hour credits). Some
 departments have set higher standards (please check our tables for details:
-[International applicants](international_admission_ta.html); [North American
-Applicants](na_admission_table.html)). Evidence is required, in the form of
-two Assessment Reports from qualified referees, of the applicant's ability to
-undertake advanced work in the area of interest.
+International applicants; North American Applicants). Evidence is required, in
+the form of two Assessment Reports from qualified referees, of the applicant's
+ability to undertake advanced work in the area of interest.
 
 Applicants without a bachelor's degree (or its equivalent in another country)
 cannot be considered for admission. The Graduate Admissions and Records Office
@@ -304,9 +303,8 @@ Victoria by the testing agency.
 
 Upon the recommendation of the academic unit offering admission, successful
 completion of the University Admission Preparation Course (UAPC) offered by
-the University of Victoria [English Language
-Centre](http://www.uvcs.uvic.ca/elc/) will be accepted in lieu of the above
-standardized English Competency tests.
+the University of Victoria English Language Centre will be accepted in lieu of
+the above standardized English Competency tests.
 
 **_
 
@@ -346,11 +344,10 @@ may count towards the second.
 
 #### INTERNATIONAL STUDENTS
 
-Please consult [International Graduate Student Admission and Application
-Kit](intl.html), a brochure can be requested from the Graduate Admission &
-Records Office.
+Please consult International Graduate Student Admission and Application Kit, a
+brochure can be requested from the Graduate Admission & Records Office.
 
-### [DEPARTMENTAL ADMISSION REQUIREMENTS](depttable.html)
+### DEPARTMENTAL ADMISSION REQUIREMENTS
 
 ## APPLICATION PROCESS
 
@@ -368,9 +365,9 @@ Please indicate the department(s) which interest you. Materials will be mailed
 more quickly if you enclose a self-addressed mailing label.
 
 You can also access printable application materials on our World Wide Web site
-at [[http://www.uvic.ca/grar](appmat.html)]. This site contains the electronic
-versions of several graduate publications as well as important deadline and
-event information.
+at [http://www.uvic.ca/grar]. This site contains the electronic versions of
+several graduate publications as well as important deadline and event
+information.
 
 #### GENERAL
 
@@ -408,7 +405,7 @@ Deadlines for receiving complete applications varies between departments.
 Applications may be received after deadlines, but it may not be possible to
 process them in time for consideration. Deadlines for some departments are
 quite early and some departments do not accept new students for all entry
-points - please refer to the [Departmental Admission Table](depttable.html).
+points - please refer to the Departmental Admission Table.
 
 **
 
@@ -650,8 +647,7 @@ Accounting Services at the end of the first month of each term.
 The following is a brief introduction to some of the awards and sources of
 financial assistance available to new students. A full listing of all awards
 is available through the Office of the Dean of Graduate Studies or on our
-[website](awards.html) at
-[www.uvic.ca/grar/awards.html](www.uvic.ca/grar/awards.html).
+website at www.uvic.ca/grar/awards.html.
 
 ### UNIVERSITY FELLOWSHIPS
 
@@ -725,9 +721,8 @@ as possible.
 
 There are many other awards available to students based on their performance
 in the first and subsequent years of graduate study. Details are available
-through the Office of the Dean of Graduate Studies or on our
-[website](awards.html) at
-[www.uvic.ca/grar/awards.html](www.uvic.ca/grar/awards.html).
+through the Office of the Dean of Graduate Studies or on our website at
+www.uvic.ca/grar/awards.html.
 
 ### EXTERNAL AWARDS
 
@@ -822,12 +817,12 @@ service are also offered.
 ### CALENDAR
 
 The University Calendar is available on the web at
-[http://web.uvic.ca/calendar/](http://web.uvic.ca/calendar/%20). It may also
-be purchased at the University Bookstore in person or by mail. Registered
-students with a current student card can obtain, at the bookstore cash
-registers, one free calendar each. A refund may be claimed by new students,
-who have purchased the calendar, when they obtain their student card for the
-following term. Please call (250) 721-8311 to place your order.
+http://web.uvic.ca/calendar/. It may also be purchased at the University
+Bookstore in person or by mail. Registered students with a current student
+card can obtain, at the bookstore cash registers, one free calendar each. A
+refund may be claimed by new students, who have purchased the calendar, when
+they obtain their student card for the following term. Please call (250)
+721-8311 to place your order.
 
 ### CAMPUS TOURS
 
@@ -975,7 +970,7 @@ bonus.
 
 To open a Dining Plus account, contact the Housing Food & Conference Services
 Office in the Craigdarroch Office Building 721-8395. Visit our web site at
-[http://housing.uvic.ca](http://housing.uvic.ca/) for details.
+http://housing.uvic.ca for details.
 
 ### GRADUATE STUDENTS' SOCIETY
 
@@ -1000,8 +995,7 @@ where you can engage in enlightened debates or just hang out and eat yummy
 food. It is a great place to wind down after class or a long day at the
 computer. Throughout the year they host special events which are posted in the
 Grad Centre and in their newsletter, The Unacknowledged Source. Visit their
-web site at
-[http://info.uvic.ca:70/1/student/gs.](http://info.uvic.ca:70/1/student/gs).
+web site at http://info.uvic.ca:70/1/student/gs..
 
 ### HEALTH SERVICES
 
@@ -1019,8 +1013,7 @@ specialized services available.
 
 ### HOUSING
 
-Visit our web site at [http://housing.uvic.ca](http://housing.uvic.ca/) for
-details and rates.
+Visit our web site at http://housing.uvic.ca for details and rates.
 
 #### On Campus Accommodation
 
@@ -1056,9 +1049,8 @@ apartment $642, 2-bedroom townhouse $723 and 3-bedroom townhouse $773.
 #### Off Campus Housing Registry
 
 An off campus accommodation listing service is maintained on the web at
-[http://housing.uvic.ca](http://housing.uvic.ca/). Types of accommodation
-include rooms, rooms with meals, suites, shared accommodation, houses and
-apartments.
+http://housing.uvic.ca. Types of accommodation include rooms, rooms with
+meals, suites, shared accommodation, houses and apartments.
 
 ### INTERFAITH CHAPLAIN SERVICES
 
@@ -1116,7 +1108,7 @@ engines and thousands of electronic information pages on the World Wide Web.
 GATEWAY can be searched on more than 45 terminals in the libraries, and
 searches can be downloaded to several libraries' printers. Remote access to
 GATEWAY is available via department and dorm computers on campus, as well as
-on home computers: [http://gateway.uvic.ca](http://gateway.uvic.ca/)
+on home computers: http://gateway.uvic.ca
 
 A limited number of library study carrels are available to graduate students
 on a shared, first-come-first-served basis.
@@ -1136,8 +1128,7 @@ and Recreational Services.
 ### STUDENT EMPLOYMENT CENTRE
 
 The Student Employment Centre is located in the Campus Services Building and
-is open 8:30 am to 4:30 pm on weekdays. Website:
-[http://www.stec.uvic.ca](http://www.stec.uvic.ca/).
+is open 8:30 am to 4:30 pm on weekdays. Website: http://www.stec.uvic.ca.
 
 Services offered:
 
@@ -1181,7 +1172,7 @@ Student advisors may be reached at 721-6361.
 
 * * *
 
-### [ANTHROPOLOGY](web.UVic.CA/anth/master.htm)
+### ANTHROPOLOGY
 
 The Department of Anthropology offers a program leading to the MA degree. It
 is a general degree requiring a candidate to have a broad knowledge of all
@@ -1254,5 +1245,5 @@ Graduate Advisor, Department of Anthropology, University of Victoria, PO Box
 3050 STN CSC, Victoria, BC V8W 3P5 Canada.
 
 Telephone: (250) 721-7046 FAX: (250) 721-6215 E-mail:
-[anthuvic@uvvm.uvic.ca</FONT
+anthuvic@uvvm.uvic.ca</FONT
 

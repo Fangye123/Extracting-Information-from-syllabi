@@ -159,9 +159,5 @@ E-mail is the best means of contact (gmcelhany@sagu.edu) or
 (gdm@cyberramp.net)  
 Students may call via 1-888-937-7248.
 
-[History](/acad-depts/socialsciences/history/index.shtm) | [Government](/acad-
-depts/socialsciences/government/index.shtm) | [Geography](/acad-
-depts/socialsciences/geography/index.shtm) | [Economics](/acad-
-depts/socialsciences/economics/index.shtm) | [Social Sciences](/acad-
-depts/socialsciences/index.shtm)
+History | Government | Geography | Economics | Social Sciences
 

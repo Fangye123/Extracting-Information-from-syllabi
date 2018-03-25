@@ -9,78 +9,77 @@ _![](world.jpg)_
 **CENTER FOR INDIGENOUS NATIONS STUDIES**  
   
 ---|---  
-| [Program Support](Donations.htm)  
+| Program Support  
 ---  
   
-**[CINS Student Manual 2000-200l](manual1.htm)**  
+**CINS Student Manual 2000-200l**  
   
-[Home](index.shtml)  
+Home  
   
 ---  
   
-**[Introduction](introduction.shtml)**  
+**Introduction**  
   
-**[Program](program.shtml)**  
+**Program**  
   
-**[Curriculum](curriculum.shtml)**  
+**Curriculum**  
   
-**[Spring 2002 Courses](spring01.htm)**  
+**Spring 2002 Courses**  
   
-**[Graduate Student Exchange](gradexchange.shtml)**  
+**Graduate Student Exchange**  
   
-**[Faculty](faculty.shtml)**  
+**Faculty**  
   
-**[INS Journal](journal3.html)**  
+**INS Journal**  
   
-**[Indigenous Peoples](referencesite.html)  
-[Reference Site](referencesite.html)**  
+**Indigenous Peoples  
+Reference Site**  
   
-**[Email Us](mailto:insp@raven.cc.ukans.edu)**
+**Email Us**
 
 _**CINS Core Courses:**_
 
 |
 
-**[INS 801 Syllabus](Syl801.htm) Fa01**  
+**INS 801 Syllabus Fa01**  
   
 ---  
   
-**[INS 803 Syllabus](sp01ins803.htm) Sp02**  
+**INS 803 Syllabus Sp02**  
   
 **INS 808 Syllabus Fa01**  
   
 _**Other Websites Associated with the INSProgram:**_  
   
 
-**[The University of Kansas](http://www.ukans.edu)**  
+**The University of Kansas**  
   
 ---  
   
-**[Haskell Indian Nations University](http://www.haskell.edu)**  
+**Haskell Indian Nations University**  
   
-**[First Nations Student Association](http://www.ukans.edu/%7Enimma)**  
+**First Nations Student Association**  
   
-[**The Hall Center for the Humanities**](http://www.hallcenter.ku.edu)  
+**The Hall Center for the Humanities**  
   
-**[KU Tribal Law& Government Center](http://www.law.ukans.edu/triballaw.htm)**  
+**KU Tribal Law& Government Center**  
   
 _** Websites Listing  
 Current Indigenous  
 News :**_
 
-[**Indigenous People  
-and the Law**](http://www.kennett.co.nz/law/indigenous)  
+**Indigenous People  
+and the Law**  
   
 ---  
   
-**[Aboriginal Law&
-Legislation](http://www.bloorstreet.com/300block/ablawleg.htm)**  
+**Aboriginal Law& Legislation**  
   
-**[Native American Rights Fund](http://www.narf.org)**  
+**Native American Rights Fund**  
   
-**[Bureau of Indian Affairs](http://www.doi.gov/bureau-indian-affairs.html)**  
+**Bureau of Indian Affairs**  
   
-**[Indianz.com](http://www.indianz.com)**  
+**Indianz.com**  
   
 
 
@@ -89,7 +88,7 @@ Legislation](http://www.bloorstreet.com/300block/ablawleg.htm)**
 * * *
 
 _Webmaster:  
-[Dianne Reyner](mailto:dreyner@ku.edu)_
+Dianne Reyner_
 
 >  
 >
@@ -112,7 +111,7 @@ and an M.A. in Museum Studies from the University of Kansas. In the office she
 is responsible for processing student applications to the graduate program,
 paying the bills, scheduling classes, and a myriad of other tasks. For
 application process questions contact Denise by phone or email.  
->  Email: [Denise Lajetta](mailto:lajetta@ku.edu)  
+>  Email: Denise Lajetta  
 >  
 > ---|---  
 >  
@@ -128,7 +127,7 @@ application process questions contact Denise by phone or email.
 >  ** Patricia is a member of the Kickapoo in Kansas Nation. As vital support
 staff Patricia is often a first line contact person. Application Packets can
 be obtained by contacting Patricia.  
->  Email: [Patricia Pena](mailto:ppena@ku.edu)  
+>  Email: Patricia Pena  
 >  
 > ![](elyse.jpg)
 
@@ -177,7 +176,7 @@ research focuses on contemporary expressions of traditional oral narratives.
 She continues to work in and with Native American theatre companies. **** For
 questions or problems with the CINS Website or Newsletter Dianne can be
 contacted at:  
->  Email:[Dianne Reyner](mailto:dreyner@ku.edu)  
+>  Email:Dianne Reyner  
 >
 
 >
@@ -246,9 +245,8 @@ American Indian communities and cultures in the U.S.
 >  Antonie Dvorakova, Tina Tsiniginie, Elyse Towey  
 >  Kneeling: Dr. Donald L. Fixico  
   
-[ ![](counter/count-visit.html)](http://member.bcentral.com/cgi-
-bin/fc/fastcounter-login?2546143)  
-[FastCounter by bCentral](http://fastcounter.bcentral.com/fc-join)  
+![](counter/count-visit.html)  
+FastCounter by bCentral  
 (C) 2000, INSP. Photos (C) The University of Kansas Office of University
 Relations.  
 The current URL is http://www.ukans.edu/~insp/index.shtml  

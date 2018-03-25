@@ -22,11 +22,10 @@ approximately 10-15 pages on any significant Christian individual, movement or
 group that functioned between the fourth and the fifteenth centuries. The
 paper will, in addition, contain footnotes and a bibliography constructed in
 accordance with the University of Central Arkansas, Department of History
-[Style Sheet](http://www.uca.edu/divisions/academic/history/stylesheet.htm). A
-minimum of ten sources must be cited, of which at least two have to be
-monographs, and two articles in scholarly journals. Ten per cent of the grade
-will be based upon quizzes, class participation and oral reports. In addition,
-students are requested to obtain a UCA e-mail account.
+Style Sheet. A minimum of ten sources must be cited, of which at least two
+have to be monographs, and two articles in scholarly journals. Ten per cent of
+the grade will be based upon quizzes, class participation and oral reports. In
+addition, students are requested to obtain a UCA e-mail account.
 
 **Aims and Objectives**
 
@@ -59,59 +58,46 @@ January 17: Christianity: Jewish or Gentile? _Medieval Christianity_
 
 January 22: The Christian Church in Roman Society, MC, 1-18
 
-January 24: Conversion/Assimilation  [Tertullian on Pagan
-Learning](http://www.fordham.edu/halsall/ancient/200Tertullian-pagan.html)
+January 24: Conversion/Assimilation  Tertullian on Pagan Learning
 
-January 29: The Persecutions;  [The Martyrdom of
-Ignatius](http://www.newadvent.org/fathers/0123.htm)
+January 29: The Persecutions;  The Martyrdom of Ignatius
 
-January 31: The Eras of Constantine and Theodosius  [Constantine's Laws for
-Christians](http://www.fordham.edu/halsall/source/const1-laws2.html); [Ambrose
-to Theodosius](http://www.fordham.edu/halsall/source/ambrose-let51.html)
+January 31: The Eras of Constantine and Theodosius  Constantine's Laws for
+Christians; Ambrose to Theodosius
 
-February 5: The Ascetic Reaction;  [ Life of Paulus, the first
-hermit](http://www.newadvent.org/fathers/3008.htm)
+February 5: The Ascetic Reaction;   Life of Paulus, the first hermit
 
-February 7: Christological Debates;  [Decrees from the Council of
-Nicaea](http://www.fordham.edu/halsall/source/nicea1-sel.html)
+February 7: Christological Debates;  Decrees from the Council of Nicaea
 
-February 12: The Latin Fathers: Jerome and Augustine;  [The City of God
-(excerpts)](http://www.fordham.edu/halsall/source/aug-city1.html)  
+February 12: The Latin Fathers: Jerome and Augustine;  The City of God
+(excerpts)  
 **NOTE: TERM PAPER TOPICS DUE** ****
 
-February 14: The Early Popes, MC, 23-29  [Leo I on Petrine
-Doctrine](http://www.fordham.edu/halsall/source/leo1a.html)
+February 14: The Early Popes, MC, 23-29  Leo I on Petrine Doctrine
 
 February 19: **First Examination**
 
 February 21: Christianity and the Conversion of Germanic Peoples; MC, 35-53;
-[Letters of Gregory I](http://www.fordham.edu/halsall/source/greg1a.html)
+Letters of Gregory I
 
 February 26:  Separating the Eastern and Western Churches
 
-February 28: Byzantine Christianity; MC, 19-23;   [Iconoclasm Decrees of
-754](http://www.fordham.edu/halsall/source/icono-cncl754.html)
+February 28: Byzantine Christianity; MC, 19-23;   Iconoclasm Decrees of 754
 
-March 5:  The Benedictines; MC, 29-34;  [Rule of St.
-Benedict](http://www.osb.org/gen/rule.html) ; [
-Text](http://www.osb.org/rb/text/toc.html#toc) (prologue, chapts. 2, 3, 5, 7,
-21-23)
+March 5:  The Benedictines; MC, 29-34;  Rule of St. Benedict ;  Text
+(prologue, chapts. 2, 3, 5, 7, 21-23)
 
 March 7: The Evangelization of Northern Europe, MC, 54-64
 
-March 12: The Carolingian Church; MC, 64-96;  [Coronation of
-Pepin](http://www.fordham.edu/halsall/source/lorsch1.html)
+March 12: The Carolingian Church; MC, 64-96;  Coronation of Pepin
 
-March 14: The Church in the Age of Feudalism, MC, 97-115;  [Council of
-Charroux: The Peace of God, 989 ](http://www.fordham.edu/halsall/source/pc-of-
-god.html);  [Foundation of Cluny](http://www.fordham.edu/halsall/source/chart-
-cluny.html)
+March 14: The Church in the Age of Feudalism, MC, 97-115;  Council of
+Charroux: The Peace of God, 989 ;  Foundation of Cluny
 
-March 19: The Gregorian Reform; MC, 116-135;   [Electoral Reform of
-1059](http://www.fordham.edu/halsall/source/papal-elect1059.html)
+March 19: The Gregorian Reform; MC, 116-135;   Electoral Reform of 1059
 
-March 21: Church-State Controversies, MC 136-150;  [Papal Decrees Against Lay
-Investitute](http://www.fordham.edu/halsall/source/g7-reform2.html)
+March 21: Church-State Controversies, MC 136-150;  Papal Decrees Against Lay
+Investitute
 
 April 2:  Review  
 **NOTE: OPTIONAL ROUGH DRAFTS OF TERM PAPERS DUE**
@@ -120,36 +106,29 @@ April 4: **Second Examination** ****
 
 April 9: Reformation of the Twelfth Century, MC, 183-196
 
-April 11: The New _Monastic_ Orders; MC, 197-208;   [A Description of
-Clairvaux](http://www.fordham.edu/halsall/source/1143clairvaux.html)
+April 11: The New _Monastic_ Orders; MC, 197-208;   A Description of Clairvaux
 
 April 16: The New Orders _of Canons Regular_ ; MC 208-213
 
-April 18: Canon Law and the Curia; MC 168-182, 273-302;  [Fourth Lateran
-Council -- Selected
-Canons](http://www.fordham.edu/halsall/source/lat4-select.html)
+April 18: Canon Law and the Curia; MC 168-182, 273-302;  Fourth Lateran
+Council -- Selected Canons
 
-April 23: Urban Religion: Mendicants and Dissidents; MC, 216-238;  [Bernard
-Gui on the Albigensians](http://www.fordham.edu/halsall/source/gui-
-cathars.html);  [Testament of St.
-Francis](http://www.fordham.edu/halsall/source/stfran-test.html)
+April 23: Urban Religion: Mendicants and Dissidents; MC, 216-238;  Bernard Gui
+on the Albigensians;  Testament of St. Francis
 
-April 25: Caritative Movements: [Brodman on the
-Mercedarians](http://libro.uca.edu/rc/rcconcl.htm)
+April 25: Caritative Movements: Brodman on the Mercedarians
 
-April 30: Crusade versus Mission in the Thirteenth-Century Church; [A
-Christian-Muslim Debate in the 12th
-Century](http://www.fordham.edu/halsall/source/christ-muslim-debate.html)  
+April 30: Crusade versus Mission in the Thirteenth-Century Church; A
+Christian-Muslim Debate in the 12th Century  
 **NOTE: TERM PAPERS DUE** (Papers handed in after April 30 will be assessed a
 penalty of one-half letter grade for every day that the paper is late. There
 will be NO exceptions.)
 
-May 2: Christianity and the Universities; MC, 239-255,   [Aquinas on the
-Existence of God](http://www.newadvent.org/summa/100201.htm)
+May 2: Christianity and the Universities; MC, 239-255,   Aquinas on the
+Existence of God
 
-May 7: Church and State in the Fourteenth Century; MC, 303-335; [Unam
-Sanctam](http://www.fordham.edu/halsall/source/b8-unam.html)  ;  [The Great
-Schism](http://www.fordham.edu/halsall/source/grtschism2.html)
+May 7: Church and State in the Fourteenth Century; MC, 303-335; Unam Sanctam
+;  The Great Schism
 
 May 9: Dissent and Renewal in the Late Medieval Church, MC, 336-345
 

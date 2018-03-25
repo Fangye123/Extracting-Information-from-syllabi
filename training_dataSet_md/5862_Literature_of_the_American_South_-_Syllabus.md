@@ -1,11 +1,11 @@
 Jennie Joiner, Instructor in English  
-[University of Minnesota, Morris](http://www.mrs.umn.edu/)  
+University of Minnesota, Morris  
   
-[English Discipline](http://www.mrs.umn.edu/academic/english/)  
+English Discipline  
 **Office: Hum 14  
 Phone: (320) 589-6284  
-Email: [joinerj@mrs.umn.edu](mailto:joinerj@mrs.umn.edu)** **[  
-](mailto:joinerj@mrs.umn.edu)**
+Email: joinerj@mrs.umn.edu** **  
+**
 
 
 
@@ -229,7 +229,7 @@ W | Continued discussion
 Th | Review for Final Examination  
 F | **Final Examination**  
   
-[Back to Literature of the Am. South Home](SouthernLit.htm)
+Back to Literature of the Am. South Home
 
 
 

@@ -6,7 +6,7 @@
 
 **Prof. Marion (Buddy) Gray, Eisenhower 202**
 
-**e-mail:[mgray@ksu.edu](mailto: mgray@ksu.edu); tel: 532-0367**
+**e-mail:mgray@ksu.edu; tel: 532-0367**
 
 * * *
 
@@ -20,8 +20,8 @@ November | Assignments:
 December | Academic Honesty | Graduate Credit | Special Accommodations |
 K-State Online  
 E-Mail | Instructor Letters | Guidelines: Out-Of Class Essays | General
-Criteria for Historical Writing | Techniques for this assignment | [Prof.
-Gray's Homepage](http://www-personal.ksu.edu/~mgray/)  
+Criteria for Historical Writing | Techniques for this assignment | Prof.
+Gray's Homepage  
   
 **REQUIRED BOOKS**
 
@@ -187,7 +187,7 @@ usual. (Equivalent to final exam.)**
 **ACADEMIC HONESTY**
 
 **Kansas State University has a new Honor Code. For information see
-_<http://www.ksu.edu/honor/>_. The provisions of this code will be followed in
+_http://www.ksu.edu/honor/_. The provisions of this code will be followed in
 this class. For all papers, quizzes and other work, the Honor Pledge is
 implied, whether or not it is stated: "On my honor, as a student, I have
 neither given nor received unauthorized aid on this academic work."**
@@ -230,10 +230,9 @@ at least one letter and at least one number and cannot contain underscores.**
 **E-mail**
 
 **You may at any time communicate directly with me by addressing e-mail to me,
-rather than to the electronic discussion list:[mgray@ksu.edu](mailto:
-mgray@ksu.edu). Also visit the course web site where you can obtain the
-syllabus and other materials. Enter through my home page: _<http://www-
-personal.ksu.edu/~mgray/>_[.](http://www-personal.ksu.edu~mgray/)**
+rather than to the electronic discussion list:mgray@ksu.edu. Also visit the
+course web site where you can obtain the syllabus and other materials. Enter
+through my home page: _http://www-personal.ksu.edu/~mgray/_.**
 
 * * *
 
@@ -319,5 +318,5 @@ word count on the paper _._**
 
 **Return to top of syllabus**
 
-**[Return to Professor Gray's Homepage](http://www-personal.ksu.edu/~mgray/)**
+**Return to Professor Gray's Homepage**
 

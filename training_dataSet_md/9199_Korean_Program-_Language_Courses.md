@@ -1,13 +1,10 @@
-**[AALL](http://www.duke.edu/web/aall/index.html) \-
-[Korean](http://www.duke.edu/web/aall/korean/) \- [Courses
-](http://www.duke.edu/web/aall/korean/courses/)\- Language Program**  
+**AALL \- Korean \- Courses \- Language Program**  
     
     
   
 
 **The Korean Language Program**  
-[** ** Self-
-Placement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#top)
+** ** Self-Placement
 
   
 KOR 001      KOR 002  
@@ -40,8 +37,7 @@ beginners to receive appropriately paced instruction in basic language use and
 foundational grammar.  
   
 **KOR 001 Elementary Korean-I  **  
-[syllabus](http://www.duke.edu/~haeyoung/KOR001.html) [Self-Pl
-acement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#001)
+syllabus Self-Pl acement
 
 This course is for students who have no prior knowledge of Korean or have
 minimal proficiency in Korean. The course focuses on:
@@ -59,8 +55,7 @@ and writing in Hangul (Korean script).
 
 **back to top**  
 **KOR 002 Elementary Korean-II  **  
-syllabus  [Self-Pl
-acement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#002)
+syllabus  Self-Pl acement
 
 This course is the continuation of 001. It can also be taken by students who
 have some basic prior knowledge of Korean and can write and speak in simple
@@ -80,8 +75,7 @@ exercises.
 
 **back to top**  
 **KOR 063 Intermediate Korean I  **  
-[syllabus](http://www.duke.edu/~haeyoung/KOR063.html) [Self-Pl
-acement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#063)
+syllabus Self-Pl acement
 
 This course is the continuation of KOR 001/002 sequence. It can also be taken
 by students entering with knowledge of the Korean writing system and oral
@@ -104,8 +98,7 @@ exercises are also provided to develop students' control of grammar.
 
 **back to top**  
 **KOR 064 Intermediate Korean II**  
-syllabus  [Self-
-Placement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#064)
+syllabus  Self-Placement
 
 This cours e is the continuation of KOR 063, and focuses on improving skills
 for:
@@ -126,8 +119,7 @@ to working on students' control of grammar.
 
 **back to top**  
 **KOR 125 Advanced Korean I**  
-[syllabus](http://www.duke.edu/~haeyoung/KOR125.html) [Self-Pl
-acement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#125)
+syllabus Self-Pl acement
 
 This course is the continuation of the intermediate Korean sequence (KOR
 063/064). It can also be taken by students entering with sufficient
@@ -148,8 +140,7 @@ parts of the grammar book.
 
 **back to top**  
 **KOR 126 Advanced Korean II**  
-syllabus  [Self-Pl
-acement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#126)
+syllabus  Self-Pl acement
 
 This course is also a continuation of the intermediate Korean sequence (KOR
 063/064). It can be taken without taking KOR 125  with a permission from the
@@ -172,8 +163,7 @@ Korean vocabulary.
 **back to top**  
 **KOR 183 Topics in Korean I**  
 subject to funding from the Korea Research Foundation.  
-[Self-Pl
-acement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#183)
+Self-Pl acement
 
 This course is a continuation of the advanced Korean sequence (KOR 125/126).
 It focuses on developing students' interpretive and expressive abilities
@@ -183,8 +173,7 @@ articles. The course is taught in Korean by a visiting professor from Korea.
 **back to top**  
 **KOR 184 Topics in Korean II**  
 subject to funding from the Korea Research Foundation.  
-[Self-Pl
-acement](http://www.duke.edu/web/aall/korean/courses/korselfplace.html#184)
+Self-Pl acement
 
 This course is the continuation of KOR 183. It continues to work on developing
 students' interpretive and expressive abilities through reading and
@@ -195,15 +184,11 @@ taught in Korean by a visiting professor from Korea.
   
 
 
-[welcome](http://www.duke.edu/web/aall/page2.html) | [major &
-minor](http://www.duke.edu/web/aall/page3.html) | [languages
-](http://www.duke.edu/web/aall/page7.html)| [aall
-courses](http://www.duke.edu/web/aall/page4.html) | [study
-abroad](http://www.duke.edu/web/aall/page5.html) | [faculty &
-staff](http://www.duke.edu/web/aall/page6.html)
+welcome | major & minor | languages | aall courses | study abroad | faculty &
+staff
 
-[![Back to AALL](homebat2.jpg)](/index.html)  
-[Back to AALL](http://www.duke.edu/web/aall/index.html)
+![Back to AALL](homebat2.jpg)  
+Back to AALL
 
-[Duke Home](http://www.duke.edu)
+Duke Home
 

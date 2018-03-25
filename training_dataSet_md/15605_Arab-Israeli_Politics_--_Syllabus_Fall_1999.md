@@ -17,7 +17,7 @@ Office hrs: Tu , Th 10-11, 2-3
   
 grader: |
 
-or by [email](mailto:chenry@mail.la.utexas.edu)  
+or by email  
   
 # Arab-Israeli Politics
 
@@ -41,7 +41,7 @@ or by [email](mailto:chenry@mail.la.utexas.edu)
 
 >   * Schedule of Topics and Readings
 
-[Back to Arab-Israeli Politics home page](./)
+Back to Arab-Israeli Politics home page
 
 * * *
 
@@ -83,7 +83,7 @@ starts off with Biblical times (circa 1400 BC). Smith's book was attacked by
 some reviewers on the ground that Zionism emerged as a cultural and political
 movement only in the late nineteenth century.
 
-Table of contents | [Back to Arab-Israeli Politics home page](./)
+Table of contents | Back to Arab-Israeli Politics home page
 
 * * *
 
@@ -92,14 +92,13 @@ Table of contents | [Back to Arab-Israeli Politics home page](./)
 While we will try to discuss various points of view in class, you are also
 expected to express some of your views and perceptions in "chat," our
 electronic discussion forum. This forum is protected by a password, so that it
-is very much like our classroom. Make a [comment](mailto:aipol-
-chat@mail.la.utexas.edu) and [it will be seen](fall01/chat01) only by other
-members of the class, your TA, and your professor. Your contributions will
-count toward your class participation grade. You should get practice using the
-Internet in plenty of time for our electronic simulation game, which begins in
-early October.
+is very much like our classroom. Make a comment and it will be seen only by
+other members of the class, your TA, and your professor. Your contributions
+will count toward your class participation grade. You should get practice
+using the Internet in plenty of time for our electronic simulation game, which
+begins in early October.
 
-Table of contents | [Back to Arab-Israeli Politics home page](./)
+Table of contents | Back to Arab-Israeli Politics home page
 
 * * *
 
@@ -127,7 +126,7 @@ is needed to complete your work satisfactorily, but you will need to type. You
 will enhance your computer literacy and learn how to use the Internet as a
 research tool.
 
-Table of contents | [Back to Arab-Israeli Politics home page](./)
+Table of contents | Back to Arab-Israeli Politics home page
 
 * * *
 
@@ -144,24 +143,18 @@ Table of contents | [Back to Arab-Israeli Politics home page](./)
     \- strongly recommended for in-depth documentation.      Miriam Lowi, _Water and Power_ (Cambridge UP, 1995)      Glenn E. Robinson, _Building a Palestinian State_ (Indiana UP, 1997)      Mark Tessler, _A History of the Israeli-Palestinian Conflict_ (U of Indiana Press, 1994) 
 
 All of the above have been put on reserve in the Undergraduate Library. You
-should also be reading either [The New York Times](http://www.nytimes.com),
-[The Washington Post](http://www.washingtonpost.com/), or the [Christian
-Science Monitor](http://www.csmonitor.com/) regularly, and/or use our UT
-resources. [The Jerusalem Post](http://www.jpost.com/),
-[Haaretz](http://www3.haaretz.co.il), and the Jerusalem Dawn (Al-Fajr),
-available in PCL, or [Palestine
-Report](http://mail.jmcc.org/media/reportonline/report.html), online only,
-also provide useful and timely insights, respectively from conservative and
-progressive Israeli and from Palestinian perspectives. You may also subscribe
-in class to _[Middle East International](http://meionline.com/frames.html)_
+should also be reading either The New York Times, The Washington Post, or the
+Christian Science Monitor regularly, and/or use our UT resources. The
+Jerusalem Post, Haaretz, and the Jerusalem Dawn (Al-Fajr), available in PCL,
+or Palestine Report, online only, also provide useful and timely insights,
+respectively from conservative and progressive Israeli and from Palestinian
+perspectives. You may also subscribe in class to _Middle East International_
 ($10 for 6 or 7 issues to be received in the course of the semester) if you
 get your order to the instructor by September 6. You also have free access,
-with the class password, to some [new resources](fall02/resources02) that I
-will be mailing you, and also to [summer 2002
-resources](../usme/sum2002/resources/index.html) that I have collected for you
-and other classes.
+with the class password, to some new resources that I will be mailing you, and
+also to summer 2002 resources that I have collected for you and other classes.
 
-Table of contents | [Back to Arab-Israeli Politics home page](./)
+Table of contents | Back to Arab-Israeli Politics home page
 
 * * *
 
@@ -186,7 +179,7 @@ Monday, October 7 5) game playing, Oct. 14 to Nov. 1 with Australia, then
 finalize Israeli-Palestinian negotiations Nov. 4-18. 6) debriefing report due
 Monday, Nov. 25. 7) IDENTIFICATIONS TEST: Monday, Dec. 2.  
 
-Table of contents | [Back to Arab-Israeli Politics home page](./)
+Table of contents | Back to Arab-Israeli Politics home page
 
 * * *
 
@@ -195,10 +188,9 @@ Table of contents | [Back to Arab-Israeli Politics home page](./)
 You will be expected, in teams of three students each, to do some research on
 the character you are representing in the game and to write a role profile of
 about 500 words. You will present one copy in class on Sept 30, and you will
-also [transmit](mailto:aipol-roles@mail.la.utexas.edu) it to our collection of
-[role profiles](http://www.la.utexas.edu/chenry/aip/fall02/roles02/) on the
-Internet. (We will explain in class to you the mechanics of signing into our
-computer system and sending messages).
+also transmit it to our collection of role profiles on the Internet. (We will
+explain in class to you the mechanics of signing into our computer system and
+sending messages).
 
 You will pay special attention to his or her statements and positions with
 respect to Middle East foreign policies and strategies in general, and the
@@ -246,7 +238,7 @@ annotated bibliographies, and pay attention to the quality of the evidence.
 (See your syllabus for suggestions on electronic sources; you may also try the
 PCL reference room)
 
-Table of contents | [Back to Arab-Israeli Politics home page](./)
+Table of contents | Back to Arab-Israeli Politics home page
 
 * * *
 
@@ -254,42 +246,39 @@ Table of contents | [Back to Arab-Israeli Politics home page](./)
 
 You will also present annotated bibliographies of the sources you used to
 prepare the role profile. You will present one copy in class on Monday, Sept
-22, and you will also [transmit](mailto:aipol-bibs@mail.la.utexas.edu) it to
-our archive of [annotated bibliographies](fall02/bibs02/) on the Internet. The
-bibliography should consist of at least 10 useful sources about your character
-and his/her policy concerns (on issues such as Jersualem, water, settlements,
-compensation for refugees, the future political status of Palestine, etc.).
-You may be able to locate samples of your character's speeches. The sources
-may be articles, books, or electronic files. Electronic sources can be
-documented with their URL (http://......). You should make a brief critical
-summary of each source. Make sure that the electronic verson of your annotated
-bibliography has an informative subject header, such as the name of your
-character or a substantive subject heading. You may break your bibliography
-down into separate items corresponding to your sources.
+22, and you will also transmit it to our archive of annotated bibliographies
+on the Internet. The bibliography should consist of at least 10 useful sources
+about your character and his/her policy concerns (on issues such as Jersualem,
+water, settlements, compensation for refugees, the future political status of
+Palestine, etc.). You may be able to locate samples of your character's
+speeches. The sources may be articles, books, or electronic files. Electronic
+sources can be documented with their URL (http://......). You should make a
+brief critical summary of each source. Make sure that the electronic verson of
+your annotated bibliography has an informative subject header, such as the
+name of your character or a substantive subject heading. You may break your
+bibliography down into separate items corresponding to your sources.
 
 For your bibliography and general information, you may access many useful
 materials, including translations of the foreign press, over the Internet. You
 may not even need to go to the library, just use our course home page internet
 resources and surf the net for a tremendous amount of information! Or look at
-the supplementary bibliographies in [mena-
-politics](http://www.la.utexas.edu/chenry/mena), or, better still, try to find
-relevant resources in [www.assr.org](http://www.assr.org). If you go to the
-periodical room of the PCL, you may consult translations of various Middle
-Eastern newspapers and speeches of political leaders on microfiche. Ask the
-periodical librarian for suggestions and instructions on how to use the
-microfiches (JPR series of translations of speeches and newspaper articles by
-Foreign Broadcasting Information Service, FBIS--now also available online for
-UT students via the WWW from the UT Libraries home page). For briefings on the
-military strengths and weaknesses of the various protagonists, consult the
-annual reports of the Institute of Strategic Studies (London) and other
-materials ([SIPRI](http://www.sipri.se/), for example) available in the
-reference room of PCL.
+the supplementary bibliographies in mena-politics, or, better still, try to
+find relevant resources in www.assr.org. If you go to the periodical room of
+the PCL, you may consult translations of various Middle Eastern newspapers and
+speeches of political leaders on microfiche. Ask the periodical librarian for
+suggestions and instructions on how to use the microfiches (JPR series of
+translations of speeches and newspaper articles by Foreign Broadcasting
+Information Service, FBIS--now also available online for UT students via the
+WWW from the UT Libraries home page). For briefings on the military strengths
+and weaknesses of the various protagonists, consult the annual reports of the
+Institute of Strategic Studies (London) and other materials (SIPRI, for
+example) available in the reference room of PCL.
 
 You may find lots of up-to-date material, including Middle East International,
 in the Middle East Center's library. The Center is on the 6th floor of the
 West Mall Bldg.
 
-Table of contents | [Back to Arab-Israeli Politics home page](./)
+Table of contents | Back to Arab-Israeli Politics home page
 
 * * *
 
@@ -306,18 +295,17 @@ October 7.
 ### Debriefing Paper (500-700 words)
 
 You will then be expected to write a second paper of no more than 700 words,
-due Monday, Nov. 25, (hard copy in class, electronic version [to the
-"debriefings" file](mailto:aipol-debriefings@mail.la.utexas.edu)) presenting
-your impressions of the game, what you learned from it, and how
-"realistically" you thought other characters performed in the game. Try to
-avoid play-by-play descriptions and summaries of what happened. You will be
-graded for your originality and perceptiveness and also for your ability to
-document your insights. You should footnote required readings and research you
-did in connection with the course when comparing "real life" with what went on
-in the game. A good paper will have a lead idea and develop a well documented
-argument.
+due Monday, Nov. 25, (hard copy in class, electronic version to the
+"debriefings" file) presenting your impressions of the game, what you learned
+from it, and how "realistically" you thought other characters performed in the
+game. Try to avoid play-by-play descriptions and summaries of what happened.
+You will be graded for your originality and perceptiveness and also for your
+ability to document your insights. You should footnote required readings and
+research you did in connection with the course when comparing "real life" with
+what went on in the game. A good paper will have a lead idea and develop a
+well documented argument.
 
-Table of contents | [Back to Arab-Israeli Politics home page](./)
+Table of contents | Back to Arab-Israeli Politics home page
 
 * * *
 
@@ -356,10 +344,10 @@ Readings:
 Laqueur and Rubin, _The Israel-Arab Reader_ , pp. 16, 599-611, or Smith, pp.
 75, 506-510, for the Balfour Declaration of 1917 and the Israeli-PLO
 Declaration of Principles of Sept. 13, 1993. Visit the Israeli Ministry of
-Foreign Affairs [website](http://www.mfa.gov.il/mfa/home.asp) for a detailed
-list of accords and agreements concerning the peace process since 1993. Go to
-the bottom of the home page to click on "Peace process" and then to the left
-you can click on their "Reference Documents" archive.
+Foreign Affairs website for a detailed list of accords and agreements
+concerning the peace process since 1993. Go to the bottom of the home page to
+click on "Peace process" and then to the left you can click on their
+"Reference Documents" archive.
 
 **Sept. 23** : Annotated bibliographies due
 
@@ -374,14 +362,14 @@ commitments concerning political representation, land, and people.
 
 Readings:
 
-    Smith, pp. 109-166, 511-516 ("Oslo 2" of September 28, 1995).     You may also want to read more recent documents from the Israeli foreign ministry's [home page](http://www.mfa.gov.il/mfa/home.asp), such as the Hebron accords of January 17, 1997, including attached notes. Also you may study Smith, p. 473, outlining the areas A and B from which the Israeli army is redeployed. under Oslo 2. You may view l[ots of maps at our PCL](http://www.lib.utexas.edu/maps/israel.html) and also at the [Foundation for Middle East Peace](http://www.fmep.org/maps/). And here is how one Palestinian research center views the situation on the ground : [Recent Israeli Plan for Cantonizing the Palestinian Territories](http://www.poica.org/casestudies/seige/index.htm) (Oct. 21, 2000). 
+    Smith, pp. 109-166, 511-516 ("Oslo 2" of September 28, 1995).     You may also want to read more recent documents from the Israeli foreign ministry's home page, such as the Hebron accords of January 17, 1997, including attached notes. Also you may study Smith, p. 473, outlining the areas A and B from which the Israeli army is redeployed. under Oslo 2. You may view lots of maps at our PCL and also at the Foundation for Middle East Peace. And here is how one Palestinian research center views the situation on the ground : Recent Israeli Plan for Cantonizing the Palestinian Territories (Oct. 21, 2000). 
 
 3) Issues of Internal Security and Terrorism--"Gun Zionism" and the Emergence
 of Israel
 
 Readings:
 
-    Thomas, 37-94     [Deir Yassin Remembered](http://www.deiryassin.org/)     Smith, pp. 167-222     also recommended: Mark Tessler, _A History_ , pp. 273-335     and, to get a sense of political parties and elections in Israel,     Arian, The Second Republic, pp. 103-140 (about Israeli political parties and elections) **or** search from the Israeli foreign ministry's [home page](http://www.mfa.gov.il/mfa/home.asp)     ** **
+    Thomas, 37-94     Deir Yassin Remembered     Smith, pp. 167-222     also recommended: Mark Tessler, _A History_ , pp. 273-335     and, to get a sense of political parties and elections in Israel,     Arian, The Second Republic, pp. 103-140 (about Israeli political parties and elections) **or** search from the Israeli foreign ministry's home page     ** **
 
 **Sept. 30** : Game role profiles due.
 
@@ -396,9 +384,8 @@ Reading:
 
 Readings:
 
-    Thomas, 133-188     Smith, pp. 261-300     Smith, pp 341-42, or Laqueur and Rubin, The Israel-Arab Reader, pp. 217-218: [UN Security Council Resolution 242](http://www.mfa.gov.il/mfa/home.asp).  
-Optional: browse through the home page of the [USS
-Liberty](http://www.halcyon.com/jim/ussliberty/liberty.htm)
+    Thomas, 133-188     Smith, pp. 261-300     Smith, pp 341-42, or Laqueur and Rubin, The Israel-Arab Reader, pp. 217-218: UN Security Council Resolution 242.  
+Optional: browse through the home page of the USS Liberty
 
 **Oct. 7** : Start playing Sim game
 
@@ -413,7 +400,7 @@ solutions?
 
 Readings:
 
-    Thomas, 189-208     Smith, pp. 301-350     **Role profiles and annotated bibliographies due: hard copies in class**. Please also post them in the computer system as instructed. You may use our WWW home page form or e-mail to aipol-roles@mail.la.utexas and aipol-bibs@mail.la.utexas.edu.    Read game [scenario](http://www.la.utexas.edu/chenry/aip/fall02/media02) and begin playing: consult with your team and send a message to Control briefly (300 words) indicating your strategy in the game. Save a copy to yourself as this will help you later when you debrief at the end of the game. Hard copy due in class Oct. 14. 
+    Thomas, 189-208     Smith, pp. 301-350     **Role profiles and annotated bibliographies due: hard copies in class**. Please also post them in the computer system as instructed. You may use our WWW home page form or e-mail to aipol-roles@mail.la.utexas and aipol-bibs@mail.la.utexas.edu.    Read game scenario and begin playing: consult with your team and send a message to Control briefly (300 words) indicating your strategy in the game. Save a copy to yourself as this will help you later when you debrief at the end of the game. Hard copy due in class Oct. 14. 
 
 **Oct. 14**
 
@@ -428,20 +415,20 @@ for Peace.
 
 Readings:
 
-    Thomas, 243-262     Smith, pp. 406-456     [Palestinian Declaration of Independence](http://www.palestine-net.com/politics/indep.html)
+    Thomas, 243-262     Smith, pp. 406-456     Palestinian Declaration of Independence
 
 **Oct. 21** : The Israeli-Palestinian Peace Process. Continuing Peace with
 Jordan?
 
 Readings:
 
-    Thomas, 263-268     Smith, pp. 457-524     optional: [Israel-Jordan Treaty](http://www.mfa.gov.il/mfa/home.asp) (Oct. 26, 1994). 
+    Thomas, 263-268     Smith, pp. 457-524     optional: Israel-Jordan Treaty (Oct. 26, 1994). 
 
 **Oct. 21** : Syria and the Golan
 
 Readings:
 
-    Compare the Israeli settlers' [history](http://www.golan.org.il/history.html) of the Golan Heights with the references listed in Smith's index on p. 534\.     Reread Smith, pp. 270-271, 516-524 
+    Compare the Israeli settlers' history of the Golan Heights with the references listed in Smith's index on p. 534\.     Reread Smith, pp. 270-271, 516-524 
 
 **Oct. 28** :
 
@@ -449,32 +436,23 @@ Readings:
 
 Readings:
 
-    Robert Malley, [Fictions About the Failure at Camp David,](Class%20materials/070801MALLeyReCampDavid.html) New York Times, July 8, 2001.     Deborah Sonntag, [Quest for Mideast Peace: How and Why It Failed](Class%20materials/072601Sonntag.html), New York Times, July 26, 2001 
+    Robert Malley, Fictions About the Failure at Camp David, New York Times, July 8, 2001.     Deborah Sonntag, Quest for Mideast Peace: How and Why It Failed, New York Times, July 26, 2001 
 
-Dennis Ross, [FROM OSLO TO CAMP DAVID TO
-TABA](http://www.washingtoninstitute.org/watch/Peacewatch/peacewatch2001/340.htm):
-Setting the Record Straight (Wash Institute of Near East Policy).      Nigel
-Parry, [Misrepresentation of Barak's
-offer](http://electronicIntifada.net/coveragetrends/generous.html) at Camp
-David as "generous" and "unprecedented"     ARIJ, [The withdrawal percentages:
-what do they really mean?](http://www.poica.org/casestudies/Withdrawal-
-Percentages1-1-2001/index.htm)     David Newman, "[Is reconciliation still
-possible?](press2001/061301JPostprofNewmanReconcilOpin.28051.html)" Jersualem
-Post, June 13, 2001     [The Mitchell
-Plan](../usme/sp2001/resources/msg00199.html) (February 2001)    Background:
-Noam Chomsky, [A Painful
-Peace](http://www.lbbs.org/zmag/articles/jan96chomsky.htm) (1996) or [The
-Israel-Arafat A
-greement](http://www.worldmedia.com/archive/articles/z9310-israel-arafat.html)
-(1993)     Joseph Farah, [Israel Today &
-Always](http://www.jdl.org/israel/whats_a_palestinian.html): Between the Lines
-- What is a Palestinian? (Jewish Defense League website)
+Dennis Ross, FROM OSLO TO CAMP DAVID TO TABA: Setting the Record Straight
+(Wash Institute of Near East Policy).      Nigel Parry, Misrepresentation of
+Barak's offer at Camp David as "generous" and "unprecedented"     ARIJ, The
+withdrawal percentages: what do they really mean?     David Newman, "Is
+reconciliation still possible?" Jersualem Post, June 13, 2001     The Mitchell
+Plan (February 2001)    Background:     Noam Chomsky, A Painful Peace (1996)
+or The Israel-Arafat A greement (1993)     Joseph Farah, Israel Today &
+Always: Between the Lines - What is a Palestinian? (Jewish Defense League
+website)
 
 2) The refugee and settlement issues
 
 Readings:
 
-    Arzt, pp. 101-123 (UGL reserve)     Applied Research Institute, Jerusalem, [Recent Israeli Settlement Activity](http://www.arij.org/paleye/), read one of the case studies, including maps     Smith, pp. 472-473 map of Israeli settlements 
+    Arzt, pp. 101-123 (UGL reserve)     Applied Research Institute, Jerusalem, Recent Israeli Settlement Activity, read one of the case studies, including maps     Smith, pp. 472-473 map of Israeli settlements 
 
 **Nov. 4** :
 
@@ -482,21 +460,17 @@ Readings:
 
 Reading:
 
-    Stephan Libiszewski, [Water Disputes in the Jordan Basin Region](http://www.fsk.ethz.ch/encop/13/en13.htm)     optional: Miriam R. Lowi, Water and power (Cambridge University Press, 1995) 
+    Stephan Libiszewski, Water Disputes in the Jordan Basin Region     optional: Miriam R. Lowi, Water and power (Cambridge University Press, 1995) 
 
 2) The issue of Jerusalem
 
 Readings:
 
-    [The Debate at Camp David over Jerusalem's Holy Places](Class%20materials/israel_state_of_israel_part_3-8.29.2000.html) (July 2000) \- (Middle East Media Research Institute)     An official Israeli view: [Basic Law](http://www.israel-mfa.gov.il/peace/jeruslaw.html) and links to legal background paper.  
-A Palestinian view: [The Status of Jerusalem
-Reconstructed](http://www.arij.org/paleye/jerusal/index.htm)  
-Maps of [Jerusalem](http://www.arij.org/paleye/jerusal/figa.gif) and Har
-Homa=[Abu Ghnaim](http://www.arij.org/paleye/abughnam/map1.gif), also in
-Thomas, p 273.
+    The Debate at Camp David over Jerusalem's Holy Places (July 2000) \- (Middle East Media Research Institute)     An official Israeli view: Basic Law and links to legal background paper.  
+A Palestinian view: The Status of Jerusalem Reconstructed  
+Maps of Jerusalem and Har Homa=Abu Ghnaim, also in Thomas, p 273.
 
-Game ends Friday, Nov. 8 with plenty of
-[news](http://www.la.utexas.edu/chenry/oil/fall02/media02)!
+Game ends Friday, Nov. 8 with plenty of news!
 
 **Nov. 11** :
 
@@ -506,7 +480,7 @@ Game ends Friday, Nov. 8 with plenty of
 
 Readings:
 
-    optional: Paul Findley, They Dare to Speak Out, 25-49     visit [AIPAC](http://www.aipac.org/) and [Washington Report](http://www.washington-report.org/), April/May 1997, pp. 43-44. 
+    optional: Paul Findley, They Dare to Speak Out, 25-49     visit AIPAC and Washington Report, April/May 1997, pp. 43-44. 
 
 **Nov. 18** :
 
@@ -523,17 +497,16 @@ self-determination and Israeli security?
 
 Readings:
 
-    Review Thomas, pp. 263-288; Smith, 457-503     Examine our in-class [New Resources](fall01/resources01) \- especially TBA 
+    Review Thomas, pp. 263-288; Smith, 457-503     Examine our in-class New Resources \- especially TBA 
 
 **Dec. 2:** Review session and Identifications Test
 
-Table of contents | [Back to Arab-Israeli Politics home page](./)
+Table of contents | Back to Arab-Israeli Politics home page
 
 * * *
 
 August 21, 2002  
-[Department of Government](/depts/gov/home.htm), [College of Liberal
-Arts](http://www.dla.utexas.edu/), [University of Texas at Austin.  
-](http://www.utexas.edu/)Questions, Comments, and Suggestions to
-[chenry@mail.la.utexas.edu](MAILTO:chenry@jeeves.la.utexas.edu)
+Department of Government, College of Liberal Arts, University of Texas at
+Austin.  
+Questions, Comments, and Suggestions to chenry@mail.la.utexas.edu
 

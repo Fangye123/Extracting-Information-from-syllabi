@@ -8,8 +8,7 @@ Instructor: David J. Keeling Office EST 431, Phone x 5986
 
 Office Hours: TR(F) 0800-0900, 1530-1700, and MW 0800-1000,
 
-or by appointment. EMAIL: [
-david.keeling@wku.edu](mailto:david.keeling@wku.edu)  
+or by appointment. EMAIL:  david.keeling@wku.edu  
 
 ** In this course, we conduct a systematic topical and regional survey of the
 world's seven major areas. Combining textbook readings, videos, slides, and
@@ -23,7 +22,7 @@ and understanding of your individual role in the world and of relationships
 between different societies and countries. You must come to class ready to
 learn and to challenge ideas.  
 To view student opinions of this and other courses from previous semesters,
-just click on: [Opinions](http://www2.wku.edu/~keeling/opinion/opinion.htm).
+just click on: Opinions.
 
 ** Required textbook available at the College Bookstore/Lemox/etc: Lydia
 Pulsipher, _World Regional Geography:_ (1999), W.H. Freeman and Co., New York.
@@ -147,39 +146,33 @@ Week Sixteen | **KEY ISSUE:** The European Union |
 
 * * *
 
-#### To view the research paper instructions for this course, click on: [Paper
-Instructions](paper.htm).
+#### To view the research paper instructions for this course, click on: Paper
+Instructions.
 
-#### For information on the Department's Study Lab, just click on: [STUDY LAB
-INFO](studylab.htm)  
-To view the study maps used in this course, just click on:
-[GEOMAPS](GEOMAPS.HTM)
+#### For information on the Department's Study Lab, just click on: STUDY LAB
+INFO  
+To view the study maps used in this course, just click on: GEOMAPS
 
 #### To view the location study guides used in this course, just click on:
-[MAPGUIDE](MAPGUIDE.HTM)
+MAPGUIDE
 
-#### Having Problems with Poor Exam Performance? Click on: [Exam
-Help](examprobs.htm)
+#### Having Problems with Poor Exam Performance? Click on: Exam Help
 
-#### To view the study guide for EXAM #1, click on: [First
-Exam](djkexam1.htm).
+#### To view the study guide for EXAM #1, click on: First Exam.
 
-#### To view the study guide for EXAM #2, click on: [Second
-Midterm](djkexam2.htm).
+#### To view the study guide for EXAM #2, click on: Second Midterm.
 
-#### To view the study guide for FINAL EXAM, click on: [FINAL ](djkfinal.htm).
+#### To view the study guide for FINAL EXAM, click on: FINAL .
 
 * * *
 
-#### Thanks for viewing this [Department of Geography and
-Geology](http://www2.wku.edu/www/geoweb/) course offering.
+#### Thanks for viewing this Department of Geography and Geology course
+offering.
 
 #### For more information about this and other Geography courses, you can
-email the professor directly by clicking on: [
-david.keeling@wku.edu](mailto:david.keeling@wku.edu)
+email the professor directly by clicking on:  david.keeling@wku.edu
 
-#### To return to David J. Keeling's homepage, just click on:
-[Homepage](http://www2.wku.edu/~keeling/index.htm)
+#### To return to David J. Keeling's homepage, just click on: Homepage
 
 #### This page was last updated on 12/1/99
 

@@ -4,28 +4,28 @@
 
 **  
 
-* First, a link to the [**Spring 1999 lab syllabus for Geology 101**](101syll.html). This shows which labs are being taught when, and the lab policies. **PLEASE READ THE HONOR CODE!**  
+* First, a link to the **Spring 1999 lab syllabus for Geology 101**. This shows which labs are being taught when, and the lab policies. **PLEASE READ THE HONOR CODE!**  
   
 
-* Here are links to the [**optional field trips**](http://faculty.washington.edu/bsherrod/geo101/field_trips.html) for Geology 101 this quarter. The best way to truly learn geology is to go out and see it!**  
+* Here are links to the **optional field trips** for Geology 101 this quarter. The best way to truly learn geology is to go out and see it!**  
   
 
-* Want to go to **Brian Sherrod's official 101 Lectures website**? Click [here](http://faculty.washington.edu/bsherrod/geo101) for the main page. Subtopics include: [general info and syllabus](http://faculty.washington.edu/bsherrod/geo101/syllabus.html) (including Brian's office hours), [lecture schedule](http://faculty.washington.edu/bsherrod/geo101/lecture_schedule.html), [lecture outlines](http://faculty.washington.edu/bsherrod/geo101/outlines.html), [lab sections & TAs](http://faculty.washington.edu/bsherrod/geo101/labs.html), [optional field trips](http://faculty.washington.edu/bsherrod/geo101/field_trips.html), and [TAs' office hours](http://faculty.washington.edu/bsherrod/geo101/office_hours.html).  
+* Want to go to **Brian Sherrod's official 101 Lectures website**? Click here for the main page. Subtopics include: general info and syllabus (including Brian's office hours), lecture schedule, lecture outlines, lab sections & TAs, optional field trips, and TAs' office hours.  
   
 
-* Also take a look at **Terry Swanson's** _old_ [(Summer 1997) 101 site](http://weber.u.washington.edu/~tswanson/101)... His **lecture notes, sample tests, etc.** are still _very informative_ , but some of the logistical information (such as field trip schedule and lab syllabus!) is _out of date_.  
+* Also take a look at **Terry Swanson's** _old_ (Summer 1997) 101 site... His **lecture notes, sample tests, etc.** are still _very informative_ , but some of the logistical information (such as field trip schedule and lab syllabus!) is _out of date_.  
   
 
-* The [**Geologylink**](http://www.geologylink.com) site, which has a _ton_ of information, is organized according to your own textbook's chapters (Stan Chernicoff's book).  
+* The **Geologylink** site, which has a _ton_ of information, is organized according to your own textbook's chapters (Stan Chernicoff's book).  
   
 
-* Don't forget, TAs staff JHN 141 for [**office hours**](http://faculty.washington.edu/bsherrod/geo101/office_hours.html) several hours a week! We're there for you! Do let your TA know if you'd like some one-on-one or small-group assistance at any other time. I (Gwyn) will also offer optional, informal review sessions to my students (section AA) before the quizzes. (The people who attended in past quarters found them useful!)  
+* Don't forget, TAs staff JHN 141 for **office hours** several hours a week! We're there for you! Do let your TA know if you'd like some one-on-one or small-group assistance at any other time. I (Gwyn) will also offer optional, informal review sessions to my students (section AA) before the quizzes. (The people who attended in past quarters found them useful!)  
   
 
-* [Common Myths about College Science](http://www.brown.edu/Administration/Dean_of_the_College/homepginfo/equity/myths_wisb.html)...You (yes, YOU!) **can** do science! : ) - From Brown University  
+* Common Myths about College Science...You (yes, YOU!) **can** do science! : ) - From Brown University  
   
 
-* If you have a **disability** , we hope you feel comfortable talking with us about your needs. Even if you'd prefer to remain "anonymous", please consider contacting UW Disabled Student Services (DSS) in Schmitz Hall -- Email [uwdss@u.washington.edu](mailto:uwdss@u.washington.edu). They can work with you to find helpful accommodations for your specific situation. (Their website doesn't have much info, but is located [here](http://www.washington.edu/students/gencat/front/Disabled_Student.html).) Additionally, you may want to read "Working Together: Science Teachers and Students with Disabilities" [here](http://weber.u.washington.edu/~doit/Brochures/Transition/working.teachers.html). You can contact UW's DO-IT (Disabilities, Opportunities, Internetworking & Technology) folks by emailing [doit@u.washington.edu](mailto:doit@u.washington.edu).  
+* If you have a **disability** , we hope you feel comfortable talking with us about your needs. Even if you'd prefer to remain "anonymous", please consider contacting UW Disabled Student Services (DSS) in Schmitz Hall -- Email uwdss@u.washington.edu. They can work with you to find helpful accommodations for your specific situation. (Their website doesn't have much info, but is located here.) Additionally, you may want to read "Working Together: Science Teachers and Students with Disabilities" here. You can contact UW's DO-IT (Disabilities, Opportunities, Internetworking & Technology) folks by emailing doit@u.washington.edu.  
   
 
 * * *
@@ -45,23 +45,23 @@ the lab manual and/or your TA mentioned more than once. (Quotes are from
 Bartlett's Familiar Quotations):  
   
 
-* [**Lab #1 (minerals)**](101lec1.html) \- Or just the [links](lec1links.html) "I look upon you as gem of the old rock. "--Sir Thomas Browne (1605-1682)
-* [**Lab #2 (igneous rocks)**](101lec2.html) \- Or just the [links](lec2links.html) "We are dancing on a volcano."--Words uttered by Comte de Salvandy (1796-1856) at a fete for the King of Naples.
-* [**Lab #3 (sedimentary rocks & geologic time)**](101lec3.html)"Water continually dropping will wear hard rocks hollow."--Plutarch (46?-120? AD); "Where the streame runneth smoothest, the water is deepest."--John Lyly (~1553-1601)
-* [**Lab #4 (metamorphic rocks)**](101lec4.html) "Everything is in a state of metamorphosis. Thou thyself art in everlasting change...so is the whole universe."--Marcus Aurelius Antoninus (21-180 AD)
-* [**Lab #5 - Discovery Park field trip info and writing assignment**](101lab5.html)
-* [**Lab #6 (geologic techniques)**](101lec6.html) \- Or just the [links ](lec6links.html)![Globe](icon-4.gif) "Map me no maps."--Henry Fielding (1707-1754); "Geographers...crowd into the edges of their maps parts of the world which they do not know about, adding notes in the margin to the effect that beyond this lies nothing but sandy deserts full of wild beasts, and unapproachable bogs."--Plutarch (46?-120? AD)
-* [**Lab #7 - Cougar Mountain field trip info**](101lab7.html) \- Or just a [link to P-I history/hiking article ](http://www.seattle-pi.com/pi/getaways/060597/hike05.html)![Paw](button.gif)
-* [**Lab #8 (geologic resources) links**](lec8links.html) "Earth laughs in flowers to see her boastful boys; Earth-proud, proud of the earth which is not theirs"--Ralph Waldo Emerson (1803-1882); "Our wasted oil unprofitably burns."--William Cowper (1731-1800)
-* [**Lab #9 (geologic hazards) links**](lec9links.html) "There are many marvellous stories told of Pherecydes. For it is said that he was walking along the seashore at Samos, and that seeing a ship sailing by with a fair wind, he said that it would soon sink; and presently it sank before his eyes. At another time he was drinking some water which had been drawn up out of a well, and he foretold that within three days there would be an earthquake; and there was one."--Diogenes Laertius (~200 AD)
+* **Lab #1 (minerals)** \- Or just the links "I look upon you as gem of the old rock. "--Sir Thomas Browne (1605-1682)
+* **Lab #2 (igneous rocks)** \- Or just the links "We are dancing on a volcano."--Words uttered by Comte de Salvandy (1796-1856) at a fete for the King of Naples.
+* **Lab #3 (sedimentary rocks & geologic time)**"Water continually dropping will wear hard rocks hollow."--Plutarch (46?-120? AD); "Where the streame runneth smoothest, the water is deepest."--John Lyly (~1553-1601)
+* **Lab #4 (metamorphic rocks)** "Everything is in a state of metamorphosis. Thou thyself art in everlasting change...so is the whole universe."--Marcus Aurelius Antoninus (21-180 AD)
+* **Lab #5 - Discovery Park field trip info and writing assignment**
+* **Lab #6 (geologic techniques)** \- Or just the links ![Globe](icon-4.gif) "Map me no maps."--Henry Fielding (1707-1754); "Geographers...crowd into the edges of their maps parts of the world which they do not know about, adding notes in the margin to the effect that beyond this lies nothing but sandy deserts full of wild beasts, and unapproachable bogs."--Plutarch (46?-120? AD)
+* **Lab #7 - Cougar Mountain field trip info** \- Or just a link to P-I history/hiking article ![Paw](button.gif)
+* **Lab #8 (geologic resources) links** "Earth laughs in flowers to see her boastful boys; Earth-proud, proud of the earth which is not theirs"--Ralph Waldo Emerson (1803-1882); "Our wasted oil unprofitably burns."--William Cowper (1731-1800)
+* **Lab #9 (geologic hazards) links** "There are many marvellous stories told of Pherecydes. For it is said that he was walking along the seashore at Samos, and that seeing a ship sailing by with a fair wind, he said that it would soon sink; and presently it sank before his eyes. At another time he was drinking some water which had been drawn up out of a well, and he foretold that within three days there would be an earthquake; and there was one."--Diogenes Laertius (~200 AD)
 
-* Here is the [Quiz #1 terminology list](min-ig-terms.html) = all the underlined (defined) terms in Labs #1 and #2.  
+* Here is the Quiz #1 terminology list = all the underlined (defined) terms in Labs #1 and #2.  
   
 
-* Also... **QUIZ #1 STUDY QUESTIONS**... Just the [questions](quiz1qs.html), or [questions and answers](quiz1qs+as.html).  
+* Also... **QUIZ #1 STUDY QUESTIONS**... Just the questions, or questions and answers.  
   
 
-* And... **QUIZ #3 STUDY QUESTIONS**... Both [the questions and the answers](quiz3qs.html).  
+* And... **QUIZ #3 STUDY QUESTIONS**... Both the questions and the answers.  
   
   
 
@@ -71,7 +71,7 @@ Bartlett's Familiar Quotations):
 Gwyneth Jones  
 Department of Geological Sciences, University of Washington, Seattle, WA
 98195-1310  
-Email -- [gwyneth@u.washington.edu](mailto:gwyneth@u.washington.edu)  
-Web -- [http://weber.u.washington.edu/~gwyneth](index.html)  
+Email -- gwyneth@u.washington.edu  
+Web -- http://weber.u.washington.edu/~gwyneth  
 Page last updated 5/15/99. GJ
 

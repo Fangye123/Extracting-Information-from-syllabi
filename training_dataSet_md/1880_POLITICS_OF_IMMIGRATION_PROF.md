@@ -11,7 +11,7 @@
 
 392-0262 #296
 
-[lleverty@polisci.ufl.edu](mailto:lleverty@polisci.ufl.edu)
+lleverty@polisci.ufl.edu
 
 |  **OFFICE HOURS:**  
 M & F 9:30-11:30  
@@ -22,8 +22,7 @@ and by appointment
 **COURSE SYLLABUS**  
 quick connect to: | OBJECTIVE | REQUIREMENTS | CLASS FORMAT | TEXTS | COURSE
 OUTLINE |  
-[extra credit](extracredit.htm) | [paper requirements](paper.html) | [back to
-home page](index.html) | ![](pos4931.gif)  
+extra credit | paper requirements | back to home page | ![](pos4931.gif)  
   
 **OBJECTIVE**
 
@@ -106,11 +105,11 @@ Crisis_
 > (10%)  
   
 > Exams will be essay and the final exam will be cumulative. Students will be
-responsible for one policy paper of 10 to 12 pages ([for detail information
-click here](paper.html)). Required class participation includes regular
-attendance, prepared discussion in class and completion of in-class and out-
-of-class exercises. Much of the material which will be covered in class is not
-fully covered in the texts.
+responsible for one policy paper of 10 to 12 pages (for detail information
+click here). Required class participation includes regular attendance,
+prepared discussion in class and completion of in-class and out-of-class
+exercises. Much of the material which will be covered in class is not fully
+covered in the texts.
 
 > All assignments not completed on time will be given a "0." Makeup exams or
 extra time for other assignments will only be given under extraordinary

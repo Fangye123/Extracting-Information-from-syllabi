@@ -55,42 +55,39 @@ Gail Stokes, _From Stalinism to Pluralism_
 
 **Internet Sites**  
 Eastern-Central Europe: the Multicultural Arena  
-<http://www.omnibusol.com/easteurope.html>
+http://www.omnibusol.com/easteurope.html
 
 Slavophilia - Slavic and East European Resources  
-<http://slavophilia.net/>
+http://slavophilia.net/
 
 Current News  
-Central Europe Online [
-http://www.centraleurope.com](http://www.centraleurope.com/)
+Central Europe Online  http://www.centraleurope.com
 
-Central Europe Review [ http://www.ce-review.org](http://www.ce-review.org/)
+Central Europe Review  http://www.ce-review.org
 
-Kyiv Post [ http://www.thepost.kiev.ua](http://www.thepost.kiev.ua/)
+Kyiv Post  http://www.thepost.kiev.ua
 
-Radio Free Europe/Radio Liberty  <http://www.rferl.org/>
+Radio Free Europe/Radio Liberty  http://www.rferl.org/
 
 Historical Research  
-Cold War  [http://web.UVic.CA/hrd/history.learn-
-teach/coldwar.htm](http://web.uvic.ca/hrd/history.learn-teach/coldwar.htm)
+Cold War  http://web.UVic.CA/hrd/history.learn-teach/coldwar.htm
 
-History Index  <http://www.ukans.edu/history/VL>
+History Index  http://www.ukans.edu/history/VL
 
-University of Illinois <http://www.uiuc.edu/unit/reec>
+University of Illinois http://www.uiuc.edu/unit/reec
 
-University of Pittsburgh <http://www.ucis.pitt.edu/reesweb>
+University of Pittsburgh http://www.ucis.pitt.edu/reesweb
 
 Building a Civil Society  
-Civil Society International <http://www.friends-partners.org/>
+Civil Society International http://www.friends-partners.org/
 
-Soros Foundation[
-http://www.soros.org/main.html](http://www.soros.org/main.html)
+Soros Foundation http://www.soros.org/main.html
 
 **Requirements**  
 1.   Each student is required to take two interpretive essay examinations.  Essays will be conceptual in nature and will test student comprehension and analysis of the material covered in class and the readings.  Take careful notes of lectures and discussions.  Review essay questions and objective terms will be distributed one week prior to the examinations.  The final examination will include a comprehensive essay. 
 
 2.   A research paper (10-12 typed pages) is required.  A topic will be selected jointly by the student and professor.  The        paper will then follow several stages: 1.) a thesis statement and bibliography;  2.) an outline;  3.) completion of the paper with possibility of revision.  The paper format will follow guidelines presented in Jules Benjamin's A Student's Guide to History   
-<http://www.bedfordbooks.com/history/research/get.htm?page=research_frame.htm>
+http://www.bedfordbooks.com/history/research/get.htm?page=research_frame.htm
 
 3.   The semester project will include the following: 
 
@@ -228,9 +225,8 @@ Goldman, Articles, 14, 16-18
 Zenon V. Wasyliw  
 Muller 427  
 274-1587  
-[Wasyliw@ithaca.edu](mailto:Wasyliw@ithaca.edu)  
-[http://www.ithaca.edu/faculty/wasyliw](http://www.ithaca.edu/faculty/wasyliw%20)
-| Office Hours:  
+Wasyliw@ithaca.edu  
+http://www.ithaca.edu/faculty/wasyliw | Office Hours:  
 MWF 10:00-10:45am, 12:00 - 12:45pm  
 T / TH 1:00-2:00  
 and by appointment  

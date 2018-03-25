@@ -4,13 +4,11 @@ PMCH 693, Sec. 801
 
 
 
-Course Director: James Cisek, MD ([acisek1@msn.com](mailto:acisek1@msn.com))
+Course Director: James Cisek, MD (acisek1@msn.com)
 
-Co-Director: Michael Edmond, MD, MPH
-([medmond@hsc.vcu.edu](mailto:medmond@hsc.vcu.edu))
+Co-Director: Michael Edmond, MD, MPH (medmond@hsc.vcu.edu)
 
-Teaching Assistant: Thomas Frank, MD, MPH
-([tgfranck@aol.com](mailto:tgfranck@aol.com))
+Teaching Assistant: Thomas Frank, MD, MPH (tgfranck@aol.com)
 
 
 
@@ -35,7 +33,7 @@ Richmond
 
 
 4.       _History of Bioterrorism _ Thomas Franck, MD, MPH  
-[TF PowerPoint slides](BT_Overview2002.htm).
+TF PowerPoint slides.
 
 
 
@@ -67,8 +65,7 @@ _1.        __Public Health and Clinical Aspects of Viral Agents:_
 
 a.       _Small Pox _ Richard Wenzel, MD, M. Sc.
 
-[ Smallpox column in
-RTD](http://classified.timesdispatch.com/editorials/oped/MGBD6IALG3D.html)
+Smallpox column in RTD
 
 b.       _Viral Hemorrhagic Fevers _ Michael Edmond, MD, MPH
 
@@ -77,7 +74,7 @@ b.       _Viral Hemorrhagic Fevers _ Michael Edmond, MD, MPH
 2.       _Public Health and Clinical Aspects of Crush Injuries, Blunt Trauma, and Thermal Burns  
 _ Rao Ivatury, MD
 
-###### **      **[Terrorism Ppt Slide Show](terrorism.htm)
+###### **      **Terrorism Ppt Slide Show
 
 ###### **  
 July 1, 2002** ****
@@ -138,7 +135,7 @@ Chemical Terrorism:
 
 1.       _Public Health and Clinical Aspects of Nerve Agents: Military Agents ( Soman / Sarin / VX), Organophosphates,  Carbamates _James Cisek, MD
 
-   [ Dr Cisek's Ppt Slides](Cisek_ppt_overview72202..htm)
+    Dr Cisek's Ppt Slides
 
   
 
@@ -178,56 +175,52 @@ References:
 
   
 Public Health - Relation to Security:  
-[ _http://www.homelandsecurity.org/journal/Articles/displayarticle.asp?ar_
-ticle=66](http://www.homelandsecurity.org/journal/Articles/displayarticle.asp?article=66)
+_http://www.homelandsecurity.org/journal/Articles/displayarticle.asp?ar_
+ticle=66
 
 Public Health \- Why not to include in the Homeland security office.  
-[ _[
-http://www.homelandsecurity.org/journal/Articles/displayarticle.asp?ar](http://www.homelandsecurity.org/journal/Articles/displayarticle.asp?article=65)_](http://www.homelandsecurity.org/journal/Articles/displayarticle.asp?ar)[ticle=65](http://www.homelandsecurity.org/journal/Articles/displayarticle.asp?article=65)
+_
+http://www.homelandsecurity.org/journal/Articles/displayarticle.asp?ar_ticle=65
 
 
 
 Dr. Michael Edmond:
 
-[ Presentation on Anthrax, Plague and
-Tularemia](Bioterrorism_Bacterial%20Agents.htm)
+Presentation on Anthrax, Plague and Tularemia
 
-[ Presentation on Viral hemorrhagic Fever](Viral_Hem_Fvr_06_02.htm)  
-[ACIP Recommendations on Smallpox Vaccination.](ACIP_Recs_Smallpox.htm)
+Presentation on Viral hemorrhagic Fever  
+ACIP Recommendations on Smallpox Vaccination.
 
 
 
 Dr. Richard Wenzel:
 
-[Smallpox Issues](Wenzel_Smallpox.htm)
+Smallpox Issues
 
 
 
 JAMA series on bioterrorism (free, full-text online)
 
-<http://jama.ama-assn.org/>
+http://jama.ama-assn.org/
 
 
 
-Online medical dictionary [
-http://www.medic8.com/MedicalDictionary](http://www.medic8.com/MedicalDictionary.htm)
+Online medical dictionary  http://www.medic8.com/MedicalDictionary
 
 
 
 Online drug information
 
-[http://www.drugs.com](http://www.drugs.com/)
+http://www.drugs.com
 
 
 
-[ Click here:
-kaisernetwork.org:healthcast](http://www.kaisernetwork.org/health_cast/hcast_index.cfm?display=detail&hc=453)  
+Click here: kaisernetwork.org:healthcast  
 This is a series of web casts on Public Health Law that would complement the
 lectures last Monday.  I would especially recommend the last one:  "The Future
 of Public Health Preparedness."  
   
-National Academy of Medicine - First Responder [ Bioterror Information Site
-](http://www.nap.edu/shelves/first/)
+National Academy of Medicine - First Responder  Bioterror Information Site
 
 
 

@@ -12,7 +12,7 @@ Spring break, plus the weekends on either side. 3 Semester hours credit.
 
 Dr. Joseph R. Coelho, Assistant Professor of Biology.  
 Office hours: M, W, F 9:30-11:30 AM, or by appointment. Room Joh 115B.  
-Email: [jcoelho@culver.edu](mailto:JCoelho@culver.edu)
+Email: jcoelho@culver.edu
 
 ### TEXT
 
@@ -22,37 +22,37 @@ none
 
 We did it! See the details here:
 
-  * [Chronology](diary.htm): An outline of daily activities. 
-  * [Top ten reasons](topten.htm) we're glad we went 
-  * [Top ten reasons](topten.htm#bad) you're glad you didn't go 
-  * [Awards](topten.htm#award)
-  * [Wildlife and Plants ](wildlife.htm)
-  * [Photo gallery](photo.htm) 
+  * Chronology: An outline of daily activities. 
+  * Top ten reasons we're glad we went 
+  * Top ten reasons you're glad you didn't go 
+  * Awards
+  * Wildlife and Plants 
+  * Photo gallery 
 
 ### RESOURCES
 
   * GPS stuff 
-    * [Trail Map](trailmap.jpg)\--the paper one we were supposedly following. 
-    * [GPS coordinates](GPS.xls) of trails at Sitting Bull Falls (Excel file) 
-    * [Smithsonian Institution's primer on GPS ](http://www.nasm.edu/galleries/gps/intro.html)\--pretty basic; start here. 
-    * [The Aerospace Corporation's primer on GPS](http://www.aero.org/publications/GPSPRIMER/index.html)\--a little more technical, but not overwhelming. 
-    * [Joe Mehaffey and Jack Yeazel's GPS Information Website](http://joe.mehaffey.com/)\--a mountain of information on all things GPS
+    * Trail Map\--the paper one we were supposedly following. 
+    * GPS coordinates of trails at Sitting Bull Falls (Excel file) 
+    * Smithsonian Institution's primer on GPS \--pretty basic; start here. 
+    * The Aerospace Corporation's primer on GPS\--a little more technical, but not overwhelming. 
+    * Joe Mehaffey and Jack Yeazel's GPS Information Website\--a mountain of information on all things GPS
   * Required stuff 
-    * [Health Form](HealthForm.doc) (Word document)
+    * Health Form (Word document)
   * Stuff to take with you 
-    * [Individual Equipment list ](equip.htm)
-    * [College Equipment list ](cscequip.htm)
+    * Individual Equipment list 
+    * College Equipment list 
   * Destination stuff 
-    * [Carlsbad Weather](http://www.weather.com/weather/local/USNM0046)
-    * [Chihuahuan Desert](http://nasa.utep.edu/chih/chihdes.htm)
-    * [Chihuahuan Desert at DesertUSA](http://www.desertusa.com/du_chihua.html)
-    * [ National Parks Service](http://www.nps.gov/parks.html)
-      * [Carlsbad Caverns National Park](http://www.nps.gov/cave/index.htm)
-      * [Guadalupe Mountains National Park](http://www.nps.gov/gumo/)
-    * [New Mexico State Parks](http://www.emnrd.state.nm.us/nmparks/)
-      * [Bottomless Lakes State Park](http://www.emnrd.state.nm.us/nmparks/PAGES/parks/bottom/bottom.htm)
-      * [Brantley Lake State Park](http://www.emnrd.state.nm.us/nmparks/PAGES/parks/brantley/brantley.htm)
-      * [Living Desert State Park](http://www.emnrd.state.nm.us/nmparks/PAGES/parks/desert/desert.htm) 
+    * Carlsbad Weather
+    * Chihuahuan Desert
+    * Chihuahuan Desert at DesertUSA
+    * National Parks Service
+      * Carlsbad Caverns National Park
+      * Guadalupe Mountains National Park
+    * New Mexico State Parks
+      * Bottomless Lakes State Park
+      * Brantley Lake State Park
+      * Living Desert State Park 
 
 ### COURSE DESCRIPTION
 
@@ -89,7 +89,7 @@ Bio 315 or 402 or consent of instructor.
 ### REQUIREMENTS
 
   * Attendance and participation in lectures, field trips and exams. 
-  * Completion and return of the [Health Form](HealthForm.doc). 
+  * Completion and return of the Health Form. 
   * Deposit of required funds in the Business Office. 
   * Good physical fitness--lots of hiking is involved
 
@@ -110,8 +110,8 @@ Bird List (next time)
   * Minimum of 20; 1 pt extra credit for each thereafter.
 Lab report
 
-  * A formal lab report must be written in accordance with the [Guide to Lab Reports](http://www.culver.edu/Homepages/Faculty/jcoelho/BIOL309/reports.htm)
-  * To analyze your data, try using Dr. Jones' [Guide to Descriptive Statistics](http://www.culver.edu/homepages/faculty/mjones/Stats.htm) using Excel, or my [primer on the T-test.](http://www.culver.edu/Homepages/Faculty/jcoelho/BIOL309/stats.htm).
+  * A formal lab report must be written in accordance with the Guide to Lab Reports
+  * To analyze your data, try using Dr. Jones' Guide to Descriptive Statistics using Excel, or my primer on the T-test..
 Grades
 
   * Grades will be assigned on a standard ten point scale: A > 90% > B > 80% > C > 70% > D > 60% > F. Any form of academic dishonesty, including plagiarism, will result in official action and penalties in accordance with college policy.

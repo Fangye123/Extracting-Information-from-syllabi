@@ -1,14 +1,12 @@
-[
-![](http://www.uky.edu/newhome/navbar/nav_uktext.gif)](http://www.uky.edu/newhome/navbar/navbar.map)  
+![](http://www.uky.edu/newhome/navbar/nav_uktext.gif)  
   
 
 **PS 711/491-002  
 ****Middle Eastern Politics and Diplomacy  
 Fall 2000**
 
-[![Download Printable
-Version](pdficon.gif)](http://www.uky.edu/rgs/patterson/pdf/stempel711f00.pdf)
-select icon to download printable PDF version.  
+![Download Printable Version](pdficon.gif) select icon to download printable
+PDF version.  
 
 Professor John D. STEMPEL  
 Class time: Tuesday, 3:30-6 p.m.  
@@ -281,7 +279,7 @@ OPTIONAL:
 Robert Kaplan, "The Coming Anarchy," Atlantic Monthly, Feb. 1994,  
 pp. 44-76 (Box, in CAPCO anthology)
 
-[![](back.gif)](welcome.html)  
+![](back.gif)  
   
 ---  
   

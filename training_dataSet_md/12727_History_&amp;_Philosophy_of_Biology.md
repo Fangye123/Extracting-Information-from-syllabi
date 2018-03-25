@@ -6,17 +6,16 @@ had."_ Gordon Craig
 
 * * *
 
-[![Click image to see more of Ray Troll's
-work](EVanim.gif)](http://www.trollart.com/)
+![Click image to see more of Ray Troll's work](EVanim.gif)
 
 * * *
 
 ### Instructor:
 
-  * [Dann Siems](http://ea.bemidji.msus.edu/aqbio/dps.htm) _(link to my workpage with complete contact information and current schedule)_
+  * Dann Siems _(link to my workpage with complete contact information and current schedule)_
   * 214 Sattgast Hall, 755-2795 
-  * E-mail: [dsiems@vax1.bemidji.msus.edu](mailto:dsiems@vax1.bemidji.msus.edu)
-  * [Spring 1999 Schedule](schedspr.htm) 
+  * E-mail: dsiems@vax1.bemidji.msus.edu
+  * Spring 1999 Schedule 
 
 ### Course Description:
 
@@ -34,21 +33,21 @@ for Mayr 1-146).
 
 ### Required Texts:
 
-  * Mayr, E. 1982. [![](http://barnesandnoble.bfast.com/booklink/serve?sourceid=42834&ISBN=0674364465) The growth of biological thought](http://barnesandnoble.bfast.com/booklink/click?sourceid=42834&ISBN=0674364465). Harvard University Press. 
-  * Hull, D. & Ruse, M. 1998. [![](http://barnesandnoble.bfast.com/booklink/serve?sourceid=42834&ISBN=0198752121) The philosophy of biology](http://barnesandnoble.bfast.com/booklink/click?sourceid=42834&ISBN=0198752121). Oxford University Press. 
-  * Murphy, M.P. & O'Neill, L.A. 1997. [![](http://barnesandnoble.bfast.com/booklink/serve?sourceid=42834&ISBN=0521599393) What is life? the next fifty year: speculations on the future of biology](http://barnesandnoble.bfast.com/booklink/click?sourceid=42834&ISBN=0521599393). Cambridge University Press. 
+  * Mayr, E. 1982. ![](http://barnesandnoble.bfast.com/booklink/serve?sourceid=42834&ISBN=0674364465) The growth of biological thought. Harvard University Press. 
+  * Hull, D. & Ruse, M. 1998. ![](http://barnesandnoble.bfast.com/booklink/serve?sourceid=42834&ISBN=0198752121) The philosophy of biology. Oxford University Press. 
+  * Murphy, M.P. & O'Neill, L.A. 1997. ![](http://barnesandnoble.bfast.com/booklink/serve?sourceid=42834&ISBN=0521599393) What is life? the next fifty year: speculations on the future of biology. Cambridge University Press. 
   * Occasional supplemental readings will also be assigned when appropriate 
 
 ### Websites and additional materials:
 
-  * [List of key terms & concepts](http://ea.bemidji.msus.edu/aqbio/keyterms.htm) \-- developed and expanded over semester 
-  * List of some [seminal works and useful reviews](hpreads.htm) [ **Note:** you may want to download and print a copy of this list for annotation during class discussions.] 
-  * [A chronology of significant biological events](http://www.chemie.biologie.de/history.html)
-  * Online texts of [classic works in genetics](http://www.esp.org/) \-- a great resource! 
-  * [Adaptationist stories website](http://www1.bocklabs.wisc.edu/carroll/adaptationism/) \-- interesting, but not especially rigorous 
-  * [Evolution and Creationism](http://www.talkorigins.org/), a overview of issues and evidence. 
-  * [Internet Encyclopedia of Philosophy](http://www.utm.edu/research/iep/)
-  * [Molecules for Modern/Cellular Biology](http://info.bio.cmu.edu/courses/BiochemMols/Buildblocks/Molecules.html), a great site from Carnegie Mellon University featuring 3D animations of key biomolecules (requires download of the free [Chime](http://www.mdli.com/download/index.html) Netscape Plug-in. 
+  * List of key terms & concepts \-- developed and expanded over semester 
+  * List of some seminal works and useful reviews [ **Note:** you may want to download and print a copy of this list for annotation during class discussions.] 
+  * A chronology of significant biological events
+  * Online texts of classic works in genetics \-- a great resource! 
+  * Adaptationist stories website \-- interesting, but not especially rigorous 
+  * Evolution and Creationism, a overview of issues and evidence. 
+  * Internet Encyclopedia of Philosophy
+  * Molecules for Modern/Cellular Biology, a great site from Carnegie Mellon University featuring 3D animations of key biomolecules (requires download of the free Chime Netscape Plug-in. 
 
 ### Course overview and objectives:
 
@@ -88,9 +87,9 @@ PALS_ banner to see what we have in our library. Finally, you can use the
 _BarnesandNoble.com_ link to find and buy a paperback on the topic. Happy
 reading!**
 
-[![](metacrwl.gif)](http://www.metacrawler.com/)  
+![](metacrwl.gif)  
   
-[![](srchpals.gif)](http://www.pals.msus.edu/webpals/)  
+![](srchpals.gif)  
 ![](http://barnesandnoble.bfast.com/booklink/serve?sourceid=42834&categoryid=searchby)
 ![](barnes.gif)  
 ---  
@@ -105,37 +104,37 @@ reading!**
 **Week**|  **Topic/Focus**|  **Reading Assignment**|  **Coordinator(s)**  
 **Week 1** |  Overview & Introduction | None | Dann  
 **Week 2** |  Biology in Context  
-[Study Questions](mayr1.htm) | Mayr 1-146 | Dann  
+Study Questions | Mayr 1-146 | Dann  
 **Week 3** |  Taxonomy & Systematics  
-[Study Questions](quest2.htm) | Mayr 147-297 | Diane & Chris  
+Study Questions | Mayr 147-297 | Diane & Chris  
 **Week 4** |  Pre-Darwinian Evolutionary Ideas  
-[Study Questions](b4darwin.html) | Mayr 300-393 | Russ & Amy  
+Study Questions | Mayr 300-393 | Russ & Amy  
 **Week 5** |  Charles Darwin  
-[Study Questions](darwinquest.html) | Mayr 395-534 | Scott & Mike  
+Study Questions | Mayr 395-534 | Scott & Mike  
 **Week 6** |  The Modern Synthesis  
-[Study Questions](modsynth.htm) | Mayr 535-627  
-[Mid-Term Reaction Essay Topic](reactone.htm) | Amy & Susan  
+Study Questions | Mayr 535-627  
+Mid-Term Reaction Essay Topic | Amy & Susan  
 **Week 7** |  Theories of the Gene  
-[Study Questions](genetheo.htm) | Mayr 629-828  
+Study Questions | Mayr 629-828  
 (Reaction Paper I Due) | Dana & Brian  
 **Week 8** |  Adaptation & Development  
-[Study Questions](adapt.htm) | Hull & Ruse 1-146 | Scott & John  
+Study Questions | Hull & Ruse 1-146 | Scott & John  
 **Week 9** |  Units & Levels of Selection  
-[Study Questions](units.htm) | Hull & Ruse 147-347 | Diane & Dave  
+Study Questions | Hull & Ruse 147-347 | Diane & Dave  
 **Week 10** |  Human Nature/Evol. Epistemology  
-[Study Questions](humanatr.htm) | Hull & Ruse 369-488 | Russ & Mike  
+Study Questions | Hull & Ruse 369-488 | Russ & Mike  
 **Week 11** |  Human Genome Project  
-[Study Questions](humgene.htm) | Hull & Ruse 489-586 | Dana & Matt  
+Study Questions | Hull & Ruse 489-586 | Dana & Matt  
 **Week 12** |  Progress & Complexity  
-[Study Questions](progress.htm) | Hull & Ruse 587-668  
+Study Questions | Hull & Ruse 587-668  
 Select Reaction Paper Topic | Susan & Dave  
 **Week 13** |  Design & Creationism  
-[Study Questions](creation.htm) | Hull & Ruse 669-764  
+Study Questions | Hull & Ruse 669-764  
 (Reaction Paper II Due -- optional) | Brian  
 **Week 14** |  What is life?  
-[Study Questions](whatis1.htm) | Murphy & O'Neill 1-66 | Matt & John  
+Study Questions | Murphy & O'Neill 1-66 | Matt & John  
 **Week 15** |  New Physics, New Biology?  
-[Study Questions](newphysics.htm) | Murphy & O'Neill 67-130 | Sean & Chris  
+Study Questions | Murphy & O'Neill 67-130 | Sean & Chris  
 **Week 16** |  Do the laws of nature evolve? | Murphy & O'Neill 131-180 (Final
 Essays Due | Sean  
   

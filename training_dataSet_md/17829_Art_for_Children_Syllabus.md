@@ -6,12 +6,10 @@ bottom.  Viktor Lowenfeld would have said this child is in the pre-schematic
 developmental stage. As we learn to recognize and acknowledge a child's
 developmental stage, we can more appropriately foster their growth and
 learning Visit These Links for the  
-> Art for Children Course [Class
-Calendar](http://www.goshen.edu/art/ed/309Cal.html)  
-> [First Studio Assignment -
-Montage](http://www.goshen.edu/art/ed/Montage.html)  
-> [Field Teaching](http://www.goshen.edu/art/ed/fieldtch.html)  
-> [List of Assignments](http://www.goshen.edu/art/ed/309assig.html)
+> Art for Children Course Class Calendar  
+> First Studio Assignment - Montage  
+> Field Teaching  
+> List of Assignments
 
 |
 
@@ -27,16 +25,16 @@ Marvin Bartel, Instructor
   * Learning Methods
   * Art Education Journal Assignment
   * Textbook and Reading
-  * [Assignments](http://www.goshen.edu/art/ed/309assig.html)
-  * [Bibliography](http://www.goshen.edu/art/ed/BIBLI2.html) of Books, Periodicals, and other resources
+  * Assignments
+  * Bibliography of Books, Periodicals, and other resources
   * Contacting the Instructor
   * How Good Grades are Earned
   * Grading Our Artwork
-  * [About the Instructor](http://www.goshen.edu/~marvinpb/MB_bio.htm)
+  * About the Instructor
   * Group Learning
   * State of Indiana - Fine Arts Standards for All Classroom Teachers
   
-[Back to Art Education Home Page](http://www.goshen.edu/art/ed/A4Contnt.htm)
+Back to Art Education Home Page
 
   
 ---|---  
@@ -123,24 +121,23 @@ technology, with our classroom and our labs serving as a place and time to
 touch base.
 
 Details of the schedule are not complete at the time of this update.  E-mail
-the instructor if you need updated details. [marvinpb@goshen.edu](mailto:
-marvinpb@goshen.edu)
+the instructor if you need updated details. marvinpb@goshen.edu
 
 In addition to class time, students are expected to spend an average of 4 to 6
 hours each week on preparation for this class.  This time is used for:
 
   * reading e-mail from the instructor or from other art teachers
-  * reading [assignments](http://www.goshen.edu/art/ed/309assig.html) 
-  * locating and [studying material](http://www.goshen.edu/art/ed/webquest.html) on the Internet such as WebQuests.
-  * attending [Topics and Issues](http://www.goshen.edu/art/ed/topics&i.html) sessions
+  * reading assignments 
+  * locating and studying material on the Internet such as WebQuests.
+  * attending Topics and Issues sessions
   * listening to or watching tapes - some on reserve in library
-  * writing [assignments](http://www.goshen.edu/art/ed/309assig.html)
-  * working on [art compositions](http://www.goshen.edu/art/ed/Montage.html)
+  * writing assignments
+  * working on art compositions
   * assessing art works
   * visiting and responding to art in galleries and museums
   * class preparation 
   * completing assignments
-  * [field teaching](http://www.goshen.edu/art/ed/fieldtch.html)
+  * field teaching
   * study time for tests
 
 top of page
@@ -158,17 +155,15 @@ account to automatically forward all your messages to your active account at
 home. The Shertz Computer Center staff can help you do this.  If this is does
 not work for you, please send the instructor your home e-mail address
 immediately so it can be added to the class list e-mail addresses.
-[marvinpb@goshen.edu](mailto: marvinpb@goshen.edu)
+marvinpb@goshen.edu
 
 * * *
 
 **Contacts with the Instructor** Phone 533-0171 until 10 p.m.   E-mail at any
-hour: [marvinpb@goshen.edu](mailto: marvinpb@goshen.edu)   The office is in
-the Visual Arts building in Room VA13.  The instructor's
-[schedule](http://www.goshen.edu/~marvinpb/Scheds99.html) is posted on the
-web.Phone or E-mail with your questions, comments, or for an appointment with
-the instructor.  Your questions, ideas, and input about the course are welcome
-and needed.
+hour: marvinpb@goshen.edu   The office is in the Visual Arts building in Room
+VA13.  The instructor's schedule is posted on the web.Phone or E-mail with
+your questions, comments, or for an appointment with the instructor.  Your
+questions, ideas, and input about the course are welcome and needed.
 
 **Art Education Journal/Sketchbook    **top of page Each student keeps a
 personal Art Education Journal/Sketchbook. Binders and some paper will be
@@ -177,7 +172,7 @@ provided in class.  The Journal/Sketchbook contains:
   * Dated sketches and other projects done in class as drawing ritual
   * Your thoughts about teaching/learning art - questions - lessons - theories \- reflections
   * Artwork and your journal from the Pass It On assignment
-  * Responses to Art Department [Topics and Issues](http://www.goshen.edu/art/ed/topics&i.html)
+  * Responses to Art Department Topics and Issues
   * Samples from Artsednet Talk - the e-mail discussion group of art teachers
   * The cover is designed by you as a Self-Portriat Photomontage
   * Other materials and assignments that we will add 
@@ -195,13 +190,12 @@ Simpson and others, 1998
 > Teaching is a profession. **A ttendance** and punctuality habits rank very
 high for teacher employability. Any student with a poor attendance record or a
 record of arriving late to class will be passed over by most employers. Attend
-regularly (no automatic class cuts).  Use the phone at 533-0171 or
-[e-mail](mailto: marvinpb@goshen.edu) to contact the instructor if you have a
-field trip, experience illness, or other serious problems preventing your
-attendance. You are responsible for what you missed (excused or not).  You
-grade is effected if the missed work is not completed or if the absence is not
-justified.  You grade is effected more if both incomplete work and unjustified
-absences occur.
+regularly (no automatic class cuts).  Use the phone at 533-0171 or e-mail to
+contact the instructor if you have a field trip, experience illness, or other
+serious problems preventing your attendance. You are responsible for what you
+missed (excused or not).  You grade is effected if the missed work is not
+completed or if the absence is not justified.  You grade is effected more if
+both incomplete work and unjustified absences occur.
 
 **Participate Actively**
 
@@ -235,8 +229,7 @@ notebooks or computer form edges).   Handwritten papers are **not** accepted
 except when assigned to be written during class.   Late work gets a lower
 grade. Most of the assignments prepare you for field teaching. Some
 assignments are done in groups and you are also evaluated by your peers.  
-> [For a list of anticipated assignments click
-here](http://www.goshen.edu/art/ed/309assig.html).
+> For a list of anticipated assignments click here.
 
 >
 
@@ -246,14 +239,13 @@ sessions the best you can. A partner or planning group is useful.
 
 >
 
-> For a good grade in **[F ield
-Teaching](http://www.goshen.edu/art/ed/fieldtch.html)**:  
+> For a good grade in **F ield Teaching**:  
 > a. Making contacts with parents and children promptly and be prompt and
 reliable.  Be professional.  
-> b. Plan lessons that include all the parts of a good lesson (see [Planning
-to Teach Art](http://www.goshen.edu/art/ed/artlsn.html))  
+> b. Plan lessons that include all the parts of a good lesson (see Planning to
+Teach Art)  
 > c. Teach the parts of your lessons or unit in the right sequence (see
-[Planning to Teach Art](http://www.goshen.edu/art/ed/artlsn.html))  
+Planning to Teach Art)  
 > d. Practicing ahead of time with all materials and visual aides used.
 Otherwise, things get overlooked.  
 > e. You must test the tape recorder ahead of time in the setting you plan to
@@ -311,9 +303,9 @@ thoughtful component.  Most students do well to **form a study group** to quiz
 each other over factual material.   Additionally, such a group is a good way
 to **discuss options for the thoughtful situation questions**.   Good teachers
 solve many classroom problems through discussions with their peers.  I have
-put down some [things that have worked for me to get **better test
-grades**](http://www.goshen.edu/~marvinpb/grades.html) when I was a student.  
-> [Click here to see the page.](http://www.goshen.edu/~marvinpb/grades.html)
+put down some things that have worked for me to get **better test grades**
+when I was a student.  
+> Click here to see the page.
 
 >
 
@@ -334,13 +326,11 @@ artwork, but this is not for the purpose of _grading_ it in this class.
 
 >
 
-> Even though it is not graded in this course, artwork is often graded. [Click
-here](http://www.goshen.edu/art/ed/rubric2.html) to see an example of a rubric
-used by art teachers when evaluating artwork and/or when the grading of
-artwork is required by the school. [Click
-here](http://www.goshen.edu/art/ed/critiqueform.html) to see an artwork
-critique form that an art teacher could use to help students discuss and learn
-the merits of an artwork.
+> Even though it is not graded in this course, artwork is often graded. Click
+here to see an example of a rubric used by art teachers when evaluating
+artwork and/or when the grading of artwork is required by the school. Click
+here to see an artwork critique form that an art teacher could use to help
+students discuss and learn the merits of an artwork.
 
 >
 
@@ -458,18 +448,16 @@ assessments is part of learning to teach.
 Teachers often complain about the need to give grades. Sometimes subjects like
 art are evaluated by other methods than by standard grades. The above form is
 used to grade group work on class assignments.  It would never be used to
-grade the artwork.  This [link](http://www.goshen.edu/art/ed/rubric2.html)
-shows a rubric for artwork.  
+grade the artwork.  This link shows a rubric for artwork.  
 
 * * *
 
-[Fine Arts Teaching Standards](http://www.IN.gov/psb/future/fine_art.htm)
-\---  Indiana  
-<http://www.IN.gov/psb/future/fine_art.htm>
+Fine Arts Teaching Standards   \---  Indiana  
+http://www.IN.gov/psb/future/fine_art.htm
 
 National Teaching Standards by the Council of Chief State School Officers  
-[Draft Standards For Teachers](http://www.ccsso.org/intascst.html#draft)  
-<http://www.ccsso.org/intascst.html#draft>  
+Draft Standards For Teachers  
+http://www.ccsso.org/intascst.html#draft  
 
 
 top of page
@@ -482,87 +470,62 @@ Visit These
 Art Education Links  
 by Marvin Bartel  
 ********************  
-[Art Ed Links](http://www.goshen.edu/art/ed/art-ed-links.html)  annotated
-2002 UPDATE  
-[Art Lesson Examples](http://www.goshen.edu/%7Emarvinpb/lessons/lessons.html)  
-[Art and National Tragedy](http://www.goshen.edu/art/ed/non-violence.html)  
-[Art History WebQuest](http://www.goshen.edu/art/ed/art-history-webquest.html)
-NEW IN 2002  
-[Artroom Design](http://www.goshen.edu/art/ed/artroom.html)  NEW IN 2002  
-[Aesthetics and Ethics in Everyday
-Life](http://www.goshen.edu/art/ed/housetor.html)  
-[Bird Ritual](http://www.goshen.edu/art/ed/Bird.html) \- multisensory warm up  
-[Creativity **Killers**](http://www.goshen.edu/art/ed/creativitykillers.html)
-in the **art room**  
-[Conversation Game](http://www.goshen.edu/art/ed/self.html) to get  
+Art Ed Links  annotated  2002 UPDATE  
+Art Lesson Examples  
+Art and National Tragedy  
+Art History WebQuest  NEW IN 2002  
+Artroom Design  NEW IN 2002  
+Aesthetics and Ethics in Everyday Life  
+Bird Ritual \- multisensory warm up  
+Creativity **Killers** in the **art room**  
+Conversation Game to get  
 **ideas** for artwork NEW IN 2002  
-[Creativity Links](http://www.goshen.edu/art/ed/creativitylinks.html)  
-[Creative Teaching](http://www.goshen.edu/~marvinpb/arted/tc.html)  
-[Critique in the Art Class](http://www.goshen.edu/art/ed/critique1.html)  NEW
-IN 2002  
-[Critique Notes](http://www.goshen.edu/art/ed/critique-page-2.html) printable
-NEW IN 2002  
-[Critique Form](http://www.goshen.edu/art/ed/critiqueform.html) printable NEW
-IN 2002  
-[Cubism Lesson](http://www.goshen.edu/~marvinpb/lessons/cubism.html)
-**process** centered  
-[Drawing Lesson](http://www.goshen.edu/art/ed/westv.html) with viewfinders  
-[Drawing Lesson](http://www.goshen.edu/~marvinpb/lessons/rabbit.html) with
-blinders   NEW IN 2002  
-[Drawing is Basic](http://www.goshen.edu/art/ed/drawingisbasic.html) by
-Unsworth  
-[Drawing for the "untalented"](http://www.goshen.edu/art/ed/talent.html)  
-[Practice Shading](http://www.goshen.edu/art/ed/shading.html) NEW IN 2002  
-[Elements and Principles](http://www.goshen.edu/art/ed/Compose.htm)  
-[Teaching Observatoin Drawing](http://www.goshen.edu/art/ed/draw.html)  NEW IN
-2002  
-[Teaching Shading in Drawing](http://www.goshen.edu/art/ed/shading.html)  NEW
-IN 2002  
-[Everyday Life Art Choices](http://www.goshen.edu/art/ed/housetor.html)  
-[Good and Bad Art Teaching](http://www.goshen.edu/art/ed/answer.html)  
-[Ideas for Art Content](http://www.goshen.edu/art/ed/self.html)  NEW IN 2002  
-[Images from the Internet for
-teaching](http://www.goshen.edu/art/ed/images.html) NEW in 2002  
-[Learning to Learn to Draw](http://www.goshen.edu/art/ed/westv.html)  
-[Lesson Planning](http://www.goshen.edu/art/ed/artlsn.html)  2002 UPDATE  
-[Lesson Idea Development](http://www.goshen.edu/art/ed/LesnIdea.html)  2002
-UPDATE  
-[Montage Lesson](http://www.goshen.edu/art/ed/Montage.html)  2002 UPDATE  
-[Creatively Teaching **Multicultural**
-Art](http://www.goshen.edu/art/ed/multiculturalart.html) Goshen  
-[Creatively Teaching Multicultural
-Art](http://www.iteachnet.org/~david/oct_30_2000_marvin_bartel_multiculturalart.html)
-at iteach  
-[Observing in the Art Room](http://www.goshen.edu/art/ed/observ.htm) 2002
-UPDATE  
-[Percy Principles of Composition](http://www.goshen.edu/art/ed/percy1.html)
-NEW IN 2002  
-[Preschool Art](http://www.goshen.edu/art/ed/let2pre.htm)  
-[Rituals in the Art Classroom](http://www.goshen.edu/art/ed/ritual.html) a
-Favorite Essay  
-[Rituals](http://www.goshen.edu/art/ed/d-list.html) \- a list of ideas  
-[Rubric \- Assessing Artwork](http://www.goshen.edu/art/ed/rubric2.html) for
-printing  
-[Rubric \- Assessing Art Talk](http://www.goshen.edu/art/ed/rubric3.html) for
-printing  
-[Sixth Grade Sketches](http://www.goshen.edu/art/ed/young.html)  
-[Sketchbook Evaluation](http://www.goshen.edu/art/ed/sketch.html)  
-[Sources of Inspiration](http://www.goshen.edu/art/ed/quest4o.htm)  
-[Successful Third Grade](http://www.goshen.edu/art/ed/honey.html)  
-[Syllabus \- Art for Children](http://www.goshen.edu/art/ed/309Syl.html)  2002
-UPDATE  
-[Syllabus \- Secondary Sch Art](http://www.goshen.edu/art/ed/311s99.html)
-2002 UPDATE
+Creativity Links  
+Creative Teaching  
+Critique in the Art Class  NEW IN 2002  
+Critique Notes printable  NEW IN 2002  
+Critique Form printable NEW IN 2002  
+Cubism Lesson **process** centered  
+Drawing Lesson with viewfinders  
+Drawing Lesson with blinders   NEW IN 2002  
+Drawing is Basic by Unsworth  
+Drawing for the "untalented"  
+Practice Shading NEW IN 2002  
+Elements and Principles  
+Teaching Observatoin Drawing  NEW IN 2002  
+Teaching Shading in Drawing  NEW IN 2002  
+Everyday Life Art Choices  
+Good and Bad Art Teaching  
+Ideas for Art Content  NEW IN 2002  
+Images from the Internet for teaching NEW in 2002  
+Learning to Learn to Draw  
+Lesson Planning  2002 UPDATE  
+Lesson Idea Development  2002 UPDATE  
+Montage Lesson  2002 UPDATE  
+Creatively Teaching **Multicultural** Art Goshen  
+Creatively Teaching Multicultural Art at iteach  
+Observing in the Art Room 2002 UPDATE  
+Percy Principles of Composition  NEW IN 2002  
+Preschool Art  
+Rituals in the Art Classroom a Favorite Essay  
+Rituals \- a list of ideas  
+Rubric \- Assessing Artwork for printing  
+Rubric \- Assessing Art Talk for printing  
+Sixth Grade Sketches  
+Sketchbook Evaluation  
+Sources of Inspiration  
+Successful Third Grade  
+Syllabus \- Art for Children  2002 UPDATE  
+Syllabus \- Secondary Sch Art  2002 UPDATE
 
-[![](gcbannerwseal.gif)](http://www.goshen.edu/)  
+![](gcbannerwseal.gif)  
 .  
-[**Search** Goshen](http://www.goshen.edu/search/)  
-[Teaching Ceramics](http://www.goshen.edu/art/DeptPgs/CerLinks.htm) Marvin
-Bartel  
-  Marvin Bartel [Home](http://www.goshen.edu/~marvinpb/MB_Home.htm)  
-  Marvin Bartel [Courses](http://www.goshen.edu/~marvinpb/MB_Cours.htm)  
-  [Art Department](http://www.goshen.edu/art/DeptPgs/ArtDHome.htm)  
-  [Art Gallery](http://www.goshen.edu/art/exhsch3.htm)   2002 UPDATE  
+**Search** Goshen  
+Teaching Ceramics Marvin Bartel  
+  Marvin Bartel Home  
+  Marvin Bartel Courses  
+  Art Department  
+  Art Gallery   2002 UPDATE  
 .  
 ---  
   
@@ -575,7 +538,7 @@ Bartel
 
 >
 
-> [Back to Art Education Home Page](http://www.goshen.edu/art/ed/A4Contnt.htm)  
+> Back to Art Education Home Page  
 > top of page  
   
   

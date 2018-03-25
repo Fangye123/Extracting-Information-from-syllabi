@@ -2,9 +2,8 @@ Geoffrey de Villehardouin
 ![](http://history.hanover.edu/pictures/bars/aqua_thin.gif)  
 ** Geoffrey de Villehardouin  
 Chronicle of The Fourth Crusade and The Conquest of Constantinople  
-Excerpts from the [Original Electronic
-Text](http://www.fordham.edu/halsall/basis/villehardouin.html) at the web site
-of the Internet Medieval Sourcebook.
+Excerpts from the Original Electronic Text at the web site of the Internet
+Medieval Sourcebook.
 ![](http://history.hanover.edu/pictures/bars/aqua_thin.gif)  
 
 ### CONFLICT BETWEEN THE GREEKS AND LATINS IN CONSTANTINOPLE-BURNING OF THE
@@ -352,8 +351,8 @@ distribution in print form for educational purposes and personal use. If you
 do reduplicate the document, indicate the source. No permission is granted for
 commercial use. (c)Paul Halsall Apr 1996 halsall@murray.fordham.edu  
 ![](http://history.hanover.edu/pictures/bars/aqua_thin.gif)  
-[Return to the syllabus. ](http://history.hanover.edu/courses/344w00lu.html)  
-[Return to the History Department.](http://history.hanover.edu)  
+Return to the syllabus.  
+Return to the History Department.  
 ![](http://history.hanover.edu/pictures/bars/aqua_thin.gif)  
 **
 

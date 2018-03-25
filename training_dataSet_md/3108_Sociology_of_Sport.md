@@ -63,9 +63,9 @@ in society?" pp. 30-54.
 
 II. From Gambol to Game to Grunge
 
-![](orange-b.gif)[ Greeks](http://web.utk.edu/~dhasting/grk.htm)  
-![](orange-b.gif)[ Romans](http://web.utk.edu/~dhasting/rom.htm)  
-![](orange-b.gif)[ Medieval](http://web.utk.edu/~dhasting/med.htm)  
+![](orange-b.gif) Greeks  
+![](orange-b.gif) Romans  
+![](orange-b.gif) Medieval  
 
   * History--Sport as a religious activity; as status-group activity; as a vehicle for controlling the working class; as a commercial enterprise. 
 
@@ -76,8 +76,8 @@ history?" pp. 56-80.
 
   1. Rise of Modern Sport in United States--Status life styles, WASPs and ethnics, religion, technology, and commercialism  
 
-![](orange-b.gif)[ Factors & Modern Sport Characteristics linked to
-Globalization of Sport](http://web.utk.edu/~dhasting/global.htm)  
+![](orange-b.gif) Factors & Modern Sport Characteristics linked to
+Globalization of Sport  
 
   * Culture and Sport (Optional section - expand for semester system) 
 ![](eye.gif)
@@ -135,8 +135,8 @@ IV. Sports Lifecourse--The Serious Leisure Career
 Coakley. Chapter 8 "Coaches: How do they fit into sports experiences?" (5th
 edition).
 
-![](orange-b.gif)[ Suggested I lecture from this text **COLLEGE SWIMMING
-COACH**](http://web.utk.edu/~dhasting/swim/coach/book.htm)  
+![](orange-b.gif) Suggested I lecture from this text **COLLEGE SWIMMING
+COACH**  
 
 V. Positive consequences of sports participation - Sports participation and
 academic performance, aspiration, and collegiate success.
@@ -201,46 +201,39 @@ Coakley. Chapters 13, 15, & 16.(Optional)
 
 **SUGGESTED WEBSITES**
 
-![](orange-b.gif)[ Scholarly sport sites-University of Calgary THE SINGLE BEST
-SITE ON SPORTS](http://www.ucalgary.ca/library/ssportsite)  
-![](orange-b.gif)[ Best site for Swimming
-Links](http://hcs.harvard.edu/~swim/links/)  
+![](orange-b.gif) Scholarly sport sites-University of Calgary THE SINGLE BEST
+SITE ON SPORTS  
+![](orange-b.gif) Best site for Swimming Links  
 ![](rb.gif) For selected sources of information (print  & electronic) on sport
-business prepared by faculty at University of Memphis, see: [Sport Business
-sources](http://www.hmse.memphis.edu/bureau.html)  
+business prepared by faculty at University of Memphis, see: Sport Business
+sources  
 
 ![](cy_bar.gif) Courses Taught
 
 Undergraduate
 
-![](orange-b.gif)[ Soc 311-Sociology of the
-Family](http://web.utk.edu/~dhasting/family.htm)
+![](orange-b.gif) Soc 311-Sociology of the Family
 
-![](orange-b.gif)[ Soc 331-Introduction to Research
-Methods](http://web.utk.edu/~dhasting/soc331.htm)
+![](orange-b.gif) Soc 331-Introduction to Research Methods
 
-![](orange-b.gif)[ Soc 405-Sociology of
-Sport](http://web.utk.edu/~dhasting/soc405.htm)
+![](orange-b.gif) Soc 405-Sociology of Sport
 
-![](orange-b.gif)[ Soc 462-Population
-Problems](http://web.utk.edu/~dhasting/pop.htm)
+![](orange-b.gif) Soc 462-Population Problems
 
 |
 
 Graduate
 
-![](orange-b.gif)[ Soc 531-Methods of Sociological
-Research](http://web.utk.edu/~dhasting/grad_meth.htm)
+![](orange-b.gif) Soc 531-Methods of Sociological Research
 
-![](orange-b.gif)[ Soc 563-Demographic
-Techniques](http://web.utk.edu/~dhasting/soc563.htm)
+![](orange-b.gif) Soc 563-Demographic Techniques
 
-![](orange-b.gif)[ Soc 534-Adv. Sociological Analysis (formerly taught with
-Suzanne Kurth)](http://web.utk.edu/~dhasting/soc534.htm)
+![](orange-b.gif) Soc 534-Adv. Sociological Analysis (formerly taught with
+Suzanne Kurth)
 
-![](orange-b.gif)[ Soc 665-Advanced Topics in Energy, Environment, and Natural
+![](orange-b.gif) Soc 665-Advanced Topics in Energy, Environment, and Natural
 Resources: Inequalities in Environmental Risk (formerly taught with Sherry
-Cable)](http://web.utk.edu/~dhasting/soc665.htm)
+Cable)
 
 ![](orange-b.gif)Seminar in Growth and Sustainability (with Sherry Cable)  
   
@@ -251,7 +244,7 @@ Courses Taught in Physical Education
 ![](orange-b.gif)Advanced Competitive Swimming (Available on request - Snail
 mail)(Coaching resume available on E-Mail request)  
   
-![](home.gif)[ Academic Resume](http://web.utk.edu/~dhasting)  
+![](home.gif) Academic Resume  
   
 
 ![](celtic_b.jpg)  

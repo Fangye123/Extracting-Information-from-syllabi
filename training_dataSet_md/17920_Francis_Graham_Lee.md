@@ -1,5 +1,4 @@
-**[![Saint Joseph's University
-Home](saint_josephs_univ.gif)](http://www.sju.edu/)**  
+**![Saint Joseph's University Home](saint_josephs_univ.gif)**  
 ---  
 **- POLITICAL SCIENCE DEPARTMENT**  
 **-** **C HAIRMAN**  
@@ -13,14 +12,13 @@ Ph.D. in Political Science from the University of Pennsylvania.
 >  He is currently Chairman of Political Science at Saint Joseph's University
 in Philadelphia where he has also served as President of the Faculty Senate,
 Dean of the University College, and Director of Graduate Programs. He now
-serves as Coordinator of the **[University's Washington
-Semester](dc_internship.htm)** and Director of the Legal Studies (Para-Legal)
-Program. In additional to these responsibilities, Lee serves as advisor for
-the ETA NU Chapter of the national political science honor society,  [ **PI
-SIGMA ALPHA**](http://www.h-net.msu.edu/%7Epsa/). The chapter has been awarded
-grants three times by the national office in recognition of outstanding
-achievements by its student members. The chapter sponsors an annual
-distinguished lecture. Past lecturers have included Anthony Cardinal
+serves as Coordinator of the **University's Washington Semester** and Director
+of the Legal Studies (Para-Legal) Program. In additional to these
+responsibilities, Lee serves as advisor for the ETA NU Chapter of the national
+political science honor society,   **PI SIGMA ALPHA**. The chapter has been
+awarded grants three times by the national office in recognition of
+outstanding achievements by its student members. The chapter sponsors an
+annual distinguished lecture. Past lecturers have included Anthony Cardinal
 Bevilacqua, Archbishop of Philadelphia, the Honorable Lawrence Pierce, Judge
 of the United States Court of Appeals for the Second Circuit, and the
 Honorable Stephen J McEwen, President Judges of the Superior Court of the
@@ -33,9 +31,9 @@ introductory course in American Government and upper division courses on
 Parties, Interest Groups  & Voting Behavior as well as a course on
 Philadelphia Politics. During the summer, Lee offers, in alternate years,
 either a three week study tour of Canada (Quebec City, Ottawa, and Toronto)
-which introduces students to Canadian government and society [**POL
-2391**](canadian_study_tour.htm) or a four week study  tour of Greece
-examining issues of law and democracy **POL 2041**.  
+which introduces students to Canadian government and society **POL 2391** or a
+four week study  tour of Greece examining issues of law and democracy **POL
+2041**.  
 >  
   
 - **Publications**  
@@ -63,20 +61,20 @@ under contract with ABC-CLIO for a book on equal protection issues.
 past President of the Northeast Association of Pre-Law Advisors, a former
 Secretary Treasurer of the Association of Graduate Schools at Catholic
 Colleges and Universities, and past president of the Ethnic Studies
-Association. He currently edits **[NAPLA Notes](http://napla.org/)** , the
-oldest journal serving the needs of pre-law advisors and their students and is
-the author of the section on financial aid in **[The Handbook for Pre-Law
-Advisors](http://www.planc.org/)**. For the past  six years, Dr. Lee has
-offered a workshop at the annual meeting of the American Political Science
-Association on pre-law advising for political scientists. Under the aegis of
-Freedoms Foundation of Valley Forge, he has offered seminars on constitutional
-law topics for high school and college teachers and works with the Union
-League of Philadelphia on citizenship forums for high school students. Working
-with Dr. Bruce Murphy of Lafayette College, Lee recently offered a one week
-prototype of a Governor's School in Government and Public Service for students
-in Chester County. He has served third terms as a Commonwealth Speaker for the
-Pennsylvania Humanities Council, speaking on issues that include judicial
-selection, the right of privacy as well as church-state matters.  
+Association. He currently edits **NAPLA Notes** , the oldest journal serving
+the needs of pre-law advisors and their students and is the author of the
+section on financial aid in **The Handbook for Pre-Law Advisors**. For the
+past  six years, Dr. Lee has offered a workshop at the annual meeting of the
+American Political Science Association on pre-law advising for political
+scientists. Under the aegis of Freedoms Foundation of Valley Forge, he has
+offered seminars on constitutional law topics for high school and college
+teachers and works with the Union League of Philadelphia on citizenship forums
+for high school students. Working with Dr. Bruce Murphy of Lafayette College,
+Lee recently offered a one week prototype of a Governor's School in Government
+and Public Service for students in Chester County. He has served third terms
+as a Commonwealth Speaker for the Pennsylvania Humanities Council, speaking on
+issues that include judicial selection, the right of privacy as well as
+church-state matters.  
 >  
 >  Lee also is a member of the Liaison Advisory Board of the Washington
 Center, the nation's largest provider of internships. Approximately, fifteen
@@ -108,13 +106,13 @@ both the Faculty & Education and Planning Committees.
 
 | **i Introduction to American Government & Politics** |
 
-**[view syllabus](1011lee.htm)**  
+**view syllabus**  
   
 **POL 1091**
 
 | **i Introduction to Political Science Research** |
 
-**[view syllabus](1091.htm)**  
+**view syllabus**  
   
 **i Political Theory**  
   
@@ -123,7 +121,7 @@ iiiiiiii(2045) **
 
 | **i Legal Theory ** |
 
-**[view syllabus](20412045sum03.htm)**  
+**view syllabus**  
   
 ** iAmerican Government and Politics**  
   
@@ -131,7 +129,7 @@ iiiiiiii(2045) **
 
 | **i Constitutional Politics** |
 
-**[view syllabus](2151.htm)**  
+**view syllabus**  
   
 **POL 2161**
 
@@ -145,7 +143,7 @@ iiiiiiii(2045) **
 
 | **_i_ Canadian Government and Politics** |
 
-**[view syllabus](syllabus-canada2002.htm)**  
+**view syllabus**  
   
 **i Seminars**  
   
@@ -153,20 +151,20 @@ iiiiiiii(2045) **
 
 | **i Seminar on Freedom of Religion** |
 
-**[view syllabus](2731.htm)**  
+**view syllabus**  
   
 **POL 2801 iiiiiiii2811 **
 
 | **i Washington Internship I-II** |
 
-**[view syllabus](dc_internship.htm)**  
+**view syllabus**  
   
 **  
 **
 
 **For more information please contact: i**
 
-| **[i Dr. Francis Graham Lee](lee.htm)**  
+| **i Dr. Francis Graham Lee**  
 ---|---  
   
 **Office:** **i**
@@ -188,15 +186,14 @@ iFridays: 2-3**
   
 **e-mail: i**
 
-| [**i glee@sju.edu**](mailto:glee@sju.edu)  
+| **i glee@sju.edu**  
   
-[Return to Political Science Home Page](index.htm)  
+Return to Political Science Home Page  
   
 ---  
   
 Site designed and developed by: Jane Frangiosa, Saint Joseph's University
-Political Science Department Secretary.
-[jfrangio@sju.edu](mailto:jfrangio@sju.edu)  
+Political Science Department Secretary. jfrangio@sju.edu  
   
 ---  
   

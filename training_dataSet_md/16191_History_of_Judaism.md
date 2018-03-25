@@ -183,5 +183,5 @@ Baskin, 222-288
 >
 
 > ##### For additional information about the course,  
->  contact [rajones@uiuc.edu](mailto:rajones@uiuc.edu).
+>  contact rajones@uiuc.edu.
 

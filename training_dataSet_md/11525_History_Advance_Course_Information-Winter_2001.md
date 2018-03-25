@@ -23,7 +23,7 @@ Check with instructor the first day of class for any changes.
 Winter 2001  
 Instructor: Alexandra Minna Stern
 
-Go to: <http://ic.ucsc.edu/~amstern/hist25b>
+Go to: http://ic.ucsc.edu/~amstern/hist25b
 
 [top of page]
 
@@ -476,7 +476,7 @@ Writing_ (University of California Press, 1998)
 
 ### Syllabus:
 
-Go to: <http://ic.ucsc.edu/~wyaryan/hist147a/syllabus.html>
+Go to: http://ic.ucsc.edu/~wyaryan/hist147a/syllabus.html
 
 November 6, 2000
 
@@ -596,8 +596,8 @@ Call number: 60508
 Meetings: Thursdays 4-7 PM; Social Science 2 Room 171  
 Winter 2001
 
-For more information on this class, please go to [
-http://humwww.ucsc.edu/history/history196y](http://humwww.ucsc.edu/history/history196y)
+For more information on this class, please go to
+http://humwww.ucsc.edu/history/history196y
 
 [ top of page]
 

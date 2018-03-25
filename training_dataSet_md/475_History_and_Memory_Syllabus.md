@@ -3,7 +3,7 @@ in the Modern South,** **1865 to the Present**
   **W. Fitzhugh Brundage**  
 **Turlington 4111**  
 **392-0271** | **Office Hours: Monday 8-10 am; Thursday, 10-12 am**  
-**email:[brundage@history.ufl.edu](mailto:brundage@history.ufl.edu)**  
+**email:brundage@history.ufl.edu**  
 ---|---  
   
 * * *

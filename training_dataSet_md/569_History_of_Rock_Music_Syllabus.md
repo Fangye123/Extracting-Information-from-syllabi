@@ -13,11 +13,11 @@ Music History 120 Section 67499 Fall '01
 Leslie C. Gay Jr., Ph.D.  
 227 Music Bldg.  
 
-  * Phone: 974-7525; History of Rock E-mail: [histrock@utk.edu](mailto:histrock@utk.edu)
+  * Phone: 974-7525; History of Rock E-mail: histrock@utk.edu
 
   * Office hours: MWF 10 - 11 am, and by appointment. The quickest way to get answers to questions is by e-mail (see address above).
 
-  * TAs: Ellie Peebles, [MignonERP@aol.com](mailto:MignonERP@aol.com); Trey Murphy, [Requiem88@aol.com](mailto:Requiem88@aol.com); Bob Leopold, [rleopold@utk.edu](mailto:rleopold@utk.edu) 
+  * TAs: Ellie Peebles, MignonERP@aol.com; Trey Murphy, Requiem88@aol.com; Bob Leopold, rleopold@utk.edu 
 
 **COURSE DESCRIPTION**
 
@@ -30,9 +30,9 @@ language.)
 
   * DeCurtis, Anthony, and James Henke with Holly George-Warren eds. _The Rolling Stone Illustrated History of Rock & Roll,_ Third Edition, 1992. [This is the only purchase you must make for this class.]
 
-  * History of rock music web site. Class notes, play lists, lyric sheets, and other materials for this course at <http://www.music.utk.edu/rock/> (you can also find my section of "History of Rock Music" pages under the School of Music's "Course Materials," <http://www.music.utk.edu>).
+  * History of rock music web site. Class notes, play lists, lyric sheets, and other materials for this course at http://www.music.utk.edu/rock/ (you can also find my section of "History of Rock Music" pages under the School of Music's "Course Materials," http://www.music.utk.edu).
 
-  * Additional required listening & reading examples, on reserve through the UT Library Digital Reserve. Audio examples will be listed on our web site; URLs to our reading examples are listed below (and on the web site). You will need to go through UT's PH Alias/PH Password verification process. Read about this process at: <http://www.lib.utk.edu/~reserve/student/student_handout2.html>.
+  * Additional required listening & reading examples, on reserve through the UT Library Digital Reserve. Audio examples will be listed on our web site; URLs to our reading examples are listed below (and on the web site). You will need to go through UT's PH Alias/PH Password verification process. Read about this process at: http://www.lib.utk.edu/~reserve/student/student_handout2.html.
 
 **COURSE REQUIREMENTS**
 
@@ -84,14 +84,14 @@ o Historical Background
 READING: Garofalo, Reebee. 1997. Mass Technology and Popular Taste: The Tin
 Pan Alley Era. In _Rockin' Out: Popular Music in the USA._ Boston: Allyn and
 Bacon. [UT library digital reserve --
-<http://www.lib.utk.edu:90/files/MusicH/120/gay/39029027354871.pdf>]
+http://www.lib.utk.edu:90/files/MusicH/120/gay/39029027354871.pdf]
 
 **Mon. Aug. 27** o Emergence of Early Blues and Country Music Recordings
 
 READING: Garofalo, Reebee. 1997. Blues and Country Music: Music Media and the
 Construction of Race. In _Rockin' Out: Popular Music in the USA._ Boston:
 Allyn and Bacon. [UT library digital reserve --
-<http://www.lib.utk.edu:90/files/MusicH/120/gay/39029027354863.pdf>]
+http://www.lib.utk.edu:90/files/MusicH/120/gay/39029027354863.pdf]
 
 o From Rhythm  & Blues to Rock 'n' Roll  
 **Wed. Aug. 29** o Rhythm and Blues
@@ -111,7 +111,7 @@ Rockabilly READING: Guralnick, "Rockabilly" (67); Guralnick, "Elvis Presley"
 (21); Miller, "Jerry Lee Lewis" (73); Guralnick, Peter. 2000. Elvis, Scotty,
 and Bill. In _Rock and Roll Is Here to Stay,_ edited by W. McKeen. New York:
 W.W. Norton  & Company. [UT library digital reserve --
-<http://www.lib.utk.edu:90/files/MusicH/120/gay/39029027354814.pdf>]
+http://www.lib.utk.edu:90/files/MusicH/120/gay/39029027354814.pdf]
 
 **Fri. Sept. 7** o FILM (excerpt): _That Rhythm... Those Blues,_ directed by
 George T. Nierenberg
@@ -189,7 +189,7 @@ READING: Willis, "Janis Joplin" (382); Bangs, "The Doors" (388); Willis,
 READING: Morthland, "Jimi Hendrix" (412); Murray, Charles Shaar. 2000. Hendrix
 in Black and White. In _Rock and Roll Is Here to Stay,_ edited by W. McKeen.
 New York: W.W. Norton & Company. [UT library digital reserve --
-<http://www.lib.utk.edu:90/files/MusicH/120/gay/39029027354905.pdf>]
+http://www.lib.utk.edu:90/files/MusicH/120/gay/39029027354905.pdf]
 
 o Diversity Into the Seventies  
 **Wed. Oct. 17** o Art Rock/Jazz Rock
@@ -219,7 +219,7 @@ Reiner
 READING: Eddy, "The Metal Explosion" (465); Walser, Robert. 1994. Highbrow,
 Lowbrow, Voodoo Aesthetics. In _Microphone Fiends: Youth Music, Youth
 Culture,_ edited by A. Ross. New York: Routledge. [UT library digital reserve
--- <http://www.lib.utk.edu:90/files/MusicH/120/gay/39029027354889.pdf>]
+-- http://www.lib.utk.edu:90/files/MusicH/120/gay/39029027354889.pdf]
 
 o Punk  
 **Wed. Oct. 31** o Punk Precursors
@@ -259,7 +259,7 @@ READING: Light, "Rap and Soul: From the Eighties Onward" (682)
 READING: Decker, Jeffrey Louis. 1994. The State of Rap: Time and Place in Hip
 Hop Nationalism. In _Microphone Fiends: Youth Music, Youth Culture,_ edited by
 A. Ross. New York: Routledge. [UT library digital reserve --
-<http://www.lib.utk.edu:90/files/MusicH/120/gay/39029027354897.pdf>]
+http://www.lib.utk.edu:90/files/MusicH/120/gay/39029027354897.pdf]
 
 o New Prominence for Women in Rock  
 **Mon. Nov. 19** o Women in Rock
@@ -288,18 +288,17 @@ o Back to the Future
 
 READING: Reynolds, Simon. 1999. Digital Psychedelia: Sampling and the
 Soundscape. In _Generation Ecstasy._ New York: Routledge. [UT library digital
-reserve --
-<http://www.lib.utk.edu:90/files/MusicH/120/gay/39029027354707.pdf>]
+reserve -- http://www.lib.utk.edu:90/files/MusicH/120/gay/39029027354707.pdf]
 
 **Wed. Dec. 5** o Napster: Who's music is it?
 
 READING: Chuck D, and Lars Ulrich. 2000. Chuck D of Public Enemy vs. Lars
 Ulrich of Metallica -OR- Freedom of music vs. We want more control. [Web
 page]. Rapstation 2000 [cited August 12 2001]. Available from
-<http://www.rapstation.com/promo/lars_vs_chuckd.html>; Love, Courtney. 2000.
+http://www.rapstation.com/promo/lars_vs_chuckd.html; Love, Courtney. 2000.
 Courtney Love Does the Math (June 14, 2000) [Web page]. Salon.com 2000 [cited
 August 12, 2001]. Available from
-<http://www.salon.com/tech/feature/2000/06/14/love/index.html>.
+http://www.salon.com/tech/feature/2000/06/14/love/index.html.
 
 Wed. Dec. 12th, 8-10 a.m. **FINAL EXAMINATION ******
 
@@ -307,21 +306,21 @@ Wed. Dec. 12th, 8-10 a.m. **FINAL EXAMINATION ******
 
   
 
-|  |  | ****[![hendrix_atlanta_pop_small
-picture](images/hendrix_atlanta_pop_small.gif)](index.html)  
+|  |  | ****![hendrix_atlanta_pop_small
+picture](images/hendrix_atlanta_pop_small.gif)  
 ---  
   
-[Home](Index.html)  
-[Announcements](index.html#announcements)  
-[Class Syllabus](syllabus.html)  
-[Grades](http://orpheus.la.utk.edu:591/rockgrades/)  
-[Online Journals](journals.html)  
-[Class Outlines](outlines.html)  
-[Listening Materials](materials.html)  
-[Review Pages](reviews.html)  
-[Rock Links](links.html)  
-[School of Music](http://www.music.utk.edu/)  
-[Send us Email](mailto:histrock@utk.edu)  
+Home  
+Announcements  
+Class Syllabus  
+Grades  
+Online Journals  
+Class Outlines  
+Listening Materials  
+Review Pages  
+Rock Links  
+School of Music  
+Send us Email  
   
 ---  
   
@@ -330,6 +329,5 @@ picture](images/hendrix_atlanta_pop_small.gif)](index.html)
 * * *
 
 All rights reserved (C) 1997-2001 Leslie C. Gay, Jr. This page was last built
-with [Frontier](http://frontier.userland.com/) on a
-[Macintosh](http://www.apple.com/hardware/), Sun, Sep 16, 2001 at 3:05:04 PM.
+with Frontier on a Macintosh, Sun, Sep 16, 2001 at 3:05:04 PM.
 

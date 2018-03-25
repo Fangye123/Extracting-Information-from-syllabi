@@ -1,7 +1,7 @@
 **Dr. Angela Boswell  
 MB 209C  
 Office Phone 230-5249  
-Email:  [boswela@hsu.edu](mailto:boswela@hsu.edu) **
+Email:  boswela@hsu.edu **
 
 **Fall 2001**
 
@@ -86,8 +86,7 @@ expected from a history paper, but also what my particular expectations are.
 acceptable) on October 9.   This bibliography will serve three purposes: 1) a
 preliminary idea of what sources are available on the chosen topic, 2) an
 opportunity for me to guide each student towards other sources, and 3)
-practice working with the _[Chicago Manual of
-Style](http://www.wisc.edu/writing/Handbook/DocChicago.html)_ formats for
+practice working with the _Chicago Manual of Style_ formats for
 bibliographies.   Although primary sources would enhance any research paper,
 they are not necessary for this term paper. **
 
@@ -258,7 +257,7 @@ with 1-inch margins.  **
 
 **Kupperman, Ch. 9, Essays ** |
 
-**[PAPER PROPOSAL DUE ](../Paper%20Proposal.htm) **  
+**PAPER PROPOSAL DUE **  
   
 **10/30 **
 
@@ -362,9 +361,9 @@ with 1-inch margins.  **
 
 
 
-[Angela Boswell Home Page](../index.html)  
-[Department of Social Science](/dept/his/index.html)  
-[Henderson State University](/index.html)
+Angela Boswell Home Page  
+Department of Social Science  
+Henderson State University
 
-[Disclaimer](/dept/ccs/disclaimer.html)
+Disclaimer
 

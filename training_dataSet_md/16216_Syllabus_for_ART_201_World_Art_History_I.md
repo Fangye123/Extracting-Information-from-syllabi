@@ -184,7 +184,7 @@ A Short Guide to Writing About Art, Sylvan Barnet, Harper Collins
 
 
 
-return to [Home Page](homepage.shtml)  
+return to Home Page  
   
   |   |  
 

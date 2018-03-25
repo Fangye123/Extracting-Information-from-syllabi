@@ -1,8 +1,8 @@
 ### ![](http://www.nyu.edu/webguide/images/torch.gif)  
 
-[New York University](http://www.nyu.edu)
+New York University
 
-[Department of History](http://www.nyu.edu/cas/dept/hist.htm)
+Department of History
 
 Fall 1997
 
@@ -53,14 +53,13 @@ _Required Books_ :
     * Aileen Kraditor, _The Ideas of the Woman Suffrage Movement_ (1981) 
     * Amy Tan, _The Joy Luck Club_ (1989) 
 
-All required books are in paperback and available for purchase at the [NYU
-Book Center](http://www.bookc.nyu.edu/main/). Copies are also on reserve in
-Bobst Library.
+All required books are in paperback and available for purchase at the NYU Book
+Center. Copies are also on reserve in Bobst Library.
 
 _Other Readings:_
 
 All other required readings (articles and documents) are available On Reserve
-at [Bobst Library](http://www.nyu.edu/library/bobst/).
+at Bobst Library.
 
   3. **Films**
 

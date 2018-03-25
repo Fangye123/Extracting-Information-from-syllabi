@@ -1,27 +1,26 @@
-**[BACK TO MAIN PAGE](history.html)**   **[About Shepherd
-College](Hist1.htm)**
+**BACK TO MAIN PAGE**   **About Shepherd College**
 
 **Studying History at  **  
    **Shepherd College**
 
-**[Is History the Right](hist3.htm)**  
-   **[Major for Me?](hist3.htm)**
+**Is History the Right**  
+   **Major for Me?**
 
-**[What Can I Do With ](hist4.htm)**  
-    **[a Major in History?](hist4.htm)**
+**What Can I Do With **  
+    **a Major in History?**
 
-**[History-Related ](hist5.htm)**  
-    **[Student Activities](hist5.htm)**
+**History-Related **  
+    **Student Activities**
 
-**[History Department Faculty](hist6.htm)**
+**History Department Faculty**
 
-**[Questions?](hist7.htm)**
+**Questions?**
 
 * * *
 
   
 Regional Map of  
-**[Shepherdstown](wvmap.htm)**
+**Shepherdstown**
 
 * * *
 
@@ -32,7 +31,7 @@ Shepherd College
 Shepherdstown, WV 25443  
 (304) 876-5329  
 (800) 344-5231 ext. 5329  
-E-mail:  [ahenriks@shepherd.edu](mailto:ahenriks@shepherd.edu)  
+E-mail:  ahenriks@shepherd.edu  
 
 * * *
 
@@ -511,8 +510,8 @@ institution of slavery in antebellum United States; the effects of Civil War
 and Reconstruction; the pursuit of self-help and democracy and repression; and
 the black renaissance and revolution. Attention will be devoted to historical
 development of the African in American cultures other than the United States.
-Prerequisites: HIST 201 or 202 or their equivalent. **[Course
-Outline/Syllabus](hist_405.htm)**
+Prerequisites: HIST 201 or 202 or their equivalent. **Course
+Outline/Syllabus**
 
 HIST 407. HISTORY OF ENGLAND TO 1603 (3)  
 A survey of British civilization from the Roman Conquest through the Tudor Age
@@ -533,8 +532,8 @@ national and international developments to the present.
 
 HIST 412. HISTORY OF RUSSIA SINCE 1855 (3)  
 A survey of late imperial and Soviet Russian history with special emphasis on
-political, social, economic, and cultural developments.  **[Course
-Outline/Syllabus](hist_412.htm)**
+political, social, economic, and cultural developments.  **Course
+Outline/Syllabus**
 
 HIST 413. TECHNIQUES OF RESEARCH (3)  
 An opportunity for independent study and preparation for graduate work.
@@ -561,8 +560,7 @@ cultural independence of neighboring states.
 
 HIST 420. MODERN EAST ASIA (3)  
 The response of China, Japan, and Korea to the challenge of the West during
-the nineteenth and twentieth centuries.  **[Course
-Outline/Syllabus](hist_420.htm)**
+the nineteenth and twentieth centuries.  **Course Outline/Syllabus**
 
 HIST 425, HIST 426. READINGS IN AMERICAN AND WESTERN HEMISPHERIC HISTORY (3
 each)  
@@ -593,8 +591,8 @@ HIST 438. SOLDIERS AND AMERICAN SOCIETY, 1861-1865 (3)
 An intensive research and writing course that examines the life of the common
 soldier during the Civil War and the society to which he belonged. The course
 includes a research trip to the National Archives and participation in the
-annual Summer Seminar hosted by the [George Tyler Moore Center for the Study
-of the Civil War](http://www.shepherd.edu/gtmcweb).
+annual Summer Seminar hosted by the George Tyler Moore Center for the Study of
+the Civil War.
 
 Go to Top
 

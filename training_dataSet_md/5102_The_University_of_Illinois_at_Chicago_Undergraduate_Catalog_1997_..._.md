@@ -8,66 +8,66 @@
 
 # Office of Admissions and Records
 
-  * [ How to Use This Catalog](AR.html#ARUSECATALOG)
-  * [ Visiting Campus](AR.html#ARCAMPUSVISIT)
-  * [ Admission Requirements and Application Procedures](AR.html#ARADMISSION)
-    * [ English Competency Requirement for All Applicants](AR.html#ARENGLCOMPET)
-    * [ Undergraduate Applications and Credentials Deadlines](AR.html#ARAPPDEADLINE)
-    * [ Beginning Freshman Applicant](AR.html#ARBEGFRESHMN)
-      * [ Beginning Freshman Admission Requirements](AR.html#ARBEGFRESHADMISS)
-      * [ General Educational Development Tests](AR.html#ARGED)
-    * [ Transfer Applicant](AR.html#ARTRANSAPP)
-      * [ Illinois Articulation Initiative](AR.html#ARIAI)
-      * [ Acceptance of Traditional Transfer Credit](AR.html#ARACCEPTTRANSCREDIT)
-      * [ Transfer Student Admission Requirements](AR.html#ARTRANSFERADMISS)
-    * [ Intercampus Transfer Applicant](AR.html#ARINTERCAMPTRANS)
-    * [ Readmission Applicant](AR.html#ARREADMITAPP)
-  * [ Nondegree Applicant](AR.html#ARNONDEGREE)
-    * [ Summer Session Only Applicant](AR.html#ARSSONLY)
-  * [ International/Immigrant Applicant](AR.html#ARINTLAPP)
-    * [ Admission Requirements](AR.html#ARINTLADMISS)
-    * [ Academic Records](AR.html#ARINTLACADREC)
-    * [ English Competency Requirements](AR.html#ARINTLENGLCOMPETENCY)
-    * [ Financial Resources Requirement](AR.html#ARFINANCERES)
-    * [ Verification of Immigrant Status](AR.html#ARINTLVERSTATUS)
-  * [ Alternative Admission Programs](AR.html#ARALTADMISS)
-    * [ Guaranteed Professional Program Admissions](AR.html#ARGPPA)
-    * [ Talented Student Program for Illinois High School Seniors](AR.html#ARTALENTHSPROG)
-    * [ Early Admission Applicant](AR.html#AREARLYADMISS)
-    * [ Admission by Special Action](AR.html#ARADMITSPECACT)
-  * [ Alternative Sources of Credit](AR.html#ARALTCREDIT)
-    * [ Credit Through ACT or SAT](AR.html#ARACTSAT)
-    * [ Credit for Military Service](AR.html#ARCREDMILITARY)
-    * [ General Educational Development Tests (GED)](AR.html#ARGED2)
-    * [ Correspondence Study](AR.html#ARCORRESPONDENCESTDY)
-    * [ Proficiency Examinations for Enrolled Students](AR.html#ARPROFEXAMSENROLLED)
-    * [ College Level Examination Program (CLEP) Credits](AR.html#ARCLEP)
-      * [ Students with CLEP Credit from Other Institutions](AR.html#ARCLEPOTHER)
-      * [ Credit Through CLEP for Current UIC Students.](AR.html#ARCLEPCURRENTUIC)
-      * [ CLEP Credits Accepted.](AR.html#ARCLEPACCEPT)
-    * [ Credit Through Advanced Placement Program (AP)](AR.html#ARAP)
-      * [ ART](AR.html#ARAPART)
-      * [ HUMANITIES](AR.html#ARAPHUMANITIES)
-      * [ SOCIAL STUDIES](AR.html#ARAPSOCSTUDY)
-      * [ NATURAL SCIENCES](AR.html#ARAPNATSMATH)
-      * [ MATHEMATICS](AR.html#ARAPMATH)
-      * [ STATISTICS](AR.html#ARAPART2)
-    * [ Credit Through the International Baccalaureate Program (IB)](AR.html#ARINTBACC)
-  * [ After Admission](AR.html#ARAFTERADMISS)
-    * [ Registration Procedures](AR.html#ARREGPROC)
-      * [ Pre-enrollment Evaluation Program/Placement Tests/PEP Tests](AR.html#ARPEPTESTS)
-      * [ Academic Advising](AR.html#ARACADADVISE)
-    * [ Special Enrollment Categories](AR.html#ARSPECENROLL)
-      * [ Visitors/Auditors](AR.html#ARVISITORAUDITOR)
-  * [ Other Information](AR.html#AROTHERINFO)
-    * [ Falsification of Documents](AR.html#ARFALSEDOC)
-    * [ Admission or Readmission Denied Because of Misconduct](AR.html#ARDENYMISCONDUCT)
-    * [ Transcripts](AR.html#ARTRANSCRIPTS)
-    * [ Campus Policy on the Release of Information Pertaining to Students](AR.html#ARRELEASEINFO)
-    * [ Medical Immunization Requirements](AR.html#ARMEDICALIMMUN)
-    * [ Eligibility to Register: University Policy on Continuing Student Status](AR.html#ARELIGIBLREG)
-    * [ Social Security Number (Student Identification Number)](AR.html#ARSSN)
-    * [ Change of College/Major/Curriculum for Current Students](AR.html#ARCHANGEMAJOR)
+  * How to Use This Catalog
+  * Visiting Campus
+  * Admission Requirements and Application Procedures
+    * English Competency Requirement for All Applicants
+    * Undergraduate Applications and Credentials Deadlines
+    * Beginning Freshman Applicant
+      * Beginning Freshman Admission Requirements
+      * General Educational Development Tests
+    * Transfer Applicant
+      * Illinois Articulation Initiative
+      * Acceptance of Traditional Transfer Credit
+      * Transfer Student Admission Requirements
+    * Intercampus Transfer Applicant
+    * Readmission Applicant
+  * Nondegree Applicant
+    * Summer Session Only Applicant
+  * International/Immigrant Applicant
+    * Admission Requirements
+    * Academic Records
+    * English Competency Requirements
+    * Financial Resources Requirement
+    * Verification of Immigrant Status
+  * Alternative Admission Programs
+    * Guaranteed Professional Program Admissions
+    * Talented Student Program for Illinois High School Seniors
+    * Early Admission Applicant
+    * Admission by Special Action
+  * Alternative Sources of Credit
+    * Credit Through ACT or SAT
+    * Credit for Military Service
+    * General Educational Development Tests (GED)
+    * Correspondence Study
+    * Proficiency Examinations for Enrolled Students
+    * College Level Examination Program (CLEP) Credits
+      * Students with CLEP Credit from Other Institutions
+      * Credit Through CLEP for Current UIC Students.
+      * CLEP Credits Accepted.
+    * Credit Through Advanced Placement Program (AP)
+      * ART
+      * HUMANITIES
+      * SOCIAL STUDIES
+      * NATURAL SCIENCES
+      * MATHEMATICS
+      * STATISTICS
+    * Credit Through the International Baccalaureate Program (IB)
+  * After Admission
+    * Registration Procedures
+      * Pre-enrollment Evaluation Program/Placement Tests/PEP Tests
+      * Academic Advising
+    * Special Enrollment Categories
+      * Visitors/Auditors
+  * Other Information
+    * Falsification of Documents
+    * Admission or Readmission Denied Because of Misconduct
+    * Transcripts
+    * Campus Policy on the Release of Information Pertaining to Students
+    * Medical Immunization Requirements
+    * Eligibility to Register: University Policy on Continuing Student Status
+    * Social Security Number (Student Identification Number)
+    * Change of College/Major/Curriculum for Current Students
 
   
 _Mailing Address:_  
@@ -88,16 +88,13 @@ This catalog provides general information about the University of Illinois at
 Chicago and detailed information about the programs of study offered by its
 eight undergraduate colleges.
 
-This catalog has two major parts. The first part provides information about [
-admission, ](./AR.html#ARADMISSION) [ special opportunities and programs,
-](./SP.html#SP) [ student services, ](./SS.html#SS) [ student costs,
-](./SC.html#SC) [ financial aid, ](./FA.html#FA) [ the grading system
-](./GR.html#GRGRADING) and [ academic regulations, ](./GR.html#GRACADREG) [
-graduation requirements, ](./GR.html#GRGRADREQ) and [ honors.
-](./GR.html#GRHONORSGRAD)The second part has separate sections for each of the
-undergraduate colleges, which detail their curricula, special academic
-programs, specific requirements for graduation, honors programs, course
-descriptions, and other information.
+This catalog has two major parts. The first part provides information about
+admission,  special opportunities and programs,  student services,  student
+costs,  financial aid,  the grading system  and  academic regulations,
+graduation requirements,  and  honors. The second part has separate sections
+for each of the undergraduate colleges, which detail their curricula, special
+academic programs, specific requirements for graduation, honors programs,
+course descriptions, and other information.
 
 To find specific information use the table of contents at the front of the
 catalog or the index at the back.
@@ -138,9 +135,9 @@ Because space at these Saturday programs is limited, reservations are
 required.
 
 Students interested in visiting the campus should call in advance (312)
-996-4350 to schedule a visit. Refer to the [ _Campus Map and Travel
-Directions_](./CM.html#CM) on the inside back cover of this catalog for
-instructions on how to reach the UIC campus.
+996-4350 to schedule a visit. Refer to the  _Campus Map and Travel Directions_
+on the inside back cover of this catalog for instructions on how to reach the
+UIC campus.
 
 UIC Preview Days for prospective students are scheduled several mornings each
 semester. These events include a tour of campus and a residence hall, general
@@ -153,11 +150,11 @@ academic advisers from each of UIC's undergraduate programs. Call (312)
 All students who wish to take courses for credit at UIC, whether as degree or
 nondegree candidates, must submit an application, supporting documents, and
 the required nonrefundable application fee within specified deadlines. (For
-information about registration as a visitor/auditor, see [ Special Enrollment
-Categories ](./AR.html#ARSPECENROLL).) After an application has been
-submitted, any changes to the application must be submitted to the Office of
-Admissions in writing and must be dated, signed, and include the term applied
-for and the applicant's name and social security number.
+information about registration as a visitor/auditor, see  Special Enrollment
+Categories .) After an application has been submitted, any changes to the
+application must be submitted to the Office of Admissions in writing and must
+be dated, signed, and include the term applied for and the applicant's name
+and social security number.
 
 ### English Competency Requirement for All Applicants
 
@@ -224,13 +221,12 @@ as a beginning freshman during their last fall term in high school. Such
 applicants are admitted primarily on the basis of high school credentials and
 admission test score.
 
-[ Advanced Placement (AP) credit ](./AR.html#ARAP) is granted to students who
-have successfully completed AP courses in high school and received a
-satisfactory test score. Credit is also available through the [ International
-Baccalaureate Program, ](./AR.html#ARINTBACC) [ ACT/SAT English/Verbal
-subscores, ](./AR.html#ARACTSAT) and the [ College Level Examination Program
-(CLEP). ](./AR.html#ARCLEP) See the appropriate section elsewhere in this
-catalog for specific credits.
+Advanced Placement (AP) credit  is granted to students who have successfully
+completed AP courses in high school and received a satisfactory test score.
+Credit is also available through the  International Baccalaureate Program,
+ACT/SAT English/Verbal subscores,  and the  College Level Examination Program
+(CLEP).  See the appropriate section elsewhere in this catalog for specific
+credits.
 
 High school seniors who wish to enter the fall term immediately following
 their graduation from high school are encouraged to submit their applications
@@ -253,8 +249,8 @@ A beginning freshman applicant at UIC must meet the following requirements:
   4. Present a satisfactory combination of class rank and test score.
   5. Satisfy the high school subject pattern requirements for the chosen UIC college as shown in the following chart. These subjects help ensure that the beginning freshman is best prepared to enroll in required courses. Students who do not meet these course pattern requirements but meet all other requirements will have their applications reviewed. 
 
-**High School Course Patterns Required for Beginning Freshmen[ a
-](./AR.html#ARPATTERN1) ** Architecture and the Arts  
+**High School Course Patterns Required for Beginning Freshmen a **
+Architecture and the Arts  
 ---  
 | Architectural Studies| Pattern II  
 | Art and Design| Pattern I  
@@ -268,10 +264,9 @@ Liberal Arts and Sciences
 | Arts and Humanities| Pattern I  
 | Math and Science (recommended)| Pattern II  
 Nursing| Pattern II  
-**High School Subject Patterns[ b ](./AR.html#ARPATTERN2) ** SUBJECTS| PATTERN
-I| PATTERN II  
+**High School Subject Patterns b ** SUBJECTS| PATTERN I| PATTERN II  
 ---|---|---  
-English[ c ](./AR.html#ARPATTERN3)| 4| 4  
+English c | 4| 4  
 Algebra| 1| 2  
 Geometry| 1| 1  
 Trigonometry| \--| 1/2  
@@ -280,9 +275,9 @@ Lab sciences
 **_Note:_** (not including general science)
 
 |  2| 2  
-Social studies[ d ](./AR.html#ARPATTERN4)| 2| 2  
-Electives[ e ](./AR.html#ARPATTERN5)| 2| 2  
-Flexible Academic Units[ f ](./AR.html#ARPATTERN6)| 3| 1 1/2  
+Social studies d | 2| 2  
+Electives e | 2| 2  
+Flexible Academic Units f | 3| 1 1/2  
 Other| 1| 1  
 TOTAL| 16| 16  
   
@@ -380,12 +375,12 @@ and the college in which the students is enrolled.
     1. Colleges and universities that offer degree programs comparable to programs offered by UIC and are (1) members of, or hold Candidate for Accreditation status from, the North Central Association of Colleges and Schools or other regional accrediting associations, or (2) accredited by another accrediting agency that is a member of the Commission on Recognition of Postsecondary Accreditation.
     2. Illinois public community colleges that are neither members of nor holders of Candidate for Accreditation status from the North Central Association of Colleges and Schools but that are approved and recognized by the Illinois Community College Board (ICCB) for a period of time not to exceed five years from the date on which the college registers its first class after achieving ICCB recognition.
   3. Certain colleges and universities do not meet the specifications in II above but have been assigned a status by the University Committee on Admissions that permits credit to be accepted on a provisional basis for admission purposes on transfer to UIC. Transfer credit, as defined in I above, from such colleges and universities is accepted on a deferred basis to be validated by satisfactory completion of additional work in residence. Validation through satisfactory work in residence may be accomplished by earning at UIC or another fully accredited [1] college or university, at least a 3.00 (A=5.00) grade point average (higher if prescribed by the curriculum the student wishes to enter) in the first 12 to 30 semester hours completed following transfer.
-  4. Credit, as specified in I above, transferred from an approved [ [1] ](./AR.html#ARCOLLEGESPEC) community or junior college is limited only by the provision that the student must earn at least 60 semester or 90 quarter hours required for the degree at the University or at any other approved [ [1] ](./AR.html#ARCOLLEGESPEC) four-year college or university after attaining junior standing, except that the student must meet the residence requirements that apply to all students for a degree from the University (see [ Graduation Requirements and Academic Regulations ](./GR.html#GR)). When a school or college within the University requires three years of preprofessional college credit for admission, at least the last 30 semester or 45 quarter hours must be taken in an approved [ [1] ](./AR.html#ARCOLLEGESPEC) four-year collegiate institution.
+  4. Credit, as specified in I above, transferred from an approved  [1] community or junior college is limited only by the provision that the student must earn at least 60 semester or 90 quarter hours required for the degree at the University or at any other approved  [1] four-year college or university after attaining junior standing, except that the student must meet the residence requirements that apply to all students for a degree from the University (see  Graduation Requirements and Academic Regulations ). When a school or college within the University requires three years of preprofessional college credit for admission, at least the last 30 semester or 45 quarter hours must be taken in an approved  [1] four-year collegiate institution.
   5. In all cases, the precise amount of transfer credit applicable toward a particular degree will be determined by the University college and department concerned. 
 
 #### Transfer Student Admission Requirements
 
-  1. To be admitted a transfer applicant must have achieved a minimum transfer grade point average of 3.00 (A = 5.00) on the basis of all transferable work attempted (minimum: 24 semester or 36 quarter hours). See [ Grading and Grade Point Systems ](./GR.html#GRGRADING). Some colleges and curricula require a higher minimum grade point average and additional credit hours (consult individual college and curriculum listings).
+  1. To be admitted a transfer applicant must have achieved a minimum transfer grade point average of 3.00 (A = 5.00) on the basis of all transferable work attempted (minimum: 24 semester or 36 quarter hours). See  Grading and Grade Point Systems . Some colleges and curricula require a higher minimum grade point average and additional credit hours (consult individual college and curriculum listings).
   2. For admission purposes only, transfer grades for _all_ baccalaureate-oriented course work attempted and accepted are used in computing the transfer student's average. However, a particular UIC college or school may not accept all courses toward degree requirements.
   3. A student transferring to the University who was previously dropped from a collegiate institution for disciplinary or academic reasons must submit a petition to the director of the Office of Admissions, who will forward the petition to the appropriate committee.
   4. When a course is repeated the grade point average is computed using both grades and all hours for the course. However, credit for the course is only awarded once.
@@ -436,9 +431,8 @@ the University, and the availability of space in the chosen program. Degree-
 seeking readmission applicants do not pay the application fee.
 
 Students who interrupt their UIC enrollment by two or more semesters in
-succession (summer session excluded) must reapply. See [ Eligibility to
+succession (summer session excluded) must reapply. See  Eligibility to
 Register: University Policy on Continuing Student Status
-](./AR.html#ARELIGIBLREG)
 
 Students must clear any encumbrances before they may register for classes.
 
@@ -566,8 +560,8 @@ Iowa 52240.
 
 ### English Competency Requirements
 
-See the previous section on [ English Competency Requirement for All
-Applicants ](./AR.html#ARENGLCOMPET).
+See the previous section on  English Competency Requirement for All Applicants
+.
 
 If the international applicant is admissible, performance on the English
 placement test either (1) qualifies the student to register for English 160
@@ -615,23 +609,23 @@ programs:
 
   * Architecture
   * Art and Design
-    * [ Graphic Design ](./AAARTDESIGN.html#AAARTDESIGN)
-    * [ Industrial Design ](./AAARTDESIGN.html#AAARTDESIGN)
+    * Graphic Design 
+    * Industrial Design 
   * Associated Health Professions
     * Biomedical Visualization
-    * [ Health Information Management ](./HPHLTHINFO.html#HPHLTHINFO)
-    * [ Human Nutrition and Dietetics ](./HPHUMANNUTR.html#HPHUMANNUTR)
-    * [ Kinesiology ](./HPKINESIOL.html#HPKINESIOL)
-    * [ Medical Laboratory Sciences ](./HPMEDLABSCI.html#HPMEDLABSCI)
-    * [ Occupational Therapy ](./HPOCCUPTHER.html#HPOCCUPTHER)
-    * [ Physical Therapy ](./HPPHYSCLTHER.html#HPPHYSCLTHER)
+    * Health Information Management 
+    * Human Nutrition and Dietetics 
+    * Kinesiology 
+    * Medical Laboratory Sciences 
+    * Occupational Therapy 
+    * Physical Therapy 
   * Business
   * Dentistry
   * Education
   * Engineering
   * Medicine
   * Nursing
-  * [ Pharmacy ](./PM.html#PM)
+  * Pharmacy 
   * Public Health
   * Social Work
   * Urban Planning and Public Affairs
@@ -714,9 +708,9 @@ wishing to enroll in a course in mathematics, composition, foreign language,
 physics, and/or chemistry may be required to take a preliminary placement test
 after acceptance.
 
-For application and information, inquiries should be made to the [ Honors
-College ](./HC.html#HC) (M/C 204), The University of Illinois at Chicago, 851
-South Morgan Street, Chicago, Illinois 60607-7044; (312) 413-2260.
+For application and information, inquiries should be made to the  Honors
+College  (M/C 204), The University of Illinois at Chicago, 851 South Morgan
+Street, Chicago, Illinois 60607-7044; (312) 413-2260.
 
 ### Early Admission Applicant
 
@@ -847,8 +841,8 @@ Proficiency examinations may _not_ be taken:
   3. In a course the student has attended as a listener or as a visitor.
 
 Credit earned through proficiency examinations neither applies toward nor
-interrupts the residence requirement. See _Residence Requirements_ under [
-_Graduation Requirements and Academic Regulations._](./GR.html#GR)
+interrupts the residence requirement. See _Residence Requirements_ under
+_Graduation Requirements and Academic Regulations._
 
 ### College Level Examination Program (CLEP) Credits
 
@@ -860,7 +854,7 @@ Entrance Examination Board to the Office of Admissions and request the Office
 of Admissions to evaluate their score reports for advanced standing before
 credit can be awarded. Credit earned through CLEP examinations neither applies
 toward nor interrupts the residence requirement. See _Residence Requirements_
-under [ _Graduation Requirements and Academic Regulations._](./GR.html#GR)
+under  _Graduation Requirements and Academic Regulations._
 
 #### Students with CLEP Credit from Other Institutions
 

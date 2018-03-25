@@ -58,7 +58,7 @@ Related handouts and internet sites
 2 | Jan | 25 | History and Debate over the Social Studies:  
 "Why Should We Study the Social Studies?"  
 Designing Effective.... Chapters 1 and 2  
-<http://www.socsci.kun.nl/ped/whp/histeduc/>  
+http://www.socsci.kun.nl/ped/whp/histeduc/  
 3 | Jan | 30 | Reflections on Teacher Role Models. Presentations: "Why Do I
 Want to Teach  
 Social Studies."  
@@ -66,47 +66,45 @@ Social Studies."
 History, Government and Geography  
 Chapter 3  
 U.S. and World History:  
-<http://www.ukans.edu/history/VL>  
-<http://members.aol.com/historyresearch/>  
+http://www.ukans.edu/history/VL  
+http://members.aol.com/historyresearch/  
 Government:  
-<http://www.congresslink.org/>  
+http://www.congresslink.org/  
 Geography:  
-<http://www.nationalgeographic.com/>  
+http://www.nationalgeographic.com/  
 5 | Feb | 6 | The Diversity of Historical Approaches and an Evaluation of
 Generic Social Studies Websites  
 The New York State Social Studies 7-12  
 Standards and Curriculum.  
-NCSS: <http://www.socialstudies.org/>  
-H./SS: <http://www.execpc.com/~dboals/boals.html>  
-K-12:[
-http://shell3.ba.best.com/~swanson/history/](http://shell3.ba.best.com/~swanson/history/)  
-NYState:[
-http://www.nysed.gov/rscs/currfwk.html](http://www.nysed.gov/rscs/currfwk.html)  
-<http://www.emsc.nysed.gov/ciai/social.html>  
-<http://www.education-world.com/history/index.shtml>  
+NCSS: http://www.socialstudies.org/  
+H./SS: http://www.execpc.com/~dboals/boals.html  
+K-12: http://shell3.ba.best.com/~swanson/history/  
+NYState: http://www.nysed.gov/rscs/currfwk.html  
+http://www.emsc.nysed.gov/ciai/social.html  
+http://www.education-world.com/history/index.shtml  
 6 | Feb | 8 | Important Subject Fields of the Social  
 Studies: Economics, Sociology, Psychology and  
 Anthropology  
 Economics:  
-<http://www.ncat.edu/~simkinss/econlinks.html>  
+http://www.ncat.edu/~simkinss/econlinks.html  
 Multicultural Calendar:  
-<http://www.kidlink.org/KIDPROJ/MCC>  
+http://www.kidlink.org/KIDPROJ/MCC  
 Chapter 4  
 Social Sciences:  
-<http://members.aol.com/historyresearch/>  
+http://members.aol.com/historyresearch/  
 7 | Feb | 13 | First Student Teaching Exercise: A Current  
 Event Presentation  
-News: <http://www.nytimes.com/>  
-Gov.: <http://thomas.loc.gov/>  
-World: <http://www.bbc.co.uk/>  
+News: http://www.nytimes.com/  
+Gov.: http://thomas.loc.gov/  
+World: http://www.bbc.co.uk/  
 8 | Feb | 15 | Identifying Instructional Goals in Social  Studies and
 DesignModels for Course, Unit and  Lesson  
 Development.  An Introduction to the Lesson Plan Format  
 Chapters 8 and 9  
 NY Social Studies Resource Guide:  
-<http://www.emsc.nysed.gov/guides/social>  
-Sources: <http://education.indiana.edu/~socialst>  
-<http://www.zuska.simplenet.com/>  
+http://www.emsc.nysed.gov/guides/social  
+Sources: http://education.indiana.edu/~socialst  
+http://www.zuska.simplenet.com/  
 9 | Feb | 20 | First Lesson Plan on Current Events is Due.  
 Discussion and Application of Behavioral  
 Objectives and Critical Thinking Development  
@@ -114,19 +112,19 @@ Chapters 8 and 9
 10 | Feb | 22 | Selection of United States Unit Topic and  
 Format. Lesson Plan Development: Connections  
 and Meeting the Standards  
-USHist: <http://historymatters.gmu.edu/>  
+USHist: http://historymatters.gmu.edu/  
 Futher homepage modifications forthcoming........  
 11 | Feb | 21 | Instructional Strategies and Activities  
 Chapters 13 and 14  
 We will subscribe to the H-Net Listserve edited for High School Social Studies
 Teachers:  
-<http://www.h-net.msu.edu/~highs/>  
+http://www.h-net.msu.edu/~highs/  
 12 | Feb | 23 | Model Unit Plans and Progress Reports  
 13 | Feb | 28 | Student Teaching Exercise at the Boynton  
 Middle School. United States Unit Plans are  
 **Due this Week!   Selection of European/Western Civilization Unit Topic **  
 Archives:  
-<http://www.msstate.edu/Archives/History/index.html>  
+http://www.msstate.edu/Archives/History/index.html  
 14 | Mar | 1 | **Mid-Term Evaluation**  
 15 | Mar | 6-10 | SPRING BREAK  
 16 | Mar | 13 | Discussion and Evaluation of the First Plan.  
@@ -137,7 +135,7 @@ Chapter 5
 18 | Mar | 20 | Classroom Management and Motivating Student  
 Learning. Music as a Motivator.  
 Billy Joel's We Didn't Start the Fire  
-<http://users.aol.com/jdsweeney/fire.html>  
+http://users.aol.com/jdsweeney/fire.html  
 Chapter 7  
 19 | Mar | 22 | The Observation Process:  Teacher Behavior,  Student Behavior,
 Learning Climate  
@@ -147,34 +145,33 @@ School
 21 | Mar | 29 | **Second Unit Plan in European History is Due!**  
 Selection of non-Western Unit Topic  
 World:  
-<http://www.lexiconn.com/lis/schomp/whl/index.htm>  
-Women:[
-http://www.womeninworldhistory.com](http://www.womeninworldhistory.com/)  
+http://www.lexiconn.com/lis/schomp/whl/index.htm  
+Women: http://www.womeninworldhistory.com  
 22 | Apr | 3 | Discussion and Evaluation of the Second Unit  Plan.  Progress
 Reports on Third Unit Topic  
 Global  
 23 | Apr | 5 | Public History: Local Lore, Museums and Oral  Histories.
 Possible Museum Visit  
-Historic Places:  <http://www.cr.nps.gov/nr.twhp/>  
+Historic Places:  http://www.cr.nps.gov/nr.twhp/  
 24 | Apr | 10 | The Appropriate Use of Classroom Technology  
 and Media  
 Chapter 6  
-PBS: <http://www.pbs.org/history/>  
-CNN: <http://cnn.com/>  
+PBS: http://www.pbs.org/history/  
+CNN: http://cnn.com/  
 25 | Apr | 12 | The Social Studies Teaching Profession: Contemporary
 Conditions and Future Trends.  
- NYSCSS: <http://www.nyscss.org/>  
+ NYSCSS: http://www.nyscss.org/  
 26 | Apr | 17 | Effective Instructional Assessment Strategies  
 The Formal and Informal Means of Assessing  
 Learning Outcomes. DBQs - Document Based Questions and the NYState
 Examinations  
-<http://www.nysed.gov/rscs/stests.html>  
+http://www.nysed.gov/rscs/stests.html  
 Chapter 15  
 27 | Apr | 19 | Attend presentation Thursday 20 April 12:10  Clark Lounge on
 Gerontological  
 and Intergenerational Education in the Social  
 Studies Curriculum.  
-Lessons on Aging: <http://www.unt.edu/natla>  
+Lessons on Aging: http://www.unt.edu/natla  
 28 | Apr | 24 | Student Teaching Exercise at Ithaca High School in non-Western
 Area.  
 **Third Unit Plan is Due**  
@@ -189,9 +186,8 @@ The Final Portfolio is Due
 Zenon V. Wasyliw  
 Muller 427  
 274-1587  
-[Wasyliw@ithaca.edu](mailto:Wasyliw@ithaca.edu)  
-[http://www.ithaca.edu/faculty/wasyliw](http://www.ithaca.edu/faculty/wasyliw%20)
-| Office Hours:  
+Wasyliw@ithaca.edu  
+http://www.ithaca.edu/faculty/wasyliw | Office Hours:  
 MWF 10:00-10:45am, 12:00 - 12:45pm  
 T / TH 1:00-2:00  
 and by appointment  

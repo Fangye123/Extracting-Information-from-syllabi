@@ -13,7 +13,7 @@ An introduction to the nature of information (both utilitarian and aesthetic)
 in contemporary society, and to the role played by libraries and other
 information organizations in disseminating that information. Emphasis is on
 developing perspectives.  
-**Syllabus:**[Rogers](syllabi/600_jr.htm), [Case](syllabi/600_dc.htm)
+**Syllabus:**Rogers, Case
 
 LIS601, INFORMATION SOURCES & SERVICES.  
 An introduction to basic information sources and services provided by
@@ -21,7 +21,7 @@ libraries and information organizations. Consideration is also given to the
 ethics of information services, the user-system interface including question-
 negotiation and the formulation of effective search strategies, and the
 evaluation of information sources and information services.  
-**Syllabus:**[Waldhart](syllabi/601_tw.htm)
+**Syllabus:**Waldhart
 
 LIS602 INFORMATION STORAGE & RETRIEVAL.  
 A study of the basic principles and practices of information documentation,
@@ -29,8 +29,7 @@ organization, storage, retrieval and dissemination. The structure of document
 surrogates, indexing languages, thesauri, natural language systems, catalogs
 and files, information storage media, retrieval systems, networks and
 information delivery systems are examined.  
-**Syllabus:**[Jeng](http://www.uky.edu/~lhjeng00/lhj602.htm),
-[Benoit](http://www.uky.edu/~gbenoit/602/602.html)
+**Syllabus:**Jeng, Benoit
 
 LIS603, MANAGEMENT IN LIBRARY & INFORMATION SCIENCE.  
 An introduction to the basic elements of manage ment and how these are applied
@@ -39,7 +38,7 @@ on two major roles in a system, the person who is supervised as well as the
 manager or supervisor. Examination of the functions of planning, organization,
 staffing and controlling as well as the theories of management and the
 effective use of these in an information system.  
-**Syllabus:**[Sineath](http://www.uky.edu/CommInfoStudies/SLIS/syllabi/603_ts.htm)
+**Syllabus:**Sineath
 
 ####  Elective Courses: (3 Credit hourse unless otherwise noted)
 
@@ -48,14 +47,14 @@ A survey of children's literature, traditional and modern. Reading and
 evaluation of books and multimedia materials with emphasis on the needs and
 interests of children. Covers media for use by and with children from
 preschool through grade six.  
-**Syllabus:**[Ireland](syllabi/510_si.htm), [Stehpens](syllabi/510_bs.htm)
+**Syllabus:**Ireland, Stehpens
 
 LIS514, INFORMATION RESOURCES & SERVICES FOR YOUNG ADULTS.  
 A consideration of special characteristics and needs of young adults
 approximately 12-20 years old. Emphasis given to the literature and
 information resources and services in all types of libraries designed to meet
 their needs.  
-**Syllabus:**[VanWilligen](syllabi/514_jv.htm)
+**Syllabus:**VanWilligen
 
 LIS604, LIBRARY & BOOK HISTORY  
 Development of libraries and books from earliest time to the present with
@@ -69,7 +68,7 @@ information needs, information seeking behavior and the use of information by
 individuals and groups in society. Consid-eration is given to how this
 knowledge influences the development of information systems, sources and
 services. Prereq: Graduate standing.  
-**Syllabus:**[Waldhart](syllabi/607_tw.htm)
+**Syllabus:**Waldhart
 
 LIS608, METHODS OF RESEARCH IN LIBRARY & INFORMATION SCIENCE.  
 Basic tools, techniques and methods of research. Consideration is given to the
@@ -77,13 +76,13 @@ role and purpose of research in library and information science and its
 relationship to research in other disciplines. Includes critical evaluation of
 current research in library and information science and the development of a
 research proposal.  
-**Syllabus:**[Case](syllabi/608_dc.htm)
+**Syllabus:**Case
 
 LIS609, CURRENT PROBLEMS IN LIBRARY & INFORMATION SCIENCE.  
 A seminar which examines current philosophical and managerial issues in
 library and information science. Focus is on the analysis, origins, evaluation
 and current status of these issues. Prereq: LIS600, LIS601, and LIS603.  
-**Syllabus:**[Carrigan](syllabi/609_dc.htm)
+**Syllabus:**Carrigan
 
 LIS610, CREATIVE LIBRARY PROGRAMS FOR CHILDREN.  
 A study of the oral tradition and its place in the cultural heritage of today.
@@ -95,13 +94,13 @@ LIS611, CRITICAL ANALYSIS OF CHILDREN'S LITERATURE.
 Advanced study of book evaluation, literary criticism, children's book
 publishing, awards, and current trends in the field. Individual projects
 require extensive critical reading. Prereq: LIS510 and consent of instructor.
-**Syllabus:**[Ireland](syllabi/611_si.htm)
+**Syllabus:**Ireland
 
 LIS613, INFORMATION RESOURCES AND SERVICES FOR CHILDREN.  
 A study of children's literature and related media for use with children in
 grades preschool-6. Emphasis is placed on the evalua-tion of materi-als for
 this age group and their use in libraries.  
-**Syllabus:**[Ireland](syllabi/613_si.htm)
+**Syllabus:**Ireland
 
 LIS618, ADULT INFORMATION NEEDS & SERVICES.  
 The study of adult reading and information needs, interests and abilities;
@@ -116,7 +115,7 @@ the social sciences with emphasis on information sources and services in
 anthropology, history, business, law, political science, psychology,
 economics, education, geography, sociology, and other closely related
 subjects. Prereq: LIS601.  
-**Syllabus:**[Sineath](syllabi/622_ts.htm)
+**Syllabus:**Sineath
 
 LIS623, INFORMATION IN THE HUMANITIES.  
 The content and structure of bibliographic and other information resources in
@@ -131,13 +130,13 @@ science and technology. A consideration of formal and informal communication
 in science and technology with emphasis on sources and services in
 agriculture, astronomy, biology, chemistry, mathematics, natural resources,
 zoology, and other closely related subjects. Prereq: LIS601.  
-**Syllabus:**[Powell](syllabi/624_ap.htm)
+**Syllabus:**Powell
 
 LIS626, GOVERNMENT PUBLICATIONS.  
 Study of the nature and scope of government doements, including problems and
 methods of acquisition, organization, and reference use of federal, state,
 local and international publications. Prereq: LIS601.  
-**Syllabus:**[Waldhart](syllabi/626_tw.htm)
+**Syllabus:**Waldhart
 
 LIS630, ONLINE INFORMATION SYSTEMS & SERVICES.  
 Focus on online information systems and services and their management in
@@ -145,8 +144,7 @@ libraries and information centers. Consideration given to concepts of online
 information retrieval, major commercial information services, online public
 access catalogs, CD/ROM- based information systems, and basic online search
 techniques and strategies. Prereq or concurrent: LIS601 and LIS602.  
-**Syllabus:**[Chan](syllabi/630_lc.htm),
-[Jeng](http://www.uky.edu/~lhjeng00/lhj630.htm).
+**Syllabus:**Chan, Jeng.
 
 LIS635, INFORMATION STORAGE & RETRIEVAL SYSTEMS.  
 Examines information storage and retrieval systems and theories; including
@@ -159,16 +157,14 @@ LIS636 MICROCOMPUTERS IN LIBRARIES AND INFORMATION CENTERS.
 Examines microcomputer software applications commonly used in libraries and
 information centers. Consideration given to the structure of microcomputer
 operating systems, and the elements of software evaluation.  
-**Syllabus:**[Benoit](http://www.uky.edu/~gbenoit/636.htm) ,
-[Miller](syllabi/636_jm.htm) ,
-[Trainor/Weig](http://www.uky.edu/CommInfoStudies/SLIS/636/LIS636.html)
+**Syllabus:**Benoit , Miller , Trainor/Weig
 
 LIS637, INFORMATION TECHNOLOGY.  
 Study of computer and communication technology used in modern information
 storage and retrieval systems. Consideration also given to managing
 microcomputer services, hardware evaluation and selection, and system
 security.  
-**Syllabus:**[Benoit](http://www.uky.edu/~gbenoit/637.html)
+**Syllabus:**Benoit
 
 LIS638, INTERNET TECHNOLOGIES AND INFORMATION SERVICES.  
 A course examining the structure, development and evolution of the Internet;
@@ -177,7 +173,7 @@ and evaluation; the use of the Internet as an information storage and
 retrieval system; recent advances in markup and scripting languages; and
 Internet related social issues such as censorship and copyright. Prereq:
 LIS636 or consent of the instructor.  
-**Syllabus:**[Miller](http://www.uky.edu/CommInfoStudies/SLIS/syllabi/638_jm.htm)
+**Syllabus:**Miller
 
 LIS640, HEALTH SCIENCES LIBRARIES.  
 A survey of health sciences libraries including a study of information needs,
@@ -208,14 +204,14 @@ information services. Considers methods of assisting faculty in the effective
 use of information in all media, the relation of the individual school to the
 district materials center, and the type of personnel, equipment and
 collections which are needed in each.  
-**Syllabus:**[White](syllabi/644_jw.htm)
+**Syllabus:**White
 
 LIS645, PUBLIC LIBRARIES.  
 An analysis of public library objectives and of the services provided and
 techniques employed to achieve them. Some attention is given to special
 problems of public library management and to trends in public library
 development. Prereq: LIS600.  
-**Syllabus:**[Schable](syllabi/645_ds.htm)
+**Syllabus:**Schable
 
 LIS646, ACADEMIC LIBRARIES.  
 History, aims and functions of university and college libraries including
@@ -223,12 +219,12 @@ organization, collection building and evaluation, finance and personnel.
 Recent trends in national and regional cooperation. Undergraduate libraries,
 community colleges, and the "library college" will also be reviewed. Prereq:
 LIS600.  
-**Syllabus:**[Waldhart](syllabi/646_tw.htm)
+**Syllabus:**Waldhart
 
 LIS647, CURRENT TRENDS IN SCHOOL MEDIA CENTERS.  
 An intensive study of trends in school media centers with emphasis upon
 research and current programs. Prereq: School media experience.  
-**Syllabus:**[White](syllabi/647_jw.htm)
+**Syllabus:**White
 
 LIS650, TECHNICAL PROCESSING SYSTEMS.  
 A survey of manual and computer-based technical processing systems in
@@ -236,7 +232,7 @@ libraries. Consideration given to circulation, acquisitions, cataloging and
 serial control systems. Trends and developments in technical processing, files
 and records management and technical processing procedures and activities are
 examined. Prereq: LIS602 and LIS603.  
-**Syllabus:**[Seago](syllabi/650_ks.htm)
+**Syllabus:**Seago
 
 LIS651, LIBRARY & INFORMATION NETWORKS.  
 An analysis of the structure and governance, topology, technology and service
@@ -255,7 +251,7 @@ control, as well as those who are interested in other areas of library and
 information services, such as development and mainte-nance of integrated
 online systems, and wish to become familiar with how bibliographic records are
 constructed and processed. Prereq: LIS602.  
-**Syllabus:**[Chan](syllabi/655_lc.htm)
+**Syllabus:**Chan
 
 LIS656, ORGANIZATION OF KNOWLEDGE-II.  
 In-depth coverage of the theory and practice of biblio-graphic description and
@@ -269,7 +265,7 @@ knowledge organization and those who intend to engage in other service areas,
 such as user services, collection development, and archive manage-ment, that
 rely heavily on the contents of integrated online systems. Prereq: LIS550 or
 LIS655.  
-**Syllabus:**[Chan](syllabi/656_lc.htm)
+**Syllabus:**Chan
 
 LIS659, COLLECTION DEVELOPMENT.  
 Intellectual and administrative aspects of building, maintaining and
@@ -277,14 +273,14 @@ evaluating library collections. Topics include: library cooperation; national
 standards; the writing and implementation of collection policies; strategies
 of selection and evaluation; contemporary publishing and the book trade.
 Prereq: LIS601.  
-**Syllabus:**[Carrigan](syllabi/659_dc.htm)
+**Syllabus:**Carrigan
 
 LIS660, ADMINISTRATIVE BEHAVIOR IN LIBRARY MANAGEMENT.  
 An emphasis upon human behavior in library administration including an
 understanding of group process, interpersonal relationships, communications,
 motivation, leadership and developing an awareness of self in the
 administrative process. Prereq: LIS603.  
-**Syllabus:**[Carrigan](syllabi/660_dc.htm)
+**Syllabus:**Carrigan
 
 LIS668, INFORMATION SYSTEMS DESIGN.  
 Study of concepts and methods of information systems design and development
@@ -292,7 +288,7 @@ with particular relevance to library and information center applications.
 Emphasis is given to modeling of system functions, data, and processes of
 computer-based information systems including the development of small scale
 information systems. Prereq: LIS636.  
-**Syllabus:**[Benoit](http://www.uky.edu/~gbenoit/668.htm)
+**Syllabus:**Benoit
 
 LIS675, PROFESSIONAL FIELD EXPERIENCE.  
 Professional field experience in a library or other information-related
@@ -304,7 +300,7 @@ experiential learning, and the completion of a term paper or special project
 under the direction of the course coordinator. Prereq: Completion of 18 hours
 of graduate work in library and information science and consent of course
 coordinator.  
-**Syllabus:**[Carrigan](675memo.htm)
+**Syllabus:**Carrigan
 
 LIS676, SCHOOL MEDIA PRACTICUM.  
 (1-12 credit hours)  

@@ -20,8 +20,8 @@
     TuTh 9:30-10:45, 5322 Social Science            Tel: 263-1956, -1800 (Dept.)    
     Sections: 301 - Th 1:20-2:10, 2121 Humanities   Office hours: Tu 8:15-9:15,     
               302 - Th 2:25-3:15, 2261 Humanities     Th 11:00-12:00, and by appt.  
-    Class email: [hist-343@facstaff.wisc.edu](mailto:hist-343@facstaff.wisc.edu)         Email: [clcohen@macc.wisc.edu](mailto:clcohen@macc.wisc.edu)    
-                                                           [clcohen@wiscmacc.bitnet](mailto:clcohen@wiscmacc.bitnet)  
+    Class email: hist-343@facstaff.wisc.edu         Email: clcohen@macc.wisc.edu    
+                                                           clcohen@wiscmacc.bitnet  
     
 
 The following books are required reading, but they can be fun too.
@@ -365,17 +365,15 @@ fall not upon their Grade Point Average and smite it with a vengeance.
 To which proclamation, we do affix our seal:
 
 Information provider:  
-Unit: H-Net program at UIC History Department Email:
-[H-Net@uicvm.uic.edu](mailto:H-Net@uicvm.uic.edu)  
+Unit: H-Net program at UIC History Department Email: H-Net@uicvm.uic.edu  
 Posted: 8 Jul 1994
 
 * * *
 
   
-[![H-Net Humanities & Social Sciences
-OnLine](/footers/graphics/logosmall.gif)](/)  
-[Contact Us](/contact/)  
+![H-Net Humanities & Social Sciences OnLine](/footers/graphics/logosmall.gif)  
+Contact Us  
 Copyright  (C) 1995-2002, H-Net, Humanities & Social Sciences OnLine  
-Click Here for an [Internet Citation Guide](/about/citation).  
+Click Here for an Internet Citation Guide.  
 ---
 

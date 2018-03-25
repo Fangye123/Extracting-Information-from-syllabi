@@ -1,8 +1,8 @@
   
 ![Dr. Jose B. Cuellar](images/titlebar.gif)  
   
-**_Professor of La Raza Studies:_**    **Summary  |  [Courses
-Taught](courses.htm)  |  Committee Work  |  [Menu](menu.htm)**  
+**_Professor of La Raza Studies:_**    **Summary  |  Courses Taught  |
+Committee Work  |  Menu**  
   
 
 * * *
@@ -16,12 +16,12 @@ Taught](courses.htm)  |  Committee Work  |  [Menu](menu.htm)**
 
 **1310-1400 p.m. Mondays, Wednesdays & Fridays    Gym 213**
 
-> **Professor[Jose B. Cuellar](http://userwww.sfsu.edu/~josecuel), Ph.D.  
+> **ProfessorJose B. Cuellar, Ph.D.  
 >  Office: Psychology 422**  
 >  **Office Hours: Mondays & Wednesdays between 11 am and 12 pm**  
 >  **or by appointment**  
 >  **Office phone: 415.338.6044**  
->  **E-mail:[josecuel@sfsu.edu](mailto:josecuel@sfsu.edu)**
+>  **E-mail:josecuel@sfsu.edu**
 
   
 
@@ -145,7 +145,7 @@ follows:
 
 >
 
-> [Go to Previous Page](courses.htm)
+> Go to Previous Page
 
 >
 

@@ -27,9 +27,9 @@ available at the bookstore as well. [Those of you who took Introduction to
 Intellectual Property in the fall should already have a copy of this book].
 Finally, because computer law is a rapidly changing field, we maintain an
 update Web page for the book at
-[http://www.law.berkeley.edu/institutes/bclt/pubs/swbook/](/institutes/bclt/pubs/swbook/).
-You should treat this Web page as part of the regular reading assignment, and
-check it when you do your reading for each class.
+http://www.law.berkeley.edu/institutes/bclt/pubs/swbook/. You should treat
+this Web page as part of the regular reading assignment, and check it when you
+do your reading for each class.
 
 There are two requirements for the class. The first is a final exam. It will
 be an essay exam, and will cover general knowledge of the legal subjects
@@ -49,7 +49,7 @@ scheduled office hours are Monday and Wednesday from 2:30 to 4:00 p.m. in Room
 347, in Boalt's North Addition. In addition, you should feel free to stop by
 any other time I am in my office, or to call and schedule an appointment. My
 office phone number is 643-2670. Finally, you can e-mail me at
-[mlemley@law.berkeley.edu](mailto:mlemley@law.berkeley.edu)  
+mlemley@law.berkeley.edu  
   
 
 
@@ -107,14 +107,14 @@ February 12 | Copyright V |
   
 February 14 | Copyright VI |
 
-  * [_A &M; Records v. Napster_](http://news.cnet.com/News/Pages/Special/Napster/napster_patel.html)
+  * _A &M; Records v. Napster_
 
   
 February 19 | **PRESIDENTS DAY -- NO CLASS** |  
 February 21 | Copyright VII |
 
   * MMSL 891-903; 912-920
-  * _[Universal City Studios v. Reimerdes](http://www.eff.org/pub/Intellectual_property/Video/MPAA_DVD_cases/20000202_ny_memorandum_order.html)_
+  * _Universal City Studios v. Reimerdes_
 
   
 February 26 | Patent I |
@@ -135,7 +135,7 @@ March 5 | Patent III |
 March 7 | Patent IV |
 
   * MMSL pp. 349-364
-  * Cohen & Lemley, _[Patent Scope and Innovation in the Software Industry](http://papers2.ssrn.com/paper.taf?ABSTRACT_ID=209668)_
+  * Cohen & Lemley, _Patent Scope and Innovation in the Software Industry_
 
   
 March 12 | Trademarks I |
@@ -177,8 +177,7 @@ April 16 | Contracts and Licensing III |
   * MMSL pp. 517-537
 
   
-April 18 | Attend [Digital Music Roundtable](../../../events/2001/music.html)
-|  
+April 18 | Attend Digital Music Roundtable |  
 April 23 | Antitrust I |
 
   * MMSL pp. 539-568

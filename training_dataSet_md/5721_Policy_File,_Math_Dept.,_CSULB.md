@@ -8,9 +8,7 @@ California State University, Long Beach
 Jump: I (Voting) | II (Committees) | III (Positions) | IV (Additional
 Policies)
 
-. [Math Home Page](http://www.csulb.edu/depts/math/index.html) **|** [Policies
-TOC](http://www.csulb.edu/depts/math/md/mdtoc.html) **|** [Math Site
-TOC](http://www.csulb.edu/depts/math/toc.html) .  
+. Math Home Page **|** Policies TOC **|** Math Site TOC .  
 
 * * *
 

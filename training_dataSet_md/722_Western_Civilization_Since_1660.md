@@ -153,8 +153,7 @@ Age of Revolutions
 
 Wiesner, Chap. 5  
 Perry, Chap. 11, 316-46  
-[Declaration of the Rights of Man and
-Citizen](http://www.yale.edu/lawweb/avalon/rightsof.htm)  
+Declaration of the Rights of Man and Citizen  
   
 Mar. 1
 
@@ -287,7 +286,7 @@ thinking about how to apply the evidence to the questions you want to answer.
 You should also draw on background knowledge drawn from your textbook where
 you need it (you may need to read sections of the textbook that have not been
 assigned for the regular course readings). For additional guidelines, click
-[here](W%20Civ%20Paper%20guidelines.htm).
+here.
 
 This paper should be 4-6 pages typed, double-spaced. You may use either
 footnotes or parenthetical references (MLA style), as long as each reference
@@ -300,8 +299,7 @@ references, including publisher and date.
 _AVOID PLAGIARISM LIKE THE PLAGUE IT IS_ : Be careful that every quotation is
 properly marked with quotation marks and a reference to the source and page.
 Anything that is not marked as a quotation must be your own original writing.
-Students should download the [plagiarism
-sheet](http://www.rowan.edu/history/plagiarism.html)
+Students should download the plagiarism sheet
 (http://www.rowan.edu/history/plagiarism.html) from the history department's
 website and will be asked to sign a statement that they understand and are
 adhering to accepted rules.

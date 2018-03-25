@@ -1,20 +1,16 @@
-[![Fox Professing](../images/foxlogo.gif)](../Welcome.html) |  |
+![Fox Professing](../images/foxlogo.gif) |  |
 
-[Home](../Welcome.html)
+Home
 
 |
 
-[Critical Psychology](../critpsy/Welcome.html) |
-[Psychology/Law/Justice](../psylaw/Welcome.html) |
-[Politics](../politics/Welcome.html)  
-[Academic Papers](../papers/Welcome.html) | [Opinion
-Columns](../columns/Welcome.html) | [Personal/Political
-Essays](../essays/Welcome.html) | [Course Materials](Welcome.html) |
-[Links](../foxlinks.html)  
+Critical Psychology | Psychology/Law/Justice | Politics  
+Academic Papers | Opinion Columns | Personal/Political Essays | Course
+Materials | Links  
   
 ---|---  
   
-[Search](../search.html)  
+Search  
   
 
 
@@ -32,7 +28,7 @@ It is also cross-listed in SOA, WMS, and POS.
   * 1996 Syllabus
   * Useful Links
 
-Questions? Contact me at [fox.dennis@uis.edu](mailto:fox.dennis@uis.edu)
+Questions? Contact me at fox.dennis@uis.edu
 
 * * *
 
@@ -725,13 +721,13 @@ Summing Up
 
 Links
 
-  * [Law-related links](http://www.uis.edu/~les/lawlinks.html) on the Legal Studies Program's website
-  * [Radical/progressive political links](../foxlinks.html) (includes oppression, feminism, rights, and other course-related issues)
-  * [My papers & publications](../papers/Welcome.html) frequently touch on issues of law and justice
-  * [Reading Lists](socpsy-readings.html)
-    * [Power, Oppression, Law, & Social Change](socpsy-readings2.html#Power)
-    * [Family, Sex Roles, Feminism](socpsy-readings.html#Sex)
-    * [Societal Trends](socpsy-readings2.html#Trends)
+  * Law-related links on the Legal Studies Program's website
+  * Radical/progressive political links (includes oppression, feminism, rights, and other course-related issues)
+  * My papers & publications frequently touch on issues of law and justice
+  * Reading Lists
+    * Power, Oppression, Law, & Social Change
+    * Family, Sex Roles, Feminism
+    * Societal Trends
 
   
   
@@ -739,18 +735,14 @@ up to top
 
 * * *
 
-[Home](../Welcome.html) | [Search  
-](../search.html)[Critical Psychology](../critpsy/Welcome.html) |
-[Psychology/Law/Justice](../psylaw/Welcome.html) |
-[Politics](../politics/Welcome.html)  
-[Academic Papers](../papers/Welcome.html) | [Opinion
-Columns](../columns/Welcome.html) | [Personal/Political
-Essays](../essays/Welcome.html) [  
-Course Materials](Welcome.html) | [Links](../foxlinks.html)
+Home | Search  
+Critical Psychology | Psychology/Law/Justice | Politics  
+Academic Papers | Opinion Columns | Personal/Political Essays  
+Course Materials | Links
 
 * * *
 
 Page updated January 6, 2002  
-[fox.dennis@uis.edu](mailto:fox.dennis@uis.edu?Subject=From%20Professing%20web%20site%20%20%20)  
-[http://people.uis.edu/dfox1](../Welcome.html)
+fox.dennis@uis.edu  
+http://people.uis.edu/dfox1
 

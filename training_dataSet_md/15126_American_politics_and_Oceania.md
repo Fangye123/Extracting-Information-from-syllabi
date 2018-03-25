@@ -1,5 +1,4 @@
-[< < <](msg00150.html) [ Date](index.html#00151) [> > >](msg00152.html) | [< <
-<](msg00152.html) [Thread](threads.html#00151) [> > >](msg00149.html)
+< < < Date > > > | < < < Thread > > >
 
 * * *
 
@@ -13,14 +12,14 @@
     
     
     In teaching international law, I learned of Kurt Gaubatz' coursepage
-    (<http://www.stanford.edu/class/ps142k/ps142k.htm>).  One of the interesting
+    (http://www.stanford.edu/class/ps142k/ps142k.htm).  One of the interesting
     cases he lists there is a connection to the Oceania website.  Oceania is a
     project to build a new country out in the ocean.  The project promoters have
     written a libertarian constitution for their planned country.  Kurt offers
     excellent questions about the international legal issues that might be
     associated with such a new entity--it led to a solid hour of fine discussion
     in my class. If you're interested in getting to Oceania without going
-    through Kurt's fine course page, then use: <http://www.oceania.org>
+    through Kurt's fine course page, then use: http://www.oceania.org
     
     I got to thinking after the international law class, that it might be fun to
     have my American government students compare the idea of liberty in the
@@ -115,9 +114,7 @@
 
 * * *
 
-[< < <](msg00150.html) [ Date](index.html#00151) [> > >](msg00152.html) | [< <
-<](msg00152.html) [Thread](threads.html#00151) [> > >](msg00149.html) |
-[Home](/forums/casenet/)
+< < < Date > > > | < < < Thread > > > | Home
 
 * * *
 

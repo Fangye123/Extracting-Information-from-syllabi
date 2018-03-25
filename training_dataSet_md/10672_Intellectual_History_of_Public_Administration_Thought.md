@@ -6,20 +6,16 @@ and Current Directions
   
 Autumn, 2001  
   
-Professor: [David Landsbergen](mailto:landsbergen.1@osu.edu) | Time: Tuesday,
-9-12 a.m.  
+Professor: David Landsbergen | Time: Tuesday, 9-12 a.m.  
 ---|---  
 Office: 310 Fisher Hall | Location: 300B Fisher Hall  
 Phone: 292-9577 | Office Hours: Thursday 9:30-11:30  
-[Seminar Listserver](mailto:PPM880P06@lists.acs.ohio-state.edu) | [Past
-Listserver Emails](Restricted/email.html)  
+Seminar Listserver | Past Listserver Emails  
 ********  
 **** Introduction | Objectives | Readings | Assignments | Grading  
 ---|---|---|---|---  
-[Tips on Critiquing the Readings](Restricted/reading.html) | [Tips on Writing
-Paper](Restricted/writing.html) | [Important
-Journals](Restricted/journals.html) | Short Schedule | [Detailed
-Schedule](schedule.html)  
+Tips on Critiquing the Readings | Tips on Writing Paper | Important Journals |
+Short Schedule | Detailed Schedule  
 ****  
 **
 
@@ -58,8 +54,8 @@ answers that have already been given;
 
 >
 
-> c. [develop the ability to think critically, synthetically, and to develop
-new theory](Restricted/meaning.html);
+> c. develop the ability to think critically, synthetically, and to develop
+new theory;
 
 >
 
@@ -114,10 +110,9 @@ class.
 
 Each summary should consist of two parts. The first part should be a brief
 description of the main points of the reading. This will allow the reader to
-quickly identify the main contribution of the work. [Please limit your use of
-direct quotes except where necessary](Restricted/meaning.html). The second
-part should be a critique of the work. Review [Appendix
-1](Restricted/reading.html), below, for advice on how to write up a critique
+quickly identify the main contribution of the work. Please limit your use of
+direct quotes except where necessary. The second part should be a critique of
+the work. Review Appendix 1, below, for advice on how to write up a critique
 of your assigned readings. The main goal is, again, to identify what
 theoretical contributions are necessary for us to move forward on this issue.
 Please do not read the paper when you report out to the class.
@@ -126,8 +121,8 @@ To make the copies available to your colleagues, email a copy of your review
 in RTF format to everyone in the class (including the prof). Also, please
 upload a copy to our working library of reviews.
 
-Please read this document on how to transfer files using email and FTP:
-([RTF](Restricted/transfer.rtf)) and ([PDF](Restricted/transfer.pdf)).
+Please read this document on how to transfer files using email and FTP: (RTF)
+and (PDF).
 
 _Where to Upload Your Review and Download Others' Reviews_
 
@@ -147,14 +142,14 @@ _Using Email to Exhange Your Files:_
 
 Here are our email addresses:
 
-Young-Min Kim | [kim.1173@osu.edu](mailto:kim.1173@osu.edu)  
+Young-Min Kim | kim.1173@osu.edu  
 ---|---  
-David Landsbergen | [landsbergen.1@osu.edu](mailto:landsbergen.1@osu.edu)  
-Haoying Ou | [ou.12@osu.edu](mailto:ou.12@osu.edu)  
-Amy Price | [price.19@osu.edu](mailto:price.19@osu.edu)  
-John Recker | [recker.23@osu.edu](mailto:recker.23@osu.edu)  
-Brandi Schmidt | [schmidt.307@osu.edu](mailto:schmidt.307@osu.edu)  
-Youxhing Zhang | [zhang.388@osu.edu](mailto:zhang.388@osu.edu)  
+David Landsbergen | landsbergen.1@osu.edu  
+Haoying Ou | ou.12@osu.edu  
+Amy Price | price.19@osu.edu  
+John Recker | recker.23@osu.edu  
+Brandi Schmidt | schmidt.307@osu.edu  
+Youxhing Zhang | zhang.388@osu.edu  
   
   
 
@@ -163,9 +158,8 @@ Youxhing Zhang | [zhang.388@osu.edu](mailto:zhang.388@osu.edu)
 2\. The second assignment is to develop a 'theoretical eye' by looking at a
 current issue and identifying its latent theory and/or what theoretical
 questions may be important to dealing with that issue. We have two such
-assignments, one for the second week of the quarter ([October
-2](schedule.html#October 2)) and one for the tenth week of the class
-([November 27](schedule.html#November 27)). Please use the same approach as
+assignments, one for the second week of the quarter (October 2) and one for
+the tenth week of the class (November 27). Please use the same approach as
 identified above to transfer files to the rest of the class.  
 
   
@@ -180,12 +174,11 @@ management.
 The purpose of this assignment is for you to begin gaining mastery over a
 particular subject area in public policy or management. This is a first and
 important step in beginning your dissertation work and ultimately, your
-professional development as an academic. [Appendix 2](Restricted/writing.html)
-gives some suggestions on how you might proceed with this assignment. __ I
-strongly encourage you to talk to me or your classmates frequently about your
-ideas or doubts. If you do not contact me, I will be contacting you. This is
-an iterative, non-linear process, so start learning how to do it. Here are the
-due dates:
+professional development as an academic. Appendix 2 gives some suggestions on
+how you might proceed with this assignment. __ I strongly encourage you to
+talk to me or your classmates frequently about your ideas or doubts. If you do
+not contact me, I will be contacting you. This is an iterative, non-linear
+process, so start learning how to do it. Here are the due dates:
 
 > 1\. _**October 2**_ \- **One paragraph** description of your topic including
 an explanation of the issue, why it is important to study, how it fits in
@@ -225,56 +218,55 @@ submitting the article for publication.
   
 **Schedule**
 
-### [ (Click here for Detailed Schedule)](schedule.html)  
+###  (Click here for Detailed Schedule)  
 
 _**  
-**_[**September 25**](schedule.html#September 25) _ ****_ (top)
+**_**September 25** _ ****_ (top)
 
 _**I. Welcome and Introduction to the Course**_
 
-[**October 2**](schedule.html#October 2) **** (top)
+**October 2** **** (top)
 
 _**II. Intellectual Foundations and Current Issues**_  
 
 _****__**  
-**_[**October 9**](schedule.html#October 9) **** (top)
+**_**October 9** **** (top)
 
 _**III. The Golden Years of Public Administration - Towards a Science of
 Public Management**_
 
 _  
-_[**October 16**](schedule.html#October 16) (top)
+_**October 16** (top)
 
 _**IV. Early Challenges to the Orthodoxy**_  
 
 _****  
-_[**October 23**](schedule.html#October 23) (top)
+_**October 23** (top)
 
 _**V. The Orthodoxy in Retreat**_
 
 _**  
-**_[**October 30**](schedule.html#October 30) **** (top)
+**_**October 30** **** (top)
 
 _**VI. Broadening and Deepening of Public Administration: The Influence and
 Inclusion of the Disciplines (Theory)**_ _  
 __**  
-**_[**November 6**](schedule.html#November 6) **** (top)
+**_**November 6** **** (top)
 
 _**VII. Broadening and Deepening of Public Administration: The Influence and
 Inclusion of the Disciplines (Policy Analysis)  
 **__**  
-**_[**November 13**](schedule.html#November 13) **** (top)
+**_**November 13** **** (top)
 
 _**VIII. Broadening and Deepening of Public Administration: The Influence and
 Inclusion of the Disciplines (Management)**  
-__****[**  
-**](schedule.html#November 20)_[**November 20**](schedule.html#November 20)
-**** (top)
+__******  
+**_**November 20** **** (top)
 
 _**IX. Broadening and Deepening of Public Administration: The Influence and
 Inclusion of the Disciplines (Law)**_  
 _  
-_[**November 27**](schedule.html#November 27) (top)
+_**November 27** (top)
 
 _**X. Current Directions - Current Issues**_
 

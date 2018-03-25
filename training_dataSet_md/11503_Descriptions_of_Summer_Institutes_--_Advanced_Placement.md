@@ -2,7 +2,7 @@
 
 * * *
 
-PD APFA 690 | **AP Teacher: Art Studio** | [Syllabus](apsyllabus.htm#)  
+PD APFA 690 | **AP Teacher: Art Studio** | Syllabus  
 ---|---|---  
   
 An institute designed to prepare high school teachers to develop a curriculum
@@ -18,7 +18,7 @@ individualized for his/her school teaching situation.
   
 * * *  
   
-PD APSC 690 | **AP Teacher: Biology** | [Syllabus](apsyl-biology.htm)  
+PD APSC 690 | **AP Teacher: Biology** | Syllabus  
   
 An institute designed to prepare high school biology teachers to teach AP
 Biology n their high schools. The institute will focus on the review and
@@ -30,7 +30,7 @@ develop an AP curriculum individualized for his/her school teaching situation.
   
 * * *  
   
-PD APMT 690 | **AP Teacher: Calculus AB** | [Syllabus](apsyllabus.htm#)  
+PD APMT 690 | **AP Teacher: Calculus AB** | Syllabus  
   
 An institute designed to prepare high school mathematics teachers to teach AP
 Calculus courses in their highs schools, to review and reinforce calculus
@@ -41,7 +41,7 @@ curriculum individualized for his/her school teaching situation.
   
 * * *  
   
-PD APSC 690 | **AP Teacher: Chemistry** | [Syllabus](apsyl-chem.htm)  
+PD APSC 690 | **AP Teacher: Chemistry** | Syllabus  
   
 An institute designed to prepare high school teachers to develop a curriculum
 that will prepare their students to take the Advanced Placement Language and
@@ -52,8 +52,7 @@ an AP curriculum individualized for his/her school teaching situation.
   
 * * *  
   
-PD APLL 690 | **AP Teacher: English Language & Comp** |
-[Syllabus](apsyllabus.htm#)  
+PD APLL 690 | **AP Teacher: English Language & Comp** | Syllabus  
   
 An institute designed to prepare high school teachers to develop a curriculum
 that will prepare their students to take the Advanced Placement Language and
@@ -64,8 +63,7 @@ an AP curriculum individualized for his/her school teaching situation.
   
 * * *  
   
-PD APLL 690 | **AP Teacher: English Literature & Comp** |
-[Syllabus](apsyllabus.htm#)  
+PD APLL 690 | **AP Teacher: English Literature & Comp** | Syllabus  
   
 An institute designed to prepare high school teachers to develop a curriculum
 that will prepare their students to take the Advanced Placement Literature and
@@ -76,7 +74,7 @@ curriculum individualized for his/her school teaching situation.
   
 * * *  
   
-PD APLL 690 | **AP Teacher: Foreign Language** | [Syllabus](apsyllabus.htm#)  
+PD APLL 690 | **AP Teacher: Foreign Language** | Syllabus  
   
 An institute designed to prepare high school teachers of French, German, and
 Spanish I implementing a curriculum that will prepare their students for the
@@ -87,7 +85,7 @@ individualized for his/her school teaching situation.
   
 * * *  
   
-PD APSS 690 | **AP Teacher: U.S. History** | [Syllabus](apsyl-history.htm)  
+PD APSS 690 | **AP Teacher: U.S. History** | Syllabus  
   
 An institute designed to prepare high school United States History teachers to
 teach AP United States History in their high schools and to provide students
@@ -101,7 +99,7 @@ individualized for his/her school teaching situation.
   
 * * *  
   
-PD APSC 690 | **AP Teacher: Physics B** | [Syllabus](apsyllabus.htm#)  
+PD APSC 690 | **AP Teacher: Physics B** | Syllabus  
   
 An institute designed to prepare high school physics teachers to teach AP
 Physics in their high schools and to review and reinforce the basic concepts
@@ -113,7 +111,7 @@ school teaching situation.
   
 * * *  
   
-PD APSS 690 | **AP Teacher: Psychology** | [Syllabus](apsyllabus.htm#)  
+PD APSS 690 | **AP Teacher: Psychology** | Syllabus  
   
 An institute designed to prepare high school psychology teachers to teach AP
 Psychology in their high schools. This institute will teach teachers how to
@@ -125,9 +123,8 @@ curriculum individualized for his/her school teaching situation.
   
 * * *
 
-Direct questions and comments to
-[profdev@truman.edu](mailto:profdev@truman.edu).
+Direct questions and comments to profdev@truman.edu.
 
-Copyright (C) 1999 by Truman State University, [Kirksville,
-Missouri](http://www.kirksvillecity.com). All Rights Reserved.
+Copyright (C) 1999 by Truman State University, Kirksville, Missouri. All
+Rights Reserved.
 

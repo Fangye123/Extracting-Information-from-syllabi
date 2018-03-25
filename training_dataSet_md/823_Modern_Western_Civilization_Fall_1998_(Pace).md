@@ -6,9 +6,8 @@
 
 ![](newguill3.JPG) **Instructor:** Dr. Robert F. Pace **Office:** 233 M.
 Ruffner **Office telephone:** 395-2220 **Office hours:** MWF: 9:30-10:00;
-11:00-11:45 OR BY APPOINTMENT **Instructor e-mail:** [![](email2.gif)](mailto:
-rpace@longwood.lwc.edu) [rpace@longwood.lwc.edu](mailto:
-rpace@longwood.lwc.edu)  
+11:00-11:45 OR BY APPOINTMENT **Instructor e-mail:** ![](email2.gif)
+rpace@longwood.lwc.edu  
 
 * * *
 
@@ -42,7 +41,7 @@ _     Since 1648_. Sixth Edition. Upper Saddle River, N.J.: Prentice Hall,
 1998.
 
 Web site for this textbook:  
-**<http://www.prenhall.com/bookbind/pubbooks/kagan/index.html>**
+**http://www.prenhall.com/bookbind/pubbooks/kagan/index.html**
 
  Return to Table of Contents  
 
@@ -257,8 +256,7 @@ After the student has read the chapter, including the documents placed
 throughout the chapter, he or she will use the Internet and go to the Prentice
 Hall Webpage for our textbook. Use the on-line instructions to go to the
 appropriate chapter(s) assigned for that week. Students must make sure that
-the instructor's email address
-([rpace@longwood.lwc.edu](mailto:rpace@longwood.lwc.edu)) appears on the form
+the instructor's email address (rpace@longwood.lwc.edu) appears on the form
 for the results to be sent to him. Students should also make sure that their
 own e-mail address appears on the quiz.  This can be accomplished through
 changing the "Preferences" section on the page, or through typing the address
@@ -315,8 +313,7 @@ should be about one note number per paragraph, but this is not an absolute.
 Some paragraphs will need more note numbers because multiple sources could be
 used for that paragraph.  If you have one note number per sentence, you have
 too many notes. Further instructions on the style can be found below.  You
-should also take a look at the [Department Style
-Manual.](http://web.lwc.edu/academic/las/history/HDPTSTS2.htm)
+should also take a look at the Department Style Manual.
 
 In addition to footnotes or endnotes, you will need to have a "Works Cited"
 Page.
@@ -426,8 +423,7 @@ Flax, Rosabel. _Guidelines for Teaching Mathematics K-12_. Topeka:
      Kansas Department of Education, 1979. Database on-line. Available from Dialog ERIC,   
      ED 178312. 
 
-[Click here to see an example of a properly cited history
-paper.](http://web.lwc.edu/academic/las/history/semexamp.htm)
+Click here to see an example of a properly cited history paper.
 
  Return to Table of Contents
 
@@ -476,10 +472,8 @@ or Scott Lissner in the Learning Center.
 * * *
 
   
-[ Return to Spring 1999 Syllabus
-Page](http://web.lwc.edu/academic/las/history/syllabi.htm#Spring 1999 Syllabi)  
- [Return to Department of History and Political Science
-Homepage](http://web.lwc.edu/academic/las/history/Home.htm)  
+ Return to Spring 1999 Syllabus Page  
+ Return to Department of History and Political Science Homepage  
 
 * * *
 

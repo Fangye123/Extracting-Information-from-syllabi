@@ -2,38 +2,36 @@
 
 **Instructor: Dr. Tom O'Connor  
 Office 261B: (252) 985-5166  
-[toconnor@ncwc.edu](mailto:toconnor@ncwc.edu)  
-[http://faculty.ncwc.edu/toconnor  
-](../default.htm)****_Last offered:_** **SUMMER II - 02 in Goldsboro** **in
-SELF-PACED format  
+toconnor@ncwc.edu  
+http://faculty.ncwc.edu/toconnor  
+****_Last offered:_** **SUMMER II - 02 in Goldsboro** **in SELF-PACED format  
 Textbook: Hoover, K.  & Donovan, T. (2001) The Elements of Social Scientific
 Thinking. Wadsworth (7e) ISBN 0312208626** |
 
-[![](hoovertext.jpg)](http://www.wadsworth.com/cgi-
-wadsworth/course_products_wp.pl?fid=M2&discipline_number=20&product_isbn_issn=0312208626)  
+![](hoovertext.jpg)  
 Click on book cover to visit Publishing Company's website  
 ---|---  
   
 
 
-[![](../images/announcements.gif)](../sorry.htm) |
+![](../images/announcements.gif) |
 
-[![](../images/assignments.gif)](308assign.htm) |
+![](../images/assignments.gif) |
 
-[![grades](../images/grades.gif)](308grade.htm) |
+![grades](../images/grades.gif) |
 
-[![lectures](../images/blectnot.gif)](308lects.htm)  
+![lectures](../images/blectnot.gif)  
 ---|---|---|---  
   
-[![](../images/onlineexam.gif)](308finalfasp0102.htm) |
+![](../images/onlineexam.gif) |
 
-[![](../images/researchlinks.gif)](308links.htm) |
+![](../images/researchlinks.gif) |
 
-[![exam](../images/sampexam.gif)](308final.htm) |
+![exam](../images/sampexam.gif) |
 
-[![syllabus](../images/syllabus.gif)](308syl.htm)  
+![syllabus](../images/syllabus.gif)  
   
-**Required Reading:[Navigation Guide](../navigation.htm) to Online Course**
+**Required Reading:Navigation Guide to Online Course**
 
 **Course Description:**
 
@@ -51,11 +49,10 @@ traditionally taught. College requirements mandate a prerequisite of MAT 213
 working and deserving students have been allowed in without MAT 213 (depending
 on their math placement score), and concurrent registration in JUS 308 and MAT
 213 is of course allowed. If you are unsure about your current math skills,
-take the following[QUIZ](quantit.htm), while not officially a placement test,
-should indicate your readiness to take this course depending upon how much
-difficulty these basic math questions pose for you. However, even if the
-questions are easy for you, this is no guarantee you will do well in the
-course.**
+take the followingQUIZ, while not officially a placement test, should indicate
+your readiness to take this course depending upon how much difficulty these
+basic math questions pose for you. However, even if the questions are easy for
+you, this is no guarantee you will do well in the course.**
 
 **Required Readings:**
 
@@ -222,10 +219,9 @@ administratively dropped.**
 **Office Hours:**
 
 **Please feel encouraged to stop by during office hours, and any other time at
-your convenience. You'll note that the fastest way to contact me is
-via[email](mailto:toconnor@ncwc.edu), and there are also extensive resources
-for this course on the [web site](../default.htm). Please familiarize yourself
-with the [navigation scheme](../navigation.htm).**
+your convenience. You'll note that the fastest way to contact me is viaemail,
+and there are also extensive resources for this course on the web site. Please
+familiarize yourself with the navigation scheme.**
 
 **Assignments:**
 
@@ -238,32 +234,29 @@ easy-to-learn format.**
 **8-week Course Calendar:**
 
 **Week #1** | **Topic: _Theory of Research Methodology_  
-Assigned Readings: [ Lecture #1](308lect01.htm) ( _Inference_ ); [ Lecture
-#2](308lect02.htm) ( _Hypotheses_ )**  
+Assigned Readings:  Lecture #1 ( _Inference_ );  Lecture #2 ( _Hypotheses_ )**  
 ---|---  
 **Week #2** | **Topic: _Research Methodology_  
-Assigned Readings: [ Lecture #3](308lect03.htm) ( _Sampling_ ); [ Lecture
-#4](308lect04.htm) ( _Measurement_ )**  
+Assigned Readings:  Lecture #3 ( _Sampling_ );  Lecture #4 ( _Measurement_ )**  
 **Week #3** | **Topic: _Research Design_  
-Assigned Readings: [ Lecture #5 ](308lect05.htm) ( _Scales & Indexes_); [
-Lecture #6](308lect06.htm) ( _Experiments_ )**  
+Assigned Readings:  Lecture #5  ( _Scales & Indexes_);  Lecture #6 (
+_Experiments_ )**  
 **Week #4** | **Topic: _Research Design_  
-Assigned Reading: [ Lecture #7](308lect07.htm) ( _Surveys_ ) **  
+Assigned Reading:  Lecture #7 ( _Surveys_ ) **  
 **Week #5** | **Topic: _Statistical Data Analysis_  
-Assigned Reading: [ Lecture #8](308lect08.htm) ( _Data Analysis_ )**  
+Assigned Reading:  Lecture #8 ( _Data Analysis_ )**  
 **Week #6** | **Topic: _Qualitative and Historical Methods_  
-Assigned Reading: [ Lecture #9](308lect09.htm) ( _Qualitative Methodology_ )
-**  
+Assigned Reading:  Lecture #9 ( _Qualitative Methodology_ ) **  
 **Week #7** | **Topic: _Research Ethics_  
-Assigned Reading: [ Lecture #10](308lect10.htm) ( _Ethics_ )**  
+Assigned Reading:  Lecture #10 ( _Ethics_ )**  
 **Week #8** | **Topic: _Program Evaluation and Policy Analysis_  
-Assigned Reading: [ Lecture #11](308lect11.htm) ( _Policy Analysis_ )**  
+Assigned Reading:  Lecture #11 ( _Policy Analysis_ )**  
 **Week #9** | **FINAL EXAM WEEK (Catch up week for Readings and Assignments)**  
   
 **Last updated: 08/15/02  
-[Lecture List for JUS 308](308lects.htm)  
-[MegaLinks in Criminal Justice](../default.htm)  
-[North Carolina Wesleyan](http://www.ncwc.edu)**
+Lecture List for JUS 308  
+MegaLinks in Criminal Justice  
+North Carolina Wesleyan**
 
 
 

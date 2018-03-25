@@ -58,7 +58,7 @@ Readings
 >> 03 Streaming and all that Jive  
 > 10 Web Basics  
 >  17 Spring break  
-> [24 Tables and Graphs](02.html#24)
+> 24 Tables and Graphs
 
 >
 
@@ -66,8 +66,7 @@ Readings
 
 >
 
->> [01 Web Publishing](http://www.usm.maine.edu/~amoroso/edu521/02.html#24
-Workshop)
+>> 01 Web Publishing
 
 **     Return to Top**  
 
@@ -174,48 +173,47 @@ pass/fail basis).
 _**Focus Question** :_What are we going to be doing this semester? What are
 examples of E-resources?  How do address books work?
 
-[In-Class](http://www.usm.maine.edu/~amoroso/edu521/spy.html)
+In-Class
 
 **_Tutorial:_**![](lumiere.GIF)
 
 **(Choose One)**
 
 ![](new.gif) Web at a Glance  
-<http://www.learnthenet.com/english/web/000www.htm>  
+http://www.learnthenet.com/english/web/000www.htm  
 Internet Overview  
-<http://www.screen.com/start/guide/overview.html>  
+http://www.screen.com/start/guide/overview.html  
 ![](new.gif)Net Lingo  
-<http://www.netlingo.com/right.cfm>  
+http://www.netlingo.com/right.cfm  
 Email Tips  
-<http://everythingemail.net/email_help_tips.html>  
+http://everythingemail.net/email_help_tips.html  
 Electronic Mail  
-<http://www.screen.com/understand/email.html>
+http://www.screen.com/understand/email.html
 
 > **_Readings:_ Required (Choose One)**
 
 >
 
 > ![](new.gif)Standards for Technological Literacy  
-> <http://www.pdkintl.org/kappan/kdug0103.htm>  
-> ![](new.gif)[Digital Chaperones for
-Kids](http://www.consumerreports.org/main/detail.jsp?CONTENT%3C%3Ecnt_id=18867&FOLDER%3C%3Efolder_id=18151&bmUID=1001425980224&WebLogicSession=O7CMPCKJv1scAqd5RM2kTy7NyHgkKgOXWyrahw5KkrBkCapqkBQHeKclAdGte1Uk1cjJ1A71vWY3|-4094642596305651250/169937910/5/7005/7005/7002/7002/-1|7128385742984218545/169937912/5/7005/7005/7002/7002/-1|-4094642596305644946)  
+> http://www.pdkintl.org/kappan/kdug0103.htm  
+> ![](new.gif)Digital Chaperones for Kids  
 > What is the Internet?  
-> <http://info.isoc.org/internet/>  
+> http://info.isoc.org/internet/  
 > ![](new.gif)Internet Projects  
-> <http://www.schoolworld.asn.au/projects.html>
+> http://www.schoolworld.asn.au/projects.html
 
 > **Recommended**
 
 >
 
 > Is Privacy Possible in the Digital Age?  
-> <http://www.msnbc.com/news/498514.asp>  
+> http://www.msnbc.com/news/498514.asp  
 > ![](new.gif)Internet Study  
-> <http://www.edisonresearch.com/internet5sum.htm>  
+> http://www.edisonresearch.com/internet5sum.htm  
 > Beyond the Information Revolution  
-> <http://www.theatlantic.com/issues/99oct/9910drucker.htm>  
+> http://www.theatlantic.com/issues/99oct/9910drucker.htm  
 > Electronic Scholarship  
-> <http://www.pdkintl.org/kappan/kvan9911.htm>
+> http://www.pdkintl.org/kappan/kvan9911.htm
 
 > **_Links:_ (Review Three)**
 
@@ -227,53 +225,53 @@ Kids](http://www.consumerreports.org/main/detail.jsp?CONTENT%3C%3Ecnt_id=18867&F
 
 > ![](new.gif) Helping Children Cope with Terrorism
 
-> <http://www.nasponline.org/NEAT/terrorism.html>
+> http://www.nasponline.org/NEAT/terrorism.html
 
 > ![](new.gif)Great Children's Author Sites
 
-> <http://teacher.scholastic.com/professional/websitings.htm>
+> http://teacher.scholastic.com/professional/websitings.htm
 
 >  
 > Maine Schools Online  
-> <http://www.twmaine.com/meschool.htm>  
+> http://www.twmaine.com/meschool.htm  
 > National Education Association  
-> <http://www.nea.org/>  
+> http://www.nea.org/  
 > Education Week ![](ed_choice.gif)  
-> <http://www.edweek.org/>  
+> http://www.edweek.org/  
 > Using the Internet for Teaching and Learning  
-> <http://languagecenter.cla.umn.edu/lc/surfing/InetTandL>  
+> http://languagecenter.cla.umn.edu/lc/surfing/InetTandL  
 > History of Education Site ![](ed_choice.gif)  
-> <http://www.washingtonpost.com/>  
+> http://www.washingtonpost.com/  
 > Teaching and Learning on the Net  
-> <http://www.cudenver.edu./~mryder/itc/net_teach.html>  
+> http://www.cudenver.edu./~mryder/itc/net_teach.html  
 > US Department of Education  
-> <http://www.ed.gov/>
+> http://www.ed.gov/
 
 >
 
 > **Slightly Different**
 
 > ![](new.gif) Free Case Review  
-> <http://www.freecasereview.com/>  
+> http://www.freecasereview.com/  
 > ![](new.gif)Surf Control  
-> <http://www.surfcontrol.com/>  
+> http://www.surfcontrol.com/  
 > Rolling Stone Gallery  
 >
-<http://rollingstone.tunes.com/sections/gallery/text/search.asp?afl=rsn?afl=goto>  
+http://rollingstone.tunes.com/sections/gallery/text/search.asp?afl=rsn?afl=goto  
 > Salon Magazine ![](ed_choice.gif)  
-> <http://www.salonmagazine.com/>  
+> http://www.salonmagazine.com/  
 > American Heritage Magazine ![](ed_choice.gif)  
-> <http://www.americanheritage.com/>  
+> http://www.americanheritage.com/  
 > Yosemite Park  
-> <http://www.yosemitepark.com/>  
+> http://www.yosemitepark.com/  
 > Travelscape  
-> <http://www.travelscape.com/>  
+> http://www.travelscape.com/  
 > Bigfoot.Com  
-> <http://www.Bigfoot.com/>  
+> http://www.Bigfoot.com/  
 > Edmunds  
-> <http://www.edmunds.com/>  
+> http://www.edmunds.com/  
 > CBS Sportsline  
-> <http://www.cbs.sportsline.com/>
+> http://www.cbs.sportsline.com/
 
 >
 
@@ -282,25 +280,25 @@ Kids](http://www.consumerreports.org/main/detail.jsp?CONTENT%3C%3Ecnt_id=18867&F
 >
 
 > ![](new.gif) CIA for Kids  
-> <http://www.cia.gov/cia/ciakids/>  
+> http://www.cia.gov/cia/ciakids/  
 > ![](new.gif)Ripley's Believe it or Not  
-> <http://www.ripleysf.com/ripley/exhibits/exhibits.html>  
+> http://www.ripleysf.com/ripley/exhibits/exhibits.html  
 > ![](new.gif)Jim Romensko's Media News  
-> <http://www.poynter.org/medianews/index.cfm>  
+> http://www.poynter.org/medianews/index.cfm  
 > Design  
-> <http://www.si.edu/ndm/dfl/>  
+> http://www.si.edu/ndm/dfl/  
 > Sublime Anxiety  
-> <http://www.lib.virginia.edu/exhibits/gothic/open.html>  
+> http://www.lib.virginia.edu/exhibits/gothic/open.html  
 > Bread Recipe  
-> <http://www.breadrecipe.com/>  
+> http://www.breadrecipe.com/  
 > Real Beer Page  
-> <http://www.realbeer.com/>  
+> http://www.realbeer.com/  
 > The Bingo Bugle Newsletter  
-> <http://www.bingobugle.com/>  
+> http://www.bingobugle.com/  
 > Ask a Master Plumber  
-> <http://www.clickit.com/bizwiz/homepage/plumber.htm>  
+> http://www.clickit.com/bizwiz/homepage/plumber.htm  
 > ![](new.gif)Forest City Chevrolet  
-> <http://www.forestcityauto.com/>
+> http://www.forestcityauto.com/
 
 >
 
@@ -331,8 +329,7 @@ into files without loading graphics?
 >  
 >
 
-> 2\. Browse the E-Resources at [Education World](http://www.education-
-world.com/)
+> 2\. Browse the E-Resources at Education World
 
 > **23 Workshop: Netscape's Messenger**
 
@@ -343,7 +340,7 @@ Netscape's 4.7 Messenger?
 
 >
 
->      [ In class](http://www.usm.maine.edu/~amoroso/edu521/j20.html)
+>       In class
 
 >
 
@@ -352,9 +349,9 @@ Netscape's 4.7 Messenger?
 >
 
 > ![](new.gif)E-mail Tips  
->       <http://everythingemail.net/email_help_tips.html>  
+>       http://everythingemail.net/email_help_tips.html  
 > ![](new.gif)Electronic Mail  
->       <http://www.screen.com/understand/email.html>
+>       http://www.screen.com/understand/email.html
 
 >
 
@@ -364,7 +361,7 @@ Netscape's 4.7 Messenger?
                     **Required**
 
 E-Mail Communication and Relationships (Sample)  
-<http://www.rider.edu/users/suler/psycyber/emailrel.html>
+http://www.rider.edu/users/suler/psycyber/emailrel.html
 
 >  
 >
@@ -378,12 +375,12 @@ E-Mail Communication and Relationships (Sample)
 >
 
 >       Maine Department of Education Data  
->       <http://www.state.me.us/education/data/homepage.htm>
+>       http://www.state.me.us/education/data/homepage.htm
 
   Graduation Rates in Maine  
-  <http://www.state.me.us/education/enroll/grads/historical/gradtrend.htm>  
+  http://www.state.me.us/education/enroll/grads/historical/gradtrend.htm  
   Maine Retention Rates  
-  <http://www.state.me.us/education/enroll/retexpl/retexpl.htm>
+  http://www.state.me.us/education/enroll/retexpl/retexpl.htm
 
 >  
 > **Slightly Different**
@@ -391,22 +388,22 @@ E-Mail Communication and Relationships (Sample)
 >
 
 > Merriam-Webster OnLine  
-> [http://www.m-w.com](http://www.m-w.com/)  
+> http://www.m-w.com  
 > U.S. News Onlin  
-> <http://www.usnews.com/usnews/home.htm>  
+> http://www.usnews.com/usnews/home.htm  
 > Phi Delta Kappan Online  
-> <http://www.kiva.net/~pdkintl/kappan/kappan.htm>  
+> http://www.kiva.net/~pdkintl/kappan/kappan.htm  
 > British Library  
-> <http://www.bl.uk/>
+> http://www.bl.uk/
 
       **A Bit More Entertaining**
 
 > ![](new.gif) Emeril Live  
-> <http://www.emerils.com/emerilshome.html>  
+> http://www.emerils.com/emerilshome.html  
 > ![](new.gif)My Simon  
-> <http://www.mysimon.com>  
+> http://www.mysimon.com  
 > ![](new.gif)Sporting News  
-> <http://www.msnbc.com/news/spt_summary.asp>
+> http://www.msnbc.com/news/spt_summary.asp
 
 > **_Homework:_**
 
@@ -425,172 +422,171 @@ What is meant by electronic conferencing? What are educational applications of
 educational conferencing?
 
 ![](wheel.GIFcopy)  
-**_[In Class](http://www.usm.maine.edu/~amoroso/edu521/pump.html)_**
+**_In Class_**
 
 > **_Tutorials:_ (Choose One)**
 
 > Netiquette  
-> <http://www.indiana.edu/~ecopts/ectips.html>
+> http://www.indiana.edu/~ecopts/ectips.html
 
 >
 
 > **_Readings:_ (Choose One)**
 
 ![](new.gif)The Web the Way it Was  
-<http://www.wired.com/news/culture/0,1284,34006,00.html>  
+http://www.wired.com/news/culture/0,1284,34006,00.html  
 ![](new.gif)Anatomy of a Weblog  
-<http://www.camworld.com/journal/rants/99/01/26.html>  
+http://www.camworld.com/journal/rants/99/01/26.html  
 Chatting onLine  
-<http://chatting.about.com/internet/chatting/mpchat.htm>  
+http://chatting.about.com/internet/chatting/mpchat.htm  
 Social Relationships in Electronic Forums  
-<http://www.december.com/cmc/mag/1996/jul/kling.html>  
+http://www.december.com/cmc/mag/1996/jul/kling.html  
 ![](new.gif)Children's Online Privacy Protection Act  
-<http://www.ftc.gov/opa/1999/9910/childfinal.htm>
+http://www.ftc.gov/opa/1999/9910/childfinal.htm
 
 **_Links:_ ( Review Three)**
 
 **Straight and Narrow**
 
 Look Smart![](ed_choice.gif)  
-<http://www.looksmart.com/>  
+http://www.looksmart.com/  
 ![](new.gif)Northern Light![](ed_choice.gif)  
-<http://www.northernlight.com/>  
+http://www.northernlight.com/  
 ![](new.gif)About.com  
-<http://www.about.com/>  
+http://www.about.com/  
 Library of Congress![](ed_choice.gif)  
-<http://lcweb.loc.gov/homepage/lchp.html>  
+http://lcweb.loc.gov/homepage/lchp.html  
 Odyssey in Egypt  
-<http://www.website1.com/odyssey/>  
+http://www.website1.com/odyssey/  
 National Library of Education ![](ed_choice.gif)  
-<http://www.ed.gov/NLE/>  
+http://www.ed.gov/NLE/  
 ![](new.gif)Stream Search ![](ed_choice.gif)  
-<http://www.ss.com/newshome.asp>
+http://www.ss.com/newshome.asp
 
 **Slightly Different**
 
 ![](new.gif) OnLine Activities  
-<http://teacher.scholastic.com/activities/index.htm>  
+http://teacher.scholastic.com/activities/index.htm  
 ![](new.gif)World Maps  
-<http://www.epals.com/emaps/newemaps.e?seesf=8935436>  
-Twenty Below <http://20below.mainetoday.com/>
+http://www.epals.com/emaps/newemaps.e?seesf=8935436  
+Twenty Below http://20below.mainetoday.com/
 
 Instant City Weather
 
-<http://weather.about.com/science/weather/library/blcurrnt.htm>
+http://weather.about.com/science/weather/library/blcurrnt.htm
 
 ![](new.gif)Pencil News ![](ed_choice.gif)
 
-<http://www.msnbc.com/local/pencilnews/default.asp>
+http://www.msnbc.com/local/pencilnews/default.asp
 
 ![](new.gif)Think Quest
 
-<http://www.thinkquest.org/>
+http://www.thinkquest.org/
 
 Map Machine
 
-<http://www.nationalgeographic.com/resources/ngo/maps/>
+http://www.nationalgeographic.com/resources/ngo/maps/
 
 Quotations Page
 
-<http://www.starlingtech.com/quotes/>
+http://www.starlingtech.com/quotes/
 
 National Geographic's Lewis and Clark
 
-<http://www.nationalgeographic.com/features/97/west/>
+http://www.nationalgeographic.com/features/97/west/
 
 Digital Impact
 
-<http://www.digitalimpact.com/indexflash.html>
+http://www.digitalimpact.com/indexflash.html
 
 ![](new.gif)CyberU
 
-<http://www.cyberu.com/>
+http://www.cyberu.com/
 
 ![](new.gif)Instant Messenger
 
-<http://www.newaol.com/aim/netscape/adb00.html>
+http://www.newaol.com/aim/netscape/adb00.html
 
 QuizCenter
 
-<http://www.scrtec.org/track/tracks/f00278.html>
+http://www.scrtec.org/track/tracks/f00278.html
 
 OnLine Behavior
 
-[http://www.behavior.net/index.htm](http://www.behavior.net/index.html)
+http://www.behavior.net/index.htm
 
   
 **A Bit More Entertaining**
 
 CNET.com ![](ed_choice.gif)  
-<http://home.cnet.com/>  
+http://home.cnet.com/  
 ![](new.gif)Seeing Stars in Hollywood  
-<http://www.seeing-stars.com/index.shtml>  
+http://www.seeing-stars.com/index.shtml  
 ![](new.gif)The Week In Pictures  
-<http://www.msnbc.com/modules/theweekinpictures/>  
+http://www.msnbc.com/modules/theweekinpictures/  
 Amazon.Com.Books  
-<http://www.amazon.com>  
+http://www.amazon.com  
 Morgan Stanley Group  
-<http://www.ms.com/>  
+http://www.ms.com/  
 Godiva  
-<http://www.godiva.com/>  
+http://www.godiva.com/  
 ![](new.gif)CoolPuzzles.com  
-<http://www.coolpuzzles.com/>  
+http://www.coolpuzzles.com/  
 USA Today  
-<http://www.usatoday.com/>  
+http://www.usatoday.com/  
 ![](new.gif)All Posters.Com  
-<http://www.allposters.com>  
+http://www.allposters.com  
 Cool Site of the Day  
-<http://www.coolsiteoftheday.com/>  
+http://www.coolsiteoftheday.com/  
 TerraQuest  
-<http://www.terraquest.com/>  
+http://www.terraquest.com/  
 Song Anthologies![](new.gif)  
-<http://toltec.lib.utk.edu/~music/songindex/>
+http://toltec.lib.utk.edu/~music/songindex/
 
 **_Homework:_ (Choose One)**
 
-1\. Open [Dejanews ](http://www.dejanews.com)Browse several news groups. Read
-several messages.  Would you characterize them as sincere ? Antagonistic?
-Meaningful? Playful? Informative? Explain .
+1\. Open Dejanews Browse several news groups. Read several messages.  Would
+you characterize them as sincere ? Antagonistic? Meaningful? Playful?
+Informative? Explain .
 
 2\. Locate a listserv/discussion group of interest to you and subscribe to it.
 
      3\. Unlike email, instant messages appear as soon as they are sent.  Join an instant messenger
-     service such as Netscape's [Instant Messenger , ](http://www.newaol.com/aim/netscape/adb00.html)  [AOL Instant Messenger](http://aim.aol.com/) , [Excite's Messenger](http://messenger.excite.com/)  or [Microsoft's](http://messenger.msn.com/)
-     [Messenger Service](http://messenger.msn.com/)
+     service such as Netscape's Instant Messenger ,   AOL Instant Messenger , Excite's Messenger  or Microsoft's
+     Messenger Service
      **February**
      **06 Conferencing Continued**
 
-      Focus Question:What are the educational benefits of electronic conferencing? [In Class S](http://www.usm.maine.edu/~amoroso/edu521/s4.html)[oca Surprise](http://www.usm.maine.edu/~amoroso/edu521/curr.html)
+      Focus Question:What are the educational benefits of electronic conferencing? In Class Soca Surprise
 
                 **_Tutorial:_ (Choose One)**   
   Six Nasty Tricks From the Net  
-[http://www.cnet.com/internet/0-3805-8-4591040-1.](http://www.cnet.com/internet/0-3805-8-4591040-1.html?tag=st.cn.1.tlpg.3805-8-4591040-1)  
-[html?tag=st.cn.1.tlpg.3805-8-4591040-1](http://www.cnet.com/internet/0-3805-8-4591040-1.html?tag=st.cn.1.tlpg.3805-8-4591040-1)
+http://www.cnet.com/internet/0-3805-8-4591040-1.  
+html?tag=st.cn.1.tlpg.3805-8-4591040-1
 
   
                 **_Readings: (Choose_ One)**   
   ![](new.gif)Videoconferencing
-<http://www.kn.pacbell.com/wired/vidconf/description.html>
+http://www.kn.pacbell.com/wired/vidconf/description.html
 
       _**Links:**_ **(Review Three)**
 
 **Straight and Narrow**
 
 > ![](new.gif) Maine Memory Index  
-> <http://www.mainememory.net>  
+> http://www.mainememory.net  
 > Look Smart  
-> <http://www.looksmart.com/>  
+> http://www.looksmart.com/  
 > Northern Light  
-> <http://www.northernlight.com/>  
+> http://www.northernlight.com/  
 > About.com  
-> <http://www.about.com/>  
+> http://www.about.com/  
 > Library of Congress  
-> <http://lcweb.loc.gov/homepage/lchp.html>  
+> http://lcweb.loc.gov/homepage/lchp.html  
 > Odyssey in Egypt  
-> <http://www.website1.com/odyssey/>  
+> http://www.website1.com/odyssey/  
 > Twenty Below  
->
-[http://20below.mainetoday.com/](http://weather.about.com/science/weather/library/blcurrnt.htm)
+> http://20below.mainetoday.com/
 
 > **Slightly Different**
 
@@ -599,31 +595,30 @@ Meaningful? Playful? Informative? Explain .
 > ![](new.gif) Free handwriting Fonts  
 > http://handwritingfonts.virtualave.net/helpa.html  
 > ![](new.gif)Instant City Weather  
-> <http://weather.about.com/science/weather/library/blcurrnt.htm>  
+> http://weather.about.com/science/weather/library/blcurrnt.htm  
 > Pencil News  
-> <http://www.msnbc.com/local/pencilnews/default.asp>  
+> http://www.msnbc.com/local/pencilnews/default.asp  
 > Think Quest  
-> <http://www.thinkquest.org/>  
+> http://www.thinkquest.org/  
 > Map Machine  
-> <http://www.nationalgeographic.com/resources/ngo/maps/>  
+> http://www.nationalgeographic.com/resources/ngo/maps/  
 > Quotations Page  
-> <http://www.starlingtech.com/quotes/>  
+> http://www.starlingtech.com/quotes/  
 > National Geographic's Lewis and Clark  
-> <http://www.nationalgeographic.com/features/97/west/>
+> http://www.nationalgeographic.com/features/97/west/
 
       **A Bit More Entertaining**
 
 > ![](new.gif) CNET.com  
-> <http://home.cnet.com/>  
+> http://home.cnet.com/  
 > ![](new.gif)Seeing Stars in Hollywood  
-> [http://www.seeing-stars.com/index.shtm](http://www.seeing-
-stars.com/index.shtml)  
+> http://www.seeing-stars.com/index.shtm  
 > ![](new.gif)The Week In Pictures  
-> <http://www.msnbc.com/modules/theweekinpictures/>  
+> http://www.msnbc.com/modules/theweekinpictures/  
 > ![](new.gif)MP3.Com  
-> <http://www.mp3.com/>  
+> http://www.mp3.com/  
 > ![](new.gif)Classical Music Archives  
-> <http://www.classicalarchives.com/>
+> http://www.classicalarchives.com/
 
 >
 
@@ -636,10 +631,9 @@ interested.
 
 >>
 
->> 2\. Get a head start on learning about e-books. Spend time at [E-books in
-the classsroom.](http://publishing.about.com/library/weekly/aa072200a.htm)  
-> Download free e-books software at
-O[verdrive](http://www.overdrive.com/readerworks/software/standard.asp)
+>> 2\. Get a head start on learning about e-books. Spend time at E-books in
+the classsroom.  
+> Download free e-books software at Overdrive
 
 >>
 
@@ -651,14 +645,11 @@ O[verdrive](http://www.overdrive.com/readerworks/software/standard.asp)
 
 >>
 
->> 5\. Read [Let's
-Chat](http://ifets.ieee.org/periodical/vol_3_2001/grigsby.html). Suggest
-strategies for using chat rooms in classrooms.
+>> 5\. Read Let's Chat. Suggest strategies for using chat rooms in classrooms.
 
 >>
 
->> 6\. Respond to the article, [Can Intimacy be Found
-Online](http://www.pureintimacy.org/online1/essays/a0000004.html)?
+>> 6\. Respond to the article, Can Intimacy be Found Online?
 
 >
 
@@ -673,70 +664,67 @@ Online](http://www.pureintimacy.org/online1/essays/a0000004.html)?
 >  
 > **_Focus Question:_** What are the types of information that can be found on
 the Internet?  
->   _[In Class](http://www.usm.maine.edu/~amoroso/edu521/L15.html)_
+>   _In Class_
 
 >
 
 > **_Tutorials: (Choose One)_**
 
 Finding Information on the Internet: A TUTORIAL  
-> <http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/FindInfo.html>  
+> http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/FindInfo.html  
 > Searching and Researching on the Internet and the World Wide Web  
-> [
-http://www.webliminal.com/search/index.html](http://www.webliminal.com/search/index.html)  
+>  http://www.webliminal.com/search/index.html  
 > Researching Companies Online  
-> <http://home.sprintmail.com/~debflanagan/index.html>     ** _Readings:_**
+> http://home.sprintmail.com/~debflanagan/index.html     ** _Readings:_**
 
 > **Required**
 
 >  
 > ![](new.gif) E-Books: Just Another Imprint?
-<http://www.wired.com/news/technology/0,1282,40584,00.html>
+http://www.wired.com/news/technology/0,1282,40584,00.html
 
 >
 
 ![](new.gif)Be a Web-Savvy Researcher
 
-> <http://www.llrx.com/features/savvy.htm#fn1>
+> http://www.llrx.com/features/savvy.htm#fn1
 
 > ![](new.gif)What Makes a Hacker  Hack?
 
-> <http://zdnet.com.com/2100-1105-831095.html>
+> http://zdnet.com.com/2100-1105-831095.html
 
 > **Recommended**
 
 > No "There" There
 
-> <http://www.theatlantic.com/issues/2000/08/koppell.htm>
+> http://www.theatlantic.com/issues/2000/08/koppell.htm
 
 > Detecting Internet Fraud ( Choose one link)
 
-> <http://www.virtualchase.com/quality/alert.html>
+> http://www.virtualchase.com/quality/alert.html
 
 > Has the Internet killed the novel?
 
-> <http://www.randomhouse.com/atrandom/kurtandersen/debate.html>
+> http://www.randomhouse.com/atrandom/kurtandersen/debate.html
 
 > Internet debate generates hot air!
 
-> <http://www.salon.com/books/log/1999/05/17/debate/index.html>
+> http://www.salon.com/books/log/1999/05/17/debate/index.html
 
 > Are we ready for the library of the future?
 
-> <http://www.salonmagazine.com/21st/feature/1997/12/02feature.html>
+> http://www.salonmagazine.com/21st/feature/1997/12/02feature.html
 
 > Susan Thomas." The news pushers." _U.S. News & World Report_ **.** March 17,
-1997 v122 n10 p76(1) Article
-[A19203855](http://www.usm.maine.edu/~amoroso/edu521/thomas.html)
+1997 v122 n10 p76(1) Article A19203855
 
 > Evaluating Web Sites: Criteria and Tools
 
->
-[http://www.library.cornell.edu/okuref/research/webreview.html](http://www.library.cornell.edu/okuref/research/webeval.html)
+> http://www.library.cornell.edu/okuref/research/webreview.html
 
 > Evaluating quality on the net
 
-> <http://www.tiac.net/users/hope/findqual.html>
+> http://www.tiac.net/users/hope/findqual.html
 
 >  
 > **_Links: (Review_ Five)**
@@ -745,43 +733,42 @@ http://www.webliminal.com/search/index.html](http://www.webliminal.com/search/in
 > **Bibliographic Searches**  
 >    Ursus
 
-> <http://ursus.maine.edu>
+> http://ursus.maine.edu
 
 > Library of Congress
 
-> <http://lcweb.loc.gov/homepage/lchp.html>
+> http://lcweb.loc.gov/homepage/lchp.html
 
 > Columbia University Libraries WWW Information System
 
-> <http://www.cc.columbia.edu/cu/libraries>
+> http://www.cc.columbia.edu/cu/libraries
 
 > Internet Public Library
 
-> <http://ipl.sils.umich.edu/>
+> http://ipl.sils.umich.edu/
 
 > Smithsonian Institution Research Information System
 
-> <http://www.siris.si.edu/>
+> http://www.siris.si.edu/
 
 >  
 > **Research Tools**  
 >    ![](new.gif)Getting Grants
 
-> <http://www.libraryspot.com/features/grantsfeature.htm>
+> http://www.libraryspot.com/features/grantsfeature.htm
 
 > Information Please
 
-> <http://www.infoplease.com/>
+> http://www.infoplease.com/
 
 > Research it
 
-> <http://www.iTools.com/research-it/research-it.html>
+> http://www.iTools.com/research-it/research-it.html
 
 > Elements of Style
 
 >  
->
-[http://www.columbia.edu/acis/bartleby/strunk](http://www.columbia.edu/acis/bartleby/strunk/)
+> http://www.columbia.edu/acis/bartleby/strunk
 
 >
 
@@ -789,27 +776,27 @@ http://www.webliminal.com/search/index.html](http://www.webliminal.com/search/in
 
 >
 
->  Ask an Expert <http://njnie.dl.stevens-tech.edu/askanexpert.html>
+>  Ask an Expert http://njnie.dl.stevens-tech.edu/askanexpert.html
 
 > The AskERIC Virtual Library
 
-> <http://ericir.syr.edu>
+> http://ericir.syr.edu
 
 >  
 >  
 > **Popular Magazines: Full Text-Articles**  
 >    ![](new.gif)Town Hall (Conservative Columnists)
 
-> <http://www.townhall.com/columnists/>
+> http://www.townhall.com/columnists/
 
 > ![](new.gif)Magazines Online
 
-> <http://www.magazinesatoz.com/>
+> http://www.magazinesatoz.com/
 
 > E-Zines
 
 >  
-> [http://www.zinebook.com](http://www.zinebook.com/)
+> http://www.zinebook.com
 
 >
 
@@ -818,15 +805,15 @@ http://www.webliminal.com/search/index.html](http://www.webliminal.com/search/in
 >
 
 > ![](new.gif) New York Review of Books  
-> <http://www.nybooks.com/archives/>  
+> http://www.nybooks.com/archives/  
 > Links to Electronic Book and Text Sites
-<http://www.awa.com/library/omnimedia/links.html>
+http://www.awa.com/library/omnimedia/links.html
 
 >  
 > An Annotated Directory of Internet Resources  
-> <http://www.academicinfo.net/infosci2.html#Pubs>  
+> http://www.academicinfo.net/infosci2.html#Pubs  
 > Great Books Online  
-> <http://www.bartleby.com/index.html>
+> http://www.bartleby.com/index.html
 
 >
 
@@ -835,75 +822,75 @@ http://www.webliminal.com/search/index.html](http://www.webliminal.com/search/in
 >
 
 > ![](new.gif) Maps  
-> <http://www.nationalgeographic.com/resources/ngo/maps/>  
+> http://www.nationalgeographic.com/resources/ngo/maps/  
 > ![](new.gif)Birds of America  
-> <http://employeeweb.myxa.com/rrb/Audubon/>  
+> http://employeeweb.myxa.com/rrb/Audubon/  
 > ![](new.gif)Supreme Court Collection  
-> <http://supct.law.cornell.edu/supct/>  
+> http://supct.law.cornell.edu/supct/  
 > Educational Associations and Organizations  
-> <http://www.ed.gov/EdRes/EdAssoc.html>  
+> http://www.ed.gov/EdRes/EdAssoc.html  
 > Discipline Help  
-> <http://www.disciplinehelp.com/>  
+> http://www.disciplinehelp.com/  
 > Booklist  
-> <http://www.ala.org/booklist/>  
+> http://www.ala.org/booklist/  
 > A Research Site for Legal Professionals  
-> <http://www.virtualchase.com/> A Guide to the Best Writer's Software for
-Every Kind of Writing
+> http://www.virtualchase.com/ A Guide to the Best Writer's Software for Every
+Kind of Writing
 
-> <http://www.angelfire.com/ny/writesoftware>
+> http://www.angelfire.com/ny/writesoftware
 
 > Library of Congress Online Exhibits
 
-> <http://lcweb.loc.gov/exhibits/>
+> http://lcweb.loc.gov/exhibits/
 
 > Fine Arts Museums of San Francisco
 
-> <http://www.thinker.org/>
+> http://www.thinker.org/
 
 > A List of Federal Agencies on the Internet
 
-> <http://www.lib.lsu.edu/gov/fedgov.html>
+> http://www.lib.lsu.edu/gov/fedgov.html
 
 > Banned Books on Line
 
-> <http://www.cs.cmu.edu/People/spok/banned-books.html>
+> http://www.cs.cmu.edu/People/spok/banned-books.html
 
 > Pictures and Sounds
 
-> <http://www.lycos.com/lycosmedia.html>
+> http://www.lycos.com/lycosmedia.html
 
 > The On-Line Books Page
 
-> <http://www.cs.cmu.edu/Web/books.html>
+> http://www.cs.cmu.edu/Web/books.html
 
 > Argus
 
-> <http://www.clearinghouse.net/>
+> http://www.clearinghouse.net/
 
 > Hungry Mind Review: An Independent Book Review
 
-> <http://www.bookwire.com/hmr/Review/recom.html>
+> http://www.bookwire.com/hmr/Review/recom.html
 
 > Carol Hurst's Children's Literature:
 
 >  
-> <http://www.carolhurst.com/index.html>
+> http://www.carolhurst.com/index.html
 
 >
 
 > **Digital Textbooks**
 
       ![](new.gif)Wise Up
-     <http://www.wizeup.com/>
+     http://www.wizeup.com/
      ![](new.gif)Book City
-     [http://www.ebookcity.com](http://www.ebookcity.com/)
+     http://www.ebookcity.com
 
 **Alternative Publishing Sources**
 
 ![](new.gif) Happy Hacker  
-<http://www.happyhacker.org/>  
+http://www.happyhacker.org/  
 ![](new.gif)Mighty Words  
-<http://www.mightywords.com/index.jsp>
+http://www.mightywords.com/index.jsp
 
     
 **_Homework: (Choose One)_**  
@@ -926,17 +913,16 @@ Children's Museum in Boston.
 
 **_Focus Question:_** What's the best way to evaluate electronic information?
 
-[ In-Class](http://www.usm.maine.edu/~amoroso/edu521/Trust.html)
+ In-Class
 
 **_  Tutorial _( Sample)**
 
-[
-http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/FindInfo.html](http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/FindInfo.html)
+ http://www.lib.berkeley.edu/TeachingLib/Guides/Internet/FindInfo.html
 
 **_  Readings: (Choose_ One)**
 
 Evaluating Web Sites: Criteria and Tools  
-<http://www.library.cornell.edu/okuref/research/webeval.html>
+http://www.library.cornell.edu/okuref/research/webeval.html
 
 **< font face
 

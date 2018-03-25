@@ -91,18 +91,13 @@ text -- i.e. , be prepared to discuss them in class and/or on exams.
   
   
 Email me at:  
-[ ![washing3@mail.sdsu.edu](Panther.jpg)](MAILTO:washing3@mail.sdsu.edu)  
+![washing3@mail.sdsu.edu](Panther.jpg)  
 
-[Link Back To Pat Washington Homepage](http://www-
-rohan.sdsu.edu/faculty/morganan/index.html)  
-[Link to Women and Violence Course Syllabus](http://www-
-rohan.sdsu.edu/faculty/morganan/wvsyllabus.html)  
-[Link to Women and Violence Course Outline](http://www-
-rohan.sdsu.edu/faculty/morganan/wvoutline.html)  
-[Link to Sex and Power Syllabus ](http://www-
-rohan.sdsu.edu/faculty/morganan/SexandPowerSyllabus.html)  
-[Link to Sex and Power Outline ](http://www-
-rohan.sdsu.edu/faculty/morganan/SexandPowerOutline.html)  
+Link Back To Pat Washington Homepage  
+Link to Women and Violence Course Syllabus  
+Link to Women and Violence Course Outline  
+Link to Sex and Power Syllabus  
+Link to Sex and Power Outline  
   
   
   

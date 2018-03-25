@@ -24,8 +24,8 @@ institutions (disciplines, laboratories, etc.) by which that knowledge is
 produced and transmitted.  Explores ways in which the scientific endeavor has
 affected and been affected by the political, social, and cultural milieu in
 which it is carried out. Primary focus is on modern Europe and America. A
-background in science is welcome, but not expected.
-[Syllabus](http://web.pdx.edu/~drrb/hst387.htm) available online.
+background in science is welcome, but not expected.  Syllabus available
+online.
 
 **412/512 Topics in African/Caribbean History and Culture (4)**  
 An in-depth exploration of selected topics in African and/or Caribbean
@@ -97,9 +97,8 @@ A lecture course that examines major developments in European thought. Each
 term, a selected theme will be explore through the writings of several
 authors, in an investigatation of  the relationship between ideas and their
 social context. Hst 459/559: through ca. 1700; Hst 460/560: ca. 1700 to the
-present.  [Syllabus](http://web.pdx.edu/~drrb/hst460.htm) for Hst 460/560
-available online.  Prerequisites: [Hst 101,
-102](http://www.history.pdx.edu/intro.htm).
+present.  Syllabus for Hst 460/560 available online.  Prerequisites: Hst 101,
+102.
 
 **467 Latin American Culture and Society (4)**  
 Topics include historico-cultural disputes, elite cultural movements,
@@ -112,18 +111,15 @@ Inquiry (Latin America)
 Analysis of primary sources. Hst 473/573: 19th century intelligentsia. Hst
 474/574: 20th century mass culture -- films, novels, sport, and music.
 
-![](greencub.jpg) Return to [course offerings home
-page](http://www.history.pdx.edu/courses.htm)
+![](greencub.jpg) Return to course offerings home page
 
-![](greencub.jpg) Return to Department of History [home
-page](http://www.history.pdx.edu/default.htm)
+![](greencub.jpg) Return to Department of History home page
 
-![](greencub.jpg) Information about [Portland State
-University](http://www.pdx.edu)
+![](greencub.jpg) Information about Portland State University
 
 * * *
 
-Contact **[Diane Gould](mailto:diane@ch2.ch.pdx.edu)** , Department Secretary  
+Contact **Diane Gould** , Department Secretary  
 for more information at (503) 725-3917 or write:  
 History Department  
 Portland State University  
@@ -131,9 +127,8 @@ P.O. Box 751
 Portland, OR 97207-0751  
 FAX (503) 725-3953
 
-Comments or questions may be addressed to **[Prof. Karen
-Carr](mailto:carrk@pdx.edu)** , Department of History, Portland State
-University.
+Comments or questions may be addressed to **Prof. Karen Carr** , Department of
+History, Portland State University.
 
 _Last Updated: September 21, 2000_
 

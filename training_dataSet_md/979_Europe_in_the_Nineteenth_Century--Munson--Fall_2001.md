@@ -4,7 +4,7 @@
 
 ##  FALL 2001
 
-[To Student Web Pages](euro1901.html) ****
+To Student Web Pages ****
 
 **Instructor** : James R. Munson  
 **Office** : Wynne 104b  
@@ -13,7 +13,7 @@
 MWF 2-3:40  
 and by appointment.  
 (Note:  I will not be on campus Tuesdays and Thursdays.)  
-**E-mail** : [jmunson@longwood.lwc.edu](mailto:jmunson@longwood.lwc.edu)  
+**E-mail** : jmunson@longwood.lwc.edu  
 (Image of Charles Darwin courtesy of
 http://www.sc.edu/library/spcoll/nathist/darwin/darwin.html)
 
@@ -397,17 +397,17 @@ assignments. Each assignment
 must include a bibliography of all sources cited. Bibliography and endnote
 citations must conform to  
 the proper style for the liberal arts, as defined in the departmental style
-sheet (<http://web.lwc.edu/academic/las/history/HDPTSTS2.htm>), or in the
-latest edition of Kate Turabian, _A Manual for Writers of Term Papers, Theses
-and Dissertations_ , Chicago, 1987.  Do not use MLA, APA or any alternative
-style current in other disciplines. Unless you wish to see the instructor fly
-into a blind rage, do not even think of using parenthetical notes on any
-assignment other than the take-home. The web page critiques may be transmitted
-to me electronically, or on disk, but must conform to standards of good
-presentation (as determined by me), and be submitted by the due dates
-indicated.  The web pages themselves should be turned in on a floppy or zip
-disk (no CDs), upon which should be written your name, class, e-mail address,
-and the title of your html file.
+sheet (http://web.lwc.edu/academic/las/history/HDPTSTS2.htm), or in the latest
+edition of Kate Turabian, _A Manual for Writers of Term Papers, Theses and
+Dissertations_ , Chicago, 1987.  Do not use MLA, APA or any alternative style
+current in other disciplines. Unless you wish to see the instructor fly into a
+blind rage, do not even think of using parenthetical notes on any assignment
+other than the take-home. The web page critiques may be transmitted to me
+electronically, or on disk, but must conform to standards of good presentation
+(as determined by me), and be submitted by the due dates indicated.  The web
+pages themselves should be turned in on a floppy or zip disk (no CDs), upon
+which should be written your name, class, e-mail address, and the title of
+your html file.
 
 The type of material that must be documented (i.e. cited in endnotes)
 includes: controversial or  
@@ -576,9 +576,7 @@ instructor for the outside references to be used in your research paper.
 
    Return to Table of Contents
 
-[Return to the Department Syllabus Page (Fall
-2001)](http://web.lwc.edu/academic/las/history/syllabi.htm)
+Return to the Department Syllabus Page (Fall 2001)
 
-[Return to the Department of History and Political Science
-Homepage](http://web.lwc.edu/academic/LAS/History/home.htm)
+Return to the Department of History and Political Science Homepage
 

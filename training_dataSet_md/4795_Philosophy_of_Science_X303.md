@@ -32,7 +32,7 @@ involves.
 
 **Written and Oral Requirements:**
 
-  * Everyone must write a short paper (4 - 6 pages, typed, double-spaced). The [topic for this paper](http://macserver.ius.indiana.edu/humanities/philosophy/programs/courses_s96/S96,1stpaperrumseyj261.html) will be assigned shortly after the semester begins. This paper may be rewritten. If you do this, and receive a better grade the second time around, then that is the grade that will count for the paper. Before rewriting, however, you must see us and discuss the project. In addition to the short paper, you must do one of the following: 
+  * Everyone must write a short paper (4 - 6 pages, typed, double-spaced). The topic for this paper will be assigned shortly after the semester begins. This paper may be rewritten. If you do this, and receive a better grade the second time around, then that is the grade that will count for the paper. Before rewriting, however, you must see us and discuss the project. In addition to the short paper, you must do one of the following: 
     * Write two other papers of the same length (topics to be assigned later on in the semester), or 
     * Write a 12 - 17 page term paper.  Those who are taking this course to satisfy the research writing requirement must write the term paper. For others it is optional. If you elect to do this, you must make an appointment to discuss a topic with us shortly after the first short paper is returned to you. At that time we will also negotiate a date for you to hand in a first draft. The final draft of the paper will be due on the last day of class.
 
@@ -48,7 +48,7 @@ involves.
 
   * We would prefer that you turn in your paper in electronic form, either by email or on a diskette if at all possible, although there will be no penalty for submission in hard copy. 
 
-  * You will be required to read and comment on the papers written by other students in the class. Your comments about the other students' papers will be taken into consideration in your final grade. To facilitate your reviewing the papers of the other students we will post each student paper will be anonoymously on the internet by code. A response page for commenting on the paper will be provided, also [via the internet](/humanities/philosophy/programs/courses_s96/paperreviews.html). The author of the paper will recieve the comments and may take these comments and the instructors comments into consideration when re-writing the paper. 
+  * You will be required to read and comment on the papers written by other students in the class. Your comments about the other students' papers will be taken into consideration in your final grade. To facilitate your reviewing the papers of the other students we will post each student paper will be anonoymously on the internet by code. A response page for commenting on the paper will be provided, also via the internet. The author of the paper will recieve the comments and may take these comments and the instructors comments into consideration when re-writing the paper. 
 
   * There will be a written final examination on Wednesday, April 24th, from 4:15 to 6:05 PM in our regular classroom. This examination will consist of essay questions which will have been handed out several days earlier. You will be expected to work out answers to the questions and then to write them in class without the help of books or notes. 
 

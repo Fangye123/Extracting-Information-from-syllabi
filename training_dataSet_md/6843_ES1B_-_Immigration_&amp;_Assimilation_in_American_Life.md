@@ -13,7 +13,7 @@ Mon. 3-5 PM
 E-mail:
 Wed. 3-5 PM
 
-> [rfrank@weber.ucsd.edu](mailto:rfrank@weber.ucsd.edu)
+> rfrank@weber.ucsd.edu
 Phone:  858-534-6646
 
 Teaching Assistants:  Julie Hua, Denise Khor, Grace Kim, and John Marquez.
@@ -96,11 +96,11 @@ Reader_ , 1-22.
 
 > Ruiz and Dubois, "Introduction," in _Unequal Sisters_ , xi-xvi.
 
-               JANUARY 8            [Introduction](OutlinesES1B#anchor354392)
+               JANUARY 8            Introduction
 
-               JANUARY 10          [European Expansion and Cultural Conflict](OutlinesES1B#anchor354816)
+               JANUARY 10          European Expansion and Cultural Conflict
 
-               JANUARY 12          [Colonial Systems, Race and Ethnicity](OutlinesES1B#anchor371499) (Guest Lecturer, David Gutierrez)
+               JANUARY 12          Colonial Systems, Race and Ethnicity (Guest Lecturer, David Gutierrez)
 
 * * *
 
@@ -125,9 +125,9 @@ READING:
 
                JANUARY 15          NO CLASS, Martin Luther King, Jr. Day
 
-               JANUARY 17          [Race & Space: Democracy, Indian Removal and Western Labor](OutlinesES1B#anchor2.1)
+               JANUARY 17          Race & Space: Democracy, Indian Removal and Western Labor
 
-               JANUARY 19         [ Plymouth Rock, Statue of Liberty](OutlinesES1B#anchor2.2)
+               JANUARY 19          Plymouth Rock, Statue of Liberty
 
 * * *
 
@@ -141,9 +141,9 @@ READING:
 
 > Gutierrez, _Walls and Mirrors_ , 39-68.
 
-               JANUARY 22          [Melting Pot, Mosaic, Multiculturalism](OutlinesES1B#3.1)
+               JANUARY 22          Melting Pot, Mosaic, Multiculturalism
 
-               JANUARY 24          [19th Century Migrations and Assimilation](OutlinesES1B#3.2)
+               JANUARY 24          19th Century Migrations and Assimilation
 
                JANUARY 26          **MIDTERM EXAM, PART 1**
 
@@ -165,9 +165,9 @@ Sai Yat Po, 1900-1911." in _Unequal Sisters_ , 247-259 (2nd), 257-267 (3rd).
 
 > Primary Sources #10-16 (Marburg to Twain), _ES IB Reader_ , 97-114.
 
-               JANUARY 29         [ Labor, Self-activity, and Immigrant Radicalism](OutlinesES1B#4.1)
+               JANUARY 29          Labor, Self-activity, and Immigrant Radicalism
 
-               JANUARY 31          [Immigrant Organization and Politics](OutlinesES1B#4.2)
+               JANUARY 31          Immigrant Organization and Politics
 
                FEBRUARY 2         **MIDTERM EXAM, PART 2**
 
@@ -207,11 +207,11 @@ READING:
 (2nd), distributed in section (3rd). Primary Sources #21-34 (New York World to
 Hanson), _ES IB Reader_ , 147-176.
 
-               FEBRUARY 5         [Ethnic Conflict Within and Without](OutlinesES1B#5.1)
+               FEBRUARY 5         Ethnic Conflict Within and Without
 
-               FEBRUARY 7         [Popular Culture and Americanization](OutlinesES1B#5.2)
+               FEBRUARY 7         Popular Culture and Americanization
 
-               FEBRUARY 9        [ Ethnic Inclusion by Racial Exclusion](OutlinesES1B#5.3)  _The Jazz Singer_   (beginning)
+               FEBRUARY 9         Ethnic Inclusion by Racial Exclusion  _The Jazz Singer_   (beginning)
 
 * * *
 
@@ -235,11 +235,11 @@ READING:
 
 > Cohen, "Workers' Common Ground", _ES IB Reader_ , 225-246.
 
-               FEBRUARY 12       _[The Jazz Singer](OutlinesES1B#6.1)_[ (conclusion)](OutlinesES1B#6.1)
+               FEBRUARY 12       _The Jazz Singer_ (conclusion)
 
-               FEBRUARY 14       [Cutting the Immigrant Flow](OutlinesES1B#6.2)
+               FEBRUARY 14       Cutting the Immigrant Flow
 
-               FEBRUARY 16       [The Culture of Unity and Redemptive Outsiders](OutlinesES1B#6.3)
+               FEBRUARY 16       The Culture of Unity and Redemptive Outsiders
 
 * * *
 
@@ -262,9 +262,9 @@ Sisters_ , 436-449 (2nd), 478-491 (3rd).
 
                FEBRUARY 19       NO CLASS      President's Day
 
-               FEBRUARY 21       [Refiguring Ethnicity in the Postwar Period](OutlinesES1B#7.1)
+               FEBRUARY 21       Refiguring Ethnicity in the Postwar Period
 
-               FEBRUARY 23       [Cold War, Consumerism, and Ethnic Memory](OutlinesES1B#7.2)
+               FEBRUARY 23       Cold War, Consumerism, and Ethnic Memory
 
 * * *
 
@@ -286,11 +286,11 @@ American Movement" (Chapters 1-2), _ES IB Reader_ , 247-276.
 Chicano History and the Dream of Equality", in _Unequal Sisters_ , distributed
 in section (2nd), 587-606 (3rd).
 
-               FEBRUARY 26       [The Civil Rights Movement and Immigration Reform](OutlinesES1B#8.1)
+               FEBRUARY 26       The Civil Rights Movement and Immigration Reform
 
-               FEBRUARY 28       [Global Migration, Economic Transformation, and Gender Roles](OutlinesES1B#8.1)
+               FEBRUARY 28       Global Migration, Economic Transformation, and Gender Roles
 
-               MARCH 2               [ Regions of Ethnic and Cultural Confusion](OutlinesES1B#8.3)
+               MARCH 2                Regions of Ethnic and Cultural Confusion
 
 * * *
 
@@ -309,11 +309,11 @@ Ethnic Enclave.", _ES IB Reader_ , 287-296.
 
 > Salzinger,  "A Maid by Any Other Name", _ES IB Reader_ , 297-310.
 
-               MARCH 5               [ The New Politics of Ethnicity](OutlinesES1B#9.1)
+               MARCH 5                The New Politics of Ethnicity
 
-               MARCH 7                [ Transnational Capital and Global Migration ](OutlinesES1B#9.2)
+               MARCH 7                Transnational Capital and Global Migration 
 
-               MARCH 9               [ Film: _Who Killed Vincent Chin?_](OutlinesES1B#9.3)
+               MARCH 9                Film: _Who Killed Vincent Chin?_
 
 * * *
 
@@ -335,16 +335,16 @@ READING:
 
 > Lipsitz, "Home is Where the Hatred Is,"  _ES IB Reader_ , 323-end.
 
-               MARCH 12             [Pan-Ethnicity and Cultural Fragmentation](OutlinesES1B#10.1)
+               MARCH 12             Pan-Ethnicity and Cultural Fragmentation
 
-               MARCH 14              [Immigration, Pan-ethnicity, and Ethnic Identity](OutlinesES1B#10.2)
+               MARCH 14              Immigration, Pan-ethnicity, and Ethnic Identity
 
-               MARCH 16              [Beyond Assimilation](OutlinesES1B#10.3)
+               MARCH 16              Beyond Assimilation
 
 * * *
 
-_Friday_       MARCH 23           [   **FINAL EXAM**  ](FinalStudy.html)
-(11:30 AM - 2:30 PM)
+_Friday_       MARCH 23              **FINAL EXAM**           (11:30 AM - 2:30
+PM)
 
 REVIEW SESSIONS:
 

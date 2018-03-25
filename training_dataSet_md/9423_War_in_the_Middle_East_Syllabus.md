@@ -281,6 +281,6 @@ and Marie T. Henehan. Lanham, MD: Lexington Books, 255-277 (ch. 11). Reprinted
 from _Peace, War, and Numbers_ , edited by Bruce M. Russett (Sage
 Publications, 1972), 167-183.
 
-[Return to _War in the Middle East_ page](index.html)  
-[Return to Canedo's Home Page](http://www.umich.edu/~jcanedo)
+Return to _War in the Middle East_ page  
+Return to Canedo's Home Page
 

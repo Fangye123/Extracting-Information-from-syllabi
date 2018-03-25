@@ -1,16 +1,16 @@
 **Lecture Thirty One**
 
-**[The Christian Coalition](http://www.cc.org/) (Part II)**
+**The Christian Coalition (Part II)**
 
 **Antecedents**
 
 **** As I suggested last time, the Moral Majority was a precursor to the
-[Christian Coalition](http://www.cc.org/). The Moral Majority had it's origins
-in the Thomas Roads Baptist Church in Lynchburg, Virginia where Jerry Falwell
-was the pastor. Falwell first came to national attention through his
-television ministry "The Old Time Gospel Hour." Building on a base of support
-among conservative evangelicals, Falwell proposed to launch a Moral Majority
-"to take back" America and restore it to its Christian roots.
+Christian Coalition. The Moral Majority had it's origins in the Thomas Roads
+Baptist Church in Lynchburg, Virginia where Jerry Falwell was the pastor.
+Falwell first came to national attention through his television ministry "The
+Old Time Gospel Hour." Building on a base of support among conservative
+evangelicals, Falwell proposed to launch a Moral Majority "to take back"
+America and restore it to its Christian roots.
 
 In many ways, the the Moral Majority was a pioneering organization, using
 sophisticated direct mail, telephone polls, and other marketing tools to
@@ -28,12 +28,11 @@ Its purpose, he asserted, would be to train the "champions for Christ" that
 would be needed to renew America, and reverse her spiritual decline. With the
 establishment of Liberty College (soon to be University), Falwell began to
 have himself introduced as "Dr. Jerry Falwell." He also began to market
-himself as the founder and chancellor of [ Liberty
-University,](http://www.liberty.edu/) one of the fastest growing universities
-in America. Many of these students were the first in their families to go to
-college--as might be expected given the constituency of the more conservative
-evangelicals--and they provided many of the foot soldiers who manned the ranks
-of the Moral Majority.
+himself as the founder and chancellor of  Liberty University, one of the
+fastest growing universities in America. Many of these students were the first
+in their families to go to college--as might be expected given the
+constituency of the more conservative evangelicals--and they provided many of
+the foot soldiers who manned the ranks of the Moral Majority.
 
 But for all the hype, publicity, and money generated, the Moral Majority was
 ultimately a failure. According to Robert Wuthnow, national polls showed that
@@ -54,8 +53,7 @@ of videos, tape cassettes, scholarships to Liberty University, and
 correspondence courses. All of these offers are designed to bring in new
 financial resources to fund Falwell's empire.
 
-**The[700 Club](http://www.cbn.org/) and [The Christian
-Coalition](http://www.cc.org.)**
+**The700 Club and The Christian Coalition**
 
 Pat Robertson is yet another tel-evangelist with great ambitions. His 700 Club
 is a rival to Falwell's  "Old Time Gospel Hour," and tended to appeal to the
@@ -66,13 +64,13 @@ political and cultural life. This new entity would be called the Christian
 Coalition.
 
 To direct the Christian Coalition, Robertson recruited a newly minted Ph.D
-from [Emory University](http://www.cc.emory.edu/) named Ralph Reed. Reed grew
-up in Toccoa, Georgia and was a very partisan Newt Gingrich Republican eager
-to find a way to overthrow the ascendency of the Democratic Party in the South
-and in the nation. A veteran of numerous political campaigns--including those
-of Jesse Helms--Reed was hired by Robertson, and charged with creating an
-institution that has had, and continues to have a profound impact on American
-political and cultural life.
+from Emory University named Ralph Reed. Reed grew up in Toccoa, Georgia and
+was a very partisan Newt Gingrich Republican eager to find a way to overthrow
+the ascendency of the Democratic Party in the South and in the nation. A
+veteran of numerous political campaigns--including those of Jesse Helms--Reed
+was hired by Robertson, and charged with creating an institution that has had,
+and continues to have a profound impact on American political and cultural
+life.
 
 The Christian Coalition's 1.7 million members have come to represent a potent
 political force in American life. Not only can the Christian Coalition
@@ -105,29 +103,22 @@ Order**_ , Robertson's defenders have argued that Robertson himself does not
 harbor prejudice for Jews. Instead, these remarks are attributed to a ghost
 writer who was not adequately vetted.
 
-**[Regent University](http://www.regent.edu/)**
+**Regent University**
 
 Like Falwell, Robertson has also established a university to  "train mature
 young men and women for the challenge of representing Christ in their
 professions." This institution began with 77 students and was called the
 Christian Broadcast Network University, but in a marketing decision, the name
 was changed to Regent University. Today it has 1400 students in schools of
-[law](http://www.regent.edu/acad/schlaw/),
-[divinity](http://www.regent.edu/acad/schdiv/home.html),
-[business,](http://beacon.regent.edu/acad/schbus/) education, counseling,
-government, and [communication](http://www.regent.edu/acad/schcom/phd/). As
-the [Harvard](http://www.harvard.edu/) Theologian, Harvey Cox, explains in an
-article entitled "The Warring Visions of the Religious Right" in this month's
-issue of _**[The Atlantic
-Monthly](http://www2.theatlantic.com/atlantic/issues/current/contents.htm),
-**_ a "regent" is  "one who represents the sovereign in his absence, and 'for
-us at Regent University, a regent is one who represents Christ, our Sovereign,
-in whatever sphere of life he or she may be called to serve Him." (For
-examples of how this plays out in the educational process see: [the Course
-Syllabus for Value 680](http://www.regent.edu/acad/schbus/jem/valu680.html) in
-the School of Business, or [the Course Syllabus for Value
-580,](http://www.regent.edu/acad/schbus/ram/valu580.html) or the Syllabus for
-[Management 645](http://www.regent.edu/acad/schbus/bew/mgmt645.html))
+law, divinity, business, education, counseling, government, and communication.
+As the Harvard Theologian, Harvey Cox, explains in an article entitled "The
+Warring Visions of the Religious Right" in this month's issue of _**The
+Atlantic Monthly, **_ a "regent" is  "one who represents the sovereign in his
+absence, and 'for us at Regent University, a regent is one who represents
+Christ, our Sovereign, in whatever sphere of life he or she may be called to
+serve Him." (For examples of how this plays out in the educational process
+see: the Course Syllabus for Value 680 in the School of Business, or the
+Course Syllabus for Value 580, or the Syllabus for Management 645)
 
 As Cox points out, Regent University is fast becoming a focal point for those
 who would seek to better understand the religious right. It embodies a
@@ -170,28 +161,23 @@ dictators, greedy moneychangers, revolutionary assassins, adulterers and
 homosexuals are on top?"
 
 These views are troubling because of how much they sound like another
-prominent figure in the Dominion Theology movment: [Rousas John
-Rushdoony](http://www.wavefront.com/~contra_m/cm/interviews/cm13_interview.html).
+prominent figure in the Dominion Theology movment: Rousas John Rushdoony.
 Rushdoony has called for the death penalty to be imposed on "adulterers,
 homosexuals, blasphemers, astrologers, witches, and teachers of false
 doctrine." He has also called for the reestablishment of the institution of
 slavery since it is taught in the Bible. (For a collection of writings by
-advocates of Dominion--or Reconstuction theology as it is sometimes
-called--[click here](http://www.serve.com/thibodep/cr/words.htm)) Robertson
-claims not to be an advocate for such extreme views, but he clearly
-sympathizes with them to some degree.
+advocates of Dominion--or Reconstuction theology as it is sometimes called--
+click here) Robertson claims not to be an advocate for such extreme views, but
+he clearly sympathizes with them to some degree.
 
 **Conclusion**
 
-Although Pat Robertson's Christian Coalition, [the 700
-Club,](http://www.cbn.org/) and Regent University continue to prosper, they
-should not continue to be ignored. While precedent would suggest that they
-will go the way of the Moral Majority, history does not always repeat itself.
-If Harvey Cox is correct in his analysis of Robertson and company, they bear
-watching.
+Although Pat Robertson's Christian Coalition, the 700 Club, and Regent
+University continue to prosper, they should not continue to be ignored. While
+precedent would suggest that they will go the way of the Moral Majority,
+history does not always repeat itself. If Harvey Cox is correct in his
+analysis of Robertson and company, they bear watching.
 
-[![](/~matthetl/terry.stamp.jpg)](http:/~matthetl/index.html)
-[![](/~matthetl/relee.stamp.gif)](http:/~matthetl/south/index.html)
-[![](/~matthetl/steeple.stamp.jpg)](http:/~matthetl/perspectives/index.html)
-[![](/~matthetl/sunrise.stamp.gif)](http:/~matthetl/sunrise/sunrise.html)  
+![](/~matthetl/terry.stamp.jpg) ![](/~matthetl/relee.stamp.gif)
+![](/~matthetl/steeple.stamp.jpg) ![](/~matthetl/sunrise.stamp.gif)  
 

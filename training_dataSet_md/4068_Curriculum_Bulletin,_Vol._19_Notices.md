@@ -47,9 +47,9 @@ ABOR Notices/Final Approvals
 This message consists of official confirmation of final approval by the
 Arizona Board of Regents, at its January 15, 1999 meeting, of the
 establishment of the Joint Ph.D. in History and Theory of Art (w/ASU). Full
-memo at: <http://www.registrar.arizona.edu/programs/Memos/3251999ART.doc>
-(MS Word 6.*/95)  
-<http://www.registrar.arizona.edu/programs/Memos/3251999ART.rtf>   (Rich Text
+memo at: http://www.registrar.arizona.edu/programs/Memos/3251999ART.doc   (MS
+Word 6.*/95)  
+http://www.registrar.arizona.edu/programs/Memos/3251999ART.rtf   (Rich Text
 Format)
 
 This message consists of official confirmation of final approval by the
@@ -59,8 +59,8 @@ Agricultural Technology Management, to form the Bachelor of Science in
 Agriculture with a major in Agricultural Technology Management and Education.
 
 Full memo at:  
-<http://www.registrar.arizona.edu/Programs/Memos/3251999AG.doc>  
-<http://www.registrar.arizona.edu/Programs/Memos/3251999AG.rtf>
+http://www.registrar.arizona.edu/Programs/Memos/3251999AG.doc  
+http://www.registrar.arizona.edu/Programs/Memos/3251999AG.rtf
 
 **
 
@@ -125,7 +125,7 @@ transition version of the printed catalog. We are now providing only the
 online version, Desert Lynx, which is the official document of record for the
 University of Arizona. Please remove all references to a printed General
 Catalog from your 1999-2000 publications and replace them with references to
-the Online General Catalog. URL: <http://catalog.arizona.edu/>.
+the Online General Catalog. URL: http://catalog.arizona.edu/.
 
 For individuals and institutions that request a printed catalog, we will offer
 as an alternative the University of Arizona Guide. The Guide is a high
@@ -140,16 +140,15 @@ the type of request.
 All institutional requests for a catalog or Guide may be forwarded to Norma
 Provencio, Office of The Registrar, Administration 305, The University of
 Arizona, PO Box 210066, Tucson, AZ 85721-0066; 621-4755; e-mail:
-[nprovenc@u.arizona.edu](mailto:nprovenc@u.arizona.edu). Academic units on
-campus can obtain copies of the Guide for recruiting purposes by contacting
-Norma.
+nprovenc@u.arizona.edu. Academic units on campus can obtain copies of the
+Guide for recruiting purposes by contacting Norma.
 
 Any written or e-mail requests for a catalog, coming from an individual, may
 be forwarded to Norma. Telephone requests for catalogs and all requests for
 the Guide from individuals should be directed to the UofA Bookstore, PO Box
 210019, Tucson, AZ 85721-0019; 1-800-YES-UofA or local 621-5127; e-mail:
-[catalogs@www.bookstore.arizona.edu](mailto:catalogs@www.bookstore.arizona.edu).
-The Guide costs $5.00 each plus $5.00 for shipping and handling.
+catalogs@www.bookstore.arizona.edu. The Guide costs $5.00 each plus $5.00 for
+shipping and handling.
 
 Thank you for your help during this time of transition.
 
@@ -211,12 +210,11 @@ Agriculture with a major in Agricultural Technology Management and Education.
 at its January 15, 1999 meeting, of the establishment of the Joint Ph.D. in
 History and Theory of Art (w/ASU).
 
-[Back to the Index![bl_paw.gif \(121
-bytes\)](../../graphics/bl_paw.gif)](cb19index.htm)
+Back to the Index![bl_paw.gif \(121 bytes\)](../../graphics/bl_paw.gif)
 
 * * *
 
 Office of Curriculum and Registration  
 Curriculum Bulletin, Vol. 19  
-<http://w3.arizona.edu/~curric/combined/cb19index.htm>
+http://w3.arizona.edu/~curric/combined/cb19index.htm
 

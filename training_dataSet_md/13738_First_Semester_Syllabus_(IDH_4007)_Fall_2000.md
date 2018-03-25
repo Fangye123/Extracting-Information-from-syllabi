@@ -1,7 +1,6 @@
 ![Wood Stork](WDSTORK.GIF)
 
-| [Course Home Page](index-2.html) | [ Overview ](overview.html) |[ Spring
-Syllabus ](spring01.html) |[ Student Papers ](papers.html)
+| Course Home Page |  Overview  | Spring Syllabus  | Student Papers
 
 * * *
 
@@ -134,7 +133,7 @@ Everglades_ (chap 7 ) /excerpts from Marjory Stoneman Douglas
 
 1:30 - 3:30 Big Cypress Gallery 52388 Tamiami Trail (Ochopee)
 
-    Clyde Butcher, photographer  [www.clydebutcher.com/](http://www.clydebutcher.com/)  
+    Clyde Butcher, photographer  www.clydebutcher.com/  
 _Nov.26_ :journal entry #5 due
 
 #### November 30: Mangrove Estuaries and Cultural History / The 10,000 Islands
@@ -191,15 +190,14 @@ in the Everglades National Park_.
 
     
 
-| [Course Home Page](index-2.html) | [ Overview ](overview.html) |[ Spring
-Syllabus ](spring01.html) |[ Student Papers ](papers.html)
+| Course Home Page |  Overview  | Spring Syllabus  | Student Papers
 
 * * *
 
 This page is designed and maintained by:  
 
-[driverl@fiu.edu](mailto:driverl.fiu.edu)  
-[Everglades Information Network & Digital Library](library/index.html)  
+driverl@fiu.edu  
+Everglades Information Network & Digital Library  
 Florida International University Libraries
 
 Copyright (C) 1997\. All rights reserved.

@@ -6,8 +6,7 @@ GTP - Events - Past Fall Intensives
 |  
 ---  
   
-**[Friday Forums](friday.html) | [Special Workshops](special.html)** |
-**[Sexual Harassment Workshops](sh.html)**  
+**Friday Forums | Special Workshops** | **Sexual Harassment Workshops**  
 
 * * *
 

@@ -234,36 +234,36 @@ pgs
 _**Web Sites Sheet, for evaluation_**
 
 The Media and Communications Studies Site:  
-<http://www.aber.ac.uk/media/Functions/medmenu.html>  
+http://www.aber.ac.uk/media/Functions/medmenu.html  
 =see= Daniel Chandler's Biases of the Ear and Eye:  
-<http://www.aber.ac.uk/media/Documents/litoral/litoral.html>
+http://www.aber.ac.uk/media/Documents/litoral/litoral.html
 
 Dickinson Electronic Archives:  
-<http://jefferson.village.virginia.edu/dickinson/>
+http://jefferson.village.virginia.edu/dickinson/
 
 The Brown University Women Writers Project:  
-<http://www.stg.brown.edu/projects/wwp/wwp_home.html>
+http://www.stg.brown.edu/projects/wwp/wwp_home.html
 
 Media History Project:  
-<http://www.mediahistory.com/>
+http://www.mediahistory.com/
 
 History of Science Society:  
-<http://depts.washington.edu/hssexec/>
+http://depts.washington.edu/hssexec/
 
 Society for the History of Authorship, Reading and Publishing:  
-<http://www.indiana.edu/~sharp/>
+http://www.indiana.edu/~sharp/
 
 Native Web:  
-<http://www.nativeweb.org/>
+http://www.nativeweb.org/
 
 Virtual Sisterhood:  
-<http://www.igc.apc.org/vsister/vsister.html>
+http://www.igc.apc.org/vsister/vsister.html
 
 Women'space Magazine:  
-<http://womenspace.ca/>
+http://womenspace.ca/
 
 WomenWatch:  
-<http://www.un.org/womenwatch/>
+http://www.un.org/womenwatch/
 
 1) What kind of site is this? What is its purpose? Who put it together? How do
 you know these things?  

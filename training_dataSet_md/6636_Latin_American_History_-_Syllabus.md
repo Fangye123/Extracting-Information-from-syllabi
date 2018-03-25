@@ -1,25 +1,25 @@
-[![Modern Latin America](images/map.gif)](index.html)
+![Modern Latin America](images/map.gif)
 
-[How to use this site](help.html)  
-[Syllabus](syllabus.html)  
-[Class Schedule](schedule.html)  
-[Assignments](assign.html)  
-[Grade Page](grades.html)  
-[Netforum discussions](http://www.ilstu.edu/cgi-bin/netforum/hist127/a/1)  
-[Resources](resources.html)
-
-* * *
-
-[History Department](http://www.cas.ilstu.edu/History/website.htm)
-
-[Illinois State University](http://www.ilstu.edu)
+How to use this site  
+Syllabus  
+Class Schedule  
+Assignments  
+Grade Page  
+Netforum discussions  
+Resources
 
 * * *
 
-[![Marc Becker's Home Page](images/marc.gif)](http://www.ilstu.edu/~mbecker)
+History Department
+
+Illinois State University
+
+* * *
+
+![Marc Becker's Home Page](images/marc.gif)
 
 Marc Becker, _Professor_  
-[mbecker@ilstu.edu](mailto:mbecker@ilstu.edu)
+mbecker@ilstu.edu
 
 |
 
@@ -28,15 +28,15 @@ Marc Becker, _Professor_
 ### (History 127)
 
 **Note:** This is a static document. Any changes to the readings or
-assignments will be posted to the [Class Schedule](schedule.html) page.
+assignments will be posted to the Class Schedule page.
 
 * * *
 
 |  Summer 1998, Illinois State University  
 Schroeder 216, MTWR 1:25-4:15  
 Office: Schroeder 332-I  
-<http://www.ilstu.edu/class/hist127> | Marc Becker  
-[mbecker@ilstu.edu](mailto:mbecker@ilstu.edu)  
+http://www.ilstu.edu/class/hist127 | Marc Becker  
+mbecker@ilstu.edu  
 Office Hours: after class or by appt.  
 Phone: 438-8306  
 ---|---  

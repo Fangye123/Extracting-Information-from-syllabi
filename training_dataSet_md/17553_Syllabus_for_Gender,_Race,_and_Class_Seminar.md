@@ -13,10 +13,9 @@ Dr. Lisa D. Brush
 Office: 2J28 Posvar Hall (formerly FQUAD)  
 Office Hours: Mondays and Wednesday 11:00 am to 12:00 noon and by appointment  
 Office phone: 412-648-7595  
-Email address/electronic office hours: [Talk Back To Dr.
-Brush](mailto:lbrush@pitt.edu)
+Email address/electronic office hours: Talk Back To Dr. Brush
 
-Return to [Dr. Brush's home page](http://www.pitt.edu/~lbrush/lbrush.html).
+Return to Dr. Brush's home page.
 
 * * *
 
@@ -157,7 +156,7 @@ individual contributions to the Report of Findings.
   * 6 December -- Presentations or informal meetings to work on final projects. Comments due. 
   * 13 December -- Presentations. Final projects due.
 
-Return to [Dr. Brush's home page](http://www.pitt.edu/~lbrush/lbrush.html).
+Return to Dr. Brush's home page.
 
 
 

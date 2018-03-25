@@ -1,21 +1,21 @@
-[AMERICAN POLITICS](agindex.html) COURSE MATERIALS  
+AMERICAN POLITICS COURSE MATERIALS  
 ---  
 ![](../images/wilson.gif)  
   
   
-[DEPARTMENT OF GOVERNMENT  
+DEPARTMENT OF GOVERNMENT  
   
-[SWEET BRIAR COLLEGE](http://www.sbc.edu/)  
+SWEET BRIAR COLLEGE  
 AMHERST, VIRGINIA |
 
-## ](index.html)  
+##  
 **Parties & Interest Groups
 
 **  
 GOVT 208|  Spring 1997| T-Th 10:30-11:45| Benedict 101  
 Prof. Stephen G. Bragaw  
 202 Grey Hall  
-X-6576 / [_bragaw@sbc.edu_](mailto:bragaw@sbc.edu)  
+X-6576 / _bragaw@sbc.edu_  
 Description  
 as of 2/10/97  
 Class Requirements  
@@ -25,18 +25,17 @@ as of 2/17/97
 **Course Materials and Resource Links** as of 4/1/97  
 ---  
 Click on the week to view the assignments. Most of the primary sources can be
-viewed through [hyper-links](pigsyll.html), but most of the secondary sources
-will for various reasons [ie the copyright law] have to be obtained through
-the reserve room.  
+viewed through hyper-links, but most of the secondary sources will for various
+reasons [ie the copyright law] have to be obtained through the reserve room.  
 SECTION| DATES| COURSE OUTLINE  
-I | Feb 11-20| [ The Problems of Organization in a Democracy ](p1.html)  
-II| Feb 25-March 20| [Political Parties ](p2.html )  
-III| April 1-17| [Interest Group Politics ]( p3.html )  
-IV|  April 22-May 6| [The Age of Faction and Corruption? ]( p4.html )  
+I | Feb 11-20|  The Problems of Organization in a Democracy  
+II| Feb 25-March 20| Political Parties  
+III| April 1-17| Interest Group Politics  
+IV|  April 22-May 6| The Age of Faction and Corruption?  
   
   
 Site developed, designed, and maintained as of 2/10/97 by Prof. Stephen
-[Bragaw](mailto:bragaw@sbc.edu).  
+Bragaw.  
   
   
   
@@ -104,9 +103,8 @@ Site developed, designed, and maintained as of 2/10/97 by Prof. Stephen
   
   
   
-[![](../images/cap1.gif)](agindex.html) | [SWEET BRIAR
-COLLEGE](http://www.sbc.edu/)  
-AMHERST, VIRGINIA | [DEPARTMENT OF GOVERNMENT  
+![](../images/cap1.gif) | SWEET BRIAR COLLEGE  
+AMHERST, VIRGINIA | DEPARTMENT OF GOVERNMENT  
 ---|---|---  
   
 ##  
@@ -191,9 +189,8 @@ presidency, and the Supreme Court.
   
   
   
-| [![](../images/cap1.gif)](agindex.html) | [SWEET BRIAR
-COLLEGE](http://www.sbc.edu/)  
-AMHERST, VIRGINIA | [DEPARTMENT OF GOVERNMENT  
+| ![](../images/cap1.gif) | SWEET BRIAR COLLEGE  
+AMHERST, VIRGINIA | DEPARTMENT OF GOVERNMENT  
 ---|---|---  
   
 ##  
@@ -324,9 +321,8 @@ RESEARCH PAPER:
   
   
   
-| [![](../images/cap1.gif)](agindex.html) | [SWEET BRIAR
-COLLEGE](http://www.sbc.edu/)  
-AMHERST, VIRGINIA | [DEPARTMENT OF GOVERNMENT  
+| ![](../images/cap1.gif) | SWEET BRIAR COLLEGE  
+AMHERST, VIRGINIA | DEPARTMENT OF GOVERNMENT  
 ---|---|---  
   
 ##  
@@ -339,5 +335,5 @@ AMHERST, VIRGINIA | [DEPARTMENT OF GOVERNMENT
 As the need arises, I will post any general notes to the class at this place.  
   
 Site developed, designed, and maintained as of 1/31/97 by Prof. Stephen
-[Bragaw](mailto:bragaw@sbc.edu).
+Bragaw.
 

@@ -25,7 +25,7 @@ Routledge, 1993), chapters 1-3 (pp. 1-18).
 > **Samuel R. Delany, "Coming/Out," in Patrick Merla, ed., _Boys Like Us: Gay
 Writers Tell Their Coming Out Stories_ (New York: Avon Books, 1996).
 
-> [Further reading](fr01.htm) (completely optional) for Week 1
+> Further reading (completely optional) for Week 1
 
 **2. _Week of February 4:_    The Pre-Stonewall Era; Introduction  to Social
 Constructionism**
@@ -53,7 +53,7 @@ Oxford University Press, 1998), pp. 427-442.
 
 > _Recommended Films: The Naked Civil Servant, Last Call at Maude's_
 
-> [Further reading](fr02.htm) for Week 2
+> Further reading for Week 2
 
 **3. _Week of February 11:_ The Pre-Stonewall Era: Lesbians; Essentialism vs.
 Social Constructionism**
@@ -66,7 +66,7 @@ of Gold: The History of a Lesbian Community,_ Chs. 1-4. (1-150)
 > **View required film outside of class: _The Celluloid Closet_** (PN 1995.9
 H55C4 1986). This film will be on the midterm.
 
-> [Further reading](fr03.htm) for Week 3
+> Further reading for Week 3
 
 **4. _Week of February 18:_ Gay Sensibility I: Wilde vs. Gide**
 
@@ -81,7 +81,7 @@ H55C4 1986). This film will be on the midterm.
 > _Suggested Films: Edward II, Sebastian_ (both by Derek Jarman), _My Own
 Private Idaho_
 
-> [Further reading](fr04.htm) for Week 4
+> Further reading for Week 4
 
 **5. _Week of February 25: Gay Sensibility II: Camp & Style_**
 
@@ -101,7 +101,7 @@ Chauncey, Jr. (eds.) _Hidden From History: Reclaiming the Gay & Lesbian Past_
 > Richard Dyer, _The Matter of Images: Essays on Representations_ (London:
 Routledge, 1993), Ch. 4 (pp. 19-51).
 
-> [Further reading](fr05.htm) for Week 5
+> Further reading for Week 5
 
 > _Films exemplifying camp:_
 
@@ -143,9 +143,9 @@ Male Gay World 1890-1940_ (New York: Basic Books, 1994), Ch. 12, "Epilogue"
 
 >
 
-> _Spend some time looking at the website of_[Stonewall and
-Beyond](http://www.columbia.edu/cu/libraries/events/sw25/), _an exhibit at the
-Columbia University Libraries; pay particular attention to cases one and two._
+> _Spend some time looking at the website of_Stonewall and Beyond, _an exhibit
+at the Columbia University Libraries; pay particular attention to cases one
+and two._
 
 > _Recommended Reading:_
 
@@ -156,7 +156,7 @@ Columbia University Libraries; pay particular attention to cases one and two._
 > _Suggested Videos: The Killing of Sister George, The Fox, Fried Green
 Tomatoes_
 
-> [Further reading](fr07.htm) for Week 6
+> Further reading for Week 6
 
 **7. _Week of March 11_ : Gay Liberation: Taking on Religion & Psychiatry**
 
@@ -175,9 +175,9 @@ Theory_ (Minneapolis: University of Minnesota Press, 1993).
 >
 
 > Listen to this radio documentary by Alix Spiegel and This American Life:
-[Click here](http://www.thislife.org), then click on "02" under "Episodes by
-Year" on the left of the page, then scroll down to January 18 ("81 Words").
-You need Real Audio to listen.
+Click here, then click on "02" under "Episodes by Year" on the left of the
+page, then scroll down to January 18 ("81 Words"). You need Real Audio to
+listen.
 
 > _Recommended Reading:_
 
@@ -188,7 +188,7 @@ Chapters 8-9 (pp. 103-147)
 > _Suggested Videos: The Boys in the Band; Changing Our Minds: The Story of
 Dr. Evelyn Hooker_
 
-> [Further reading](fr08.htm) for Week 7
+> Further reading for Week 7
 
 **8. _Week of March 18:_ Gay Liberation: Sexual Liberation, Gender
 Liberation**
@@ -203,18 +203,16 @@ of Gold: The History of a Lesbian Community,_ Ch. 5-6. (pp. 151-230).
 
 > _Bowers v. Hardwick,_ 478 U.S. 186 (1986). Read all the opinions: the
 opinion of the Court, the concurring opinions, and the dissenting opinions.
-Search for the full text online at this  [ Northwestern
-University](http://oyez.nwu.edu/cases/cases.cgi) site (which includes a link
-to a  [Real Audio](http://www.real.com) recording of the oral arguments in the
-case).
+Search for the full text online at this   Northwestern University site (which
+includes a link to a  Real Audio recording of the oral arguments in the case).
 
-> [Radicalesbian Manifesto](radicalesbian.htm)
+> Radicalesbian Manifesto
 
 > _Suggested Videos: Cruising, Urinal, Tasxi zum Klo, Claire of the Moon,
 Desert Hearts, Go Fish,_ and _The Adventures of Priscilla, Queen of the
 Desert_
 
-> [Further reading](fr09.htm) for Week 8
+> Further reading for Week 8
 
 **9. _Week of April 1:_ AIDS: History; the Transformation of Society**
 
@@ -227,7 +225,7 @@ from America")
 > _Suggested Videos: Blue_ (Derek Jarman), _Zero Patience, Longtime Companion,
 Parting Glances, Well Sexy Women_
 
-> [Further reading](fr10.htm) for Week 9
+> Further reading for Week 9
 
 **10. _Week of April 8:_ AIDS: Sex and Ethics**
 
@@ -271,7 +269,7 @@ Lesbian Experience_ (New York: Routledge, 1996)
 > _Suggested Films: Looking for Langston, The Color Purple, Okoge, Ernesto,
 Strawberries and Chocolate, Queen of the Night (La Reina de la Noche)_
 
-> [Further reading](fr13.htm) for Week 12
+> Further reading for Week 12
 
 **13. _Week of April 29_ : Ethnic and Racial Minority Gays &  Lesbians
 (continued)**
@@ -305,7 +303,7 @@ University of California Press, 1990), Chapter 1 (pp. 67-90).
 > Elizabeth Lapovsky Kennedy & Madeline D. Davis, _Boots of Leather, Slippers
 of Gold: The History of a Lesbian Community,_ Chs 9-10.
 
-> [Further reading](fr15.htm) for Week 14
+> Further reading for Week 14
 
 **15. _Week of May 13_ : Conclusions**
 
@@ -314,5 +312,5 @@ of Gold: The History of a Lesbian Community,_ Chs 9-10.
   
 ---  
   
-_[Return to main menu](index.html)_
+_Return to main menu_
 

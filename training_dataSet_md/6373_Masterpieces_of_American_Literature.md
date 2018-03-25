@@ -14,7 +14,7 @@ English Dept. office/Mailbox: Hellems 101 Undergrad Eng. office: Hellems 111
 * _Looking Backward 2000-1887_ by Edward Bellamy (R)  
 
 * _The Conjure Woman and Other Conjure Tales_ by Charles Chesnutt 
-* [ _The Awakening_](http://www.inform.umd.edu/EdRes/ReadingRoom/Fiction/Chopin/Awakening/) by Kate Chopin   
+* _The Awakening_ by Kate Chopin   
 *(Must use Bedford Books/St. Martin's Press edition) 
 * _Great short works of Stephen Crane_ by Stephen Crane 
 * _The Holder of the World_ by Bharati Mukherjee (R)  
@@ -178,44 +178,33 @@ FRI. Feb. 3 The Autobiography/Franklin (cont.) WORKSHEET#2 DUE
 Week 5:  
 MON. Feb. 6 Recuerdos historicos/Vallejo ( _HEATH_ 2001-2012)  
 WED. Feb. 8 The Interesting Narrative/Equiano ( _HEATH_ 971-1003)  
-FRI. Feb. 10 [ Narrative of the Life Frederick
-Douglass](ftp://uiarchive.cso.uiuc.edu/pub/etext/gutenberg/etext92/duglas11.txt)/Douglass
-( _HEATH_ pp. 1666-1732)
+FRI. Feb. 10  Narrative of the Life Frederick Douglass/Douglass ( _HEATH_ pp.
+1666-1732)
 
 Week 6:  
-MON. Feb. 13 [ Narrative of the Life Frederick
-Douglass](ftp://uiarchive.cso.uiuc.edu/pub/etext/gutenberg/etext92/duglas11.txt)/Douglass
-(cont.)  
+MON. Feb. 13  Narrative of the Life Frederick Douglass/Douglass (cont.)  
 WED. Feb. 15 Incidents/Jacobs ( _HEATH_ 1751-1777)  
 FRI. Feb. 17 BACKGROUND: Early Nineteenth Century ( _HEATH_ 1227-1260)
 
-TEXTS: [The Masque of the Red
-Death](http://www.lfchosting.com/eapoe/works/tales/masquec.htm)/Poe ( _HEATH_
-1402-1406); [The Purloined
-Letter](http://www.lfchosting.com/eapoe/works/tales/plttrb.htm)/Poe ( _HEATH_
-1410-1422)
+TEXTS: The Masque of the Red Death/Poe ( _HEATH_ 1402-1406); The Purloined
+Letter/Poe ( _HEATH_ 1410-1422)
 
 Week 7:  
 MON. Feb. 20 Nature/Emerson ( _HEATH_ 1498-1529); Self-Reliance/Emerson (
 _HEATH_ 1544-1558  
 WED. Feb. 22 Woman in the/Fuller ( _HEATH_ 1634-1655); American
 Literature/Fuller ( _HEATH_ 1655-1665)  
-FRI. Feb. 24
-[Walden](http://xroads.virginia.edu/~hyper/WALDEN/toc.html)/Thoreau ( _HEATH_
-2028-2063)
+FRI. Feb. 24 Walden/Thoreau ( _HEATH_ 2028-2063)
 
 Week 8:  
 MON. Feb. 27 Preface/Whitman ( _HEATH_ 2744-2757); Song of Myself/Whitman (
 _HEATH_ 2758-2765)
 
 WED. March 1 The Custom-House/Hawthorne ( _HEATH_ 2178-2202) MID-TERM DUE  
-FRI. March 3 [The Scarlet
-Letter](http://eldred.ne.mediaone.net/nh/sl.html)/Hawthorne ( _HEATH_
-2202-2315)
+FRI. March 3 The Scarlet Letter/Hawthorne ( _HEATH_ 2202-2315)
 
 Week 9:  
-MON. March 6 [The Scarlet Letter](http://eldred.ne.mediaone.net/nh/sl.html)
-(cont.)  
+MON. March 6 The Scarlet Letter (cont.)  
 WED. March 8 _The Holder of the World_ /Mukherjee  
 FRI. March 10 _The Holder of the World_ (cont.)
 
@@ -237,35 +226,24 @@ WORKSHEET #3 DUE
 week 12: MARCH 27 - 31 SPRING BREAK. NO CLASS.
 
 Week 13:  
-MON. April 3 [ _Huck
-Finn_](http://etext.lib.virginia.edu/railton/huckfinn/huchompg.html)/Twain  
-WED. April 5 [ _Huck
-Finn_](http://etext.lib.virginia.edu/railton/huckfinn/huchompg.html)(cont.)  
-FRI. April 7 [ _Huck
-Finn_](http://etext.lib.virginia.edu/railton/huckfinn/huchompg.html) (cont.)
+MON. April 3  _Huck Finn_/Twain  
+WED. April 5  _Huck Finn_(cont.)  
+FRI. April 7  _Huck Finn_ (cont.)
 
 week 14:  
-MON. April 10 [ _The
-Awakening_](http://www.inform.umd.edu/EdRes/ReadingRoom/Fiction/Chopin/Awakening/)Chopin  
-WED. April 12 [ _The
-Awakening_](http://www.inform.umd.edu/EdRes/ReadingRoom/Fiction/Chopin/Awakening/)
-(cont.)  
-FRI. April 14 Selected Critical Essays on [ _The
-Awakening_](http://www.inform.umd.edu/EdRes/ReadingRoom/Fiction/Chopin/Awakening/)
+MON. April 10  _The Awakening_Chopin  
+WED. April 12  _The Awakening_ (cont.)  
+FRI. April 14 Selected Critical Essays on  _The Awakening_
 
 Week 15:  
-MON. April 17
-[Bartleby](http://www.cc.columbia.edu/acis/bartleby/bartleby.html)/ Melville (
-_HEATH_ 2445-2470)  
+MON. April 17 Bartleby/ Melville ( _HEATH_ 2445-2470)  
 PAPER DUE  
-WED. April 19
-[Bartleby](http://www.cc.columbia.edu/acis/bartleby/bartleby.html) (cont.)  
+WED. April 19 Bartleby (cont.)  
 FRI. April 21 Looking Backward/Bellamy
 
 Week 16  
 MON. April 24 Looking Backward (cont.)  
-WED. April 26 [ _Maggie, A Girl of the Streets and Selected
-Stories_](ftp://uiarchive.cso.uiuc.edu/pub/etext/gutenberg/etext96/mgots10.txt)/Crane  
+WED. April 26  _Maggie, A Girl of the Streets and Selected Stories_/Crane  
 FRI. April 28 The Open Boat/Crane
 
 Week 17  

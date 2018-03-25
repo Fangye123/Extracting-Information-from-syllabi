@@ -5,10 +5,8 @@
   
 
 #### Class Meets TR(F) 1415-1515 EST 337  
-Course Director: [Dr. David J.
-Keeling](http://www.wku.edu/~david.keeling/index.htm), Geography & Geology.  
-Office: EST 304, Phone: 745-4555, EMail: [
-david.keeling@wku.edu](mailto:david.keeling@wku.edu)  
+Course Director: Dr. David J. Keeling, Geography & Geology.  
+Office: EST 304, Phone: 745-4555, EMail:  david.keeling@wku.edu  
 Office Hours: TR 1pm - 2pm, W 0800-1000, and by appointment.  
 Participating Instructors: Dr. Richard Salisbury (History), Dr. John Petersen
 (Government), plus Guest Lecturers.  
@@ -151,19 +149,18 @@ Thurs 12/5/02 | The Future of Latin America | Hillman Textbook, Chapter 14
 #  HAPPY STUDYING!!
 
 #### ![](http://www.wku.edu/geoweb/email.gif)To email the course director,
-just click on: [david.keeling@wku.edu](mailto:david.keeling@wku.edu)
+just click on: david.keeling@wku.edu
 
 ![](http://www.wku.edu/geoweb/globe.gif) To view the MAP LOCATION STUDY GUIDE,
-just click on: [LOCATION GUIDE](lasguide.htm).
+just click on: LOCATION GUIDE.
 
-Click [ here](laskey.htm) for a study guide of the Key Terms and Concepts from
-Section One.
+Click  here for a study guide of the Key Terms and Concepts from Section One.
 
-Click [here](geo200_assign1.htm) for assignment one, due September 3, 2002.
+Click here for assignment one, due September 3, 2002.
 
-Click [here](geo200_assign2.htm) for assignment two, due September 26, 2002.
+Click here for assignment two, due September 26, 2002.
 
-Return to the Geography Department [HOME PAGE](http://www.wku.edu/geoweb).
+Return to the Geography Department HOME PAGE.
 
 Last updated on 8/22/02.
 

@@ -1,228 +1,194 @@
-[Cover Page](PNDclass.html) ~ [Course Description](description.html) ~ [Course
-Syllabus](syllabus.html)
+Cover Page ~ Course Description ~ Course Syllabus
 
 **Interesting Links**  
 ---  
   
 (Checked 01/00)
 
-[4100 newspapers on the
-Net](http://www.webwombat.com.au/intercom/newsprs/index.htm)
+4100 newspapers on the Net
 
-[A-Bomb Issues](http://hermes.arts.cuhk.edu.hk/NanjingMassacre/NMAB.html)
+A-Bomb Issues
 
-[A-BOMBINGS-HIROSHIMA, NAGASAKI by Manhattan
-Eng](http:www.enviroweb.org/issues/nuketesting/hiroshim/hiro_med.htm)
+A-BOMBINGS-HIROSHIMA, NAGASAKI by Manhattan Eng
 
-[Academic Info History of The Bomb & the
-Nucl.](http://www.academicinfo.net/histbomb.html)
+Academic Info History of The Bomb & the Nucl.
 
-[Atomic Archive](http://www.atomicarchive.com/)
+Atomic Archive
 
-[Atoms for Peace - ACT](http://tech.dep.anl.gov/act/ATOMS.html)
+Atoms for Peace - ACT
 
-[BIKINI ATOLL Home Page](http://www.bikiniatoll.com/home.html)
+BIKINI ATOLL Home Page
 
-[Boston U Inst Conflict, Ideology, Policy](http://www.bu.edu/iscip/index.html)
+Boston U Inst Conflict, Ideology, Policy
 
-[Bulletin of the Atomic Scientists ](http://www.bullatomsci.org/)
+Bulletin of the Atomic Scientists
 
-[Bureau of Atomic Tourism ](http://www.oz.net/~chrisp/atomic.html)
+Bureau of Atomic Tourism
 
-[Cambodian Genocide Program ](http://www.yale.edu/cgp/)
+Cambodian Genocide Program
 
-[Charter of the United Nations](http://www.unog.ch/genet/charter.htm)
+Charter of the United Nations
 
-[CHINA Military](http://www.comw.org/cmp/)
+CHINA Military
 
-[Chinese Alliance Hong Kong](http://is7.pacific.net.hk/%7Ecsjwv/home.html)
+Chinese Alliance Hong Kong
 
-[Chinese Nanjing Massacre](http://www.nanjing1937.org/)
+Chinese Nanjing Massacre
 
-[CIA Japan Signals 1945](http://www.odci.gov/csi/monograph/japan/index.html)
+CIA Japan Signals 1945
 
-[Coalition to Reduce Nu.](http://www.clw.org/coalition/links.htm)
+Coalition to Reduce Nu.
 
-[Country reports human rights
-abuses](http://www.state.gov/www/global/human_rights/99hrp_index.html)
+Country reports human rights abuses
 
-[DOE Openness Human Radiation Experiments](http://www.ohre.doe.gov/)
+DOE Openness Human Radiation Experiments
 
-[Einstein, Links
-to](http://www.geocities.com/CapeCanaveral/Hangar/6469/links.htm)
+Einstein, Links to
 
-[Ethical Spectacle](http://www.spectacle.org/696/)
+Ethical Spectacle
 
-[FCNL Home Page](http://www.fcnl.org)
+FCNL Home Page
 
-[Federation of American Scientists](http://www.fas.org/)
+Federation of American Scientists
 
-[Food Irradiation [pdf file]
-](http://www.iaea.org/worldatom/Press/Booklets/foodirradiation.pdf)
+Food Irradiation [pdf file]
 
-[Freedom, Democide, War Home Page](http://www2.hawaii.edu/~rummel/)
+Freedom, Democide, War Home Page
 
-[GEN & Japanese Culture (Black Moon)](http://www.black-kat.com/blackmoon/)
+GEN & Japanese Culture (Black Moon)
 
-[Hansen's Swords of Armageddon](http://www.uscoldwar.com/)
+Hansen's Swords of Armageddon
 
-[HIGH ENERGY WEAPONS Archive (Sublette)
-](http://www.enviroweb.org/issues/nuketesting/hew/index.html)
+HIGH ENERGY WEAPONS Archive (Sublette)
 
-[Hiroshima Panorama Project ](http://titan.iwu.edu/~rwilson/hiroshima/)
+Hiroshima Panorama Project
 
-[Hiroshima Was It Necessary ](http://www.he.net/~douglong/index.html)
+Hiroshima Was It Necessary
 
-[HIROSHIMA, NAGASAKI, Weapons (Dannen)](http://www.dannen.com/moreinfo.html)
+HIROSHIMA, NAGASAKI, Weapons (Dannen)
 
-[Home Page James C. Warf](http://www-rcf.usc.edu/~warf/)
+Home Page James C. Warf
 
-[ICJ Nuc Weapons Legality full
-TEXT](http://www.peacenet.org/disarm/icjtext.html)
+ICJ Nuc Weapons Legality full TEXT
 
-[Int'l Court, Legality of Nuclear
-Weapons](%3Cp%3Ehttp://www.dfat.gov.au/intorgs/icj_nuc/icj_nuclear_weapons.html%3C/p%3E)
+Int'l Court, Legality of Nuclear Weapons
 
-[Int Forum Globalization (IFG)](http://www.ifg.org)
+Int Forum Globalization (IFG)
 
-[Inst for Def & Disarm Studies ](http://www.idds.org/index.html)
+Inst for Def & Disarm Studies
 
-[Japan at War, 1931-1945 ](http://www.danford.net/japan.htm)
+Japan at War, 1931-1945
 
-[Japanese War Crimes](http://centurychina.com/wiihist/index.shtml)
+Japanese War Crimes
 
-[Joseph Rotblat Winner of the 1995 Nobel
-Prize](http://nobelprizes.com/nobel/peace/1995a.html)
+Joseph Rotblat Winner of the 1995 Nobel Prize
 
-[Los Alamos National Laboratory](%3Cp%3Ehttp://www.lanl.gov/external%3C/p%3E)
-|
+Los Alamos National Laboratory |
 
-[Military Internets](http://www.internets.com/military.htm)
+Military Internets
 
-[NAGASAKI at Exploratorium ](http://www.exploratorium.edu/nagasaki/mainn.html)
+NAGASAKI at Exploratorium
 
-[NAPF Nuc. Age Peace Foundation Website
-](http://www.napf.org/articles/index.html)
+NAPF Nuc. Age Peace Foundation Website
 
-[NAPF Nuclear Files ](http://www.nuclearfiles.org/)
+NAPF Nuclear Files
 
-[NAPF Nuclear Quizzes & Classroom
-](http://www.nuclearfiles.org/classroom.html)
+NAPF Nuclear Quizzes & Classroom
 
-[NAPF Peacelinks](http://www.wagingpeace.org/peacelinks.html#faq)
+NAPF Peacelinks
 
-[Nanjing Massacre](%3Cp%3Ehttp://www.cnd.org/mirror/nanjing%3C/p%3E)
+Nanjing Massacre
 
-[National Atomic Museum ](http://www.sandia.gov/museum/main.htm)
+National Atomic Museum
 
-[NGO Committee on Disarmament ](http://www.peacenet.org/disarm/)
+NGO Committee on Disarmament
 
-[NRDC Nuclear Program's Table of.
-](http://www.nrdc.org/nrdcpro/nuguide/guinx.html)
+NRDC Nuclear Program's Table of.
 
-[Nuclear Testing - Marshall Islands
-](http://www.rmiembassyus.org/nucchron.html)
+Nuclear Testing - Marshall Islands
 
-[Nuclear Weapons Canada Forces College
-](http://www.cfcsc.dnd.ca/links/peace/nuc.html)
+Nuclear Weapons Canada Forces College
 
-[Obliteration of Hiroshima
-](http://testweb1.wilpaterson.edu/cohss/polisci/faculty/sshiro.htm)
+Obliteration of Hiroshima
 
-[Peace Magazine Jul-Aug 1998 ](http://www.peacemagazine.org/9807.htm)
+Peace Magazine Jul-Aug 1998
 
-[Physicians for Global Survival ](http://www.pgs.ca/)
+Physicians for Global Survival
 
-[Poverty Reduction Project in Asia](http://www.acdi-cida.gc.ca/poverty/asia)
+Poverty Reduction Project in Asia
 
-[Second Thoughts-ENOLA GAY
-Crew](%3Cp%3Ehttp://www.users.nac.net/subliminal/a-bomb.html%3C/p%3E)
+Second Thoughts-ENOLA GAY Crew
 
-[Semipalatinsk-Relief, Rehabilitation ](http://www.semipalatinsk.org/)
+Semipalatinsk-Relief, Rehabilitation
 
-[Senator Douglas Roche, O](http://www.sen.parl.gc.ca/droche/)
+Senator Douglas Roche, O
 
-[Sino-Japanese War Links](%20http://www.sjwar.org/vsites.htm)
+Sino-Japanese War Links
 
-[STAR-Stand for Truth About Radiation ](http://www.noradiation.org/main.htm)
+STAR-Stand for Truth About Radiation
 
-[Stockholm Int Peace Res Inst (SIPRI)](http://www.sipri.se/)
+Stockholm Int Peace Res Inst (SIPRI)
 
-[Szilard Homepage ](http://www.dannen.com/szilard.html)
+Szilard Homepage
 
-[Taiwanese Nuclear Intentions 66-76
-](http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB20/)
+Taiwanese Nuclear Intentions 66-76
 
-[Todd's Atomic Homepage ](http://www.nuc.berkeley.edu/neutronics/todd/frame/)
+Todd's Atomic Homepage
 
-[TRINITY ATOMIC WEB SITE - G Walker
-](http://www.enviroweb.org/enviroissues/nuketesting/index.html)
+TRINITY ATOMIC WEB SITE - G Walker
 
-[UCS Arms Control Resources on the Web
-](http://www.ucsusa.org/arms/arms.resources.html)
+UCS Arms Control Resources on the Web
 
-[US Nuc Weapons Cost Study (Brookings)
-](http://www.brook.edu/FP/PROJECTS/NUCWCOST/WEAPONS.HTM)
+US Nuc Weapons Cost Study (Brookings)
 
-[US Peace Inst](http://www.usip.org/)
+US Peace Inst
 
-[Vinh's Nuclear Testing & Anti-Weapons
-page](%3Cp%3Ehttp://www.geocities.com/SilicaonValley/Way/1300/index.html%3C/p%3E)
+Vinh's Nuclear Testing & Anti-Weapons page
 
-[Visual Concept Ent. TRINITY AND BEYOND ](http://www.vce.com/trinity.html)
+Visual Concept Ent. TRINITY AND BEYOND
 
-[War & Peace Digest ](http://www.users.interport.net/~warpeace/)
+War & Peace Digest
 
-[Why Japanese Received the A-Bombs
-](http://centurychina.com/wiihist/hiroshima/ytruman.htm)
+Why Japanese Received the A-Bombs
 
-[Wilmington College-Peace Resources ](http://www.wilmington.edu/cgi-
-bin/peaceRC2.cgi)
+Wilmington College-Peace Resources
 
-[WISE Uranium Project & Tokai
-Accident](http://antenna.nl/~wise/uranium/index.html)
+WISE Uranium Project & Tokai Accident
 
-[World Federalist Assn](http://www.wfa.org)  
+World Federalist Assn  
 ---|---  
   
   
 
 **\-- Japanese Sites --**
 
-[A-BOMB DOME GALLERY](http://www.urban.ne.jp/home/kibochan/miyakou/cg_e.htm)
+A-BOMB DOME GALLERY
 
-[A-Bomb Survivors
-Recollect](%3Cp%3Ehttp://www.pcf.city.hiroshima.jp/peacesite/BPW/english/index.html%3C/p%3E)
+A-Bomb Survivors Recollect
 
-[A-Bomb WWW Museum ~ June,1995 ](http://www.csi.ad.jp/ABOMB/index.html)
+A-Bomb WWW Museum ~ June,1995
 
-[Accept UN Recomm's on issue of military sex
-slaves](http://www.jca.or.jp/JWRC/syomei.html)
+Accept UN Recomm's on issue of military sex slaves
 
-[Chugoku Shikoku Internet Council ](http://csi.ad.jp/)
+Chugoku Shikoku Internet Council
 
-[Grand Sumo Home Page](%3Cp%3Ehttp://www.wnn.or.jp/wnn-t/index_e.html%3C/p%3E)
+Grand Sumo Home Page
 
-[GRASS roots
-house](%3Cp%3Ehttp://ha1.seikyou.ne.jp/home/Shigeo.Nishimori/grh.htm%3C/p%3E)
+GRASS roots house
 
-[Hiraki's atomic bomb slides ](http://www.hdsnet.co.jp/~hiraki/atomic-
-bomb.htm)
+Hiraki's atomic bomb slides
 
-[HIROSHIMA CITY HOMEPAGE ](http://www.city.hiroshima.jp/C/index-E.html)
+HIROSHIMA CITY HOMEPAGE
 
-[Hiroshima Weekly ](http://www.chugoku-
-np.co.jp/abom/99abom/99English/index.html)
+Hiroshima Weekly
 
-[Int.Court Proc.Against
-Nuc.Weapons](http://www.pcf.city.hiroshima.jp/peacesite/English/Stage0/0-4E.html)
+Int.Court Proc.Against Nuc.Weapons
 
-[JAPAN PEACE MUSEUM](http://www.peace-museum.org/)
+JAPAN PEACE MUSEUM
 
-[NAGASAKI CITY WELCOME ](http://www.us1.nagasaki-
-noc.ne.jp/~nacity/index_e.html)
+NAGASAKI CITY WELCOME
 
-[NHK Forum - Nuc Arms & Human Race](http://www.nhk.or.jp/nuclear/e/index.htm)  
+NHK Forum - Nuc Arms & Human Race  
   
 
 
@@ -235,7 +201,7 @@ they require something like "live picture viewer," see below. You might want
 to print this page as a guide before you click on this next link.
 
 **Go to**  
-<http://www.peace-museum.org/>    Note: This page may still be in Japanese.
+http://www.peace-museum.org/    Note: This page may still be in Japanese.
 
 **Click** on the large blue symbol; this will take you to the ...welcom.htm
 page  
@@ -252,10 +218,9 @@ Hayashi's panoramas. Click on either picture to get moveable, zoomable image,
 provided you have installed something like "livepicture" viewer. In this
 skinny window also is reference to livepicture viewer.  
 
-You can [download livepicture viewer](http://www.livepicture.com/) and install
-it into your PC. I found it easiest to use Netscape Navigator and BOTH
-download and then install in the folder that contains all the Netscape
-Navigator Plug-Ins.
+You can download livepicture viewer and install it into your PC. I found it
+easiest to use Netscape Navigator and BOTH download and then install in the
+folder that contains all the Netscape Navigator Plug-Ins.
 
 Read the directions there; on the left side, you want imaging software, live
 picture viewer, zoom viewer 3.2, and good luck.
@@ -266,6 +231,5 @@ it.
   
 ---  
   
-[Cover Page](PNDclass.html) ~ [Course Description](description.html) ~ [Course
-Syllabus](syllabus.html)
+Cover Page ~ Course Description ~ Course Syllabus
 

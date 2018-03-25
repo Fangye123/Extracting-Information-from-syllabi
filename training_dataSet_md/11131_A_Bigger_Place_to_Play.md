@@ -4,13 +4,11 @@ in the Electronic Age **
 
 release version 1.2
 
-Randy Bass, English,
-[bassr@gusun.georgetown.edu](mailto:bassr@gusun.georgetown.edu)
+Randy Bass, English, bassr@gusun.georgetown.edu
 
 Spring 1997
 
-Release Version for [Bigger Place to Play --
-1996](http://otal.umd.edu/~googie/bass/bassdemo.html)
+Release Version for Bigger Place to Play -- 1996
 
 * * *
 
@@ -24,20 +22,19 @@ Evaluation will be based on engagement and participation in the course, and
 evaluation on the following assignments:
 
   * A hypertext of the "claims and contexts" of hypertext. In groups of three. Built in StorySpace. (weeks 3-6)
-  * One ["site analysis"](assgmt2.html) of a World Wide Web site on culture/history, written in HTML on the Web and based on our [lexicon of analytic terms](lexicon.html). Done individually. (Weeks 7-10)
-| _[List of Site Analyses](sites.html) or jump directly to a student's
-analysis:_ |  A-Bomb WWW MuseumAndy Warhol Museum PageBeat Culture
-1950-1965The Blue HighwayBosnian Virtual FieldtripCrime Scene Evidence
-FileCybrary of the HolocaustFitzgerald CentennaryGlobaLearnGreen Cart's Warhol
-TributeHamlet Home PageKing Kong: The Eighth Wonder"Literary Kicks"Midsummer
-Night's DreamMythopoeiaThe New York TimesThe Perseus SitePhiladelphia Museuem
-of ArtPhotoStoreRossetti ArchiveThe Times of MindenValley of the
-ShadowVictorian Women WritersWalt Whitman Archive [I]Walt Whitman Archive
-[II]WebMuseum ParisWilliam Faulkner on the WebWilliam Burroughs
-ExplorerWorcester Women's Project [I]Worcester Women's Project [II]  
+  * One "site analysis" of a World Wide Web site on culture/history, written in HTML on the Web and based on our lexicon of analytic terms. Done individually. (Weeks 7-10)
+| _List of Site Analyses or jump directly to a student's analysis:_ |  A-Bomb
+WWW MuseumAndy Warhol Museum PageBeat Culture 1950-1965The Blue HighwayBosnian
+Virtual FieldtripCrime Scene Evidence FileCybrary of the HolocaustFitzgerald
+CentennaryGlobaLearnGreen Cart's Warhol TributeHamlet Home PageKing Kong: The
+Eighth Wonder"Literary Kicks"Midsummer Night's DreamMythopoeiaThe New York
+TimesThe Perseus SitePhiladelphia Museuem of ArtPhotoStoreRossetti ArchiveThe
+Times of MindenValley of the ShadowVictorian Women WritersWalt Whitman Archive
+[I]Walt Whitman Archive [II]WebMuseum ParisWilliam Faulkner on the WebWilliam
+Burroughs ExplorerWorcester Women's Project [I]Worcester Women's Project [II]  
   
 ---|---  
-  * [A final project](finals.html) in electronic or combination print/electronic format (weeks 13-15) 
+  * A final project in electronic or combination print/electronic format (weeks 13-15) 
 
 **Reading Schedule:**
 
@@ -51,11 +48,9 @@ Texts?" Where: Reiss 282
 
 **Reading:** Kevin Kelly,  "Hive Mind" from _Out of Control_ (handout);
 Michael Joyce,  "Siren Shapes: Exploratory and Constructive Hypertexts"
-(handout); Jerome McGann, ["Rationale of
-Hypertext"](http://www.village.virginia.edu/public/jjm2f/rationale.html); the
-1996 Hypertext version of Unit III of _A Bigger Place to Play_ : [Rhetoric of
-Hypertext: Multilinearity and the Making of
-Meaning](http://otal.umd.edu/~googie/bass/unit3.html) (weeks 3-5)
+(handout); Jerome McGann, "Rationale of Hypertext"; the 1996 Hypertext version
+of Unit III of _A Bigger Place to Play_ : Rhetoric of Hypertext:
+Multilinearity and the Making of Meaning (weeks 3-5)
 
 T, 1/28: Making Meaning in Hypertext and Electronic Texts (I) Where: New North
 311
@@ -93,35 +88,29 @@ T, 2/25: Narrative, Inquiry, and Cultural Archives Where: New North 311
 
 **Reading:** Roy Rosenzweig and Michael O'Malley,  "Brave New World of Blind
 Alley? American History on the World Wide Web, review essay for the Journal of
-American History, June 1997; Roy Rosenzweig, ["So, What's Next for Clio?" CD-
-ROM and Historians"](http://web.gmu.edu/chnm/clio.html); Journal of American
-History 81.4 (March 1995): 1621-1640; Randy Bass, ["Can American Studies Find
-a Whole in the
-Net?,"](http://www.georgetown.edu/crossroads/guide/asins96.html) American
-Studies in Scandinavia (Fall, 1996).
+American History, June 1997; Roy Rosenzweig, "So, What's Next for Clio?" CD-
+ROM and Historians"; Journal of American History 81.4 (March 1995): 1621-1640;
+Randy Bass, "Can American Studies Find a Whole in the Net?," American Studies
+in Scandinavia (Fall, 1996).
 
 T, 3/4: Narrative, Inquiry, and Cultural Archives (II) Where: Reiss 282
 
 **Reading:** Henrietta Shirk,  "Cognitive Architecture in Hypermedia
 Instruction"; Glen Hoptman, "The Virtual Museum and Related Epistemological
 Concerns" (handouts); Stone, _War of Desire and Technology_ (Intro, 1, 6, 7);
-See also related links for [electronic
-fieldwork](http://www.georgetown.edu/bassr/511/fieldlinks.html).
+See also related links for electronic fieldwork.
 
 T, 3/11: Procrastination, Margaritas, Sleep (Spring break)
 
 T, 3/18: Blurred Boundaries of The Interface: Narrative, Archive, and
 Knowledge
 
-**Readings:** Gary Marchionini, ["Bringing Treasures to the Surface: Iterative
-Design for the Library of Congress National Digital Library
-Program"](ftp://ftp.cs.umd.edu/pub/hcil/Reports-Abstracts-
-Bibliography/3694html/3694.html) (handout and on web); Cliffor Geertz,
-"Blurred Genres" (handout). Lanham, chaps 5 and 6; See also related links for
-[electronic fieldwork](http://www.georgetown.edu/bassr/511/fieldlinks.html).
+**Readings:** Gary Marchionini, "Bringing Treasures to the Surface: Iterative
+Design for the Library of Congress National Digital Library Program" (handout
+and on web); Cliffor Geertz, "Blurred Genres" (handout). Lanham, chaps 5 and
+6; See also related links for electronic fieldwork.
 
-Begin thinking about and working on [site
-analysis](http://www.georgetown.edu/bassr/511/assgmt2.html).
+Begin thinking about and working on site analysis.
 
 T, 3/25: Electronic Texts, Knowledge, and Pedagogy
 
@@ -146,5 +135,5 @@ T, 4/29: Critique of Projects
 
 T, 5/6: Critique of Projets (make up class)
 
-**[FINAL PROJECTS DUE](finals.html)** : Thursday, May 13.
+**FINAL PROJECTS DUE** : Thursday, May 13.
 

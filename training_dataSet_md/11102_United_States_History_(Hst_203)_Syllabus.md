@@ -12,7 +12,7 @@ Office: 118 Taylor, 552-6646 (leave message if no answer)
 
 Office Hours: Monday through Thursday, 11a-12p, or by appointment.
 
-e-mail:[ tcarney@sou.edu](mailto:tcarney@sou.edu)
+e-mail: tcarney@sou.edu
 
 * * *
 

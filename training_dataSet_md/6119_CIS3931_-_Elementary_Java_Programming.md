@@ -1,6 +1,5 @@
-[Home](index.html) | [Announcements](index.html#ann) | [Site
-Links](index.html#site) | [Miscellaneous](index.html#misc)  
-Syllabus | [Schedule](schedule.html) | [Homework](homework.html)
+Home | Announcements | Site Links | Miscellaneous  
+Syllabus | Schedule | Homework
 
 ![Textbook Logo](Images/cofeecp2.gif) | Florida State University  
 Department of Computer Science  
@@ -13,8 +12,7 @@ Spring 2001 Syllabus
 Instructor Information    | Instructor | Recitation TA | Faculty Advisor  
 ---|---|---|---  
 Name: | John R. Diehl, Jr. |    | David Gaitros  
-E-mail: | [ diehl@cs.fsu.edu](mailto:diehl@cs.fsu.edu) |    | [
-gaitrosd@cs.fsu.edu](mailto:gaitrosd@cs.fsu.edu)  
+E-mail: |  diehl@cs.fsu.edu |    |  gaitrosd@cs.fsu.edu  
 Office Hours: |  Mon. & Wed. 6:30 - 7:30 PM  |    | Posted  
 Location: |  205F LUV  |    |  253 LUV  
   
@@ -32,9 +30,8 @@ Upon completion of the course, the student will:
 
 ### Course Content:
 
-We will cover chapters in the textbook as outlined in the [Semester
-Schedule](schedule.html), along with a few selected current topics, as time
-permits.
+We will cover chapters in the textbook as outlined in the Semester Schedule,
+along with a few selected current topics, as time permits.
 
 ### Required Textbooks:
 
@@ -99,7 +96,7 @@ the web site often for updates and posted materials.
 ### Miscellaneous Policies:
 
   * A student will be allowed to make up a missed test if he or she has a notice of illness from the Student Heath Center or family physician. Any other excuses that are not medical or emergency related will be at the discretion of the instructor, and must be approved in advance.
-  * Students in the class will be given a temporary computer account from the Computer Science Department on the quake server. If you need additional help outside of class, see me during office hours. I am not on campus often, but I can always be reached through e-mail at [diehl@cs.fsu.edu](mailto:diehl@cs.fsu.edu). Whenever you have questions about programs, be sure to always attach a copy of your code and include any compiler error messages you may be getting.
+  * Students in the class will be given a temporary computer account from the Computer Science Department on the quake server. If you need additional help outside of class, see me during office hours. I am not on campus often, but I can always be reached through e-mail at diehl@cs.fsu.edu. Whenever you have questions about programs, be sure to always attach a copy of your code and include any compiler error messages you may be getting.
   * Please turn OFF all cellular phones, beepers, etc. in the classroom.
 
 ### Academic Honor Code:

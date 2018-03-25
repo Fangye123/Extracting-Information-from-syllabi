@@ -1,21 +1,21 @@
-|  ![](/gse/images/gse_logo.gif) |  ![](/gse/images/spacer.gif) |  [
-![](/gse/images/gse_shield.gif)](http://www.gse.harvard.edu/)  
+|  ![](/gse/images/gse_logo.gif) |  ![](/gse/images/spacer.gif) |
+![](/gse/images/gse_shield.gif)  
 ---|---|---  
-[ ![HGSE Home](/gse/images/home.gif) ](http://www.gse.harvard.edu)  
-[ ![HGSE News and Views](/gse/images/nv.gif) ](http://www.gse.harvard.edu/nv)  
-[ ![Harvard Home](/gse/images/harvard.gif)](http://www.harvard.edu)  
+![HGSE Home](/gse/images/home.gif)  
+![HGSE News and Views](/gse/images/nv.gif)  
+![Harvard Home](/gse/images/harvard.gif)  
 |
 
 Search Course Site  
   
 ---  
 |  
-[ Help](http://search.harvard.edu:8765/help/) |  
+Help |  
   
-|  [ ![Handouts](/gse/images/handouts_btn.gif)](/~gse-a188/handouts)  
+|  ![Handouts](/gse/images/handouts_btn.gif)  
 ---  
-[ ![Instructors](/gse/images/instructors_btn.gif)](/~gse-a188/instructors)  
-[ ![Syllabus](/gse/images/syllabus_btn.gif)](/~gse-a188/syllabus)  
+![Instructors](/gse/images/instructors_btn.gif)  
+![Syllabus](/gse/images/syllabus_btn.gif)  
 |
 
 **Course Title:** A188 - Implementing educational change for social justice in
@@ -73,10 +73,9 @@ Fridays 9-12
 
 |
 
-[Fernando_Reimers](mailto:Fernando_Reimers@Harvard.edu)[@Harvard.edu](mailto:Fernando_Reimers@Harvard.edu)  
+Fernando_Reimers@Harvard.edu  
   
-[Click here for MS Word version of syllabus for
-printing](http://icommons.harvard.edu/~gse-a188/syllabus/printable_A188_Syllabus.doc)
+Click here for MS Word version of syllabus for printing
 
 #
 
@@ -410,9 +409,9 @@ Primary Schools. Westport. Praeguer.
 
 **You may obtain a copy of _Involving Communities_ by A. Rugh by emailing**
 
-**[Anas@caii-dc.com](mailto:Anas@caii-dc.com). It's free of charge. This is
-required reading for April 18th but don't wait until the last minute. There's
-no guarantee that they will still have copies by then.**
+**Anas@caii-dc.com. It's free of charge. This is required reading for April
+18th but don't wait until the last minute. There's no guarantee that they will
+still have copies by then.**
 
 ****
 
@@ -463,21 +462,17 @@ fostering organizational ability to deal with complexity on an ongoing basis.
 |
 
 Mazmanian, D. and P. Sabatier. 1989. _Implementation and Public Policy_.
-Maryland. University Press of America. [Chapter 2\. "A Framework for
-Implementation
-Analysis"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Mazmanian_Implementation_A188.pdf).
-Pp. 18-44.
+Maryland. University Press of America. Chapter 2\. "A Framework for
+Implementation Analysis". Pp. 18-44.
 
-McLaughlin, M. ["Listening and Learning from the Field: Tales of Policy
-Implementation and Situated
-Practice"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/McLaughlin_Listening_A188.pdf)
-in Hargreaves, A. et al. (eds), International Handbook of Educational Change.
-Great Britain. Kluwer Academic Publishers. P. 70-84.
+McLaughlin, M. "Listening and Learning from the Field: Tales of Policy
+Implementation and Situated Practice" in Hargreaves, A. et al. (eds),
+International Handbook of Educational Change. Great Britain. Kluwer Academic
+Publishers. P. 70-84.
 
 * Reimers, F. 2000. Unequal Schools, Unequal Chances. Chapters 2 and 16.
 
-Van Meter, D. and C. Van Horn ["The policy implementation
-process"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/VanMeter_Policy_A188.pdf).
+Van Meter, D. and C. Van Horn "The policy implementation process".
 _Administration and Society_. Vol 6 (4). February 1975. Pp. 445-488.
 
 |  
@@ -494,20 +489,17 @@ _Administration and Society_. Vol 6 (4). February 1975. Pp. 445-488.
   
 |
 
-Cummings, W. [Low-cost primary
-education](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Cummings_Low_A188.pdf).
-_Implementing an innovation in six nations_. Canada. IDRC. Pp. 21-79.
+Cummings, W. Low-cost primary education. _Implementing an innovation in six
+nations_. Canada. IDRC. Pp. 21-79.
 
 ****
 
-#### Inbar, D. 1996. [Planning for innovation in
-education](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Inbar_Planning_A188.pdf).
-Paris. International Institute for Educational Planning.
+#### Inbar, D. 1996. Planning for innovation in education. Paris.
+International Institute for Educational Planning.
 
-Levin, H. 1998. ["Accelerated Schools: A Decade of
-Evolution"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Levin_Accelerated_A188.pdf)
-in Hargreaves, A. et al. (eds), _International Handbook of Educational
-Change_. Great Britain. Kluwer Academic Publishers. Pp. 807-830.
+Levin, H. 1998. "Accelerated Schools: A Decade of Evolution" in Hargreaves, A.
+et al. (eds), _International Handbook of Educational Change_. Great Britain.
+Kluwer Academic Publishers. Pp. 807-830.
 
 ****
 
@@ -530,24 +522,20 @@ Innovation. Cases and Lessons. Pp. 121-138.
   
 |
 
-Dyer, C. 1994. ["Education and the State: Policy Implementation in India's
-Federal
-Polity"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Dyer_Education_A188.pdf)
-_International Journal of Educational Development_. Vol. 14(3): 241-253.
+Dyer, C. 1994. "Education and the State: Policy Implementation in India's
+Federal Polity" _International Journal of Educational Development_. Vol.
+14(3): 241-253.
 
 * Garcia-Huidobro, J.E. 2000. "Educational policies and equity in Chile" in Reimers, F. (Ed.) 2000. _Unequal Schools, Unequal Chances_. Cambridge, MA. Harvard University Press. Pp. 160-180.
 
-Lynch, P. and S. Omer. ["The implementation of the new educational policy in
-the Sudan, 1970-85: promise and
-reality"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Lynch_Implementation_A188.pdf)
-_Educational Review_. Vol. 41. No. 3. 1989.
+Lynch, P. and S. Omer. "The implementation of the new educational policy in
+the Sudan, 1970-85: promise and reality" _Educational Review_. Vol. 41. No. 3.
+1989.
 
 ****
 
-Pandey, R. 2000. [Going to Scale with Education Reform: India's District
-Primary Education
-Program](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Pandey_Going_a188.pdf),
-1995-1999. Washington, DC. The World Bank.
+Pandey, R. 2000. Going to Scale with Education Reform: India's District
+Primary Education Program, 1995-1999. Washington, DC. The World Bank.
 
 ****
 
@@ -576,28 +564,24 @@ electronic Threaded Discussion in I-commons.
   
 |
 
-Beeby, C. ["The stages of growth in educational
-systems"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Beeby_Stages_A188.pdf)
-in Heyneman, S. and D. White (Eds). 1986. _The Quality of Education and
-Economic Development_. Washington, DC. The World Bank.
+Beeby, C. "The stages of growth in educational systems" in Heyneman, S. and D.
+White (Eds). 1986. _The Quality of Education and Economic Development_.
+Washington, DC. The World Bank.
 
-Dalin, P. 1998. ["Developing the Twenty-First Century School: A Challenge to
-Reformers"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Dalin_Developing_A188.pdf)
-in Hargreaves, A. et al. (eds), _International Handbook of Educational
-Change_. Great Britain. Kluwer Academic Publishers. Pp. 1059-1073.
+Dalin, P. 1998. "Developing the Twenty-First Century School: A Challenge to
+Reformers" in Hargreaves, A. et al. (eds), _International Handbook of
+Educational Change_. Great Britain. Kluwer Academic Publishers. Pp. 1059-1073.
 
-Hargreaves, A. 1998. ["Pushing the Boundaries of Educational
-Change"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Hargreaves_A_Pushing_the_Boundaries_1998_pp281-294_A188.pdf)
-in Hargreaves, A. et al. (eds), _International Handbook of Educational
-Change_. Great Britain. Kluwer Academic Publishers. Pp. 281-294.
+Hargreaves, A. 1998. "Pushing the Boundaries of Educational Change" in
+Hargreaves, A. et al. (eds), _International Handbook of Educational Change_.
+Great Britain. Kluwer Academic Publishers. Pp. 281-294.
 
 * Senge, P. et al. 2000. _Schools That Learn_. New York. Doubleday. Chapter 1. Orientation (Pp. 3-58).
 
-Slavin, R. 1998. ["Sand, Bricks, and Seeds: School Change Strategies and
-Readiness for
-Reform"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Slavin_Sand_A188.pdf)
-in Hargreaves, A. et al. (eds), _International Handbook of Educational
-Change_. Great Britain. Kluwer Academic Publishers. Pp. 1299-1313.
+Slavin, R. 1998. "Sand, Bricks, and Seeds: School Change Strategies and
+Readiness for Reform" in Hargreaves, A. et al. (eds), _International Handbook
+of Educational Change_. Great Britain. Kluwer Academic Publishers. Pp.
+1299-1313.
 
 |  
   
@@ -616,21 +600,18 @@ matter?**
   
 |
 
-Darling-Hammond, L. 1998. ["Policy and Change: Getting Beyond
-Bureaucracy"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Darling_Policy_A188.pdf)
-in Hargreaves, A. et al. (eds), _International Handbook of Educational
-Change_. Great Britain. Kluwer Academic Publishers. Pp. 642-667.
+Darling-Hammond, L. 1998. "Policy and Change: Getting Beyond Bureaucracy" in
+Hargreaves, A. et al. (eds), _International Handbook of Educational Change_.
+Great Britain. Kluwer Academic Publishers. Pp. 642-667.
 
-Elmore, R. ["Backward Mapping: Implementation Research and Policy
-Decisions"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Elmore_Backward_a188.pdf)
-in Williams, W. et al. _Studying Implementation. Methodological and
+Elmore, R. "Backward Mapping: Implementation Research and Policy Decisions" in
+Williams, W. et al. _Studying Implementation. Methodological and
 administrative issues_. New Jersey. Chatham House Publishers. Pp. 18-35.
 
-Palumbo, D. and D. Calista. ["The relation of implementation research to
-policy outcomes" and "Opening up the Black Box: Implementation and the Policy
-Process"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Palumbo_Relation_A188.pdf)
-in Palumbo, D. and D. Calista (Eds.) _Implementation and the policy process_.
-New York. Greenwood Press. Pp. I-38.
+Palumbo, D. and D. Calista. "The relation of implementation research to policy
+outcomes" and "Opening up the Black Box: Implementation and the Policy
+Process" in Palumbo, D. and D. Calista (Eds.) _Implementation and the policy
+process_. New York. Greenwood Press. Pp. I-38.
 
 * Reimers, F. and N. McGinn. 1997. _Informed Dialogue_. Chapter 3. Why Education Policies are so Difficult to Inform? Pp. 43-70, Chapter 11  'Conducting a Participatory Sector Assessment in El Salvador' Pp. 169-166 and Chapter 12 'Policy Dialogue as Organizational Learning in Paraguay' Pp. 167-176.
 
@@ -656,32 +637,27 @@ New York. Greenwood Press. Pp. I-38.
   
 |
 
-Calhoun, E. and B. Joyce. 1998. ["'Inside-Out' and 'Outside-In': Learning from
-Past and Present School Improvement
-Paradigms"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Calhoun_Inside_a188.pdf)
-in Hargreaves, A. et al. (eds), _International Handbook of Educational
-Change_. Great Britain. Kluwer Academic Publishers. Pp. 1286-1298.
+Calhoun, E. and B. Joyce. 1998. "'Inside-Out' and 'Outside-In': Learning from
+Past and Present School Improvement Paradigms" in Hargreaves, A. et al. (eds),
+_International Handbook of Educational Change_. Great Britain. Kluwer Academic
+Publishers. Pp. 1286-1298.
 
-Farrell, J. 2000. ["Why is Educational Reform so
-Difficult?"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Farrell_Why_A188.pdf)
-_Curriculum Inquiry_. 30:1. Pp. 83-103.
+Farrell, J. 2000. "Why is Educational Reform so Difficult?" _Curriculum
+Inquiry_. 30:1. Pp. 83-103.
 
-Fink, D. and L. Stoll. 1998. ["Educational Change: Easier Said than
-Done"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Fink_Educational_a188.pdf)
-in Hargreaves, A. et al. (eds), _International Handbook of Educational
-Change_. Great Britain. Kluwer Academic Publishers. Pp. 297-321.
+Fink, D. and L. Stoll. 1998. "Educational Change: Easier Said than Done" in
+Hargreaves, A. et al. (eds), _International Handbook of Educational Change_.
+Great Britain. Kluwer Academic Publishers. Pp. 297-321.
 
-Giacquinta, J. "[Seduced and Abandoned: Some Lasting Conclusions about Planned
-Change from the Cambire School
-Study"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Giaquinta_Seduced_A188.pdf)
-in Hargreaves, A. et al. (eds), _International Handbook of Educational
-Change_. Great Britain. Kluwer Academic Publishers. P. 163-180.
+Giacquinta, J. "Seduced and Abandoned: Some Lasting Conclusions about Planned
+Change from the Cambire School Study" in Hargreaves, A. et al. (eds),
+_International Handbook of Educational Change_. Great Britain. Kluwer Academic
+Publishers. P. 163-180.
 
-Lieberman, A. 1998. ["The growth of educational change as a field of study:
-understanding its roots and
-branches"](http://gseacademic.harvard.edu/~apsplib/Spring2002_course_packet_readings/Lieberman_Growth_a188.pdf)
-in Hargreaves, A. et al. (eds), _International Handbook of Educational
-Change_. Great Britain. Kluwer Academic Publishers. Pp. 13-20.
+Lieberman, A. 1998. "The growth of educational change as a field of study:
+understanding its roots and branches" in Hargreaves, A. et al. (eds),
+_International Handbook of Educational Change_. Great Britain. Kluwer Academic
+Publishers. Pp. 13-20.
 
 |  
   

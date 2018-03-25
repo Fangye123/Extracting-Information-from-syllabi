@@ -410,5 +410,5 @@ Press, 1984. Third ed. Boston: Beacon Press, 1989
 >> Batya Baumann, "Women-Identified Women in Male-Identified Judaism" in
 Heschel, pp. 88-95
 
-[HOME](index.html)
+HOME
 

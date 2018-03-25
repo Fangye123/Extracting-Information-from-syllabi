@@ -145,7 +145,7 @@ The Curriculum
 
     The Philosophy department offers a number of course in the College of General Studies in addition to regular course offerings in the School of Arts & Sciences. CGS courses carry regular SAS credit and may be used to satisfy the distribution requirement of the Majors. Most CGS courses in philosophy are taught by the Department's graduate students.
 
-    Some philosophy courses also contribute to the new undergraduate major, [PPE: Philosophy, Politics, and Economics](ppeinfo.html).
+    Some philosophy courses also contribute to the new undergraduate major, PPE: Philosophy, Politics, and Economics.
 
     A description of the Department's course for the succeeding term is available in the Department office by pre-registration period of the preceding term. 
 
@@ -245,8 +245,8 @@ Domotor. The current Graduate Chairperson is Professor Gary Hatfield.
 
 * * *
 
-[![](http://www.sas.upenn.edu/Icons/back_button.gif) Back to the Department of
-Philosophy Homepage](index.html)
+![](http://www.sas.upenn.edu/Icons/back_button.gif) Back to the Department of
+Philosophy Homepage
 
 _Last Modified 1999.11.29_
 

@@ -1,38 +1,30 @@
 ###  Timothy Sweet
 
 Department of English PO BOX 6296 West Virginia University Morgantown, WV
-26506-6296 304-293-3107 x417
-_[tsweet@wvnvm.wvnet.edu](mailto:tsweet@wvnvm.wvnet.edu)_
+26506-6296 304-293-3107 x417 _tsweet@wvnvm.wvnet.edu_
 
 * * *
 
 ###  Education
 
-Ph.D., [English, University of Minnesota](http://www-engl.cla.umn.edu/),
-1988\.  
-M.A., [English, University of Minnesota](http://www-engl.cla.umn.edu/), 1986.  
-B.A., _summa cum laude_ , [English, University of Minnesota](http://www-
-engl.cla.umn.edu/), 1982.
+Ph.D., English, University of Minnesota, 1988\.  
+M.A., English, University of Minnesota, 1986.  
+B.A., _summa cum laude_ , English, University of Minnesota, 1982.
 
 * * *
 
 ###  Employment
 
-Associate Professor, [Department of English](http://www.as.wvu.edu/english/),
-[West Virginia University](http://www.wvu.edu), 1996-present; Assistant
-1990-96.
+Associate Professor, Department of English, West Virginia University,
+1996-present; Assistant 1990-96.
 
-Lecturer, Department of English, [George Mason
-University](http://www.gmu.edu/), 1988- 1990.
+Lecturer, Department of English, George Mason University, 1988- 1990.
 
-Instructor, [Department of English, University of Minnesota](http://www-
-engl.cla.umn.edu/), 1985, 1987.
+Instructor, Department of English, University of Minnesota, 1985, 1987.
 
-Instructor, [Program in Composition, University of Minnesota](http://www-
-engl.cla.umn.edu/), 1983-1987.
+Instructor, Program in Composition, University of Minnesota, 1983-1987.
 
-Teaching Assistant, [Department of English, University of
-Minnesota](http://www-  engl.cla.umn.edu/), 1982-83.
+Teaching Assistant, Department of English, University of Minnesota, 1982-83.
 
 * * *
 
@@ -41,8 +33,7 @@ Minnesota](http://www-  engl.cla.umn.edu/), 1982-83.
 ####  Book
 
 _Traces of War: Poetry, Photography, and the Crisis of the Union_. Baltimore
-and London: [Johns Hopkins University Press](http://jhupress.jhu.edu/press/),
-1990.
+and London: Johns Hopkins University Press, 1990.
 
 ####  Articles
 
@@ -54,8 +45,7 @@ _Photo-Textualities: Reading Photographs and Literature_. Ed. Marsha Bryant.
 Newark: University of Delaware Press, 1996. 25-42.
 
 "Ghost Dance? Photography, Agency, and Authenticity in _Lame Deer, Seeker of
-Visions_." [_Modern Fiction Studies_
-40](http://muse.jhu.edu/journals/mfs/toc/mfsv040.html#v040.3) (1994): 493-508.
+Visions_." _Modern Fiction Studies_ 40 (1994): 493-508.
 
 "American Pastoralism and the Marketplace: Eighteenth-Century Ideologies of
 Farming." _Early American Literature_ 29 (1994): 59-80.
@@ -63,8 +53,7 @@ Farming." _Early American Literature_ 29 (1994): 59-80.
 "Masculinity and Self-Performance in the _Life of Black Hawk_." _American
 Literature_ 65 (1993): 475-99. Rpt. in _Subjects and Citizens: Nation, Race,
 and Gender from_ Oroonoko _to Anita Hill_. Eds. Michael Moon and Cathy
-Davidson. Durham and London: [Duke University
-Press](http://www.duke.edu/web/dupress/): 1995. 219-43.
+Davidson. Durham and London: Duke University Press: 1995. 219-43.
 
 "Pastoral Landscape with Indians: George Copway and the Political Unconscious
 of the American Pastoral." _Prospects_ 18 (1993): 1-27.
@@ -90,21 +79,18 @@ Literature_ 35 (Winter 2000): 92-95.
 Contribution to Forum on "Literatures of the Environment."  _PMLA_ 114
 (October 1999): 1103.
 
-"George Copway." _American Travel Writers, 1776-1850_. Eds. [Donald
-Ross](http://www-engl.cla.umn.edu/Faculty/Ross/ross.htm) and James Schramer.
-_Dictionary of Literary Biography_ , vol.183.  Detroit, Washington DC, and
-London: Bruccoli Clark Layman-Gale Research, 1997.  68-72.
+"George Copway." _American Travel Writers, 1776-1850_. Eds. Donald Ross and
+James Schramer. _Dictionary of Literary Biography_ , vol.183.  Detroit,
+Washington DC, and London: Bruccoli Clark Layman-Gale Research, 1997.  68-72.
 
 Rev. of _Mediation in Contemporary Native American Fiction_ , by James
-Ruppert. _[Modern Fiction
-Studies](http://muse.jhu.edu/journals/mfs/index.html)_ 42 (1996): 856-58.
+Ruppert. _Modern Fiction Studies_ 42 (1996): 856-58.
 
 Rev. of _High Lonesome: The American Culture of Country Music_ , by Cecelia
-Tichi. _[Modern Fiction Studies](http://muse.jhu.edu/journals/mfs/index.html)_
-41 (1995): 405-07.
+Tichi. _Modern Fiction Studies_ 41 (1995): 405-07.
 
-Rev. of _Bodies and Machines_ , by Mark Seltzer. _[Modern Fiction
-Studies](http://muse.jhu.edu/journals/mfs/index.html)_ 40 (1994): 914-15.
+Rev. of _Bodies and Machines_ , by Mark Seltzer. _Modern Fiction Studies_ 40
+(1994): 914-15.
 
 Rev. of _Where My Heart is Turning Ever: Civil War Stories and Constitutional
 Reform, 1861-1876_ , by Kathleen Diffley. _College Literature_ 21 (1994):
@@ -120,8 +106,7 @@ Literary Study_ 18 (1992): 275-79.
 ###  Conference Papers
 
 "The Cherokee Phoenix, the National Intelligencer, and the Logic of Property."
-[ Midwest Modern Language Association](http://www.uiowa.edu/~mmla/).
-Minneapolis.  11/6/99.
+Midwest Modern Language Association.  Minneapolis.  11/6/99.
 
 "The Indian in the Garden: Cherokee Removal and the Pastoral Ideal."  American
 Literature Association.  Baltimore, 5/28/98.
@@ -132,8 +117,7 @@ Early Americanists.  Charleston, SC, 3/99.
 "'Waste People,' 'Waste Countries': Colonization Plans and Early American
 Environments."  Modern Language Association.  San Franciso, 12/98.
 
-"Cherokee Improvements: Agrarian Identity and the Removal Debates."
-[MELUS](http://duchess.lib.csufresno.edu/Multicultural/MELUS/Welcome.html).
+"Cherokee Improvements: Agrarian Identity and the Removal Debates."  MELUS.
 Washington, DC, 4/25/98.
 
 "Teaching the Cultures of Early America: Native American Cultures." American
@@ -183,18 +167,18 @@ Association. Wilmington, 4/1/89.
   * Survey of Native American Literature
   * American Fiction
   * Short Story and Novel
-  * [Business English](http://www.as.wvu.edu/~tsweet/105.html)
-  * [Scientific and Technical Writing](http://www.as.wvu.edu/~lbrady/engl208.html)
+  * Business English
+  * Scientific and Technical Writing
   * English Composition II
 
 ####  Graduate Courses at WVU
 
   * Seminars in American Studies:
-    * "Nature's Nation": Early American Environmental Literature ([Society of Early Americanists Syllabus Exchange](http://www.lehigh.edu/~ejg1/syllabus2.html))
+    * "Nature's Nation": Early American Environmental Literature (Society of Early Americanists Syllabus Exchange)
     * Critical Approaches to Native American Literature
     * Native American Literary History
     * Fiction and Cultural Poetics in Antebellum America
-  * American Literature, beginnings-1865 ([Society of Early Americanists Syllabus Exchange](http://www.lehigh.edu/~ejg1/syllabus2.html))
+  * American Literature, beginnings-1865 (Society of Early Americanists Syllabus Exchange)
   * Selected Authors: Herman Melville
   * Introduction to Literary Research
   * Literary Criticism and Theory
@@ -223,8 +207,8 @@ _Interdisciplinary Studies in Literature and Environment_ , 1994-present.
 Chair and Respondent, "Writing the American Civil War," Modern Language
 Association, 1996.
 
-Chair and Respondent, "Americanizing Native Americans," [American Studies
-Association](http://www.georgetown.edu/crossroads), 1995.
+Chair and Respondent, "Americanizing Native Americans," American Studies
+Association, 1995.
 
 Chair, Native American Literature Section, Midwest Modern Language
 Association, 1993\.
@@ -241,6 +225,5 @@ Association, 1991.
 
 * * *
 
-**Return to[Timothy Sweet's home
-page](http://www.as.wvu.edu/~tsweet/home.html)**
+**Return toTimothy Sweet's home page**
 

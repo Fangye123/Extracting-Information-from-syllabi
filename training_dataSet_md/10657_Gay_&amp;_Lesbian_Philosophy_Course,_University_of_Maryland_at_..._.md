@@ -24,21 +24,21 @@ archives and other resources on the Web.
 * _Electronic Submission of Papers and Examinations_
 * _E-Mail and Listservs_
 * _Educational Philosophy and Grading_
-* _[Course Syllabus](syllabus.html)_
-* _[Audio-Visual Assignments](AV.html)_
-* _[Further Readings](Bibliography.html)_
-* _[Queer Film Directory](http://www.popcornq.com)_
-* _[Building a Queer Film Collection at UMCP](GL_Film_Collection_UMCP.html)_
-* [_Links to other Gay/Lesbian web sites_](Queer_links.html)
+* _Course Syllabus_
+* _Audio-Visual Assignments_
+* _Further Readings_
+* _Queer Film Directory_
+* _Building a Queer Film Collection at UMCP_
+* _Links to other Gay/Lesbian web sites_
 * _Class Lecture Notes_
-* [Fall 1999 Lectures](F1999Lectures.html)
-* [Spring 1997 Lectures](S1997Lectures.html)
-* [Fall 1996 Lectures](F1996Lectures.html)
-* [Fall 1995 Lectures](1995Lectures.html)
-* _[Archive of Examinations, Assignments, and Study Guides](Archive.html)_
-* [Exemplary Solved Midterm](SolvedMT407F99.html)
-* [Exemplary Solved Final Exam](SolvedFinalF99.html) NEW
-* _[Queer Picture Gallery](picture_gallery/picture_index.html)_
+* Fall 1999 Lectures
+* Spring 1997 Lectures
+* Fall 1996 Lectures
+* Fall 1995 Lectures
+* _Archive of Examinations, Assignments, and Study Guides_
+* Exemplary Solved Midterm
+* Exemplary Solved Final Exam NEW
+* _Queer Picture Gallery_
 
 In addition you can find _special or urgent announcements_ concerning the
 course.
@@ -64,8 +64,8 @@ Classes", Second Edition.** ]
 
 _Return to Main menu_
 
-**Instructor:** [Dr. Frederick Suppe,](fred.jpeg) Professor of Philosophy and
-Distinguished Scholar-Teacher
+**Instructor:** Dr. Frederick Suppe, Professor of Philosophy and Distinguished
+Scholar-Teacher
 
 1102-B Skinner
 
@@ -289,16 +289,15 @@ Neither are in the library but copies may be consulted in Dr. Suppe's office
 (1102 Skinner). A comprehensive guide to gay and lesbian films is to be found
 at
 
-[http://www.popcornq.com ](http://www.popcornq.com)
+http://www.popcornq.com
 
-Another excellent source is <http://www.reel.com/reel.asp> (under browse by
+Another excellent source is http://www.reel.com/reel.asp (under browse by
 category, select "gay/lesbian), which will take you to a gay/lesbian page with
 a variety of sub-category links on the upper right-hand corner of the page).
 
 and a number of reviews of gay and lesbian films are at
 
-[
-http://www.inform.umd.edu/EdRes/Topic/Diversity/Specific/Sexual_Orientation/FilmReviews/](http://www.inform.umd.edu/EdRes/Topic/Diversity/Specific/Sexual_Orientation/FilmReviews/)
+http://www.inform.umd.edu/EdRes/Topic/Diversity/Specific/Sexual_Orientation/FilmReviews/
 
 With special grants from the Vice President's Office and the Campus Diversity
 Initiative, the Nonprint Media Center at Hornbake and I have been developing
@@ -306,21 +305,19 @@ an extensive collection of Gay and & Lesbian feature films. It is the most
 extensive such film collection at any university or college. Check out the
 collection's Web Site:
 
-[http://carnap.umd.edu/queer/GL_Film_Collection_UMCP.html.](http://carnap.umd.edu/queer/GL_Film_Collection_UMCP.html)
+http://carnap.umd.edu/queer/GL_Film_Collection_UMCP.html.
 
 You are to write brief summaries of each film you watch and discuss the
 relevance of the film to course themes and content. (Maximum 500 words per
 entry.) One of the reports is to be given as a 5 minute oral report, the rest
-to be handed in. See the [Syllabus](syllabus.html) for specific deadlines.
+to be handed in. See the Syllabus for specific deadlines.
 
 You also are required to _listen to/watch an opera_ (see Syllabus Week 6 for
 details). As an alternative, you may attend a live performance of an opera
-such as the [Washington Opera](http://www.dc-opera.org/) or a [Maryland Opera
-Studio
-](http://www.inform.umd.edu/ARHU/Depts/Music/ensembles/voice/opera.html)
-performance of "Postcard from Morocco" (October 8, 10, 13, 15) on campus. A
-brief report of your opera experience should be included with the film reports
-that are handed in.
+such as the Washington Opera or a Maryland Opera Studio  performance of
+"Postcard from Morocco" (October 8, 10, 13, 15) on campus. A brief report of
+your opera experience should be included with the film reports that are handed
+in.
 
 _Regular attendance and participation in class discussions_ : In particular,
 there is very extensive use of film clips and audio visuals during class.
@@ -354,8 +351,8 @@ review vehicles for helping you synthesize and understand course material.
 Thus if you are up on the readings and assignments, there is no need to
 prepare additionally for the exam.
 
-_[Click here for detailed instructions for optional and required written
-course assignments.](Archive.html)_
+_Click here for detailed instructions for optional and required written course
+assignments._
 
 _Return to Main menu_
 
@@ -401,8 +398,7 @@ down-loadable from the class web site.
 
 All students are eligible to have e-mail accounts and are required to do so.
 Instructions for obtaining a free WAM account are at
-[http://www.helpdesk.umd.edu/faqs/unix/wam/wam-acct-signup.shtml](
-http://www.helpdesk.umd.edu/faqs/unix/wam/wam-acct-signup.shtml).
+http://www.helpdesk.umd.edu/faqs/unix/wam/wam-acct-signup.shtml.
 Alternatively, Take a photo-ID and proof of current connection to the
 University ( registration card) to room1400 in the Computer and Space Sciences
 Building on a weekday between 8 and 6.
@@ -426,11 +422,11 @@ pertaining to the course or course materials, outside of class and office
 hours.
 
 AT UMCP there is an undergraduate lesbian, gay, bisexual, and transgendered
-(LGBT) student organization. _Information is available at[
-http://www.inform.umd.edu/StudentOrg/lgba.](http://www.inform.umd.edu/StudentOrg/lgba)_
-Contact them to learn how to get on their Listserv. Information about the UMCP
-Graduate Lambda Coalition (GLC) is available at
-<http://www.inform.umd.edu/Student/Campus_Activities/StudentOrg/glc/>. They,
+(LGBT) student organization. _Information is available at
+http://www.inform.umd.edu/StudentOrg/lgba._ Contact them to learn how to get
+on their Listserv. Information about the UMCP Graduate Lambda Coalition (GLC)
+is available at
+http://www.inform.umd.edu/Student/Campus_Activities/StudentOrg/glc/. They,
 too, have a Listserv that can be joined.
 
 _Return to Main menu_

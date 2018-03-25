@@ -7,10 +7,8 @@ _Annotated_ _Syllabus_ __
 ###  Fall 1997  
 M, 8:50-10:05--ICC 105; W, 8:50-10:05--Reiss 282
 
-Prof. Randy Bass - [rbass@guvax.georgetown.edu
-](mailto:rbass@guvax.georgetown.edu)  
-Eric Hofmann, Collaborating Instructor -
-[hofmanne@gusun.georgetown.edu](mailto:hofmanne@gusun.georgetown.edu)
+Prof. Randy Bass - rbass@guvax.georgetown.edu  
+Eric Hofmann, Collaborating Instructor - hofmanne@gusun.georgetown.edu
 
 **Syllabus Section Links:**
 
@@ -37,8 +35,7 @@ well as writing about them in nontraditional, multimedia formats. (return to
 top)
 
 **Course Online Syllabus/Web pages** :
-<http://www.georgetown.edu/bassr/traditions.html>[
-](http://www.georgetown.edu/bassr/traditions.html)
+http://www.georgetown.edu/bassr/traditions.html
 
 ####  READING SCHEDULE AND "BENCHMARKS"
 
@@ -77,7 +74,7 @@ Enderby of London")
 **Begin Working on Moby-Dick Hypertext Analysis Paper**
 
   * Assignment  
-  * [Moby-Dick Projects from Fall 1997](http://www.georgetown.edu/bassr/Moby.htm) 
+  * Moby-Dick Projects from Fall 1997 
 
 Mon 10/27 Melville, _Moby-Dick_ (finish)  
 Wed 10/29 Melville, _Moby-Dick_  
@@ -175,10 +172,9 @@ information will follow about these.
 
 * * *
 
-[American Literary Traditions
-homepage](http://www.georgetown.edu/bassr/traditions.html)
+American Literary Traditions homepage
 
-[Course Portfolio homepage](http://www.georgetown.edu/bassr/portfolio/amlit/)  
+Course Portfolio homepage  
 ---  
 
 

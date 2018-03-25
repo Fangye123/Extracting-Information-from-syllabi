@@ -1,4 +1,4 @@
-[![Computers and Composition](../../graphics/tinylogo.gif)](../../../toc.html)
+![Computers and Composition](../../graphics/tinylogo.gif)
 
 * * *
 

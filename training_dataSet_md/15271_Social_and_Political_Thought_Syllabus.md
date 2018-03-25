@@ -61,7 +61,7 @@ argument.  The papers are to be TYPED, double-spaced, with reasonable margins
 (1" or so).  They should be 3-5 pages (or between 750 and 1250 words).  They
 should include a title page that includes the following information - title,
 author's name, class, professor, date submitted, and a word count.  Consult
-the [style sheet](style_sheet.htm) for citation information.
+the style sheet for citation information.
 
 **2\. Focus Paper** **s** : 20% - One of the important aspects of the
 philosophical discipline is developing the skill to write thoughtful papers
@@ -81,11 +81,10 @@ consult the online schedule for reminders andcolor updates.
 **4\. Paper** : 30% - In Social and Political Thought, these papers are
 directed at foundational issues in the arenas of law, government, rights,
 human nature, etc. The papers are to be 10-12 TYPED pages (no more, perhaps
-less); written in [ APA style](style_sheet.htm). Two copies of the paper are
-to be turned during the 10th week of class. The papers will be returned, with
-comments, during the 12th week of class. The papers are to be re-written, in
-light of the commentary, and given to the professor during the last week of
-class.
+less); written in  APA style. Two copies of the paper are to be turned during
+the 10th week of class. The papers will be returned, with comments, during the
+12th week of class. The papers are to be re-written, in light of the
+commentary, and given to the professor during the last week of class.
 
 **5\. Final Exam** : 20% - The final exam is a comprehensive essay exam over
 the material covered throughout the course.  A series of potential questions
@@ -104,13 +103,11 @@ _
 It is generally presumed that students in Social and Political Thought (a
 Junior/Senior level class) have developed the ability to write proficiently.
 Spelling, grammar, proper citation of outside sources, and proper scholarly
-style are all expected.  For reference, students may follow [this
-link](style_sheet.htm) to the expected format for citation.  Students are
-strongly encouraged to visit the [Writing
-Center](http://www.hsu.edu/dept/ewc/) on the first floor of McBrien Hall.  The
-[Writing Center](http://www.hsu.edu/dept/ewc/) is staffed by extremely helpful
-people who have strong backgrounds in writing.  They will be able to help the
-student to produce an acceptable result.
+style are all expected.  For reference, students may follow this link to the
+expected format for citation.  Students are strongly encouraged to visit the
+Writing Center on the first floor of McBrien Hall.  The Writing Center is
+staffed by extremely helpful people who have strong backgrounds in writing.
+They will be able to help the student to produce an acceptable result.
 
 _
 
@@ -153,11 +150,9 @@ Instructor:  Kevin K. J. Durand
 Phone Number: (870) 230-5058  
 Office: McBrien Hall, Room 201c  
 Office Hours: MWF, 10-11; 2-2:30; TR, 11-12:30  
-E-mail: [durandk@hsu.edu](mailto:durandk@hsu.edu "Select to send mail to
-durand k@h s u.e d u")  
+E-mail: durandk@hsu.edu  
 Instant Messenger Handle: reddiephilosophy  
      (both for Yahoo! and AOL)
 
-Return to [Social and Political](socpol.htm "Select to go to the Social and
-Political Philosophy Home Page") Home
+Return to Social and Political Home
 

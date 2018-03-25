@@ -4,7 +4,7 @@
 
  Fall Semester 2000 |
 
- [J. Pablo Silva](http://web.grinnell.edu/individuals/silvajp)  
+ J. Pablo Silva  
 ---|---  
   
 * * *
@@ -20,8 +20,7 @@ Phone: 269-4886
   
 Office Hours: Not yet Determined |
 
-E-mail:
-[silvajp@grinnell.edu](http://web.grinnell.edu/individuals/silvajp/Grinnell_Forms/SilvaMail.asp)  
+E-mail: silvajp@grinnell.edu  
   
 * * *
 
@@ -49,7 +48,7 @@ paper.(See Assignments) Class participation is an integral part of the course,
 so attendance is mandatory.  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
 **_Required Books:_**
 
@@ -82,44 +81,40 @@ Week 10: November 8 Week 11: November 15 Week 12: November 22 Week 13:
 November 29 Week 14: December 6
 
 Please note that most of the readings are available for purchase. Many are
-also on [reserve](USLAres.html). When you do the reading, keep in mind the
-question posed in the syllabus (see below). For purposes of discussion, be
-prepared to define (1) the authors main point, (2) the type of evidence used
-to make that point, (3) your assessment of whether the evidence and argument
-convincingly sustain the conclusions, and (4) the relationship to other works
-we have read.  
+also on reserve. When you do the reading, keep in mind the question posed in
+the syllabus (see below). For purposes of discussion, be prepared to define
+(1) the authors main point, (2) the type of evidence used to make that point,
+(3) your assessment of whether the evidence and argument convincingly sustain
+the conclusions, and (4) the relationship to other works we have read.  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
 **_Assignments_ : **For each class meeting, you will be expected to have done
 the assigned reading and to be prepared to discuss it.
 
 Over the course of the semester you will also be asked to complete four short
-assignments. [One ](MicrAsgn.html)will be done for class on August 29, [the
-second](FRUSAsgn.html) will be due September 26, [the third](BiblAsgn.html)
-will be due October 12, and [the last](ArguAsgn.html) will be due November 16.
-Keep these latter dates in mind as the semester proceeds. You will need to
-begin work on the third and fourth assignments well ahead of time. Do Not Let
-the Due Date Surprise You. These assignments are designed to help you choose a
-research topic and turn that topic into a research project. This research
-project will form the basis of the Research Term Paper that makes up the bulk
-of your grade. It is due December 8 at noon.
+assignments. One will be done for class on August 29, the second will be due
+September 26, the third will be due October 12, and the last will be due
+November 16. Keep these latter dates in mind as the semester proceeds. You
+will need to begin work on the third and fourth assignments well ahead of
+time. Do Not Let the Due Date Surprise You. These assignments are designed to
+help you choose a research topic and turn that topic into a research project.
+This research project will form the basis of the Research Term Paper that
+makes up the bulk of your grade. It is due December 8 at noon.
 
-When you prepare the papers you might want to consult the [Guide to Writing a
-College Paper](http://www-college.uchicago.edu/writing-
-program/resources/writing_in_college/index.htm) from the University of Chicago
-Writing Program. Those documents will give you a sense of my expectations in
-terms of writing. I am preparing a couple of pages that might help you revise
-your papers to meet my expectations. I strongly advise you to check them out
-once they are ready.  
+When you prepare the papers you might want to consult the Guide to Writing a
+College Paper from the University of Chicago Writing Program. Those documents
+will give you a sense of my expectations in terms of writing. I am preparing a
+couple of pages that might help you revise your papers to meet my
+expectations. I strongly advise you to check them out once they are ready.  
 ---  
   
 **_Grading_ : **Class participation--including 3 presentations (30%), 4 Short
 Assignments (20%), Research Paper (50%)  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
 **_Part 1. An Overview of US-Latin American Relations (weeks 1-4)_**
 
@@ -135,7 +130,7 @@ Assignments (20%), Research Paper (50%)
 
 | **A view of the trees.**  
 ---  
-[Microfilm Assignment](MicrAsgn.html)  
+Microfilm Assignment  
   
   Thursday, 31 August |
 
@@ -143,7 +138,7 @@ Assignments (20%), Research Paper (50%)
 ---  
 Smith, _Talons of the Eagle,_ pp. 1-113.  
   
-[Return to Top](index.html)
+Return to Top
 
  Tuesday, 5 September |
 
@@ -160,7 +155,7 @@ on Thursday's reading.
 ---  
 Smith, _Talons of the Eagle,_ pp. 219-370.  
   
-[Return to Top](index.html)
+Return to Top
 
  Tuesday, 12 September |
 
@@ -177,7 +172,7 @@ America?**
 ---  
 Schoultz, _Beneath the United States,_ pp. 125-219.  
   
-[Return to Top](index.html)
+Return to Top
 
  Tuesday, 19 September |
 
@@ -191,9 +186,9 @@ Schoultz, _Beneath the United States,_ pp. 220-386.
 
 | **Some Case Studies.**  
 ---  
-No Class so you can work on the [FRUS Assignment.](FRUSAsgn.html)  
+No Class so you can work on the FRUS Assignment.  
   
-[Return to Top](index.html)
+Return to Top
 
 **_Part 2. Case Studies (weeks 5-8)_**
 
@@ -203,7 +198,7 @@ No Class so you can work on the [FRUS Assignment.](FRUSAsgn.html)
 
 **Week 5**  
 ---|---  
-[FRUS Assignment](FRUSAsgn.html) presentations.  
+FRUS Assignment presentations.  
   
  Thursday, 28 September |
 
@@ -211,7 +206,7 @@ No Class so you can work on the [FRUS Assignment.](FRUSAsgn.html)
 ---  
 Dorfman & Mattelart, _How to read Donald Duck._  
   
-[ Return to Top](index.html)
+Return to Top
 
  Tuesday, 3 October |
 
@@ -227,7 +222,7 @@ O'Brien, _The Revolutionary Mission,_ pp. 1-106.
 ---  
 O'Brien, _The Revolutionary Mission,_ pp. 109-202.  
   
-[Return to Top](index.html)
+Return to Top
 
  Tuesday, 10 October |
 
@@ -241,10 +236,10 @@ O'Brien, _The Revolutionary Mission,_ pp. 205-330.
 
 | **What are your key sources?**  
 ---  
-No Class. [Bibliography Assignment Due.](BiblAsgn.html) Read Joseph, _et al._
-, _Close Encounters of Empire,_ pp. 3-104.  
+No Class. Bibliography Assignment Due. Read Joseph, _et al._ , _Close
+Encounters of Empire,_ pp. 3-104.  
   
-[ Return to Top](index.html)
+Return to Top
 
 
 
@@ -269,7 +264,7 @@ culture particularly important?**
 Joseph, _et al_ , _Close Encounters of Empire._ We will read one or two more
 of the empirical studies in addition to pp. 497-556.  
   
-[ Return to Top](index.html)
+Return to Top
 
 **_Part 3. Research Projects (weeks 9-14)_**
 
@@ -287,7 +282,7 @@ Readings will be assigned by presenters.
 ---  
 Readings will be assigned by presenters.  
   
-[Return to Top](index.html)
+Return to Top
 
  Tuesday, 7 November |
 
@@ -302,7 +297,7 @@ Readings will be assigned by presenters.
 | Individual Project Meetings  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
  Tuesday, 14 November |
 
@@ -316,11 +311,11 @@ Readings will be assigned by presenters.
 | Individual Project Meetings  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
  Tuesday, 21 November |
 
-| See the [Argument Assignment.](ArguAsgn.html) |
+| See the Argument Assignment. |
 
 **Week 12**  
 ---|---  
@@ -329,7 +324,7 @@ Readings will be assigned by presenters.
 
 **Thanksgiving, _NO CLASS_**  
   
-[ Return to Top](index.html)
+Return to Top
 
  Tuesday, 28 November |
 
@@ -343,7 +338,7 @@ Readings will be assigned by presenters.
 | Draft Review for Perales, Fairchild, Nisbett & Martinez  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
  Tuesday, 5 December |
 
@@ -357,7 +352,7 @@ Readings will be assigned by presenters.
 | No Class. Paper Due Friday December 8 at noon.  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
 
 
@@ -366,8 +361,7 @@ Readings will be assigned by presenters.
   
 
 
-[Return to Top](index.html) | Return to [J. Pablo
-Silva](http://web.grinnell.edu/individuals/silvajp)'s Web Page  
+Return to Top | Return to J. Pablo Silva's Web Page  
 ---|---  
   
 Last Modified: 20 August 2000

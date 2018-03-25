@@ -8,8 +8,7 @@
 **Office Hours:**   MWF 9-10; TR 10:30-11:30; OR BY APPOINTMENT  
 **Office:**   Old Main 205  
 **Office Phone:** 793-3865  
-**e-mail:** [pacer@mcmurryadm.mcm.edu](http://cs1.mcm.edu/cgi-
-bin/feedback.cgi?pacer@mcmurryadm.mcm.edu)
+**e-mail:** pacer@mcmurryadm.mcm.edu
 
 ###
 
@@ -59,14 +58,13 @@ Web Page Project
 
 Academic Honesty  
   
-[Persuasive Speech Instructions](http://www.mcm.edu/~pacer/persuasive.htm)
+Persuasive Speech Instructions
 
 |
 
-[Back to Dr. Pace's Page](http://www.mcm.edu/~pacer)  
+Back to Dr. Pace's Page  
   
-**[OPPOSING VIEWPOINTS IN SOUTHERN HISTORY WEB
-PROJECT](http://www.mcm.edu/~pacer/arguments.html)**
+**OPPOSING VIEWPOINTS IN SOUTHERN HISTORY WEB PROJECT**
 
 ###
 
@@ -371,7 +369,7 @@ Back to Table of Contents
 
     In southern colleges during the antebellum period, students gained a large portion of their educations with Literary Debating Societies.  Almost every southern college had at least two of these societies organized and run completely by the students.  These societies had weekly meetings lasting from two to four hours each.  At each meeting a topic was chosen for debate and at least one student was selected to argue the "pro" and another to argue the "con."  With this method of learning, educated southern men became especially adept at making strong arguments to support their positions in places of power like state legislatures and the US Congress.  It has been said often that more education took place in these literary societies than in the classroom in southern colleges. 
 
-    This semester, we are going to attempt a facsimile of this old educational tradition in our classroom.  First we will divide the class into three to four societies.  During several weeks of the semester, there will be a question open for debate and every student will take one turn during the semester representing their society in arguing the question.  On Fridays of a debate week, the class time will be set aside for two students, previously selected, to argue the major points of the question, one student taking the pro, the other taking the con ([click here to see persuasive speech instructions](persuasive.htm) ).  The instructor will decide which student takes which side of the argument.  Each student will make a five- to ten-minute presentation based on research he or she has done on the topic (I have articles and article suggestions for all of these topics, so come see me for research advice).  Other members of that students' society are encouraged to help the student with other sources and arguments in advance of the debate (remember, the entire team or society will benefit if their arguments are the strongest).  After the presentations, the entire class is encouraged to join the debate (in an orderly fashion).  The instructor will serve as a moderator.  At the end of the period, just as in the old societies, the class will vote for which society "won" the debate.  The instructor will also have two votes he can use at his discretion.  In addition, the professor will occasionally invite other historians and guests to attend these debates. These guests will also be able to ask questions and will have a vote for the winner. 
+    This semester, we are going to attempt a facsimile of this old educational tradition in our classroom.  First we will divide the class into three to four societies.  During several weeks of the semester, there will be a question open for debate and every student will take one turn during the semester representing their society in arguing the question.  On Fridays of a debate week, the class time will be set aside for two students, previously selected, to argue the major points of the question, one student taking the pro, the other taking the con (click here to see persuasive speech instructions ).  The instructor will decide which student takes which side of the argument.  Each student will make a five- to ten-minute presentation based on research he or she has done on the topic (I have articles and article suggestions for all of these topics, so come see me for research advice).  Other members of that students' society are encouraged to help the student with other sources and arguments in advance of the debate (remember, the entire team or society will benefit if their arguments are the strongest).  After the presentations, the entire class is encouraged to join the debate (in an orderly fashion).  The instructor will serve as a moderator.  At the end of the period, just as in the old societies, the class will vote for which society "won" the debate.  The instructor will also have two votes he can use at his discretion.  In addition, the professor will occasionally invite other historians and guests to attend these debates. These guests will also be able to ask questions and will have a vote for the winner. 
 
   **    At the end of the semester, the society with the most "wins" will get
 twenty points added to their final grade.  The society that comes in second

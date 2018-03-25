@@ -236,5 +236,5 @@ master electronic search engines, to hone writing skills, and to learn the
 useful art of mutual criticism. The successful student will finish the thesis
 by the end of this semester.
 
-[Return to Graduate Course Listings](grad.html)
+Return to Graduate Course Listings
 

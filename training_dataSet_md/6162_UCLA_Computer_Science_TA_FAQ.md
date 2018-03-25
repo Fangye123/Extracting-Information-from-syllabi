@@ -7,7 +7,7 @@ Feel free to add, correct, or organize the information in this document, and
 share YOUR experience. If you are a TA, you should have write permission to
 this file: /u/class/ta/faq.html
 
-On the Web this document is <http://www.cs.ucla.edu/classes/ta/faq.html>.
+On the Web this document is http://www.cs.ucla.edu/classes/ta/faq.html.
 
 * * *
 
@@ -77,20 +77,12 @@ Where is the TA Office?
 
     
 
-[UCLA Catalog of classes](http://www.registrar.ucla.edu/catalog/)
-[Academic Calendar](http://www.registrar.ucla.edu/calendar/)     [UCLA
-Schedule of Classes](http://www.registrar.ucla.edu/schedule/) [URSA On-
-line](http://www.ursa.ucla.edu/) You can look at your study list and enroll
-online.     [UCLA electronic directory](http://www.directory.ucla.edu) Look up
-students.     [ UCLA libraries - computer
-science](http://www.library.ucla.edu/libraries/sel/subjects/cs.htm)     [CS
-495 class webpage](http://www.cs.ucla.edu/classes/fall01/cs495/l1)     [ CS
-/r/share1 repository](http://www.cs.ucla.edu/r_share1/www/)     [ CS user-run
-FAQ (answers to common
-questions)](http://www.cs.ucla.edu/r_share1/faq/faq.html)     [ CS newsgroups
-archive, including "ta"
-announcements](http://www.cs.ucla.edu/r_share1/news/www/)     [ CS
-Archives](http://www.cs.ucla.edu/csd/research/archives.html)  
+UCLA Catalog of classes     Academic Calendar     UCLA Schedule of Classes
+URSA On-line You can look at your study list and enroll online.     UCLA
+electronic directory Look up students.      UCLA libraries - computer science
+CS 495 class webpage      CS /r/share1 repository      CS user-run FAQ
+(answers to common questions)      CS newsgroups archive, including "ta"
+announcements      CS Archives  
   
 **Contributing to this FAQ**
 
@@ -115,13 +107,13 @@ Who should you talk to when you have questions about locks for mailboxes in
 the Learning Lounge (BH 4428)?  
 What if you need white-board markers (or erasers)?  
 For questions in general, contact the current TAC, Anand Panangadan
-[anand@cs.ucla.edu](mailto:anand@cs.ucla.edu)
+anand@cs.ucla.edu
 
 ## Who were the past TACs?
 
-  * 1997-00 Ian Ferguson [fergie@cs](mailto:fergie@cs.ucla.edu)
-  * 1996-97 George Mustafa [mustafa@cs](mailto:mustafa@cs.ucla.edu)
-  * 1994-96 Mitchell Tsai [tsai@cs](mailto:tsai@cs.ucla.edu)
+  * 1997-00 Ian Ferguson fergie@cs
+  * 1996-97 George Mustafa mustafa@cs
+  * 1994-96 Mitchell Tsai tsai@cs
   * 1992-94 Elizabeth Borowsky 
   * 1991-92 Prasad Ram
 
@@ -152,17 +144,16 @@ For questions in general, contact the current TAC, Anand Panangadan
     
     
 
-You can check your study list or even [enroll](http://www.ursa.ucla.edu/) on-
-line.
+You can check your study list or even enroll on-line.
 
 ## How do I receive TA notices?
 
 You should receive all TA notices by e-mail. Try "ypmatch dist-ta aliases". If
 your login name is not on this list, send mail to the current TAC.
 
-All TA notices are also posted to the [ "ta" newsgroup](news:ta). (In case you
-can't access your mail because of a computer crash.) [ Old "ta"
-newsgroup](http://www.cs.ucla.edu/r_share1/news/www/) messages are archived.
+All TA notices are also posted to the  "ta" newsgroup. (In case you can't
+access your mail because of a computer crash.)  Old "ta" newsgroup messages
+are archived.
 
 ## What is there to know about paperwork and paychecks
 
@@ -254,11 +245,10 @@ textbooks.
 ## How can I get a laptop projector for my discussion?
 
 Material/Building services has laptops (with Windows 98 and Powerpoint) and
-laptop projectors. Fill up their "AVS MSR" form at
-[www.matserv.ucla.edu](http://www.matserv.ucla.edu). Don't fill in the
-recharge ID. Do give your course number and professor's name. They should then
-confirm your order. You can pick up the equipment from their office in Boelter
-2685 (entrance from the outside corridor).
+laptop projectors. Fill up their "AVS MSR" form at www.matserv.ucla.edu. Don't
+fill in the recharge ID. Do give your course number and professor's name. They
+should then confirm your order. You can pick up the equipment from their
+office in Boelter 2685 (entrance from the outside corridor).
 
 * * *
 
@@ -269,7 +259,7 @@ confirm your order. You can pick up the equipment from their office in Boelter
 ## Where do I store on-line class materials?
 
 Class materials are stored in /u/class/yyyy/csXXX. The web address is
-<http://www.cs.ucla.edu/classes/yyyy/>. Where yyyy is the term, fall98,
+http://www.cs.ucla.edu/classes/yyyy/. Where yyyy is the term, fall98,
 winter97, etc.
 
 If you can't create your files, check to see if you are in the "ta" group with
@@ -279,8 +269,7 @@ current TAC.
 ## Where do I get copycards?
 
 Each TA is allowed a copycard for making class-related photocopies. To get a
-copy card, talk to [Ann Burroughs](mailto:ann@cs.ucla.edu). A $10 deposit is
-required.
+copy card, talk to Ann Burroughs. A $10 deposit is required.
 
 ## Where do I get supplies?
 
@@ -325,7 +314,7 @@ textbooks.
 ## How do I edit my class webpages?
 
 All classes should have a webpage. These webpages are accessed by students
-from [www.cs.ucla.edu/ugrad](http://www.cs.ucla.edu/ugrad)  
+from www.cs.ucla.edu/ugrad  
 A basic webpage has been created for your class:
 http://www.cs.ucla.edu/classes/fall01/csXXX/l1/ (for section 1; l2 for section
 2 ...)  

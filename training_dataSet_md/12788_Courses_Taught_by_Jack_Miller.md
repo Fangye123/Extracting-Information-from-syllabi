@@ -1,27 +1,26 @@
 # Jack Miller
 
-## [Curriculum Vitae](vita.html)
+## Curriculum Vitae
 
 ## 1996-98  
 Central Washington University
 
   
-[ ![Crime and Media](media/main.gif)](media/index.html)
+![Crime and Media](media/main.gif)
 
   
 
-[ ![The Constitution and Human Rights](rights/banner.gif)](rights/index.htm)
+![The Constitution and Human Rights](rights/banner.gif)
 
   
 
-[ ![Public Law](publaw/banner.jpg)](publaw/index.html)
+![Public Law](publaw/banner.jpg)
 
   
 
-[ ![Research Methods in Criminal Justice](methods1/images/methods.jpg)  
+![Research Methods in Criminal Justice](methods1/images/methods.jpg)  
 
-#### [winter 1998](methods4/index.htm) | [autumn 1997](methods3/index.html) |
-[summer 1997](methods2/index.html) | [autumn 1996](methods1/index.html)
+#### winter 1998 | autumn 1997 | summer 1997 | autumn 1996
 
   
 
@@ -30,7 +29,7 @@ Central Washington University
 ## 1995  
 Babes-Boylai University, Cluj-Napoca, Romania
 
-### [The Development of Liberal-Democratic Theory](courses/101spr95.html)
+### The Development of Liberal-Democratic Theory
 
 > This course traces the various debates surrounding the functioning of the
 modern, Liberal state, beginning with its origins in the Hobbes/Locke debate
@@ -41,7 +40,7 @@ debate over redistribution and property rights. Syllabus with topics and
 readings (links to those available on-line).  
 >  Spring 1995
 
-### [Theory and Phenomenology of Political Power](courses/100aut95.html)
+### Theory and Phenomenology of Political Power
 
 > This course explores the various areas in which political power is
 exercised, from direct social control by the state to how power circulates in
@@ -59,7 +58,7 @@ few available on-line).
 University of Washington &  
 Central Washington University
 
-### [Pre-Modern Political Thought](courses/309spr94.html)
+### Pre-Modern Political Thought
 
 > The 16th and 17th centuries in Europe witnessed a disintegration of the
 Medieval social/political/metaphysical order: the Reformation attack on the
@@ -76,7 +75,7 @@ rational individual. Syllabus with topics and readings (links to the few
 available on-line).  
 >  Spring 1994
 
-### [Public Law](courses/350win93.html)
+### Public Law
 
 > The "legal system" occupies and defines a large part of modern life - laws,
 contracts, lawyers, regulations, etc. are a part of almost every activity we
@@ -88,8 +87,7 @@ will read works in social science, philosophy, and history. Syllabus with
 topics and readings.  
 >  Winter 1993
 
-### [Introduction to Political Theory: Social
-Criticism](courses/201sum93.html)
+### Introduction to Political Theory: Social Criticism
 
 > One of the central features of political theory is the critique of the
 institutions, practices, and discourses that define and shape society and an
@@ -106,7 +104,7 @@ society. Syllabus with topics, readings (links to the few available on-line),
 and exam questions.  
 >  Summer 1993
 
-### [Constitutional Law](courses/451spr93.html)
+### Constitutional Law
 
 > In the course of ruling on the constitutionality of state and federal
 legislation, the United States Supreme Court creates certain doctrines and
@@ -119,7 +117,7 @@ cases before the Court. Syllabus with topics and readings, Exam Questions
 (with a sample answer).  
 >  Spring 1993
 
-### [Introduction to Political Theory](courses/201sum92.html)
+### Introduction to Political Theory
 
 > The subject of this course is freedom. During the term, we explore the
 different conceptions of freedom put forth by John Locke, Immanuel Kant, Jean-

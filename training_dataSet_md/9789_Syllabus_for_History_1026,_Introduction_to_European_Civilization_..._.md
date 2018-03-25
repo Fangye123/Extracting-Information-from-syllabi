@@ -23,7 +23,7 @@
     Policies     Schedule of Lectures and Assignments
     
     
-    [Back to c.v.](../../Profpages/cv2001.html)
+    Back to c.v.
 
 ####  Books for the Course:
 
@@ -70,7 +70,7 @@ in class and feel that I will be unable to evaluate your knowledge of the
 course material for that reason, please come to see me.
 
 back to top of syllabus  
-[back to c.v.](../../Profpages/cv2001.html)  
+back to c.v.  
 
 
 ####  Hints and Pointers on Course Preparation:
@@ -126,7 +126,7 @@ Wendy may also be willing to meet you at another time if you are unable to be
 on campus during the scheduled hours; contact her directly to find out.
 
 back to top of syllabus  
-[back to c.v.](../../Profpages/cv2001.html)  
+back to c.v.  
 
 
 ####  Policies:
@@ -153,10 +153,10 @@ have contacted me BEFORE the class and we have agreed on other arrangements.
 **Grading:**   The overall breakdown of the grade will be the following:
 
   * 10%  Class Participation
-  * 10%  [Essay](bodo.html) on Power's "Bodo"
+  * 10%  Essay on Power's "Bodo"
   * 20%  Midterm Exam
   * 20%  Final Exam
-  * 40%  [Research Paper](respaper.html#Research Paper--top of page)
+  * 40%  Research Paper
 
 Work of "A" quality demonstrates that you have done all the assigned readings,
 attended lectures, and participated in class discussions.  You know and
@@ -175,12 +175,12 @@ minimal knowledge of the course material.  An "F" on any assignment shows that
 you do not understand the course material; if you receive an "F" you MUST make
 an appointment to see me.
 
-**Research Paper:**   The [research paper](respaper.html#Research Paper--top
-of page) grade has 4 components:  the initial topic, the primary source
-analysis, the rough draft, and the final draft.  You must turn in ALL of these
-in order to receive a grade on the paper. If you omit turning in any one
-component, you will earn an F on the research paper.  More detailed
-explanations and instructions will be available on a separate handout.
+**Research Paper:**   The research paper grade has 4 components:  the initial
+topic, the primary source analysis, the rough draft, and the final draft.  You
+must turn in ALL of these in order to receive a grade on the paper. If you
+omit turning in any one component, you will earn an F on the research paper.
+More detailed explanations and instructions will be available on a separate
+handout.
 
 **Extensions, Makeups, and Incompletes:**   If you think in advance that you
 will have difficulty completing an assignment on time, speak to me BEFORE the
@@ -196,17 +196,14 @@ granted without extreme extenuating circumstances (e.g., not because you want
 to go to Hawaii for your Christmas vacation early), and they must be arranged
 BEFORE December 8, when the final draft of the research paper is due.
 
-**Equality and Disability:**   See the attached [university policy
-statement](../policy.html).
+**Equality and Disability:**   See the attached university policy statement.
 
-**Sexual Harassment:**   See the attached [university policy
-statement](../policy.html).
+**Sexual Harassment:**   See the attached university policy statement.
 
-**Academic Misconduct:**   See the attached [university policy
-statement](../policy.html).
+**Academic Misconduct:**   See the attached university policy statement.
 
 back to top of syllabus  
-[back to c.v.](../../Profpages/cv2001.html)  
+back to c.v.  
 
 
 ####  Lectures and Assignments:
@@ -235,7 +232,7 @@ Readings for week 3:
 Hollister, chs. 6, 7 (pp. 87-118)  
 Herlihy, pp. 42-55, 95-117, 254-269  
 Downs, pp. 26-48  
-**[Topic](respaper.html#Topic selection) of research paper due.**
+**Topic of research paper due.**
 
   _II. Social and Economic Structures of Medieval Europe_
 
@@ -246,8 +243,7 @@ Readings for week 4:
 Hollister, ch. 8 (pp. 119-146)  
 Herlihy, pp. 229-254, 269-281  
 Downs, pp. 48-55  
-**[Analysis](respaper.html#Analysis of One Primary Source) of a primary source
-due.**
+**Analysis of a primary source due.**
 
 Oct. 27  
 MANORIALISM AND PEASANTS  
@@ -267,7 +263,7 @@ Hollister, ch. 10 (pp. 189-205)
 Power, "Marco Polo," "The Menagier's Wife" (pp. 39-72, 96-119)  
 Herlihy, pp. 180-189, 282-291  
 Downs, pp. 73-76, 85-89, 102-105, 110-112  
-**[Essay](bodo.html) on Eileen Power's "Bodo" due.**
+**Essay on Eileen Power's "Bodo" due.**
 
 back to top of syllabus
 
@@ -290,8 +286,7 @@ Readings for week 8:
 Hollister, chs. 13, 14 (pp. 248-314)  
 Herlihy, pp. 190-228  
 Downs, pp. 89-102, 134-135  
-**Complete[draft](respaper.html#Rough Draft of Research Paper) of research
-paper due.**
+**Completedraft of research paper due.**
 
 _IV. Disintegration of the Medieval World Order_
 
@@ -313,11 +308,10 @@ Herlihy, pp.394-400
 Downs, pp. 181-186  
 **Final Exam.**
 
-Dec. 8  **[Final Draft](respaper.html#Final Draft of Research Paper) of
-Research Paper DUE by 6 p.m.**
+Dec. 8  **Final Draft of Research Paper DUE by 6 p.m.**
 
 back to top of syllabus  
-[back to c.v.](../../Profpages/cv2001.html)  
+back to c.v.  
 
 
 Last revised by Kristen Burkholder on October 23, 1998.  

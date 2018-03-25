@@ -2,7 +2,7 @@
 
 **Spring Semester 2002**
 
- [HOME](http://faculty.ssu.edu/~jdhatley/welcome.html)
+ HOME
 
 * * *
 
@@ -121,14 +121,12 @@ ALL ASSIGNMENTS WRITTEN OUTSIDE OF CLASS SHOULD BE TYPED.
   
 **CLASS SCHEDULE** :
 
-**[Sports and Philosophy Web
-Site](http://www.dmu.ac.uk/dept/schools/pesl/affiliat/links2.htm)  
+**Sports and Philosophy Web Site  
   **
 
-**[BI-WEEKLY READING
-QUESTIONS](http://faculty.ssu.edu/~jdhatley/sportreadingquest.htm)**
+**BI-WEEKLY READING QUESTIONS**
 
-**[](http://faculty.ssu.edu/~jdhatley/sportreadingquest.htm)**
+****
 
 1-31      Introduction to the course
 
@@ -142,7 +140,7 @@ QUESTIONS](http://faculty.ssu.edu/~jdhatley/sportreadingquest.htm)**
 2-13             **PS** , selections 1,2,5, and 6 (Theme: The Nature of
 Sports)
 
-                [Interview with Bruce Pandolfini](http://faculty.ssu.edu/~jdhatley/pandolfi.htm)   
+                Interview with Bruce Pandolfini   
 
 
 2-20             Film
@@ -162,9 +160,9 @@ Sports)
 3-13             **PS** , selections 17,19,22, and 26 (Theme: Winning,
 Violence and Drugs)
 
-                [People Who Love Bobby Knight](http://www.imsa.edu/~mozart/people/knight.html)[People Who Hate Bobby Knight I](http://members.aol.com/rmkgeneral)[People Who Hate Bobby Knight II](http://www.aardvarkexpress.com/storywellerknight.htm)
+                People Who Love Bobby KnightPeople Who Hate Bobby Knight IPeople Who Hate Bobby Knight II
 
-                [Phil Jackson and his Adventure in Nowness](http://www.cigaraficionado.com/Cigar/Aficionado/people/fe1098.html)   
+                Phil Jackson and his Adventure in Nowness   
 
 
 3-20             Film and articles to be assigned
@@ -176,8 +174,7 @@ Violence and Drugs)
 
 
 4-3                **PS** , selections 23,32,36, and 37 (Theme: Gender Race
-and Species)[TCWILLIAMS
-BASKETBALL](http://faculty.ssu.edu/~jdhatley/tcwilliams.htm)  
+and Species)TCWILLIAMS BASKETBALL  
 
 
 4-10             Film

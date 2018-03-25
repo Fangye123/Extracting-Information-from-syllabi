@@ -1,11 +1,10 @@
 Gustavus Adolphus College - Spring 2002  
 ---  
 ![Michele J. Koomen](../images/name.gif)  
-[![Class Schedule for Michele J.
-Koomen](../images/nav2.gif)](../fallclasses.html)[![Syllabus](../images/nav3_f2_f2.gif)](../fallsyllabus.html)[![My
-Office
-Hours](../images/nav1.gif)](../hours.html)[![](../images/nav4.gif)](../st/st.html)[![About
-Michele - under construction](../images/nav5.gif)](../about.html)  
+![Class Schedule for Michele J.
+Koomen](../images/nav2.gif)![Syllabus](../images/nav3_f2_f2.gif)![My Office
+Hours](../images/nav1.gif)![](../images/nav4.gif)![About Michele - under
+construction](../images/nav5.gif)  
   
 ## Teaching as Principled Practice  
   
@@ -21,15 +20,15 @@ Standards \- National Science Standards \- Mn Graduation Standards
 |  Judy Biederman :  |   | Nobel 221C  
 ---|---|---  
 Phone:  |   |  933-6319  
-Email:  |   | [jbied@gac.edu](mailto:jbied@gac.edu%20)  
+Email:  |   | jbied@gac.edu  
 Office Hours:  |   | Monday and Thursday: 9:00 to 9:50 am  
 ![](../images/transparent.gif)  
 ---  
 Michele J. Koomen:  |   | Education Department, Old Main Room # 204-E  
 Phone:  |   |  933-6057  
 Fax:  |   | 933-6020  
-Email:  |   | [mkoomen@gac.edu](mailto:mkoomen@gac.edu)  
-Web Site:  |   | <http://www.gac.edu/~mkoomen/>  
+Email:  |   | mkoomen@gac.edu  
+Web Site:  |   | http://www.gac.edu/~mkoomen/  
 Office Hours:  |   | Monday 12:30 - 1:30 pm and Thursday 12:30 \- 1:30 pm.  
 I am available at other times by appointment.  
   
@@ -51,8 +50,7 @@ Section 2 meets Friday 1:30-3:20, Nobel Hall Room 322
 
 * All of the items above are available at the **Book Mark**. 
 
-The web site for the course contains [syllabus](syllabus247.html) and
-[schedule](springschedule247.html).  
+The web site for the course contains syllabus and schedule.  
   
 |   | ![Return to the top of the page](../images/top.gif)  
 ---|---  
@@ -169,8 +167,7 @@ the:
 
 The standards that will be addressed in the course are:  
   
-  | **[National Science
-Standards](http://books.nap.edu/books/0309053269/html/R1.html)**
+  | **National Science Standards**
 
 * * *  
   
@@ -238,12 +235,10 @@ The standards for physical science, life science, and earth and space science
 describe the subject matter of science using three widely accepted divisions
 of the domain of science. Science subject matter focuses on the science facts,
 concepts, principle theories, and models that are important for all students
-to know, understand, and use. [Tables 6.2, 6.3, and
-6.4](http://books.nap.edu/books/0309053269/html/106.html) are the standards
-for physical science, life science, and earth and space science, respectively.  
+to know, understand, and use. Tables 6.2, 6.3, and 6.4 are the standards for
+physical science, life science, and earth and space science, respectively.  
   
-  |  |  | **Table 6.2  [Physical Science
-Standards](http://books.nap.edu/books/0309053269/html/106.html)**  
+  |  |  | **Table 6.2  Physical Science Standards**  
 ---  
 **Levels K - 4** | **Levels 5 - 8** | **Levels 9 -12**  
 Properties of objects and Materials | Properties and changes of properties in
@@ -256,8 +251,7 @@ reactions
   |   | Conservation of energy and increase in disorder  
   |   | Interactions of energy and matter  
 ![spacer](../images/spacer.gif)  
-  |  |  | **Table 6.3  [Life Science
-Standards](http://books.nap.edu/books/0309053269/html/106.html)**  
+  |  |  | **Table 6.3  Life Science Standards**  
 ---  
 **Levels K - 4** | **Levels 5 - 8** | **Levels 9 -12**  
 Characteristics of organisms | Structure and function in living systems | The
@@ -273,8 +267,7 @@ Organisms and environments | Regulation and behavior |  Biological evolution
 living systems  
   |   | Behavior of organisms  
 **![spacer](../images/spacer.gif)**  
-  |  |  | **Table 6.4   [Earth and Space Science
-Standards](http://books.nap.edu/books/0309053269/html/106.html)**  
+  |  |  | **Table 6.4   Earth and Space Science Standards**  
 ---  
 **Levels K - 4** | **Levels 5 - 8** | **Levels 9 -12**  
 Properties of earth materials | Structure of the earth system | Energy in the
@@ -295,11 +288,9 @@ of the earth system
 
 **Scientific Concepts and Applications :**
 
-Learning Area : [**Inquiry and
-Research**](http://mecr.state.mn.us/la.pl?OBJ_REQ=VIEW&LA_ID=5)  
+Learning Area : **Inquiry and Research**  
 Education Level : **Primary**  
-Content Standard : [**Data Categorization, Classification, and
-Recording**](http://mecr.state.mn.us/cs.pl?OBJ_REQ=VIEW&CS_ID=50101)  
+Content Standard : **Data Categorization, Classification, and Recording**  
   
 |  A student shall demonstrate the ability to categorize, classify, and record
 information by:  
@@ -317,10 +308,10 @@ D \-  | explaining the answer to the question. to answer a question;
   
   |  Learning Area : **Inquiry and Research**  
 Education Level : **Intermediate**  
-Content Standard : [**Media, Observation, and Investigation  
+Content Standard : **Media, Observation, and Investigation  
   
-**](http://mecr.state.mn.us/cs.pl?OBJ_REQ=VIEW&CS_ID=50201) |  A student shall
-demonstrate the ability to answer a question by gathering information from:  
+** |  A student shall demonstrate the ability to answer a question by
+gathering information from:  
 ---  
   |  
 A - | direct observations or experiments with a variable, including framing a
@@ -346,11 +337,9 @@ investigation.
 
 **Scientific Concepts and Applications**
 
-Learning Area : [**Scientific Concepts and
-Applications**](http://mecr.state.mn.us/la.pl?OBJ_REQ=VIEW&LA_ID=6)  
+Learning Area : **Scientific Concepts and Applications**  
 Education Level : **Primary**  
-Content Standard : [**Direct Science
-Experience**](http://mecr.state.mn.us/cs.pl?OBJ_REQ=VIEW&CS_ID=60101)
+Content Standard : **Direct Science Experience**
 
 |  A student shall demonstrate knowledge of basic science concepts of  
 physical science, life science, and earth and space science through direct
@@ -378,8 +367,7 @@ new situations.
 
 Learning Area : **Scientific Concepts and Applications**  
 Education Level : **Intermediate**  
-Content Standard : [**Living and Nonliving
-Systems**](http://mecr.state.mn.us/cs.pl?OBJ_REQ=VIEW&CS_ID=60201)
+Content Standard : **Living and Nonliving Systems**
 
 |  A student shall demonstrate:  
 ---  

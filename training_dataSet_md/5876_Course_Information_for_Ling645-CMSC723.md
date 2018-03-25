@@ -7,10 +7,9 @@ Introduction to Computational Linguistics
 
 * * *
 
-[Vincent's Corner (where the important stuff
-is!)](http://www.cs.umd.edu/~vincenth/cl2001/)
+Vincent's Corner (where the important stuff is!)
 
-[Class newsgroup](news:csd.compling): read often!
+Class newsgroup: read often!
 
 General description
 
@@ -18,14 +17,14 @@ General description
 
 Class information
 
-  * [Syllabus](syllabus.html) | [Assignments](assignments.html) | [Lecture Notes](slides.html) | [Other References](refs.html) 
+  * Syllabus | Assignments | Lecture Notes | Other References 
 Course accounts
 
-  * [Computer Accounts](accounts.html) | [OIT Home Page](http://www.oit.umd.edu/) | [List of OIT Cluster Machines](computing.html)   
+  * Computer Accounts | OIT Home Page | List of OIT Cluster Machines   
 
 Useful resources
 
-  * [LISP Resources](resources.html) | [Unix Resources](unix.html) | [Perl Resources](perl.html)   
+  * LISP Resources | Unix Resources | Perl Resources   
 
 * * *
 
@@ -33,23 +32,17 @@ Useful resources
 
 **Where/When** :  
 Wednesdays, 1:00pm-3:30pm,  
-The first class will be in [ Symons Hall, Room
-0200](http://www.inform.umd.edu/CampusInfo/Facilities/Buildings/SYM/) but
-after that the class will meet in [ AV Williams, Room
-1112](http://www.inform.umd.edu/CampusInfo/Facilities/Buildings/AVW/).
+The first class will be in  Symons Hall, Room 0200 but after that the class
+will meet in  AV Williams, Room 1112.
 
 **Professors** :  
-[Bonnie Dorr](http://umiacs.umd.edu/~bonnie/),
-[bonnie@cs.umd.edu](mailto:bonnie@cs.umd.edu), Office hours: Tuesdays, 1pm, AV
-Williams 3157  
-[Philip Resnik](http://umiacs.umd.edu/~resnik/),
-[resnik@umiacs.umd.edu](mailto:resnik@umiacs.umd.edu), Office hours:
-Wednesdays, 4pm, AV Williams 3143
+Bonnie Dorr, bonnie@cs.umd.edu, Office hours: Tuesdays, 1pm, AV Williams 3157  
+Philip Resnik, resnik@umiacs.umd.edu, Office hours: Wednesdays, 4pm, AV
+Williams 3143
 
 **Teaching Assistant** :  
-[Wei-han (Vincent) Huang](mailto:vincenth@wam.umd.edu),
-[vincenth@wam.umd.edu](mailto:vincenth@wam.umd.edu), Office hours: MW
-3:30-4:30pm, TA room, first floor AV Williams Bldg.  
+Wei-han (Vincent) Huang, vincenth@wam.umd.edu, Office hours: MW 3:30-4:30pm,
+TA room, first floor AV Williams Bldg.  
 
 **Textbooks** :
 
@@ -61,9 +54,9 @@ Wednesdays, 4pm, AV Williams 3143
 
     * James Allen, "Natural Language Understanding, 2nd ed.", Benjamin/Cummings, 1995. 
 
-    * David Touretzky, [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/~dst/LispBook/index.html) (entire book downloadable from this Web site!). An excellent introduction to Common LISP with lots of clear explanation and exercises with solutions.
+    * David Touretzky, Common Lisp: A Gentle Introduction to Symbolic Computation (entire book downloadable from this Web site!). An excellent introduction to Common LISP with lots of clear explanation and exercises with solutions.
 
-    * Guy L. Steele, Jr., "Common Lisp: The Language", Digital Press, 1990, ISBN 1555580416. You don't necessarily have to buy this book: there is also an [ on-line version](http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html).  
+    * Guy L. Steele, Jr., "Common Lisp: The Language", Digital Press, 1990, ISBN 1555580416. You don't necessarily have to buy this book: there is also an  on-line version.  
 
 ## Course Description
 
@@ -111,7 +104,7 @@ projects and 20% each for the midterm and final._
       College Park, MD 20742 USA
     
     By far the best way to reach us is by e-mail to 
-    [bonnie@cs.umd.edu](mailto:bonnie@cs.umd.edu) and [resnik@umiacs.umd.edu](mailto:resnik@umiacs.umd.edu).
+    bonnie@cs.umd.edu and resnik@umiacs.umd.edu.
     
 
 * * *

@@ -348,5 +348,5 @@ not raise them. However, don't count on them changing at all.
 _last updated 9:25 pm, Wednesday, Jan. 10, 2001_  
   
   
-[![](../../images2/Return.gif) ](V25.0102.htm)
+![](../../images2/Return.gif)
 

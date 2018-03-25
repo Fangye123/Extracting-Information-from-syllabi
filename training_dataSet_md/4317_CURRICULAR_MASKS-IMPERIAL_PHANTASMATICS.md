@@ -25,38 +25,37 @@ adjudicating colonial property rights in India and emplotting constitutional
 histories as national allegories in England. "Medieval English peasant" worked
 as the ideological product of "English India," a term used by Sara Suleri to
 express the literal and figurative intimacies of such dichotomous pairings as
-national-colonial, colonizer-colonized, colonial,-postcolonial.
-[[1]](biddick_fn.html#fn0) My essay then tried to imagine how to undo this
-category. I wished to set its political historiography back in motion in order
-to write other economic histories. An American editor of a prospective volume
-on medieval peasant studies, targeted for an English publisher, invited this
-essay for reprint. I welcomed the opportunity of its traveling more widely. It
-turned out, however, that a reader for the press, a prominent English medieval
-historian, would not sign off, unless my essay was pulled from the collection.
-An editorial dilemma--with profuse apologies to me, the editor dropped the
-piece and the book went forward to press.
+national-colonial, colonizer-colonized, colonial,-postcolonial. [1] My essay
+then tried to imagine how to undo this category. I wished to set its political
+historiography back in motion in order to write other economic histories. An
+American editor of a prospective volume on medieval peasant studies, targeted
+for an English publisher, invited this essay for reprint. I welcomed the
+opportunity of its traveling more widely. It turned out, however, that a
+reader for the press, a prominent English medieval historian, would not sign
+off, unless my essay was pulled from the collection. An editorial dilemma--
+with profuse apologies to me, the editor dropped the piece and the book went
+forward to press.
 
 This minor skirmish in academic publishing productively shifted my critical
 attention from the historicist complications posed by English India to what I
 will come to call in this paper the performance of "English America" and the
-politics of its border patrol. [[2]](biddick_fn.html#fn1) I use "English
-America" as a kind of shorthand for the complex ways in which North American
-medieval studies, since its so-called "take-off" with the GI Bill after World
-War II, mimes British imperial phantasmatics and thereby does the work of
-reproducing an "Englishness" that can then be exported back to England in a
-vertiginous transnational exchange of imageric power.
-[[3]](biddick_fn.html#fn2) North American medievalists may protest at this
-juncture, countering that surely the publication of my essay in the J _ournal
-of British Studies_ countermands such a claim about circulation. I suggest in
-turn that its publication was an instance of North American medieval studies
-mistaking a concessionary narrative. Peter Hulme has defined a concessionary
-narrative as one that "goes some way toward recognizing a native point of view
-and offering a critique of European behaviour, but [it] can only do this by
-not addressing the central issue" (Hulme: 253). [[4]](biddick_fn.html#fn3) My
-essay could not be exported back to England because it explicitly violated
-such a narrative agreement by exposing the production of a category of English
-India "English medieval peasant" and its historiographic force.
-[[5]](biddick_fn.html#fn4)
+politics of its border patrol. [2] I use "English America" as a kind of
+shorthand for the complex ways in which North American medieval studies, since
+its so-called "take-off" with the GI Bill after World War II, mimes British
+imperial phantasmatics and thereby does the work of reproducing an
+"Englishness" that can then be exported back to England in a vertiginous
+transnational exchange of imageric power. [3] North American medievalists may
+protest at this juncture, countering that surely the publication of my essay
+in the J _ournal of British Studies_ countermands such a claim about
+circulation. I suggest in turn that its publication was an instance of North
+American medieval studies mistaking a concessionary narrative. Peter Hulme has
+defined a concessionary narrative as one that "goes some way toward
+recognizing a native point of view and offering a critique of European
+behaviour, but [it] can only do this by not addressing the central issue"
+(Hulme: 253). [4] My essay could not be exported back to England because it
+explicitly violated such a narrative agreement by exposing the production of a
+category of English India "English medieval peasant" and its historiographic
+force. [5]
 
 This publishing lesson taught me how transnational publishing performs
 "English America" in specific ways. The fate of one essay in the circulation
@@ -75,7 +74,7 @@ studied less as a receptacle of texts than as activity, that it to say, as a
 vehicle of acquiring and exercising power, descriptions of curricular content
 in terms of their expression of universal values on the one hand, or
 pluralistic, secular identities on the other are insufficient signifiers of
-their historical reality"(167). [[6]](biddick_fn.html#fn5)
+their historical reality"(167). [6]
 
 My paper troubles the three terms of the survey: the timing of "medieval", the
 repetition of "English[ness], " and the gaze of a national "survey," which
@@ -186,9 +185,9 @@ curricular means by which these students could come to understand the co-
 construction of "Irishness" and "Englishness." Seamus Deane, who now heads
 such a program at Notre Dame, calls this persistent, timeless denial of
 "Irishness" for the "Irish-American" "a kind of self-imposed cultural
-starvation, almost a hunger strike."[[7]](biddick_fn.html#fn6) Was I teaching
-cannibals, then, who turned against the abandoning, colonized "mother country"
-and ate her in the football stadium? Irishness was good to eat!
+starvation, almost a hunger strike."[7] Was I teaching cannibals, then, who
+turned against the abandoning, colonized "mother country" and ate her in the
+football stadium? Irishness was good to eat!
 
 That curricular musing got me to thinking of the space where the "fighting
 Irish" fight: the football stadium, the libidinal, economic and ideological
@@ -203,8 +202,7 @@ of monarchy, law, parliament, world power, even the "fighting Irish." There
 was my curricular challenge. Could I work to move the survey out of the
 cultural shade of the British oak, or is the very notion of a medieval English
 survey constitutive of such trees, helping to make the British oak visible,
-just as the British oak, the pastoral, makes the survey visible?
-[[8]](biddick_fn.html#fn7)
+just as the British oak, the pastoral, makes the survey visible? [8]
 
 ###  _AFTER NATURE_
 
@@ -228,14 +226,13 @@ of national identity. Such odd convergence of left- and right-wing analysis,
 suggested that another politics might be in question here; politics of race.
 Paul Gilroy in his study _There Ain't No Black in the Union_ _Jack_ has
 analyzed just such strange left-right convergences in the emergence
-postcolonial racial politics of Britain after World War II . [[9
-]](biddick_fn.html#fn8) My guess was that both Thatcher and Strathern would
-seemingly rather "disappear" "English society," rather than see it rendered
-vulnerable to or shattered by--what? This question would not let go of my
-historical sense and I decided to go back to the journal _Past and Present_ ,
-once the "source" of historiography for me during my graduate studies to see
-if a critical reading of the journal as a symptom and not a source would help
-me to understand this fear of shattering.
+postcolonial racial politics of Britain after World War II . [9 ] My guess was
+that both Thatcher and Strathern would seemingly rather "disappear" "English
+society," rather than see it rendered vulnerable to or shattered by--what?
+This question would not let go of my historical sense and I decided to go back
+to the journal _Past and Present_ , once the "source" of historiography for me
+during my graduate studies to see if a critical reading of the journal as a
+symptom and not a source would help me to understand this fear of shattering.
 
 ###  _PASTORAL_ PAST AND PRESENT __
 
@@ -263,16 +260,15 @@ held onto Robin Hood to avoid a sense of historical loss.
 The editorial obsession with Robin Hood at the journal provided me a way into
 understanding the pastoral politics of English America. I detect in this
 return of Robin Hood to the pages of _Past and Present_ a pastoral move among
-British historians.[[10]](biddick_fn.html#fn10) Indeed, the project of
-founding the journal _Past and Present_ was itself a pastoral move, the
-obsession with Robin Hood being one of the medieval **effects** of the move.
-The strong desire to locate Robin Hood under the pastoral shade of the
-medieval past at that moment, in 1952, has everything to do with the culture
-of decolonization in England. What kind of desire is this desire of English
-historians for English peasants? Here we have to look at what phantasmatic
-histories were lost in England with the loss of the Raj. My argument is
-compressed here for purposes of time and its main point is that England lost
-an imagined rural past with the loss of India.
+British historians.[10] Indeed, the project of founding the journal _Past and
+Present_ was itself a pastoral move, the obsession with Robin Hood being one
+of the medieval **effects** of the move. The strong desire to locate Robin
+Hood under the pastoral shade of the medieval past at that moment, in 1952,
+has everything to do with the culture of decolonization in England. What kind
+of desire is this desire of English historians for English peasants? Here we
+have to look at what phantasmatic histories were lost in England with the loss
+of the Raj. My argument is compressed here for purposes of time and its main
+point is that England lost an imagined rural past with the loss of India.
 
 Put very briefly: to write a progressive history of national freedom in the
 nineteenth century, English scholars appropriated German scholarship on the
@@ -345,7 +341,7 @@ culture. The more Robin Hood, the more cadaverous _Past and Present_ became.
 The disavowal of loss at the heart of this journal accounts, I think, for its
 failure to articulate with another Birmingham project, that of Marxist
 cultural studies as carried out at the Birmingham Center for Contemporary
-Cultural Studies in the 1960s and 70s. [[11]](biddick_fn.html#fn11)
+Cultural Studies in the 1960s and 70s. [11]
 
 The Center was founded at the University of Birmingham in 1964, a mere twelve
 years after the founding of _Past and Present_. Its students tracked the study
@@ -375,11 +371,10 @@ turn.
 the Birmingham Cultural Studies school. The films, _Handsworth Songs_ (1986)
 by the Black Audio Collective and _The Last of England_ (1987) by Derek Jarman
 can be used as examples of this counter-pastoral politics (Auguiste
-1988;Kruger 1988; Gilroy and Pines 1988). [[12]](biddick_fn.html#fn12)
-Together these films work like a double-edged blade that exposes the roots of
-the pastoral family tree of Englishness to migrant and sexual histories. Both
-films splice family scenes from home-movie footage, to create a counter-
-pastoral space.
+1988;Kruger 1988; Gilroy and Pines 1988). [12] Together these films work like
+a double-edged blade that exposes the roots of the pastoral family tree of
+Englishness to migrant and sexual histories. Both films splice family scenes
+from home-movie footage, to create a counter-pastoral space.
 
 _Handsworth Songs_ can be read as a kind of video museum for West-Indian
 migration into Britain. It tells a history of the Handsworth uprising of 1985
@@ -1019,5 +1014,5 @@ Does KIM grow up into KIP or what reader names Kip's brother?
 
 **__**
 
-##  [Comments on this paper](biddick2.htm).
+##  Comments on this paper.
 

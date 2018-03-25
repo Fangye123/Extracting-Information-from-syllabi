@@ -1,16 +1,12 @@
-|  [ ![H-Urban Teaching Center](../graphics/btnsyltc154x40.jpg)](../index.htm)  
-[ ![H-Urban Syllabus Archive](../graphics/btnsylsa154x40.jpg)](index.htm)  
-[
-![H-Urban](../graphics/btnsylhurban154x40.jpg)](http://www2.h-net.msu.edu/~urban)
-|  ![Syllabus Archive Selection](../graphics/skysylarchselect.jpg) |
+|  ![H-Urban Teaching Center](../graphics/btnsyltc154x40.jpg)  
+![H-Urban Syllabus Archive](../graphics/btnsylsa154x40.jpg)  
+![H-Urban](../graphics/btnsylhurban154x40.jpg) |  ![Syllabus Archive
+Selection](../graphics/skysylarchselect.jpg) |
 
 
 
-[ ![H-Urban Syllabus Use & Submission
-Policy](../graphics/btnsyluse154x40.jpg)](syluses.htm)  
-[ ![Comments and
-Questions](../graphics/btnsylcques154x40.jpg)](mailto:EDTEACH-
-URBAN@h-net.msu.edu)  
+![H-Urban Syllabus Use & Submission Policy](../graphics/btnsyluse154x40.jpg)  
+![Comments and Questions](../graphics/btnsylcques154x40.jpg)  
 ---|---|---  
   
   
@@ -23,7 +19,7 @@ From the Great Migration to the "Second Ghetto"**
 African American Studies - 30 AFAM 460 444)  
   
 **Fritz Casey-Leininger**  
-[caseylcf@email.uc.edu](mailto:caseylcf@email.uc.edu)  
+caseylcf@email.uc.edu  
 University of Cincinnati  
 College of Evening and Continuing Education  
 Cincinnati, Ohio, USA  
@@ -89,10 +85,10 @@ Migration, University of Chicago Press, paperback edition, 1991.
 Thomas J. Sugrue     Origins of the Urban Crisis: Race and Inequality in
 Postwar Detroit, Princeton University Press, 1997.  
 See also H-Urban book review at
-<http://www2.h-net.msu.edu/reviews/showrev.cgi?path=14964881258202>.  
+http://www2.h-net.msu.edu/reviews/showrev.cgi?path=14964881258202.  
   
 Rosemary L. Bray     Unafraid of the Dark: A Memoir, Anchor Books, 1998.  
-See also book review at <http://www.yale.edu/yrb/winter98/review07.htm>.  
+See also book review at http://www.yale.edu/yrb/winter98/review07.htm.  
 
 ### COURSE REQUIREMENTS
 
@@ -177,17 +173,15 @@ growth of racial isolation in America's inner cities.
 5:45-6:30  |  Summation, directions for take home exam and create questions
 for take home exam.  
   
-|  [ ![Author Index](../graphics/btnsylauthor154x40.jpg)](author.htm) [
-![Subject Index](../graphics/btnsylsubject154x40.jpg)](subject.htm) [
-![Geographic Index](../graphics/btnsylloc154x40.jpg)](location.htm)  
+|  ![Author Index](../graphics/btnsylauthor154x40.jpg) ![Subject
+Index](../graphics/btnsylsubject154x40.jpg) ![Geographic
+Index](../graphics/btnsylloc154x40.jpg)  
 ---  
   
 
-[![H-Urban](../graphics/skyhurban198x38.jpg)](http://www2.h-net.msu.edu/~urban)  
-Top | [Teaching Center](../index.htm) | [Syllabus Archive](index.htm) |
-[Comments and Questions](mailto:EDTEACH-URBAN@h-net.msu.edu) |
-[H-Urban](http://www2.h-net.msu.edu/~urban)  
-[H-Urban Syllabus Use and Submission Policy](syluses.htm)
+![H-Urban](../graphics/skyhurban198x38.jpg)  
+Top | Teaching Center | Syllabus Archive | Comments and Questions | H-Urban  
+H-Urban Syllabus Use and Submission Policy
 
   
 _Syllabus prepared for archive 24 January 2001._  

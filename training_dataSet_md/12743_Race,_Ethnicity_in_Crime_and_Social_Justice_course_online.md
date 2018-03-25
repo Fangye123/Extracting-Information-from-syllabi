@@ -1,11 +1,6 @@
 Take your Race, Ethnicity in Crime and Social Justice course online today!  
-[Home](http://www.canyoncollege.edu/home.htm) /
-[FAQs](http://www.canyoncollege.edu/faqs.htm) / [Online
-Degrees](http://www.canyoncollege.edu/degree.htm) / [Certificate
-Courses](http://www.canyoncollege.edu/certs.htm) / [Admission
-Policies](http://www.canyoncollege.edu/admissions.htm) / [Class
-Rooms](http://www.canyoncollege.edu/student_svcs.htm) / [Request
-Info](http://www.canyoncollege.edu/request_info.htm).  
+Home / FAQs / Online Degrees / Certificate Courses / Admission Policies /
+Class Rooms / Request Info.  
 _Canyon College_  
 ![online Race, Ethnicity in Crime and Social Justice
 course](http://www.canyoncollege.edu/college/logo3.gif)  
@@ -16,14 +11,12 @@ course](http://www.canyoncollege.edu/college/logo3.gif)
   
 **Office hours: Online Course**  
   
-**Instructor
-email:[beshears@canyoncollege.edu](mailto:beshears@canyoncollege.edu)**  
+**Instructor email:beshears@canyoncollege.edu**  
   
 **Textbook: _Multicultural Law Enforcement_ , Second Edition (2002) by R.
 Shusta, D. Levine, P. Harris, H. Wong. NJ: Prentice-Hall, ISBN 013033409X.** |
-[
-![](http://www.canyoncollege.edu/cc/crim~jus2/cj580/grapics/textbook_syllabus.jpg)](http://www.canyoncollege.edu/cc/pitre/textbooks.htm)
-[Online Bookstore](http://www.canyoncollege.edu/cc/pitre/textbooks.htm)  
+![](http://www.canyoncollege.edu/cc/crim~jus2/cj580/grapics/textbook_syllabus.jpg)
+Online Bookstore  
 ---|---  
   
   
@@ -91,23 +84,23 @@ to be taken to that specific lecture.
   
 **LECTURES:**
 
-  1. [The Definition and Meaning of Prejudice](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture1.htm)
-  2. [Overview Physical Anthropology & Black History](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture2.htm)
-  3. [Discrimination Law](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture3.htm)
-  4. [Agency Racism/Oversight/Regulation](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture4.htm)
-  5. [Hate Crimes & Their Enforcement](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture5.htm)
-  6. [The Role of Community Policing](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture6.htm)
-  7. [Social Class and Community Analysis](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture7.htm)
-  8. [Understanding Discrimination against Gays and Lesbians](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture8.htm)
-  9. [Understanding Discrimination against Immigrants](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture9.htm)
-  10. [Illegal Immigration and Crime](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture10.htm)
-  11. [Understanding Discrimination against Asian Americans](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture11.htm)
-  12. [Understanding Discrimination against African Americans](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture12.htm)
-  13. [Understanding Discrimination against Hispanic/Latino Americans](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture13.htm)
-  14. [Understanding Discrimination against Arab Americans](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture14.htm)
-  15. [Understanding Discrimination against Indigenous Peoples/Native Americans](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture15.htm)
-  16. [Ageism and Age Discrimination](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture16.htm)
-  17. [10 Most Important Events in Black History](http://www.canyoncollege.edu/cc/crim~jus2/cj580/materials/lecture17.htm)
+  1. The Definition and Meaning of Prejudice
+  2. Overview Physical Anthropology & Black History
+  3. Discrimination Law
+  4. Agency Racism/Oversight/Regulation
+  5. Hate Crimes & Their Enforcement
+  6. The Role of Community Policing
+  7. Social Class and Community Analysis
+  8. Understanding Discrimination against Gays and Lesbians
+  9. Understanding Discrimination against Immigrants
+  10. Illegal Immigration and Crime
+  11. Understanding Discrimination against Asian Americans
+  12. Understanding Discrimination against African Americans
+  13. Understanding Discrimination against Hispanic/Latino Americans
+  14. Understanding Discrimination against Arab Americans
+  15. Understanding Discrimination against Indigenous Peoples/Native Americans
+  16. Ageism and Age Discrimination
+  17. 10 Most Important Events in Black History
 
 **8-Week Course Calendar:**  
   

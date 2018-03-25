@@ -12,7 +12,7 @@
 
 262-2364
 
-[ewilcots@astro.wisc.edu](mailto:ewilcots@astro.wisc.edu)
+ewilcots@astro.wisc.edu
 
 **_Office Hours_** : T,Th 11-12, or by appointment
 
@@ -173,16 +173,15 @@ Jan 31 (4) - Structure of the Atom & The Definition of the Elements
 
 ##  Part Two - Origin of the Elements
 
-Week 3 - Reading: [Hubble & Humason(p)](hubblehumason.pdf), Penzias &
-Wilson(p), Hoyle, Smoot, Galileo (Silk Chapters 3-8, Ferris Chapters 8-11)
+Week 3 - Reading: Hubble & Humason(p), Penzias & Wilson(p), Hoyle, Smoot,
+Galileo (Silk Chapters 3-8, Ferris Chapters 8-11)
 
 Feb 5 (5) - The Size and Expansion of the Universe
 
 Feb 7 (6) - The Big Bang
 
-Week 4 - Reading: Hoyle, [Bania et al. (p)](baniaetal.pdf),
-[Hogan(p)](hogan.deuterium.pdf), [Bahcall(p)](bahcall.pdf), [Srianand et
-al.(p)](srianand.pdf), Hogan(p), (Silk Chapter 3-8, Ferris Chapters 8-11)
+Week 4 - Reading: Hoyle, Bania et al. (p), Hogan(p), Bahcall(p), Srianand et
+al.(p), Hogan(p), (Silk Chapter 3-8, Ferris Chapters 8-11)
 
 Feb 12 (7) - The Big Bang continued
 
@@ -211,8 +210,8 @@ Feb 28 (12) - Nucleosynthesis and Stellar Evolution
 
 ###
 
-###  Week 7 - Reading: [Arnett & Bazan(p)](arnett+bazan.pdf),[Henning &
-Salama(p) ](henning+salama.pdf), (Zeilik & Gregory Ch 16-17,20)
+###  Week 7 - Reading: Arnett & Bazan(p),Henning & Salama(p) , (Zeilik &
+Gregory Ch 16-17,20)
 
 Mar5 (13) - Nucleosynthesis and Stellar Evolution
 
@@ -234,10 +233,8 @@ Mar 19 (17) - Molecules in Space
 
 Mar 21 (18) - Star Formation
 
-###  Week 10 - Reading: McPhee, [Cameron(p)](cameron.taf),
-[Russell(p)](russell.pdf), [Thommes et al.(p)](thommes.etal.pdf),
-[Chapman(p)](chapman.pdf), [Tegler & Romanishin(p)](teglerandromanishin.pdf),
-(Brownlow Ch 7-9), (Hartmann Ch 10)
+###  Week 10 - Reading: McPhee, Cameron(p), Russell(p), Thommes et al.(p),
+Chapman(p), Tegler & Romanishin(p), (Brownlow Ch 7-9), (Hartmann Ch 10)
 
 Apr2 (19) - Molecules and Star Formation
 
@@ -245,10 +242,8 @@ Apr4 (20) - Formation of the Solar System
 
 ##  Paper #2 Due in class on April 2
 
-###  Week 11 - Reading: [Schonbachler(p)](schonbachler.etal.pdf),
-[Sephton(p)](sephton.pdf), [McSween(p)](mcsween.pdf), [Cooper et
-al.(p)](cooper.etal.pdf), [ Nicolussi et al ](nicolussi.etal.pdf), [ Drake &
-Richter(p) ](drakeandrichter.pdf), (Hartmann Ch 4-5)
+###  Week 11 - Reading: Schonbachler(p), Sephton(p), McSween(p), Cooper et
+al.(p),  Nicolussi et al ,  Drake & Richter(p) , (Hartmann Ch 4-5)
 
 Apr9 (21) - Meteorites
 
@@ -260,8 +255,7 @@ Apr 16 (23) - Rock Lab
 
 Apr 18 (24) - Rock Lab
 
-###  Week 13 - Reading: [Moon Origin(p)](moonorigin.canup.pdf),
-[Melosh(p)](melosh.pdf),
+###  Week 13 - Reading: Moon Origin(p), Melosh(p),
 
 Apr 23 (25) - Formation of the Moon
 
@@ -271,9 +265,8 @@ Apr 25 (26) - Composition of the Inner Solar System
 
 Polished Draft of Paper #4 Due in class on April 25
 
-###  Week 14 - Reading: da Vinci, Sullivan, Wegener,
-[Argon(p)](argoninmantle.pdf), [Wedding Ring(p)](walker.pdf),
-[Perfit(p)](perfit.pdf), (Brownlow Ch 7-9), Krauskopf & Bird Ch 17, 18)
+###  Week 14 - Reading: da Vinci, Sullivan, Wegener, Argon(p), Wedding
+Ring(p), Perfit(p), (Brownlow Ch 7-9), Krauskopf & Bird Ch 17, 18)
 
 Apr 30 (27) - Origin of Igneous Rocks
 

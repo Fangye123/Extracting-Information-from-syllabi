@@ -10,10 +10,8 @@
 
 # Use LINKS below
 
-[Program of Study](../courses/PROGRAMOFSTUDY.htm) | [FAQs](FAQ.htm) |
-[Prerequisites](PMprereqs.htm) | [Syllabus](../courses/PMSyllabus.htm) |
-[Contact Us](PMreqform.htm) | [Links Page](emslinks.htm) | [Program
-Application](../application/PMapplication.htm)
+Program of Study | FAQs | Prerequisites | Syllabus | Contact Us | Links Page |
+Program Application
 
 ![](../Images/strobe.gif)
 
@@ -160,6 +158,5 @@ difference between life and death for the patient.
 
 ###  
 
-### [Home](../index.htm) | [Students](../students/PMStudents.htm) |
-[Faculty](../Faculty/PMFaculty.htm) | [Information](PMInfo.htm)  
+### Home | Students | Faculty | Information  
 

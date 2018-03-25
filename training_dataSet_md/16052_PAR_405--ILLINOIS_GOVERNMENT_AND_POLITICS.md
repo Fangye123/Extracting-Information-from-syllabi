@@ -139,12 +139,11 @@ Dec. 18--Final Exam Due.
 
 * * *
 
-## _[Public Affairs Reporting Program Home
-Page](/publicaffairsreporting/Welcome.html/)
+## _Public Affairs Reporting Program Home Page
 
 _
 
-## _[University of Illinois at Springfield Home Page](http://www.uis.edu/)
+## _University of Illinois at Springfield Home Page
 
 _
 

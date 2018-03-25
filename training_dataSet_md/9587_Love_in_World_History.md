@@ -27,7 +27,7 @@ however. Since world history is not my particular speciality, I defer to the
 experts. HELP!
 
 Susan Eacker, Visiting Asst. Professor, Miami University,
-[saeacker@miamiu.acs.muohio.edu](mailto:saeacker@miamiu.acs.muohio.edu)
+saeacker@miamiu.acs.muohio.edu
 
 * * *
 
@@ -49,7 +49,7 @@ This should make a good start. If you want others, you can reach me by e-mail
 at,
 
 Randall L. Pouwels  
-[RANDYP@cc1.uca.edu](mailto:RANDYP@cc1.uca.edu)
+RANDYP@cc1.uca.edu
 
 * * *
 
@@ -76,7 +76,7 @@ together.
 Pier M. Larson  
 History Department  
 Penn State University  
-[PML9@psuvm.psu.edu](mailto:PML9@psuvm.psu.edu)
+PML9@psuvm.psu.edu
 
 * * *
 
@@ -106,7 +106,7 @@ in Kenya" SIGNS 16,4 (1991), 808-845.
 Pier M. Larson  
 History Department  
 Penn State University  
-[PML9@psuvm.psu.edu](mailto:PML9@psuvm.psu.edu)
+PML9@psuvm.psu.edu
 
 * * *
 
@@ -200,7 +200,7 @@ way, children by several other Mexican Indian women.
 I don't think there is a love story here.
 
 Frances Karttunen  
-[LIAR457@utxvms.cc.utexas.edu](mailto:LIAR457@utxvms.cc.utexas.edu)
+LIAR457@utxvms.cc.utexas.edu
 
 * * *
 
@@ -210,7 +210,7 @@ Date: Sun, 23 Oct 1994
 For a premodern love story you cannot overlook The Return of Martin Guerre.
 
 Peter Holloran, Pine Manor College  
-[pch@world.std.com](mailto:pch@world.std.com)
+pch@world.std.com
 
 * * *
 
@@ -231,11 +231,11 @@ usually more comic than tragic.
 
 Robert Entenmann  
 St. Olaf College  
-[entenman@stolaf.edu](mailto:entenman@stolaf.edu)
+entenman@stolaf.edu
 
 * * *
 
-**[Return](/~world/) to H-WORLD's Home Page. **
+**Return to H-WORLD's Home Page. **
 
 [an error occurred while processing this directive]
 

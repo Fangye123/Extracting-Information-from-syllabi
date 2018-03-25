@@ -600,12 +600,9 @@ are committed to making every effort to meet special needs.
 
 * * *
 
-[English 100](eng100.htm) | [Eng 101](eng101.htm) | [Eng 106](eng106.htm) |
-[Eng 110](Eng110.htm#Bellevue Community College) | [Eng
-112](Eng112.htm#Bellevue Community College) | [Eng 210](210fly.htm) |[ Eng
-267](Eng267.htm#Bellevue Community College) | [Eng 268](Eng268.htm#Bellevue
-Community College) | [Eng 269](Eng269.htm#Bellevue Community College) | Back
-to top | [Pauline Christiansen's Home Page](default.htm) |![](backtop.gif)
+English 100 | Eng 101 | Eng 106 | Eng 110 | Eng 112 | Eng 210 | Eng 267 | Eng
+268 | Eng 269 | Back to top | Pauline Christiansen's Home Page
+|![](backtop.gif)
 
 * * *
 

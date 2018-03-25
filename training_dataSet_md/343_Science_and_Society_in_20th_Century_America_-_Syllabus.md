@@ -2,11 +2,10 @@
 
 ### HPSS*S571, Fall 2000 -- MW 11:20 to 12:50, CB 431  
 The Rhode Island School of Design, Providence RI  
-[Roger B. Blumberg](http://www.cs.brown.edu/~rbb/) \-- Syllabus
+Roger B. Blumberg \-- Syllabus
 
 **http://www.cs.brown.edu/~rbb/risd/S571.syllabus.html**  
-See also the [S571 Reference
-Page](http://www.cs.brown.edu/~rbb/risd/S571.reference.html)
+See also the S571 Reference Page
 
 **Briefly:** This course examines and raises questions about the roles and
 representations of scientific knowledge and practice in the
@@ -36,7 +35,7 @@ to contribute to class discussions. In addition to short assignments, students
 will, before the Thanksgiving holiday, complete a 8-10 page essay that
 analyzes one or several representations of either nuclear or biological
 science (the representation may be drawn from the arts or the sciences), and
-there will be [a final exam](S571.finex2000.html).
+there will be a final exam.
 
 **Why This Course?:** College and university courses dealing with science
 generally fall into rather distinct and exclusive disciplinary categories.

@@ -94,7 +94,7 @@ Requirements:
 
 **
 
-  1. 4 examinations, 650 points total (65%). Exams 1, 2 and 3 (150 points each) will be given in the CLAS Testing Center, located in Robinson Hall. Hours are: Friday 9-5, Sunday 3-7. **It is your responsibility to allow sufficient time to complete the exam.** Please do not contact the Testing Center regarding testing dates. You can check their web page for test information at [www.cmich.edu/~clas/](www.cmich.edu/~clas/). Exam 4 (200 points) will be given during the regular final exam period.
+  1. 4 examinations, 650 points total (65%). Exams 1, 2 and 3 (150 points each) will be given in the CLAS Testing Center, located in Robinson Hall. Hours are: Friday 9-5, Sunday 3-7. **It is your responsibility to allow sufficient time to complete the exam.** Please do not contact the Testing Center regarding testing dates. You can check their web page for test information at www.cmich.edu/~clas/. Exam 4 (200 points) will be given during the regular final exam period.
   2. Homework and (possibly) quizzes, 100 points (10%). Weekly homework will be assigned, due at the beginning of your lab section. No quizzes are scheduled, but may be given with or without notice.
   3. Laboratory worksheets and reports, 250 points (25%). Note that failing Laboratory means that the best you can earn in the course is a B. Never attending lab means that the best you can earn in the course is a C. Lab is meant to reinforce the concepts from lecture, so if you attend lab and do the work, it will help your final grade.
   4. Consistent class attendance and active participation. May be important for borderline grade cases.
@@ -127,8 +127,7 @@ http://academicsenate.cmich.edu/noncurric.htm, and in the Academic Senate
 Office in room 108 of Bovee University Center. All academic work is expected
 to be in compliance with this policy.
 
-See also [Plagiarism: a brief
-overview](http://www.cst.cmich.edu/users/alm1ew/Plagiarism.html) at
+See also Plagiarism: a brief overview at
 http://www.cst.cmich.edu/users/alm1ew/Plagiarism.html if you have questions.
 Any plagiarized work or other act of dishonesty will receive a Zero and the
 Office of Student Life will be notified. **You are responsible** for

@@ -21,7 +21,7 @@ p.m.
 
 **_Fax:_** 442-3944
 
-**_E-mail:_**[ds693@albany.edu](mailto: ds693@albany.edu)  
+**_E-mail:_**ds693@albany.edu  
 ---  
   
 * * *  
@@ -114,8 +114,7 @@ continuously up-to-date with their work.
 * * *  
   
   
-[Back to Course Materials Index](http://www.albany.edu/courses/cmi.html) |
-Back to Top
+Back to Course Materials Index | Back to Top
 
 * * *
 

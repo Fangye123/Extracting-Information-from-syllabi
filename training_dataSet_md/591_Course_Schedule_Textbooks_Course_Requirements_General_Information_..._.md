@@ -22,7 +22,7 @@
 
 **Phone: 747.6591**
 
-**E-mail:**[ echavez@utep.edu **](mailto:echavez@utep.edu)**
+**E-mail:** echavez@utep.edu ****
 
 **My office hours: M-W-F 11:30a.m.-12:30 p.m.**
 
@@ -287,12 +287,11 @@ Are we still fighting the Civil War?
 
 Click here top return to the top of this page
 
-[Click here to return to the History 1301 course
-page](http://www.utep.edu/echavez/courseone/1301home.html).
+Click here to return to the History 1301 course page.
 
 Click here to return to the Virtual Office of professor Chavez.
 
-[Click here to return to the main home page](http://www.utep.edu/echavez).
+Click here to return to the main home page.
 
   
   

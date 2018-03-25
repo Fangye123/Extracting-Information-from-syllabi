@@ -33,7 +33,7 @@ OFFICE: 125 Snyder Hall
 
 PHONE: 353-4548
 
-e-mail: [bob@msu.edu](mailto:bob@msu.edu)
+e-mail: bob@msu.edu
 
 OFFICE HOURS: Monday 9:00 - 9:50, Tuesday 11:00 - 11:50
 
@@ -43,7 +43,7 @@ OFFICE: B436 Life Sciences
 
 PHONE: 353-9347
 
-e-mail: [morri127@msu.edu](mailto:morri127@msu.edu)
+e-mail: morri127@msu.edu
 
 OFFICE HOURS: WED. 11:00 - 1:00
 
@@ -159,8 +159,7 @@ contact:
 
 **OFFICE: 137 Snyder Hall PHONE: 355-9561 **
 
-**EMAIL:**[ **seka.remsing@ssc.msu.edu**
-**](mailto:seka.remsing@ssc.msu.edu)**
+**EMAIL:** **seka.remsing@ssc.msu.edu** ****
 
   
   
@@ -357,13 +356,11 @@ dishonesty (page 51).
 
 * * *
 
-**_Spring Semester 2002_** [
-![](http://www.7am.com/graphics/clocksml.gif)](http://www.7am.com)
+**_Spring Semester 2002_** ![](http://www.7am.com/graphics/clocksml.gif)
 
 * * *
 
 **_3 January 2002_**  
-**_Department of[Psychology](http://psychology.msu.edu), [College of Social
-Sciences](http://www.ssc.msu.edu), [Michigan State
-University](http://www.msu.edu/)_**
+**_Department ofPsychology, College of Social Sciences, Michigan State
+University_**
 

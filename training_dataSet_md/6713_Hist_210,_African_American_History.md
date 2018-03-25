@@ -1,15 +1,10 @@
     
-  [![FSU Seal](../Images/Bluseal2.gif)](http://www.uncfsu.edu/)**FAYETTEVILLE
-STATE UNIVERSITY**  
-**[College of Arts and Sciences](http://spacer.uncfsu.edu/cas/)**  
-**[Department of Government and
-History](http://spacer.uncfsu.edu/d_ghp/index.HTM)** |
+  ![FSU Seal](../Images/Bluseal2.gif)**FAYETTEVILLE STATE UNIVERSITY**  
+**College of Arts and Sciences**  
+**Department of Government and History** |
 
-[![Govt and Hist
-Logo](../Images/Ghlgb.gif)](http://spacer.uncfsu.edu/d_ghp/index.HTM)**DIANNE
-W. OYLER, Ph.D.** **[TEACHING](../Teaching.htm)| [Advising and
-Service](../Advising.htm) | [Research](../Rsrch.htm) |
-[Background](../Bkgd.htm) | [Links](../Links.htm) | [Home](../Index.htm)**  
+![Govt and Hist Logo](../Images/Ghlgb.gif)**DIANNE W. OYLER, Ph.D.**
+**TEACHING| Advising and Service | Research | Background | Links | Home**  
   
 ---|---  
   
@@ -35,7 +30,7 @@ Office Phone:  | 486-1946
 Office Hours: | Monday & Wednesday1-4 p.m. and Tuesday & Thursday 2-4 p.m. OR
 BY APPOINTMENT  
 Alternate phone: | Dr. John Brooks, 486-1945; Department Secretary, 486-1573  
-E-Mail: | [doyler@chi1.uncfsu.edu](mailto:doyler@chi1.uncfsu.edu)  
+E-Mail: | doyler@chi1.uncfsu.edu  
   
 Locator | Description | Texts | Objectives | Evaluation | Requirements |
 Strategies | Outline | References  
@@ -226,9 +221,9 @@ Top
 **Assignments:** Assignments for this class will include reading, writing, and
 special projects to include:
 
-    1. Film Review--[Guide](h210frv.htm)
+    1. Film Review--Guide
     2. Group Work--Textbook Evaluation Project--Guide
-    3. Current Events Notebook--[Guide](h210cevn.htm)
+    3. Current Events Notebook--Guide
 
 **Attendance and Punctuality:** **Students are responsible** for material
 covered and assignments.
@@ -326,7 +321,7 @@ Oct. 18 | The Era of Reconstruction | Text:  Chapter 12
 Oct 20 | The Rise of Jim Crow | Text:  Chapter 13  
 Oct 25 | African American Thought | Text:  Chapter 14  
 Oct. 27 | The Great Migration | Text:  Chapter 15  
-**Oct. 27** | **FILM REVIEW DUE   [Guide](h210frv.htm)** |  
+**Oct. 27** | **FILM REVIEW DUE   Guide** |  
 Nov. 1 | World War I and Racism; Marcus Garvey and Black Nationalism : The
 Second Back to African Movement | Text Chapters 16 & 17  
 Nov. 3 | The Harlem Renaissance | Text Chapter 18  
@@ -345,7 +340,7 @@ Chapter 23
 Dec. 1 | The Present | Text Chapter 24  
 Dec. 6 | Class Discussion of local, State, and National Trends | Based on
 Current Events Notebook  
-Dec. 6 | CURRENT EVENTS NOTEBOOK DUE  [Guide](h210cevn.htm) |  
+Dec. 6 | CURRENT EVENTS NOTEBOOK DUE  Guide |  
 **Dec. 10** | **EXAM#3**  
   
   

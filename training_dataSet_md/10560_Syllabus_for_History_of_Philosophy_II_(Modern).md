@@ -17,7 +17,7 @@ Instructor:  Charles Jarrett
 Office Hours: | F 9:00 - 10:00, MWF 12:15 - 1:15, and by appointment  
 Phone: | 856-225-6233  
 Fax: | 856-225-6544  
-Email: | [jarrett@crab.rutgers.edu](mailto: jarrett@crab.rutgers.edu)  
+Email: | jarrett@crab.rutgers.edu  
 Secretarial Office | 445 Armitage      856-225-6136      M-F 8:30 - 4:30  
 Mailing Address | Department of Philosophy and Religion  
 | Rutgers University  
@@ -39,38 +39,38 @@ No textbooks need to be bought for this course.  All of our readings are
 available on the web (or from me).
 
 I)    Rene Descartes, _Meditations on First Philosophy_  
-       <http://philos.wright.edu/DesCartes/Meditations.html>   
-       <http://www.utm.edu/research/iep/text/descart/des-med.htm>   
+       http://philos.wright.edu/DesCartes/Meditations.html   
+       http://www.utm.edu/research/iep/text/descart/des-med.htm   
        Descartes, _Meditations on First Philosophy_. Hackett Publishing Co., 1998. 
 
 II)  David Hume,  _An Enquiry Concerning   Human Understanding_  
-      <http://www.utm.edu/research/hume/wri/1enq/1enq.htm>   
-      <http://eserver.org/18th/hume-enquiry.html>   
-      <http://coombs.anu.edu.au/Depts/RSSS/Philosophy/Texts/Enquiry1-5.html>   
+      http://www.utm.edu/research/hume/wri/1enq/1enq.htm   
+      http://eserver.org/18th/hume-enquiry.html   
+      http://coombs.anu.edu.au/Depts/RSSS/Philosophy/Texts/Enquiry1-5.html   
       Hume, _An Enquiry Concerning Human Understanding_.   Hackett Publishing   
           Co.,1993. 
 
 III) Immanuel Kant, _Prolegomena to Any Future Metaphysics_  
-      <http://www.utm.edu/research/iep/text/kant/prolegom/prolegom.htm>   
-      <http://eserver.org/philosophy/kant-prolegomena.txt>   
+      http://www.utm.edu/research/iep/text/kant/prolegom/prolegom.htm   
+      http://eserver.org/philosophy/kant-prolegomena.txt   
       Kant, _Prolegomena to Any Future Metaphysics._ Hackett Publishing Co., 1977 _._
 
 IV) Georg Wilhelm Frederich Hegel, _Introduction to the Philosophy of History_  
-    <http://home.mira.net/~andy/history0.htm><http://www.ets.uidaho.edu/mickelsen/texts/Hegel%20-%20Philosophy%20of%20History.htm>   
+    http://home.mira.net/~andy/history0.htmhttp://www.ets.uidaho.edu/mickelsen/texts/Hegel%20-%20Philosophy%20of%20History.htm   
 Hegel, _Introduction to the Philosophy of History_.   Hackett Publishing Co.,
 1988.
 
 V)  Friedrich Wilhelm Nietzsche, _The Gay Science_  
- <http://www.cwu.edu/~millerj/nietzsche/gayscience.html>
+ http://www.cwu.edu/~millerj/nietzsche/gayscience.html
 
 VI)  Jean-Paul Sartre, "Existentialism as a Humanism"  
- <http://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm>
+ http://www.marxists.org/reference/archive/sartre/works/exist/sartre.htm
 
 VII) John Stuart Mill, _On Liberty_  
- <http://www.fordham.edu/halsall/mod/jsmill-lib.html>
+ http://www.fordham.edu/halsall/mod/jsmill-lib.html
 
 VII Russell, _The Problems of Philosophy_  
- <http://www.voyageronline.net/~daniel/bertrand.htm>  
+ http://www.voyageronline.net/~daniel/bertrand.htm  
 
 
 **RECOMMENDED TEXTS** (Not Required)::

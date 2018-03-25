@@ -1,22 +1,18 @@
 **Teaching East Asia in the Secondary Curriculum**  
 **A Seminar for Secondary School Teachers at**  
-[Slippery Rock University of Pennsylvania](www.sru.edu)
+Slippery Rock University of Pennsylvania
 
 ![](TempleGarden2.JPG)  
   
 **Syllabus**
 
-[Map and Directions to The Cleveland Museum of
-Art](http://maps.yahoo.com/py/maps.py?BFCat=&Pyt=Tmap&newFL=Use+Address+Below&addr=11150+East+Boulevard&csz=44106-1797&Country=us&Get%A0Map=Get+Map)
+Map and Directions to The Cleveland Museum of Art
 
 * * *
 
-**  [TEA Seminar
-Main](http://www.sru.edu/depts/artsci/gov/Gbrown/TAS/TAS.html)** | **[Course
-Requirements](CourseRequirements.htm)**  
+**  TEA Seminar Main** | **Course Requirements**  
 ---|---  
-**[Teaching Resources](TEAResources.htm)** | **[Links to Asian
-Studies](AsiaLinks.html)**  
+**Teaching Resources** | **Links to Asian Studies**  
   
 * * *
 
@@ -24,20 +20,19 @@ Studies](AsiaLinks.html)**
 Professor George Brown  
 209 Spotts World Culture Building  
 Ph: 724 738-2435  
-E-mail: [george.brown@sru.edu](mailto:george.brown@sru.edu)  
-[www.sru.edu/depts/artsci/gov/Gbrown/Gbrown.html](http://www.sru.edu/depts/artsci/gov/Gbrown/Gbrown.html)  
+E-mail: george.brown@sru.edu  
+www.sru.edu/depts/artsci/gov/Gbrown/Gbrown.html  
 
 * * *
 
 Teaching East Asia in the Secondary Curriculum is designed for middle and high
 school teachers of World Cultures, World History, Geography, Economics,
 Humanities, and Literature.  This course is **Funded by the Freeman Foundation
-and Presented by the Asian Studies Program at[Slippery Rock University of
-Pennsylvania](http://www.sru.edu)**  
-**In Association with the[National Consortium for Teaching about Asia and the
-Asian Studies
-Program](http://www.ucis.pitt.edu/asp/NCTA_PGH_SITE/ncta_pgh_site.html#sites),
-University Center for International Studies, University of Pittsburgh.**  
+and Presented by the Asian Studies Program atSlippery Rock University of
+Pennsylvania**  
+**In Association with theNational Consortium for Teaching about Asia and the
+Asian Studies Program, University Center for International Studies, University
+of Pittsburgh.**  
 
 * * *
 
@@ -58,21 +53,13 @@ Asia, including China, Japan and Korea. There will be 15 three hour sessions
 Slippery Rock University, which will include sessions on geography, history,
 philosophy and religion, literature and film, politics and political economy.
 
-The program director and primary instructor for the seminar will be Dr.
-[George P. Brown](http://www.sru.edu/depts/artsci/gov/Gbrown/Gbrown.html) ,
-Department of Government and Public Affairs at Slippery Rock University.
-Individual course segments will be taught by Slippery Rock University faculty
-including Dr. [Carol
-Prorok](http://www.sru.edu/depts/artsci/ges/prorok/index.htm) , Department of
-Geography, Dr. [Peggy
-Denning](http://www.sru.edu/depts/artsci/hist/denning/denning.htm) ,
-Department of History, Dr. [Theodore
-Kneupper](http://www.sru.edu/depts/artsci/phil/KNEUPPER.HTM) , Department of
-Philosophy, Dr. [Alison
-McNeal](http://www.sru.edu/depts/artsci/engl/bmcneal/bmcneal.htm) , Department
-of English, and Dr. [Sunita
-Peacock](http://www.sru.edu/depts/artsci/engl/Speacock/sp.htm) , Department of
-English.
+The program director and primary instructor for the seminar will be Dr. George
+P. Brown , Department of Government and Public Affairs at Slippery Rock
+University. Individual course segments will be taught by Slippery Rock
+University faculty including Dr. Carol Prorok , Department of Geography, Dr.
+Peggy Denning , Department of History, Dr. Theodore Kneupper , Department of
+Philosophy, Dr. Alison McNeal , Department of English, and Dr. Sunita Peacock
+, Department of English.
 
 The seminar will be taught on Saturdays throughout Spring Semester, 2002, and
 will be held on the Slippery Rock University campus. Parking is free on
@@ -213,9 +200,9 @@ Hinduism, Confucianism, Taoism and Shinto_ , Ulysses Press, 1999.
 
 Recommended Reading:
 
-  * **Daoist Studies**<http://www.daoiststudies.org/index.php3>
-  * **Survey of Relgion in Modern Japan** <http://homepage.mac.com/paulshew/research/xty.jpn/surveyReligionJpn.html>
-  * **Belief, Philosophy and Religion in Korea**<http://asnic.utexas.edu/asnic/countries/korea/beliefsystem.html>
+  * **Daoist Studies**http://www.daoiststudies.org/index.php3
+  * **Survey of Relgion in Modern Japan** http://homepage.mac.com/paulshew/research/xty.jpn/surveyReligionJpn.html
+  * **Belief, Philosophy and Religion in Korea**http://asnic.utexas.edu/asnic/countries/korea/beliefsystem.html
 
 Niels Neilsen, Frank E. Reynolds, Alan L. Miller, Grace G. Burford (Editor),
 John Y. Fenton, _Religions of Asia_ (third edition), Bedford/St. Martin's
@@ -255,13 +242,13 @@ Required Readings are from :
 
 **Some web links to Confucianism:**
 
-  * **Key Characteristics in the Analects**<http://www.geocities.com/hrt236/key.html>
-  * **Confucian Classics in Chinese (with English Translations of each character)**<http://zhongwen.com/lunyu.htm>
-  * **Confucianism**<http://www.askasia.org/frclasrm/readings/r000004.htm>
+  * **Key Characteristics in the Analects**http://www.geocities.com/hrt236/key.html
+  * **Confucian Classics in Chinese (with English Translations of each character)**http://zhongwen.com/lunyu.htm
+  * **Confucianism**http://www.askasia.org/frclasrm/readings/r000004.htm
 
   
 **Li Po (Li Bai), Poetry
-Magazine**<http://www.poetrymagazine.com/archives/2000/November00/po.htm>
+Magazine**http://www.poetrymagazine.com/archives/2000/November00/po.htm
 
 Owen, Stephen, Editor and Translator. _An Anthology of Chinese Literature:
 Beginnings to 1911_. New York: W . W. Norton  & Co., 1997.
@@ -271,8 +258,8 @@ Beginnings to 1911_. New York: W . W. Norton  & Co., 1997.
 Murasaki, Shikibu. _The Tale of Genji_ . Trans. By Edward G. Seidensticker.
 New York: Vintage, 1985.  
 **Noh and Noh
-Masks**<http://www.enncorp.co.jp/Exhibit/noh/nohmask.html#nohMaskKind>  
-**Noh Dancing**<http://www-staff.mcs.uts.edu.au/~don/pubs/noh.html>
+Masks**http://www.enncorp.co.jp/Exhibit/noh/nohmask.html#nohMaskKind  
+**Noh Dancing**http://www-staff.mcs.uts.edu.au/~don/pubs/noh.html
 
 **Korea:**
 
@@ -302,9 +289,9 @@ recommended.
 
 **Recommended Reading:**
 
-  * Buddhism on the Silk Road <http://idp.bl.uk/idp/buddhism/index.html>
-  * Combined Digital Index of Buddhist Lexicons <http://www.human.toyogakuen-u.ac.jp/~acmuller/digitexts.htm>
-  * Resources for the Study of Buddhism <http://online.sfsu.edu/~rone/Buddhism/Buddhism.htm>
+  * Buddhism on the Silk Road http://idp.bl.uk/idp/buddhism/index.html
+  * Combined Digital Index of Buddhist Lexicons http://www.human.toyogakuen-u.ac.jp/~acmuller/digitexts.htm
+  * Resources for the Study of Buddhism http://online.sfsu.edu/~rone/Buddhism/Buddhism.htm
 
 Niels Neilsen, Frank E. Reynolds, Alan L. Miller, Grace G. Burford (Editor),
 John Y. Fenton, _Religions of Asia_ (third edition), Bedford/St. Martin's
@@ -322,8 +309,7 @@ curriculum plan) using one or more of the documents in the Ebrey book or from
 the handouts that Dr. Denning provided.  You may also use other materials from
 the class to support these primary documents.  You should try to tie these
 historical documents into your academic specialty.  You can use this to build
-on the similar assignment in the [course
-requirements](http://www.sru.edu/depts/artsci/gov/Gbrown/TAS/CourseRequirements.htm).**
+on the similar assignment in the course requirements.**
 
 Recommended Readings:
 
@@ -346,10 +332,10 @@ are supportive. Ebrey's section V and VI provide documentary information.
 
 **Recommended Reading:**  
 Andrea and Overfield, _The Human Record_ ,
-[http://shop.barnesandnoble.com/textbooks/booksearch/isbninquiry.asp?userid=6ARXKE4EOZ&mscssid=BGHRCNT8XP8Q8PS3699HH7QH1NV582XA&isbn=0395870887](http://shop.barnesandnoble.com/textbooks/booksearch/isbninquiry.asp?userid=6ARXKE4EOZ&mscssid=BGHRCNT8XP8Q8PS3699HH7QH1NV582XA&isbn=0395870887)  
+http://shop.barnesandnoble.com/textbooks/booksearch/isbninquiry.asp?userid=6ARXKE4EOZ&mscssid=BGHRCNT8XP8Q8PS3699HH7QH1NV582XA&isbn=0395870887  
 _Sources of the Japanese Tradition_ , Wm. T. de Bary, ed.  
-<http://www.amazon.com/exec/obidos/tg/stores/detail/-/books/0231086059/reader/1/103-2995974-1039848#reader-
-link>
+http://www.amazon.com/exec/obidos/tg/stores/detail/-/books/0231086059/reader/1/103-2995974-1039848#reader-
+link
 
 **Handouts:** Fukuzawa Yukichi: On Japanese Women, Iwasaki Yataro: Letter to
 the Mitsubishi Employees, Ho Chi Minh: Selected Writings, Mao Zedong: Selected
@@ -400,10 +386,10 @@ Required Readings are from:
 1\. Discussion of Van Gulik's Celebrated Cases of Judge Dee using material
 from Education about Asia.
 
-  * Judge Dee - The Mystery Novels of Robert Van Gulik <http://www.teleologic.com/crghome/vangulik.html>
-  * Online Learning about Robert Van Gulik <http://www.j4.com/authors/van_gulik_robert.php>
-  * Webpages on Robert Hans van Gulik and Judge Dee <http://www.ude.de/gulik/webpages.html>
-  * Robert van Gulik Bibliography <http://hjem.get2net.dk/bnielsen/gulik.html>
+  * Judge Dee - The Mystery Novels of Robert Van Gulik http://www.teleologic.com/crghome/vangulik.html
+  * Online Learning about Robert Van Gulik http://www.j4.com/authors/van_gulik_robert.php
+  * Webpages on Robert Hans van Gulik and Judge Dee http://www.ude.de/gulik/webpages.html
+  * Robert van Gulik Bibliography http://hjem.get2net.dk/bnielsen/gulik.html
 
   
 2\. Small group prompts for discussion of Ha Jin's Waiting.
@@ -412,13 +398,13 @@ from Education about Asia.
 
 1\. Discussion and prompts of modern Japanese short stories and poems.
 
-  * Ryunosuke Akutagawa 1892-1927 <http://www.kalin.lm.com/akut.html>
-  * Books and Writers: Ryunosuke Akutagawa   <http://www.kirjasto.sci.fi/akuta.htm>
-  * Books and Writers: Junichiro Tanizaki (1886-1965) <http://www.kirjasto.sci.fi/tanizaki.htm>
-  * [Amazon.com books on Tanizaki](http://www.amazon.com/exec/obidos/search-handle-url/index%3Dbooks%26field-author%3DTanizaki%2C%20Junichiro/ref%3Dpd%5Fsimart%5Fdetail/002-7555521-0617649)
-  * YASUNARI KAWABATA BIBLIOGRAPHY <http://www.otterbein.edu/home/fac/plarchr/kawabata.htm>
-  * Nobel E-Museum, Yasunari Kawabata <http://www.nobel.se/literature/laureates/1968/kawabata-bio.html>
-  * Books and Writers: Yasunari Kawabata <http://www.kirjasto.sci.fi/kawabata.htm>
+  * Ryunosuke Akutagawa 1892-1927 http://www.kalin.lm.com/akut.html
+  * Books and Writers: Ryunosuke Akutagawa   http://www.kirjasto.sci.fi/akuta.htm
+  * Books and Writers: Junichiro Tanizaki (1886-1965) http://www.kirjasto.sci.fi/tanizaki.htm
+  * Amazon.com books on Tanizaki
+  * YASUNARI KAWABATA BIBLIOGRAPHY http://www.otterbein.edu/home/fac/plarchr/kawabata.htm
+  * Nobel E-Museum, Yasunari Kawabata http://www.nobel.se/literature/laureates/1968/kawabata-bio.html
+  * Books and Writers: Yasunari Kawabata http://www.kirjasto.sci.fi/kawabata.htm
 
   
 2\. Discussion and prompts of Korean short stories and poems.
@@ -479,7 +465,7 @@ Recommended Readings:
   * S. Korea and Taiwan - Asian Tigers
   * China - rising Dragon
 
-**[Links to resources and web-sites on these topics](ModernAsiaLinks.htm)**
+**Links to resources and web-sites on these topics**
 
 * * *
 
@@ -528,7 +514,7 @@ Recommended Readings:
 
   * Using the World Wide Web as a Resource for Teaching About Asia
   * ERIC (The U.S. Department of Education, Education Resource Information Center)
-  * AEMS: Asian Educational Media Service <http://www.aems.uiuc.edu/index.las>
+  * AEMS: Asian Educational Media Service http://www.aems.uiuc.edu/index.las
   * Education About Asia
 
 * * *
@@ -546,7 +532,7 @@ Articles from Photocopied Reading
 
 **Hour Two: China - Taiwan Issue.**
 
-  * Frontline Documentary website _Dangerous Straits: Exploring the Future of US-China Relations and the Long Simmering Issue of Taiwan_ (Note: this includes a teacher's guide) _  _<http://www.pbs.org/wgbh/pages/frontline/shows/china/>
+  * Frontline Documentary website _Dangerous Straits: Exploring the Future of US-China Relations and the Long Simmering Issue of Taiwan_ (Note: this includes a teacher's guide) _  _http://www.pbs.org/wgbh/pages/frontline/shows/china/
 
 **Hour Three: N-S Korea Issue, Japan's Unresolved Tensions with Korea and
 China.**

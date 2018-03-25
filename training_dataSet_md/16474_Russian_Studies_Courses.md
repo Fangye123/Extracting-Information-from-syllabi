@@ -15,7 +15,7 @@ university.
 
     
     
-       Introduction to Russian Studies with attention to political, demographic, economic, social, and cultural features of the Russian area. [Syllabus](rs101syllabus.html).
+       Introduction to Russian Studies with attention to political, demographic, economic, social, and cultural features of the Russian area. Syllabus.
   
 
 
@@ -315,7 +315,7 @@ MIDDLE EASTERN BORDERLANDS.
 
     
     
-       An examination of the domestic politics of the USSR and its successor states. The central concern of the course is the perennial dominance of authoritarianism over democracy in Russian political culture and behavior. Through a study of relations between ethnic groups, political institutions, citizen and the state, and the center and provinces, the course illustrates the tortuous path toward political change in Russia and the neighboring lands of Eurasia. [Syllabus](pe340syllabus.html).
+       An examination of the domestic politics of the USSR and its successor states. The central concern of the course is the perennial dominance of authoritarianism over democracy in Russian political culture and behavior. Through a study of relations between ethnic groups, political institutions, citizen and the state, and the center and provinces, the course illustrates the tortuous path toward political change in Russia and the neighboring lands of Eurasia. Syllabus.
   
 
 

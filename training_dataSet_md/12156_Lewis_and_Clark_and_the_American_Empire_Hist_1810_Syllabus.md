@@ -173,7 +173,5 @@ Key: A=Ambrose, B=Botkin, R=Ronda
 23\. A--31, 32  
 24\. A--33, 34  
 25\. A--35, 36  
-26\. A--37, 38, Aftermath [
-](http://www.pitt.edu/~pnewman)[![](malden.jpg)](http://www.pitt.edu/~pnewman)
-[Back](http://www.pitt.edu/~pnewman)  
+26\. A--37, 38, Aftermath  ![](malden.jpg) Back  
 

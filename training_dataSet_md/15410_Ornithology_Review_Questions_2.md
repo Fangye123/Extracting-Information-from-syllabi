@@ -186,9 +186,7 @@ Vultures, tube-nosed seabirds, honeyguides (p.200)? Know the material in Box
 
 * * *
 
-[![](birdicon.gif)](http://www.biology.eku.edu/ritchiso/ornitholsyl.htm)**[Back
-to BIO 554/754
-syllabus](http://www.biology.eku.edu/ritchiso/ornitholsyl.htm)**
+![](birdicon.gif)**Back to BIO 554/754 syllabus**
 
 * * *
 

@@ -14,7 +14,7 @@ Home phone: (617) 479-7709 no calls after 8PM | **Course Schedule Shortcuts**
   * **Weeks 7-10**
   * **Weeks 11-14**
 
-  * **[Start of Semester Message to Enrolled Students](message.htm)**
+  * **Start of Semester Message to Enrolled Students**
 
   
 ---|---  
@@ -126,7 +126,7 @@ question, theoretical context, summary of the literature, research and
 sources, methodology. They will also start work on an abstract of their
 project.
 
-    * [A guide to writing proposals](http://www.ssrc.org/artprop.htm)
+    * A guide to writing proposals
 
   
 **Week 2: [Sept 11]   Organizing the research enterprise, formulating a
@@ -136,7 +136,7 @@ proposal and a research plan**
 
     * **The Craft of Research : From Planning to Reporting**. Start reading first half.
     * **Going to the Sources.** Chaps. 2-3, 5.
-    * [Online reading on preparing the research project](process.htm)
+    * Online reading on preparing the research project
 
   
 **Exercise** :  
@@ -147,10 +147,10 @@ system for notes and research, and will become familiar with the appropriate
 software options. Students will begin a research log and outline that they
 will continue to develop during the semester.
 
-    * [Ongoing work](ongoing2.htm)
-    * [Guide to the documents required for this course--be ready to explain your system!](document.htm)
-    * [Research Plan--Bring a draft!](plan.htm)
-    * [Web work for this session--do ahead of time!](week2.htm)
+    * Ongoing work
+    * Guide to the documents required for this course--be ready to explain your system!
+    * Research Plan--Bring a draft!
+    * Web work for this session--do ahead of time!
 
 ****
 
@@ -170,9 +170,9 @@ will continue to develop during the semester.
 Students will also practice advanced web searching with Netscape and other
 internet software.
 
-    * [Software for Academic Research and Writing](../../website/homepage/software.htm)
-    * [Ongoing work](ongoingwork3.htm)
-    * [Web Page for this Session!](week3.htm)
+    * Software for Academic Research and Writing
+    * Ongoing work
+    * Web Page for this Session!
     * Bring your books to class--meet in Third Floor PC Lab in Stein
     * Post your document dafts to K Drive
 
@@ -200,8 +200,8 @@ on the K Drive and a careful examination of the arguments and sources
 discussed in selected secondary sources on their research question.  
 
 
-    * [Reading for this Session](../keys)
-    * [Outline of work for this session](sept28outline.htm)
+    * Reading for this Session
+    * Outline of work for this session
 
   
 **Week 5: [Oct 2] Reference Materials for Research in History--Dinand
@@ -218,7 +218,7 @@ this week, identifying the most important reference materials in their field.
 Students will write a report on the process and their findings.  
 
 
-    * [Ongoing work](searches.htm)
+    * Ongoing work
 
   
 **Week 6: [Oct 16] Journals and Journal Indices--Dinand Library**
@@ -240,7 +240,7 @@ third world. The reports will cover the items specified in this week's handout
 and will be discussed in class this week.  
 
 
-    * [Work for this meeting](journal.htm)
+    * Work for this meeting
 
   
 **Week 7: [Oct 23] Newspapers and Specialized Research Tools**
@@ -332,7 +332,7 @@ Paper--PC Lab**
 **Exercise** :  
 
 
-    * [Running work](finalwork.htm)
+    * Running work
 
 ****
 

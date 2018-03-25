@@ -1,9 +1,8 @@
-[![](../../../Shared/mellon3logo.png)](../../../index.html) |  
+![](../../../Shared/mellon3logo.png) |  
 ---|---  
   
 # Notes from:  
-[NERCOMP Instructional Management Systems
-Workshop](http://www.nercomp.org/nercomp/is/ims.html)  
+NERCOMP Instructional Management Systems Workshop  
   
 ### Index to notes  
   
@@ -42,10 +41,10 @@ Workshop](http://www.nercomp.org/nercomp/is/ims.html)
 #### Introduction and Overview  
 Michael Roy, Director of Academic Computing Services, Wesleyan University
 
-Michael Roy recently established an [Instructional Services Special Interest
-Group](http://www.nercomp.org/nercomp/is) (IS SIG) as part of the [North East
-Regional Computing Program](http://www.nercomp.org) (NERCOMP).  IS SIG will
-address issues related to the use of technology in instruction, including:
+Michael Roy recently established an Instructional Services Special Interest
+Group (IS SIG) as part of the North East Regional Computing Program (NERCOMP).
+IS SIG will address issues related to the use of technology in instruction,
+including:
 
   * electronic classrooms
   * instructional management systems
@@ -61,12 +60,10 @@ information on instructional services, such as:
   * reviews (books, articles, web sites, software, and hardware)
   * surveys (short 3-4 question surveys on specific topics)
 
-To add your name to the IS SIG mailing list you can either [sign-up on the
-web](http://lyris.wesleyan.edu:8080/cgi-bin/lyris.pl?enter=nercomp-
-is&text_mode=0) or send email to
-**[lyris@lyris.wesleyan.edu](mailto:lyris@lyris.wesleyan.edu)** with the body
-of the message saying **subscribe nercomp-is**.   [Author's note: As of
-October 11, 1999, there has been very little traffic on this list.]
+To add your name to the IS SIG mailing list you can either sign-up on the web
+or send email to **lyris@lyris.wesleyan.edu** with the body of the message
+saying **subscribe nercomp-is**.   [Author's note: As of October 11, 1999,
+there has been very little traffic on this list.]
 
 * * *
 
@@ -82,14 +79,12 @@ organization in which:
   * **Residential universities and colleges** will continue to **provide socialization skills to 18 year olds**.
   * Universities will also need to **provide certification of competencies for mature students** in an efficient manner.
 
-[IMS](http://www.imsproject.org/) was founded as part of an
-[EDUCAUSE](http://www.educause.edu) (formerly Educom) initiative to spur
-innovation in the distributed learning marketplace.  It is a coalition of [35
-investors](http://www.imsproject.org/im_members.html) (companies) and [200
-developers](http://www.imsproject.org/joindn.html) (colleges and universities)
-who are working to develop standards to enable the development of a
-nonproprietary, Internet-based infrastructure for distributed learning.  To
-accomplish this goal, IMS:
+IMS was founded as part of an EDUCAUSE (formerly Educom) initiative to spur
+innovation in the distributed learning marketplace.  It is a coalition of 35
+investors (companies) and 200 developers (colleges and universities) who are
+working to develop standards to enable the development of a nonproprietary,
+Internet-based infrastructure for distributed learning.  To accomplish this
+goal, IMS:
 
   * collects requirements from all sectors
   * develops specifications for the interoperatability of all systems and content
@@ -97,11 +92,9 @@ accomplish this goal, IMS:
   * actively promotes the adoption of specifications as international standards
   * provides development support
 
-IMS recently completed the [IMS Meta-data
-specification](http://www.imsproject.org/work_public/meta-data_did188.html)
-for describing learning resources.  This information can be used to help
-people locate appropriate learning materials on the Web.  The top level of the
-IMS meta-data tags is:  
+IMS recently completed the IMS Meta-data specification for describing learning
+resources.  This information can be used to help people locate appropriate
+learning materials on the Web.  The top level of the IMS meta-data tags is:  
   | General | Basic library catalog information, such as author and title  
 ---|---  
 Life Cycle | In development, beta testing, etc.  
@@ -139,8 +132,8 @@ products: WebCT, CourseInfo, and Lotus LearningSpace._
 
 ####  Choosing the Right Tool for the Job: WebCT offers a rich set of Web-
 based course management tools for UMass faculty  
-[Doris Peterson](mailto:peterson@oit.umass.edu), Manager of Computing
-Instruction and Faculty Support, University of Massachusetts at Amherst
+Doris Peterson, Manager of Computing Instruction and Faculty Support,
+University of Massachusetts at Amherst
 
 UMass supports WebCT as one of several instructional management systems.  They
 have a support staff of 8 full time employees and 10 graduate and
@@ -176,9 +169,9 @@ and communication they want from their students.
 
 To learn more about WebCT:
 
-  * [sample UMass WebCT-based courses](http://webct.oit.umass.edu:8900/) ( **log on** as **guest** using the **password guest** ),
-  * [create your own test course](http://www.ult.net/try/how_get.html) on WebCT's servers using their free four month trial offer, and
-  * [UMass' online WebCT support site](http://www.umass.edu/webct/) for faculty and students
+  * sample UMass WebCT-based courses ( **log on** as **guest** using the **password guest** ),
+  * create your own test course on WebCT's servers using their free four month trial offer, and
+  * UMass' online WebCT support site for faculty and students
 
   
 
@@ -186,9 +179,8 @@ To learn more about WebCT:
 
 ####  CourseInfo at the Yale School of Medicine - Different (Key)Strokes for
 Different Folks  
-[Judy M. Spak](mailto:judy.spak@yale.edu), Reference Librarian and
-Instructional Technology Coordinator, Cushing/Whitney Medical Library, Yale
-University
+Judy M. Spak, Reference Librarian and Instructional Technology Coordinator,
+Cushing/Whitney Medical Library, Yale University
 
 Student demand for easy access to course materials from off campus led to the
 introduction of instructional management systems at Yale Medical School.  The
@@ -223,9 +215,8 @@ complaints are that they would like to see more course offer materials online
 the courses that provide online materials to do so consistently throughout the
 semester.
 
-Please contact [Judy Spak](mailto:judy.spak@yale.edu), if you are interested
-in looking at any of the [Yale Medical School courses that use
-CourseInfo](http://info.med.yale.edu:8080/).  
+Please contact Judy Spak, if you are interested in looking at any of the Yale
+Medical School courses that use CourseInfo.  
 
 
 * * *
@@ -233,8 +224,7 @@ CourseInfo](http://info.med.yale.edu:8080/).
 ####  Teaching to Extend the Classroom with Lotus LearningSpace  
 Phillip D. Long, Executive Director, TLT Center and the Institute for
 Technology Development, Seton Hall University  
-[Stephen Landry](landryst@shu.edu), Chief information Officer, Seton Hall
-University
+Stephen Landry, Chief information Officer, Seton Hall University
 
 Several years ago, a survey of faculty at Seton Hall indicated that the number
 two problem on campus was the lack of access to or problems with technology.
@@ -282,8 +272,7 @@ requires at least one full-time support person.  In addition, Lotus Notes is
 an enterprise-wide solution so the entire organization must adopt it for
 institutional workflow, e-mail, and bulletin boards.
 
-Please take a look at [Seton Hall's Lotus
-LearningSpace](http://www.cat.shu.edu/learningspace/) to see how they are
+Please take a look at Seton Hall's Lotus LearningSpace to see how they are
 using this product.  
 
 
@@ -338,7 +327,7 @@ electronic drop boxes).  Later, Peter Snow said that 52 classes used their
 system in Fall 1998 and 81 classes in Spring 1999.
 
 If you have questions about this system, please contact the speakers via
-[e-mail](mailto:classes@yale.edu).  
+e-mail.  
 
 
 * * *
@@ -395,8 +384,8 @@ Web Site Creator is written in Perl and javascript, but they are not likely to
 make it publicly available because it is very integrated into their server
 structure.
 
-Take a look at the [Harvard Instructional Computing Group
-site](http://icg.harvard.edu) to learn more about Web Site Creator.  
+Take a look at the Harvard Instructional Computing Group site to learn more
+about Web Site Creator.  
 
 
 * * *
@@ -404,8 +393,7 @@ site](http://icg.harvard.edu) to learn more about Web Site Creator.
 ####  Assessment  
 Phillip D. Long, Executive Director, TLT Center and the Institute for
 Technology Development, Seton Hall University  
-[Stephen Landry](landryst@shu.edu), Chief information Officer, Seton Hall
-University
+Stephen Landry, Chief information Officer, Seton Hall University
 
 Last year, Seton Hall conducted an evaluation to assess the impact of mobile
 computing on freshmen entering in Fall 1998 to look at their satisfaction with
@@ -437,11 +425,10 @@ undergraduate education as guides:
   6. high expectations
   7. respect diversity of talents and learning styles
 
-Seton Hall has established an [Institute for Technology
-Development](http://www.cat.shu.edu/itd). (ITD) [I wasn't able to access the
-ITD site on 9/1/99, but I did find a similar site for the [Institute for
-Technology Assessment](http://www.cat.shu.edu/Assessment/) .]  ITD offers a
-variety of services including:
+Seton Hall has established an Institute for Technology Development. (ITD) [I
+wasn't able to access the ITD site on 9/1/99, but I did find a similar site
+for the Institute for Technology Assessment .]  ITD offers a variety of
+services including:
 
   * technology assessment at the institutional level, including a complete set of assessment instruments, statistical analysis, profile research, national benchmarking, an assessment resource handbook, on-site or virtual consultation, and a visiting scholar lecture series on classroom assessment, institutional benefits, and a panel on practices.
   * Lotus LearningSpace faculty training and support
@@ -590,8 +577,7 @@ products?**
 
 Doris Peterson from **UMass** recommends a very good Web site by Dr. Bruce
 Landon (Douglas College, New Westminster, B.C.) for people interested in a
-[comparative analysis of course management
-tools](http://www.ctt.bc.ca/landonline/).  
+comparative analysis of course management tools.  
 
 
 As mentioned above, about 1.5 years ago **Yale's Faculty of Arts and
@@ -692,12 +678,12 @@ Two former members of the Tri-college community were at the workshop.  They
 came up and introduced themselves during the first break, and they asked me to
 pass along their greetings to their former colleagues.  They are:
 
-  * [Philip Fitz](mailto:pefitz@amherst.edu), Director of Information Technology, Amherst College
-  * [Thomas Warger](mailto:twarger@fivecolleges.edu), Assistant Coordinator for Information Services, Five Colleges, Inc.
+  * Philip Fitz, Director of Information Technology, Amherst College
+  * Thomas Warger, Assistant Coordinator for Information Services, Five Colleges, Inc.
 
   
   
   
-Information supplied by: [Cecelia Buchanan](mailto:cbuchana@haverford.edu)  
-Maintained by: [Cecelia Buchanan](mailto:cbuchana@haverford.edu)  
+Information supplied by: Cecelia Buchanan  
+Maintained by: Cecelia Buchanan  
 

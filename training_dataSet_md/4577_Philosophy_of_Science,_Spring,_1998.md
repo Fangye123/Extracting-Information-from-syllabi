@@ -198,17 +198,15 @@ Forinash: 941-2390 (Home: 897-5624)
 
   **Comments:**
 
-We have set up a page on the Web which enables you to [give us anonymous
-comments, suggestions, criticisms, or any other feedback on the
-class](http://macserver.ius.indiana.edu/humanities/philosophy/sets/X303J272/X303J272.html)
-which might help us to determine what we are doing right and where we could
-improve what we are doing in this course. We ask you to help us by using this
-as often as possible. This method of soliciting student evaluations of the
-class has, we think, a big advantage over the usual method (asking you at the
-end of term to fill out a questionnaire): you can let us know of problems
-while we still have time to correct them, and you can let us know what is
-working well so we can be sure to continue doing it. You will be asked for a
-user name and password before being given access to the page. We announced
-these to the class, but if you have forgotten them you should ask us or
-another student.
+We have set up a page on the Web which enables you to give us anonymous
+comments, suggestions, criticisms, or any other feedback on the class which
+might help us to determine what we are doing right and where we could improve
+what we are doing in this course. We ask you to help us by using this as often
+as possible. This method of soliciting student evaluations of the class has,
+we think, a big advantage over the usual method (asking you at the end of term
+to fill out a questionnaire): you can let us know of problems while we still
+have time to correct them, and you can let us know what is working well so we
+can be sure to continue doing it. You will be asked for a user name and
+password before being given access to the page. We announced these to the
+class, but if you have forgotten them you should ask us or another student.
 

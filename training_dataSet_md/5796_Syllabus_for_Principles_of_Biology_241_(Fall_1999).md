@@ -3,9 +3,8 @@
 ### Course Description Course Requirements Grading Policy Instructor
 Information Instructor Office Hours Lecture/Lab Schedule
 
-#### Contact [Dr. Steven Berg](mailto:sberg@vax2.winona.msus.edu) by email
-Return to [Biology Department](http://bio.winona.msus.edu) Homepage Return to
-the [Winona State University](http://www.winona.msus.edu) Homepage
+#### Contact Dr. Steven Berg by email Return to Biology Department Homepage
+Return to the Winona State University Homepage
 
   
   
@@ -23,8 +22,7 @@ the [Winona State University](http://www.winona.msus.edu) Homepage
   
   
 Instructor: Dr. Steven P. Berg Office: Pasteur 215G Telephone: 507-457-5277
-Email: [sberg@vax2.winona.msus.edu](mailto:sberg@vax2.winona.msus.edu) FAX:
-507-457-5681 Back to Top of Page  
+Email: sberg@vax2.winona.msus.edu FAX: 507-457-5681 Back to Top of Page  
   
   
   
@@ -126,8 +124,7 @@ Week| Date| Lecture Topic| Chapter| Quiz/Exam| Laboratory
 2| Tue 31 Aug| No Lecture| | | Scientific Investigations (p. 1)  
 2| Wed 1 Sept| Water| Chapter 3| |  
 2| Fri 3 Sept| Organic Chemistry| Chapter 4| Quiz 1  
-Covers Web Notes on "[Intro](../Lec-note/Intro-1.htm)", "[Chemistry](../Lec-
-note/Chem-1.htm)", "[Water](../Lec-note/Water.htm)" |  
+Covers Web Notes on "Intro", "Chemistry", "Water" |  
 3| Mon 6 Sept| Labor Day| No Class| No Class| No Labs  
 3| Tue 7 Sept| No Lecture| | | No Labs  
 3| Wed 8 Sept| Biochemistry| Chapter 5| |  
@@ -137,38 +134,35 @@ Biochemistry| Chapter 5| | Start Fast Plants (p. 189)
 4| Tue 14 Sept| No Lecture| | | Start Fast Plants (p. 189)  
 4| Wed 15 Sept| Biochemistry| Chapter 5| |  
 4| Fri 17 Sept| Metabolism| Chapter 6| Quiz 2  
-Covers "[Organic](../Lec-note/Organic.htm)" & "[Biochem](../Lec-
-note/Biochem.htm)"|  
+Covers "Organic" & "Biochem"|  
 5| Mon 20 Sept| Intro to Lab 2| | | Enzymes (p. 33)  
 5| Tue 21 Sept| No Lecture| | | Enzymes (p. 33)  
 5| Wed 22 Sept|  Cells| Chapter 7| |  
 5| Fri 24 Sept| Membranes| Chapter 8| Quiz 3  
-Covers [Metabolism](../Lec-note/Metabol.htm)  
-and [Cells](../Lec-note/Cells.htm)|  
+Covers Metabolism  
+and Cells|  
 6| Mon 27 Sept| Intro to Lab 3| Chapter 9| | Microscopes and Cells (p. 57)  
 6| Tue 28 Sept| No Lecture| | | Microscopes and Cells (p. 57)  
 6| Wed 29 Sept| Membranes| Chapter 8| |  
-6| Fri 1 Oct| Exam 2| | Exam 2 Covers [Biochemistry, [Metabolism, [Cells,
-[Membranes|  
+6| Fri 1 Oct| Exam 2| | Exam 2 Covers Biochemistry, Metabolism, Cells,
+Membranes|  
 7| Mon 4 Oct| Intro to Lab 4| Chapter 8| | Diffusion and Osmosis (p. 81)  
 7| Tue 5 Oct| No Lecture| | | Diffusion and Osmosis (p. 81)  
 7| Wed 6 Oct| Respiration| Chapter 9| |  
-7| Fri 8 Oct| Photosynthesis| Chapter 10| Quiz 4 Covers [Diffusion](../Lec-
-note/Membrane.htm#diffusion) & [Respiration](../Lec-note/Respira.htm)|  
+7| Fri 8 Oct| Photosynthesis| Chapter 10| Quiz 4 Covers Diffusion &
+Respiration|  
 8| Mon 11 Oct| Intro to MitochondriaLab| | | MitochondriaLab on the Web  
 8| Tue 12 Oct| Dawkins Lecture  
 7-8 p.m. Somsen 103| | | MitochondriaLab on the Web  
 8| Wed 13 Oct| Cell Communication| Chapter 11| |  
-8| Fri 15 Oct| Exam 3| | Exam 3 Covers [Diffusion](../Lec-
-note/Membrane.htm#diffusion), [Respiration](../Lec-note/Respira.htm) &
-[Photosynthesis](../Lec-note/Photosyn.htm)|  
+8| Fri 15 Oct| Exam 3| | Exam 3 Covers Diffusion, Respiration &
+Photosynthesis|  
 9| Mon 18 Oct| Mitosis| Chapter 12-13| | Lab Mid Term Exam Covers all labs to
 date  
 9| Tue 19 Oct| No Lecture| | | Lab Mid Term Exam Covers all labs to date  
 9| Wed 20 Oct| Meiosis| Chapter 14| |  
 9| Fri 22 Oct| Intro to FlyLab  
-Mendelian Genetics| | Quiz 5 Covers [Mitosis](../Lec-note/Mitosis.htm) &
-[Meiosis](../Lec-note/Meiosis.htm)|  
+Mendelian Genetics| | Quiz 5 Covers Mitosis & Meiosis|  
 10| Mon 25 Oct| SemiFinal Exam| | Semi Final Exam Covers all lectures through
 Wed the 20th of October| FlyLab on the Web  
 10| Tue 26 Oct| No Lecture| | | FlyLab on the Web  
@@ -194,9 +188,9 @@ Genes and DNA| Chapter 16| | Photosynthesis (p. 135)
 13| Tue 16 Nov| No Lecture| | | Photosynthesis (p. 135)  
 13| Wed 17 Nov| Transcription & Translation| Chapter 17| |  
 13 | Fri 19 Nov| Exam 4| Chapters 14, 15, 16| Exam 4 Covers  
-[Mendelian Genetics](../Lec-note/Mendel.htm)  
-[Chromosomes & Genes](../Lec-note/Chromos.htm)  
-[DNA & Genes](../Lec-note/DNA.htm)|  
+Mendelian Genetics  
+Chromosomes & Genes  
+DNA & Genes|  
 14| Mon 22 Nov| Intro to TranslationLab  
 Transcription & Translation| Chapter 17| | TranslationLab on the web  
 14| Tue 23 Nov| No Lecture| | | TranslationLab on the web  
@@ -209,33 +203,31 @@ Evolution| Chapter 22| | Hardy-Weinberg (p. 273)
 15| Fri 3 Dec| Population Genetics| Chapter 23| Quiz 7 Canceled!  
 Hurrah!|  
 16| Mon 6 Dec| Origin of Species| Chapter 24| | Lab Final, Covers  
-[FlyLab](../Labs/Lab6.htm), [Fast Plants](../Labs/Lab8A.htm),  
-[Mitosis & Meiosis](../Lec-note/Meiosis.htm),  
-[Photosynthesis](../Labs/Lab9-PS.htm),  
-[TranslationLab](../Labs/Lab10tln.htm),  
-[Hardy-Weinberg](../Labs/Lab11-HW.htm)  
+FlyLab, Fast Plants,  
+Mitosis & Meiosis,  
+Photosynthesis,  
+TranslationLab,  
+Hardy-Weinberg  
 16| Tue 7 Dec| No Lecture| | | Lab Final, Covers  
-[FlyLab, [Fast Plants,  
-[Mitosis & Meiosis,  
-[Photosynthesis,  
-[TranslationLab,  
-[Hardy-Weinberg  
+FlyLab, Fast Plants,  
+Mitosis & Meiosis,  
+Photosynthesis,  
+TranslationLab,  
+Hardy-Weinberg  
 16| Wed 8 Dec| Review| | |  
 16| Fri 10 Dec| Exam 5| | Exam 5, Covers  
-[Translation](../Lec-note/Prot-Syn.htm),  
-[Evolution](../Lec-note/Evolutn.htm),  
-[Population Genetics](../Lec-note/PopGen.htm), [Species](../Lec-
-note/Species.htm)|  
+Translation,  
+Evolution,  
+Population Genetics, Species|  
 17| Wed 15 Dec| Final Exam  
 8 a.m. in  
 Stark 103| | Final Exam, Covers  
-[Mendelian Genetics](../Lec-note/Mendel.htm)  
-[Chromosomes & Genes  
-[DNA & Genes  
-[Translation](../Lec-note/Prot-Syn.htm),  
-[Evolution](../Lec-note/Evolutn.htm),  
-[Population Genetics](../Lec-note/PopGen.htm), [Species](../Lec-
-note/Species.htm)|  
+Mendelian Genetics  
+Chromosomes & Genes  
+DNA & Genes  
+Translation,  
+Evolution,  
+Population Genetics, Species|  
 | | | | |  
 | | | | |  
   

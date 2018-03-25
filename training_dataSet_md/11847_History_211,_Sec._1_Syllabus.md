@@ -223,12 +223,12 @@ presentation and a minimum of grammar and usage problems.
 
 I have placed an outline of the lecture material for each chapter on reserve
 in the library, and it can be found on my web page at
-[http://www.uwsp.edu/history/faculty/FORET/hist211sec1.htm](http://www.uwsp.edu/history/faculty/FORET/hist211sec1.htm).
-Although we may deviate from the outline due to classroom discussion or
-unexpected absences on my part, in general I will cover the material in the
-order and manner in which it is listed in the outline. I encourage you to
-photocopy or print out the outline so that you can use it both in and out of
-class for studying the book and note taking.
+http://www.uwsp.edu/history/faculty/FORET/hist211sec1.htm. Although we may
+deviate from the outline due to classroom discussion or unexpected absences on
+my part, in general I will cover the material in the order and manner in which
+it is listed in the outline. I encourage you to photocopy or print out the
+outline so that you can use it both in and out of class for studying the book
+and note taking.
 
 I have organized lectures into "units" that are coterminous with but not
 identical to chapters in the textbook. I will reinforce some material from the
@@ -293,5 +293,5 @@ which will presumably serve as the basis for your essay.
 * * *
 
 |  
-[![](backled1.gif)](hist211sec1.htm)
+![](backled1.gif)
 

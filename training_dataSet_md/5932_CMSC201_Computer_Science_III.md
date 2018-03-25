@@ -9,7 +9,7 @@ Instructor: Sven Anderson | Class: MW 10:00-11:20 Albee 106
 ---|---  
 Office: Albee 304  | Lab: Tu: 3:00-4:30 Albee 100  
   
-E-mail: [ sanderso@bard.edu](mailto:sanderso@bard.edu) |  
+E-mail:  sanderso@bard.edu |  
   
 Office Hours: M 3-4:30, T 10-12, R 2-4 |  
   
@@ -104,7 +104,7 @@ see me before enrolling in this course.)
 ),  
 by Goodrich and Tamassia  
 
-  * This text is absolutely essential to the course. There is a related Web site at [ http://www.cs.brown.edu/courses/cs016/book/](http://www.cs.brown.edu/courses/cs016/book/)
+  * This text is absolutely essential to the course. There is a related Web site at  http://www.cs.brown.edu/courses/cs016/book/
 
 |  ![Data Structures and Algorithms in Java](./DScover.jpg)  
   
@@ -166,7 +166,7 @@ case of scholastic dishonesty.
 
 **On-Line Information:** Class announcements, assignments, solutions, labs,
 and helpful information will usually be available on the World Wide Web at at
-[inside.bard.edu/~sanderso/cmsc201](http://inside.bard.edu/~sanderso/cmsc201).
+inside.bard.edu/~sanderso/cmsc201.
 
 **Linux:** In order to work effectively you will need to become familiar with
 the Linux operating system.

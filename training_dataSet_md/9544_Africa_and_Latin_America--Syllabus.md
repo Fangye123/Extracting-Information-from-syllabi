@@ -3,8 +3,7 @@
 **AFRICA AND LATIN AMERICA  
 ** HON 292/492; POLS 292/492
 
-Dan Zirker
-[dzirker@msubillings.edu](dzirker@msubillings.edu)
+Dan Zirker                                 dzirker@msubillings.edu
 Spring, 2001
 
 OFFICE HOURS, SPRING SEMESTER
@@ -70,10 +69,10 @@ Library on reserve.**
 Emphasis will be placed upon your own efforts to immerse yourselves in primary
 cultural/news contacts.  An especially available source of such contacts is
 the Worldwide Web.  A number of newspaper and other news sources are readily
-available, including, for Sub-Saharan Africa, <http://allafrica.com/> and, for
-Latin America, <http://dir.yahoo.com/Regional/Regions/Latin_America/> . Both
-of these sites link to a number of other possibilities.  I will provide you
-with a number of other possible sites as the semester progresses.
+available, including, for Sub-Saharan Africa, http://allafrica.com/ and, for
+Latin America, http://dir.yahoo.com/Regional/Regions/Latin_America/ . Both of
+these sites link to a number of other possibilities.  I will provide you with
+a number of other possible sites as the semester progresses.
 
 You will be encouraged to do individual reading as part of the course
 curriculum: exams will feature "open-ended" questions, and the paper, to be
@@ -82,12 +81,11 @@ bibliography.  We will jointly establish a reading list, which I will post on
 the web.
 
 **As per requests in class, for a web site that has up-to-date info on the
-countries of the world,
-click[here](http://www.cia.gov/cia/publications/factbook/index.html) . I also
-recommend the _World Almanac_ for a brief synopsis of the history of each of
-the African and Latin American countries--if you are looking to jog your
-memory on a major event..   Of course, we will be delving far deeper into this
-subject with complete sources.**  
+countries of the world, clickhere . I also recommend the _World Almanac_ for a
+brief synopsis of the history of each of the African and Latin American
+countries--if you are looking to jog your memory on a major event..   Of
+course, we will be delving far deeper into this subject with complete
+sources.**  
 
 
 **Course grades will be determined according to the following formula:**
@@ -124,76 +122,71 @@ Jan. 17-19 | Course Overview and Introduction to Africa and Latin America
 Myths and Facts re: Sub-Saharan Africa | Bohannan and Curtin, Chapter 1, pp.
 6-15
 
-[INTRODUCTORY NOTES](AfLaIntroLecture.htm)
+INTRODUCTORY NOTES
 
-[Second Class--Democracy, Politics and the Myths of
-Africa](AfricaPoliticsLecture01a.htm)  
+Second Class--Democracy, Politics and the Myths of Africa  
   
 Jan. 22 | Understanding the Sub-Saharan African Parameters: Geography,
 Geology, and Climate | Bohannan and Curtin, Chapters 2 & 3, pp. 18-45
 
-[Notes--3rd Class](GeogGeolPeopleMaps.htm)  
+Notes--3rd Class  
   
 Jan. 24-Feb 2 | The Human Setting--Sub-Saharan African Institutions, Society,
 Art, Wildlife | Bohannan and Curtin, Chapters 4-9, pp. 50-125
 
 To see the first reposnes essays on the question, "What Qualifies
-Democracy?"\--Click [Here](FirstResponseEssays.htm)
+Democracy?"\--Click Here
 
-To see my comments on the slides, click [Here](African%20Slides01a.html)
+To see my comments on the slides, click Here
 
 To see live pictures of the South African national parks (at Africam.com),
-click [Here](http://www.africam.com)
+click Here
 
-To see class notes for Chapters 4-6, click
-[Here](Arts,%20Families,%20Land%20and%20Labor01a.html)
+To see class notes for Chapters 4-6, click Here
 
-To see class notes for Chapters 7-9, click
-[Here](African%20Politics,%20Trade%20and%20Religion.html)  
+To see class notes for Chapters 7-9, click Here  
   
 Feb. 5-12 | A Brief Overview of Sub-Saharan African History | Bohannan and
 Curtin, Chapters 12, 13, 14,  
 18, 19, 20; pp. 152-190; 230-269.
 
-To see the class notes, click [Here](African%20History%20Overview.html)  
+To see the class notes, click Here  
   
 Feb. 14-16 | The Congo | Winternitz, _East along the Equator_
 
-_To see discussion topics and questions,
-click[Here](East%20along%20the%20Equator.html)_  
+_To see discussion topics and questions, clickHere_  
   
 Feb. 19 | Presidents' Day--A Holiday | .  
 Feb. 21 | No Class--Preparation for the Exam | **To see the first STUDY GUIDE,
-click [HERE](AfLat%20Study%20Guide1.html)**  
+click HERE**  
 Feb. 23 | First Exam |  
 Feb. 26 | Discussion of the Exam | .  
 Feb. 28- March 2 | Tanzania | I am going to urge that students consult the
 African News Sources link (see below) and the Bohannan and Curtin text.  You
 may also look at my paper on Tanzania on my web page.  To get to it, click
-_[here](http://peace.martin.uidaho.edu/peace_journal/zirker2.html)._
+_here._
 
-To see the class notes, click [HERE](Tanzania01a.htm)  
+To see the class notes, click HERE  
   
-March 5-7 | South Africa |  To see the notes, click [Here](SouthAfrica1.html)  
+March 5-7 | South Africa |  To see the notes, click Here  
 March 9 | Quiz and Discussion | .Paper Topics Due  
 March 12-16 | SPRING BREAK | .  
 March 19-21 | Latin America--A brief Overview of Colonial History and Early
 Independence | Skidmore and Smith, Chapter 1, pp. 13-41
 
-To see the class notes for this, click [Here](LAColonialHist.html)  
+To see the class notes for this, click Here  
   
 March 23-26 | Latin America in Transformation | Skidmore and Smith, Chapter 2,
 pp. 42-67
 
-To see the class notes for this, click [Here](LAIndependencetoPresent.html)  
+To see the class notes for this, click Here  
   
 March 28-30 | Argentina...The Briefest of Overviews | Skidmore and Smith,
 Chapter 3, pp. 68-106
 
-To see the class notes for this, click [Here](LAArgentina.html)  
+To see the class notes for this, click Here  
   
-**April 2** | **NO CLASS--EXAM PREP** |  To see the Study Guide, click
-[Here](AfLat%20Study%20Guide2.html)  
+**April 2** | **NO CLASS--EXAM PREP** |  To see the Study Guide, click Here  
 **April 4** | **Second Exam** | .  
 April 4 |   **Exam** | .  
 **April 6** | **Discussion of the Exam** |  
@@ -204,22 +197,20 @@ April 16 | Discussion--The Drug Wars | .
 April 18-23 | Mexico...The Briefest of Overviews | Skidmore and Smith, Chapter
 7, pp. 217-258
 
-To see the class notes for Mexico, click [Here](LAMexico.html)  
+To see the class notes for Mexico, click Here  
   
 April 25 | Discussion | _One Hundred Years of Solitude_  
   |   | To see the Study Guide for material covered since the last exam, click
-[Here](AfLat%20Study%20Guide3.html)  
+Here  
 April 27 | University Day--No Classes | .  
 May 2 | Final Exam, 12:00-1:50 PM | .  
   
-Links:    [African news sources](http://allafrica.com/)  
- [Zirker Paper online--
-Tanzania](http://peace.martin.uidaho.edu/peace_journal/zirker2.html)
+Links:    African news sources  
+ Zirker Paper online--Tanzania
 
-[Zirker paper online--Agrarian Reform in
-Brazil](http://www.martin.uidaho.edu/publications/Journals/1996-1.htm)
+Zirker paper online--Agrarian Reform in Brazil
 
-To go to Dan Zirker's Home Page, click [Here](index.html)  
+To go to Dan Zirker's Home Page, click Here  
 
 
 WARNING:  This syllabus, and the course materials linked to it, are for use

@@ -9,8 +9,8 @@ _USF TELECOURSES_
 
 
 
-**[Midterm Review Sheet](AWWReview01.htm)  
-[Final Review Sheet](AWWReview02.htm) **
+**Midterm Review Sheet  
+Final Review Sheet **
 
 
 
@@ -27,36 +27,34 @@ Instructor: ** Ms. Anne Jeffrey
 **Office Location:** Ms. Jeffrey does not have an on campus office.  The best
 way to reach her is through email.
 
-**Email:[ ](mailto:ajeffrey@helios.acomp.usf.edu)
-**[ajeffrey@helios.acomp.usf.edu ](mailto:ajeffrey@helios.acomp.usf.edu) The
-best way to reach this instructor is by sending an email.  If you are unable
-to use email and need to reach the instructor, please contact Stephanie
-Gaskins, Coordinator for assistance at (813) 974-6194.  Adrienne McCain can
-also assist you at (813) 974-6192.
+**Email: **ajeffrey@helios.acomp.usf.edu  The best way to reach this
+instructor is by sending an email.  If you are unable to use email and need to
+reach the instructor, please contact Stephanie Gaskins, Coordinator for
+assistance at (813) 974-6194.  Adrienne McCain can also assist you at (813)
+974-6192.
 
 
 
 **Distance Learning Student Support Information:**  
 **Coordinator:** Stephanie Gaskins  
-**Email:**[sgaskins@admin.usf.edu](mailto:sgaskins@admin.usf.edu)  
+**Email:**sgaskins@admin.usf.edu  
 **Office Location:** SVC 1072 (map grid: D3)  
 **Office Hours:** Monday - Thursday 8:00 am -7:00 pm Friday 8:00 am -5:00pm  
 **Phone:** (813) 974-2996; 974-3063 ( 24 Hour Info Line)
 
-**Listserv:**[art4930@lists.acomp.usf.edu](mailto:art4930@lists.acomp.usf.edu)  
-Please type
-[joinart4930@lists.acomp.usf.edu](mailto:joinart4930@lists.acomp.usf.edu) in
-order to be included in the listserv for this class. The listserv lets you
-self-subscribe, thus allowing us better resources for contacting you with
-changes that may occur in the syllabus.
+**Listserv:**art4930@lists.acomp.usf.edu  
+Please type joinart4930@lists.acomp.usf.edu in order to be included in the
+listserv for this class. The listserv lets you self-subscribe, thus allowing
+us better resources for contacting you with changes that may occur in the
+syllabus.
 
 
 
 If you would like to join a study group so that you may meet with other
-students registered in your Telecourse, then please visit:[
-http://www.outreach.usf.edu/telecourses/forms/ouforms.htm](http://www.outreach.usf.edu/telecourses/forms/ouforms.htm)
-for a study group application and more information. Please fill out the form
-completely and return it to SVC 1072.
+students registered in your Telecourse, then please visit:
+http://www.outreach.usf.edu/telecourses/forms/ouforms.htm for a study group
+application and more information. Please fill out the form completely and
+return it to SVC 1072.
 
 * * *
 
@@ -78,7 +76,7 @@ Time Warner cable only. It will be shown on **Mondays and Fridays from 5:00 -
 
 **VIDEO RENTALS:** This Telecourse may be rented from RMI Media Productions by
 calling 1-800-745-5480. The cost to rent the videos is approximately $55.00.
-Visit their web site at <http://www.rmimedia.com/>
+Visit their web site at http://www.rmimedia.com/
 
 
 
@@ -105,7 +103,7 @@ available at the bookstore on campus. However, you may purchase them at the
 Bookcenter for USF on the corner of Fowler Ave. and McKinley Drive. Call
 977-3077 for additional information. Students may order the books on line
 through the Lakeland bookstore by going to the following website:
-**[**http://www.polk-usf.bkstr.com/**](http://www.polk-usf.bkstr.com/)
+****http://www.polk-usf.bkstr.com/**
 
 
 

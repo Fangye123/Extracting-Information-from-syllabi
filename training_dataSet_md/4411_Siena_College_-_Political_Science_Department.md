@@ -5,16 +5,16 @@
 
 
   1. Program Description
-  2. [Program Requirements](requirements.htm) (Major, Minor, Certificates)
+  2. Program Requirements (Major, Minor, Certificates)
   3. Faculty Members (Information about the members of the Political Science Department at Siena: Office location and phone number, office hours, direct e-mail access, HOME PAGES of some members, SYLLABI for some courses)
   4. Course Offerings (Organized by sub-field)
-  5. [Internship Opportunities](ftp://web:siena@siena.edu/acadprog/ps/int.html) (Washington Semester Program, Legislative Process, Public Service Studies)
-  6. [Washington Semester Program.](http://www.american.edu/other.depts/washsem_worldcaps/washsem.htm) Please contact[ Prof. Leon Halpert](mailto:Halpert@Siena.edu) (518/783-2373) for information about this program. 
-  7. [Careers for Political Science Majors](Careers.htm)
-  8. WEB RESOURCES:[On-line library catalogs](ftp://web:siena@siena.edu/acadprog/ps/library.html), Political Science professional organizations, Political Science departments, Web resources organized by political science sub-field)
-  9. [Membership in ICPSR](ftp://web:siena@siena.edu/acadprog/ps/sl/consortium.html)
-  10. [Pi Gamma Mu](http://www.sckans.edu/~pgm/home.html): International Social Science Honorary
-  11. [Current Issues in America Syllabus](Stars%20on%20Ice%20Syll.htm)
+  5. Internship Opportunities (Washington Semester Program, Legislative Process, Public Service Studies)
+  6. Washington Semester Program. Please contact Prof. Leon Halpert (518/783-2373) for information about this program. 
+  7. Careers for Political Science Majors
+  8. WEB RESOURCES:On-line library catalogs, Political Science professional organizations, Political Science departments, Web resources organized by political science sub-field)
+  9. Membership in ICPSR
+  10. Pi Gamma Mu: International Social Science Honorary
+  11. Current Issues in America Syllabus
 
 ## **Program Description**
 
@@ -63,31 +63,31 @@ an overall GPA of 2.90, with a 3.00 in Political Science.
 Here is where you find information about the members of our department.
 
   * Leonard Cutler, Ph.D.
-  * [Kate Langdon Forhan, Ph.D](http://www.siena.edu/forhan).
-  * [Leon Halpert, Ph.D. ](http://www.siena.edu/halpert/)
-  * [Matthew Lindstrom, Ph.D](http://www.siena.edu/lindstrom).
-  * [Salvatore Lombardo, Ph.D.](http://www.siena.edu/lombardo/main.htm)
+  * Kate Langdon Forhan, Ph.D.
+  * Leon Halpert, Ph.D. 
+  * Matthew Lindstrom, Ph.D.
+  * Salvatore Lombardo, Ph.D.
   * Euclid Rose, Ph.D.
-  * [Jean Stern, Ph.D.](http://www.siena.edu/stern/)
+  * Jean Stern, Ph.D.
 
 ## **Course Offerings**
 
-  * [Core Courses](core.htm)
-  * [American Politics](american.htm)
-  * [Comparative Politics](comparative.htm)
-  * [International Relations](internat.htm)
-  * [Internships](intern.htm)
-  * [Political Theory](theory.html)
-  * [Public Administration and Public Policy](policy.htm)
-  * [Public Law](law.htm)
+  * Core Courses
+  * American Politics
+  * Comparative Politics
+  * International Relations
+  * Internships
+  * Political Theory
+  * Public Administration and Public Policy
+  * Public Law
 
 ## **Web Resources**
 
 This section contains World Wide Web links to:
 
-  * [On-Line Library Catalogs](libraries.htm)
-  * [Colleges and Universities](http://dir.yahoo.com/Education/Higher_Education/Colleges_and_Universities/)
-  * [On-line Newspapers and Magazines](http://www.siena.edu/foundations/Papers.html)
+  * On-Line Library Catalogs
+  * Colleges and Universities
+  * On-line Newspapers and Magazines
 
 
 
@@ -95,10 +95,9 @@ This section contains World Wide Web links to:
 
 * * *
 
-This page is maintained by:[ Jean Stern](mailto:stern@siena.edu)  
+This page is maintained by: Jean Stern  
 This page last updated on: Thursday, September 06, 2001 |
 
-[![\[Siena's Home
-Page\]](http://www.siena.edu/graphics/go2home.gif)](http://www.siena.edu/)  
+![\[Siena's Home Page\]](http://www.siena.edu/graphics/go2home.gif)  
 ---|---
 

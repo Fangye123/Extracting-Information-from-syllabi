@@ -10,8 +10,7 @@ Office: Main 29
 Office Hours: Tuesday/Thursday 11 am or by appointment  
 Telephone: 450-5633  
 E-mail: jimb@mail.uca.edu  
-On-line Syllabus:
-[http://www.uca.edu/history/crusades.htm](http://www.uca.edu/divisions/academic/history/crusades.htm)
+On-line Syllabus: http://www.uca.edu/history/crusades.htm
 
 *
 
@@ -40,7 +39,7 @@ Reading Reflections = 50 points 2\. Graduate Students: Three Examinations @100
 Class Presentation/Lecture = 100 points  
 Reading Reflections = 50 points
 
-*Undergraduate students will prepare  a 10-15 page paper that studies a particular topic pertaining to the Crusades. Graduate students will prepare a 15-20 page review of the historical literature pertaining to a topic related to the Crusades. Note: all research papers must conform to the usages of journals like the _American Historical Review_. Useful for examples   is [University of  Chicago/Turabian](http://www.wisc.edu/writing/Handbook/DocChicago.html) style sheet. In no circumstances is the social science/parenthetical style acceptable. All topics **and** bibliography must be approved in advance with the instructor. This need for approval applies most especially to internet resources. 
+*Undergraduate students will prepare  a 10-15 page paper that studies a particular topic pertaining to the Crusades. Graduate students will prepare a 15-20 page review of the historical literature pertaining to a topic related to the Crusades. Note: all research papers must conform to the usages of journals like the _American Historical Review_. Useful for examples   is University of  Chicago/Turabian style sheet. In no circumstances is the social science/parenthetical style acceptable. All topics **and** bibliography must be approved in advance with the instructor. This need for approval applies most especially to internet resources. 
 
 In addition, all students are required to obtain an e-mail address. Reading
 reflections will be assigned by e-mail and in class in advance of the day on
@@ -60,15 +59,10 @@ Required Readings:
 1\. All Students: J. Riley-Smith, _The Crusades: A Short History_ (NewHaven:
 Yale University Press, 1987.  
     Internet Reading Assignments, as indicated below.Please note that the on-line version of this syllabus that contains hyperlinks to web assignments can be found on the History Department website (http://www.uca.edu/history/history.htm) or separately at: http://www.uca.edu/history/crusades.htm   
-For basic overview, see
-[Crusades](http://www.knight.org/advent/cathen/04543c.htm); other interesting
-on-line resources:  [Bibliography of  the Military
-Orders](http://orb.rhodes.edu/bibliographies/milorder.html) ;  [Chronology of
-the Crusades](http://www.wcslc.edu/pers_pages/m-markow/sscle/ssclechr.html) ;
-[Basic Books on the
-Crusades](http://www.wcslc.edu/pers_pages/m-markow/sscle/ssclebib.html) ;
-[Library of Iberian Resources Online](http://libro.uca.edu) ;  [Bibliography
-of the Crusades](http://orb.rhodes.edu/bibliographies/crusades.html)
+For basic overview, see  Crusades; other interesting on-line resources:
+Bibliography of  the Military Orders ;  Chronology of the Crusades ;  Basic
+Books on the Crusades ;  Library of Iberian Resources Online ;  Bibliography
+of the Crusades
 
 .2. Graduate Students: In addition to the general reading assignments,
 graduate students will read one additional monograph, chosen from the course
@@ -86,8 +80,8 @@ January 11: Orientation
 
 January 13: European Borders at the End of the First Millennium
 
-January 18: The Frontier of Medieval History; Charles J. Bishko, [The Frontier
-in Medieval History](http://www.uca.edu/aarhms/bishko.html)
+January 18: The Frontier of Medieval History; Charles J. Bishko, The Frontier
+in Medieval History
 
 January 20: The Ideas and Models of Crusading; RS, xxvii-xxx, 37-39
 
@@ -96,28 +90,24 @@ worlds: Sicily
 
 January 27: The Christian-Islamic Confrontation in Iberia
 
-Feburary 1: Urban II and the First Crusade: RS, 1-17;  [Speech at Council of
-Clermont (Fulcher)](http://www.fordham.edu/halsall/source/urban2-fulcher.html)
-;  [Clermont According to Robert the
-Monk](http://www.fordham.edu/halsall/source/urban2a.html)
+Feburary 1: Urban II and the First Crusade: RS, 1-17;  Speech at Council of
+Clermont (Fulcher) ;  Clermont According to Robert the Monk
 
-February 3: The Expeditions to the Orient: RS, 18-36;  [Attack Against the
-Jews of Mainz](http://www.fordham.edu/halsall/source/1096jews-mainz.html) ;
-[Anna Comnena on the
-Crusaders](http://www.fordham.edu/halsall/source/annacom1.html)
+February 3: The Expeditions to the Orient: RS, 18-36;  Attack Against the Jews
+of Mainz ;  Anna Comnena on the Crusaders
 
-February 8: The Conquest of the East: RS, 40-60;  [Fulk of Chartres on the
-Capture of Jerusalem](http://www.fordham.edu/halsall/source/fulk2.html)
+February 8: The Conquest of the East: RS, 40-60;  Fulk of Chartres on the
+Capture of Jerusalem
 
-February 10: The Organization of the Crusading States: RS, 61-69; [Latin Kings
-of  Jerusalem](http://www.fordham.edu/halsall/source/latinkings.html)
+February 10: The Organization of the Crusading States: RS, 61-69; Latin Kings
+of  Jerusalem
 
 February 15: Review
 
 February 17: First Examination
 
-February 22: The Second Crusade in the East; RS, 88-107;  [Summons to the
-Second Crusade](http://www.fordham.edu/halsall/source/eugene3-2cde.html)
+February 22: The Second Crusade in the East; RS, 88-107;  Summons to the
+Second Crusade
 
 February 24: The Second Crusade in Iberia and Eastern Europe; **Term Paper
 topics due with bibligraphy**
@@ -125,19 +115,16 @@ topics due with bibligraphy**
 February 29:  Religious warfare and the paradox of the Military Orders:the
 Knights/Hospitallers of St. John
 
-March 2: The Order of the Temple;  [Bernard of Clairvaux in Praise of the New
-Knighthood](http://orb.rhodes.edu/encyclop/religion/monastic/bernard.html)
-[Malcolm Barber on the
-Templars](http://orb.rhodes.edu/encyclop/religion/monastic/Templar.html)
+March 2: The Order of the Temple;  Bernard of Clairvaux in Praise of the New
+Knighthood  Malcolm Barber on the Templars
 
 March 7: Hattin and Alarcos: the crisis of the late twelfth century;RS, 69-87;
-[Roger of Hoveden on the Fall of
-Jerusalem](http://www.fordham.edu/halsall/source/hoveden1187.html)
+Roger of Hoveden on the Fall of Jerusalem
 
 March 9: The Third Crusade; RS, 109-120
 
-March 14: The Ransoming Orders: Trinitarians and Mercedarians; [Captivity in
-the Middle Ages](http://libro.uca.edu/rc/rc1.htm)
+March 14: The Ransoming Orders: Trinitarians and Mercedarians; Captivity in
+the Middle Ages
 
 March 16: The Mendicants and the idea of  mission toward Muslims and Jews
 
@@ -154,29 +141,23 @@ April 4: Review
 April 6: Second Examination
 
 April 11: Victory in Eastern Europe in the 13th Century;RS, 130-32161-64,
-212-15;  [The Teutonic
-Knights](http://orb.rhodes.edu/encyclop/religion/monastic/opsahl1.html)
+212-15;  The Teutonic Knights
 
 April 13: Cultural cohesion, cultural coercion and the consequences of a
 multi-cultural society
 
 April 18: The lure of Asia: Mendicants, Merchants and the Mongol EmpireRS,
-200-3;  [Marco Polo on the
-Tartars](http://www.fordham.edu/halsall/source/mpolo44-46.html)
+200-3;  Marco Polo on the Tartars
 
-April 20: Trade and Missions in Asia;  [John of Monte Corvino Reports from
-China](http://www.fordham.edu/halsall/source/corvino1.html)
+April 20: Trade and Missions in Asia;  John of Monte Corvino Reports from
+China
 
 April 25:  Catastrophe in Palestine and the later Crusades: 4th,5th, 6th and
-7th Crusades; RS, 121-30, 141-61;  [TheSack of
-Constantinople](http://www.fordham.edu/halsall/source/choniates1.html) ;
-[Summonsto the Fifth
-Crusade](http://www.fordham.edu/halsall/source/inn3-cdesummons.html) ;
-[Capture of  Louis IX](http://www.fordham.edu/halsall/source/makrisi.html)
+7th Crusades; RS, 121-30, 141-61;  TheSack of Constantinople ;  Summonsto the
+Fifth Crusade ;  Capture of  Louis IX
 
 April 27: Why did the eastern Crusades fail; what did they accomplish?.
-[Aymeric on Christian Problems in
-Palestine](http://www.fordham.edu/halsall/source/aymeric1164.html)
+Aymeric on Christian Problems in Palestine
 
 May 2:  The Legend and Legacy of the Crusades:
 

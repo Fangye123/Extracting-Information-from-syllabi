@@ -12,7 +12,7 @@ Office & Hours: MW 10-12 and F 10-11 and by appointment in 24 McNeill Hall.
 
 _Course Web site_ : http://www.simpson.edu/~steffen/news.html
 
-Email: [steffen@storm.simpson.edu](mailto:steffen@storm.simpson.edu)
+Email: steffen@storm.simpson.edu
 
 * * *
 
@@ -53,15 +53,15 @@ straight percentage basis (100-92%=A, 91-90%=A-, 89-88%=B+, 87-82%=B,
 
 > A variety of experiences in the course will be graded:
 
-  * **Quizzes** : Good reporters keep up with the news, which is something too many folks _don't_ do. You can do that by reading at least one major daily newspaper and watching the evening news. Additionally, the class Web site will provide links to many [major news sources](http://www.simpson.edu/~steffen/newsnews.html) that can be consulted at any time of the day or night. Whatever your news source, you can count on getting six pop news quizzes during the term -- including one on the first day of class -- to keep you on your toes. ( _60 weighted points of course grade._ ) To help you, students will be asked to regularly update the class on current issues in the news and current issues in journalism. Click [here](newsevents.html) for more details.
+  * **Quizzes** : Good reporters keep up with the news, which is something too many folks _don't_ do. You can do that by reading at least one major daily newspaper and watching the evening news. Additionally, the class Web site will provide links to many major news sources that can be consulted at any time of the day or night. Whatever your news source, you can count on getting six pop news quizzes during the term -- including one on the first day of class -- to keep you on your toes. ( _60 weighted points of course grade._ ) To help you, students will be asked to regularly update the class on current issues in the news and current issues in journalism. Click here for more details.
   * **Assignments** : You'll complete a number of 10-point assignments both in and out of class to help you sharpen your skills. Some call on you to demonstrate your writing abilities. Others will ask you to analyze the work of others. ( _90 weighted points of course grade._ ) 
   * **Story Ideas** : Armed with your knowledge of what constitutes news and your eagle-eye powers of observation of the world around you, you will sniff out news in the Simpson College community and submit story ideas to the instructor each Wednesday. Tips picked up for publication in The Simpsonian will qualify for extra credit. ( _30 weighted points of course grade._ ) 
   * **Examinations** : There will be two 30-item multiple-choice examinations during the term. The exams will serve as a check on your reading and lecture comprehension. ( _120 points of course grade._ ) 
   * **Stories** : The typical Newswriting and Reporting course covers six stories during the term. This will give you a good taste of the basic work that journalists do on a daily basis. ( _300 points of course grade._ ) 
   * **Readings:** There are three primary texts in Beginning Newswriting and Reporting this term. Reading assignments - and questions to help you guide your reading to get the important points and aid in class discussions - will be given in plenty of time to complete them. The texts are:
-    * The main text is [_Writing and Reporting the News: A Coaching Method_](http://communication.wadsworth.com/authors/rich9808/) (3/e) by Carole Rich.
-    * Students also are required to purchase and _use_ the _[Associated Press Stylebook and Briefing on Media Law](http://www.apbookstore.com/apstyle/20apstylador.html)_ , which is considered the industry bible when it comes to questions of journalistic style. Reading assignments - and questions to help you guide your reading to get the important points - will be given in plenty of time to complete them. 
-    * Finally, you should purchase and _use_ [_When Words Collide: A Media Writer's Guide to Grammar and Style_](http://communication.wadsworth.com/kessler_wwc/), by Lauren Kessler and Duncan McDonald, for help on these critical skills of importance to professional communicators. 
+    * The main text is _Writing and Reporting the News: A Coaching Method_ (3/e) by Carole Rich.
+    * Students also are required to purchase and _use_ the _Associated Press Stylebook and Briefing on Media Law_ , which is considered the industry bible when it comes to questions of journalistic style. Reading assignments - and questions to help you guide your reading to get the important points - will be given in plenty of time to complete them. 
+    * Finally, you should purchase and _use_ _When Words Collide: A Media Writer's Guide to Grammar and Style_, by Lauren Kessler and Duncan McDonald, for help on these critical skills of importance to professional communicators. 
 
 ###
 
@@ -96,13 +96,12 @@ earned on the story and will not be eligible for a rewrite.
 ### Can I cheat?
 
 > Honesty is a must in this course. The College's policies regarding academic
-dishonesty are outlined on Page 66-67 of the 2001-03 [Simpson
-College](http://www.simpson.edu/) General Catalog. With regard to this course,
-acts of dishonesty include, but are not necessarily limited to, cheating on
-examinations, plagiarizing material from other sources, making up material or
-sources of information, and/or submitting work for this course originally
-completed for other courses without the permissions of the instructors
-involved.
+dishonesty are outlined on Page 66-67 of the 2001-03 Simpson College General
+Catalog. With regard to this course, acts of dishonesty include, but are not
+necessarily limited to, cheating on examinations, plagiarizing material from
+other sources, making up material or sources of information, and/or submitting
+work for this course originally completed for other courses without the
+permissions of the instructors involved.
 
 >
 
@@ -149,9 +148,8 @@ Writing for the Broadcast News Media | Ch. 16
   
 * * *
 
-[![](Grey-info.gif)](newssyll.html)[![](Grey-
-new.gif)](newsnews.html)[![](Grey-links.gif)](nwslinks.html)[![](Grey-
-home.gif)](news.html)[![](Grey-help.gif)](mailto:steffen@storm.simpson.edu)
+![](Grey-info.gif)![](Grey-new.gif)![](Grey-links.gif)![](Grey-
+home.gif)![](Grey-help.gif)
 
 * * *
 

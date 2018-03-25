@@ -95,54 +95,42 @@ Group B: Mellendorf, Dutta, Muller, Clark, Calahan, Lewis, Jones
   
 **_1999 Participants and Teaching Demonstration Titles_**  
 {Click on small image to display a larger image}  
-  **Russell Clark** (Science, Engineering  & Technology)  | [![Russell
-Clark](image16.jpg)](http://www.svsu.edu/~dboehm/Clark.html) | rclark@svsu.edu
-| x. 1672  
+  **Russell Clark** (Science, Engineering  & Technology)  | ![Russell
+Clark](image16.jpg) | rclark@svsu.edu | x. 1672  
 ---|---|---|---  
 **Ranjana Dutta** (Arts & Behavioral Sciences)  
-"Attachment of Emotional Development in Early Childhood" | [![Ranjana
-Dutta](image05.jpg)](http://www.svsu.edu/~dboehm/Dutta.html) | rdutta@svsu.edu
-| x. 7043  
+"Attachment of Emotional Development in Early Childhood" | ![Ranjana
+Dutta](image05.jpg) | rdutta@svsu.edu | x. 7043  
 **Susan Hillman** (Education)  
-"Circles: Circumference and Area" | [![Susan
-Hillman](image10.jpg)](http://www.svsu.edu/~dboehm/Hillman.html) |
+"Circles: Circumference and Area" | ![Susan Hillman](image10.jpg) |
 shillman@svsu.edu | x. 7788  
 **Barbara Jones** (Education)  
-"Accommodation for Special Education Students" | [![Barbara
-Jones](image23.jpg)](http://www.svsu.edu/~dboehm/Jones.html) | bjjo@svsu.edu |
-x. 4666  
+"Accommodation for Special Education Students" | ![Barbara Jones](image23.jpg)
+| bjjo@svsu.edu | x. 4666  
 **Suzanne Keep** (Nursing & Allied Health)  
-"Community Asset Based Development" | [![Suzanne
-Keep](image31.jpg)](http://www.svsu.edu/~dboehm/Keep.html) | skeep@svsu.edu |
-x. 7760  
+"Community Asset Based Development" | ![Suzanne Keep](image31.jpg) |
+skeep@svsu.edu | x. 7760  
 **Brian Lewis** (Arts & Behavioral Sciences)  
-"Using E-Mail in the Classroom" | [![Brian
-Lewis](lewis.jpg)](http://www.svsu.edu/~dboehm/Lewis.html) |
+"Using E-Mail in the Classroom" | ![Brian Lewis](lewis.jpg) |
 lewisbr4@pilot.msu.edu | x.  
 **Scott Mellendorf** (Library)  
-"Using the Internet for Research" | [![Scott
-Mellendorf](image04.jpg)](http://www.svsu.edu/~dboehm/Mellendorf.html) |
+"Using the Internet for Research" | ![Scott Mellendorf](image04.jpg) |
 mel@svsu.edu | x. 7052  
 **Ginny Muller** (Education)  
-"Cooperative Learning:  A Strategy" | [![Ginny
-Muller](image15.jpg)](http://www.svsu.edu/~dboehm/Muller.html) |
+"Cooperative Learning:  A Strategy" | ![Ginny Muller](image15.jpg) |
 muller@svsu.edu | x. 7783  
 **Rodney Nowosielski** (Arts & Behavioral Sciences)  
-"The Dot" | [![](image25.jpg)](http://www.svsu.edu/~dboehm/Nowosielski.html) |
-rd_nova@hotmail.com | x. 7752  
+"The Dot" | ![](image25.jpg) | rd_nova@hotmail.com | x. 7752  
 **Pamela Ross** (Education)  
-"Race, Class & Gender Issues in Education:  Course Overview" | [![Pamela
-Ross](image20.jpg)](http://www.svsu.edu/~dboehm/Ross.html) | plross@svsu.edu |
-x. 7629  
+"Race, Class & Gender Issues in Education:  Course Overview" | ![Pamela
+Ross](image20.jpg) | plross@svsu.edu | x. 7629  
 **Dennis Wignall** (Arts & Behavioral Sciences)  
-"Normative Behavior Patterns" | [![Dennis
-Wignall](image07.jpg)](http://www.svsu.edu/~dboehm/Wignall.html) |
+"Normative Behavior Patterns" | ![Dennis Wignall](image07.jpg) |
 dwignall@svsu.edu | x. 4638  
   
 * * *
 
   
-[Return to Faculty Teaching/Learning Institute Home
-Page](http://www.svsu.edu/~dboehm/FTLI.html)  
+Return to Faculty Teaching/Learning Institute Home Page  
 
 

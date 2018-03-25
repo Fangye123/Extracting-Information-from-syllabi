@@ -204,14 +204,14 @@ Course outline & calendar
 
 Digital libraries: An overview
 
-[Ongoing projects and major issues](http://www.dli2.nsf.gov/)
+Ongoing projects and major issues
 
 Course requirements
 
 Readings:
 
-  * [ Difference between automated and conventional libraries](http://www.dlib.org/dlib/july00/arms/07arms.html)
-  * [A brief introduction to copyright law](http://www.acm.org/ubiquity/views/j_gibbs_1.html) 
+  * Difference between automated and conventional libraries
+  * A brief introduction to copyright law 
 
 * * *
 
@@ -226,7 +226,7 @@ Initial setup of Apache (project server environment)
 Readings:
 
   * Chapter 24 (DDN) 
-  * [Server installation guide by SLIS UNIX support staff](http://ella.slis.indiana.edu/~jfieber/teaching/slis-l576-2000f/apache/) 
+  * Server installation guide by SLIS UNIX support staff 
 
 Students should begin to form project groups. The following week each group
 sets up a project server environment in a UNIX machine maintained at SLIS.
@@ -387,8 +387,7 @@ Project work presentation. Project Part 3 due.
 
 * * *
 
-` This page is being served by [Javed M](http://xtasy.lib.indiana.edu) **|**
-Update? Please [email me](mailto:jm@indiana.edu)`
+` This page is being served by Javed M **|** Update? Please email me`
 
 * * *
 

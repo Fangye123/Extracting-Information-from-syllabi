@@ -2,17 +2,17 @@
 
 ## **ENG 520: HISTORY OF THE ENGLISH LANGUAGE**
 
-**[STUDENTS](students) **
+**STUDENTS **
 
-  * Professor: [Dr. Fidel Fajardo-Acosta](http://mockingbird.creighton.edu/english/fajardo/)
+  * Professor: Dr. Fidel Fajardo-Acosta
   * Course: ENG 520, Call # 1871 
   * Class Time: Thursdays, 3:30-6:00 PM 
   * Classroom: BA 217
   * Office Hours: **** Tuesdays & Thursdays 12:30-1:30
   * Office: Hitchcock Communication Arts Building (CA) Room 304A 
   * Office Telephone: (402) 280-2522 
-  * [e-mail: fajardo@creighton.edu](mailto:%20fajardo@creighton.edu)
-  * WWW Home Page: <http://mockingbird.creighton.edu/english/fajardo/>
+  * e-mail: fajardo@creighton.edu
+  * WWW Home Page: http://mockingbird.creighton.edu/english/fajardo/
 
 
 
@@ -150,17 +150,17 @@ following formula:
 
 ****
 
-  * **Introduction.[Origins of Language and Writing](../origins.htm). [Overview of the English Language.](../eng-overview.htm)**
+  * **Introduction.Origins of Language and Writing. Overview of the English Language.**
 
 **Thu Jan 18**
 
-  * **Topic:[Phonology](../phonology.htm) and [Writing](../writing.htm) **
+  * **Topic:Phonology and Writing **
   * **Reading assignment: Chapter 1 (Baugh & Cable), and handout** **materials**  
 __
 
 **Thu Jan 25**
 
-  * **Topic:[Language Families of the World ](../langfam.htm)and the [Indo-European Languages](../indoeur.htm)**
+  * **Topic:Language Families of the World and the Indo-European Languages**
   * **Reading assignment:** **Chapter 2 (Baugh & Cable), and handout materials**  
 
 **Thu Feb 01**
@@ -170,12 +170,12 @@ __
 
 **Thu Feb 08**
 
-  * **Topic:[From Indo-European to Germanic](../indoeur.htm#cie_to_gmc). [Germanic England: Historical Outline of Anglo-Saxon Period](http://mockingbird.creighton.edu/english/fajardo/teaching/eng340/anglosax.htm).**
+  * **Topic:From Indo-European to Germanic. Germanic England: Historical Outline of Anglo-Saxon Period.**
   * **Reading assignment:** **Chapter 3 (Baugh & Cable)**
 
 **Thu Feb 15**
 
-  * **Topic:[The Old English (Anglo-Saxon) Language](../oldeng.htm)**
+  * **Topic:The Old English (Anglo-Saxon) Language**
   * **Reading assignment:** **Chapter 3 (Baugh & Cable)**
   * **Student Presentation: The Culture and Literature of the Anglo-Saxons (Group #1)**
   * **ONE-PAGE TERM PROJECT PROPOSAL DUE.**  
@@ -183,7 +183,7 @@ __
 
 **Thu Feb 22**
 
-  * **Topic:[The Old English (Anglo-Saxon) Language](../oldeng.htm)**
+  * **Topic:The Old English (Anglo-Saxon) Language**
   * **Reading assignment:** **Chapter 3 (Baugh & Cable)**
 
 **Thu Mar 01**
@@ -196,21 +196,21 @@ __
 
 **Thu Mar 15**
 
-  * **Topic: The Middle English Period:[Historical Outline](../mideng.htm), the [Middle English Language](../mideng2.htm)**
+  * **Topic: The Middle English Period:Historical Outline, the Middle English Language**
   * **Reading assignment:** **Chapter 5, 6, 7 (Baugh & Cable)**
   * **Student Presentation: Culture and Literature in the Middle English Period (Group #2)**
 
 **Thu Mar 22**
 
-  * **Topic:** **[Middle English Language](../mideng2.htm)**
+  * **Topic:** **Middle English Language**
   * **Reading assignment:** **Chapter 5, 6, 7 (Baugh & Cable)**
-  * **Topic:[The Renaissance and Early Modern English](../emenglish.htm)**
+  * **Topic:The Renaissance and Early Modern English**
   * **Reading assignment:** **Chapter 8 (Baugh & Cable)** **  
 **
 
 **Thu Mar 29**
 
-  * **Topic:[The Renaissance and Early Modern English](../emenglish.htm), [English from the 17th to the 20th Century](../emenglish.htm) & The [English Language in America](../amenglish.htm)**
+  * **Topic:The Renaissance and Early Modern English, English from the 17th to the 20th Century & The English Language in America**
   * **Reading assignment:** **Chapters 8, 9, 10, 11 (Baugh & Cable)**
   * **Student Presentation: Culture and Literature of the English Renaissance (Group #3)**
   * **Student Presentation: English Grammars, Dictionaries, and the OED (Group #4)**
@@ -237,9 +237,9 @@ __
   * **ALL PROJECTS DUE IN FINAL FORM**
   * **COURSE EVALUATIONS (bring #2 pencil)**
 
-[Miscellaneous (Links, etc.)](../misc.htm)
+Miscellaneous (Links, etc.)
 
 
 
-| [Home](http://mockingbird.creighton.edu/english/fajardo/) |
+| Home |
 

@@ -1,6 +1,6 @@
-![](/images/buttons/spcr.gif)[![up](/images/buttons/up.gif)](/dept/cme) |
-[![Search](/images/buttons/srch.gif)](/www/search.cgi)![](/images/buttons/spcr.gif)[![Feedback](/images/buttons/fdback.gif)](/www/feed.cgi)![](/images/buttons/spcr.gif)[![\[help\]](/images/buttons/help.gif)](/www/help.cgi)
-|  [![CPMCnet](/images/buttons/cpmc.gif)](/)  
+![](/images/buttons/spcr.gif)![up](/images/buttons/up.gif) |
+![Search](/images/buttons/srch.gif)![](/images/buttons/spcr.gif)![Feedback](/images/buttons/fdback.gif)![](/images/buttons/spcr.gif)![\[help\]](/images/buttons/help.gif)
+|  ![CPMCnet](/images/buttons/cpmc.gif)  
 ---|---|---  
   
 
@@ -446,8 +446,8 @@ Renal Biopsy in Medical Diseases of the Kidneys (Path-PM6)
 
   
 
-| [ Printable  
-Form**_ |  | [ Online  
-Form**_](/dept/cme/online36.html)  
+|  Printable  
+Form**_ |  |  Online  
+Form**_  
   
 

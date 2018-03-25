@@ -137,10 +137,10 @@ and Dissertations_ by Kate L. Turabian. Copies are available in the Bookstore.
   
 
 A copy of this syllabus is posted on Professor Pearson's web page at
-<http://www.siue.edu/~spearso.> Necessary changes in the schedule and
-additional materials may be posted there through the semester, but they will
-also be distributed in class. Each student is responsible for information,
-handouts, and assignments made in class.
+http://www.siue.edu/~spearso. Necessary changes in the schedule and additional
+materials may be posted there through the semester, but they will also be
+distributed in class. Each student is responsible for information, handouts,
+and assignments made in class.
 
   
   
@@ -439,6 +439,5 @@ Assigned reading: **EWC** , Conclusion
 
 **FINAL EXAMINATION
 
-![](wan2.jpg) [**Now relax and visit the Beijing Museum of
-Art**](http://china-window.com/beijing/tour/museum/wanshou/index.html)
+![](wan2.jpg) **Now relax and visit the Beijing Museum of Art**
 

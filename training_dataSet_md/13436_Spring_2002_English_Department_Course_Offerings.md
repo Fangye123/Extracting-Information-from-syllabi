@@ -1,8 +1,6 @@
 * * *
 
-[Courses](index.html) | [Programs](../programs/index.html) |
-[People](../people/index.html) | [News and Events](../news.html) | [Contact
-Us](../contact.html) | [Home](../index.html) | [Links](../links.html)
+Courses | Programs | People | News and Events | Contact Us | Home | Links
 
 * * *
 
@@ -190,11 +188,11 @@ Section B: TU 9:30-10:45--A. Phillips
 
 **ENGL 355 Literature for Children**  
 Section C: TU 12:30-1:45--P. Nel  
-    Enrollment by permission only: priority is given to junior and senior Elementary Education majors; spaces gladly given to non-Education majors if available. Arranged by genre, this section of Literature for Children is designed to introduce major genres in and conventions of literature for children, and to develop critical skills for reading, thinking and writing about children's literature and culture. Components of the course include discussion of picture books, folk and fairy tales, myths, poetry, fantasy, realism, and animal stories, among others. For a representative syllabus and book-list see, please see <<http://www.ksu.edu/english/nelp/choose.courses.html>>. Fulfills General Education requirement.
+    Enrollment by permission only: priority is given to junior and senior Elementary Education majors; spaces gladly given to non-Education majors if available. Arranged by genre, this section of Literature for Children is designed to introduce major genres in and conventions of literature for children, and to develop critical skills for reading, thinking and writing about children's literature and culture. Components of the course include discussion of picture books, folk and fairy tales, myths, poetry, fantasy, realism, and animal stories, among others. For a representative syllabus and book-list see, please see <http://www.ksu.edu/english/nelp/choose.courses.html>. Fulfills General Education requirement.
 
 **ENGL 355 Literature for Children**  
 Section D: 3:30-4:45--N. Wood  
-    Enrollment by permission only: priority is given to junior and senior Elementary Education majors; spaces gladly given to non-Education majors if available. We will explore characteristic genres of children's literature such as picture books, poetry, folk tales, realistic fiction, adventure stories, and historical fiction in a high-technology environment. We will also compose a web-page, contributing to the site _Children's Literature at K-State_. Evaluation of writing and discussion through tests, web project, and other technological means. For more details see web-site  <<http://www.ksu.edu/english/naomiw/>>. English 355 is a General Education class.
+    Enrollment by permission only: priority is given to junior and senior Elementary Education majors; spaces gladly given to non-Education majors if available. We will explore characteristic genres of children's literature such as picture books, poetry, folk tales, realistic fiction, adventure stories, and historical fiction in a high-technology environment. We will also compose a web-page, contributing to the site _Children's Literature at K-State_. Evaluation of writing and discussion through tests, web project, and other technological means. For more details see web-site  <http://www.ksu.edu/english/naomiw/>. English 355 is a General Education class.
 
 **ENGL 361 British Survey 1 (English Majors Only)**  
 Section A: MWF 9:30--L. Warren  
@@ -239,7 +237,7 @@ Section K: TU 2:05-3:20; Section L: TU 3:30-4:45--Staff
 
 **ENGL 440 H. Potter's Library**  
 Section A: TU 2:05-3:20--P. Nel  
-    Harry Potter's Library: J. K. Rowling, Texts and Contexts. This class will examine the Harry Potter phenomenon by reading the novels themselves (the fifth may be released in Spring 2002), the two "Harry Potter schoolbooks," and the works of Rowling's antecedents, influences and contemporaries. We may also watch the film (to be released in November 2001) and consult selected secondary sources, such as book-length studies by Elizabeth Schafer, Philip Nel, and others; or articles by Joan Acocella, Kimbra Wilder Gish, Pico Iyer, Alison Lurie, Polly Shulman and A.O. Scott, and Jack Zipes. In this class, education will not be a passive experience: I expect discussion, debate, and exchanges of ideas. This requires that you not only be present but that you be an active presence. For more information, please see <<http://www.ksu.edu/english/nelp/engl.s02/440.html>>.
+    Harry Potter's Library: J. K. Rowling, Texts and Contexts. This class will examine the Harry Potter phenomenon by reading the novels themselves (the fifth may be released in Spring 2002), the two "Harry Potter schoolbooks," and the works of Rowling's antecedents, influences and contemporaries. We may also watch the film (to be released in November 2001) and consult selected secondary sources, such as book-length studies by Elizabeth Schafer, Philip Nel, and others; or articles by Joan Acocella, Kimbra Wilder Gish, Pico Iyer, Alison Lurie, Polly Shulman and A.O. Scott, and Jack Zipes. In this class, education will not be a passive experience: I expect discussion, debate, and exchanges of ideas. This requires that you not only be present but that you be an active presence. For more information, please see <http://www.ksu.edu/english/nelp/engl.s02/440.html>.
 
 **ENGL 450 Literature, Literacy and Social Justice**  
 Section A: MWF 1:30--T. Deans  
@@ -387,22 +385,16 @@ Section A: By Appointment--G. Eiselein
 
 * * *
 
-[Courses](index.html) | [Programs](../programs/index.html) |
-[People](../people/index.html) | [News and Events](../news.html) | [Contact
-Us](../contact.html) | [Home](../index.html) | [Links](../links.html)
+Courses | Programs | People | News and Events | Contact Us | Home | Links
 
 * * *
 
-[Kansas State University](http://www.ksu.edu/):
-[Search](http://www.ksu.edu/search/) | [What's
-New](http://www.ksu.edu/aboutuni/new/) |
-[Help](http://www.ksu.edu/aboutuni/help/) |
-[Comments](http://www.ksu.edu/aboutuni/comment-form.cgi)
+Kansas State University: Search | What's New | Help | Comments
 
 This page was last updated on 22 October 2001.
 
 Other pages may have been updated more recently.
 
 Copyright (C) 2000-01 Kansas State University's Department of English. Please
-read the [Disclaimer](../disclaimer.html).
+read the Disclaimer.
 

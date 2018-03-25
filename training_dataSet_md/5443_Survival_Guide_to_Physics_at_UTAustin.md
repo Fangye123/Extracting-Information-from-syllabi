@@ -83,13 +83,12 @@ everyone credit anyway), so you don't really even have to go to a seminar if
 you don't want to. We suggest that you do go to a few seminars (at least the
 colloquium) each week, even if they're not the one you registered for.
 
-Two seminars worth registering for are the 398T course ([Supervised
-Teaching](http://www.ph.utexas.edu/~riley/398Tsyl.html), which you'll have to
-take at some point your first year here) and the Technical Seminar (taught
-under 392T). These require more work than the other seminars: 398T requires
-attendance and participation, but again, you have to take it anyway, and
-you'll meet people in it; the Technical Seminar requires attendance, but you
-get a letter grade (an A could be nicer than a CR to you).
+Two seminars worth registering for are the 398T course (Supervised Teaching,
+which you'll have to take at some point your first year here) and the
+Technical Seminar (taught under 392T). These require more work than the other
+seminars: 398T requires attendance and participation, but again, you have to
+take it anyway, and you'll meet people in it; the Technical Seminar requires
+attendance, but you get a letter grade (an A could be nicer than a CR to you).
 
 Good luck getting past Udagawa if a surge in your adrenaline level has
 compelled you to sign up for three meaty courses. In fact he's right - you
@@ -113,7 +112,7 @@ you have your own classes to worry about. The only way to make the best of
 this situation without shortchanging either yourself, your students, or the
 department, is to keep a firm perspective and plan your duties ahead. Oh yeah,
 the document that spells out your duties as a Teaching Assistant here at UT is
-the [Manual for TAs & AIs](http://zippy.ph.utexas.edu/~rcorrado/TAmanual/).
+the Manual for TAs & AIs.
 
 Some helpful practices:
 
@@ -230,9 +229,8 @@ Approved Advanced Courses
 395 Atomic&Molecular; Physics | 395K Nonlinear Optics and Lasers  
 396K Quantum Field Theory I | 396L Quantum Field Theory II  
   
-The online [Course
-Catalog](http://www.utexas.edu/student/registrar/schedules/fall/fr-
-contents.html) has a list of the currently offered advanced classes.
+The online Course Catalog has a list of the currently offered advanced
+classes.
 
 Note that 381M, Mathematical Methods I, is neither a core class nor an
 advanced class. Well, it just so happens that it is taught as part of the
@@ -321,12 +319,11 @@ Goldstein's book hasn't yet been defeated as the classic text for this course,
 although it is now out of date. Landau and Lifshitz has been used as the
 assigned text in some recent courses. It's terse, but is a good reference for
 the basics, and has many worked-out problems. Expect to see non-standard texts
-assigned for this course, such as the homegrown book by [Richard
-Matzner](http://godel.ph.utexas.edu/Members/richard/welcome.html) and [Larry
-Shepley](http://godel.ph.utexas.edu/Members/larry/welcome.html), which is a
-quite reasonable text, or a book which is more up-to-date on developments in
-integrable systems and chaos, such as Tabor's _Integrability and Chaos in
-Dynamical Systems_ , which is good, but riddled with typos and other errors.
+assigned for this course, such as the homegrown book by Richard Matzner and
+Larry Shepley, which is a quite reasonable text, or a book which is more up-
+to-date on developments in integrable systems and chaos, such as Tabor's
+_Integrability and Chaos in Dynamical Systems_ , which is good, but riddled
+with typos and other errors.
 
 **Recommendations:** Try to take Classical Mechanics from Morrison if at all
 possible. This means take it this semester, if you can. In general, avoid
@@ -376,8 +373,7 @@ them we recommend Fischler, Fitzpatrick, and Udagawa.
 There is room for surprise here. Typically, you should prepare to spend your
 nights and weekends with Dr. J. D. Jackson during your tenure in this course,
 but Fitzpatrick covers a bit more reasonable set of material, so you will
-spend your nights and weekends with his [course notes
-](http://farside.ph.utexas.edu/~rfitzp/teaching.html). The "standardized"
+spend your nights and weekends with his course notes . The "standardized"
 syllabus omits chapters 2-5 of Jackson (the material on the static Maxwell
 equations), but Fitzpatrick manages to treat the subject matter in a
 relativistically motivated manner, covering subjects usually left to a second
@@ -450,20 +446,20 @@ of the others who we'd expect to see teaching a graduate course in the near
 future. We've concentrated on their classroom teaching, which is not
 necessarily indicative of their abilities as mentors.
 
-**[Herbert Berk](http://hagar.ph.utexas.edu/ifs/personalpages/berk.html):**
-Previous writeups on Berk in this Guide have been extremely negative, as in
-"[He] assumes students already know the material, and probably isn't willing
-to slow down any...avoid at all costs," amongst other rather direct
-statements. Such criticism, however, couldn't go unoticed for long and he is
-apparently quite aware of these statements. Interestingly enough, students in
-other departments seem to hold him in high regard for his teaching ("the best
-Professor of Physics I ever had," "I am an aerospace engineering graduate
-student, and I learned a great deal in Prof. Berk's class"), one must decide
-for oneself whether or not this means that physics students are just a sad lot
-that must be whipped into shape, or if we're spoiled by having extremely good
-teachers amongst our faculty, or if it means something else entirely. Recent
-students have reported that the coverage and grading was quite reasonable and
-that, at least in retrospect, Berk's course was pretty good.
+**Herbert Berk:** Previous writeups on Berk in this Guide have been extremely
+negative, as in "[He] assumes students already know the material, and probably
+isn't willing to slow down any...avoid at all costs," amongst other rather
+direct statements. Such criticism, however, couldn't go unoticed for long and
+he is apparently quite aware of these statements. Interestingly enough,
+students in other departments seem to hold him in high regard for his teaching
+("the best Professor of Physics I ever had," "I am an aerospace engineering
+graduate student, and I learned a great deal in Prof. Berk's class"), one must
+decide for oneself whether or not this means that physics students are just a
+sad lot that must be whipped into shape, or if we're spoiled by having
+extremely good teachers amongst our faculty, or if it means something else
+entirely. Recent students have reported that the coverage and grading was
+quite reasonable and that, at least in retrospect, Berk's course was pretty
+good.
 
 **Arno Bohm:** His Quantum Mechanics textbook does a good job unifying theory
 and experiment by presenting many experimental results. Unfortunately, Bohm
@@ -481,13 +477,12 @@ of his tests. His Advanced Mathematical Methods classes are particularly worth
 taking, though don't expect to see much in the way of physical applications,
 these are math courses for the physicist.
 
-**[Matthew Choptuik](http://wwwrel.ph.utexas.edu/Members/matt/welcome.html):**
-According to students in his Computational Physics class, Choptuik is great:
-"outstanding and a cool guy." Expect that he will try to get a lot of work out
-of you during the semester, but it will be relevant material and you'll learn
-by it all. Given his numerical bent, we might expect to see some numerical
-assignments in his Relativity class, so beware if you consider yourself a
-computer illiterate.
+**Matthew Choptuik:** According to students in his Computational Physics
+class, Choptuik is great: "outstanding and a cool guy." Expect that he will
+try to get a lot of work out of you during the semester, but it will be
+relevant material and you'll learn by it all. Given his numerical bent, we
+might expect to see some numerical assignments in his Relativity class, so
+beware if you consider yourself a computer illiterate.
 
 **Duane Dicus:** Occasionally clumsy on the blackboard (he's not that bad)
 when he's trying to do calculations in detail, but overall a _very_ good
@@ -495,40 +490,37 @@ instructor. His particle physics course is excellent, when it is actually
 being taught. His quantum course is pretty good too. Seems to grade around a
 pretty wide B+, which can be good or bad depending on your perspective.
 
-**[William
-Drummond](http://hagar.ph.utexas.edu/ifs/personalpages/drummond.html):** To
-directly quote a student who took one of his Classical Mechanics courses,
-"Drummond is a very friendly guy." He is eager to answer questions and prefers
-teaching through discussion, rather than lectures. This has, in his recent
-Classical Mechanics classes, lead to strong complaints about a lack of
-interest and lack of preparation on Drummond's part. His problem sets and
-exams tend to be easy, to the point that one must get extremely good raw
-scores to obtain a satisfactory grade in the course. Sometimes the exams are
-take-homes, which can be nice, but you probably will never figure out the
-grading policy. Unfortunately, if you can't put up without having a syllabus
-or a well-defined exam schedule, you will not be at all happy.
+**William Drummond:** To directly quote a student who took one of his
+Classical Mechanics courses,  "Drummond is a very friendly guy." He is eager
+to answer questions and prefers teaching through discussion, rather than
+lectures. This has, in his recent Classical Mechanics classes, lead to strong
+complaints about a lack of interest and lack of preparation on Drummond's
+part. His problem sets and exams tend to be easy, to the point that one must
+get extremely good raw scores to obtain a satisfactory grade in the course.
+Sometimes the exams are take-homes, which can be nice, but you probably will
+never figure out the grading policy. Unfortunately, if you can't put up
+without having a syllabus or a well-defined exam schedule, you will not be at
+all happy.
 
-**[Willy Fischler](http://www.ph.utexas.edu/~weintech/fischler.html):** His
-courses are well-prepared and interesting. His teaching manner is rather
-straightforward and if you ask lots of questions he'll answer in good detail,
-so keep asking questions. His lectures are also rather entertaining, so you'll
-stay awake to hear the subtle details of the subject that he'll keep pointing
-out.
+**Willy Fischler:** His courses are well-prepared and interesting. His
+teaching manner is rather straightforward and if you ask lots of questions
+he'll answer in good detail, so keep asking questions. His lectures are also
+rather entertaining, so you'll stay awake to hear the subtle details of the
+subject that he'll keep pointing out.
 
-**[Richard Fitzpatrick](http://farside.ph.utexas.edu/~rfitzp):** An articulate
-lecturer who cares enough about his teaching that he TeXs up a well-thought
-set of lecture notes for every course that he teaches. He is friendly and
-approachable, and assigns a very reasonable amount of homework. His tests are
-often ridiculously long, but he is fair in his grading, so this isn't really a
-problem. Unfortunately, he's taken this as an excuse for having midterms
-outside of class, usually at quite unreasonable hours, e.g., Friday night from
-8-10 PM.
+**Richard Fitzpatrick:** An articulate lecturer who cares enough about his
+teaching that he TeXs up a well-thought set of lecture notes for every course
+that he teaches. He is friendly and approachable, and assigns a very
+reasonable amount of homework. His tests are often ridiculously long, but he
+is fair in his grading, so this isn't really a problem. Unfortunately, he's
+taken this as an excuse for having midterms outside of class, usually at quite
+unreasonable hours, e.g., Friday night from 8-10 PM.
 
-**[Austin Gleeson](http://www.ph.utexas.edu/~gleeson/home.html):** Our beloved
-ex-chairman is articulate and cares about his teaching. However, this doesn't
-stop him from being occasionally not well prepared and disorganized. He does
-offer insight and illustrations of the course material, and is also a nice
-guy, but you will see very beefy problem sets.
+**Austin Gleeson:** Our beloved ex-chairman is articulate and cares about his
+teaching. However, this doesn't stop him from being occasionally not well
+prepared and disorganized. He does offer insight and illustrations of the
+course material, and is also a nice guy, but you will see very beefy problem
+sets.
 
 **Thomas Griffy:** Griffy's E &M courses are simply excellent. He is well
 prepared and has a lot of insight to offer. Also, expect to see a lot of
@@ -536,90 +528,78 @@ discussion of practical applications of the general principles covered in his
 courses. How to beat police radar with aluminum foil and using the Hubble
 Space Telescope as a spy satellite were two recent topics.
 
-**[Wendell
-Horton](http://hagar.ph.utexas.edu/ifs/personalpages/horton.html):** He is a
-very knowledgeable individual and, although he does seem to try, is not a very
-effective teacher. The main complaint is that he fails to emphasize the
-important details of the material he's covering, so many students fail to gain
-very much insight into the material covered, unless they already know the
-subject well, in which case his lectures can, in fact, contribute greatly to
-their knowledge. He occasionally lapses into bouts of reading directly from
-Jackson, so even the more motivated students can quickly lose interest. Those
-who are highly self-motivated and can teach themselves may be better suited to
-this style of instruction. Horton is very approachable, however, and welcomes
-students' questions.
+**Wendell Horton:** He is a very knowledgeable individual and, although he
+does seem to try, is not a very effective teacher. The main complaint is that
+he fails to emphasize the important details of the material he's covering, so
+many students fail to gain very much insight into the material covered, unless
+they already know the subject well, in which case his lectures can, in fact,
+contribute greatly to their knowledge. He occasionally lapses into bouts of
+reading directly from Jackson, so even the more motivated students can quickly
+lose interest. Those who are highly self-motivated and can teach themselves
+may be better suited to this style of instruction. Horton is very
+approachable, however, and welcomes students' questions.
 
-**[Richard
-Hazeltine](http://hagar.ph.utexas.edu/ifs/personalpages/hazeltine.html):**
-Take anything you can from Hazeltine. He's articulate and just plain sharp. In
-the past few years he has taught only undergraduate and graduate plasma
-physics.
+**Richard Hazeltine:** Take anything you can from Hazeltine. He's articulate
+and just plain sharp. In the past few years he has taught only undergraduate
+and graduate plasma physics.
 
-**[Vadim
-Kaplunovsky](http://www.ph.utexas.edu/~elenac/theory_group/people/faculty/kaplunovsky.html):**
-An extremely rigorous and demanding professor who has crawled through the
-muddy details of every imaginable facet of physics and expects the same of
-students. Reports of 20 hours per weekly assignment are common; he teaches a
-tough class, but you will learn something by it all. His Quantum Mechanics II
-course is extremely well prepared and shouldn't be missed. If you feel up to
-it, sign up, but the grades are not free.
+**Vadim Kaplunovsky:** An extremely rigorous and demanding professor who has
+crawled through the muddy details of every imaginable facet of physics and
+expects the same of students. Reports of 20 hours per weekly assignment are
+common; he teaches a tough class, but you will learn something by it all. His
+Quantum Mechanics II course is extremely well prepared and shouldn't be
+missed. If you feel up to it, sign up, but the grades are not free.
 
-**[Michael Marder](http://chaos.ph.utexas.edu/~marder/home.html):** Marder's
-most recently taught the year-long Condensed Matter sequence. He does not give
-out a take-home any more but replaces it instead with a very reasonable in-
-class midterm and final (grades based on 60% HW, 20% mid-term, 20% final). His
-homework can be a bit time consuming, but is quite interesting. One has to
-expect some computational work as well. He hands out copies of his (not yet
-finished) book which he follows pretty much. He emphasizes the meaning of the
-physics and refers to the details in the handouts rather than putting it all
-on the board. He is very approachable by e-mail and during office hours. Lots
-of people think that he's an excellent teacher and enjoy his courses.
+**Michael Marder:** Marder's most recently taught the year-long Condensed
+Matter sequence. He does not give out a take-home any more but replaces it
+instead with a very reasonable in-class midterm and final (grades based on 60%
+HW, 20% mid-term, 20% final). His homework can be a bit time consuming, but is
+quite interesting. One has to expect some computational work as well. He hands
+out copies of his (not yet finished) book which he follows pretty much. He
+emphasizes the meaning of the physics and refers to the details in the
+handouts rather than putting it all on the board. He is very approachable by
+e-mail and during office hours. Lots of people think that he's an excellent
+teacher and enjoy his courses.
 
-**[Richard
-Matzner](http://godel.ph.utexas.edu/Members/richard/welcome.html):** He is not
-at all an inspiring lecturer, so attendance to his classes tends to drop off
-sharply long before the end of the semester. His demeanor outside of class is
-much better, but this does not make up for lectures which can consist of
-copying formulae incorrectly out of Jackson. Beware of Jackson problems on his
-E &M midterms.
+**Richard Matzner:** He is not at all an inspiring lecturer, so attendance to
+his classes tends to drop off sharply long before the end of the semester. His
+demeanor outside of class is much better, but this does not make up for
+lectures which can consist of copying formulae incorrectly out of Jackson.
+Beware of Jackson problems on his E &M midterms.
 
-**[Philip
-Morrison](http://hagar.ph.utexas.edu/ifs/personalpages/morrison.html):**
-Excellent teacher in the sense of presenting information in an interesting and
-thorough manner. If you have questions you would like answered outside of
-class, limit your visits to office hours and make sure your questions are good
-ones. Expect lots of homework and unsolvable problems on his midterms. The
-homework makes an important contribution to the class, however, so if the
-grader is not returning assignments on time, complain bitterly. If the grader
-loses an assignment, kill that grader.
+**Philip Morrison:** Excellent teacher in the sense of presenting information
+in an interesting and thorough manner. If you have questions you would like
+answered outside of class, limit your visits to office hours and make sure
+your questions are good ones. Expect lots of homework and unsolvable problems
+on his midterms. The homework makes an important contribution to the class,
+however, so if the grader is not returning assignments on time, complain
+bitterly. If the grader loses an assignment, kill that grader.
 
 **Qian Niu:** Very well organized, thorough and interesting, but his tests
 could be a little more relevant to the course being taught. Niu is also
 helpful to students outside of class and welcomes office visits.
 
-**[Linda Reichl](http://www.ph.utexas.edu/~smwww/reichl.html):** Has written
-her own book for Statistical Mechanics and will obviously use it, but
-unfortunately more or less reads from it. There is almost none of the
-additional insight which usually comes from the professor's own lectures.
-Beware of her all or nothing grading approach. Concentrate on solving problems
-completely on her exams, since the partial credit you'll get is negligible.
-Also expect that there will be several results you will almost need to have
-memorized to get right. Watch out if you're off by factors of two and memorize
-the precise definition of every critical exponent. The key is to work on the
-problems in her book that she didn't assign as homework and to follow the
-methods she presents. Prefers to give her midterms (typically 3 of them)
-outside normal class hours, occasionally at night.
+**Linda Reichl:** Has written her own book for Statistical Mechanics and will
+obviously use it, but unfortunately more or less reads from it. There is
+almost none of the additional insight which usually comes from the professor's
+own lectures. Beware of her all or nothing grading approach. Concentrate on
+solving problems completely on her exams, since the partial credit you'll get
+is negligible. Also expect that there will be several results you will almost
+need to have memorized to get right. Watch out if you're off by factors of two
+and memorize the precise definition of every critical exponent. The key is to
+work on the problems in her book that she didn't assign as homework and to
+follow the methods she presents. Prefers to give her midterms (typically 3 of
+them) outside normal class hours, occasionally at night.
 
 **William Schieve:** An infuriatingly aloof lecturer ("the [eigenvalue for a
 spin-1/2 system] is 3/2 hbar, I looked it up"); be prepared for some
-frustration with the
-[hieroglyphics](http://www.ph.utexas.edu/~smwww/schieve.gif) he writes on the
-board and the way he calls every Greek letter "sigma." It is clear that he
-understands subjects like classical and statistical mechanics well, but he
-tends to be less than effective in conveying that knowledge. Expect that what
-he says aloud will be more accurate than anything he writes on the board. The
-word on the street is "avoid if at all possible, and even when not possible."
-Some people think that "he's not that bad," so who are we to complain?
+frustration with the hieroglyphics he writes on the board and the way he calls
+every Greek letter "sigma." It is clear that he understands subjects like
+classical and statistical mechanics well, but he tends to be less than
+effective in conveying that knowledge. Expect that what he says aloud will be
+more accurate than anything he writes on the board. The word on the street is
+"avoid if at all possible, and even when not possible." Some people think that
+"he's not that bad," so who are we to complain?
 
 **George Sudarshan:** A prominent professor who knows much, but seems to
 harbor some disdain for chalk and slate, preferring instead to engage in
@@ -634,14 +614,13 @@ and relevant. Some dislike the monotonic oratorical style, but this is
 something you have to decide for yourself. His fluid mechanics course is well
 recommended.
 
-**[Toshi Tajima](http://www.ph.utexas.edu/dept/research/tajima/):** Recently,
-he's taught a reasonable graduate course in remedial Mathematical Methods and
-a more-or-less dubious course in Computational Physics. According to some, his
-lectures in his Statistical Mechanics course this Spring seems to be well
-organized, but don't expect satisfactory answers to your questions. According
-to others, he in poorly prepared and egotistical, "I would rather eat ground
-glass than spend one more day in the same room as him." "I can't believe a
-word that man says!"
+**Toshi Tajima:** Recently, he's taught a reasonable graduate course in
+remedial Mathematical Methods and a more-or-less dubious course in
+Computational Physics. According to some, his lectures in his Statistical
+Mechanics course this Spring seems to be well organized, but don't expect
+satisfactory answers to your questions. According to others, he in poorly
+prepared and egotistical, "I would rather eat ground glass than spend one more
+day in the same room as him." "I can't believe a word that man says!"
 
 **Takeshi Udagawa:** A fastidious lecturer who sets a reasonable work-load. He
 occasionally gets mired in 10 minute searches for signs that didn't work out
@@ -665,8 +644,7 @@ pages (for which links are provided below). We'll try to give you the scoop on
 your chances of getting into (and later funded by) the groups that we're most
 familiar with.
 
-**[Center for Nonlinear Dynamics](http://chaos.ph.utexas.edu/), Prof. Harry
-Swinney, Director**
+**Center for Nonlinear Dynamics, Prof. Harry Swinney, Director**
 
 This is the nationwide #1 group in the specialty of Nonlinear Dynamics/Chaos,
 according to the 1996 _America's Best Graduate Schools_ , published by US News
@@ -679,9 +657,8 @@ become GRAs around the time that they qualify. Funding in theory is, as a
 general symptom, not so promising, but there are currently some theorists
 hired as GRAs, so it's not out of the question.
 
-**[Center for Particle Physics](http://www.hep.utexas.edu/cpp.htm) and **[High
-Energy Physics Laboratory](http://www.hep.utexas.edu/)** , [Prof. Roy
-Schwitters](http://www.ph.utexas.edu/~schwitte/Schwitters.htm), Director**
+**Center for Particle Physics and **High Energy Physics Laboratory** , Prof.
+Roy Schwitters, Director**
 
 The Center for Particle Physics has shifted its focus recently, from being a
 purely theoretical group to one with a significant experimental component, in
@@ -692,8 +669,7 @@ experimentalists here have money, funding here for theorists is not
 particularly good, being completely non-existent for several of its members. A
 majority of the students here remain on the career TA track.
 
-**[Center for Relativity](http://godel.ph.utexas.edu/), [Prof. Richard
-Matzner](http://godel.ph.utexas.edu/embers/richard/welcome.html), Director**
+**Center for Relativity, Prof. Richard Matzner, Director**
 
 Imminent retirements will concentrate the research activities of this group on
 purely computational areas; it's likely that any future faculty hirings will
@@ -702,35 +678,27 @@ funding for the current computational projects is very reasonable. Students
 should still, however, expect to TA for several years before a chance at a GRA
 arises.
 
-**[Femtosecond Spectroscopy](http://www.ph.utexas.edu/dept/research/downer/),
-[Prof. Mike Downer](http://www.ph.utexas.edu/dept/research/downer/),
-Director**
+**Femtosecond Spectroscopy, Prof. Mike Downer, Director**
 
-A rapidly growing group with good [GRA funding
-prospects](http://www.ph.utexas.edu/dept/research/downer/grants.html). Browse
-their web pages for more info. Currently provides one of the only stable
-prospects for doing experimental plasma physics in our department, albeit with
-table-top devices rather than tokamaks.
+A rapidly growing group with good GRA funding prospects. Browse their web
+pages for more info. Currently provides one of the only stable prospects for
+doing experimental plasma physics in our department, albeit with table-top
+devices rather than tokamaks.
 
-**[Fusion Research Center](http://www.frc.utexas.edu/), [Prof. Kenneth
-Gentle](http://storm.ph.utexas.edu/dept/faculty-list.html#gentle), Director**
+**Fusion Research Center, Prof. Kenneth Gentle, Director**
 
 The current crop of students up there don't seem to want to tell us much about
-the FRC, but you can look at the [Research Opportunities in the
-FRC](http://www.frc.utexas.edu/Research.html) web page. If you find out what
-the story is, please let us know.
+the FRC, but you can look at the Research Opportunities in the FRC web page.
+If you find out what the story is, please let us know.
 
-**[Gas-Surface Dynamics Group, Prof. Greg O.
-Sitz](http://www.ph.utexas.edu/~gositz/home.html), Director**
+**Gas-Surface Dynamics Group, Prof. Greg O. Sitz, Director**
 
 This small group does some nice surface physics and probably could use some
 students. Funding is probably also possible and we've heard that "Greg Sitz is
 just about the best advisor a student could have."
 
-**[Ilya Prigogine Center for Statistical
-Mechanics](http://www.ph.utexas.edu/~smwww/), [Prof. Ilya
-Prigogine](http://www.ph.utexas.edu/~smwww/ip.html), Director, [Prof. Linda
-Reichl](http://www.ph.utexas.edu/~smwww/reichl.html), Acting Director**
+**Ilya Prigogine Center for Statistical Mechanics, Prof. Ilya Prigogine,
+Director, Prof. Linda Reichl, Acting Director**
 
 A small group with close to a full complement of students, but there are
 probably some opportunities here. Funding is available, in many cases only
@@ -739,10 +707,7 @@ qualify. Despite the name, they don't do just Stat. Mech. There are faculty
 working in several areas of theoretical quantum chaos, but also others working
 on projects less worthy of note.
 
-**[Institute for Fusion Studies](http://hagar.ph.utexas.edu/ifs/), [Prof.
-Richard
-Hazeltine](http://hagar.ph.utexas.edu/ifs/personalpages/hazeltine.html),
-Director**
+**Institute for Fusion Studies, Prof. Richard Hazeltine, Director**
 
 This group is occupied with the theoretical study of plasma physics and
 associated fluid dynamics. A strong component of this is in computational
@@ -750,9 +715,7 @@ physics. They tend to be quite selective in accepting students, but are
 currently well funded; almost all students are supported once they've
 qualified. The IFS currently has several openings for students.
 
-**[Laser Cooling and
-Trapping](http://www.ph.utexas.edu/dept/research/heinzen/), Prof. Daniel J.
-Heinzen, Director**
+**Laser Cooling and Trapping, Prof. Daniel J. Heinzen, Director**
 
 The Heinzen group is a hard working, well funded group that is curently doing
 some fascinating experiments in the field of quantum control and ultracold
@@ -761,16 +724,14 @@ condensate machines in the world. The students in the lab say that the
 research is exciting, but you had better expect to work between forty and
 sixty hours a week if you are considering joining the group.
 
-**[Molecular Structure Investigation by Electron Diffraction and
-Spectroscopy](http://www.ph.utexas.edu/dept/research/fink/), Prof. Manfred
-Fink, Director**
+**Molecular Structure Investigation by Electron Diffraction and Spectroscopy,
+Prof. Manfred Fink, Director**
 
 There are opportunities to work on several extremely interesting projects
 here. Funding opportunities are currently excellent and Manfred is very
 involved with and accessible to his students.
 
-**[Nonlinear Laser Spectroscopy](http://www.ph.utexas.edu/~laser), Prof. John
-Keto, Director**
+**Nonlinear Laser Spectroscopy, Prof. John Keto, Director**
 
 There are two graduate research assistantships available to start immediately.
 These positions are in the nonlinear Raman lab, two-photon excitation and
@@ -786,14 +747,13 @@ students take to graduate but does give them tremendous hands-on experience,
 something that recent graduates that went into the semiconductor industry have
 found helpful.
 
-**[Quantum Optics Group](http://www.ph.utexas.edu/~quantopt/), Prof. Mark
-Raizen, Director**
+**Quantum Optics Group, Prof. Mark Raizen, Director**
 
 A full group, but one who's always looking for more good students. Funding is
 very promising and the experiments done here are amazing, check their web
 pages and visit their lab for more information.
 
-**[Relativistic Heavy Ion Physics (RHIP)](http://www.rhip.utexas.edu/)**
+**Relativistic Heavy Ion Physics (RHIP)**
 
 We have no idea what goes on in this group. Maybe you can get some idea from
 their web pages, whenever they're completed. If you are a student who knows
@@ -806,15 +766,13 @@ Director**
 Well funded and we expect that there is room for new students, here or with
 another of the electron microscopists in the department.
 
-**[Surface Physics/Thin Film Magnetism
-Research](http://www.ph.utexas.edu/dept/research/surfacephys.html), Prof.
-James Erskine, Director**
+**Surface Physics/Thin Film Magnetism Research, Prof. James Erskine,
+Director**
 
 All of the students here are qualified and, with only one exeption, supported
 by GRAs.
 
-**[Theory Group](http://zippy.ph.utexas.edu), [Prof. Steven
-Weinberg](http://www.ph.utexas.edu/~weintech/weinberg.html), Director**
+**Theory Group, Prof. Steven Weinberg, Director**
 
 Since there is a certain amount of prestige associated with this bunch, it is
 probably the toughest nut to crack. The group is also relatively saturated
@@ -822,18 +780,16 @@ with students. Support is currently provided to all students who have
 qualified. There are no guarantees that it will help, but prospective students
 should register as early as their first year for whatever these guys are
 teaching, especially since courses in field theory and strings aren't offered
-every semester. Going to their
-[seminars](http://zippy.ph.utexas.edu/schedule.html) and [brown bag
-talks](http://zippy.ph.utexas.edu/schedule.html) is a good way to find out
-what they're doing and to be seen. These statments apply to all research
-groups, but we were urged to reiterate these points here.
+every semester. Going to their seminars and brown bag talks is a good way to
+find out what they're doing and to be seen. These statments apply to all
+research groups, but we were urged to reiterate these points here.
 
 * * *
 
 ## How to Contribute to this Guide
 
-This web page is maintained by _[Richard A. Corrado
-(rcorrado@zippy.ph.utexas.edu)](mailto:rcorrado@zippy.ph.utexas.edu)_. Please
-direct all contributions, comments, complaints, etc. to him. All contributions
-will be kept in the strictest confidence.
+This web page is maintained by _Richard A. Corrado
+(rcorrado@zippy.ph.utexas.edu)_. Please direct all contributions, comments,
+complaints, etc. to him. All contributions will be kept in the strictest
+confidence.
 

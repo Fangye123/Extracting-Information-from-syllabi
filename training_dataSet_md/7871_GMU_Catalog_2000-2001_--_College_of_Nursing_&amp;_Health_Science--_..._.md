@@ -1,7 +1,7 @@
-[![George Mason University 2000-2001 Catalog](catlogo.gif)](toc.html) |
+![George Mason University 2000-2001 Catalog](catlogo.gif) |
 
-[Catalog Index](toc.html)  
-[Course Descriptions](courses.html)
+Catalog Index  
+Course Descriptions
 
 **Search the 2000-2001 Catalog:**  
   
@@ -113,8 +113,8 @@ desire to be full-time students must complete all prerequisite general
 education requirements by the end of the fall semester.
 
 Students must earn a C or better in psychology (6); sociology or anthropology
-(3); [BIOL](biol.html) 124-125 (8); [BIOL](biol.html) 246 and 306 (4); and
-science (chemistry, biology, physics) (3-4).
+(3); BIOL 124-125 (8); BIOL 246 and 306 (4); and science (chemistry, biology,
+physics) (3-4).
 
 Admission to the nursing program is competitive. It is based on a minimum
 cumulative GPA of 3.000 in the 42-44 credits of general education (wherever
@@ -133,8 +133,8 @@ students desiring to be full-time students in the spring semester must submit
 an application by November 15. Part-time LPN students are admitted in the fall
 and spring semesters.
 
-Permission to register for [NURS](nurs.html) 330, 331, 332, and 333 requires
-prior acceptance into junior standing in nursing.
+Permission to register for NURS 330, 331, 332, and 333 requires prior
+acceptance into junior standing in nursing.
 
 Full-time nursing requires carrying a heavy schedule; therefore, outside
 obligations should be limited to ensure success.
@@ -153,8 +153,7 @@ requirements for the B.S.N. are as follows.
 
 **15**  
   
-> [ENGL](engl.html) 101, 302 (three credits of humanities are a prerequisite
-to [ENGL](engl.html) 302)
+> ENGL 101, 302 (three credits of humanities are a prerequisite to ENGL 302)
 
 |
 
@@ -166,7 +165,7 @@ to [ENGL](engl.html) 302)
 
 3  
   
-> Humanities (three credits must be from [PHIL](phil.html) 151 or 309)
+> Humanities (three credits must be from PHIL 151 or 309)
 
 |
 
@@ -180,8 +179,7 @@ to [ENGL](engl.html) 302)
 
 |  
   
-> Literature (at 200 level or above, does not include [ENGL](engl.html) 101,
-302)
+> Literature (at 200 level or above, does not include ENGL 101, 302)
 
 |  
   
@@ -200,7 +198,7 @@ Social and behavioral sciences** |
 
 3  
   
-> Psychology ([PSYC](psyc.html) 100 and 211)
+> Psychology (PSYC 100 and 211)
 
 |
 
@@ -221,26 +219,25 @@ Natural sciences and mathematics** |
 
 3-4  
   
-> [BIOL](biol.html) 124,125
+> BIOL 124,125
 
 |
 
 8  
   
-> Microbiology ([BIOL](biol.html) 246 and 306)
+> Microbiology (BIOL 246 and 306)
 
 |
 
 4  
   
-> Statistics ([STAT](stat.html) 250, [PSYC](psyc.html) 300, [DESC](desc.html)
-200, or [SOCI](soci.html) 221)
+> Statistics (STAT 250, PSYC 300, DESC 200, or SOCI 221)
 
 |
 
 3-4  
   
-> Normal nutrition ([HSCI](hsci.html) 295)
+> Normal nutrition (HSCI 295)
 
 |
 
@@ -251,8 +248,8 @@ Nursing major** |
 
 **57-61**  
   
-> [NURS](nurs.html) 330, 331, 332, 333, 334, 340, 341, 342, 343, 344, 345,
-346, 410, 425, 436, 440, 441, 442, 451, 452, 453, 455, 465
+> NURS 330, 331, 332, 333, 334, 340, 341, 342, 343, 344, 345, 346, 410, 425,
+436, 440, 441, 442, 451, 452, 453, 455, 465
 
 |  
   
@@ -288,8 +285,8 @@ based on student needs.
 
 The university requires all students to complete at least one course in their
 majors designated "writing intensive" at the 300 level or above. Students
-majoring in nursing fulfill this requirement by successfully completing
-[NURS](nurs.html) 465\.
+majoring in nursing fulfill this requirement by successfully completing NURS
+465\.
 
 **Academic Grade Standards**
 
@@ -316,10 +313,9 @@ Earning a grade of less than C in a second nursing course results in dismissal
 from the nursing program.
 
 A nursing major who has failed a course must repeat the course and earn a C or
-better to resume progression in classes with
-[NURS](NURS.HTML)/[HSCI](HSCI.HTML) prefixes. Before the course is repeated,
-the student may not register for any other courses with a [NURS](NURS.HTML) or
-[HSCI](HSCI.HTML) prefix.
+better to resume progression in classes with NURS/HSCI prefixes. Before the
+course is repeated, the student may not register for any other courses with a
+NURS or HSCI prefix.
 
 **Professional Conduct Policy**  
 The College of Nursing and Health Science reserves the right to discipline
@@ -411,8 +407,7 @@ a. George Mason students awarded General Education Honors and achieving a
 3.000 GPA in the prerequisite course work for junior standing are accepted
 into the nursing honors program. All other interested traditional students
 apply during the first semester of junior-level nursing course work.
-Interested LPN and RN pathway students apply while taking [NURS](nurs.html)
-334\.  
+Interested LPN and RN pathway students apply while taking NURS 334\.  
 
 b. Applicants to the undergraduate honors program must submit GPA of 3.500 or
 better; short essay; and a letter of reference from a teacher familiar with
@@ -456,9 +451,8 @@ check).
 
 A one-time lab fee of $80 is required for traditional and LPN students before
 beginning the first semester of nursing. A lab fee of $10 is required for RN
-students before they take [NURS](nurs.html) 425\. A one-time health records
-review fee of $10 is required for all students before their first clinical
-rotations.
+students before they take NURS 425\. A one-time health records review fee of
+$10 is required for all students before their first clinical rotations.
 
 Nursing students are required to obtain a health examination and immunizations
 before registering for their first clinical course. Students must complete two
@@ -501,9 +495,9 @@ health insurance plan is available through the university. Each student is
 responsible for his or her health care, including emergency care. The nursing
 program assumes no financial responsibility for the health care of students.
 
-A junior student must have CPR certification before entering [NURS](nurs.html)
-331 and maintain it through the remainder of the program. Either the American
-Red Cross Professional Rescuer or the American Heart Association's Basic Life
+A junior student must have CPR certification before entering NURS 331 and
+maintain it through the remainder of the program. Either the American Red
+Cross Professional Rescuer or the American Heart Association's Basic Life
 Support is required.
 
 The drop period for nursing courses offered for fewer than 14 weeks is 3
@@ -552,12 +546,12 @@ English composition (three credits must be in advanced composition) |
 
 6  
   
-Communications ([COMM](comm.html) 101) |
+Communications (COMM 101) |
 
 3  
   
-Humanities ([PHIL](phil.html) 309 Medicine and Human Values and three credits
-in literature) |
+Humanities (PHIL 309 Medicine and Human Values and three credits in
+literature) |
 
 6  
   
@@ -570,14 +564,14 @@ Sociology or anthropology |
 
 3  
   
-([SOCI](soci.html) 101 or [ANTH](anth.html) 114) |  
+(SOCI 101 or ANTH 114) |  
   
-Psychology ([PSYC](psyc.html) 100) |
+Psychology (PSYC 100) |
 
 3  
   
 **  
-Statistics** ([DESC](desc.html) 210) |
+Statistics** (DESC 210) |
 
 **4**  
   
@@ -586,11 +580,11 @@ Natural science** |
 
 **11**  
   
-Biology ([BIOL](biol.html) 103 and 104) |
+Biology (BIOL 103 and 104) |
 
 8  
   
-Mathematics ([MATH](math.html) 108 ) |
+Mathematics (MATH 108 ) |
 
 3  
   
@@ -599,7 +593,7 @@ Business and management** |
 
 **13**  
   
-Economics ([ECON](econ.html) 103) |
+Economics (ECON 103) |
 
 3  
   
@@ -607,14 +601,14 @@ Management information systems |
 
 4  
   
-([MIS](mis.html) 102 and 201) |  
+(MIS 102 and 201) |  
   
-Management ([MGMT](mgmt.html) 302 and 312) |
+Management (MGMT 302 and 312) |
 
 6  
   
 **  
-Government** ([GOVT](govt.html) 103) |
+Government** (GOVT 103) |
 
 **3**  
   
@@ -623,10 +617,10 @@ Health science major** |
 
 **45**  
   
-[HSCI](hsci.html) 295, 302, 303, 332, 378, 402, 436, 440, 453, 465, 495  |  
+HSCI 295, 302, 303, 332, 378, 402, 436, 440, 453, 465, 495  |  
   
 **  
-Electives** (two must be in [HSCI](hsci.html)) |
+Electives** (two must be in HSCI) |
 
 **23**  
   
@@ -647,12 +641,12 @@ English composition (three credits must be in advanced composition) |
 
 6  
   
-Communication ([COMM](comm.html) 101, 305 and 320) |
+Communication (COMM 101, 305 and 320) |
 
 9  
   
-Humanities ([PHIL](phil.html) 309 Medicine and Human Values and three credits
-in literature) |
+Humanities (PHIL 309 Medicine and Human Values and three credits in
+literature) |
 
 6  
   
@@ -665,11 +659,11 @@ Sociology or anthropology |
 
 3  
   
-([SOCI](soci.html) 101 or [ANTH](anth.html) 114) |
+(SOCI 101 or ANTH 114) |
 
 9  
   
-Psychology ([PSYC](psyc.html) 100, 211, and 321) |  
+Psychology (PSYC 100, 211, and 321) |  
   
 **  
 Natural sciences** |
@@ -680,12 +674,12 @@ Biology (124 and 125) |
 
 8  
   
-Computer science ([CS](cs.html) 103) |
+Computer science (CS 103) |
 
 3  
   
 **  
-Statistics** ([SOCI](soci.html) 313) |
+Statistics** (SOCI 313) |
 
 **4**  
   
@@ -694,11 +688,11 @@ Business and management** |
 
 **9**  
   
-Economics ([ECON](econ.html) 103) |
+Economics (ECON 103) |
 
 3  
   
-Management ([MGMT](mgmt.html) 302 and 312) |
+Management (MGMT 302 and 312) |
 
 6  
   
@@ -707,10 +701,10 @@ Health science major** |
 
 **45**  
   
-[HSCI](hsci.html) 250, 295, 332, 341, 344, 402, 436, 440, 453, 465, 497  |  
+HSCI 250, 295, 332, 341, 344, 402, 436, 440, 453, 465, 497  |  
   
 **  
-Electives** (two must be in [HSCI](hsci.html)) |
+Electives** (two must be in HSCI) |
 
 **18**  
   
@@ -732,12 +726,12 @@ English composition (three credits must be in advanced composition) |
 
 6  
   
-Communications ([COMM](comm.html) 101) |
+Communications (COMM 101) |
 
 3  
   
-Humanities ([PHIL](phil.html) 309 Medicine and Human Values and three credits
-in literature) |
+Humanities (PHIL 309 Medicine and Human Values and three credits in
+literature) |
 
 6  
   
@@ -750,9 +744,9 @@ Sociology or anthropology |
 
 3  
   
-([SOCI](soci.html) 101 or [ANTH](anth.html) 114) |  
+(SOCI 101 or ANTH 114) |  
   
-Psychology ([PSYC](psyc.html) 100) |
+Psychology (PSYC 100) |
 
 3  
   
@@ -761,16 +755,16 @@ Natural science** |
 
 **11**  
   
-Biology ([BIOL](biol.html) 103 and 104) |
+Biology (BIOL 103 and 104) |
 
 8  
   
-Mathematics ([MATH](math.html) 108) |
+Mathematics (MATH 108) |
 
 3  
   
 **  
-Statistics** ([DESC](desc.html) 210) |
+Statistics** (DESC 210) |
 
 **4**  
   
@@ -779,11 +773,11 @@ Business and management** |
 
 **13**  
   
-Economics ([ECON](econ.html) 103) |
+Economics (ECON 103) |
 
 3  
   
-Management ([MGMT](mgmt.html) 302 and 312) |
+Management (MGMT 302 and 312) |
 
 6  
   
@@ -791,10 +785,10 @@ Management information systems |
 
 4  
   
-([MIS](mis.html) 102 and 201) |  
+(MIS 102 and 201) |  
   
 **  
-Government** ([GOVT](govt.html) 103) |
+Government** (GOVT 103) |
 
 **3**  
   
@@ -803,14 +797,14 @@ Health science major** |
 
 **68**  
   
-[HSCI](hsci.html) 295, 302, 303, 332, *334, 378, 402, 436, 440, 495  |  
+HSCI 295, 302, 303, 332, *334, 378, 402, 436, 440, 495  |  
   
 **  
 Total** |
 
 **120**  
   
-* Upon completion of bridge course [HSCI](hsci.html) 334, students are awarded 31 advanced placement hours from the associate's degree program. 
+* Upon completion of bridge course HSCI 334, students are awarded 31 advanced placement hours from the associate's degree program. 
 
 **_Health Care Coordination Accelerated Pathway for Students with Associate's
 Degrees in Allied Health  
@@ -825,12 +819,12 @@ English composition (three credits must be in advanced composition) |
 
 6  
   
-Communication ([COMM](comm.html) 101, 305, 320) |
+Communication (COMM 101, 305, 320) |
 
 9  
   
-Humanities ([PHIL](phil.html) 309 Medicine and Human Values and three credits
-in literature) |
+Humanities (PHIL 309 Medicine and Human Values and three credits in
+literature) |
 
 6  
   
@@ -843,13 +837,13 @@ Sociology or anthropology |
 
 3  
   
-([SOCI](soci.html) 101 or [ANTH](anth.html) 114) |  
+(SOCI 101 or ANTH 114) |  
   
 Psychology |
 
 9  
   
-([PSYC](psyc.html) 100, 211, and 321) |  
+(PSYC 100, 211, and 321) |  
   
 **  
 Natural science** |
@@ -860,12 +854,12 @@ Biology (124 and 125) |
 
 8  
   
-Computer science ([CS](cs.html) 103) |
+Computer science (CS 103) |
 
 3  
   
 **  
-Statistics** ([SOCI](soci.html) 313) |
+Statistics** (SOCI 313) |
 
 **4**  
   
@@ -874,11 +868,11 @@ Business and management** |
 
 **9**  
   
-Economics ([ECON](econ.html) 103) |
+Economics (ECON 103) |
 
 3  
   
-Management ([MGMT](mgmt.html) 302 and 312) |
+Management (MGMT 302 and 312) |
 
 6  
   
@@ -887,14 +881,14 @@ Health science major** |
 
 **63**  
   
-[HSCI](hsci.html) 250, 295, 332, *334, 341, 344, 378, 402, 436, 440, 497 |  
+HSCI 250, 295, 332, *334, 341, 344, 378, 402, 436, 440, 497 |  
   
 **  
 Total** |
 
 **120**  
   
-* Upon completion of bridge course [HSCI](hsci.html) 334, students are awarded 26 advanced placement hours from the associate's degree program. 
+* Upon completion of bridge course HSCI 334, students are awarded 26 advanced placement hours from the associate's degree program. 
 
   * **Certificate in Gerontology** 
 
@@ -922,17 +916,16 @@ certificate.
 
 The 24 credits are divided as follows:
 
-  0. A minimum of 12 credits selected from [HSCI](hsci.html) 480; [NURS](nurs.html) 505, 570; [PRLS](prls.html) 315, 415; [PSYC](psyc.html) 415; [SOCI](soci.html) 441; and [SOCW](socw.html) 483 
+  0. A minimum of 12 credits selected from HSCI 480; NURS 505, 570; PRLS 315, 415; PSYC 415; SOCI 441; and SOCW 483 
 
-  1. Six credits in a practicum in gerontology: [PSYC](psyc.html) 548, 549 (Students must have completed at least nine credits of core courses before enrolling in the practicum.) 
+  1. Six credits in a practicum in gerontology: PSYC 548, 549 (Students must have completed at least nine credits of core courses before enrolling in the practicum.) 
 
-  2. Six credits of electives selected from [HEAL](heal.html) 110, 323, 480; [HSCI](hsci.html) 332; [PHED](phed.html) 415, 450, 499; [PRLS](prls.html) 210, 310; [PSYC](psyc.html) 211, 325, 326, 415, 423; [PUAD](puad.html) 502, [SOCI](soci.html) 350, 390, 599; [SOCW](socw.html) 300, 351, 352; Reading and Research in Gerontology from any department 
+  2. Six credits of electives selected from HEAL 110, 323, 480; HSCI 332; PHED 415, 450, 499; PRLS 210, 310; PSYC 211, 325, 326, 415, 423; PUAD 502, SOCI 350, 390, 599; SOCW 300, 351, 352; Reading and Research in Gerontology from any department 
 
   
 
 * * *
 
-[George Mason University](http://www.gmu.edu):[ 2000-2001 University
-Catalog](index.html): [Catalog Index](toc.html): [College of Nursing & Health
-Science](nursing.html): Undergraduate Programs
+George Mason University: 2000-2001 University Catalog: Catalog Index: College
+of Nursing & Health Science: Undergraduate Programs
 

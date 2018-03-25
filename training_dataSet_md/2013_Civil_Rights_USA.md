@@ -42,9 +42,8 @@ Exam #3 should be taken by Monday 7/22.**
   
 If you need to take the exam later than these dates, please contact the
 Distance Learning Student Support office and ask for Adrienne McCain or
-Stephanie Gaskins at (813) 974-2996 or send email to
-[amccain@admin.usf.edu](mailto:amccain@admin.usf.edu) or
-[sgaskins@admin.usf.edu](mailto:sgaskins@admin.usf.edu).
+Stephanie Gaskins at (813) 974-2996 or send email to amccain@admin.usf.edu or
+sgaskins@admin.usf.edu.
 
 * * *
 
@@ -53,19 +52,19 @@ Stephanie Gaskins at (813) 974-2996 or send email to
 **Office Phone:** 974-3640 (Dr. Morehouse) 974-2384; (Political Science dept.)
 974-2427; (Africana Studies dept.)  
 **Office Hours:** TBA  
-**E-mail:  ** _[morehous@luna.cas.usf.edu](mailto:morehous@luna.cas.usf.edu)_  
+**E-mail:  ** _morehous@luna.cas.usf.edu_  
 **Educational Outreach:** 974-2996 (Distance Learning Student Support);
 974-3063 (24 hr. Info Line).
 
 **Telecourse Rentals: ** You may rent "Eyes on the Prize" from RMI Media
 Productions for $55.00. Call 1-800-745-5480 for details or visit their website
-at <http://www.rmimedia.com/>
+at http://www.rmimedia.com/
 
 
 
 **Distance Learning Student Support Information:**  
 **Coordinator:** Stephanie Gaskins  
-**Email:**[ sgaskins@admin.usf.edu](mailto:sgaskins@admin.usf.edu)  
+**Email:** sgaskins@admin.usf.edu  
 **Office Location:** SVC 1072 (map grid: D3)  
 **Office Hours:** Monday - Thursday 8:00 am - 7:00 pm Friday 8:00 am - 5:00pm  
 **Phone:** (813) 974-2996; 974-3063 (24 Hour Info Line)
@@ -78,7 +77,7 @@ available at the bookstore on campus. However, you may purchase them at the
 Bookcenter for USF on the corner of Fowler Ave. and McKinley Drive. Call
 977-3077 for additional information. Students may order the books on line
 through the Lakeland bookstore by going to the following website:
-**[**http://www.polk-usf.bkstr.com/**](http://www.polk-usf.bkstr.com/)
+****http://www.polk-usf.bkstr.com/**
 
 _Voices of Freedom: An Oral History of the Civil Rights Movement from the
 1950s Through The 1980s_ ,  
@@ -101,7 +100,7 @@ available at the bookstore on campus.  However, you may purchase them at the
 Bookcenter for USF on the corner of Fowler Ave. and McKinley Drive.  Call
 977-3077 for additional information.  Students may order the books on line
 through the Lakeland bookstore by going to the following website:
-<http://www.polk-usf.bkstr.com/>  
+http://www.polk-usf.bkstr.com/  
   
 
 **Course Objectives:**
@@ -251,9 +250,8 @@ Exam #3 should be taken by Monday 7/22.**
   
 If you need to take the exam later than these dates, please contact the
 Distance Learning Student Support office and ask for Adrienne McCain or
-Stephanie Gaskins at (813) 974-2996 or send email to
-[amccain@admin.usf.edu](mailto:amccain@admin.usf.edu) or
-[sgaskins@admin.usf.edu](mailto:sgaskins@admin.usf.edu).  **  
+Stephanie Gaskins at (813) 974-2996 or send email to amccain@admin.usf.edu or
+sgaskins@admin.usf.edu.  **  
 Note: ** Be sure to bring a valid student ID or other photo ID to your exam,
 as well as several sharpened #2 pencils and an eraser.
 

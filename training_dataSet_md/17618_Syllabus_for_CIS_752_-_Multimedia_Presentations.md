@@ -9,9 +9,8 @@
 **Office:** |  0317 Ingersoll  
 **Office Hours:** |  M 11:15am-12:15pm;  
 W 4:30-5:30pm; or by appointment  
-**Email:** |
-[lscarlat@its.brooklyn.cuny.edu](mailto:lscarlat@its.brooklyn.cuny.edu)  
-**Web Page:** | <http://acc6.its.brooklyn.cuny.edu/~lscarlat>  
+**Email:** | lscarlat@its.brooklyn.cuny.edu  
+**Web Page:** | http://acc6.its.brooklyn.cuny.edu/~lscarlat  
   
 ###  Course Description
 
@@ -65,9 +64,8 @@ Over the course of the semester, you will develop an interactive multimedia
 presentation that aims to teach a specific topic or concept to a specified
 audience. You will apply the usability engineering principles learned in
 class, producing several deliverables (and making two presentations) which
-will be graded seperately, as described in the [project
-guidelines](CIS752project.html). You _must_ use Macromedia Director to develop
-your application, _no exceptions_.
+will be graded seperately, as described in the project guidelines. You _must_
+use Macromedia Director to develop your application, _no exceptions_.
 
   * Presentations - 10%  
 You will be asked to present your term project twice to the class: first in a
@@ -128,8 +126,7 @@ Please note that this schedule is approximate, and subject to change. Readings
 from **Usability Engineering** are marked with **UE** ; readings from
 **Director 8 Demystified** are marked with **D8**. Readings represent the
 material covered in the class that day. Assignments are _due_ on the day
-indicated. See [project guidelines](CIS752project.html) for a description of
-the assignments.
+indicated. See project guidelines for a description of the assignments.
 
 **Date**
 
@@ -206,10 +203,7 @@ D8 Ch. 5
   
 3/6/02
 
-|  [ ](transform.html)Multimedia information:
-[Images](http://acc6.its.brooklyn.cuny.edu/~lscarlat/GUI/imagebasics.html),
-[Audio](http://acc6.its.brooklyn.cuny.edu/~lscarlat/GUI/sound.htm),
-[Video](http://www.cvc.sunysb.edu/multi/courses/video.html);  
+|  Multimedia information: Images, Audio, Video;  
 Creating and importing multimedia in Director |
 
 UE Ch. 4,  
@@ -223,8 +217,7 @@ D8 Ch. 6
 
 |
 
-[Interface design theories, principles, and
-guidelines](http://acc6.its.brooklyn.cuny.edu/~lscarlat/GUI/interface2.htm);  
+Interface design theories, principles, and guidelines;  
 Interactive Lingo
 
 |
@@ -256,7 +249,7 @@ _Spring Break_
 4/3/02
 
 | Interaction design;  
-[Lingo](lingo.html) | UE Ch. 5,  
+Lingo | UE Ch. 5,  
 D8 Ch. 8 |
 
   

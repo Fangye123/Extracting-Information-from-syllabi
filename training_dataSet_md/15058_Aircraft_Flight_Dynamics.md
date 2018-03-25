@@ -6,12 +6,11 @@
 (MAE 331)  
 Fall 2002
 
-## [Robert F. Stengel](http://www.princeton.edu:80/~stengel/)
+## Robert F. Stengel
 
-[Department of Mechanical and Aerospace
-Engineering](http://www.princeton.edu/~mae/MAE.html)
+Department of Mechanical and Aerospace Engineering
 
-[Princeton University](http://www.princeton.edu/)
+Princeton University
 
   
 ![](http://www.princeton.edu/~stengel/Rainbow.GIF)
@@ -41,7 +40,7 @@ written report and a brief oral presentation.
 
 * * *
 
-## [ Syllabus](http://www.princeton.edu/~stengel/MAE331Out.html)
+##  Syllabus
 
 * * *
 
@@ -58,14 +57,14 @@ written report and a brief oral presentation.
   * Ashley, H., _Engineering Analysis of Flight Vehicles_ , Addison-Wesley, 1974. 
   * Babister, A., _Aircraft Dynamic Stability and Response_ , Pergamon Press, 1980. 
   * Blakelock, J., _Automatic Control of Aircraft and Missiles_ , J. Wiley & Sons, 1991. 
-  * Cook, M., and Rycroft, M., [_Aerospace Vehicle Dynamics and Control_](http://www.oup-usa.org/gcdocs/gc_0198534736.html), Clarendon Press, Oxford, 1994. 
+  * Cook, M., and Rycroft, M., _Aerospace Vehicle Dynamics and Control_, Clarendon Press, Oxford, 1994. 
   * Cook, M., _Flight Dynamics Principles_ , Arnold, 1997. 
   * Etkin, B., and Reid, L., _Dynamics of Flight: Stability and Control_ , J. Wiley & Sons, 1996. 
   * Gibson, J., _The Definition, Understanding and Design of Aircraft Handling Qualities_ , Delft University Press, 1997. 
   * Hodgkinson, _Aircraft Handling Qualities_ , AIAA Press, 1999. 
   * Mair, W., and Birdsall, D., _Aircraft Performance_ , Cambridge University Press, 1992. 
   * McCormick, B., _Aerodynamics, Aeronautics, and Flight Mechanics_ , J. Wiley & Sons, 1995. 
-  * McRuer, D., Ashkenas, I., and Graham, D, [_Aircraft Dynamics and Automatic Control_](http://aaup.pupress.princeton.edu:70/0h/books/presses/princeton/titles/73134250.html), Princeton University Press, 1973. 
+  * McRuer, D., Ashkenas, I., and Graham, D, _Aircraft Dynamics and Automatic Control_, Princeton University Press, 1973. 
   * Miele, A., _Flight Mechanics: Theory of Flight Paths_ , Addison-Wesley, 1962. 
   * Nelson, R., _Flight Stability and Automatic Control_ , McGraw Hill, 1998. 
   * Ojha, S., _Flight Performance of Aircraft_ , AIAA Press, 1995. 
@@ -75,7 +74,7 @@ written report and a brief oral presentation.
   * Schlichting, H., and Truckenbrodt, E., _Aerodynamics of the Airplane_ , McGraw-Hill Book Co., 1979. 
   * Schmidt, L., _Introduction to Aircraft Flight Dynamics_ , AIAA Press, 1998 
   * Seckel, E., _Stability and Control of Airplanes and Helicopters_ , Academic Press, 1964. 
-  * Stengel, R., [_Optimal Control and Estimation_](http://www.princeton.edu/~stengel/OptConEst.html), Dover Publications, 1994. (originally published as STOCHASTIC OPTIMAL CONTROL; Theory and Application, J. Wiley & Sons, 1986.) 
+  * Stengel, R., _Optimal Control and Estimation_, Dover Publications, 1994. (originally published as STOCHASTIC OPTIMAL CONTROL; Theory and Application, J. Wiley & Sons, 1986.) 
   * Stengel, R., _Flight Dynamics_ , to be published by Princeton University Press. 
   * Stevens, B., and Lewis, F., _Aircraft Control and Simulation_ , J. Wiley & Sons, 1992. 
   * Stinton, D., _Flying Qualities and Flight Testing of the Airplane_ , AIAA Press, 1996. 
@@ -90,73 +89,72 @@ written report and a brief oral presentation.
 
 #### Tools, Libraries, and Data
 
-  * [MATLAB](http://www.mathworks.com/)
-  * [Mathematica](http://www.wri.com)
-  * [Control Engineering Virtual Library](http://www-control.eng.cam.ac.uk/extras/Virtual_Library/Control_VL.html)
-  * [NASA Scientific and Technical Reports](http://www.sti.nasa.gov/)
-  * [NASA Technical Reports Server](http://techreports.larc.nasa.gov/cgi-bin/NTRS)
-  * [NASA Langley Technical Reports Server](http://techreports.larc.nasa.gov/ltrs/ltrs.html)
-  * [Princeton University Library](http://infoshare1.princeton.edu:2003/#catalogs)
-  * [Human Factors Links](http://www.cami.jccbi.gov/aam-500/links-HF.html)
-  * [Aircraft Design Information: Classical Control](http://www.aoe.vt.edu/Mason/CtlTrad.html)
-  * [Aircraft Design Information: Specifications](http://www.aoe.vt.edu/Mason/CtlSpecAC.html)
-  * [Aircraft Design Information: Design Issues Related to Vehicle Control](http://www.aoe.vt.edu/Mason/CtlDesignIss.html)
-  * [Aircraft Design Information: Agility](http://www.aoe.vt.edu/Mason/CtlAgility.html)
-  * [Aircraft Design Information: High Angle of Attack](http://www.aoe.vt.edu/Mason/CtlHiAlp.html)
-  * [Aircraft Design Information: Aircraft Sizing/Multidisciplinary Design](http://www.aoe.vt.edu/Mason/ACiACSize.html)
-  * [F-18 Model](http://www.dfrc.nasa.gov/Projects/HARV/home.html)
-  * [Airborne Trailblazer](http://www.dfrc.nasa.gov/History/Publications/SP-4216/)
-  * [The Aviation Enthusiast Corner](http://aeroweb.brooklyn.cuny.edu/) 
+  * MATLAB
+  * Mathematica
+  * Control Engineering Virtual Library
+  * NASA Scientific and Technical Reports
+  * NASA Technical Reports Server
+  * NASA Langley Technical Reports Server
+  * Princeton University Library
+  * Human Factors Links
+  * Aircraft Design Information: Classical Control
+  * Aircraft Design Information: Specifications
+  * Aircraft Design Information: Design Issues Related to Vehicle Control
+  * Aircraft Design Information: Agility
+  * Aircraft Design Information: High Angle of Attack
+  * Aircraft Design Information: Aircraft Sizing/Multidisciplinary Design
+  * F-18 Model
+  * Airborne Trailblazer
+  * The Aviation Enthusiast Corner 
 ![](http://www.princeton.edu/~stengel/X-33.GIF)
 
 #### Aeronautical and Technical Organizations
 
-  * [Information about NASA](http://www.nasa.gov/)
-  * [NASA Ames Research Center](http://www.arc.nasa.gov/)
-  * [NASA Dryden Flight Research Center](http://www.dfrc.nasa.gov/)
-  * [NASA Langley Research Center](http://www.larc.nasa.gov/larc.cgi)
-  * [Federal Aviation Administration](http://www.faa.gov/)
-  * [FAA Technical Center](http://www.tc.faa.gov/)
-  * [Air Force Research Laboratory](http://www.afrl.af.mil/)
-  * [Air Force Flight Test Center](http://www.edwards.af.mil/)
-  * [Naval Air Systems Command](http://www.navair.navy.mil/)
-  * [Flight Test Safety Committee](http://www.flighttestsafety.org/)
-  * [NRC Aeronautics and Space Engineering Board](http://www7.nationalacademies.org/aseb/)
-  * [AIAA](http://www.aiaa.org/)
-  * [IEEE](http://www.ieee.org/)
-  * [SAE](http://www.sae.org:80/about/index.htm)
-  * [Aerospace Industries Association](http://www.aia-aerospace.org/)
-  * [National Business Aviation Association](http://www.nbaa.org/)
-  * [Joint University Program for Air Transportation Research](http://www.princeton.edu/~stengel/JUP.html) 
+  * Information about NASA
+  * NASA Ames Research Center
+  * NASA Dryden Flight Research Center
+  * NASA Langley Research Center
+  * Federal Aviation Administration
+  * FAA Technical Center
+  * Air Force Research Laboratory
+  * Air Force Flight Test Center
+  * Naval Air Systems Command
+  * Flight Test Safety Committee
+  * NRC Aeronautics and Space Engineering Board
+  * AIAA
+  * IEEE
+  * SAE
+  * Aerospace Industries Association
+  * National Business Aviation Association
+  * Joint University Program for Air Transportation Research 
 ![](http://www.princeton.edu/~stengel/JSF.jpeg)
 
 #### Publications and OTA Reports
 
-  * [Aviation Week](http://www.aviationnow.com/)
-  * [Aerospace Engineering Online](http://www.sae.org:80/aeromag/)
-  * [Aero-News Network](http://www.aero-news.net)
-  * [Air Safety Online Videos](http://www.airsafetyonline.com/videos/)
-  * [Safe Skies for Tomorrow](http://www.wws.princeton.edu/~ota/disk2/1988/8834.html)
-  * [Safer Skies with TCAS](http://www.wws.princeton.edu/~ota/disk1/1989/8929.html)
-  * [Advanced High-Speed Aircraft](http://www.wws.princeton.edu/~ota/disk3/1980/8001.html) 
+  * Aviation Week
+  * Aerospace Engineering Online
+  * Aero-News Network
+  * Air Safety Online Videos
+  * Safe Skies for Tomorrow
+  * Safer Skies with TCAS
+  * Advanced High-Speed Aircraft 
 ![](http://www.princeton.edu/~stengel/UCAV.JPEG)
 
 #### Corporations
 
-  * [AeroVironment](http://www.AeroVironment.com/)
-  * [Airbus](http://www.airbus.com/)
-  * [Boeing](http://www.boeing.com/sitemap.html)
-  * [Cessna](http://cessna.com/)
-  * [Lockheed-Martin](http://www.lmco.com/)
-  * [Northrop Grumman](http://www.northgrum.com/)
-  * [Raytheon](http://www.raytheon.com/)
-  * [Scaled Composites](http://www.scaled.com/) 
+  * AeroVironment
+  * Airbus
+  * Boeing
+  * Cessna
+  * Lockheed-Martin
+  * Northrop Grumman
+  * Raytheon
+  * Scaled Composites 
 ![](http://www.princeton.edu/~stengel/VRA.GIF)
 
 ![](http://www.princeton.edu/~stengel/Rainbow.GIF)
 
 **http://www.princeton.edu/~stengel/MAE331.html**  
-last updated August 9, 2002,
-[stengel@princeton.edu](http://www.princeton.edu/~stengel/index.html)  
+last updated August 9, 2002, stengel@princeton.edu  
 Copyright 2002 (c) by Robert F. Stengel. All rights reserved.
 

@@ -131,7 +131,7 @@ _Nationalism:_
   * Yehoshua Arieli, "Nationalism," _Encyclopedia of American Political History_ (1984), vol 2, 841-62.
   * Etienne Balibar and Immanuel Wallerstein, _Race, Nation, Class: Ambiguous Idenitities_ (1991), ch. 3-4.
   * Craig Calhoun, "Nationalism and Difference: The Politics of Identity Writ Large," in _Critical Social Theory_ (1995), 231-282.
-  * David Potter, "The Historian's Use of Nationalism and Vice Versa," [_AHR_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00028762/di951331/95p0294v/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005021ff51&dpi=3) 67 (1962), 924-950.
+  * David Potter, "The Historian's Use of Nationalism and Vice Versa," _AHR_ 67 (1962), 924-950.
   * John Murrin, "A Roof without Walls: The Dilemma of American National Identity," in Richard Beeman, et al, eds., _Beyond Confederation_ (1987), 333-48.
 
 _Political History_ :
@@ -158,13 +158,13 @@ _Minimum Reading_ :
   * Paterson, _American Foreign Relations_ , ch. 2
   * Paterson, _Major Problems in American Foreign Relations_ , ch. 2.
   * Gordon Wood, _The Creation of the American Republic_ , ch. 1-4, 9-13, 15. (Skim other chapters).
-  * Forum on Wood's _Creation_ in the _WMQ_ 44 (1987), esp, essays by [ Bloch](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957321/95p0096f/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005021ff51&dpi=3), [Nash](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957321/95p0097r/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005021ff51&dpi=3), [Rakove](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957321/95p0098d/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005021ff51&dpi=3), and [Wood](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957321/95p0098s/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005021ff51&dpi=3). [Additional essays include [Countryman](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957321/95p0096j/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005021ff51&dpi=3), [Murrin](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957321/95p0097j/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005022b3ab&dpi=3), [Maier](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957321/95p0097d/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005022b3ab&dpi=3), [Diggins](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957321/95p0096r/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005022b3ab&dpi=3), [Wills](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957321/95p0098f/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005022b3ab&dpi=3), & [Onuf](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957321/95p0097u/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005022b3ab&dpi=3).]
+  * Forum on Wood's _Creation_ in the _WMQ_ 44 (1987), esp, essays by  Bloch, Nash, Rakove, and Wood. [Additional essays include Countryman, Murrin, Maier, Diggins, Wills, & Onuf.]
 
 _Additional Reading_ :
 
-  * Daniel T. Rodgers, "Republicanism: The Career of a Concept," [_JAH_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00218723/di975300/97p0002y/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005021ff51&dpi=3) __ 79 (1992), 11-38.
+  * Daniel T. Rodgers, "Republicanism: The Career of a Concept," _JAH_ __ 79 (1992), 11-38.
   * Ruth Bloch, "The Gendered Meanings of Virtue in Revolutionary America," _Signs_ 13 (1987), 37-58.
-  * Isaac Kramnick, "The 'Great National Discussion': The Discourse of Politics in 1787," [_WMQ_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957274/95p0565c/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005022b3aa&dpi=3) 45 (1988), 3-32.
+  * Isaac Kramnick, "The 'Great National Discussion': The Discourse of Politics in 1787," _WMQ_ 45 (1988), 3-32.
   * Thurgood Marshall, "Race and the Constitution," _Social Policy_ 18 (1987), 29-31.
   * Jack Rakove, _Original Meanings: Politics and Ideas in the Making of the Constitution_ (1996), 3-22, 366-68.
 
@@ -174,13 +174,13 @@ _Republicanism Versus Liberalism: What was the Ideology of Revolutionary
 America?_
 
   * This week's seminar readings 
-  * Robert Shallhope, "Toward a Republican Synthesis," [__WMQ__](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957210/95p0521u/0?config=jstor&frame=frame&userID=823a57a5@swarthmore.edu/018dd5254c00502504be&dpi=3) 29 (1972), 49-80.
-  * Robert Shallhope, "Republicanism and Early American Historiography," [_WMQ_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957255/95p00593/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005022b3aa&dpi=3) 39 (1982), 334-56.
-  * Lance Banning, "Jeffersonian Ideology Revisted," [_WMQ_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957270/95p0524x/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005022b3aa&dpi=3) 43 (1986), 3-19.
+  * Robert Shallhope, "Toward a Republican Synthesis," __WMQ__ 29 (1972), 49-80.
+  * Robert Shallhope, "Republicanism and Early American Historiography," _WMQ_ 39 (1982), 334-56.
+  * Lance Banning, "Jeffersonian Ideology Revisted," _WMQ_ 43 (1986), 3-19.
   * Joyce Appleby, _Liberalism and Republicanism in the Historical Imagination_ (1992), intro, ch 5-6, 12-13.
   * Isaac Kramnick, "Republican Revisionism Revisited," _AHR_ 87 (1982), 629-64
-  * Isaac Kramnick, "The Great National Discussion; The Discourse of Politics in 1787," [_WMQ_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957274/95p0565c/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005022b3aa&dpi=3) 45 (1988), 3-33.  [or both of the above in Kraminck, _Republicanism & Bourgeois Radicalism_ (1990).]
-  * James T. Kloppenberg, "The Virtues of Liberalism," _J_[ _AH_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00218723/di952428/95p0004a/0?config=jstor&frame=frame&userID=823a57a5@swarthmore.edu/018dd5254c00502504be&dpi=3) 74 (1987), 9-33.
+  * Isaac Kramnick, "The Great National Discussion; The Discourse of Politics in 1787," _WMQ_ 45 (1988), 3-33.  [or both of the above in Kraminck, _Republicanism & Bourgeois Radicalism_ (1990).]
+  * James T. Kloppenberg, "The Virtues of Liberalism," _J_ _AH_ 74 (1987), 9-33.
 
 _The Franco-American Alliance_
 
@@ -199,8 +199,8 @@ _Revolution and Race / Slavery & the Constitution_:
   * Paul Finkelman, "Slavery and the Constitutional Convention: Making a Covenant with Death," in R. Beeman, et al, eds., _Beyond Confederation_ (1987), 188-225.
   * William M. Wiecek, _Sources of Antislavery Constitutionalism in America, 1760-1848_ (1977), ch. 2-4.
   * William M. Wiecek, "The Witch at the Christening: Slavery & the Constitution's Origins," in Leonard Levy, _The Framing and Ratification of the Constitution_ (1987), 167-84.
-  * William W. Freehling, "The Founding Fathers and Slavery," [_AHR_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00028762/di951374/95p0008a/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005022b3aa&dpi=3) _77_ (1972), 81-93.
-  * Howard A. Ohline, "Republicanism and Slavery: Origins of the 3/5ths Clause," [_WMQ_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957217/95p0312i/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/cc993314005022b3aa&dpi=3) 28 (1971), 563-84.
+  * William W. Freehling, "The Founding Fathers and Slavery," _AHR_ _77_ (1972), 81-93.
+  * Howard A. Ohline, "Republicanism and Slavery: Origins of the 3/5ths Clause," _WMQ_ 28 (1971), 563-84.
   * C. Jilson and T. Anderson, "Realignments in the Convention of 1787," _Journal of Politics_ 39 (1977).
   * Douglas Egerton, _Gabriel's Rebellion_ (1993), ch. 2-4, 7.
   * Edmund Morgan, _American Slavery American Freedom_ (1976), ch. 18.
@@ -214,8 +214,8 @@ _Beard's Thesis: The Economic Origins of the Constitution?_ :
   * Charles Beard, _An Economic Interpretation of the Constitution_ (1913).
   * Robert Brown, _Charles Beard and The Constitution_ (1956).
   * Forrest McDonald, _We the People: The Economic Origins of the Constitution_ (1958).
-  * Jackson T. Main, "Charles A. Beard & the Constitution," [_WMQ_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957323/95p0009j/0?config=jstor&frame=frame&userID=823a57a5@swarthmore.edu/01cc9933140050253eb5&dpi=3) 17 (1960), 86-102.
-  * S. Boyd, "Contract Clause and the Evolution of American Federalism," [_WMQ_ ](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957321/95p0095c/0?frame=frame&userID=823a57a5@swarthmore.edu/01cc9933140050253eb5&dpi=3&config=jstor) 44 (1987), 529-48
+  * Jackson T. Main, "Charles A. Beard & the Constitution," _WMQ_ 17 (1960), 86-102.
+  * S. Boyd, "Contract Clause and the Evolution of American Federalism," _WMQ_ 44 (1987), 529-48
   * R. McGuire and R. Ohsfeldt, "Economic Interests and the American Constitution: A Quantitative Rehabilitation of C.A. Beard," _Journal of Economic History_ 44 (1984).
   * Gordon Wood, "Interests and Disinterestedness," in R. Beeman, et al, eds., _Beyond Confederation_ (1987), 69-109.
 
@@ -252,7 +252,7 @@ _Paper Topics_ :
 
 _French Revolution: Impact on American Politics and Diplomacy_ :
 
-  * Ralph Ketchum, "France and American Politics," [_PSQ_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00323195/di980319/98p0685r/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/8dd5254c005023d955&dpi=3) 78 (1963), 198-223.
+  * Ralph Ketchum, "France and American Politics," _PSQ_ 78 (1963), 198-223.
   * James Banner, "France and the Origins of American Political Culture," _Virginia Quarterly Review_ 64 (1988), 651-70.
   * Ruth Bloch, _Visionary Republic_ (1985), ch. 9-11?
   * Simon P. Newman, _Parades and the Politics of the Streets_ (1997), ch. 4.
@@ -270,11 +270,11 @@ _Hamilton and the Federalists_ :
   * James Roger Sharp, _American Politics in the Early Republic_ (1993), ch. 2, 4-8, 10.
   * Gerald Stourzh, _Alexander Hamilton and the Idea of Republican Government_ (1970),
   * Alexander Hamilton, Report on the Subject of Manufactures, in _Papers of Alexander Hamilton_ , vol. 10, 230-340; see also pp. 10-22
-  * Jacob Cooke, "Tench Coxe, Alexander Hamilton, and the Encouragement of American Manufactures," [_WMQ_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957229/95p0032p/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/8dd5254c005023d955&dpi=3) 32 (1975), 369-92.
-  * John R. Nelson, "Alexander Hamilton and American Manufacturing," _J_[ _AH_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00218723/di952395/95p00037/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/8dd5254c005023d955&dpi=3) 65 (1979), 971-95.
+  * Jacob Cooke, "Tench Coxe, Alexander Hamilton, and the Encouragement of American Manufactures," _WMQ_ 32 (1975), 369-92.
+  * John R. Nelson, "Alexander Hamilton and American Manufacturing," _J_ _AH_ 65 (1979), 971-95.
   * John R. Nelson, _Liberty and Property: Political Economy and Policy Making in the New Nation_ (1987).
-  * Donald F. Swanson, " Alexander Hamilton's Hidden Sinking Fund," [_WMQ_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di976409/97p0055q/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/8dd5254c005023d955&dpi=3) 49 (1992), 108-16.
-  * Cecilia Kenyon, "Alexander Hamilton: Rousseau of the Right," [_PSQ_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00323195/di980299/98p00575/0?config=jstor&frame=frame&userID=823a5781@swarthmore.edu/8dd5254c005023d955&dpi=3) 73 (1958), 161-78.
+  * Donald F. Swanson, " Alexander Hamilton's Hidden Sinking Fund," _WMQ_ 49 (1992), 108-16.
+  * Cecilia Kenyon, "Alexander Hamilton: Rousseau of the Right," _PSQ_ 73 (1958), 161-78.
   * Forrest McDonald, _The Presidency of George Washington_ (1974), ch. 3-8.
   * Thomas P. Slaughter, _The Whiskey Rebellion_ (1986).
   * Broadus Mitchell, _Alexander Hamilton_ , 2 vols. (1957; 1962), vol. 2.
@@ -284,7 +284,7 @@ _Jefferson and the Democratic-Republicans_ :
 
   * Stanley Elkins and Eric McKitrick, _The Age of Federalism_ (1993), ch. 2, 7, 13.
   * Lance Banning, _The Jeffersonian Persuasion_ (1978), Intro, Part 2.
-  * Lance Banning, "Jeffersonian Ideology Revisited," [_WMQ_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957270/95p0524x/0?config=jstor&frame=frame&userID=823a57a5@swarthmore.edu/018dd5254c00502504be&dpi=3) 43 (1986), 3-19.
+  * Lance Banning, "Jeffersonian Ideology Revisited," _WMQ_ 43 (1986), 3-19.
   * Drew McCoy, _The Elusive Republic: Political Economy in Jeffersonian America_ (1980), Intro, ch. 6-8.
   * Joyce Appleby, _Capitalism and the New Social Order_ (1984).
   * Alfred F. Young, _The Democratic Republicans of New York_ (1967). Part 4  & 5.
@@ -300,7 +300,7 @@ _The First Party System_ :
   * Joseph Charles, _The Origins of the American Party System_ (1956), part 1  & 2.
   * William N. Chambers, _Political Parties in a New Nation_ (1963), ch. 3, 5-6, 8.
   * Paul Goodman, "The First American Party System," in W. Chambers & W. Burnham, _The American Party Systems_ (1967), 56-89.
-  * Mary Ryan, "Party Formation in the United States Congress, 1789-96," [_WMQ_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00435597/di957217/95p0310q/0?config=jstor&frame=frame&userID=823a57a5@swarthmore.edu/018dd5254c00502504be&dpi=3) 28 (1971), 523-42.
+  * Mary Ryan, "Party Formation in the United States Congress, 1789-96," _WMQ_ 28 (1971), 523-42.
   * Ralph Ketcham, _Presidents Above Party_ (1984), Introd., chs. 5, 6, 11.
   * John F. Hoadley, _Origins of American Political Parties, 1789-1803_ (1986).
   * Linda K. Kerber, _Federalists in Dissent_ (1970), ch. 5.
@@ -392,7 +392,7 @@ _Political Economy in the New Republic_ :
   * Stanley Kutler, _Privilege and Creative Destruction_ (1971).
   * Albert Fishlow, "Internal Transportation," in Lance Davis, _American Economic Growth_ (1972), 468-547.
   * Carter Goodrich, _Government Promotion of American Canals and Railroads_ (1960).
-  * Carter Goodrich, "Internal Improvements Reconsidered," _J_[ _ournal of Economic History_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00220507/di975611/97p0035b/0?config=jstor&frame=frame&userID=823a57a5@swarthmore.edu/018dd5254c00502504be&dpi=3) 30 (1970), 289-311.
+  * Carter Goodrich, "Internal Improvements Reconsidered," _J_ _ournal of Economic History_ 30 (1970), 289-311.
   * Louis Hartz, _Economic Policy and Democratic Thought: Pennsylvania, 1776-1860_ (1948).
   * Bray Hammond, _Banks and Politics in America_ (1957).
   * Naomi Lamoreaux, _Insider Lending_ [Banks] (1994).
@@ -453,7 +453,7 @@ _Filibustering: Southern Manifest Destiny_ :
   * Robert E. May, _The Southern Dream of a Caribbean Empire, 1854-1861_ (1973).
   * Robert E. May, "Manifest Destiny's Filibusters," in _Manifest Destiny and Empire_ (1997), 146-79.
   * Robert E. May, "The Slave Power Conspiracy Revisited: United States Presidents and Filibustering, 1848-1861," in David W. Blight, ed., _Union & Emancipation_ (1997), 7-28.
-  * Robert E. May, "Young American Males and Filibustering in the Age of Manifest Destiny," [_JAH_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00218723/di975298/97p0169i/0?config=jstor&frame=frame&userID=823a57a5@swarthmore.edu/018dd5254c00502504be&dpi=3) 78 (1991), 857-86.
+  * Robert E. May, "Young American Males and Filibustering in the Age of Manifest Destiny," _JAH_ 78 (1991), 857-86.
   * Charles H. Brown, _Agents of Manifest Destiny: The Lives and Times of the Filibusters_ (1980).
   * Joe A. Stout, _The Liberators: Filibustering Expeditions into Mexico, 1848-1862_ (1973).
   * Tom Chaffin, ""Sons of Washington": Narciso Lopez, Filibustering, and U.S. Nationalism, 1848-1851," _JER_ 15 (1995), 79-108.
@@ -468,7 +468,7 @@ _Political Opposition to & Consequences of Mexican War (Free Soil Party in the
 North)_:
 
   * Eric Foner, _Free Soil, Free Labor, Free Men_ (1970), 
-  * Eric Foner, "The Wilmot Proviso Revisted," [_JAH_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00218723/di952359/95p00037/0?config=jstor&frame=frame&userID=823a57a5@swarthmore.edu/018dd5254c00502504be&dpi=3) 56 (1969), 262-79.
+  * Eric Foner, "The Wilmot Proviso Revisted," _JAH_ 56 (1969), 262-79.
   * David M. Potter, _The Impending Crisis, 1848-1861_ (1976), ch. 1-4.
   * Chaplain W. Morrison, _Democratic Politics and Sectionalism_ (1967).
   * John H. Schroeder, _Mr. Polk's War: American Opposition & Dissent, 1846-1848_ (1973).
@@ -501,7 +501,7 @@ _Minimum Reading_ :
 _Additional Reading_ :
 
   * Ronald P. Formisano, "The New Political History and the Election of 1840," _Journal of Interdisciplinary History_ 23 (1993), 661-82.
-  * Daniel W. Howe, "The Evangelical Movement and Political Culture in the North during the Second Party System," [_JAH_](http://www.jstor.org/fcgi-bin/jstor/viewitem.fcg/00218723/di975295/97p00042/0?config=jstor&frame=frame&userID=823a57a5@swarthmore.edu/01cc9933140050253eb5&dpi=3) 77 (1991), 1216-1239. 
+  * Daniel W. Howe, "The Evangelical Movement and Political Culture in the North during the Second Party System," _JAH_ 77 (1991), 1216-1239. 
   * William E. Gienapp, "'Politics Seem to Enter into Everything': Political Culture in the North, 1840-1860," in Stephen Maizlish and John Kushma, eds., _Essays on American Antebellum Politics, 1840-1860_ (1982), 15-69.
 
 _Paper Topics_ :

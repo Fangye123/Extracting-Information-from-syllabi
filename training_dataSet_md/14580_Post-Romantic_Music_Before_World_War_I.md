@@ -30,15 +30,14 @@ below to do this assignment.
 
 **Track 14: Debussy: Suite bergamasque: Clair de lune**
 
-[Claude Debussy](http://www.eb.com:180/cgi-bin/g?DocF=micro/162/72.html)
-(French 1862-1918) is usually considered the leading musical Impressionist.
-"Impressionism" is a problematic term in music. It was borrowed from art
-critics to describe the compositions of Claude Debussy and Maurice Ravel; but
-music historians today are very uncomfortable in using the label for Ravel's
-work at all and would consider only a small number of Debussy's compositions
-to belong to the category. Those who market music, however, still lump the two
-together under this label, so if you are shopping it is good to know how the
-term is commonly used.
+Claude Debussy (French 1862-1918) is usually considered the leading musical
+Impressionist. "Impressionism" is a problematic term in music. It was borrowed
+from art critics to describe the compositions of Claude Debussy and Maurice
+Ravel; but music historians today are very uncomfortable in using the label
+for Ravel's work at all and would consider only a small number of Debussy's
+compositions to belong to the category. Those who market music, however, still
+lump the two together under this label, so if you are shopping it is good to
+know how the term is commonly used.
 
 There are some similarities between Impressionist painting and Impressionist
 music.
@@ -81,9 +80,9 @@ composer Ottorino Respighi also have an Impressionist feel to them.
 
 **Weblinks:**
 
-[Biography](http://w3.rz-berlin.mpg.de/cmp/debussy.html)  
-[Recommended recordings](http://www.classical.net/music/comp.lst/debussy.html)  
-[Musical Impressions](http://public.srce.hr/%7Efsupek/)  
+Biography  
+Recommended recordings  
+Musical Impressions  
 
 * * *
 
@@ -110,8 +109,8 @@ Violin Concerto (1910).
 
 **Weblinks:**
 
-[Biography](http://www.classicalinsites.com/live/hallfame/masters/su_elgarbio.html)  
-[Recommended recordings](http://www.classical.net/music/comp.lst/elgar.html)
+Biography  
+Recommended recordings
 
 * * *
 
@@ -126,17 +125,16 @@ If it says "ON SHELF," you're in luck; but if not, try another disc. Remember
 that when you are in Griffin, you can always get back to this page by clicking
 your "Back" button.
 
-If you have a slow connection, you can also try using Griffin via Telnet.
-[Here are some instructions](telgrif.html).
+If you have a slow connection, you can also try using Griffin via Telnet. Here
+are some instructions.
 
 Second, To check out CD's from Washington State University Media Materials
 Services, choose what you want below and then contact Extended Degree Library
-Services at 1-800-435-5832 or email [edplib@wsu.edu](mailto:edplib@wsu.edu).
-The CD's will be mailed to you first class and must be returned within two
-weeks to avoid overdue fines. You can check out up to three discs or disc sets
-(multiple discs with the same CDM number together in a box); but please avoid
-checking out a lot from this list during the same period of time that everyone
-else will be working on it.
+Services at 1-800-435-5832 or email edplib@wsu.edu. The CD's will be mailed to
+you first class and must be returned within two weeks to avoid overdue fines.
+You can check out up to three discs or disc sets (multiple discs with the same
+CDM number together in a box); but please avoid checking out a lot from this
+list during the same period of time that everyone else will be working on it.
 
 Then read the liner notes that come with the CD and listen to the music. Your
 assignment is to describe one or two things that are described in the notes
@@ -151,16 +149,14 @@ own personal reaction to the music. This assignment is to be 50-100 words long
 
 **Various Composers**
 
-[CDM 1133](http://griffin.wsu.edu/search/l?SEARCH=cdm+1133) French Violin
-Sonatas: Debussy -- Violin sonata no. 1 in D minor / Saint-Saens -- Violin
-sonata / Ravel -- Violin sonata / Poulenc.  
-[CDM 1570](http://griffin.wsu.edu/search/l?SEARCH=cdm+1570) Great pianists of
-the 20th century: 40: Friedrich Gulda. I: Preludes, book I ; Preludes, book II
-; L'isle joyeuse ; Images, book 1: Reflets dans l'eau ; Estampes: Soiree dans
-Grenade ; Suite bergamasque ; Pour le piano / Claude Debussy -- Sonatine ;
-Valses nobles et sentimentales ; Gaspard de la nuit / Maurice Ravel  
-[CDM 558](http://griffin.wsu.edu/search/l?SEARCH=cdm+558) Debussy: Images;
-Rapsodie espagnole; Ravel: Alborada del gracioso
+CDM 1133 French Violin Sonatas: Debussy -- Violin sonata no. 1 in D minor /
+Saint-Saens -- Violin sonata / Ravel -- Violin sonata / Poulenc.  
+CDM 1570 Great pianists of the 20th century: 40: Friedrich Gulda. I: Preludes,
+book I ; Preludes, book II ; L'isle joyeuse ; Images, book 1: Reflets dans
+l'eau ; Estampes: Soiree dans Grenade ; Suite bergamasque ; Pour le piano /
+Claude Debussy -- Sonatine ; Valses nobles et sentimentales ; Gaspard de la
+nuit / Maurice Ravel  
+CDM 558 Debussy: Images; Rapsodie espagnole; Ravel: Alborada del gracioso
 
 * * *
 
@@ -168,79 +164,66 @@ Rapsodie espagnole; Ravel: Alborada del gracioso
 
 **Orchestral works**
 
-[CDM 447](http://griffin.wsu.edu/search/l?SEARCH=cdm+447) Complete Orchestral
-Works (2 discs)  
-[CDM 137](http://griffin.wsu.edu/search/l?SEARCH=cdm+137) La mer; Nocturnes  
+CDM 447 Complete Orchestral Works (2 discs)  
+CDM 137 La mer; Nocturnes  
 
 **Piano works**
 
-[CDM 201](http://griffin.wsu.edu/search/l?SEARCH=cdm+201) The Complete Works
-for Piano, vol. 3  
-[CDM 651](http://griffin.wsu.edu/search/l?SEARCH=cdm+651) Preludes for Piano
-(2 discs, listen to the first one)  
-[CDM 103](http://griffin.wsu.edu/search/l?SEARCH=cdm+103) Piano works:
-Estampes; Etude no. XI pour les arpeges composes; Suite bergamasque;
-Children's Corner; La fille aux cheveux de lin; L'isle joyeuse; La plus que
-lente  
-[CDM 1570](http://griffin.wsu.edu/search/l?SEARCH=cdm+1570) Great pianists of
-the 20th century: 40: Friedrich Gulda. I: Preludes, book I ; Preludes, book II
-; L'isle joyeuse ; Images, book 1: Reflets dans l'eau ; Estampes: Soiree dans
-Grenade ; Suite bergamasque ; Pour le piano / Claude Debussy -- Sonatine ;
-Valses nobles et sentimentales ; Gaspard de la nuit / Maurice Ravel
+CDM 201 The Complete Works for Piano, vol. 3  
+CDM 651 Preludes for Piano (2 discs, listen to the first one)  
+CDM 103 Piano works: Estampes; Etude no. XI pour les arpeges composes; Suite
+bergamasque; Children's Corner; La fille aux cheveux de lin; L'isle joyeuse;
+La plus que lente  
+CDM 1570 Great pianists of the 20th century: 40: Friedrich Gulda. I: Preludes,
+book I ; Preludes, book II ; L'isle joyeuse ; Images, book 1: Reflets dans
+l'eau ; Estampes: Soiree dans Grenade ; Suite bergamasque ; Pour le piano /
+Claude Debussy -- Sonatine ; Valses nobles et sentimentales ; Gaspard de la
+nuit / Maurice Ravel
 
 **Vocal works**
 
-[CDM 782](http://griffin.wsu.edu/search/l?SEARCH=cdm+782) The Martyrdom of St.
-Sebastian (Le martyre de saint Sebastien)  
-[CDM 1384](http://griffin.wsu.edu/search/l?SEARCH=cdm+1384) Pelleas et
-Melisande
+CDM 782 The Martyrdom of St. Sebastian (Le martyre de saint Sebastien)  
+CDM 1384 Pelleas et Melisande
 
 * * *
 
 **Maurice Ravel**
 
-[CDM 685](http://griffin.wsu.edu/search/l?SEARCH=cdm+685) Complete Works for
-Orchestra, Vol. 1: (2 discs; Piano concerto in G major, Rapsodie espagnole,
-Alborada del Gracioso, Bolero, Valses nobles et sentimentales, Menuet antique,
-Pavane pour une infante defunte, String quartet in F major)  
-[CDM 794](http://griffin.wsu.edu/search/l?SEARCH=cdm+794) Orchestral Works (4
-discs; Bolero Alborada del gracioso, Rapsodie espagnole, La valse, Ma mere
-l'Oye, Pavane pour une infante defunte, Le tombeau de Couperin, Valses nobles
-et sentimentales, Piano concerto in G major, Menuet antique, Piano concerto
-for the left hand, Une barque sur l'ocean, Fanfare from L'Eventail de Jeanne,
-Daphnis et Chloe)  
-[CDM 294](http://griffin.wsu.edu/search/l?SEARCH=cdm+294) Daphnis et Chloe  
-[CDM 1283](http://griffin.wsu.edu/search/l?SEARCH=cdm+1283) Ballets: Ma mere
-l'oye; Valses nobles et sentimentales; Bolero; Daphnis et Chloe Suite No. 1  
-[CDM 937](http://griffin.wsu.edu/search/l?SEARCH=cdm+937) Trio for Piano,
-Violin and Cello (Trio pour piano, violon et violoncelle); Sonata for Violin
-and Cello; Sonata for Violin and Piano  
-[CDM 1210](http://griffin.wsu.edu/search/l?SEARCH=cdm+1210) Complete Music for
-Piano Solo; Complete Piano Concertos  
-[CDM 810](http://griffin.wsu.edu/search/l?SEARCH=cdm+810) Piano Works, Vol. 2  
+CDM 685 Complete Works for Orchestra, Vol. 1: (2 discs; Piano concerto in G
+major, Rapsodie espagnole, Alborada del Gracioso, Bolero, Valses nobles et
+sentimentales, Menuet antique, Pavane pour une infante defunte, String quartet
+in F major)  
+CDM 794 Orchestral Works (4 discs; Bolero Alborada del gracioso, Rapsodie
+espagnole, La valse, Ma mere l'Oye, Pavane pour une infante defunte, Le
+tombeau de Couperin, Valses nobles et sentimentales, Piano concerto in G
+major, Menuet antique, Piano concerto for the left hand, Une barque sur
+l'ocean, Fanfare from L'Eventail de Jeanne, Daphnis et Chloe)  
+CDM 294 Daphnis et Chloe  
+CDM 1283 Ballets: Ma mere l'oye; Valses nobles et sentimentales; Bolero;
+Daphnis et Chloe Suite No. 1  
+CDM 937 Trio for Piano, Violin and Cello (Trio pour piano, violon et
+violoncelle); Sonata for Violin and Cello; Sonata for Violin and Piano  
+CDM 1210 Complete Music for Piano Solo; Complete Piano Concertos  
+CDM 810 Piano Works, Vol. 2  
 
 **Vocal Work**
 
-[CDM 1343](http://griffin.wsu.edu/search/l?SEARCH=cdm+1343) L'enfant et les
-sortileges
+CDM 1343 L'enfant et les sortileges
 
 * * *
 
 **Erik Satie**
 
-[CDM 198](http://griffin.wsu.edu/search/l?SEARCH=cdm+198) 3 Gymnopedies &
-Other Piano Works
+CDM 198 3 Gymnopedies & Other Piano Works
 
 * * *
 
 **Igor Stravinsky**
 
-[CDM 78](http://griffin.wsu.edu/search/l?SEARCH=cdm+78) The Firebird  
-[CDM 1087](http://griffin.wsu.edu/search/l?SEARCH=cdm+1087) The Firebird
-Suites 1 & 2  
-[CDM 946](http://griffin.wsu.edu/search/l?SEARCH=cdm+946) Petrushka  
-[CDM 66](http://griffin.wsu.edu/search/l?SEARCH=cdm+66) or [CDM
-652](http://griffin.wsu.edu/search/l?SEARCH=cdm+652) The Rite of Spring
+CDM 78 The Firebird  
+CDM 1087 The Firebird Suites 1 & 2  
+CDM 946 Petrushka  
+CDM 66 or CDM 652 The Rite of Spring
 
 * * *
 
@@ -251,12 +234,11 @@ This page has been accessed ![](http://www.wsu.edu/cgi-bin/nph-
 count?font=15&width=-5&link=/~brians/hum_303/postromantic.html) times since
 December 17, 1998.
 
-[Back to off-campus syllabus](offcampus.html)
+Back to off-campus syllabus
 
-[Back to on-campus syllabus](oncampus.html)
+Back to on-campus syllabus
 
-[Return to Hum 303
-index](http://www.wsu.edu/~brians/hum_303/hum_303_study_guides.html)
+Return to Hum 303 index
 
-[Paul Brians' home page](http://www.wsu.edu/~brians/)
+Paul Brians' home page
 

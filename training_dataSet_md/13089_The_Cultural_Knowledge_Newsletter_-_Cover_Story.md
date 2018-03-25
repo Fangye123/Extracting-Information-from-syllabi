@@ -1,37 +1,35 @@
-       [![](home.gif)](index.html)  
+       ![](home.gif)  
         Home
 
-       [![](wrldbk.gif)](cstory.html)  
+       ![](wrldbk.gif)  
   Cover Story
 
-       [![](schedule.gif)](cevents.html)  
+       ![](schedule.gif)  
       Events
 
-       [![](encarta.gif)](cnotes.html)  
+       ![](encarta.gif)  
 History Makers
 
-       [![](microfon.gif)](speakb.html)  
+       ![](microfon.gif)  
    Consultants  
           and  
       Speakers
 
-     [![](news.gif)](classif.html)
+     ![](news.gif)
 
-     [![](mail.gif)](mailto:azdbc@aol.com) |  ![](ck.gif)  
+     ![](mail.gif) |  ![](ck.gif)  
 ![Cultural Knowledge](cktitle.gif)  
 
 # COVER STORY
 
 * * *
 
-[[HOME](index.html)][[CLASSIFIED](classif.html)][[BUSINESS
-HIGHLIGHTS](bushigh.html)]  
-[[CONSULTANTS/SPEAKERS](speakb.html)][[HISTORY MAKERS](cnotes.html)][[CULTURAL
-EVENTS](cevents.html)]
+[HOME][CLASSIFIED][BUSINESS HIGHLIGHTS]  
+[CONSULTANTS/SPEAKERS][HISTORY MAKERS][CULTURAL EVENTS]
 
 * * *
 
-[[Previous Stories](cstory_prev.html)]
+[Previous Stories]
 
 # Language as a Weapon
 
@@ -232,15 +230,13 @@ Writings, Minnesota Humanities Commission.
 
 * * *
 
-[[HOME](index.html)][[CLASSIFIED](classif.html)][[BUSINESS
-HIGHLIGHTS](bushigh.html)]  
-[[CONSULTANTS/SPEAKERS](speakb.html)][[HISTORY MAKERS](cnotes.html)][[CULTURAL
-EVENTS](cevents.html)]
+[HOME][CLASSIFIED][BUSINESS HIGHLIGHTS]  
+[CONSULTANTS/SPEAKERS][HISTORY MAKERS][CULTURAL EVENTS]
 
 * * *
 
   
-Questions and Comments: [ AZDBC@aol.com ](mailto:azdbc@aol.com)
+Questions and Comments:  AZDBC@aol.com
 
 (C) 1996-99 Cultural Knowledge, all rights reserved.  
 ---|---

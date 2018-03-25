@@ -54,7 +54,7 @@ MSN may be considered; candidates must have MSN before start of employment.
 **Send vitae and addresses of four references to Dr. Nancy Alley, Associate
 Dean, College of Nursing, ETSU, Box** ** 70617** **, Johnson City, TN** **
 37614** **-** **1709**.   **Phone:   (** **423** **)** ** 439** **-** **5626**
-**;   E-mail:  [alleyn@etsu.edu](mailto:alleyn@etsu.edu)**.  
+**;   E-mail:  alleyn@etsu.edu**.  
   
 Open until filled  
 (Posted 6/27/02) |
@@ -91,7 +91,7 @@ August  15,  2002.  **Send a letter of application, curriculum vitae, and a
 statement describing interest and qualifications to Norma MacRae, Vice Provost
 for Public Service, ETSU, Box** ** 70353** **, Johnson City, TN** ** 37614**
 **-** **1702**.    **Materials and inquiries may be submitted
-to[macraen@etsu.edu](mailto:macraen@etsu.edu)**.  
+tomacraen@etsu.edu**.  
   
 Open until filled  
 (Posted 5/8/02) |
@@ -146,7 +146,7 @@ immediately and continue until position is filled.  **Send letter of
 application, current vita, transcripts, and three letters of recommendation to
 Dr. Leslie Perry, Chair, Search Committee, Department of Curriculum and
 Instruction, ETSU,** ** Box ** ** 70684** **, Johnson City, TN** ** 37614**
-**-** **1709** **.     Email: [perryla@etsu.edu](mailto:perryla@etsu.edu)**  
+**-** **1709** **.     Email: perryla@etsu.edu**  
   
 Open until filled  
 (Posted 4/15/02) |
@@ -163,8 +163,7 @@ Review of applicants will begin immediately and continue until position is
 filled.   **Send letter of application, current vita, transcripts, and three
 letters of recommendation to Dr. Jane Melendez, Chair Search Committee,
 Department of Curriculum and Instruction, ETSU,   ** ** Box ** ** 70684** **,
-Johnson City, TN** ** 37614** **-** **1709** **.    Email:
-[melendez@etsu.edu](mailto:melendez@etsu.edu)**  
+Johnson City, TN** ** 37614** **-** **1709** **.    Email: melendez@etsu.edu**  
   
 August 30, 2002  
 (Posted 4/2/02) |
@@ -180,14 +179,13 @@ date, post-doctoral experience preferred; research specialization in any area
 of plant biology using modern research approaches; plant development
 especially encouraged; demonstrable commitment to teaching and research
 required.  Applicants with broad botanical training are especially encouraged.
-Our departmental web page is <http://www.etsu.edu/biology>.  **Send curriculum
+Our departmental web page is http://www.etsu.edu/biology.  **Send curriculum
 vitae, transcripts, statements of teaching and research interests, and three
 letters of recommendation by August** ** 30** **,** ** 2002** **to Dr. Cecilia
 McIntosh, Search Committee, Biological Sciences Department, ETSU, Box** **
 70703** **, Johnson City, TN** ** 37614** **-** **1710**.    **Phone:   (**
 **423** **)** ** 439** **-** **5838** **;   Fax:  (** **423** **)** ** 439**
-**-** **5958** **;   E-mail:  [
-mcintosc@etsu.edu](mailto:mcintosc@etsu.edu)**.  
+**-** **5958** **;   E-mail:  mcintosc@etsu.edu**.  
   
 Open until filled  
 (Posted 3/15/02) |
@@ -222,15 +220,13 @@ Acquisition preferred.  Duties include teaching methods course and
 coordination of basic Spanish courses.  Research and service expectations.
 Near-native or native fluency.  The department, currently with seven full-time
 regular faculty members, teaches Spanish, French, German and Japanese.
-Departmental website at [
-http://www.etsu.edu/cas/language/main.htm](http://www.etsu.edu/cas/language/main.htm).
+Departmental website at  http://www.etsu.edu/cas/language/main.htm.
 _Qualifications_ :  Ph.D. in Spanish by hiring date.  Review of applications
 will begin immediately and continue until the position is filled.  **Submit
 letter, CV, and dossier to Dr. Ken Hall, Chair, Department of Foreign
 Languages, ETSU, Box** ** 70312** **, Johnson City, TN** ** 37614** **-**
 **1701**.    **Phone:   ** ** 423** **-** **439** **-** **6896** **;   Fax:
-** ** 423** **-** **439** **-** **4448** **;   E-mail:  [
-khall@etsu.edu](mailto:khall@etsu.edu)**.  
+** ** 423** **-** **439** **-** **4448** **;   E-mail:  khall@etsu.edu**.  
   
 Open until filled  
 (Posted 2/25/02) |
@@ -248,9 +244,8 @@ Review of applications will begin immediately and will continue until the
 position is filled.  **Submit full curriculum vitae and the names, phone
 numbers, and e-mail addresses of three references to James Ayers, Chair,
 Search Committee, Department of Social Work, ETSU, Box 70645, Johnson City, TN
-37614-1702**.    **Phone:   (423) 439-5349;  e-mail:
-[ayersj@etsu.edu](mailto:ayersj@etsu.edu).    Refer to ETSU website
-<http://www.etsu.edu>.**  
+37614-1702**.    **Phone:   (423) 439-5349;  e-mail:  ayersj@etsu.edu.
+Refer to ETSU website http://www.etsu.edu.**  
   
 Open until filled  
 (Posted 2/12/02) |
@@ -270,13 +265,12 @@ H. Quillen College of Medicine is under the auspices of  East Tennessee State
 and has been highly ranked nationally in its primary care and rural medicine
 education programs.  Further information concerning  East Tennessee State
 University and the department of psychology is available at
-[www.etsu.edu/psychology/](http://www.etsu.edu/psychology) .  Applications
-will be accepted until  April 15, 2002, or until the position is filled.
-Position contingent on state funding.  Minorities, women, veterans and people
-with disabilities are encouraged to apply.  **Send a letter of application,
-curriculum vitae, representative publications, and three letters of reference
-to Chair, Search Committee, Department of Psychology, ETSU, Box 70649, Johnson
-City, TN 37614-1702**.  
+www.etsu.edu/psychology/ .  Applications will be accepted until  April 15,
+2002, or until the position is filled.  Position contingent on state funding.
+Minorities, women, veterans and people with disabilities are encouraged to
+apply.  **Send a letter of application, curriculum vitae, representative
+publications, and three letters of reference to Chair, Search Committee,
+Department of Psychology, ETSU, Box 70649, Johnson City, TN 37614-1702**.  
   
 Open until filled  
 (Posted 2/1/02) |
@@ -297,12 +291,11 @@ experience as an instructor in an accredited imaging science program, a
 bachelors of science degree in imaging sciences, program director experience;
 and demonstrated expertise in allied health program development.  A
 description of the ETSU Department of Health Related Professions can be found
-at [
-http://www.etsu.edu/cpah/hrelated/index.htm](http://www.etsu.edu/cpah/hrelated/index.htm).
-Review of applications will begin  March 1, 2002.  The search will continue
-until the position is filled.  **Send letter of application, vita, and the
-names, addresses and telephone numbers of at least three references to Office
-of Human Resources, ETSU, Box 70564, Johnson City, TN 37614-1707**.  
+at  http://www.etsu.edu/cpah/hrelated/index.htm.  Review of applications will
+begin  March 1, 2002.  The search will continue until the position is filled.
+**Send letter of application, vita, and the names, addresses and telephone
+numbers of at least three references to Office of Human Resources, ETSU, Box
+70564, Johnson City, TN 37614-1707**.  
   
 Open until filled  
 (Posted 1/08/02) | ** College of Public and Allied Health - Department of
@@ -317,7 +310,7 @@ audiology. Review of applications will begin immediately and continue until
 the position is filled. **Send vita, three letters of recommendation and
 official transcripts to Teresa Boggs, M.S., Search Committee, Department of
 Communicative Disorders, ETSU,** ** Box 70643, Johnson City, TN 37614-0643.
-Phone: (423) 439-4535; e-mail: [ boggs@etsu.edu](mailto:boggs@etsu.edu).  
+Phone: (423) 439-4535; e-mail:  boggs@etsu.edu.  
  **  
 Open until filled  
 (Posted 12/21/01) |  **College of Education - Department of Physical
@@ -341,7 +334,7 @@ list of four current references. Review of applicants will begin February 1,
 2002 and continue until the position is filled. Pending availability of funds,
 the contract will begin August 2002. **Contact Dr. Tom Coates, Chair, PEXS
 Department, ETSU Box 70654, Johnson City, TN 37614-1701.   E-mail:
-[coates@etsu.edu](mailto:coates@etsu.edu)**.  
+coates@etsu.edu**.  
   
 Open until filled  
 (Posted 11/28/01) |
@@ -360,11 +353,10 @@ The department offers B.S. and M.S. degrees.  ETSU, a member of the state
 university system, has approximately 12,000 students.  Position contingent
 upon state funding.  Review of applications will begin on February 15, 2002
 and continue until the position is filled.  For more information, visit our
-web page at [ http://www.etsu.edu/math](http://www.etsu.edu/math).  **Send a
-letter of application, an AMS cover sheet, a current vita, and three letters
-of reference, one of which must address teaching to Dr. Jay Boland, Search
-Committee Chair, Department of Mathematics, ETSU, Box 70663, Johnson City, TN
-37614-1701**.  
+web page at  http://www.etsu.edu/math.  **Send a letter of application, an AMS
+cover sheet, a current vita, and three letters of reference, one of which must
+address teaching to Dr. Jay Boland, Search Committee Chair, Department of
+Mathematics, ETSU, Box 70663, Johnson City, TN 37614-1701**.  
   
 Open until filled  
 (Posted 11/14/01) |
@@ -429,9 +421,9 @@ Media Center.  Minimum qualifications include M.S. or M.F.A. with skills
 appropriate for one or more of the programs.  Good organization, written and
 oral communication skills are required.  Review of applications will begin
 immediately and continue until the positions are filled.  Visit our web site
-at <http://avl.etsu.edu>.  **Send a letter of application, transcripts,
-resume, examples of work and three references to Dr. James A. Hales, Niswonger
-Digital Media Center, ETSU, Box 70701, Johnson City, TN 37614-1710**.  
+at http://avl.etsu.edu.  **Send a letter of application, transcripts, resume,
+examples of work and three references to Dr. James A. Hales, Niswonger Digital
+Media Center, ETSU, Box 70701, Johnson City, TN 37614-1710**.  
   
 Open until filled  
 (Posted 10/30/01) |
@@ -465,8 +457,7 @@ will begin immediately and continue until positions are filled.  Rank
 commensurate with experience and qualifications.  **Send vitae and names and
 addresses of four references, or requests for more information to Dr. Nancy
 Alley, Associate Dean,** ** College of Nursing, ETSU, Box 70617, Johnson City,
-TN 37614-1709.  Phone:  (423) 439-5626;  E-mail:
-[alleyn@etsu.edu](mailto:alleyn@etsu.edu)**.  
+TN 37614-1709.  Phone:  (423) 439-5626;  E-mail:  alleyn@etsu.edu**.  
   
 Open until filled  
 (Posted 10/15/01) |

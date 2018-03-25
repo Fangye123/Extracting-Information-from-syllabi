@@ -8,7 +8,7 @@
 
 **_THIS COURSE HAS A DISTANCE EDUCATION OPTION: ATTEND FROM HOME OR OFFICE_**
 
-**see[ http://netlab.gmu.edu/compnets](http://netlab.gmu.edu/compnets)**
+**see http://netlab.gmu.edu/compnets**
 
 **_Last revised 5-27-02_**
 
@@ -60,7 +60,7 @@ appointment).**
 **The project is documented in one of the required texts. Copies of class
 slides, software and documentation for the project are included with this text
 on CDROM. Additional project information will be found
-at<http://netlab.gmu.edu/NW>.  
+athttp://netlab.gmu.edu/NW.  
   
 NOTE: We will be trying a new way of submitting project assignments this
 Summer, via a webpage upload. More information will be provided in the slides
@@ -170,7 +170,7 @@ System requirements are a multimedia Pentium computer with Microsoft Windows
 to the student's desktop; students can ask questions via text or spoken input.
 Classes are recorded as delivered and can be played back through the same
 setup. A password is required to access online delivery and playback of
-classes. Go to<http://netlab.gmu.edu/disted> to obtain a password and test
+classes. Go tohttp://netlab.gmu.edu/disted to obtain a password and test
 Internet class reception. You must test your connection before attempting to
 participate in a class. All classes may be taken over the network, however
 students must appear in person final exam.**  

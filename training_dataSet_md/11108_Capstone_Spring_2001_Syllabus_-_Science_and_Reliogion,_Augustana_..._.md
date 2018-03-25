@@ -19,26 +19,25 @@ The Struggle for Truth in Science and Religion
 **Class Syllabus**  
   
 ---|---  
-[Home page](index.html)
+Home page
 
-[Syllabus](syllabus.html)
+Syllabus
 
-[Star Day-Sun Day](stardaysunday.html)
+Star Day-Sun Day
 
-[Class members](class2001.html)
+Class members
 
-[Links](links.html)
+Links
 
-[Nicenet](http://www.nicenet.org)
+Nicenet
 
-[Observatory Time](http://tycho.usno.navy.mil/)
+Observatory Time
 
 |
 
-**[Capstone Syllabus](syllabus2001.pdf)** as a PDF file
+**Capstone Syllabus** as a PDF file
 
-Note: If you need to get the free Adobe Acrobat 4.0 Reader first, click
-[here](http://www.adobe.com/prodindex/acrobat/readstep.html).
+Note: If you need to get the free Adobe Acrobat 4.0 Reader first, click here.
 
 * * *
 
@@ -53,19 +52,19 @@ Syllabus
 
 Department of Religion, Philosophy, Classics  
 Humanities 210, phone (274-) 5484  
-E-mail [haar@inst.augie.edu](mailto:haar@inst.augie.edu)  
+E-mail haar@inst.augie.edu  
 Office hours: 1:00-3:00 MThF or by appointment
 
 **Arlen Viste**
 
 Department of Chemistry  
 GSC 256, phone (274-) 4813  
-E-mail [viste@inst.augie.edu](mailto:viste@inst.augie.edu)  
+E-mail viste@inst.augie.edu  
 Office hours: 7:30-8:30 AM MTWThF or by appointment
 
 **Capstone class home page**
 
-<http://inst.augie.edu/-viste/capstone2001/>
+http://inst.augie.edu/-viste/capstone2001/
 
 **Course Description:**
 
@@ -142,8 +141,8 @@ Karen L. Bloomquist and John R. Stumme, Eds., Augsburg Fortress, Minneapolis,
 MN, 1998. (On reserve in Mikkelsen Library)
 
 Leon R. Kass, "The Moral Meaning of Genetic Technology," _Commentary_ ,
-**108** , 32-3 8 (Sept 1999). **Available online** through **[Expanded
-Academic ASAP](http://www.augie.edu/library/research/indexes_alpha.html)**.
+**108** , 32-3 8 (Sept 1999). **Available online** through **Expanded Academic
+ASAP**.
 
 Russell Stannard, Ed., _God for the 21st Century_ , Templeton Foundation
 Press, Philadelphia, PA, 2000.
@@ -179,12 +178,12 @@ Thus A- is 90.0-92.99%, B+ is 87.0-89.99%.
 In case a student chooses S/U grading, the Registrar translates C- or better
 as a grade of S, and D+ or lower as U.
 
-**[Star Day-Sun Day observational exercise](stardaysunday.html)**
+**Star Day-Sun Day observational exercise**
 
-Instructions are [posted](stardaysunday.html). Begin the observations
-promptly, and reflect on what you are observing. You are welcome to discuss
-your results with other class members. The report is done individually, and is
-posted on your web site. **Due March 13.**
+Instructions are posted. Begin the observations promptly, and reflect on what
+you are observing. You are welcome to discuss your results with other class
+members. The report is done individually, and is posted on your web site.
+**Due March 13.**
 
 **Term Paper**
 
@@ -220,11 +219,11 @@ Portfolio as a whole should be more than the sum of its parts.
 
 AV will create an overall General 492H Capstone home page for this course,
 with links to each class member's home page, at URL
-**<http://inst.augie.edu/~viste/capstone2001/>** Quite a number of students in
+**http://inst.augie.edu/~viste/capstone2001/** Quite a number of students in
 this Capstone already have developed a Home Page of their own in some form. If
 this is new for you, speak with your knowledgeable classmates and with AV.
 Some suggestions for getting started on a web page are available at URL
-**<http://inst.augie.edu/~viste/webstart.html>** We recommend that you work on
+**http://inst.augie.edu/~viste/webstart.html** We recommend that you work on
 your web page using simple tools such as Netscape, rather than excessively
 fancy software packages such as Front Page. We expect that you should
 understand the structure of your web site quite thoroughly, through having
@@ -279,7 +278,7 @@ conversation takes on a life of its own, with new conversation topics
 (threads) arising out of the class discussion as well.
 
 To get started, use a web browser (typically Netscape or Internet Explorer) to
-connect to this URL: **<http://www.nicenet.org/>**  
+connect to this URL: **http://www.nicenet.org/**  
 The instructors (AV) have set up a  "class" on Nicenet, called "Capstone2001".
 You have already been added to the class roster. Log in, but do not attempt to
 jin the class a second time. In most cases your Usemame is the same as your
@@ -418,14 +417,10 @@ Mar 29 | Larry Rasmussen with Cynthia Moe-Lobeda, "The Reform Dynamic:
 Addressing New Issues in Uncertain Times," Chapter 8 in _The Promise of
 Lutheran Ethics_  
 Apr 3 | Vandana Shiva, _Biopiracy: The Plunder of Nature and Knowledge_  
-Apr 4 | [Cynthia Moe-Lobeda](http://inst.augie.edu/~values/moecv.html)
-[Convocation address](http://inst.augie.edu/~values/moe.html) (Wed 7:30 PM),
-sponsored by [Stanley L. Olsen Chair of Moral
-Values](http://inst.augie.edu/~values/)  
-Apr 5 | Conversation with [Cynthia Moe-
-Lobeda](http://inst.augie.edu/~values/moecv.html)  
-Apr 10 | Leon R. Kass, "[The Moral Meaning of Genetic
-Technology](http://www.augie.edu/library/research/indexes_alpha.html)"  
+Apr 4 | Cynthia Moe-Lobeda Convocation address (Wed 7:30 PM), sponsored by
+Stanley L. Olsen Chair of Moral Values  
+Apr 5 | Conversation with Cynthia Moe-Lobeda  
+Apr 10 | Leon R. Kass, "The Moral Meaning of Genetic Technology"  
 Apr 12 | **Exam 2**  
 Apr 13-16 | **Easter Break**  
   

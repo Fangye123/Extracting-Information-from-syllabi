@@ -67,8 +67,7 @@ Read selections from _Lone Ranger and Tonto Fistfight in Heaven_ , pp. 1-36,
 43-54.  
   
 Wednesday, June 12  
-In class: Listen to Alexie reading ["Dear John
-Wayne"](http://www.fallsapart.com/recordings.html)  
+In class: Listen to Alexie reading "Dear John Wayne"  
 Read selections from _Lone Ranger and Tonto Fistfight in Heaven_ , pp. 59-75,
 83-103.  
   
@@ -177,8 +176,7 @@ Monday, July 1
 **Paper Due**  
 In class: Text collections in the Americanist tradition  
 Introduction to Ethnopoetics  
-Introduction to using [Harry Hoijer's _Chiricahua and Mescalero Apache
-Texts_](http://etext.lib.virginia.edu/apache)  
+Introduction to using Harry Hoijer's _Chiricahua and Mescalero Apache Texts_  
 Read: Hymes, Dell. _Reading Takelma Texts_ , pp. 1-22.  
   
 Tuesday, July 2  

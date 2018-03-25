@@ -4,8 +4,8 @@
 
 ### Winter 1996
 
-Instructor: Jan Reiff     Office: Bunche 9347 (825-5029)      E-mail: [jreiff@
-ucla.edu](mailto:jreiff@ucla.edu)     Office hours: 12:00-2:00 Thursdays
+Instructor: Jan Reiff     Office: Bunche 9347 (825-5029)      E-mail: jreiff@
+ucla.edu     Office hours: 12:00-2:00 Thursdays
 
 **Course Overview:**
 
@@ -75,7 +75,7 @@ internet
 
      J. David Bolter, _Turing's Man_
 
-     Andrew McMichael, Michael O'Malley, and Roy Rosenzweig, "Historians and the Web: A Beginner's Guide," AHA Perspectives, January 1996, also available on the World Wide Web at [http://chnm.gmu.edu/chnm/beginner.html]( http://chnm.gmu.edu/chnm/beginner.html )
+     Andrew McMichael, Michael O'Malley, and Roy Rosenzweig, "Historians and the Web: A Beginner's Guide," AHA Perspectives, January 1996, also available on the World Wide Web at http://chnm.gmu.edu/chnm/beginner.html
 
     **Assignment 1:**
 
@@ -85,17 +85,17 @@ internet
 
     Some places to start include (but are not limited to): 
 
-    <http://www.kaiwan.com/~lucknow/horus/horuslinks.html>     <http://www.lib.virginia.edu/etext/ETC.html>     <http://www.msstate.edu:80/Archives/History/USA/usa.html>     <http://www.georgetown.edu/labyrinth>     <http://lcweb2.loc.gov/amhome.html>     [](http://jefferson.village.virginia.edu/vshadow/vshadow.html)<http://thomas.loc.gov/>     <http://www.ucsc.edu/civil-war-letters/home.html>     <http://www.history.rochester.edu>     <http://neal.ctstateu.edu/history/world_history/world_history.html>     <http://www.lib.virginia.edu/journals/EH/EH.html>     <http://white.nosc.mil/museum.html>     <http://www.comlab.ox.ac.uk/archive/other/museums.html>     <http://history.cc.ukans.edu/history/WWW_history_main.html>     <http://english-server.hss.cmu.edu/History.html>     <http://miavx1.acs.muohio.edu/~ArchivesList/index.html>     <http://www.onramp.net:80/~hbarker/>     <http://www.webcom.com/~jbd/ww2.html>     <http://www.cwc.lsu.edu/>     <http://cobweb.utcc.utk.edu/~hoemann/warweb.html>     [http://latino.sscnet.ucla.edu:80/murals/dunitz/Street-G.html](http://latino.sscnet.ucla.edu:80/murals/dunitz/Street-G.html )     <http://www.ionet.net/~uheller/vnbktoc.shtml>     [http://www.tntech.edu/www/acad/hist/resources.html ](http://www.tntech.edu/www/acad/hist/resources.html)     <http://www.directnet.com/history>     [http://web.syr.edu/~laroux/ ](http://web.syr.edu/~laroux/)<http://h-net.msu.edu/>     <http://www.georgetown.edu/crossroads/crossroads.html>     <http://muse.jhu.edu/index.html>     <http://scarlett.libs.uga.edu/darchive/hargrett/maps/neworld.html>
+    http://www.kaiwan.com/~lucknow/horus/horuslinks.html     http://www.lib.virginia.edu/etext/ETC.html     http://www.msstate.edu:80/Archives/History/USA/usa.html     http://www.georgetown.edu/labyrinth     http://lcweb2.loc.gov/amhome.html     http://thomas.loc.gov/     http://www.ucsc.edu/civil-war-letters/home.html     http://www.history.rochester.edu     http://neal.ctstateu.edu/history/world_history/world_history.html     http://www.lib.virginia.edu/journals/EH/EH.html     http://white.nosc.mil/museum.html     http://www.comlab.ox.ac.uk/archive/other/museums.html     http://history.cc.ukans.edu/history/WWW_history_main.html     http://english-server.hss.cmu.edu/History.html     http://miavx1.acs.muohio.edu/~ArchivesList/index.html     http://www.onramp.net:80/~hbarker/     http://www.webcom.com/~jbd/ww2.html     http://www.cwc.lsu.edu/     http://cobweb.utcc.utk.edu/~hoemann/warweb.html     http://latino.sscnet.ucla.edu:80/murals/dunitz/Street-G.html     http://www.ionet.net/~uheller/vnbktoc.shtml     http://www.tntech.edu/www/acad/hist/resources.html      http://www.directnet.com/history     http://web.syr.edu/~laroux/ http://h-net.msu.edu/     http://www.georgetown.edu/crossroads/crossroads.html     http://muse.jhu.edu/index.html     http://scarlett.libs.uga.edu/darchive/hargrett/maps/neworld.html
 
     And you can do web searches from: 
 
-    <http://www.yahoo.com>     [http://home.netscape.com/home/internet-search.html ](http://home.netscape.com/home/internet-search.html)
+    http://www.yahoo.com     http://home.netscape.com/home/internet-search.html 
 
     The list grows and grows ..... 
 
-    <http://www.clever.net/19cwww/exhibit.html>     (note this art exhibit is only available through Feb. 28, 1996) 
+    http://www.clever.net/19cwww/exhibit.html     (note this art exhibit is only available through Feb. 28, 1996) 
 
-    To see the reviews of your classmates, [click here](reviews.html). 
+    To see the reviews of your classmates, click here. 
 
 Jan 23 -- Historical Narratives: Presenting History
 
@@ -103,7 +103,7 @@ Jan 23 -- Historical Narratives: Presenting History
 
      William Cronon, "A Place for Stories: Nature, History, and Narratives," _Journal of American History_ , 78:4 (March, 1992), 1347-1376. 
 
-    Please visit <http://grid.let.rug.nl/~welling/usa/>
+    Please visit http://grid.let.rug.nl/~welling/usa/
 
     _Who Built America?_ (CD-ROM textbook, available in faculty lab, please make arrangements with J. Lally or J. Reiff 
 
@@ -115,15 +115,15 @@ Jan 30 -- Non-Linear Narratives: Hypertext
 
      George P. Landow, _Hypertext_
 
-     To see one of Landow's projects on the Web, see [ World Wide Web (html) Versions of Materials Created in Intermedia, Storyspace, and Print]( http://www.stg.brown.edu/projects/hypertext/landow/HTatBrown/wwwtrans.html)     For an on-line volume, see Mike Franks, [Internet Publishing Handbook](http://www.sscnet.ucla.edu/ssc/franks/aw/final/iph-urls.htm)
+     To see one of Landow's projects on the Web, see  World Wide Web (html) Versions of Materials Created in Intermedia, Storyspace, and Print     For an on-line volume, see Mike Franks, Internet Publishing Handbook
 
     Mark Poster, "Derrida and Electronic Writing: The Subject of the Computer," in _The Mode of Information_ , p. 99-128 (available in grad reserve) 
 
-    An **optional reading** for those who are interested is Vannevar Bush's ["As We May Think"](http://www.isg.sfu.ca/~duchier/misc/vbush/) which was published originally in the July, 1945,  Atlantic Monthly. I've also put a copy in the History Department Reading Room. Thanks to Gene Moy for reminding me of this article and finding its Web location. 
+    An **optional reading** for those who are interested is Vannevar Bush's "As We May Think" which was published originally in the July, 1945,  Atlantic Monthly. I've also put a copy in the History Department Reading Room. Thanks to Gene Moy for reminding me of this article and finding its Web location. 
 
-    To see a syllabus for a class designed by one of the luminaries in this area, Michael Joyce, visit <http://iberia.vassar.edu/~mijoyce/H_P.html>
+    To see a syllabus for a class designed by one of the luminaries in this area, Michael Joyce, visit http://iberia.vassar.edu/~mijoyce/H_P.html
 
-    And to see another point of view on all of this, check out John Unsworth, [Electronic Scholarship or, Scholarly Publishing and the Public](http://jefferson.village.virginia.edu/~jmu2m/mla-94.html)
+    And to see another point of view on all of this, check out John Unsworth, Electronic Scholarship or, Scholarly Publishing and the Public
 
 Feb 06 -- Images
 
@@ -131,7 +131,7 @@ Feb 06 -- Images
 
      John Berger, _Ways of Seeing_
 
-     You can see Landow using images at George P. Landow, "[Margaret M. Giles's Hero and the Sublime Female Nude]( http://www.stg.brown.edu/projects/hypertext/landow/cv/Chapters/Giles/Giles_633.html )" 
+     You can see Landow using images at George P. Landow, "Margaret M. Giles's Hero and the Sublime Female Nude" 
 
     **Assignment 2:**
 
@@ -147,7 +147,7 @@ Feb 13 -- Visualizing LA in Hypermedia
 
     Evelyn Schlusselberg, _" Dans le Quartier St. Gervais:_ An Exploratory Learning Environment," in Matthew E. Hedges and Russell M. Sasnett, _Multimedia Computing_
 
-     To see one tour on line, check out [El Camino de Santiago](http://www.humnet.ucla.edu/santiago/iagohome.html)
+     To see one tour on line, check out El Camino de Santiago
 
     **Assignment 3:**
 
@@ -175,7 +175,7 @@ Mar 05 -- A Democratic Medium?
 
     Usenet, press discussion of the controversy over pornography on the net, especially recent debate between Germany and Compuserve. You can access Usenet lists by choosing the NEWSGROUP or USENET FAQs options in the Web search engine provided with Netscape. 
 
-    also try visiting some sites like the [Center for Democracy and Technology](http://www.cdt.org/), [Freedom Magazine](http://www.theta.com/freedommag/internet.html), the [Censorship and Intellectual Freedom page](http://bronze.ucs.indiana.edu/~quinnjf/censor.html), or just search for key words like democracy, freedom, or the recent communications bill passed by Congress. 
+    also try visiting some sites like the Center for Democracy and Technology, Freedom Magazine, the Censorship and Intellectual Freedom page, or just search for key words like democracy, freedom, or the recent communications bill passed by Congress. 
 
 Mar 12 -- A discussion of proposals:
 
@@ -185,6 +185,5 @@ Mar 12 -- A discussion of proposals:
 
 **FINAL PROPOSALS ARE DUE TO ME BY 3:00 PM, MARCH 15 **
 
-Jump to classmates' proposed [home pages](hmpgspr.html) or return to [Reiff
-home page](index.html)
+Jump to classmates' proposed home pages or return to Reiff home page
 

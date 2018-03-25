@@ -15,7 +15,7 @@ Professor:  David T. Beito
 Office Hours:  Monday and Wednesday: 3:35-4:35 p.m. (and by appointment)  
 226 ten Hoor Hall  
 Phone: 348-1870  
-e-mail:  [dbeito@history.as.ua.edu](mailto:dbeito@history.as.ua.edu)
+e-mail:  dbeito@history.as.ua.edu
 
 Teaching Assistants:  Fran Baer, Ed Black, Chris Riley  
 Office Hours:  (See the syllabus of your teaching assistant)  
@@ -225,11 +225,9 @@ _FINAL EXAM_ :  Saturday, May 6, 2000 between 2:00 - 4:30 p.m. in this room.
 
 ![](_themes/neon2/neoarule.gif)
 
-[Return to the History Department Homepage](file:///C:/Documents and
-Settings/kbranyon/My Documents/My Webs/myweb/hydept.htm)
+Return to the History Department Homepage
 
-[Return to History Classes on the Web](file:///C:/Documents and
-Settings/kbranyon/My Documents/My Webs/myweb/classes.htm)
+Return to History Classes on the Web
 
-[![](uahome.gif)](http://www.ua.edu)
+![](uahome.gif)
 

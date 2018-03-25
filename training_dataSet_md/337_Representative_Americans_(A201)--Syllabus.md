@@ -4,8 +4,7 @@
 
 ## Spring 1997
 
-[[Brief Description]](default.html) [Required Reading] [Assignments] [Class
-Schedule]
+[Brief Description] [Required Reading] [Assignments] [Class Schedule]
 
 ![](images/barred.gif)
 
@@ -20,7 +19,7 @@ Office: Ballantine Hall 520
 Office Hours: TR 2:30-3:30 p.m.  
 Office Phone: 855-7718
 
-e-mail: [slwalter@indiana.edu](mailto:slwalter@indiana.edu)
+e-mail: slwalter@indiana.edu
 
 ### Course Description:
 
@@ -39,21 +38,15 @@ icons' like James Dean, and of how 'adult' responses to youth culture and
 youth rebellion become embodied in social institutions such as the family and
 the public school.  
 
-Click here to try an [Introductory Quiz](quiz.html).
+Click here to try an Introductory Quiz.
 
 ### Required Texts: (available in area bookstores)
 
-William Graebner, [ Coming of Age in
-Buffalo](http://www.amazon.com/exec/obidos/ISBN=1566391970/2899-3379469-481886)
-(1990)
+William Graebner,  Coming of Age in Buffalo (1990)
 
-Terry Anderson, [ The Movement and the
-Sixties](http://www.amazon.com/exec/obidos/ISBN=0195104579/2899-3379469-481886)
-(1995)
+Terry Anderson,  The Movement and the Sixties (1995)
 
-Douglas Coupland, [Generation
-X](http://www.amazon.com/exec/obidos/ISBN=0349103313/2899-3379469-481886)
-(1991)
+Douglas Coupland, Generation X (1991)
 
 In addition, a **Course Packet** will be available for purchase at Mr. Copy
 (located at 10th and Dunn Streets). These readings are noted on the Class
@@ -66,8 +59,7 @@ the Main Library. Copies of required texts are also on reserve. Reserve
 readings are noted on the Class Schedule as being "(on reserve)". Additional
 readings may be placed on reserve as the course progresses.
 
-Click here to go to the [ I.U. Library's Reserve
-Catalog](http://www.indiana.edu/~libreser/Iforms/catalog.html).
+Click here to go to the  I.U. Library's Reserve Catalog.
 
 Return to top
 
@@ -91,10 +83,10 @@ are available at the Media Reserve Desk in the Main Library.
 
 All films will be shown at 7:15 p.m. in Ballantine Hall 003.
 
-Click here to search the [Internet Movie Database](http://us.imdb.com/search)
-for detailed information on each film.
+Click here to search the Internet Movie Database for detailed information on
+each film.
 
-Click here for class-related [viewing tips](tips.html).
+Click here for class-related viewing tips.
 
 ### Course Requirements:
 
@@ -104,29 +96,28 @@ of assignments based on our study of the cultural history of American youth.
 These assignments and their weight in determining your final grade for this
 course are as follows:
 
-[Personal Journal](journal.html) (25%)--you will keep a personal journal of
-your reactions to our readings, lectures, etc. This on-going assignment will
-allow you to react individually to our common experiences and to write in a
-looser style than will be expected in other assignments. It will allow your
-instructor to evaluate each individual's level of engagement with our readings
-and our class. Also, writing in your journal will give you a basis for
-participation in class discussions. Journal entries will be collected bi-
-weekly for review by your instructor.
+Personal Journal (25%)--you will keep a personal journal of your reactions to
+our readings, lectures, etc. This on-going assignment will allow you to react
+individually to our common experiences and to write in a looser style than
+will be expected in other assignments. It will allow your instructor to
+evaluate each individual's level of engagement with our readings and our
+class. Also, writing in your journal will give you a basis for participation
+in class discussions. Journal entries will be collected bi-weekly for review
+by your instructor.
 
-[Group Presentation](group.html) (25%)--everyone will be expected to take part
-in a group presentation project in the latter part of the semester. Group
-members will make a presentation on their topic to the class and each member
-will write a brief (2-3 pp.) paper on the presentation topic. Group projects
-will focus on some aspect of youth rebellion in the 1960s (e.g., the Civil
-Rights Movement, the New Left, the Counterculture, the underground press).
+Group Presentation (25%)--everyone will be expected to take part in a group
+presentation project in the latter part of the semester. Group members will
+make a presentation on their topic to the class and each member will write a
+brief (2-3 pp.) paper on the presentation topic. Group projects will focus on
+some aspect of youth rebellion in the 1960s (e.g., the Civil Rights Movement,
+the New Left, the Counterculture, the underground press).
 
-[Research Paper](paper.html) (30%)--you will be expected to complete one
-longer (10-12 pp.) research paper as your final assignment in this class.
-Papers may address any topic covered in the course, or may introduce new
-topics that can be closely related to ideas, issues, or historical themes
-raised during the semester. Your research will be expected to encompass both
-primary and secondary sources. A paper proposal will be collected in class
-early in the semester.
+Research Paper (30%)--you will be expected to complete one longer (10-12 pp.)
+research paper as your final assignment in this class. Papers may address any
+topic covered in the course, or may introduce new topics that can be closely
+related to ideas, issues, or historical themes raised during the semester.
+Your research will be expected to encompass both primary and secondary
+sources. A paper proposal will be collected in class early in the semester.
 
 *Click on the individual assignment (above) to jump directly to a separate assignment sheet describing the basic requirements for each of these projects. 
 
@@ -166,58 +157,45 @@ grades on other assignments).
 |  Topics | Readings | Links  
 ---|---|---|---  
 January 14th | Introduction | none | none  
-January 16th | Studying Youth Rebellion: Themes |
-[click](reading.html#Studying) | click  
-January 21st | Youth in American Culture | [click](reading.html#Overview) |
-click  
-January 23rd | Youth Culture & the Media | [click](reading.html#Media) | click  
+January 16th | Studying Youth Rebellion: Themes | click | click  
+January 21st | Youth in American Culture | click | click  
+January 23rd | Youth Culture & the Media | click | click  
 January 28th | FILM NIGHT I: Cry-Baby  
-January 30th | Youth Culture in Popular Culture |
-[click](reading.html#Popular) | click  
-February 4th | Wayward Girls: Sex Delinquency as Youth Rebellion |
-[click](reading.html#Wayward) | click  
-February 6th | Flappers: Bohemianism as Youth Rebellion |
-[click](reading.html#Flapper) | [click](links.html#Flapper)  
+January 30th | Youth Culture in Popular Culture | click | click  
+February 4th | Wayward Girls: Sex Delinquency as Youth Rebellion | click |
+click  
+February 6th | Flappers: Bohemianism as Youth Rebellion | click | click  
 February 12th | FILM NIGHT II: Our Dancing Daughters  
-February 13th | High Schools and Youth Culture | [click | click  
-February 18th | Reefer Madness (in-class film) | [click](reading.html#Reefer)
-| click  
-February 20th | 'Cafeteria Commies': Politics as Youth Rebellion |
-[click](reading.html#Cafeteria) | click  
+February 13th | High Schools and Youth Culture | click | click  
+February 18th | Reefer Madness (in-class film) | click | click  
+February 20th | 'Cafeteria Commies': Politics as Youth Rebellion | click |
+click  
 February 25th | FILM NIGHT III: Zoot Suit  
-February 27th | The Zoot Suit Riots | [click](reading.html#Zoot) | click  
-March 4th | The Juvenile Delinquent and the 1950s |
-[click](reading.html#Juvenile) | click  
+February 27th | The Zoot Suit Riots | click | click  
+March 4th | The Juvenile Delinquent and the 1950s | click | click  
 March 6th | FILM NIGHT IV: Rebel Without a Cause  
-March 11th | The Family and Delinquency | [click](reading.html#Family) | click  
-March 13th | Rebel Chic: Youth Culture & Consumer Culture |
-[click](reading.html#Chic) | click  
+March 11th | The Family and Delinquency | click | click  
+March 13th | Rebel Chic: Youth Culture & Consumer Culture | click | click  
 March 18th-March 20th | SPRING BREAK (NO CLASSES)  
-March 25th | The Beat Generation | [click](reading.html#Beat) |
-[click](links.html#Beat)  
-March 27th | The Civil Rights Movement | [click](reading.html#Civil) | click  
+March 25th | The Beat Generation | click | click  
+March 27th | The Civil Rights Movement | click | click  
 April 1st | FILM NIGHT V: Baby, It's You  
-April 3rd | The New Left | [click](reading.html#New) | click  
+April 3rd | The New Left | click | click  
 April 8th | 'Breaking Boundaries, Testing Limits' (video) | none | click  
-April 10th | The Counterculture | [click](reading.html#Counterculture) |
-[click](links.html#Counterculture)  
+April 10th | The Counterculture | click | click  
 April 16th | FILM NIGHT VI: Billy Jack  
-April 17th | Ethnic Renewal as Youth Rebellion | [click](reading.html#Ethnic)
-| [ click](links.html#Ethnic)  
-April 22nd | Radical Feminism | [click](reading.html#Feminism) |
-[click](links.html#Feminism)  
-April 24th | Youth Liberation | [click](reading.html#YLF) | click  
+April 17th | Ethnic Renewal as Youth Rebellion | click |  click  
+April 22nd | Radical Feminism | click | click  
+April 24th | Youth Liberation | click | click  
 April 30th | FILM NIGHT VII: Slacker  
-May 1st | Generation X | [click](reading.html#X) | click  
+May 1st | Generation X | click | click  
   
-![Louise Brooks](images/brooks.jpg) special thanks to the[ Louise Brooks
-Society](http://www.pandorasbox.com/flapper.html) for the images used on this
-page
+![Louise Brooks](images/brooks.jpg) special thanks to the Louise Brooks
+Society for the images used on this page
 
 Return to Top
 
-[ ![](images/1arrow4.gif) Return to American Studies Program Home
-Page](http://www.indiana.edu/~amrstudy/)
+![](images/1arrow4.gif) Return to American Studies Program Home Page
 
 * * *
 
@@ -225,8 +203,8 @@ Page](http://www.indiana.edu/~amrstudy/)
 
 Last update: 5 November 1997  
 URL: http://php.indiana.edu/~slwalter/courses/A201/syllabus.html  
-[Indiana University, Bloomington](http://www.indiana.edu/iub/)  
-Comments: [slwalter@indiana.edu](mailto:slwalter@indiana.edu)
+Indiana University, Bloomington  
+Comments: slwalter@indiana.edu
 
 * * *
 

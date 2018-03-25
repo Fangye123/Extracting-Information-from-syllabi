@@ -4,8 +4,8 @@
 
 ##  Fall 1998
 
-**[Click Here to see the Final Exam Essay Question](rp110fnl.htm)**
-**Instructor:** Dr. Robert F. Pace  
+**Click Here to see the Final Exam Essay Question** **Instructor:** Dr. Robert
+F. Pace  
 **Office:** 233 M. Ruffner  
 **Office telephone:** 395-2220  
 **Office hours:**  
@@ -13,8 +13,7 @@ MW: 1:30-2:30
 TR: 10:00-11:00;  
 F: 1:30-2:00  
 OR BY APPOINTMENT  
-**Instructor e-mail:**   [rpace@longwood.lwc.edu](mailto:
-rpace@longwood.lwc.edu)  
+**Instructor e-mail:**   rpace@longwood.lwc.edu  
     
 **_Table of Contents_**  
  Course Description  
@@ -46,7 +45,7 @@ _     Since 1648_. Sixth Edition. Upper Saddle River, N.J.: Prentice Hall,
 1998.
 
 Web site for this textbook:  
-**<http://www.prenhall.com/bookbind/pubbooks/kagan/index.html>**
+**http://www.prenhall.com/bookbind/pubbooks/kagan/index.html**
 
  Return to Table of Contents
 
@@ -293,8 +292,7 @@ After the student has read the chapter, including the documents placed
 throughout the chapter, he or she will use the Internet and go to the Prentice
 Hall Webpage for our textbook. Use the on-line instructions to go to the
 appropriate chapter(s) assigned for that week. Students must make sure that
-the instructor's email address
-([rpace@longwood.lwc.edu](mailto:rpace@longwood.lwc.edu)) appears on the form
+the instructor's email address (rpace@longwood.lwc.edu) appears on the form
 for the results to be sent to him. This can be accomplished through changing
 the "Preferences" section on the page, or through typing the address after you
 have submitted the quiz for scoring. Also make sure you click the buttons for
@@ -404,7 +402,7 @@ part of your sketch should be to justify that person's inclusion on the list.
 cited according to Kate Turabian, _A Manual for Writers. . ._. Sources should
 be cited (in footnotes or endnotes) for all information. Failure to do so will
 result in a significant reduction in the grade. Examples of the form required
-can be found at <http://web.lwc.edu/academic/las/history/rp110syl.htm#form>
+can be found at http://web.lwc.edu/academic/las/history/rp110syl.htm#form
 
 (This is part of a syllabus from last year, so don't get confused).
 
@@ -462,10 +460,8 @@ or Scott Lissner in the Learning Center.
 * * *
 
   
- [Return to Fall 1998 Syllabus
-Page](http://web.lwc.edu/academic/las/history/Syllabi.htm#Fall 1998 Syllabi)  
- [Return to Department of History and Political Science
-Homepage](http://web.lwc.edu/academic/las/history/Home.htm)  
+ Return to Fall 1998 Syllabus Page  
+ Return to Department of History and Political Science Homepage  
 
 * * *
 

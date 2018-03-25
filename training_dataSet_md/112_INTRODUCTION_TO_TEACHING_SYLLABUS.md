@@ -4,8 +4,7 @@
 
 **SYLLABUS**
 
-[Amplification of Course
-Assignments](http://webs.csu.edu/~big0ama/CSU/ELCAF/courses/ELCF152/Amplification.html)
+Amplification of Course Assignments
 
 Dr. Makedon
 
@@ -317,10 +316,10 @@ Wolf, Howard R. The Education of a Teacher: Essays on American Culture.
 Buffalo, N.Y.: Prometheus Books, 1987.  
 ---  
   
-[Alexander Makedon ](http://webs.csu.edu/~big0ama/CSUhomepg.html)  
-[Chicago State University ](http://www.csu.edu)  
+Alexander Makedon  
+Chicago State University  
 
-_**Copyright (C) 1999 [A. Makedon](mailto:A-Makedon@csu.edu)**_
+_**Copyright (C) 1999 A. Makedon**_
 
 Return to the Top
 

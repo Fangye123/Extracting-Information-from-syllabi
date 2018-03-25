@@ -74,7 +74,7 @@ getting the essay back.
 
 **Monday, 8 January:** Course introduction and discussion of the forms of and
 history of the novel.  
-     **Assignment for Wednesday, 10 January** : Read Aphra Behn _Oroonoko_ pp. 5-34.   Write down one question about the reading and be prepared for a quiz. Links related to Aphra Behn and _Oroonoko_ :   [Bibliography on Oroonoko](http://andromeda.rutgers.edu/~jlynch/Biblio/behn.html)  [Tour of Restoration London](http://www.okima.com/tour/index.html)  [Biography of Aphra Behn](http://www.DistinguishedWomen.com/biographies/behn.html)
+     **Assignment for Wednesday, 10 January** : Read Aphra Behn _Oroonoko_ pp. 5-34.   Write down one question about the reading and be prepared for a quiz. Links related to Aphra Behn and _Oroonoko_ :   Bibliography on Oroonoko  Tour of Restoration London  Biography of Aphra Behn
 
 **Wednesday, 10 January:**   More on the novel.  Introduction to _Oroonoko_.  
      **Assignment for Friday, 12 January** :  Finish Behn _Oroonoko_.   Write down one question about the reading. 
@@ -87,10 +87,10 @@ Discussion of _Oroonoko_.
 
 **Wednesday, 17 January:  ** Discussion of Horace Walpole, _Castle of
 Otranto_.  
-     **Assignment for Friday, 19 January:** Read _Castle of Otranto_ pp. 60-115. Write down one question about the reading. Walpole Links:    [The Gothic: Materials for Study](http://www.engl.virginia.edu/~enec981/Group/title.html)  [Text and Information about Castle of Otranto](http://www.intcon.net/~felis/library/otranto/otranto.html)  [Strawberry Hill](http://www.conncoll.edu/ccacad/eng309/picturesque/255.html)  [Walpole and Strawberry Hill (Norton)](http://www.wwnorton.com/nael/nto/romantic/litgoth/strahillfrm.htm)
+     **Assignment for Friday, 19 January:** Read _Castle of Otranto_ pp. 60-115. Write down one question about the reading. Walpole Links:    The Gothic: Materials for Study  Text and Information about Castle of Otranto  Strawberry Hill  Walpole and Strawberry Hill (Norton)
 
 **Friday, 19 January:**   Finish _Castle of Otranto_.  
-    **Assignment for Monday, 22 January:**   Read Charlotte Bronte, _Jane Eyre_ pp. 1-51.   Write down one question about the reading. Bronte links:  [Bronte Sisters Web](http://www.lang.nagoya-u.ac.jp/~matsuoka/Bronte.html)  [The Bronte Sisters](http://www2.sbbs.se/hp/cfalk/bronte1e.htm)
+    **Assignment for Monday, 22 January:**   Read Charlotte Bronte, _Jane Eyre_ pp. 1-51.   Write down one question about the reading. Bronte links:  Bronte Sisters Web  The Bronte Sisters
 
 **Monday, 22 January:**   Introduction to _Jane Eyre_.  
      **Assignment for Wednesday, 24 January** :  Read _Jane Eyre_ pp. 51-103. Write down one question about the reading. 
@@ -114,13 +114,13 @@ Otranto_.
     **Assignment for Wednesday, 7 February:**   Read _Jane Eyre_ pp. 361-398. Write down one question about the reading. 
 
 **Wednesday, 7 February:** Last class on _Jane Eyre_.  
-    **Assignment for Friday, 9 February:**   Read Jean Rhys, _Wide Sargasso Sea_ pp. 3-52. Write down one question about the reading. Links for Jean Rhys:   [resources on Rhys](http://home.olemiss.edu/~djr/rhys-links.html)
+    **Assignment for Friday, 9 February:**   Read Jean Rhys, _Wide Sargasso Sea_ pp. 3-52. Write down one question about the reading. Links for Jean Rhys:   resources on Rhys
 
 **Friday, 9 February:**   Introduction to _Wide Sargasso Sea_.  
     **Assignment for Monday, 12 February:**   Read _Wide Sargasso Sea_ pp. 52-112. Write down one question about the reading. 
 
 **Monday, 12 February** : Discussion of _Wide Sargasso Sea_.  
-    **Assignment for Wednesday, 14 February:**   Read Charles Dickens, _Great Expectations_ pp. 9-55.   Write down one question about the reading. Some Links for Dickens:  [David Perdue's Charles Dickens Page](http://www.fidnet.com/~dap1955/dickens/)  [Charles Dickens, An Overview (Victorian Web)](http://landow.stg.brown.edu/victorian/dickens/dickensov.html)
+    **Assignment for Wednesday, 14 February:**   Read Charles Dickens, _Great Expectations_ pp. 9-55.   Write down one question about the reading. Some Links for Dickens:  David Perdue's Charles Dickens Page  Charles Dickens, An Overview (Victorian Web)
 
 **Wednesday, 14 February** :  Discussion of _Great Expectations._  
     **Assignment for Friday, 16 February:  ** Read _Great Expectations_ pp. 55-96. Write down one question about the reading. 
@@ -151,7 +151,7 @@ Expectations_.
 
 **Wednesday, 7 March:**   Proposal for the first essay due.  Introduction to
 Faulkner _Light in August_.  
-    **Assignment for Friday, 9 March:**   Read _Light in August_ pp. 57-101.   Write down one question about the reading. Links for Faulkner:   [William Faulkner on the Web](http://www.mcsr.olemiss.edu/~egjbp/faulkner/faulkner.html)
+    **Assignment for Friday, 9 March:**   Read _Light in August_ pp. 57-101.   Write down one question about the reading. Links for Faulkner:   William Faulkner on the Web
 
 **Friday, 9 March** :  Discussion of _Light in August_.  
     **Assignment for Monday, 19 March** :  Read _Light in August_ pp. 102-169.   Write down one question about the reading. 
@@ -183,7 +183,7 @@ Faulkner _Light in August_.
     **Assignment for Friday, 6 April:**   Read _Light in August_ pp. 493-507.   Write down one question about the reading. 
 
 **Friday, 6 April:  ** Last class on _Light in August_.  
-    **Assignment for Monday, 9 April :**   Read Annie Proulx, _The Shipping News_ pp. 1-55.   Write down one question about the reading. Links for Proulx:   [A Guide to E. Annie Proulx](http://eannieproulx.homepage.com/)  [Proulx biography from her publisher](http://www.simonandschuster.com/author.cfm?isbn=0671510053)  [Atlantic Interview with Annie Proulx in 1997](http://www2.theatlantic.com/unbound/factfict/eapint.htm)
+    **Assignment for Monday, 9 April :**   Read Annie Proulx, _The Shipping News_ pp. 1-55.   Write down one question about the reading. Links for Proulx:   A Guide to E. Annie Proulx  Proulx biography from her publisher  Atlantic Interview with Annie Proulx in 1997
 
 **Monday, 9 April:  ** Final essay assigned. Discussion of _The Shipping
 News_.  

@@ -1,5 +1,4 @@
-######  **[Austin College](http://www.austinc.edu) [January
-Term](http://www.austinc.edu/academics/collegewide/janterm/c_index.htm)**
+######  **Austin College January Term**
 
 #  **Natural History of the Hawaiian Islands**
 
@@ -7,31 +6,27 @@ Term](http://www.austinc.edu/academics/collegewide/janterm/c_index.htm)**
 
 Instructor: Steven Goldsmith, Moody Science 314, 903-813-2204,
 sgoldsmith@austinc.edu  
-Steven Goldsmith's [home
-page](http://artemis.austinc.edu/acad/bio/sgoldsmith/Skg1.htm)
+Steven Goldsmith's home page
 
 All text and images on and associated with this page are copyright 1999,
 Steven K. Goldsmith
 
 Coordinator of activities: Becky Goldsmith, 903-870-0238,
 postmaster@pieceocake.com  
-Becky Goldsmith's [home page](http://www.pieceocake.com)  
+Becky Goldsmith's home page  
     
-  [Course Syllabus
-1999](http://artemis.austinc.edu/acad/bio/sgoldsmith/hawaii_1999.htm#syllabus)
-| [First Exam](http://artemis.austinc.edu/acad/bio/sgoldsmith/hawaii_exam.htm)
-| [Images](http://artemis.austinc.edu/acad/bio/sgoldsmith/hawaii_images.htm) |  
-[Links](http://artemis.austinc.edu/acad/bio/sgoldsmith/hawaii_links.htm)  
+  Course Syllabus 1999 | First Exam | Images |  
+Links  
 ---|---|---|---  
   
 **Syllabus:**  
-    [Content](http://artemis.austinc.edu/acad/bio/sgoldsmith/hawaii_1999.htm#Course content)   
-    [Field Notebooks](http://artemis.austinc.edu/acad/bio/sgoldsmith/hawaii_1999.htm#Field notebooks)   
-    [Grades](http://artemis.austinc.edu/acad/bio/sgoldsmith/hawaii_1999.htm#Grades)   
-    [Important Considerations](http://artemis.austinc.edu/acad/bio/sgoldsmith/hawaii_1999.htm#imp.cons)   
-    [Hawaiian language](http://artemis.austinc.edu/acad/bio/sgoldsmith/hawaii_1999.htm#words)   
-    [Things  to bring](http://artemis.austinc.edu/acad/bio/sgoldsmith/hawaii_1999.htm#gear)   
-    [Itinerary 1999](http://artemis.austinc.edu/acad/bio/sgoldsmith/hawaii_1999.htm#itinerary)   
+    Content   
+    Field Notebooks   
+    Grades   
+    Important Considerations   
+    Hawaiian language   
+    Things  to bring   
+    Itinerary 1999   
 
 
 **Course content:** Archipelagoes have been called "crucibles of evolution".
@@ -240,8 +235,7 @@ Humuhumunukunukuapua'a: the Hawaiian state fish ( _Rhinecanthusrectangulus_ ),
 whose English name is the "reef triggerfish".  
 
 
-See the NPS site on the [Hawaiian
-language](http://pigpen.itd.nps.gov/havo/language.htm) for more information.  
+See the NPS site on the Hawaiian language for more information.  
 
 * * *
 
@@ -338,7 +332,7 @@ Sat Jan 2:  Travel -- fly from DFW to Oahu, then on to Hawaii
 > Royal Kona Resort Phone: 808-329-3111  
 > 75-5852 Alii Drive Fax: 808-329-7230  
 > Kailua-Kona, Hawaii 96740 1-800-221-5641  
-> [www.royalkona.com](http://www.royalkona.com)
+> www.royalkona.com
 
   
 Sun Jan 3: Hawaii -- Driving tour of the Big Island
@@ -377,7 +371,7 @@ NFL playoffs, etc.
 > Maui Islander Hotel Phone: 808-667-9766  
 > 660 Wainee Street 1-800-367-5226  
 > Lahaina, Maui, Hawaii 96761  
-> [www.aston-hotels.com](http://www.aston-hotels.com)
+> www.aston-hotels.com
 
 Sun Jan 10: Maui -- Haleakala NP: Hiking and Birding
 
@@ -442,7 +436,7 @@ Thurs Jan 21: Travel -- Kauai to Oahu; be ready to leave lodging at 10:00 am
 > Honolulu, Oahu HI 96815  
 > Phone: 808-922-1262  
 > Fax: 808-922-5048  
-> [www.aston-hotels.com](http://www.aston-hotels.com)
+> www.aston-hotels.com
 
   
 Fri Jan 22: Oahu -- Bishop Museum and Lyon Arboretum

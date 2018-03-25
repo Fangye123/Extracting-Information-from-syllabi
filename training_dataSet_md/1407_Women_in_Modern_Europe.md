@@ -16,7 +16,7 @@ Office hours: W 2-4, F 9:30-11:30, other times by appt.
   
 |
 
-email: [wiltenburg@rowan.edu](mailto:wiltenburg@rowan.edu)  
+email: wiltenburg@rowan.edu  
   
 This course examines the history of women in Europe from the eighteenth
 century to the twentieth. As a 400-level history course, it requires a serious
@@ -53,8 +53,7 @@ Readings marked with * available on reserve
 
 **Plagiarism** \--the submission of work that represents the work of others as
 the student's own--will result in failure in the course and a report to the
-Provost. Students should download the [plagiarism
-sheet](http://www.rowan.edu/history/plagiarism.html)
+Provost. Students should download the plagiarism sheet
 (http://www.rowan.edu/history/plagiarism.html) posted by Dr. Carrigan and will
 be asked to sign a statement that they understand and are adhering to accepted
 rules of documentation.
@@ -132,7 +131,7 @@ A revolution for women?
 
 -Bell & Offen, 1:37-41, 50-64, 97-109  
 -Levy and Applewhite, "A Political Revolution for Women?" in Bridenthal, ch. 10  
--Wollstonecraft, [Vindication of the Rights of Woman](http://www.fordham.edu/halsall/mod/mw-vind.html), Chapter V, section I [note: this is Wollstonecraft's direct response to Rousseau and contains many quotations from him that you have already read]  
+-Wollstonecraft, Vindication of the Rights of Woman, Chapter V, section I [note: this is Wollstonecraft's direct response to Rousseau and contains many quotations from him that you have already read]  
 -*Taylor, _Eve and the New Jerusalem_ , 1-18  
   
 Feb. 26-28

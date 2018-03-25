@@ -2,13 +2,10 @@
 
 # WED 561: RESEARCH METHODS
 
-[
+#### Department of Workforce Education and Development  
+Southern Illinois University at Carbondale
 
-#### Department of Workforce Education and
-Development](http://www.siu.edu/~wed01)  
-[Southern Illinois University at Carbondale](http://www.siu.edu/cwis)
-
-[Larry J. Bailey](http://www.siu.edu/~wed08/vitae.html)
+Larry J. Bailey
 
 ####
 
@@ -24,7 +21,7 @@ _Course Syllabus_
 ![](../images/blueball.gif)Grading  
 ![](../images/blueball.gif)Policies and Standards  
 ![](../images/blueball.gif)Instructor Information  
-![](../images/blueball.gif)[Schedule of Classes](561f02.html)
+![](../images/blueball.gif)Schedule of Classes
 
 _Purpose of the Course_
 
@@ -80,30 +77,28 @@ work with their program committee to actually conduct and report the research
 New WED Department policies require students to purchase instructional units.
 The instructor will provide details regarding cost and availability.
 
-  * [Unit One: Concepts and Definitions](unit1.html)
-  * [Unit Two: The Academic Research Problem](unit2.html)
-  * [Unit Three: Tools for Knowing](http://www.siu.edu/~wed08/Eunit/tools.html)
-  * [Unit Four: Chapter One - Introduction](unit4.html)
-  * [Unit Five: Chapter Two - Review of Literature and Research](unit5.html)
-  * [Unit Six: Chapter Three - Research Methods](unit6.html)
-  * [Unit Seven: APA Editorial Guidelines](http://www.siu.edu/~wed08/Eunit/apa1.htm)
-  * [Unit Eight: Chapter Four - Analysis and Results*](unit8.html)
-  * [Unit Nine: Chapter Five - Summary and Conclusions*](unit9.html)
+  * Unit One: Concepts and Definitions
+  * Unit Two: The Academic Research Problem
+  * Unit Three: Tools for Knowing
+  * Unit Four: Chapter One - Introduction
+  * Unit Five: Chapter Two - Review of Literature and Research
+  * Unit Six: Chapter Three - Research Methods
+  * Unit Seven: APA Editorial Guidelines
+  * Unit Eight: Chapter Four - Analysis and Results*
+  * Unit Nine: Chapter Five - Summary and Conclusions*
 
 _Text and Resource Materials_
 
 * * *
 
     ![](../images/561_9e.jpg) Best. J. W.,  & Kahn, J. V. (2003).   
-_Research in education_ (9th ed.). Boston: [ Allyn and
-Bacon](http://www.ablongman.com/catalog/academic/product/1,4096,0205349978,00.html).  
+_Research in education_ (9th ed.). Boston:  Allyn and Bacon.  
   
   
 
   
 
-![](../images/APA_2001.jpg) [American Psychological
-Association](http://www.apa.org/books/4200060.html). (2001).  
+![](../images/APA_2001.jpg) American Psychological Association. (2001).  
 _Publication manual of the American Psychological Association_ (5th ed.).
 Washington, DC: Author.  
 
@@ -114,9 +109,8 @@ Washington, DC: Author.
   
 
   
-[_SIUC Graduate School guidelines for preparation of  
-dissertations, theses, and research
-papers._](http://www.siu.edu/gradschl/dtrguide.htm)  
+_SIUC Graduate School guidelines for preparation of  
+dissertations, theses, and research papers._  
 Carbondale, IL: Southern Illinois University, Graduate School.
 
 _Assignments and Requirements_
@@ -160,23 +154,21 @@ _Instructor Information_
 
 * * *
 
-    [Dr. Larry J. Bailey](http://www.siu.edu/~wed08/vitae.html)  
-[Department of Workforce Education and
-Development](http://www.wed.siu.edu/Public/)  
+    Dr. Larry J. Bailey  
+Department of Workforce Education and Development  
 Mailcode 4605  
-[Southern Illinois University at Carbondale](http://www.siu.edu/cwis)  
+Southern Illinois University at Carbondale  
 Carbondale, IL 62901-4605  
 Office:  Pulliam Hall 217C  
 Phone: 618-453-1903, FAX 618-453-1909  
-Email: [lbailey@siu.edu](mailto:lbailey@siu.edu)  
-[Campus Map](http://www.siu.edu/siumaps/)  
+Email: lbailey@siu.edu  
+Campus Map  
 Student E-mail Addresses  
   
 
 * * *
 
-[![](../images/back.gif)](http://www.siu.edu/~wed08/index.html)
-![](../images/up.gif)
+![](../images/back.gif) ![](../images/up.gif)
 
 Updated 8.13.02  
 ---

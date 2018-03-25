@@ -1,13 +1,9 @@
 **![Augsburg Logo](http://www.augsburg.edu/images/logoB_blue.gif)  
 **
 
-[ Main](index.html) | [Course
-Syllabus](http://www.augsburg.edu/education/edc480/syllabus.html) | [Reserve
-Readings](http://www.augsburg.edu/education/edc480/readings.html) | [Learning
-Analysis Journal](http://www.augsburg.edu/education/edc480/journal-idx.html)  
-[Educational Philosophy Paper](http://www.augsburg.edu/education/edc480/paper-
-idx.html) | [Miscellaneous Course Handouts and Other Items of
-Interest](http://www.augsburg.edu/education/edc480/misc.html)  
+Main | Course Syllabus | Reserve Readings | Learning Analysis Journal  
+Educational Philosophy Paper | Miscellaneous Course Handouts and Other Items
+of Interest  
   
 
 **EDC 480--School and Society**  
@@ -139,8 +135,8 @@ demonstrations, simulations, student-led activities, cooperative activities,
 and media showings. Each activity is crafted with an appreciation for diverse
 learning styles based on temperament, gender, and cultural/ethnic differences.
 
-[EDC 480 Course Objectives and Assignments Aligned with Minnesota Standards of
-Effective Practice](standards.html)
+EDC 480 Course Objectives and Assignments Aligned with Minnesota Standards of
+Effective Practice
 
 **Required Texts:**
 
@@ -164,7 +160,7 @@ policy. Compliance procedures will be discussed further in class.
 **Grading Procedure:** There are several components to your grade for this
 course. They include:
 
-  1. [Course Readings](readings.html): You have a choice regarding how you will document your learning from Glasser's _The Quality School_ , Kohn's _The Schools Our Children Deserve,_ Quinn's _My Ishmael,_ and the other readings on reserve. You can either (a) prepare edited notes based on what you learn during your reading of the item(s), or (b) participate in a take-home essay examination.  
+  1. Course Readings: You have a choice regarding how you will document your learning from Glasser's _The Quality School_ , Kohn's _The Schools Our Children Deserve,_ Quinn's _My Ishmael,_ and the other readings on reserve. You can either (a) prepare edited notes based on what you learn during your reading of the item(s), or (b) participate in a take-home essay examination.  
   
 
     1. Essay/Learning Notes: This involves either preparing typed and edited notes reviewing the concepts and skills covered in the course reading(s) or writing a brief essay about the item(s) read. The notes or essay should be written in such a way as to highlight your careful understanding, reflection, analysis, and evaluation of the concepts discussed in the texts, not simply copying what the book says. As with any written assignment, the notes or essay should display college-level writing skills (full sentences, good grammar, etc.). The notes or essay will be due at the beginning of class on the dates indicated below in the course schedule. Or   
@@ -175,10 +171,10 @@ course. They include:
 In either case, you will be able to earn up to 30 points for these activities.  
   
 
-  2. [Learning Analysis Journals](journal-idx.html): Five typed, two page Learning Analysis Journals, in which you reflect on and analyze your experience(s) in K-12 schools using concepts drawn from this course (this will be discussed further in class), worth 6 points each,  
+  2. Learning Analysis Journals: Five typed, two page Learning Analysis Journals, in which you reflect on and analyze your experience(s) in K-12 schools using concepts drawn from this course (this will be discussed further in class), worth 6 points each,  
   
 
-  3. [Educational Philosophy Paper](paper-idx.html): An 8-10 page documented statement of your educational philosophy and practice, worth 30 points, and  
+  3. Educational Philosophy Paper: An 8-10 page documented statement of your educational philosophy and practice, worth 30 points, and  
   
 
   4. **Task Management and Participation** : If you successfully demonstrate professional-level task management and participate in all class meetings in an informed and enthusiastic manner, you will receive up to ten points, otherwise fewer or no points. (Class participation points can be earned only when a student attends class regularly.) Students may, with the permission of the instructor, make-up unavoidable absences (e.g., illness or family emergency) by engaging in equivalent learning activities which the student must design and document for the instructor. Other avoidable absences may not be made-up.
@@ -217,11 +213,11 @@ a stand. Your continued investigation of education will be enhanced by this
 road map.
 
 This paper will be 8-10 pages in length, typed, double-spaced, and conform to
-[American Psychological Association (APA) style](paper-idx.html). (APA is the
-standard professional format for educators. The APA Publication Manual is
-available in the reference section of the library.) The paper must conform to
-APA format for bibliographic research, inclusive language, documentation and
-professional style.
+American Psychological Association (APA) style. (APA is the standard
+professional format for educators. The APA Publication Manual is available in
+the reference section of the library.) The paper must conform to APA format
+for bibliographic research, inclusive language, documentation and professional
+style.
 
 Portions or drafts of the paper will be handed-in several times during the
 term to provide opportunities for feedback at the pre-writing, drafting,
@@ -235,9 +231,8 @@ that you pass the writing assignment in order to pass this course (whether or
 not you are completing your bachelor's degree at Augsburg College).
 
 Several documents which discuss how to develop your paper will be distributed
-in class [and are available at this website](paper-idx.html). Several in-class
-activities will also assist you in identifying and developing your educational
-philosophy.
+in class and are available at this website. Several in-class activities will
+also assist you in identifying and developing your educational philosophy.
 
 **Late Work Policy:** Course assignments handed-in on time may be re-done for
 additional credit if they are deficient in some way. On time means the
@@ -378,8 +373,7 @@ of class on the date assigned. All assignments not previously handed-in are
 due no later than 4:00  P.M. on Tuesday, 10 April 2001. Any variance from this
 schedule must be pre-arranged with the instructor.
 
-[**Reserve Readings**](readings.html) **:** (Available at the Reserve Desk,
-Augsburg Library)  
+**Reserve Readings** **:** (Available at the Reserve Desk, Augsburg Library)  
   
 The following book chapters and other resources are available on reserve at
 the Lindell Library. These book chapters are required reading for the course
@@ -398,13 +392,9 @@ your course notes or in your preparations for examination.
 
 * * *
 
-[Main](index.html) | [Course
-Syllabus](http://www.augsburg.edu/education/edc480/syllabus.html) | [Reserve
-Readings](http://www.augsburg.edu/education/edc480/readings.html) | [Learning
-Analysis Journal](http://www.augsburg.edu/education/edc480/journal-idx.html)  
-[Educational Philosophy Paper](http://www.augsburg.edu/education/edc480/paper-
-idx.html) | [Miscellaneous Course Handouts and Other Items of
-Interest](http://www.augsburg.edu/education/edc480/misc.html)  
+Main | Course Syllabus | Reserve Readings | Learning Analysis Journal  
+Educational Philosophy Paper | Miscellaneous Course Handouts and Other Items
+of Interest  
 
 
 

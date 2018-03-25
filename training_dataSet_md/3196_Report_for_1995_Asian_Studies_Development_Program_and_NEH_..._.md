@@ -1,11 +1,8 @@
-### [![Asian Studies Development Program](/Images/lions.jpeg)](/asdp/)
+### ![Asian Studies Development Program](/Images/lions.jpeg)
 
 * * *
 
-[[About](/external/asdp/about.html)] [[Index](/external/asdp/index.html)]
-[[Search](/external/asdp/search.html)] [[Other
-Links](/external/asdp/links.html)]
-[[Comments/Submissions](/external/asdp/warning.html)]
+[About] [Index] [Search] [Other Links] [Comments/Submissions]
 
 ## Report for 1995 Asian Studies Development Program and NEH Institute on
 Japanese Culture and Civilization
@@ -1038,13 +1035,9 @@ _______. _Some Prefer Nettles_ Trans E Seidensticker New York: Knopf, 1955.
 Uno Chiyo. _Confessions of_Love_ Trans. Phyllis Birnbaurr Honolulu University
 of Hawaii Press, 1989.  
 
-[[About](/external/asdp/about.html)] [[Index](/external/asdp/index.html)]
-[[Search](/external/asdp/search.html)] [[Other
-Links](/external/asdp/links.html)]
-[[Comments/Submissions](/external/asdp/warning.html)]
+[About] [Index] [Search] [Other Links] [Comments/Submissions]
 
 * * *
 
-[ASDP Curriculum Online Project](/external/asdp/) <[
-ASDP@lama.kcc.Hawaii.Edu](mailto:asdp@lama.kcc.hawaii.edu)>
+ASDP Curriculum Online Project < ASDP@lama.kcc.Hawaii.Edu>
 

@@ -6,7 +6,7 @@ Fall 1996
 Instructor: Margaret Miller  
 Office: IBS5 #220 Office Hours: Monday 2:00-4:00; Wed. 11:00-12:00; also by
 appointment  
-[E-mail](mailto:meg.miller@colorado.edu)
+E-mail
 
 **Course Description and Objectives:**  
 This course serves as an introduction to American writing. It covers a range
@@ -47,13 +47,13 @@ informed interpretations.
 
   * _Great Short Works_ , Edgar Allan Poe (I809-1849)  
 
-  * _[Walden_](http://xroads.virginia.edu/~hyper/WALDEN/toc.html), Henry David Thoreau (I854)  
+  * _Walden_, Henry David Thoreau (I854)  
 
   * _Final Harvest_ , Emily Dickinson (1830-1886)  
 
   * _The Squatter and the Don_ , Maria Amparo Ruiz de Burton (I885)  
 
-  * [_The Tragedy of Pudd'nhead Wilson_](http://www.lm.com/~joseph/puddhead/puddtitl.html), Mark Twain (I894)  
+  * _The Tragedy of Pudd'nhead Wilson_, Mark Twain (I894)  
 
   * _Salute to Spring_ , Meridel Le Sueur (I940)  
 
@@ -101,16 +101,11 @@ a solution.
 09/23 Poe, from _Great Short Works_  
 09/25 Thoreau,  "Resistance to Civil Government" (called "Civil Disobedience")
 (I849)  
-09/27 To Be Announced (
-_[Walden_](http://xroads.virginia.edu/~hyper/WALDEN/toc.html))  
-09/30 To Be Announced (
-_[Walden_](http://xroads.virginia.edu/~hyper/WALDEN/toc.html))  
-10/02 [Walden_](http://xroads.virginia.edu/~hyper/WALDEN/toc.html); Emerson,
-excerpts from "Thoreau" (1862)  
-10/04 _[Walden_](http://xroads.virginia.edu/~hyper/WALDEN/toc.html); Emerson,
-excerpts from "Self-Reliance" (I841)  
-10/07 _[Walden_](http://xroads.virginia.edu/~hyper/WALDEN/toc.html); Fuller,
-_New-York Daily Tribune Dispatch_ "Rome, May 27,1849"  
+09/27 To Be Announced ( _Walden_)  
+09/30 To Be Announced ( _Walden_)  
+10/02 Walden_; Emerson, excerpts from "Thoreau" (1862)  
+10/04 _Walden_; Emerson, excerpts from "Self-Reliance" (I841)  
+10/07 _Walden_; Fuller, _New-York Daily Tribune Dispatch_ "Rome, May 27,1849"  
 10/09 _The Squatter and the Don_ ; The Treaty of Guadalupe Hidalgo (1848)  
 10/11 _The Squatter and the Don_  
 10/14 _The Squatter and the Don_  
@@ -123,14 +118,11 @@ _New-York Daily Tribune Dispatch_ "Rome, May 27,1849"
 10/30 Emily Dickinson  
 11/01 Emily Dickinson  
 11/04 Emily Dickinson  
-11/06 [_The Tragedy of Pudd'nhead
-Wilson_](http://www.lm.com/~joseph/puddhead/puddtitl.html)  
-11/08 [_The Tragedy of Pudd'nhead
-Wilson_](http://www.lm.com/~joseph/puddhead/puddtitl.html)  
-11/11 [_The Tragedy of Pudd'nhead
-Wilson_](http://www.lm.com/~joseph/puddhead/puddtitl.html); exerpts from the
-narratives of Frederick Douglass and Harriet Jacobs (1845, 1861)  
-11/13 [_Pudd'nhead Wilson_](http://www.lm.com/~joseph/puddhead/puddtitl.html)  
+11/06 _The Tragedy of Pudd'nhead Wilson_  
+11/08 _The Tragedy of Pudd'nhead Wilson_  
+11/11 _The Tragedy of Pudd'nhead Wilson_; exerpts from the narratives of
+Frederick Douglass and Harriet Jacobs (1845, 1861)  
+11/13 _Pudd'nhead Wilson_  
 11/15 _Salute to Spring_  
 11/18 _Salute to Spring_  
 11/20 _Salute to Spring_  

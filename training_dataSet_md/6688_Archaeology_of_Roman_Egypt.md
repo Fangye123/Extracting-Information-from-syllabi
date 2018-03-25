@@ -33,7 +33,7 @@ Go to:
   * Course Prerequisites and Requirements
   * Readings
   * Syllabus
-  * [Visit Kelsey Museum On-Line](http://classics.lsa.umich.edu/Kelsey/Outreach.html)
+  * Visit Kelsey Museum On-Line
   
 
 * * *

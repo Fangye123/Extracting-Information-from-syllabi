@@ -206,16 +206,15 @@ University of Illinois at Chicago
 851 South Morgan Street  
 Chicago, IL 60607-7049  
   
-[![](http://h-net.msu.edu/~pol/graphics/tbar.polh-pol.gif)](/~pol/)
-[Return](/~pol/) to H-POL's Home Page.  
+![](http://h-net.msu.edu/~pol/graphics/tbar.polh-pol.gif) Return to H-POL's
+Home Page.  
 
   
 
   
-[![H-Net Humanities & Social Sciences
-OnLine](/footers/graphics/logosmall.gif)](/)  
-[Contact Us](/contact/)  
+![H-Net Humanities & Social Sciences OnLine](/footers/graphics/logosmall.gif)  
+Contact Us  
 Copyright (C) 1995-2002, H-Net, Humanities & Social Sciences OnLine  
-Click Here for an [Internet Citation Guide](/about/citation).  
+Click Here for an Internet Citation Guide.  
 ---
 

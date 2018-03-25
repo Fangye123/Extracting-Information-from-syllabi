@@ -129,10 +129,7 @@ Women and gender in family, work, education, politics, and religion.  Impact
 of age, race, ethnicity, region, class, and affectional preference on women's
 lives.  Changing definitions of womanhood and manhood.
 
-**History 220 : High Middle Ages : Olson
--[Syllabus](http://www.sp.uconn.edu/~wwwhist/syllabi_s01/H220syllabus.htm),
-[Lecture
-Outlines](http://www.sp.uconn.edu/~wwwhist/syllabi_s01/H220outline.htm)**  
+**History 220 : High Middle Ages : Olson -Syllabus, Lecture Outlines**  
 [Time: TuTh 9:30 - 10:45 | Location: STRS 311]  
   **Prerequisites** |  None.  
 ---|---  

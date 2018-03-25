@@ -38,24 +38,21 @@ of educational outcomes.
 
 ### **
 
-## [Spring, 2001 Schedule of Lectures and Readings**  
+## Spring, 2001 Schedule of Lectures and Readings**  
   
 ---  
-Dates, Topic(s), Required Readings, Other Readings](523sked.html)  
+Dates, Topic(s), Required Readings, Other Readings  
   
 Readings will be assigned, with some required texts and a course packet.
-[Images ](http://ccat.sas.upenn.edu/~haroldfs/messeas/images)such as maps and
-other handouts, will be posted on this website, and only rarely distributed in
-class. (The two National Geographic Maps (South Asia and Southeast Asia) will
-be ordered from NG for the Bookstore to distribute if they are available.) I
-will set up an email list for the class and post messages to you about
-readings and ``handouts".  
+Images such as maps and other handouts, will be posted on this website, and
+only rarely distributed in class. (The two National Geographic Maps (South
+Asia and Southeast Asia) will be ordered from NG for the Bookstore to
+distribute if they are available.) I will set up an email list for the class
+and post messages to you about readings and ``handouts".  
   
-**[Bibliographies](http://ccat.sas.upenn.edu/~haroldfs/messeas/socling.html)
-and other Readings.  
+**Bibliographies and other Readings.  
 ---  
-**[Maps](http://ccat.sas.upenn.edu/~haroldfs/messeas/images/frames.html) and
-other graphic materials **  
+**Maps and other graphic materials **  
   
 ## Highly Recommended Resources:
 
@@ -77,7 +74,7 @@ other graphic materials **
 
 ## Other Recommended Resources:
 
-    1. Errington, J. Joseph. [ Indonesian('s) Authority. ](http://www.cs.uchicago.edu/l-c/archives/subs/errington-joe/) To appear in a collection of essays on language and ideology, ed. Paul Kroskrity for the School of American Research 
+    1. Errington, J. Joseph.  Indonesian('s) Authority.  To appear in a collection of essays on language and ideology, ed. Paul Kroskrity for the School of American Research 
 
     2. Herbert, P. and A. Milner: _Southeast Asia: Languages and Literatures, a select Guide._ Hawaii 1989 
 
@@ -94,56 +91,43 @@ other graphic materials **
 
 ##  Suggested Library Electronic Resources
 
-The electronic resources are located on the [Library
-Database](http://www.library.upenn.edu/resources/databases/databasest.html)
-page. These are databases that contain references to articles and other
-scholarly resources that will be helpful for locating information on topics
-covered in this course. Each database also has an **About/Help** description
-that should answer most questions about how to search the database. If you
-experience difficulties, either contact a reference librarian or the South
-Asia Bibliographer, [David Nelson](mailto:nelsond@pobox.upenn.edu).
+The electronic resources are located on the Library Database page. These are
+databases that contain references to articles and other scholarly resources
+that will be helpful for locating information on topics covered in this
+course. Each database also has an **About/Help** description that should
+answer most questions about how to search the database. If you experience
+difficulties, either contact a reference librarian or the South Asia
+Bibliographer, David Nelson.
 
 A large number of the journals indexed by these databases will be held by the
 library. However, Interlibrary Loan services can obtain items not held by the
 library in a timely manner, but request for materials should not wait until
-the last minute. Items can be requested via a interlibrary loan
-[form](http://www.library.upenn.edu/forms/forms_index.html).
+the last minute. Items can be requested via a interlibrary loan form.
 
-**_[MLA
-Bibliography](http://www.library.upenn.edu/resources/databases/about/mla.html)
-:_** MLA International Bibliography, produced by the Modern Language
-Association of America, is an internationally comprehensive index to literary
-and related studies, linguistics, and folklore. MLA indexes articles in over
-4000 journals, essays in collective volumes, dissertations, books, and titles
-in series. The print volumes go back to 1921 and the database covers from 1963
-to the present. [MLA tutorial](http://www.library.yale.edu/rsc/mla/) from
-Yale.  
+**_MLA Bibliography :_** MLA International Bibliography, produced by the
+Modern Language Association of America, is an internationally comprehensive
+index to literary and related studies, linguistics, and folklore. MLA indexes
+articles in over 4000 journals, essays in collective volumes, dissertations,
+books, and titles in series. The print volumes go back to 1921 and the
+database covers from 1963 to the present. MLA tutorial from Yale.  
     
-**_[BAS
-Online](http://www.library.upenn.edu/resources/databases/about/bas.html)_** :
-The online Bibliography of Asian Studies (BAS), referencing western-language
-monographs, articles and book chapters on all parts of Asia published since
-1971 is available via library subscription. For how to subscribe, and other
-information, please go to the ciation for Asian Studies.
+**_BAS Online_** : The online Bibliography of Asian Studies (BAS), referencing
+western-language monographs, articles and book chapters on all parts of Asia
+published since 1971 is available via library subscription. For how to
+subscribe, and other information, please go to the ciation for Asian Studies.
 
-**_[Academic
-Index](http://www.library.upenn.edu/resources/databases/about/academic.html)_**
-: Expanded Academic ASAP provides indexing and abstracting for more than 1550
-scholarly and general interest journals,  
+**_Academic Index_** : Expanded Academic ASAP provides indexing and
+abstracting for more than 1550 scholarly and general interest journals,  
 plus The New York Times; as well as full text or full image coverage of more
 than 500 titles. English language only.  
-**Sources** Journals, magazines, and the New York Times. The [following
-journal titles](http://library.iacnet.com/jl/sb5001.html) are indexed in the
-Expanded Academic Index ASAP.  
+**Sources** Journals, magazines, and the New York Times. The following journal
+titles are indexed in the Expanded Academic Index ASAP.  
 Document types vary: citation only, abstract, and full-text.  
 **Dates Covered** Covers 1980 to the present. Indexing for most publications
 starts in the 1990s.  
-For help with Academic Index, use the Library's [help
-file](http://www.library.upenn.edu/resources/databases/about/academic.html).
+For help with Academic Index, use the Library's help file.
 
-[  **Language and Language Behavior
-Abstracts**](http://webspirs.silverplatter.com/cgi-
-bin/customers/c103061/llba.cgi)  
+  **Language and Language Behavior Abstracts**  
 **Subject:**   Linguistics, literacy, language acquisition, speech and
 hearing, and language research.  
 Sources  Indexing and abstracts for over 2,000 serials published worldwide,
@@ -156,7 +140,7 @@ for LLBA. See also Journal List Index
 **Van Pelt Library** : P1 .L15], 1967-1984.Linguistics and Language Behavior
 Abstracts, [ **Van Pelt Library** : P1 >l15], 1985-1993.  
     
-**[Periodicals Content Index](http://pci.chadwyck.com/all/search)**  
+**Periodicals Content Index**  
 **Subject:**   Humanities and social sciences. The scope is international,
 including journals in English, French, German, Italian, Spanish and other
 Western languages.  
@@ -165,8 +149,7 @@ Western languages.
 **Help Documents:**   Features and General Search (Vendor Supplied); Getting
 Started with PCI (MSWord)  
     
-**[Sociological
-Abstracts](http://ovid.library.upenn.edu/ovidweb/ovidweb.cgi?T=auth&mode=ovid&D=soca)**  
+**Sociological Abstracts**  
 **Subject:** Covers sociology, case work, demographics, policy studies,
 political science, family studies, feminist studies, and social security
 programs.  
@@ -194,23 +177,20 @@ Students will be expected to do two projects: a short writing assignment and a
 long writing project concerned with a topic related to multilingual education
 in South/Southeast Asia.
 
-    * For the **longer** project, a 10-15 page paper on some aspect of the material covered in the course is required. This assignment will be due in stages, the final product due the last week of class. (To understand the requirements for this writing project, see [Helpful Hints](http://ccat.sas.upenn.edu/~haroldfs/messeas/writing/helphint.html).) 
+    * For the **longer** project, a 10-15 page paper on some aspect of the material covered in the course is required. This assignment will be due in stages, the final product due the last week of class. (To understand the requirements for this writing project, see Helpful Hints.) 
 
-    * The _smaller_ assignment will involve interviewing a native speaker of a South/Southeast Asian language, focusing on the person's **multilingualism** and hsr. **multilingual educational experience** . The results will be presented in class, with a short write-up to be handed in. For some background on what is meant by repertoires and bilingualism in the South/Southeast Asian context, see Schiffman _LCLP_ Chap. 2., or look at this URL on the subject of [ register and repertoire. ](http://ccat.sas.upenn.edu/~haroldfs/messeas/regrep/regrep.html)
+    * The _smaller_ assignment will involve interviewing a native speaker of a South/Southeast Asian language, focusing on the person's **multilingualism** and hsr. **multilingual educational experience** . The results will be presented in class, with a short write-up to be handed in. For some background on what is meant by repertoires and bilingualism in the South/Southeast Asian context, see Schiffman _LCLP_ Chap. 2., or look at this URL on the subject of  register and repertoire. 
 
 ## Deadlines
 
-There will be
-**[DEADLINES](http://ccat.sas.upenn.edu/~haroldfs/messeas/deadline.html)** for
-these various projects, and schedules to be adhered to.
+There will be **DEADLINES** for these various projects, and schedules to be
+adhered to.
 
 * * *
 
 * * *
 
-## [ Dates, Topic(s), Required Readings, Other Readings
-
-](523sked.html)
+##  Dates, Topic(s), Required Readings, Other Readings
 
 * * *
 

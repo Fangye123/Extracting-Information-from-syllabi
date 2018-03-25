@@ -1,6 +1,5 @@
-[](node1.html)  
-[](node1.html)[](node155.htm)[](node155.htm)[](node155.htm)[](node155.htm)**[Next:[](node155.html)[](node155.htm)[](node155.htm)[](node155.htm)[](node155.htm)[](node155.htm)](node155.htm)**[About
-this document ...](node155.htm)[](node155.htm)
+  
+**Next:**About this document ...
 
 #  Math 155 Way of Thinking  
 Fall 1999
@@ -14,7 +13,7 @@ MC 406
 **Office:** MC 521  
 **Office Hours:** M-F 10 - 11  
 **Phone:** (608) 796-3659 (Office); 787-5464 (Home)  
-**e-mail:** [mnlukic@viterbo.edu](mailto:mnlukic@viterbo.edu)  
+**e-mail:** mnlukic@viterbo.edu  
 
 
 **Course Description**
@@ -217,18 +216,15 @@ This syllabus is tentative and may be adjusted during the semester.
 
 * * *
 
-  * [](node155.html)[](node155.htm)[](node155.htm)[](node155.htm)[](node155.htm)[](node155.htm)[About this document ...](node155.htm)
+  * About this document ...
 
 * * *
 
-[](node155.html)  
-[](node155.html)[](node155.html)[](node155.html)[](node155.html)[](node155.html)**[Next:[](node155.html)[](node155.htm)[](node155.htm)[](node155.htm)[](node155.htm)[](node155.htm)](node155.html)**[About
-this document
-..[](node155.html)[](node155.html)[](node155.html)[](node155.html)[](node155.html)](node155.htm)[.](node155.html)
-_Milan Lukic_  
+  
+**Next:**About this document ... _Milan Lukic_  
 _1999-09-09_ __
 
 * * *
 
-     **_[Back to Math Department Home Page](/academic/ug/sls/majors/math/INDEX.htm)_**
+     **_Back to Math Department Home Page_**
 

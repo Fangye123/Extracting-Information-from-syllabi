@@ -1,4 +1,4 @@
-[![RS Home](../images/scroll.gif)](relstd.htm)
+![RS Home](../images/scroll.gif)
 
 ##  MS. DONNA J. SLOAN
 
@@ -11,15 +11,13 @@ Please click on the appropriate area below to access course materials:
 Course Syllabus | Course Outlines | Prehistoric and Primitive Religions  
 ---|---|---  
 Religions of Native Americans | African | Early Hinduism - Later Hinduism  
-Sikhism | [Hinduism/Buddhism](dswrhbud.htm) | Jainism  
+Sikhism | Hinduism/Buddhism | Jainism  
 Religions of China | Shinto |  
 Zoroastrianism | Judaism | Christianity  
-Islamic Religion | [Course Study Guide #1](dswrsg1.htm) | [Course Study Guide
-#2](dswrsg2.htm)  
-[Course Study Guide #3](dswrsg3.htm) | Course Study Guide #4 | Religion
-Hyperlinks  
+Islamic Religion | Course Study Guide #1 | Course Study Guide #2  
+Course Study Guide #3 | Course Study Guide #4 | Religion Hyperlinks  
   
-[_Click Here to Send E-mail to Ms. Sloan_](MAILTO:rvdnasln77@aol.com)
+_Click Here to Send E-mail to Ms. Sloan_
 
 ![](../images/hrline.gif)
 
@@ -1378,8 +1376,7 @@ HYPERLINKS TO INTERNET RESOURCES:
 
 ![](../images/redline.gif)
 
-[![YSU](../images/ysulogo2.gif)](http://www.ysu.edu/) This site is maintained
-by: [The Department of Philosophy and Religious
-Studies](mailto:%22jcsmith@cc.ysu.edu%22)  
+![YSU](../images/ysulogo2.gif) This site is maintained by: The Department of
+Philosophy and Religious Studies  
 Copyright (C) 2002, Youngstown State University. All rights reserved.
 

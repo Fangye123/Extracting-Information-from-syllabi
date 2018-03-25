@@ -7,7 +7,7 @@ Course Description and Syllabus
 **Political Studies 130** | **OFFICE HOURS**  
 ---|---  
 Tuesday and Thursday 2:45-4:00 | Mon: 10:00-11:00  
-[Professor Dana Ward](../../Homepage.html) | Tues: 11:00-12:00  
+Professor Dana Ward | Tues: 11:00-12:00  
 Office: A207 | Wed: 10:00-11:00  
 Telephone: 73177 | Thur: 1:45-2:40  
   
@@ -51,7 +51,7 @@ Tan, Q. _The Making of U.S. China Policy_
 
 ### Useful Internet bLinks
 
-[C-Span on Cuban Missile Crisis](http://www.c-span.org/guide/society/cuba/)  
+C-Span on Cuban Missile Crisis  
 
 ## SYLLABUS
 

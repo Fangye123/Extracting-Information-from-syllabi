@@ -8,17 +8,15 @@ covered in this workshop you will need the FREE RealPlayer Basic to view the
 video contained in the link below. You may download and install this FREE  
 player from:http://www.real.com. Look for the RealPlayer Basic 8 link. It  
 is sometimes hard to find. You can now link to, and view, the video:  
-[http://www.easi.cc/media/ideal.ram](http://24.240.98.216:8080/ramgen/mountpoint2/ideal6.smi).
-If you have problem playing the media,  
-please write EASI/IDEAL technical consultant at:
-[dick@easi.cc](mailto:dick@easi.cc)  
+http://www.easi.cc/media/ideal.ram. If you have problem playing the media,  
+please write EASI/IDEAL technical consultant at: dick@easi.cc  
 
 Instructor: Steve Jacobs  
-Web: [http://www.rit.edu/~easi/jacobs.htm](../jacobs.htm)  
-E-mail: [sjacobs2@columbus.rr.com](mailto:sjacobs2@columbus.rr.com ) Steve is
-President of IDEAL, a not-for-profit, employee-led, organization whose mission
-is to support NCR employees and customers with disabilities and the
-development of accessible information technologies.
+Web: http://www.rit.edu/~easi/jacobs.htm  
+E-mail: sjacobs2@columbus.rr.com Steve is President of IDEAL, a not-for-
+profit, employee-led, organization whose mission is to support NCR employees
+and customers with disabilities and the development of accessible information
+technologies.
 
 ###  Workshop Description:
 
@@ -56,9 +54,8 @@ will be integrated into the course for its first public offering in January
 2002.**
 
 Registration Fee: $350  
-[Register for January 2002 Couse. ](../forms/bb1001.htm)  
-Discounts available for groups. Please write
-[nrcgsh@rit.edu](mailto:nrcgsh@rit.edu).
+Register for January 2002 Couse.  
+Discounts available for groups. Please write nrcgsh@rit.edu.
 
 Do you need to have a technical or business background in order benefit from
 taking this workshop?  
@@ -182,7 +179,7 @@ access compliance of software, hardware, consumer electronics, interactive
 transaction machines [ATMs, self-service and informational kiosks] and
 websites  
 
-[![Back to EASI Workshop page](../images/4sml.gif)](../workshop.htm)
+![Back to EASI Workshop page](../images/4sml.gif)
 
-[![TC](http://c2.thecounter.com/id=1432144)](http://www.TheCounter.com)
+![TC](http://c2.thecounter.com/id=1432144)
 

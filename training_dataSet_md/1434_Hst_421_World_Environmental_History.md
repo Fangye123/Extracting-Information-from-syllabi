@@ -2,8 +2,8 @@
 
 ####  HST 421
 
-**Dr Todd.F. Carney** **** Office: 118 Taylor 552-6646 Email:[
-tcarney@sou.edu](mailto:tcarney@sou.edu) Office Hours: M,W 10a-12p; T,R 9-10a
+**Dr Todd.F. Carney** **** Office: 118 Taylor 552-6646 Email: tcarney@sou.edu
+Office Hours: M,W 10a-12p; T,R 9-10a
 
 * * *
 
@@ -156,11 +156,11 @@ Latin and Native America
 
 * * *
 
-###  [Go to History Department Home Page](http://www.sou.edu/history/)
+###  Go to History Department Home Page
 
-###  [Go to Prof. Carney's Home Page](http://www.sou.edu/history/carney)
+###  Go to Prof. Carney's Home Page
 
 * * *
 
-###  [Go to SOU Home Page](http://www.sou.edu/)
+###  Go to SOU Home Page
 

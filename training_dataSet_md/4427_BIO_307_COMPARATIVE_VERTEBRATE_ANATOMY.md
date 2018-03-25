@@ -4,13 +4,11 @@
 
 ![](lizard.gif)
 
-[David J. Coughlin](http://www.science.widener.edu/~coughlin/), Ph.D.  
+David J. Coughlin, Ph.D.  
 Phone: 499-4025  
 Office: KIRK 441  
-Email:
-[coughlin@pop1.science.widener.edu](mailto:coughlin@pop1.science.widener.edu)  
-Web-Page:
-[http://www.science.widener.edu/~coughlin](http://www.science.widener.edu/~coughlin/)
+Email: coughlin@pop1.science.widener.edu  
+Web-Page: http://www.science.widener.edu/~coughlin
 
 Office Hours: Mon 3-4 PM, Wed 9-10 AM, 12-1 PM, Thur 11-Noon,  Fri 11-Noon  
 
@@ -109,82 +107,50 @@ web page version of the syllabus. Links are for outlines of lecture topics._
     
   **Date** | **Lecture Topic**   |  | **Laboratory Topic**  
 ---|---|---|---  
-**Sept 8 W** | [Introduction; Evolution
-](http://www.science.widener.edu/~coughlin/CVALECT1.htm#Introduction)(1)  |  |
-NO LABORATORY  
-**10 F** | [Early
-Chordates](http://www.science.widener.edu/~coughlin/CVALECT1.htm#EarlyChord)
-(2), Vertebrate Phylogeny (3) [Ray TROLL's Evolution
-Page](http://www.trollart.com/EVOLUTI0N.html) |  |  Early Chordates &
-Agnathans (1 -3)  
-**13 M** | [Phylogeny of
-Fishes](http://www.science.widener.edu/~coughlin/CVALECT2.htm)  
-[TREE OF LIFE](http://phylogeny.arizona.edu/tree/phylogeny.html) |  |  
-**15 W** | [Phylogeny of
-Tetrapods](http://www.science.widener.edu/~coughlin/CVALECT3.htm)  |  |
-Integument Lecure (6) and Lab (4)  
+**Sept 8 W** | Introduction; Evolution (1)  |  |  NO LABORATORY  
+**10 F** | Early Chordates (2), Vertebrate Phylogeny (3) Ray TROLL's Evolution
+Page |  |  Early Chordates & Agnathans (1 -3)  
+**13 M** | Phylogeny of Fishes  
+TREE OF LIFE |  |  
+**15 W** | Phylogeny of Tetrapods  |  |  Integument Lecure (6) and Lab (4)  
 **17 F** |  More Phylogeny, Finish Integument (6) |  | Cranial Skeleton (5)  
-**20 M** | [Integument
-](http://www.science.widener.edu/~coughlin/CVALECT5.htm)(6)  |  |  
-**22 W** |
-[Development](http://www.science.widener.edu/~coughlin/Cvalect4.htm) (5)  |  |
-Cranial Skeleton  
-**24 F** | [Cranial
-Skeleton](http://www.science.widener.edu/~coughlin/CVALECT7.htm) (7)  |  |
-Post Cranial Skeleton (5)  
+**20 M** | Integument (6)  |  |  
+**22 W** | Development (5)  |  |  Cranial Skeleton  
+**24 F** | Cranial Skeleton (7)  |  |  Post Cranial Skeleton (5)  
 **27 M** |  More Cranial Skeleton |  |  
-**29 W** | [Axial
-Skeleton](http://www.science.widener.edu/~coughlin/CVALECT7.htm#axial) (8) |
-|  Post Cranial Skeleton  
+**29 W** | Axial Skeleton (8) |  |  Post Cranial Skeleton  
 **Oct 1 F** |    |  | LAB PRACTICAL I (Chapters 1 - 5)  
 **4 M** |  Finish Skeleton |  |  
 **6 W** |  Review |   | Shark Muscles (6)  
 **8 F** |  LECTURE EXAM I (Chaps. 1 - 3, 5 - 8) |  | Cat Muscles (6)  
-**11 M** | [Appendicular
-Skeleton](http://www.science.widener.edu/~coughlin/CVALECT7.htm#appendicular)
-(9) |  |  
+**11 M** | Appendicular Skeleton (9) |  |  
 **13 W** |  Finish Appendicular |  | Cat Muscles  
-**15 F** | [Muscle: Form, Function and Locomotion
-(10)](http://www.science.widener.edu/~coughlin/CVALECT8.htm) [John Long's
-Swimming Page](http://faculty.vassar.edu/~jolong/swimming.html)  
-[Bruce Jayne's Locomotion
-Films](http://www.biology.uc.edu/faculty/jayne/videos.htm) |  |  Cat Muscles  
+**15 F** | Muscle: Form, Function and Locomotion (10) John Long's Swimming
+Page  
+Bruce Jayne's Locomotion Films |  |  Cat Muscles  
 **18 M** |  Muscle cont'd |  |  
 **20 W** |  Muscle cont'd |  | Sensory Systems (Handout)  
 **22 F** |  Muscle cont'd |  | Nervous System (10)  
 **25 M** |  Muscle cont'd |  |  
-**27 W** | [Sensory
-Systems](http://www.science.widener.edu/~coughlin/CVALECT9.htm) (17) |  |
-Nervous System  
+**27 W** | Sensory Systems (17) |  |  Nervous System  
 **Oct 29-Nov 1** |  NO LECTURE |  | NO LABORATORY  
-**Nov 3 W** | [Nervous
-System](http://www.science.widener.edu/~coughlin/CVA1011.htm) (16)  |  |
-Nervous System  
+**Nov 3 W** | Nervous System (16)  |  |  Nervous System  
 **5 F** |  Nervous cont'd  |  | LAB PRACTICAL II (Chaps. 6 & 10, handout)  
 **8 M** |  Nervous cont'd  |  |  
 **10 W** |  Nervous cont'd  |   | Digestive System (7, handout)  
 **12 F** |  LECTURE EXAM II (Chaps. 10, 15-17) |  | Digestive System  
-**15 M** | [Endocrine
-System](http://www.science.widener.edu/~coughlin/CVALEC12.htm) (15) |  |  
-**17 W** | [Oral Cavity / Feeding
-](http://www.science.widener.edu/~coughlin/CVALEC13.htm)(7)  |  |  Digestive
-System  
+**15 M** | Endocrine System (15) |  |  
+**17 W** | Oral Cavity / Feeding (7)  |  |  Digestive System  
 **19 F** |   Feeding cont'd |  | Circulation and Respiration (8)  
-**22 M** | [Digestion](http://www.science.widener.edu/~coughlin/CVALEC13.htm)
-(13)  |  |  
+**22 M** | Digestion (13)  |  |  
 **24 W** |  More Digestion  |  | Circulation and Respiration  
 **26 F** |  NO LECTURE |  | NO LABORATORY  
 **29 M** |  Digestion cont'd  |  |  
-**Dec 1 W** | [Respiration
-](http://www.science.widener.edu/~coughlin/CVALEC14.htm)(11)  |  |
-Circulation and Respiratoin  
-**3 F** | [Circulation](http://www.science.widener.edu/~coughlin/CVALEC15.htm)
-(12) |  |  Circ. and Resp. / Urogenital System (9)  
+**Dec 1 W** | Respiration (11)  |  |   Circulation and Respiratoin  
+**3 F** | Circulation (12) |  |  Circ. and Resp. / Urogenital System (9)  
 **6 M** |  Circulation cont'd |  |  
 **8 W** |  Circulation cont'd |  |  Urogenital System  
-**10 F** |
-[Urogenital](http://www.science.widener.edu/~coughlin/CVALET16.htm) (14)  |  |
-LAB PRACTICAL III (Chaps. 7 - 9, handout)  
+**10 F** |   Urogenital (14)  |  | LAB PRACTICAL III (Chaps. 7 - 9, handout)  
 **13 M** |  Review |  |  
 **15 W** |   LECTURE EXAM III (Chaps. 11-14) |  |  
 **Final Exam** : Comprehensive Essays on Lecture Material
@@ -196,7 +162,6 @@ says, "This is great!  Will I meet her at a party, or what?"  "No," says the
 psychic, "Next semester in her biology class".
 
 Last Update: 7 September 1999  
-Email to:
-[coughlin@pop1.science.widener.edu](mailto:coughlin@pop1.science.widener.edu)  
-[Disclaimer](http://www.science.widener.edu/disclaimer.html)
+Email to: coughlin@pop1.science.widener.edu  
+Disclaimer
 

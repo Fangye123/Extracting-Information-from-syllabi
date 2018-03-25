@@ -12,11 +12,10 @@ Dr. Evan McKenzie
 
 _Course Number:_ Lecture --49427; Discussion--49438  
 _Time_ : M,W,F 9:00-10:40am in room BSB 367  
-_Instructor:_ [Evan McKenzie](http://www.uic.edu/depts/pols/evanmckenzie.html)  
+_Instructor:_ Evan McKenzie  
 _Contact Information:_ I am located in BSB 1122-D. My office direct line is
-312-413-3782. My internet address is
-[mckenzie@uic.edu](mailto:mckenzie@uic.edu). My office hours are MW 11-12 am
-and by appointment.
+312-413-3782. My internet address is mckenzie@uic.edu. My office hours are MW
+11-12 am and by appointment.
 
 _Teaching Assistant:   Cheryl Brandt:  cbrand2@uic.edu_
 
@@ -143,13 +142,11 @@ might find interesting or useful.
 
 ### Internet Links
 
-[The Federalist Papers and other historical
-documents](http://www.mcs.net/~knautzr/fed/fedpaper.html)
+The Federalist Papers and other historical documents
 
-[The Ultimate Political Science Links
-Page](http://www.rvc.cc.il.us/faclink/pruckman/PSLinks.htm)
+The Ultimate Political Science Links Page
 
-[Back to UIC Political Science Home Page](http://www.uic.edu/depts/pols)
+Back to UIC Political Science Home Page
 
-[Back to Evan McKenzie's Home Page](http://www.uic.edu/~mckenzie)
+Back to Evan McKenzie's Home Page
 

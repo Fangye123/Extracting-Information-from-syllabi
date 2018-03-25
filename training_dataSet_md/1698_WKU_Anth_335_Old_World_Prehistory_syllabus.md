@@ -257,11 +257,11 @@ and readings.  Students are responsible for video information on the exams.
 **Web Notes**
 
 Since there is not enough lecture time to cover all important topics related
-to the prehistory of each culture area, [additional notes are posted on the
-course web site](http://www.wku.edu/~appleda/oldworld/webnotes.html).  This
-information relates to environmental background, culture history, and early
-civilizations in each culture area.  Students are responsible for all web
-notes as they are essential supplements to the lectures and readings.  
+to the prehistory of each culture area, additional notes are posted on the
+course web site.  This information relates to environmental background,
+culture history, and early civilizations in each culture area.  Students are
+responsible for all web notes as they are essential supplements to the
+lectures and readings.  
     
     
 **Research Paper  **
@@ -269,10 +269,8 @@ notes as they are essential supplements to the lectures and readings.
 Each student will complete a research paper on an Old World prehistory topic
 of his/her choice.  The research must be based on scholarly sources related to
 a specific topic.  Papers will be 14-16 pages in length with AAA citations.
-Suggested [topics](http://www.wku.edu/~appleda/oldworld/topics.html) and
-[details for completing the research
-paper](http://www.wku.edu/~appleda/oldworld/paper.html) are posted on the
-course web site.  
+Suggested topics and details for completing the research paper are posted on
+the course web site.  
     
     
 **Due Dates  **
@@ -443,16 +441,13 @@ recording such modifications on their syllabi.
 
 * * *
 
-Return to [Old World
-Prehistory](http://www.wku.edu/~appleda/oldworld/front.html) Home Page  
+Return to Old World Prehistory Home Page  
 
 * * *
 
   
-Visit the Western Kentucky University Home Page, [Western
-Online](http://www.wku.edu)  
-Page composed by Darlene Applegate,
-[darlene.applegate@wku.edu](mailto:darlene.applegate@wku.edu)  
+Visit the Western Kentucky University Home Page, Western Online  
+Page composed by Darlene Applegate, darlene.applegate@wku.edu  
 Last updated on August 21, 2001  
 All contents copyright (c), 2001. Western Kentucky University.
 

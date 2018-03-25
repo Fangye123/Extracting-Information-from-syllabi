@@ -5,15 +5,15 @@ on syllabus and grading
 
 | **Thomas F. Wolff, Ph.D., P.E.**  
   
-Associate Dean for [Undergraduate Studies](http://www.egr.msu.edu/UGS/)  
-[College of Engineering](http://www.egr.msu.edu)  
-[Michigan State University](http://www.msu.edu)  
-[1410 Engineering Building](http://www.egr.msu.edu/map/ebmaps/1410.jpg)  
+Associate Dean for Undergraduate Studies  
+College of Engineering  
+Michigan State University  
+1410 Engineering Building  
 East Lansing, MI 48824-1226  
   
 517-355-5128  
-[wolff@egr.msu.edu ](mailto:wolff@egr.msu.edu)  
-[http://www.egr.msu.edu/~wolff](../index.htm)  
+wolff@egr.msu.edu  
+http://www.egr.msu.edu/~wolff  
 ---|---  
   
 On October 26, 1999, I posed the following composite case history and
@@ -49,9 +49,8 @@ deciding whether to stay in or drop?
 **Responses**  
 (edited for length, attempted to preserve content)
 
-**? Is the information furnished by the instructor sufficient under the[MSU
-code of teaching
-responsibility?](http://www.msu.edu/dig/FACULTY/instruction.html#code)**
+**? Is the information furnished by the instructor sufficient under theMSU
+code of teaching responsibility?**
 
   * _I'm not a lawyer, but it appears that the information meets the minimum requirement from the code of teaching responsibility_. .. (proceeds to quote the code, item 2).. _This is a pretty vague statement. I don't know how it has been interpreted in student appeals of grading._
 
@@ -85,7 +84,7 @@ _
 
   * _There are actually two issues here. One is that the student evidently   cannot find out his standing, the other has to do with academic standards_. (Regarding the second issue.. ) _I find these days that students have been grade-pampered so much through public school and beginning college, that they have unrealistic expectations and inflated concepts of their own ability and background. They tend to expect at least a 3.0 for less than mediocre work. They expect a high curve where nobody can fail, no matter what. They go into a state of denial when the outcome is not so good, and blame everyone but themselves, including, perhaps, thinking that the instr did not keep them informed. They convey only this part of the picture to the parent or counselor._.. _.I have heard parents make comments about a course that are nothing short of outlandish. If the grading policy is in writing and has been handed to the student, and if you read it to the parent and explain it, said parents usually calm down right away or rechannel their anger to the offending progeny. I once had a parent who was really upset and talking lawsuits until I pointed out that the son had missed more than half the classes._
 
-  * _I recently attended a 1.5 days seminar "Effective College Teaching Seminar: Excellence in Civil Engineering Education (ExCEED)" at Charlotte, NC organised and partly subsidized by ASCE. [Richard Felder ](http://www2.ncsu.edu/unity/lockers/users/f/felder/public/RMF.html)and Rebecca Brent were the presenters. I was impressed with many issues they presented, one of which was exactly this one.   
+  * _I recently attended a 1.5 days seminar "Effective College Teaching Seminar: Excellence in Civil Engineering Education (ExCEED)" at Charlotte, NC organised and partly subsidized by ASCE. Richard Felder and Rebecca Brent were the presenters. I was impressed with many issues they presented, one of which was exactly this one.   
   
 Their answer was: "Eliminate the CURVE and define a clear range for each grade
 which everyone can achieve. This should be done at the beginning of a course.

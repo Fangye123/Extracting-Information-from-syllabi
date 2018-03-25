@@ -72,71 +72,64 @@ By the end of this course you should:
 
 **Required:**
 
-  * [ Java Security, by Scott Oaks, 2nd edition, May 2001, ISBN 0596001576. ](http://www.amazon.com/exec/obidos/ASIN/0596001576/)
-  * [ Security Engineering, 2001, by Ross Anderson, published by Wiley, ISBN 0471389226. ](http://www.amazon.com/exec/obidos/ASIN/0471389226/)
+  * Java Security, by Scott Oaks, 2nd edition, May 2001, ISBN 0596001576. 
+  * Security Engineering, 2001, by Ross Anderson, published by Wiley, ISBN 0471389226. 
 
 **Optional:**
 
 You may want a cryptography or cryptology reference. There are several
 options.
 
-The best option is the most expensive, unfortunately. The [ "Dr. Dobb's
-Journal Essential Books on Cryptography & Security CD"
-](http://www.digitalriver.com/dr/v2/ec_MAIN.Entry10?xid=2823&SP=10023&PN=1&V1=163454&DSP=&CUR=840&CACHE_ID=0)
-contains seven very good books on cryptography and security in PDF. Some of
-these books are out of print, and, individually, some of the hardcopies are as
-expensive as the CD. Of course, you do have to read them online or print them.
-The CD contains the following books:
+The best option is the most expensive, unfortunately. The  "Dr. Dobb's Journal
+Essential Books on Cryptography & Security CD" contains seven very good books
+on cryptography and security in PDF. Some of these books are out of print,
+and, individually, some of the hardcopies are as expensive as the CD. Of
+course, you do have to read them online or print them. The CD contains the
+following books:
 
-  * [ Applied Cryptography: Protocols, Algorithms, and Source Code in C, second edition ](http://www.amazon.com/exec/obidos/ASIN/0471117099/)
-  * [ Cryptography: A New Dimension in Computer Data Security ](http://www.amazon.com/exec/obidos/ASIN/0471048925/)
-  * [ Contemporary Cryptology: The Science of Information ](http://www.amazon.com/exec/obidos/ASIN/0780353528/)
-  * [ Cryptography and Data Security ](http://www.amazon.com/exec/obidos/ASIN/0201101505/) (this would be required if still in print) 
-  * [ Applied Cryptography, Cryptographic Protocols, and Computer Security ](http://www.amazon.com/exec/obidos/ASIN/0821800418/)
-  * [ Cryptography: Theory and Practice ](http://www.amazon.com/exec/obidos/ASIN/0849385210/)
-  * [ Handbook of Applied Cryptography ](http://www.amazon.com/exec/obidos/ASIN/0849385237/)
+  * Applied Cryptography: Protocols, Algorithms, and Source Code in C, second edition 
+  * Cryptography: A New Dimension in Computer Data Security 
+  * Contemporary Cryptology: The Science of Information 
+  * Cryptography and Data Security  (this would be required if still in print) 
+  * Applied Cryptography, Cryptographic Protocols, and Computer Security 
+  * Cryptography: Theory and Practice 
+  * Handbook of Applied Cryptography 
   * Military Cryptanalysis, Volume I-IV 
-  * [ RSA Laboratories FAQ on Cryptography, RSA Laboratories Technical Reports, RSA Laboratories Security Bulletins, and CryptoBytes Newsletter ](http://www.rsalabs.com/)
+  * RSA Laboratories FAQ on Cryptography, RSA Laboratories Technical Reports, RSA Laboratories Security Bulletins, and CryptoBytes Newsletter 
 
-If the link to [ "Dr. Dobb's Journal Essential Books on Cryptography &
-Security CD"
-](http://www.digitalriver.com/dr/v2/ec_MAIN.Entry10?xid=2823&SP=10023&PN=1&V1=163454&DSP=&CUR=840&CACHE_ID=0)
-does not work, go to the [ Dr. Dobb's CDROM store
-](http://www.ddj.com/cdrom/), and you will be forwarded to the Digital River
-site. Follow the link for "Essential Book Collections on CD-ROM", and you
-should then see the link for "Dr. Dobb's Journal Essential Books on
-Cryptography & Security CD".
+If the link to  "Dr. Dobb's Journal Essential Books on Cryptography & Security
+CD" does not work, go to the  Dr. Dobb's CDROM store , and you will be
+forwarded to the Digital River site. Follow the link for "Essential Book
+Collections on CD-ROM", and you should then see the link for "Dr. Dobb's
+Journal Essential Books on Cryptography & Security CD".
 
 If you would prefer a physical book, I recommend the following books in this
 order:
 
-  * [ Cryptography & Network Security: Principles & Practice ](http://www.amazon.com/exec/obidos/ASIN/0138690170/)
-  * [ Applied Cryptography: Protocols, Algorithms, and Source Code in C, second edition ](http://www.amazon.com/exec/obidos/ASIN/0471117099/)
-  * [ Handbook of Applied Cryptography ](http://www.amazon.com/exec/obidos/ASIN/0849385237/) (very good, but difficult unless you have a strong mathematical background) 
+  * Cryptography & Network Security: Principles & Practice 
+  * Applied Cryptography: Protocols, Algorithms, and Source Code in C, second edition 
+  * Handbook of Applied Cryptography  (very good, but difficult unless you have a strong mathematical background) 
 
 The following books are very good, but not necessary for this course. Ask me
 before you order them.
 
-  * [ SSL and TLS: Designing and Building Secure Systems ](http://www.amazon.com/exec/obidos/ASIN/0201615983/)
-  * [ SSL & TLS Essentials: Securing the Web ](http://www.amazon.com/exec/obidos/ASIN/0471383546/)
-  * [ Securing Java: Getting Down to Business with Mobile Code, second edition ](http://www.amazon.com/exec/obidos/ASIN/047131952X/)
-  * [ Java Cryptography ](http://www.amazon.com/exec/obidos/ASIN/1565924029/)
-  * [ Codes and Cryptography ](http://www.amazon.com/exec/obidos/ASIN/0198532873/)
-  * [ Modelling and Analysis of Security Protocols ](http://www.amazon.com/exec/obidos/ASIN/0201674718/)
+  * SSL and TLS: Designing and Building Secure Systems 
+  * SSL & TLS Essentials: Securing the Web 
+  * Securing Java: Getting Down to Business with Mobile Code, second edition 
+  * Java Cryptography 
+  * Codes and Cryptography 
+  * Modelling and Analysis of Security Protocols 
 
 ## Contact Information
 
  **Instructor:** Corin Pitcher  
- **Instructor Home Page:** [`
-http://fpl.cs.depaul.edu/cpitcher/`](http://fpl.cs.depaul.edu/cpitcher/)  
- **Instructor Email:** [`
-cpitcher@cs.depaul.edu`](mailto:cpitcher@cs.depaul.edu)  
+ **Instructor Home Page:** ` http://fpl.cs.depaul.edu/cpitcher/`  
+ **Instructor Email:** ` cpitcher@cs.depaul.edu`  
  **Phone:** 312/362-5248  
  **Office:** Room 838, Suite 401, School of CTI, DePaul University, 243 South
 Wabash Avenue, Chicago, IL 60604-2301, USA  
  **Office Hours:** TO BE ANNOUNCED  
-**Course Home Page:** [`
-http://fpl.cs.depaul.edu/cpitcher/se570/`](http://fpl.cs.depaul.edu/cpitcher/se570/)  
+**Course Home Page:** ` http://fpl.cs.depaul.edu/cpitcher/se570/`  
 
 ## Attendance
 

@@ -181,7 +181,7 @@ justified voice.
   
 ---  
   
-[Contents, No. III](Content.htm)
+Contents, No. III
 
 ![](../usersnav.gif)
 

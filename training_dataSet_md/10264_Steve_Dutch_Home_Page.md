@@ -1,14 +1,14 @@
 # Steve Dutch
 
 ## Natural and Applied Sciences,  
-[University of Wisconsin-Green Bay](http://weba.uwgb.edu/)  
+University of Wisconsin-Green Bay  
 Office: LS 116 phone: 465-2246  
 e-mail: dutchs@gbms01.uwgb.edu  
 This Home Page: http://www.uwgb.edu/dutchs
 
 Active links are indicated. Other items are projected or under development:
 
-### [Outside Searchers - Please Read This First](disclaim.htm)
+### Outside Searchers - Please Read This First
 
 A note of caution about using this site.
 
@@ -22,41 +22,30 @@ General Information | Course Information | Topics of research or personal
 scholarly interest | Other Topics of Personal Interest  
 ---|---|---|---  
 Fall 1998 Schedule | 296-202 Physical Geology  
-[Syllabus ](296-202Spring.HTM)   [Notes](296-202VisualsIndex.HTM) | [Geology
-of Wisconsin](geolwisc/geowisc.htm)  
-| [Gulf War - Kurdistan, 1991](gulfwar/gulfindx.htm);
-[Photos](GulfWarPhotos/GulfFotoIndex.htm)  
+Syllabus    Notes | Geology of Wisconsin  
+| Gulf War - Kurdistan, 1991; Photos  
 University Survival Guide | 362-142 Exploration of the Universe  
-[Syllabus ](CosmosSyllabus.htm)   [Notes](CosmosNotesIndex.HTM) | [Wisconsin
-Geologic Locality Descriptions](geolwisc/geostops/gstopind.htm) | [Bosnia,
-1996](bosnia/bosindex.htm)  
-[Personal biographical information](resume.htm) (Sorry, nothing
-incriminating!) | 362-190 Emergence of Western Technology  
-[Syllabus](westech.htm)    [Notes](WestTech/190OUTLN.HTM) | [Unusual Wisconsin
-Weather Events](geolwisc/weather/wthrindx.htm) | [The 432d Civil Affairs
-Battalion in Pictures](432cabn.htm)  
-[Got a Problem or Complaint?](gotaprob.htm) | 296-492 Special Topics in Earth
-Science: Crustal Materials (Mineralogy - Petrology)  
-[Syllabus ](MINPET.HTM)   [Notes](mpnotes.htm) | [Virtual Field
-Trips](Virtual%20Field%20Trips.HTM) | [Britain-Ireland Photos 1998
-](britir98.htm)  
+Syllabus    Notes | Wisconsin Geologic Locality Descriptions | Bosnia, 1996  
+Personal biographical information (Sorry, nothing incriminating!) | 362-190
+Emergence of Western Technology  
+Syllabus    Notes | Unusual Wisconsin Weather Events | The 432d Civil Affairs
+Battalion in Pictures  
+Got a Problem or Complaint? | 296-492 Special Topics in Earth Science: Crustal
+Materials (Mineralogy - Petrology)  
+Syllabus    Notes | Virtual Field Trips | Britain-Ireland Photos 1998  
   | 296-492 Crustal Movements  
-[Syllabus and Notes](CRUSTMVT.HTM)     | [Geologic Maps of the
-States](StateGeolMaps.HTM) | [Cornerstone 98 Photos - Bulgaria](cstone98.htm)  
-  | [Structural Geology Methods Manual ](STRUCTGE/LABMAN.HTM) |
-[Crystallography, symmetry, tilings and polyhedra](symmetry/symmetry.htm) |
-[Antarctica-South America 1975](Antarctica75/Ant75Ind.HTM)  
+Syllabus and Notes     | Geologic Maps of the States | Cornerstone 98 Photos -
+Bulgaria  
+  | Structural Geology Methods Manual  | Crystallography, symmetry, tilings
+and polyhedra | Antarctica-South America 1975  
   | 296-492 Geologic Field Methods  
-[Syllabus and Notes](FLDMETHS.HTM)   | [Other recreational math
-items](RECMATH/recmath.htm) | [Sketches of Comet Hale-
-Bopp](GRAPHIC0/HALEBOPP/halebopp.htm)  
-  | [296-340 Rock and Mineral Resources](296-340.HTM) | [American Chemical
-Society Talks](acstalks/acsindex.htm) |  
+Syllabus and Notes   | Other recreational math items | Sketches of Comet Hale-
+Bopp  
+  | 296-340 Rock and Mineral Resources | American Chemical Society Talks |  
   | 296-492 Planetary Geology  
-[Syllabus and Notes](PLANGEOL.HTM) | [Science, pseudoscience, and
-irrationalism](pscindx.htm) |  
+Syllabus and Notes | Science, pseudoscience, and irrationalism |  
   |   | Research Papers |  
-  |   | [Computing Tips](CompTips/CompTipIndex.HTM) |  
+  |   | Computing Tips |  
   
 ### Spring 2002 Schedule
 
@@ -81,13 +70,13 @@ Physical Geology Cofrin 113 (to 9:15) |
   
 ### University Survival Guide
 
-  * [Who are these people and why are they messing with my mind?](messmind.htm) Ever wonder why you have to take some of the courses you do? This might help. 
-  * [Taking Multiple Choice Tests](multchc.htm)
-  * [What is an A? ](whatsana.htm)What exactly do professors want in an essay exam or term paper? Includes samples of A, B, C, and D-F writing with explanations why. 
-  * [References for College Papers](paperref.htm) Can I reference my class notes? (No) What about the Internet? (Maybe) Get The Rules here. 
-  * [Top Ten No Sympathy Lines](nosymp.htm) Warning! Blunt Language!. 
+  * Who are these people and why are they messing with my mind? Ever wonder why you have to take some of the courses you do? This might help. 
+  * Taking Multiple Choice Tests
+  * What is an A? What exactly do professors want in an essay exam or term paper? Includes samples of A, B, C, and D-F writing with explanations why. 
+  * References for College Papers Can I reference my class notes? (No) What about the Internet? (Maybe) Get The Rules here. 
+  * Top Ten No Sympathy Lines Warning! Blunt Language!. 
 
-### [Personal biographical information](resume.htm)
+### Personal biographical information
 
 (Sorry, nothing incriminating!)
 
@@ -100,35 +89,35 @@ Physical Geology Cofrin 113 (to 9:15) |
 
 Check out the courses below for syllabi and other information:
 
-  * [296-202 Physical Geology ](296-202Spring.HTM)
-    * [Test Bank](Exams/202EXAMS/202qindx.htm)
-    * [Class Overheads](296-202VisualsIndex.HTM)
-    * [Field Trip Guide](202ftrip/route.htm)
-  * [362-142 Exploration of the Universe](CosmosSyllabus.htm)
-  * [362-190 Emergence of Western Technology](westech.htm)
-    * [Course Outline](WestTech/190outln.htm)
+  * 296-202 Physical Geology 
+    * Test Bank
+    * Class Overheads
+    * Field Trip Guide
+  * 362-142 Exploration of the Universe
+  * 362-190 Emergence of Western Technology
+    * Course Outline
   * 296-492 Special Topics in Earth Science 
-    * [Crustal Materials (Mineralogy - Petrology)](minpet.htm)
-      * [Course Notes](mpnotes.htm)
-    * [Crustal Movements](crustmvt.htm)
-    * [Field Methods](fldmeths.htm)
+    * Crustal Materials (Mineralogy - Petrology)
+      * Course Notes
+    * Crustal Movements
+    * Field Methods
 
 ### Topics of research or personal scholarly interest
 
   * Useful Stuff 
-    * [Geologic Maps of the States](StateGeolMaps.HTM)
-  * [Geology of Wisconsin](geolwisc/geowisc.htm)
+    * Geologic Maps of the States
+  * Geology of Wisconsin
   * Software for structural geology, mineralogy and petrology 
-  * [Crystallography, symmetry, tilings and polyhedra](symmetry/symmetry.htm)
-  * [Other recreational math items](recmath/recmath.htm)
-  * [Science, pseudoscience, and irrationalism](pscindx.htm)
+  * Crystallography, symmetry, tilings and polyhedra
+  * Other recreational math items
+  * Science, pseudoscience, and irrationalism
 
 ### And a few other topics:
 
-  * [Gulf War-Kurdistan, 1991](gulfwar/gulfindx.htm)
-  * [Bosnia, 1996](bosnia/bosindex.htm)
-  * [Sketches of Comet Hale-Bopp](GRAPHIC0/HALEBOPP/halebopp.htm)
-  * [Britain-Ireland photos, June 1998](britir98.htm)
+  * Gulf War-Kurdistan, 1991
+  * Bosnia, 1996
+  * Sketches of Comet Hale-Bopp
+  * Britain-Ireland photos, June 1998
 
 * * *
 
@@ -142,9 +131,8 @@ Check out the courses below for syllabi and other information:
 
 * * *
 
-[Click here to reach me by e-mail](mailto:dutchs@gbms01.uwgb.edu) Especially
-let me know if you have any problems with my pages or links, or any
-constructive suggestions.
+Click here to reach me by e-mail Especially let me know if you have any
+problems with my pages or links, or any constructive suggestions.
 
 _Created 15 December 1996 Last Update 21 February 2002 _
 

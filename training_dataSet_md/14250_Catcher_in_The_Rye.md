@@ -4,33 +4,33 @@
 
 **Menu Bar **
 
-** [Unit Syllabus](syllabus-intro.html) [Resources](resources-intro.html)  
+** Unit Syllabus Resources  
 
 * * *
 
 **IAS Units**
 
-[Growing Up in America](americanvalues.html)
+Growing Up in America
 
 * * *
 
-[The Challenge of Utopia](utopia.html)
+The Challenge of Utopia
 
 * * *
 
-[Race and Ethnic Diversity](race.html)
+Race and Ethnic Diversity
 
 * * *
 
-[Money and Materialism](money&materialism.html)
+Money and Materialism
 
 * * *
 
-[American Power Abroad](america-at-war.html)
+American Power Abroad
 
 * * *
 
-[IAS 1997-1998](default.html)
+IAS 1997-1998
 
 * * *
 

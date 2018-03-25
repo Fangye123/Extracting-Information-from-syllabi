@@ -1,5 +1,5 @@
-[![The Conservation Course Syllabus Pages](syllabus.gif)](./) Course |
-Laboratory Techniques 2  
+![The Conservation Course Syllabus Pages](syllabus.gif) Course | Laboratory
+Techniques 2  
 ---|---  
 Date offered | Winter 1999  
 Location | Ontario, CA  
@@ -534,8 +534,7 @@ project and suspension of the privilege of access.
 
 * * *
 
-[![ \[CoOL\] ](/icons/sm_cool.gif)](/) [[Search all CoOL
-documents]](/search.html)  
-[[Feedback]](/cgi-bin/fb?/forms/coolfeed.html)  
+![ \[CoOL\] ](/icons/sm_cool.gif) [Search all CoOL documents]  
+[Feedback]  
 This page last changed: March 04, 2001
 

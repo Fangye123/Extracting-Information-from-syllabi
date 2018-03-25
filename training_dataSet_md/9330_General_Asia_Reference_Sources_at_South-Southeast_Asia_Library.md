@@ -1,29 +1,24 @@
-| [![UC Berkeley Library
-Web](http://www.lib.berkeley.edu/Images/Templates/nbblack.gif)](http://www.lib.berkeley.edu/cgi-
-bin/imagemap/TopNav)  
+| ![UC Berkeley Library
+Web](http://www.lib.berkeley.edu/Images/Templates/nbblack.gif)  
 ---|---  
 ![Southeast Asia Design
 Image](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/image1.gif) |
 ![Bibliographic Guides](http://www.lib.berkeley.edu/
 
 SSEAL/SoutheastAsia/1bibgds.gif)  
-****|  [  
+****|  
   
 ![Collections and New
-Acquisitions](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/collacq.gif)](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/seacol.html)
-[  
+Acquisitions](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/collacq.gif)  
   
 ![Electronic
-Resources](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/elcrsc.gif)](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/seaelec.html)
-[  
+Resources](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/elcrsc.gif)  
   
 ![Bibliographic
-Guides](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/bibgds.gif)](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/seaguid.html)
-[  
+Guides](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/bibgds.gif)  
   
 ![Southeast Asia Studies at
-Berkeley](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/sas.gif)](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/seacal.html)
-|
+Berkeley](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/sas.gif) |
 
 ##  General Asia Reference Sources
 
@@ -43,20 +38,8 @@ S/SEALS copy.
 **NRLF** refers to "Northern Regional Library Facility" in Richmond,
 California.  
   
-General Asia | [Southeast
-Asia](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/refseasia.html) |
-[Brunei](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/refbrunei.html) |
-[Burma
-(Myanmar)](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/refburma.html) |
-[Cambodia](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/refcambodia.html)|
-[Indonesia](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/refindonesia.html)
-| [Laos](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/reflaos.html) |
-[Malaysia](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/refmalaysia.html) |
-[Philippines](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/refphilippines.html)
-|
-[Singapore](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/refsingapore.html)
-| [Thailand](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/refthailand.html)
-| [Vietnam](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/refvietnam.html)
+General Asia | Southeast Asia | Brunei | Burma (Myanmar) | Cambodia| Indonesia
+| Laos | Malaysia | Philippines | Singapore | Thailand | Vietnam
 
 ### _General Asia_
 
@@ -1069,8 +1052,8 @@ Go to top
   
   
   
-[![](http://www.lib.berkeley.edu/Images/go_up.gif) Go to Southeast Asia
-Library Page](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/seares.html)  
+![](http://www.lib.berkeley.edu/Images/go_up.gif) Go to Southeast Asia Library
+Page  
 
   
   
@@ -1080,14 +1063,10 @@ Library Page](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/seares.html)
 
 * * *  
   
-|  [ ![\[ HELP/FAQ
-\]](http://www.lib.berkeley.edu/Images/help.gif)](http://www.lib.berkeley.edu/Help/)
-[ ![\[ CATALOGS
-\]](http://www.lib.berkeley.edu/Images/catalogs.gif)](http://www.lib.berkeley.edu/Catalogs/)
-[ ![\[ COMMENTS
-\]](http://www.lib.berkeley.edu/Images/comments.gif)](http://www.lib.berkeley.edu/Comments/)
-[ ![\[ HOME
-\]](http://www.lib.berkeley.edu/Images/home.gif)](http://www.lib.berkeley.edu/)
+|  ![\[ HELP/FAQ \]](http://www.lib.berkeley.edu/Images/help.gif) ![\[
+CATALOGS \]](http://www.lib.berkeley.edu/Images/catalogs.gif) ![\[ COMMENTS
+\]](http://www.lib.berkeley.edu/Images/comments.gif) ![\[ HOME
+\]](http://www.lib.berkeley.edu/Images/home.gif)
 
 * * *  
   
@@ -1095,8 +1074,7 @@ Library Page](http://www.lib.berkeley.edu/SSEAL/SoutheastAsia/seares.html)
 
 ##### Copyright (C) 1997-2002 by the Library,  
 University of California, Berkeley.  
-_All rights reserved._ Data owner:
-[ssea@library.berkeley.edu](mailto:ssea@library.berkeley.edu)  
-Designed by [Rebecca Darby-Williams](mailto:rdarbywi@library.berkeley.edu)  
+_All rights reserved._ Data owner: ssea@library.berkeley.edu  
+Designed by Rebecca Darby-Williams  
 Last update 8/13/02.
 

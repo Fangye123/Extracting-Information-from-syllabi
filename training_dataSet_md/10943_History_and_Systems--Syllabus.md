@@ -8,8 +8,7 @@
 
 ## SYLLABUS
 
-**[** **[Home](../home.html) | [Syllabus](syllabus.html) | [Web
-Site](http://elvers.stjoe.udayton.edu/history/history.htm) ]**
+**[** **Home | Syllabus | Web Site ]**
 
 **Course**
 
@@ -26,7 +25,7 @@ instructor.
 
 >
 
-> < <http://www.udayton.edu/~psych/DJP/histsys/syllabus.html> >
+> < http://www.udayton.edu/~psych/DJP/histsys/syllabus.html >
 
 **Reading**
 
@@ -37,8 +36,7 @@ McGraw Hill.
 
 >
 
-> < [http://elvers.stjoe.udayton.edu/history/history.htm
-](http://elvers.stjoe.udayton.edu/history/history.htm)>
+> < http://elvers.stjoe.udayton.edu/history/history.htm >
 
 **Objectives**
 
@@ -56,13 +54,12 @@ science.
 > Donald Polzella, Ph.D.  
 >  SJ-309, 229-2170  
 >  Office Hours: TTH 10:30 a.m.-12:00 p.m. and by appointment.  
->  Email: _[polzella@udayton.edu](mailto:polzella@udayton.edu)_  
+>  Email: _polzella@udayton.edu_  
 >
 
 >
 
-> < [http://www.udayton.edu/~psych/DJP/home.html
-](http://www.udayton.edu/~psych/DJP/home.html)>
+> < http://www.udayton.edu/~psych/DJP/home.html >
 
 **
 
@@ -77,74 +74,54 @@ files. To view and print the notes you will need the Adobe Acrobat(C) Reader.
 This free software, along with instructions for downloading and installation,
 is available from Adobe's website.
 
-###
-[![](../gifs/getacro.gif)](http://www.adobe.com/prodindex/acrobat/readstep.html)
-
-[
+### ![](../gifs/getacro.gif)
 
 * * *
 
-](http://www.adobe.com/prodindex/acrobat/readstep.html)
-
 **Schedule**
 
-08/27 [Orientation and Introduction](pdfhs/hsintro.pdf) (H: pp. 1-11)  
-08/29 [Psychology in Ancient History](pdfhs/hsancient.pdf) (H: pp. 12-31)  
-09/03 [Renaissance Science and Philosophy](pdfhs/hsren.pdf) (H: pp. 32-51; B:
-pp. 34-48)  
-09/05 [Post-Renaissance Philosophy](pdfhs/hsprenp.pdf) (H: pp.51-77; B: pp.
-48-61)  
-09/10 [Post-Renaissance Science](pdfhs/hsprens.pdf) (H: pp. 78-113; B: pp.
-69-71, 77-87)  
-09/12 [Wilhelm Wundt--Part 1](pdfhs/hsWundt1.pdf) (H: pp. 114-129; B: pp.
-145-157)  
-09/17 [Wilhelm Wundt--Part 2](pdfhs/hsWundt2.pdf) (H: pp. 129-139; B: pp.
-158-167)  
+08/27 Orientation and Introduction (H: pp. 1-11)  
+08/29 Psychology in Ancient History (H: pp. 12-31)  
+09/03 Renaissance Science and Philosophy (H: pp. 32-51; B: pp. 34-48)  
+09/05 Post-Renaissance Philosophy (H: pp.51-77; B: pp. 48-61)  
+09/10 Post-Renaissance Science (H: pp. 78-113; B: pp. 69-71, 77-87)  
+09/12 Wilhelm Wundt--Part 1 (H: pp. 114-129; B: pp. 145-157)  
+09/17 Wilhelm Wundt--Part 2 (H: pp. 129-139; B: pp. 158-167)  
 *09/19 _EXAM 1_ (19%)
 
-09/24 [Wundt's Legacy I: Edward Titchener](pdfhs/hsTitch.pdf) (H: pp. 140-158;
-B: pp. 173-176, 188-202)  
-09/26 [Wundt's Legacy II: Hugo Munsterberg](pdfhs/hsMunster.pdf) (H: pp.
-158-175; B: pp. 584-606)  
-10/01 19th Century German Psychology: [Part 1](pdfhs/hsGerman1.pdf), [Part
-2](pdfhs/hsGerman2.pdf) (H: pp. 176-213, B: pp. 127-144)  
+09/24 Wundt's Legacy I: Edward Titchener (H: pp. 140-158; B: pp. 173-176,
+188-202)  
+09/26 Wundt's Legacy II: Hugo Munsterberg (H: pp. 158-175; B: pp. 584-606)  
+10/01 19th Century German Psychology: Part 1, Part 2 (H: pp. 176-213, B: pp.
+127-144)  
 10/03 NO CLASS  
-10/08 [Gestalt Psychology I](pdfhs/hsGestalt1.pdf) (H: pp. 214-238; B: pp.
-530-544)  
-10/10 [Gestalt Psychology II](pdfhs/hsGestalt2.pdf) (H: pp. 239-255; B: pp.
-545-556)  
+10/08 Gestalt Psychology I (H: pp. 214-238; B: pp. 530-544)  
+10/10 Gestalt Psychology II (H: pp. 239-255; B: pp. 545-556)  
 *10/15 _EXAM 2_ (19%)
 
-10/17 [Early History of Clinical Psychology](pdfhs/hsclinical.pdf) (H: pp.
-256-279; B: pp. 93-97, 564-569)  
-10/22 [Psychoanalysis](pdfhs/hsFreud1.pdf) (H: pp. 279-292; B: pp. 104-119)  
-10/24 [Psychoanalysis and Modern Clinical Psychology](pdfhs/hsFreud2.pdf) (H:
-pp. 292-307; B: pp. 493-498, 510-524)  
-10/29 [Darwin, Galton and Cattell](pdfhs/hsDarwin.pdf) (H: pp. 308-338; B: pp.
-209-210, 231-239, 287-295)  
-10/31 [James and Hall](pdfhs/hsJames.pdf) (H: pp. 338-365; B: pp. 245-248,
-263-265)  
-11/05 [The Centers of American Functionalism: Chicago and
-Columbia](pdfhs/hsfunction.pdf) (H: pp. 366-395; B: pp. 306-309, 340-345)  
+10/17 Early History of Clinical Psychology (H: pp. 256-279; B: pp. 93-97,
+564-569)  
+10/22 Psychoanalysis (H: pp. 279-292; B: pp. 104-119)  
+10/24 Psychoanalysis and Modern Clinical Psychology (H: pp. 292-307; B: pp.
+493-498, 510-524)  
+10/29 Darwin, Galton and Cattell (H: pp. 308-338; B: pp. 209-210, 231-239,
+287-295)  
+10/31 James and Hall (H: pp. 338-365; B: pp. 245-248, 263-265)  
+11/05 The Centers of American Functionalism: Chicago and Columbia (H: pp.
+366-395; B: pp. 306-309, 340-345)  
 11/07 NO CLASS  
 *11/12 _EXAM 3_ (19%)
 
-11/14 [Measuring Mental Abilities I](pdfhs/hsmeasure1.pdf) (H: pp. 396-422; B:
-pp. 226-231)  
-11/19 [Measuring Mental Abilities II](pdfhs/hsmeasure2.pdf) (H: pp. 422-445;
-B: pp. 615-618, 633-645)  
-11/20 [J. B. Watson](pdfhs/hsWatson.pdf) and [I. P.
-Pavlov](pdfhs/hsPavlov.pdf) (H: pp. 446-489; B: pp. 396-419, 345-353)  
-11/26 [Neobehaviorism I](pdfhs/hsbehavior1.pdf) (H: pp. 490-509; H: pp.
-441-450)  
+11/14 Measuring Mental Abilities I (H: pp. 396-422; B: pp. 226-231)  
+11/19 Measuring Mental Abilities II (H: pp. 422-445; B: pp. 615-618, 633-645)  
+11/20 J. B. Watson and I. P. Pavlov (H: pp. 446-489; B: pp. 396-419, 345-353)  
+11/26 Neobehaviorism I (H: pp. 490-509; H: pp. 441-450)  
 11/28 NO CLASS-Happy Thanksgiving!  
-12/03 [Neobehaviorism II](pdfhs/hsbehavior2.pdf) (H: pp. 509-534; B: pp.
-462-466, 472-487)  
-12/05 [Epilogue](pdfhs/hsepilogue.pdf) (H: pp. 535-542)  
+12/03 Neobehaviorism II (H: pp. 509-534; B: pp. 462-466, 472-487)  
+12/05 Epilogue (H: pp. 535-542)  
 *12/11 _EXAM 4_ at 2:00 p.m. -3:50 p.m. (19%)
 
-NOTE: A research paper (24%) is due no later than 12/03.
-([Details](paper.html))
+NOTE: A research paper (24%) is due no later than 12/03. (Details)
 
 **Important Dates**
 
@@ -197,8 +174,7 @@ to us.
 accurate, changes in dates, assignments, and policies are sometimes necessary.  
 >
 
-**[** **[Home](../home.html) | [Syllabus](syllabus.html) | [Web
-Site](http://elvers.stjoe.udayton.edu/history/history.htm) ]**
+**[** **Home | Syllabus | Web Site ]**
 
 ![](../gifs/rainbow.gif)
 

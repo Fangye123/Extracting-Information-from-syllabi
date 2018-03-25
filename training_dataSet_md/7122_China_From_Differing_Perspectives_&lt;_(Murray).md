@@ -1,11 +1,8 @@
-### [![Asian Studies Development Program](/Images/lions.jpeg)](/asdp/)
+### ![Asian Studies Development Program](/Images/lions.jpeg)
 
 * * *
 
-[[About](/external/asdp/about.html)] [[Index](/external/asdp/index.html)]
-[[Search](/external/asdp/search.html)] [[Other
-Links](/external/asdp/links.html)]
-[[Comments/Submissions](/external/asdp/warning.html)]
+[About] [Index] [Search] [Other Links] [Comments/Submissions]
 
 # China from Differing Perspectives
 
@@ -267,13 +264,9 @@ Questions to bear in mind: How do the accounts of journalists contribute to
 both the understanding and the misunderstanding of China?  
   
 
-[[About](/external/asdp/about.html)] [[Index](/external/asdp/index.html)]
-[[Search](/external/asdp/search.html)] [[Other
-Links](/external/asdp/links.html)]
-[[Comments/Submissions](/external/asdp/warning.html)]
+[About] [Index] [Search] [Other Links] [Comments/Submissions]
 
 * * *
 
-[ASDP Curriculum Online Project](/external/asdp/) <[
-ASDP@lama.kcc.Hawaii.Edu](mailto:asdp@lama.kcc.hawaii.edu)>
+ASDP Curriculum Online Project < ASDP@lama.kcc.Hawaii.Edu>
 

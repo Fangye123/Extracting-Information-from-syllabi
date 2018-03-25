@@ -1,12 +1,11 @@
 |  ![](../Images/name.gif)  
   
 ---|---  
-[![Navigation Bar \(3391
-bytes\)](../Images/navbar.gif)](../_vti_bin/shtml.exe/courses/ps314.html/map)
-|  Professor J. Joseph Hewitt  
+![Navigation Bar \(3391 bytes\)](../Images/navbar.gif) |  Professor J. Joseph
+Hewitt  
 210 Professional Building  
 Phone: 882-0263  
-Email: [polsjjh@showme.missouri.edu](mailto:polsjjh@showme.missouri.edu)  
+Email: polsjjh@showme.missouri.edu  
 Office Hours: M, 10:15-11:30am; W, 2:15-3:30pm (and by appt.)
 
  **American Foreign Policies (PS 314)  

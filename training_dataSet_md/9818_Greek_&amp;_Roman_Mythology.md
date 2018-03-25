@@ -1,4 +1,4 @@
-### [Southwestern University](http://www.southwestern.edu)
+### Southwestern University
 
 ## Greek and Roman Mythology
 
@@ -8,7 +8,7 @@ Classics 07-203 / English 10-203 / Religion 19-403
 Fall 2000
 
 **Instructor** :  
-P. B. Haskell ([haskellp@southwestern.edu](mailto:haskellp@southwestern.edu))
+P. B. Haskell (haskellp@southwestern.edu)
 
 
 
@@ -79,8 +79,8 @@ characters in art.
 **Requirements**
 
   * **Exams**. There will be three exams during the semester (dates given in schedule below). Each exam will include objective questions (for example, fill in the blank), slide identifications (the myths or characters represented), and short essays. Please note that make-up exams are the _rare_ exception, not the rule, and are allowed _at the discretion of the instructor_ ; such matters must be arranged in advance of the regularly scheduled exam time.
-  * [**Paper**](mythpap.html). The paper, 10-15 pages in length, is to be on a work of literature (ancient or post-ancient) that makes extensive use of classical myth (a work that is not otherwise assigned as one of the course readings). More detailed instructions and advice will be provided later in the semester. _The paper must be written using with a word processing program_. Help with Microsoft Word (DOS, Windows, and Mac versions) will be provided by the instructor on request. Deadlines are for the rough and for the final drafts respectively, and are noted in the schedule below. **Deadlines are firm** , and penalties will be assessed for each day late (one day ends, and another begins, at **5:00 p.m.** ): rough draft, 5 points per day off final paper grade; final draft, 10 points per day off final paper grade. Your instructor is cold and cruel, and very strict about these matters.
-  * [**Final project**](finproject.html). Each student will prepare a final project, due on December 11 (11:30 a.m.). The project is to focus on the connection between classical mythology and related area(s) of learning, for example "Medea and the demonization of feminists in contemporary society," "Prometheus and the Voyager Mission: Creation Tales and Anthropomorphism," "Crossing the River Styx and the Big Chill," "George Washington as Zeus," "Palaestra and Pedagogy." The project consists of an annotated bibliography.
+  * **Paper**. The paper, 10-15 pages in length, is to be on a work of literature (ancient or post-ancient) that makes extensive use of classical myth (a work that is not otherwise assigned as one of the course readings). More detailed instructions and advice will be provided later in the semester. _The paper must be written using with a word processing program_. Help with Microsoft Word (DOS, Windows, and Mac versions) will be provided by the instructor on request. Deadlines are for the rough and for the final drafts respectively, and are noted in the schedule below. **Deadlines are firm** , and penalties will be assessed for each day late (one day ends, and another begins, at **5:00 p.m.** ): rough draft, 5 points per day off final paper grade; final draft, 10 points per day off final paper grade. Your instructor is cold and cruel, and very strict about these matters.
+  * **Final project**. Each student will prepare a final project, due on December 11 (11:30 a.m.). The project is to focus on the connection between classical mythology and related area(s) of learning, for example "Medea and the demonization of feminists in contemporary society," "Prometheus and the Voyager Mission: Creation Tales and Anthropomorphism," "Crossing the River Styx and the Big Chill," "George Washington as Zeus," "Palaestra and Pedagogy." The project consists of an annotated bibliography.
   * **Class participation, attendance**. The final factor is class participation/attendance. The normal expectation is that students will be at every class, for one cannot participate _in absentia_! Participation also involves preparation of homework assignments before class. Participation will be assessed not so much on quantity as on quality. 
 
 Students should feel free to express their own opinions on various matters
@@ -520,7 +520,7 @@ Introduction
 
 |  
   
-[August 30](myth0830.html)  
+August 30  
 Wednesday
 
 |
@@ -529,10 +529,9 @@ Theory about myth; history; sources
 
 |
 
-Link to ML: [ML 1-27](ml1.html); plus [Marinatos, _Minoan Religion_
-8-12](nanno1.html)  
+Link to ML: ML 1-27; plus Marinatos, _Minoan Religion_ 8-12  
   
-[September 1](myth0901.html)  
+September 1  
 Friday
 
 |
@@ -541,10 +540,9 @@ History of Greece I
 
 |
 
-[_Perseus_ , History Overview 1](print.html), 1-3.4, 5-5.11, 6-6.7, 6.16-6.31,
-7-9.3.3  
+_Perseus_ , History Overview 1, 1-3.4, 5-5.11, 6-6.7, 6.16-6.31, 7-9.3.3  
   
-[September 4](myth0904.html)  
+September 4  
 Monday
 
 |
@@ -553,9 +551,9 @@ History of Greece II
 
 |
 
-[_Perseus_ , Overview (cont.)](print2.html), 12-12.1.20, 16-16.19  
+_Perseus_ , Overview (cont.), 12-12.1.20, 16-16.19  
   
-[September 6](myth0906.html)  
+September 6  
 Wednesday
 
 |
@@ -566,7 +564,7 @@ History of Greece III; of Rome
 
 Howe and Howe (reserve) 243-259  
   
-[September 8](myth0908.html)  
+September 8  
 Friday
 
 |
@@ -575,7 +573,7 @@ History of Greek and Roman art
 
 |  
   
-[September 11](myth0911.html)  
+September 11  
 Monday
 
 |
@@ -585,12 +583,10 @@ Olympia
 
 |
 
-ML 70-84 (Homer; Homeric Hymns); [ _Perseus_ ,
-Overview](http://www.perseus.tufts.edu/Secondary/TRM_Overview/ov4.10.html)
-4.10-4.12; [ _Perseus_ , Olympia, site
-description](http://www.perseus.tufts.edu/cgi-bin/siteindex?entry=Olympia)  
+ML 70-84 (Homer; Homeric Hymns);  _Perseus_ , Overview 4.10-4.12;  _Perseus_ ,
+Olympia, site description  
   
-[September 13](myth0913.html)  
+September 13  
 Wednesday
 
 |
@@ -599,11 +595,9 @@ Olympians II: Poseidon, Athena; Greek sanctuaries II: Athens
 
 |
 
-ML 98-115 (Hom. Hymn; Ovid Met.); [ _Perseus_ ,
-Overview](http://www.perseus.tufts.edu/Secondary/TRM_Overview/ov9.4.3.html)
-9.4.3-9.4.7  
+ML 98-115 (Hom. Hymn; Ovid Met.);  _Perseus_ , Overview 9.4.3-9.4.7  
   
-[September 15](myth0915.html)  
+September 15  
 Friday
 
 |
@@ -614,7 +608,7 @@ Olympians III: Aphrodite, Artemis
 
 ML 116-162 (Hom. Hymn; ; Plato; Vergil; Ovid _Met._ )  
   
-[September 18](myth0918.html)  
+September 18  
 Monday
 
 |
@@ -624,12 +618,10 @@ Greek sanctuaries III: Delphi
 
 |
 
-ML 163-188 (Hom. Hymn; Ovid _Met._ ; Vergil); [ _Perseus_ ,
-Overview](http://www.perseus.tufts.edu/Secondary/TRM_Overview/ov5.12.html)
-5.12; [_Perseus_ , Delphi, site description](http://www.perseus.tufts.edu/cgi-
-bin/siteindex?entry=Delphi)  
+ML 163-188 (Hom. Hymn; Ovid _Met._ ; Vergil);  _Perseus_ , Overview 5.12;
+_Perseus_ , Delphi, site description  
   
-[September 20](myth0920.html)  
+September 20  
 Wednesday
 
 |
@@ -639,12 +631,10 @@ Greek sanctuaries IV: Eleusis
 
 |
 
-ML 189-203, 233-249 (Homeric Hymn; Ovid ); [ _Perseus_ ,
-Overview](http://www.perseus.tufts.edu/Secondary/TRM_Overview/ov10.1.7.html)
-10.1.7-10.1.8; [ _Perseus_ , Eleusis, site
-description](http://www.perseus.tufts.edu/cgi-bin/siteindex?entry=Eleusis)  
+ML 189-203, 233-249 (Homeric Hymn; Ovid );  _Perseus_ , Overview
+10.1.7-10.1.8;  _Perseus_ , Eleusis, site description  
   
-[September 22](myth0922.html)  
+September 22  
 Friday
 
 |
@@ -655,7 +645,7 @@ Hades and the Underworld
 
 ML 250-272 (Homer; Plato; Vergil; Seneca; Lucian)  
   
-[September 25](myth0925.html)  
+September 25  
 Monday
 
 |
@@ -666,7 +656,7 @@ Orpheus; Mystery Religions
 
 ML 273-285 (Ovid Met.; Hesiod)  
   
-[September 27](myth0927.html)  
+September 27  
 Wednesday
 
 |
@@ -682,7 +672,7 @@ EXAM #1
 
 |  
   
-[October 2](myth1002.html)  
+October 2  
 Monday
 
 |
@@ -691,7 +681,7 @@ Exam discussion; Study Suggestions
 
 |  
   
-[October 4](myth1004.html)  
+October 4  
 Wednesday
 
 |
@@ -702,7 +692,7 @@ Dionysus, Pan, Echo, Narcissus
 
 ML 204-232 (Hom. Hymn, Ovid., _Met._ )  
   
-[October 6](myth1006.html)  
+October 6  
 Friday
 
 |
@@ -711,9 +701,7 @@ Dionysus II; Greek theater
 
 |
 
-[_Perseus_ ,
-Overview](http://www.perseus.tufts.edu/Secondary/TRM_Overview/ov10.2.html)
-10.2-10.2.4;  
+_Perseus_ , Overview 10.2-10.2.4;  
 Euripides, _The Bacchants_ (in Euripides, _Ten Plays_ )  
   
 October 9  
@@ -726,10 +714,9 @@ Dionysus III
 |
 
 Euripides, _The Bacchants_ (cont.); Aristophanes, _Frogs_ (on reserve in the
-SLC) Also on-line, Perseus (local stacks) plus web site:
-[Frogs](http://hydra.perseus.tufts.edu/cgi-bin/text?lookup=aristoph.+frogs+1)  
+SLC) Also on-line, Perseus (local stacks) plus web site: Frogs  
   
-[October 11](myth1011.html)  
+October 11  
 Wednesday
 
 |
@@ -738,16 +725,14 @@ Creation myths; emergence of Olympians; Ages of humankind
 
 |
 
-ML 35-69 (Hesiod, Aeschylus; Ovid _Met._ ; [_Perseus_ ,
-Overview](http://www.perseus.tufts.edu/Secondary/TRM_Overview/ov4.13.html)
-4.13-4.14  
+ML 35-69 (Hesiod, Aeschylus; Ovid _Met._ ; _Perseus_ , Overview 4.13-4.14  
   
-[October 13](myth1013.html)  
+October 13  
 Friday
 
 |
 
-[House of Cadmus I](myth1013lect.html)
+House of Cadmus I
 
 |
 
@@ -763,38 +748,35 @@ Monday
 
 Fall break  
   
-[October 18](myth1018.html)  
+October 18  
 Wednesday
 
 |
 
-[House of Cadmus II](antigone.html)
+House of Cadmus II
 
 |
 
 Sophocles, _Oedipus the King_ (cont.); Sophocles, _Antigone_  
   
-[October 20](myth1020.html)  
+October 20  
 Friday
 
 |
 
-[House of Atreus
-I](http://ralph.southwestern.edu/academic/classical.languages/myth/oreshtml.html)  
-([Seferis,
-_Mycenae_](http://ralph.southwestern.edu/academic/classical.languages/myth/seferis.html))
+House of Atreus I  
+(Seferis, _Mycenae_)
 
 |
 
 Aeschylus, _Agamemnon_ (in _Aeschylus_ I)  
   
-[October 23](myth1020.html)  
+October 23  
 Monday
 
 |
 
-[House of Atreus
-II](http://ralph.southwestern.edu/academic/classical.languages/myth/oreshtml.html)
+House of Atreus II
 
 |
 
@@ -809,13 +791,12 @@ Optional play reading, MBH Atriium, 10-11 a.m.
 
 |  
   
-[October 25](myth1020.html)  
+October 25  
 Wednesday
 
 |
 
-[House of Atreus
-III](http://ralph.southwestern.edu/academic/classical.languages/myth/oreshtml.html)
+House of Atreus III
 
 |
 
@@ -826,8 +807,7 @@ Friday
 
 |
 
-[House of Atreus
-IV](http://ralph.southwestern.edu/academic/classical.languages/myth/oreshtml.html)
+House of Atreus IV
 
 |
 
@@ -842,18 +822,18 @@ EXAM #2
 
 |  
   
-[November 1](myth1101.html)  
+November 1  
 Wednesday
 
 |
 
-House of Aeolus I; [Medea](medea.html)
+House of Aeolus I; Medea
 
 |
 
 ML 464-479 (Ovid Met.; Pindar); Euripides, _Medea_ (in Grene, _Euripides_ I)  
   
-[Nvember 3](myth1103.html)  
+Nvember 3  
 Friday
 
 |
@@ -865,7 +845,7 @@ House of Aeolus II; ROUGH DRAFT OF PAPER DUE,
 
 Euripides, _Medea_ (cont.)  
   
-[November 6](myth1106.html)  
+November 6  
 Monday
 
 |
@@ -876,7 +856,7 @@ House of Danaus I; Heracles
 
 ML 406-441 (Pindar, Aeschylus)  
   
-[November 8](myth1108.html)  
+November 8  
 Wednesday
 
 |
@@ -898,7 +878,7 @@ House of Danaus III
 
 Euripides, _Alcestis_ (cont.)  
   
-[November 13](myth1113.html)  
+November 13  
 Monday
 
 |
@@ -910,7 +890,7 @@ Theseus I
 ML 442-463 (Ovid _Met._ , Bacchylides); Euripides, _Hippolytus_ (in Grene,
 _Euripides_ I)  
   
-[November 15](myth1115.html)  
+November 15  
 Wednesday
 
 |
@@ -921,7 +901,7 @@ Theseus II
 
 Racine, _Phaedre_  
   
-[November 17](myth1117.html)  
+November 17  
 Friday
 
 |
@@ -933,7 +913,7 @@ Trojan War I (origins)
 ML 348-387 (Homeric Hymn, Lucian, Statius, Lucretius, Homer); Euripides,
 _Iphigenia at Aulis_ (in Grene, _Euripides_ I)  
   
-[November 20](myth1120.html)  
+November 20  
 Monday
 
 |
@@ -946,7 +926,7 @@ Trojan War II; FINAL DRAFT OF PAPER DUE,
 Euripides, _Iphigenia at Aulis_ (cont.)  [Thanksgiving break begins Nov. 21,
 midnight]  
   
-[November 27](myth1127.html)  
+November 27  
 Monday
 
 |
@@ -956,7 +936,7 @@ Trojan War III
 |
 
 Homer, _Iliad_ Books 1-3, 9  
-[[Iliad (MIT)](http://the-tech.mit.edu/Classics/Homer/iliad.mb.txt)]  
+[Iliad (MIT)]  
   
 November 29  
 Wednesday
@@ -968,9 +948,9 @@ Trojan War IV
 |
 
 _Iliad_ Books 16-19, 22-24  
-[[Iliad (MIT)](http://the-tech.mit.edu/Classics/Homer/iliad.mb.txt)]  
+[Iliad (MIT)]  
   
-[December 1](myth1201.html)  
+December 1  
 Friday
 
 |
@@ -980,11 +960,9 @@ Trojan War V
 |
 
 ML 388-405; Homer, _Odyssey_ Books 1, 5-6, 10-11, 17-23  
-[[Odyssey (MIT)](http://the-tech.mit.edu/Classics/Homer/odyssey.mb.txt)]
-[[Odyssey (Perseus)](http://www.perseus.tufts.edu/cgi-
-bin/ptext?doc=Perseus:abo:tlg,0012,002)]  
+[Odyssey (MIT)] [Odyssey (Perseus)]  
   
-[December 4](myth1204.html)  
+December 4  
 Monday
 
 |
@@ -995,7 +973,7 @@ Roman mythology
 
 ML 503-541 (Livy, Vergil, Ovid, Lucretius, Horace)  
   
-[December 6](myth1206.html)  
+December 6  
 Wednesday
 
 |
@@ -1005,7 +983,7 @@ _Aeneid_ : National Epic
 |
 
 Vergil, _Aeneid_ Books 1-4  
-[[Aeneid (MIT)](http://the-tech.mit.edu/Classics/Virgil/aeneid.mb.txt)]  
+[Aeneid (MIT)]  
   
 December 8  
 Friday

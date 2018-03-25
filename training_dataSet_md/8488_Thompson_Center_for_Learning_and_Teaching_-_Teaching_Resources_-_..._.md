@@ -132,11 +132,11 @@ _Center for Faculty Evaluation and Development_. January 1996.
   
 Center for Excellence in Learning and Teaching.  "Designing a Teaching
 Portfolio." December 1999.  
-<http://www.psu.edu/celt/portfolio.html>
+http://www.psu.edu/celt/portfolio.html
 
 Dalhousie University. "The Step-by-Step Creation of a Teaching Dossier."
 December 1999.  
-<http://www.dal.ca/~oidt/taguide/TheStep.html>  
+http://www.dal.ca/~oidt/taguide/TheStep.html  
   
 Edgerton, Russell, Pat Hutchings, Kathleen Quinlan. "The Format and Content of
 a Portfolio." _The Teaching Portfolio: Capturing the Scholarship in Teaching_.
@@ -156,14 +156,13 @@ Members, and Administrators." _ADE Bulletin, Fall 2000, no 126_.
   
 Murdoch University.  "Guidelines for Presentation of a Teaching Portfolio."
 December 1999.  
-<http://wwwadmin.murdoch.edu.au/hr/traindev/teachportfolio.html>  
+http://wwwadmin.murdoch.edu.au/hr/traindev/teachportfolio.html  
   
 Selding, Peter. "Teaching Portfoloios: A Positive Appraisal." _ACADEME_.
 January/February, 2000.  
   
-University of Victoria.  "The Teaching Dossier." December 1999.[
-http:/learn.terc.uvic.ca/teaching.html.](
-http:/learn.terc.uvic.ca/teaching.html.)  
+University of Victoria.  "The Teaching Dossier." December 1999.
+http:/learn.terc.uvic.ca/teaching.html.  
   
 Virginia Tidewater Consortium for Higher Education. "Changing Practices in
 Evaluating Teaching." _Teleconference Resource Materials_. March 24, 2000.  
@@ -227,7 +226,7 @@ Cuseo, Joe. "Cooperative Learning: Why Does it Work?" _Cooperative Learning &
 College Teaching_. 1.1, 1990.  
   
 "Doing Cooperative Learning: Preparing the Students." October 1999.
-<http://www.wcer.wisc.edu/nise/cl1/CL/doingcl/start.htm>  
+http://www.wcer.wisc.edu/nise/cl1/CL/doingcl/start.htm  
   
 Duch, Barbara J., Deborah E. Allen, Harold B. White III. "Problem-based
 Learning: Preparing Students to Succeed in the 21st Century." _Essays on
@@ -255,7 +254,7 @@ Office of Teaching and Learning. "Cooperative Learning." _Teaching Idea Packet
 Plank, Kathryn M.  "The Process and Product of Collaborative Activities or
 Three Men and an Egg." _The Penn State Teacher II: Learning to Teach; Teaching
 to Learn_. Pennsylvania State University, December 1999.
-<http://www.psu.edu/celt/PST/KMPcollaborative.html>  
+http://www.psu.edu/celt/PST/KMPcollaborative.html  
   
 Solomon, Richard D., Neil Davidson, Elaine C. L. Solomon.  "Definitions of
 Seventeen Cooperative Learning Stuctures and Procedures." _The Handbook for
@@ -289,7 +288,7 @@ Teacher II: Learning to Teach;
   
 Teaching to Learn. Pennsylvania State University, December 1999. Center for
 Excellence in Learning and Teaching.
-<http://www.psu.edu/celt/PST/KMPcollaborative.html>  
+http://www.psu.edu/celt/PST/KMPcollaborative.html  
   
 Top  
 
@@ -354,7 +353,7 @@ Top
   
 Boettcher, Judith V., Rita-Marie Conrad.  "Distance Learning: A Faculty FAQ."
 _Microsoft in Higher Education_. 1 Sept.1999: 6 pg. 21 Sept. 1999
-[http://www.microsoft.com/education/hed/online/distlfaq.htm](http://www.microsoft.com/education/hed/online/).  
+http://www.microsoft.com/education/hed/online/distlfaq.htm.  
   
 Bothel, Richard, Jennifer Enfinger.  "You Don't Have to Go the Whole
 Distance." _T.H.E. Journal_. September 1999, 115-120.  
@@ -391,34 +390,34 @@ Anderson, James. "Tailoring Assessment to Student Learning Styles". _AARP
 Bulletin_ vol 53 no 7, March 2001.
 
 "Exploring Psychology, Learning Styles." McGraw Hill Company. 21 June 1999
-[http://www.dushkin.com/connectext/psy/ch06/learnsty.mhtml](http://www.dushkin.)  
+http://www.dushkin.com/connectext/psy/ch06/learnsty.mhtml  
   
 Felder, Richard. "Resources in Science and Engineering Education." 3 May 1999
-[http://www2.ncsu.edu/unity/lockers/users/f/felder/public/RMF.html](http://www2.ncsu.edu/)  
+http://www2.ncsu.edu/unity/lockers/users/f/felder/public/RMF.html  
   
 Felder, Richard. "Index of Learning Styles." Resources in Science and
 Engineering Education. 3 May 1999,
-<http://www2.ncsu.edu/unity/lockers/users/f/felder/public/ILSpage.htm>  
+http://www2.ncsu.edu/unity/lockers/users/f/felder/public/ILSpage.htm  
   
 Felder, Richard. "Learning Styles and Strategies". Resources in Science and
 Engineering Education. 3 May 1999,
-<http://www2.ncsu.edu/unity/lockers/users/f/felder/public/ILSdir/styles.htm>  
+http://www2.ncsu.edu/unity/lockers/users/f/felder/public/ILSdir/styles.htm  
   
 Felder, Richard. "Matters of Style." Resources in Science and Engineering
 Education. 3 May 1999,
-<http://www2.ncsu.edu/unity/lockers/users/f/felder/public/Papers/LS-Prism.htm>  
+http://www2.ncsu.edu/unity/lockers/users/f/felder/public/Papers/LS-Prism.htm  
   
 Felder, Richard. "Reaching the Second Tier." Resources in Science and
 Engineering Education. 3 May 1999,
-<http://www2.ncsu.edu/unity/lockers/users/f/felder/public/Papers/Secondtier.html>  
+http://www2.ncsu.edu/unity/lockers/users/f/felder/public/Papers/Secondtier.html  
   
 Montgomery, Susan M., Linda N. Groat. "Student Learning Styles and Their
 Implications for Teaching. CRLT Occasional Papers. 10, University of Michigan,
 1998.  
   
 O"Connell, Terry. "Using Learning Styles to Adapt Technology for Higher
-Education." CTL Learning Styles Site. 1999 29 April 1999 <http://www-
-isu.indstate.edu/ctl/styles/articles.html>  
+Education." CTL Learning Styles Site. 1999 29 April 1999 http://www-
+isu.indstate.edu/ctl/styles/articles.html  
   
   
 Top  
@@ -498,8 +497,7 @@ College and University Teaching. 29.3, 109-114.
   
 Hensley, Thomas R., Maureen Oakley. "The Challenge of the Large Lecture Class:
 Making it More Like a Small Seminar." The Teacher. March 1998, 7 pg., 30 March
-1998
-[http://www.apsanet.org/PS/March/hensley.html](http://www.apsanet.org/PS/)  
+1998 http://www.apsanet.org/PS/March/hensley.html  
   
 Kozma, Robert. "Learning with Lectures." CRLT Occasional Papers. 6, University
 of Michigan, 1993.  
@@ -570,10 +568,10 @@ Frizler, Karla. "Designing Successful Internet Assignments." Syllabus.
 February 1999, 52-53.  
   
 Gilbert, Steven W. "Preserve and Transform: Integrating Technology into
-Academic Life." <http://www.tltgroup.org> Vol. 12, No. 5, October 1999.  
+Academic Life." http://www.tltgroup.org Vol. 12, No. 5, October 1999.  
   
 Morris, Kathleen. "Wiring the Ivory Tower." Businessweek Online. 17 August
-1999. <http://www.businessweek.com/1999/99_32/b3641118.htm>  
+1999. http://www.businessweek.com/1999/99_32/b3641118.htm  
   
 Rups, Pamela. "Training Instructors in New Technologies." T.H.E. Journal.
 March 1999, 67-69.  
@@ -648,9 +646,7 @@ Walvoord, Barbara E. "The Future of WAC." College English. 58.1, January 1996,
   
 Top  
 ![](../SpacerGifs/Spacer-8x24.gif)  
-[TCLT Home Page](../index.html) | [Programs](../Programs/index.html) |
-[Funding](../Funding/index.html) | [Teaching Resources](index.html) |
-[Calendar](../Calendar/index.html)
+TCLT Home Page | Programs | Funding | Teaching Resources | Calendar
 
 This site created and maintained by the Thompson Center for Learning and
 Teaching.  

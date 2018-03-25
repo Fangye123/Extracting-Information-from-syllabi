@@ -12,7 +12,7 @@ _ Frank James Smith
 Professor of Psychology  
 North Carolina State University  
 Raleigh, North Carolina 27695  
-[fjsmith@ncsu.edu](mailto:fjsmith@ncsu.edu)  
+fjsmith@ncsu.edu  
 (919) 515-1723
 
 **Biographical Summary** _
@@ -34,19 +34,11 @@ program performance.
 
 Click on the following links to access course materials saved in pdf format.  
 You will need to use Adobe Acrobat to open these files!!!  
-[  
-Psy 312, Applied Psychology
-](http://courses.ncsu.edu/classes/psy312001/312.pdf) (Syllabus for Spring
-2001)  
-[Psy 714, The Social Psychology of
-Groups](http://courses.ncsu.edu/psy714/lec/002/714.pdf) (Syllabus for Spring
-2001)  
-[Psy 751, Human Resource Planning and
-Evaluation](http://courses.ncsu.edu/classes/psy%20751001) (Syllabus for Fall
-2000)  
-[Psy 755,  Cross-cultural Research and
-Development](http://courses.ncsu.edu/classes/psy755001/755.pdf) (Syllabus for
-Fall 2000)  
+  
+Psy 312, Applied Psychology  (Syllabus for Spring 2001)  
+Psy 714, The Social Psychology of Groups (Syllabus for Spring 2001)  
+Psy 751, Human Resource Planning and Evaluation (Syllabus for Fall 2000)  
+Psy 755,  Cross-cultural Research and Development (Syllabus for  Fall 2000)  
 Psy 756,  Consumer Research (Syllabus for Spring 2000)
 
 **Current Research Projects:**
@@ -144,6 +136,6 @@ of trait associations across societies by content and geographical proximity.
 _Behavior Science Research_ , _12_ (3), 145-167.
 
   
-[![](images/frontpag.gif)](http://www.microsoft.com/frontpage/)  
+![](images/frontpag.gif)  
 ---|---|---
 

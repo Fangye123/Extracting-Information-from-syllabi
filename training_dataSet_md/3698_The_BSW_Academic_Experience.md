@@ -1,13 +1,12 @@
 **THE BSW ACADEMIC EXPERIENCE**
 
-The [Curriculum Policy Statement](../manual/C%26Pstatement.html) of the
-Council on Social Work Education that guides this curriculum appears in the
-[Appendix](appendix.html). An accredited Bachelor of Social Work Degree
-requires a well-designed, broad liberal arts base similar to that required of
-many other professional disciplines. In addition, courses are required in the
-following professional areas: Human Behavior and the Social Environment,
-Social Policy, Social Research, and Generalist Social Work Practice, including
-a semester-long internship during the final semester.
+The Curriculum Policy Statement of the Council on Social Work Education that
+guides this curriculum appears in the Appendix. An accredited Bachelor of
+Social Work Degree requires a well-designed, broad liberal arts base similar
+to that required of many other professional disciplines. In addition, courses
+are required in the following professional areas: Human Behavior and the
+Social Environment, Social Policy, Social Research, and Generalist Social Work
+Practice, including a semester-long internship during the final semester.
 
 **_The Advising Process_**. Students should arrange appointments with the
 advisor as soon as the advisor is assigned upon the student's declaration of
@@ -40,7 +39,7 @@ required classes.
   * Many social work courses contain a great deal of experiential learning. Students are expected to be prepared for class by reading all assigned materials prior to the class session. 
   * Social work students are expected to demonstrate college level verbal and written communication skills. Writing skills will be considered in grading of all written assignments. 
   * Critical thinking is basic to social work education. This involves energetic analysis of material, questioning information and positions of others, identifying and examining one's own biases, and assuring that one's conclusions accurately follow the information being considered. 
-  * Honesty and integrity are essential elements of the academic environment. Any dishonest behaviors will be addressed by the course professor and MAY result in failure of the course. See the campus M BOOK for a complete statement of the University [policy on dishonesty](../manual/deptpolicis.html). (A copy of this policy appears in the [Appendix](appendix.html).) 
+  * Honesty and integrity are essential elements of the academic environment. Any dishonest behaviors will be addressed by the course professor and MAY result in failure of the course. See the campus M BOOK for a complete statement of the University policy on dishonesty. (A copy of this policy appears in the Appendix.) 
   * No academic credit is given for life experience, including volunteer experiences,  
 employment, or courses from non-accredited schools.
 
@@ -92,12 +91,11 @@ Health Services, 232-7274, or the Psychology Clinic at 232-7385.
 **_Academic Appeals/Grievance Procedure_**. The Department of Social Work
 supports students' rights to appeal any grade that is believed to have been
 awarded arbitrarily or unjustly. The Department subscribes to the university's
-[academic appeals](../manual/appeals.html) procedure that is open to any
-student who receives a course grade which is believed to have been based on
-prejudice, discrimination, arbitrary or capricious actions, or other reasons
-not related to academic performance. Procedures and time tables are carefully
-detailed in the University M BOOK, as referenced in the
-[appendix](appendix.html) to this handbook.  
+academic appeals procedure that is open to any student who receives a course
+grade which is believed to have been based on prejudice, discrimination,
+arbitrary or capricious actions, or other reasons not related to academic
+performance. Procedures and time tables are carefully detailed in the
+University M BOOK, as referenced in the appendix to this handbook.  
   
 The student, who holds responsibility for burden of proof, must first appeal
 the grade with the course instructor. If agreement is not reached at this
@@ -119,7 +117,7 @@ the last previous step shall be final.
 
 **THE BACHELOR OF SOCIAL WORK  
 DEGREE REQUIREMENTS  
-([course descriptions](../course.html) appear in the l998 catalog)**
+(course descriptions appear in the l998 catalog)**
 
 
 
@@ -253,12 +251,12 @@ professional core. It is therefore mandatory that courses be taken in
 appropriate sequence. Minimal flexibility is allowed at the discretion of
 faculty advisors.
 
-Students may use the department's "[Sequencing of Courses](sequence.html)" and
-"[Checklist of Graduation Requirements](chcklst.html)" sheets as checking
-devices to note progress through the curriculum. The student's transcript in
-the Office of the Registrar is the official record of progress toward
-graduation. Students should check this transcript periodically, particularly
-in reference to any grade changes, transferred credits, etc.
+Students may use the department's "Sequencing of Courses" and "Checklist of
+Graduation Requirements" sheets as checking devices to note progress through
+the curriculum. The student's transcript in the Office of the Registrar is the
+official record of progress toward graduation. Students should check this
+transcript periodically, particularly in reference to any grade changes,
+transferred credits, etc.
 
 **_Social Work Internship_**. The final semester in the BSW experience is the
 internship, SW 495: SOCIAL WORK INTERNSHIP (9 hours) and its companion seminar
@@ -268,13 +266,12 @@ students, agency staff, and faculty, assignment of the grade is the
 responsibility of the Department of Social Work faculty. THE INTERNSHIP IS FOR
 SOCIAL WORK MAJORS ONLY.
 
-[Internship settings](../manual/495.html#anchor1088253) throughout Mississippi
-and in Memphis, Tennessee, are chosen based upon the setting's compatibility
-with the mission, goals, and objectives of the Department of Social Work. The
-setting must provide an educationally-directed field experience, directed by
-qualified field instructors who will facilitate the student's learning
-according to the [student-university-agency learning
-contract](../manual/contract.html).
+Internship settings throughout Mississippi and in Memphis, Tennessee, are
+chosen based upon the setting's compatibility with the mission, goals, and
+objectives of the Department of Social Work. The setting must provide an
+educationally-directed field experience, directed by qualified field
+instructors who will facilitate the student's learning according to the
+student-university-agency learning contract.
 
 Key points to remember about the internship:
 
@@ -284,7 +281,7 @@ Key points to remember about the internship:
   * Internships may be completed in any approved setting in Mississippi or in Memphis, TN, with consideration for the professional interests and geographic needs of the student. 
   * Oxford has VERY FEW placement opportunities. Priority for Oxford area is given to physically challenged students, non-traditional students with children, and other local residents. 
   * Having a lease in Oxford is not reason to merit a placement in Oxford. 
-  * Malpractice insurance and automobile liability insurance are required (if auto is to be used in internship). [Malpractice insurance](../manual/495.html#anchor7490) is available through [National Association of Social Workers](http://www.NASWdc.org/) membership. Acquiring same is explained in SW 450 prior to the internship. 
+  * Malpractice insurance and automobile liability insurance are required (if auto is to be used in internship). Malpractice insurance is available through National Association of Social Workers membership. Acquiring same is explained in SW 450 prior to the internship. 
 
 The process of arranging for the internship is as follows:
 
@@ -304,7 +301,7 @@ follows:
   * Regular conferences with agency field instructor 
   * Three evaluation conferences with field liaison 
   * Student will submit weekly written reports to liaison 
-  * Other written assignments as described in [Internship Manual](../manual/Manual.html)
+  * Other written assignments as described in Internship Manual
   * Periodic integrative seminars on campus 
   * Final evaluation and grading  
 

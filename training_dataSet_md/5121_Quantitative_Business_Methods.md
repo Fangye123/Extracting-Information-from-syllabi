@@ -2,13 +2,12 @@
 
 |
 
-[**SOLOMON USIANENEH**](index.htm)  
+**SOLOMON USIANENEH**  
 ---  
   
-[**BUSINESS &
-ECONOMICS**](http://www.wilberforce.edu/areas/busecon/initial.htm)  
+**BUSINESS & ECONOMICS**  
   
-[**WILBERFORCE UNIVERSITY**](http://www.wilberforce.edu)  
+**WILBERFORCE UNIVERSITY**  
   
 **QBA 336**.  
 **QUANTITATIVE BUSINESS METHODS**  
@@ -236,5 +235,5 @@ Twenty percent is assigned to this area.
      14.1-4.12  
 ---  
   
-[Back to top](qba336.htm#.)
+Back to top
 

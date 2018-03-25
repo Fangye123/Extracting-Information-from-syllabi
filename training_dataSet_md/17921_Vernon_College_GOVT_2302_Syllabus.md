@@ -66,7 +66,7 @@ Top
 
 >
 
-> Textbooks (available in the [Vernon College Bookstore](/bookstor.html)):
+> Textbooks (available in the Vernon College Bookstore):
 
 >
 
@@ -208,20 +208,19 @@ conducted during the term.
 > Top  
 > |  ![separator line](vrjcbar3.gif)  
 >  
-> ![spacer](holder1.gif) | [Internet Course
-Information](/dstlrn/inetinfo.html)
+> ![spacer](holder1.gif) | Internet Course Information
 
 >
 
-> [Distance Learning Home Page](/dstlrn)
+> Distance Learning Home Page
 
 >
 
-> [Public Notice](/pubnote.html)
+> Public Notice
 
 >
 
-> [![Vernon College Home Page](home.gif)](/)
+> ![Vernon College Home Page](home.gif)
 
 >
 
@@ -229,10 +228,10 @@ Information](/dstlrn/inetinfo.html)
 
 >
 
-> _[disclaimer](/disclaim.html)_
+> _disclaimer_
 
 >
 
-> _[copyright 2001-2002 Vernon College](/copyrt.html)_  
+> _copyright 2001-2002 Vernon College_  
 > ---|---
 

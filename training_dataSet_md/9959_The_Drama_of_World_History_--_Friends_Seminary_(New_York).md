@@ -294,7 +294,7 @@ Act Eight: The Afrasian World System (1000 to 1500 CE)
     1. Camel, caravan, gold and salt 
     2. Mali and Songhai  
 
-**[Return](/~world/) to H-WORLD's home page.**
+**Return to H-WORLD's home page.**
 
 * * *
 

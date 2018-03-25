@@ -38,12 +38,11 @@ Webster Hall
 
 >
 
->   * [ woolflm@webster.edu](mailto:woolflm+statistics16@webster.edu)
+>   * woolflm@webster.edu
 
 >
 
->   * [Woolf Web Page:
-http://www.webster.edu/~woolflm/](http://www.webster.edu/~woolflm/)
+>   * Woolf Web Page: http://www.webster.edu/~woolflm/
 
 >
 
@@ -174,7 +173,7 @@ understand a concept in class, ask. I'm more than willing to re-explain. If
 you start to fall behind, contact me as soon as possible. We'll make some
 arrangements. This is important because the material discussed four weeks from
 today will be based on material discussed today. For more survival tips, see
-[Survival Tips](tips.html)
+Survival Tips
 
 >
 
@@ -311,8 +310,8 @@ No grade of Incomplete will be issued for this course.
 > Introduction to statistics  
 > Overview of methodology| Chapter 1  
 > Chapter 12  
-> [Introduction to Measurement and Statistics](statwhatis.html)  
->  [Research Methods](statmethods.html)  
+> Introduction to Measurement and Statistics  
+>  Research Methods  
 >  
 > August| 30| Frequency Distributions and Graphing|  Chapter 2  
 > September| 6| Frequency Distributions and Graphing|  Chapter 2  
@@ -343,7 +342,7 @@ No grade of Incomplete will be issued for this course.
 
 >  
 >  
-> [Back to Statistics Page](statistics.html)
+> Back to Statistics Page
 
 >
 

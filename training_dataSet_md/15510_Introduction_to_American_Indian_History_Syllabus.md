@@ -164,7 +164,7 @@ HIST 3368C
 Fall 2002  
 T, TH 11-12:15 p.m.  
 Dr. de la Teja  
-Office: TMH 216; Phone: 5-2149; E-mail: [jd10@swt.edu](mailto:jd10@swt.edu)  
+Office: TMH 216; Phone: 5-2149; E-mail: jd10@swt.edu  
 Office Hours: T,TH 10-10:50, 1:15-1:50, and by appointment
 
 Wk 1: 8/29 | Orientation  

@@ -1,11 +1,10 @@
-General Archival Files ![](/e/images/spcl/simple.gif) |  [catalog](/h/1) |
-[worldcat](/h/worldcat) | [using the library](/e/using/) | [electronic
-resources](/h/db) | [libraries, collections & subjects](/e/lcs.html)  
+General Archival Files ![](/e/images/spcl/simple.gif) |  catalog | worldcat |
+using the library | electronic resources | libraries, collections & subjects  
 
   
   
 
-[**Special Collections Research Center**](.) | **General Archival Files**  
+**Special Collections Research Center** | **General Archival Files**  
 
 * * *
 
@@ -31,10 +30,8 @@ community life. Depending on the topic, these may include official
 publications such as course announcements, the administrative records of
 departments and offices, and professional papers of individuals. Researchers
 should also be aware of related documentary material on the University of
-Chicago in the [Archival Biographical File](bio.html), the [Archival Buildings
-File](abf.html), the [Guide to Archival Serials](archser.html), and the
-[Archival Photographic
-Files](http://www.lib.uchicago.edu/e/spcl/findaid/photofiles/).
+Chicago in the Archival Biographical File, the Archival Buildings File, the
+Guide to Archival Serials, and the Archival Photographic Files.
 
 * * *
 
@@ -1541,9 +1538,9 @@ Headings A-F | Headings G-L | headings M-R | headings S-Z | Back to top
   
   
 
-Return to: [Special Collections Research Center ](/e/spcl/)  
+Return to: Special Collections Research Center  
 
 This page was last generated on 16 January 2002 at 3:04 PM CST by
-[specialcollections@lib.uchicago.edu](mailto:specialcollections@lib.uchicago.edu)  
+specialcollections@lib.uchicago.edu  
 The URL of this page is: http://www.lib.uchicago.edu/e/spcl/gaf.html
 

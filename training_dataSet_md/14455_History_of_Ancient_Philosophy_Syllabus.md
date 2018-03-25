@@ -5,10 +5,10 @@ Fall 2001
 12:00pm-1:40pm TTh  
 HFA 26
 
-Instructor: [ Tim O'Keefe ](index.html)  
+Instructor:  Tim O'Keefe  
 Office: CAM 207  
 Phone: O: 589-6288, H: 589-2966  
-e-mail: [ okeefets@mrs.umn.edu](mailto:okeefets@mrs.umn.edu)  
+e-mail:  okeefets@mrs.umn.edu  
 OH: Tuesday, Wednesday and Thursday 1:45-2:45 and by appointment.
 
 ![](blueline.gif)  
@@ -30,11 +30,11 @@ revising and resubmitting.
 I will rotate the schedule of reading response papers, so that every class
 period one or two students will submit a paper. These papers will typically
 involve setting out and evaluating one of the arguments in the reading for
-that class day. You will post this paper to the [class bulletin board.
-](https://webct3.umn.edu) Please post your paper the night before the class by
-5 p.m. at the latest. Everybody will be responsible for reading the reading
-response papers before the class meeting and posting a reply to one of the
-papers, or a reply to one of the replies, even.
+that class day. You will post this paper to the class bulletin board.  Please
+post your paper the night before the class by 5 p.m. at the latest. Everybody
+will be responsible for reading the reading response papers before the class
+meeting and posting a reply to one of the papers, or a reply to one of the
+replies, even.
 
 You can post several types of replies:
 
@@ -44,8 +44,8 @@ You can post several types of replies:
   4. _Assistance._ You claim p. I agree with you that p, but I think the following additional reason (which you do not mention) can be given in support of p: q. 
   5. _Competing interpretation._ You say that the reading claims that p. However, I don't think that this is exactly what it says. Instead, I think it says p' (and here's why I think this). 
   6. _Suggestion of parallels._ You claim p. P (or your argument for p) reminds me of so-and-so's claim that q (or his argument for q). Are the two really similar? Does comparing p to q help illuminate p, or is it just misleading? 
-Sometimes, the bulletin board may be down. If so, please [e-mail
-me](mailto:okeefets@mrs.umn.edu) your paper or question before class.
+Sometimes, the bulletin board may be down. If so, please e-mail me your paper
+or question before class.
 
 Typically, I will explain the material in the first half of the class. We will
 take a break, and then the second half of the class will be devoted to
@@ -62,8 +62,8 @@ class, and knowing what questions you have will help me prepare more effective
 lectures.
 
 The bulletin board, announcements, copies of this syllabus, and a trove of
-other information is available from the course web site, [
-http://cda.mrs.umn.edu/~okeefets/ancient01.html.](http://cda.mrs.umn.edu/~okeefets/ancient01.html)
+other information is available from the course web site,
+http://cda.mrs.umn.edu/~okeefets/ancient01.html.
 
 ![](blueline.gif)
 
@@ -145,7 +145,7 @@ disabilities. Please contact the instructor or the Disability Services office,
 
 ![](blueline.gif)
 
-[Return to the Ancient Philosophy web site.](ancient01.html)  
-[Return to the course materials index.](course-materials.html)  
-[Return to Tim O'Keefe's homepage.  
+Return to the Ancient Philosophy web site.  
+Return to the course materials index.  
+Return to Tim O'Keefe's homepage.  
 

@@ -5,11 +5,11 @@ _Internet Explorer_**
 History 390  
 Fall 1997  
 Dr. Daniel E. Rogers  
-<http://www.usouthal.edu/usa/history/faculty/rogers>** | **Office: HUMB 344  
+http://www.usouthal.edu/usa/history/faculty/rogers** | **Office: HUMB 344  
 Office Hours: M &W 2-4; T&Th 12-1  
 Office Phone: 460-6210 (receptionist); 460-7610 (in my office)  
 Home Phone: 633-2429  
-E-mail: [drogers@jaguar1.usouthal.edu](mailto:drogers@jaguar1.usouthal.edu)**  
+E-mail: drogers@jaguar1.usouthal.edu**  
 ---|---  
   
 ## HITLER & NAZI GERMANY
@@ -177,7 +177,5 @@ _Gleichschaltung_ (Wall, 64-86)
 **Final Exam with essay on announced topics, and including quiz on all
 material since second quiz and Bartov's book**
 
-**[Professor Rogers' Home
-Page](http://www.usouthal.edu/usa/history/faculty/rogers) | [USA History
-Department Home Page](../..)**
+**Professor Rogers' Home Page | USA History Department Home Page**
 

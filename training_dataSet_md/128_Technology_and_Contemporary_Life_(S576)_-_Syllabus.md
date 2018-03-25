@@ -2,13 +2,12 @@
 
 ### HPSS*S576, Spring 2001 -- TR 11:20 to 12:50  
 The Rhode Island School of Design, Providence RI  
-[Roger B. Blumberg](http://www.cs.brown.edu/~rbb/) \-- Syllabus
+Roger B. Blumberg \-- Syllabus
 
 **http://www.cs.brown.edu/~rbb/risd/TCL.syllabus.html**  
 Updated: 4/10/01
 
-Books || Weekly Descriptions || Additional Bibliography || [Final
-Exam](TCL.exam.html)
+Books || Weekly Descriptions || Additional Bibliography || Final Exam
 
 **Briefly:** Our Age is one in which technology, and digital technology in
 particular, is described routinely as having the power not only to accommodate
@@ -132,7 +131,7 @@ semester.
 **Required Reading:** Ullman 1997 (chapters 0-4 for Tuesday, and the rest for
 Thursday)
 
-  * [Blumberg's Notes](TCL.rbb1.html)
+  * Blumberg's Notes
 
 **Classes cancelled on March 6th due to snow.**
 
@@ -144,18 +143,18 @@ machine accomodates itself to the weak human being, in order to turn the weak
 human being into a machine." What are questions concerning technology (really
 questions) about?
 
-**Required Reading:** Borgmann 1995 (in  TPK), Marx 1844 ( [an excerpt from
-the 3rd Manuscript](KM1844.needs.html))
+**Required Reading:** Borgmann 1995 (in  TPK), Marx 1844 ( an excerpt from the
+3rd Manuscript)
 
-  * [Blumberg's Notes](TCL.rbb2.html) 
+  * Blumberg's Notes 
 
 **Week #4 (March 20 & 22): Technology and Society I**:  
 
 **Required Reading:** Ellul 1967, chapters 1, 2 and 6.
 
-[Forsstroom's Notes on Chapter 2](TCL.hf1.html)
+Forsstroom's Notes on Chapter 2
 
-[Kennedy's Notes on Chapter 6](TCL.kk1.html)
+Kennedy's Notes on Chapter 6
 
 **Spring Break: March 27 & 29**
 
@@ -163,12 +162,12 @@ the 3rd Manuscript](KM1844.needs.html))
 
 **Required Reading:** Longino (Tuesday) and Henaff (Thursday) (in  TPK)
 
-[Ragan's Notes on Longino 1995](TCL.jr1.html)
+Ragan's Notes on Longino 1995
 
 **Week #7 (April 10 & 12): What Heidegger Thought I**  
 
 **Required Reading:** Heidegger 1977, pt. I for Thursday (electronic version
-at <http://www.centenary.edu/~balexand/cyberculture/questiontech.html>)  
+at http://www.centenary.edu/~balexand/cyberculture/questiontech.html)  
 **Assignment:** On Tuesday come prepared to speak for 5 minutes or so about
 the technology you've adopted this semester.
 
@@ -197,9 +196,9 @@ returned with comments on the 26th.
 
 **Week #13 (May 22): Technology and Contemporary Life**  
 
-  * [Quotations for Final Exam Review](TCL.review.html) 
+  * Quotations for Final Exam Review 
 
-**May 25th:[Final Exam](TCL.exam.html)**
+**May 25th:Final Exam**
 
 ### Contact Information
 

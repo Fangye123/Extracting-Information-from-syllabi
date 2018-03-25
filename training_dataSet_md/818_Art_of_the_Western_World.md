@@ -9,7 +9,7 @@ _USF TELECOURSES_
 
 Midterm Review Sheet
 
-[Final Review Sheet](../summer01/awwfr2.htm/awwfr.htm)  
+Final Review Sheet  
   Please be aware that this syllabus is subject to change. Please be sure to
 check the 24-hr. information line (813) 974-3063 or the listserv or this
 website regularly for any scheduling changes. They will be posted here as soon
@@ -17,14 +17,11 @@ as we become aware of them.
 ---  
 **Instructor: Mr. Robert Lovejoy**  
 **Office:  **  
-**Email:  **
-****[lovejoy@satie.arts.usf.edu](file:////Outreach-1/outreach/Spring 2001
-Telecourse Syllabi/lovejoy@satie.arts.usf.edu)
+**Email:  ** ****lovejoy@satie.arts.usf.edu
 
 **_Telecourse Information:_**  
-**Coordinator:  ** ****[Stephanie Gaskins  
-](file:////Outreach-1/outreach/Spring 2001 Telecourse Syllabi/Stephanie
-Gaskins)**Office Location:  ** ****SVC 1072 (map grid: D3)  
+**Coordinator:  ** ****Stephanie Gaskins  
+**Office Location:  ** ****SVC 1072 (map grid: D3)  
 **Office Hours:  ** ****Monday-Thursday 8:00am- 7:00pm Friday 8:00am -5:00pm  
 **Phone:  ** ****974-2996 (Distance Learning Student Support Services)  
   Listserv:  _art4930@lists.acomp.usf.edu_  

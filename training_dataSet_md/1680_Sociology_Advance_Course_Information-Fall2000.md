@@ -379,7 +379,7 @@ Fall 2000
 
 Office hours: 1:50pm-3:10pm M,W,F. College 8, Room 320  
 Phone: 459 5503 (office); 650 367 8272 (home); 650 245 6769 (mobile)  
-e-mail: [bencrow@cats.ucsc.edu](mailto:bencrow@cats.ucsc.edu)
+e-mail: bencrow@cats.ucsc.edu
 
 ### Course Description
 

@@ -1,13 +1,11 @@
 ## **COURSES IN CHINESE STUDIES--300- and 400-level**
 
-Chinese Studies [100 Level](eaccata.html) and Chinese Studies [200
-Level](eaccata2.html) also available.
+Chinese Studies 100 Level and Chinese Studies 200 Level also available.
 
 ![](images/bar_blue.gif)
 
-Click [here](http://www.albany.edu/cgi-bin/schedule-search/schedule-search.pl)
-for the University at Albany Schedule Search Page, which lets you find out
-**which courses are being offered this term.**
+Click here for the University at Albany Schedule Search Page, which lets you
+find out **which courses are being offered this term.**
 
 Eac 301 & 302 (formerly Eac 300a and b) Advanced Chinese I & II (3, 3)  
 Eac 310 Classical Chinese I (3)  
@@ -32,9 +30,9 @@ from both Taiwan and mainland China, and readings from the Great Proletarian
 Cultural Revolqtion. Students will view and study at least one full-length
 Chinese movie. Equal emphasis is placed on enhancing reading, writing and oral
 communication skills. Class is conducted entirely in Chinese. Prerequisites:
-[Eac 202L](eaccata2.html#A1.3) or equivalent for Eac 301; Eac 301 or
-equivalent for Eac 302. Click [here](eac301.html) for the most recent Eac301
-syllabus, and [here](eac302.html) for the most recent Eac302 syllabus.
+Eac 202L or equivalent for Eac 301; Eac 301 or equivalent for Eac 302. Click
+here for the most recent Eac301 syllabus, and here for the most recent Eac302
+syllabus.
 
 ![](images/marbthin.gif)
 
@@ -42,8 +40,7 @@ syllabus, and [here](eac302.html) for the most recent Eac302 syllabus.
 
 Introduction to the literary Chinese language and classical Chinese culture
 through readings of simple texts selected from early classics, including the
-Chuangtzu and Records of the Grand Historian. Prerequisite: [Eac
-202L](eaccata2.html#A1.3).
+Chuangtzu and Records of the Grand Historian. Prerequisite: Eac 202L.
 
 ![](images/marbthin.gif)
 
@@ -81,7 +78,7 @@ This course offers a general survey of Chinese history to 1644, with emphasis
 on political, economic, and social developments. **Eac 379Z is the writing
 intensive version of Eac 379; only one may be taken for credit.**
 Prerequisite: Junior or senior standing, or 3 credits in East Asian Studies or
-History. Click [here](eac379.html) for a view of the most recent syllabus.
+History. Click here for a view of the most recent syllabus.
 
 ![](images/marbthin.gif)
 
@@ -92,8 +89,7 @@ weaknesses of the traditional state and the solutions which the Chinese
 developet in response to foreign aggression and internal disintegration. **Eac
 380Z is the writing intensive version of Eac 380; only one may be taken for
 credit.** Prerequisite: Junior or senior standing, or 3 credits in East Asian
-Studies or History. Click [here](eac380.html) for a view of the most recent
-syllabus.
+Studies or History. Click here for a view of the most recent syllabus.
 
 ![](images/marbthin.gif)
 
@@ -101,11 +97,11 @@ syllabus.
 
 A selected topic in Chinese literature or culture for students with some
 knowledge of China. **May be repeated for credit when topic varies.**
-Prerequisites: [Eac 170](eaccata.html#A1.6) or permission of instructor.
+Prerequisites: Eac 170 or permission of instructor.
 
-Click [here](eac389q.html) for a view of the syllabus for EAC389Q.  
-Click [here](eac389r.html) for a view of the syllabus for EAC389R.  
-Click [here](eac389s.html) for a view of the syllabus for EAC389S.
+Click here for a view of the syllabus for EAC389Q.  
+Click here for a view of the syllabus for EAC389R.  
+Click here for a view of the syllabus for EAC389S.
 
 ![](images/marbthin.gif)
 
@@ -114,8 +110,7 @@ Click [here](eac389s.html) for a view of the syllabus for EAC389S.
 ****
 
 Extensive readings in Chinese vernacular literature in classical and modern
-periods. Lecture and discussion conducted in Chinese. Prerequisite: [Eac
-202L](eaccata2.html#A1.3).
+periods. Lecture and discussion conducted in Chinese. Prerequisite: Eac 202L.
 
 ![](images/marbthin.gif)
 
@@ -145,10 +140,9 @@ contemporary China. The course focuses on the period since the death of Mao
 Zedong (1976), and is particularly concerned with the social, spatial, and
 political ramifications of China's entry into the global economy, and the
 post-Mao experiment with market socialism. **Only one of Gog 470Z & Chi 470Z
-may be taken for credit. **Prerequisite **:** any of the following: [Eac
-160M/G](eaccata.html#A1.5) or [170L](eaccata.html#A1.6), or Gog 102G/M or
-220M. Click [here](http://www.albany.edu/gp/Faculty_Staff/cjsmith/gog470.html)
-for a view of the most recent syllabus.
+may be taken for credit. **Prerequisite **:** any of the following: Eac 160M/G
+or 170L, or Gog 102G/M or 220M. Click here for a view of the most recent
+syllabus.
 
 ![](images/marbthin.gif)
 
@@ -161,11 +155,9 @@ Supervised readings of texts in Chinese. **May be repeated once for credit
 when topics differ.** Prerequisite: two 300- level Chinese courses or
 equivalent, or permission of instructor.
 
-[Home](easindex.html) | [Major Requirements](majors.html) | [Course
-Listings](eascours.html) | [China MBA Program](chinamba.html) | [Faculty
-Directory](faculty.html) | [Department Newsletter](easnews.html)
+Home | Major Requirements | Course Listings | China MBA Program | Faculty
+Directory | Department Newsletter
 
-| [Study Abroad Programs](easprog.html) | [EAS WWW Links](easlink.html) |
-[Career Info](jobs.html) | [Alumni Connection](college1.html) | [Journal of
-Sung-Yuan Studies](mainpage.htm)
+| Study Abroad Programs | EAS WWW Links | Career Info | Alumni Connection |
+Journal of Sung-Yuan Studies
 

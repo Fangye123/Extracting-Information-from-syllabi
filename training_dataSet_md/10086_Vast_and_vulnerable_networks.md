@@ -1,5 +1,4 @@
-####  You may return to the [course syllabus](syllabus.html) or to the [class
-sessions page.](reading.html)
+####  You may return to the course syllabus or to the class sessions page.
 
 ### Vast and vulnerable networks
 
@@ -48,8 +47,8 @@ ch. IV.
   35. Why would the Portuguese have been particularly concerned about the Sultanate of Aceh (Atjah)? 
   36. Why was there such a great demand for Indian textiles as far away as West Africa and eastern Indonesia? How were Indian producers able to supply such a vast market? 
 
-[Mail questions now.](mailto:owenjack@isu.edu) Please include your name and
-e-mail address in the body of your message.
+Mail questions now. Please include your name and e-mail address in the body of
+your message.
 
 * * *
     

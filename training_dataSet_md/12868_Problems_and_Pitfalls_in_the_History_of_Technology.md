@@ -1,9 +1,9 @@
 # Problems and Pitfalls in the History of Technology
 
-Steven Dutch, Natural and Applied Sciences, [University of Wisconsin - Green
-Bay](http://weba.uwgb.edu/)  
-First-time Visitors: Please visit [Site Map and Disclaimer](../sitemap.htm).
-Use "Back" to return here.
+Steven Dutch, Natural and Applied Sciences, University of Wisconsin - Green
+Bay  
+First-time Visitors: Please visit Site Map and Disclaimer. Use "Back" to
+return here.
 
 * * *
 
@@ -382,9 +382,9 @@ further weakness, still more invasion, and so on?
 
 * * *
 
-[Return to Course Syllabus](../westech.htm)  
-[Return to Course Notes Index](190outln.htm)  
-[Return to Professor Dutch's Home Page](../index.htm)
+Return to Course Syllabus  
+Return to Course Notes Index  
+Return to Professor Dutch's Home Page
 
 _Created 13 January 1998, Last Update 21 August 2000_
 

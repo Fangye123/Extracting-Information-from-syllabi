@@ -1,20 +1,15 @@
 # _1999 Tropical Ecosystems of Costa Rica Discussion and Research Menu_
 
-**Visit the[ _Tropical Ecosystems of Costa Rica Course
-Syllabus](/html/tropecocostarica.html)_**
+**Visit the _Tropical Ecosystems of Costa Rica Course Syllabus_**
 
-#
-[![](http://jrscience.wcp.muohio.edu/photos/bachelorpond.gif)](http://jrscience.wcp.muohio.edu/movies/BachelorPonda.mov)
+# ![](http://jrscience.wcp.muohio.edu/photos/bachelorpond.gif)
 
-Check out beautiful[ Bachelor Pond in Miami University's Bachelor
-Preserve.](http://jrscience.wcp.muohio.edu/movies/BachelorPonda.mov)
+Check out beautiful Bachelor Pond in Miami University's Bachelor Preserve.
 **(Quicktime movie~1.6 mb)**.
 
 #
 
-[R. Hays Cummins ](mailto:haysc@muohio.edu) |[Interdisciplinary
-Studies](http://www.muohio.edu/interdisciplinarystudies/) | [Miami
-University](http://www.muohio.edu/)  
+R. Hays Cummins  |Interdisciplinary Studies | Miami University  
 ---  
   
 It is 5:49 AM on Sunday, August 25, 2002. This page has served 9889 people and
@@ -29,13 +24,13 @@ discussion projects more scientifically sound, you are being called upon to
 put forward your topics and ideas as well as provide needed feedback to your
 fellow students.
 
-These are discussion topics related to [Tropical Ecosystems of Costa
-Rica.](/html/tropecocostarica.html) Please feel free to browse...
+These are discussion topics related to Tropical Ecosystems of Costa Rica.
+Please feel free to browse...
 
 For students selecting a discussion topic for Tropical Ecosystems of Costa
-Rica, [**Input Your Topic**](/FieldCourses99/FieldCoursesEntry.html), and then
-review feedback here. Topics have to be approved by Dr. Cummins via this web
-feedback. Specific topics are first-come, first-served.
+Rica, **Input Your Topic**, and then review feedback here. Topics have to be
+approved by Dr. Cummins via this web feedback. Specific topics are first-come,
+first-served.
 
 ###  A Note from Your Fearless Leader
 
@@ -80,9 +75,8 @@ students have talked about in previous years. **** To "prime" your discussion,
 you may wish to provide readings in advance to the class.
 
 Let me know if I can help in any way. And, if you haven't done so yet, check
-out the [Trop Ecosystems of Costa Rica Image Web
-Page.](http://jrscience.wcp.muohio.edu/html/TropEcoCostaRicaImage.html) You'll
-get a taste of what's in store!
+out the Trop Ecosystems of Costa Rica Image Web Page. You'll get a taste of
+what's in store!
 
 Hays C  
 ---  
@@ -98,57 +92,50 @@ Hays C
 ####  Search for Topics Entered....  
   
 ---|---  
-[**Tropical Marine Ecology
-'99**](http://jrscience.wcp.muohio.edu/FieldCourses99/MarineEcologyMenu.html)
+**Tropical Marine Ecology '99**
 
-[Tropical Marine Ecology '98
-](http://jrscience.wcp.muohio.edu/FieldCourses/MarineEcologyMenu.html)  |
-[since I last checked](/RECENT_E.fdml)  
-[**Tropical Ecosystems of Costa Rica
-'99**](http://jrscience.wcp.muohio.edu/FieldCourses99/TropEcoCostaRicaMenu.html)
-****
+Tropical Marine Ecology '98   |   since I last checked  
+**Tropical Ecosystems of Costa Rica '99** ****
 
-[Tropical Ecosystems of Costa Rica
-'98](http://jrscience.wcp.muohio.edu/FieldCourses/TropEcoCostaRicaMenu.html) |
-[in the last 3 days](http://jrscience.wcp.muohio.edu/RECENT_E_4320.fdml)  
+Tropical Ecosystems of Costa Rica '98 |   in the last 3 days  
   
 ### 1999 Tropical Ecosystems of Costa Rica Discussion Topics:
 
-  * [Final Draft of: More Than You Would Ever Want To Know About BANANAS (8/13/99)](/FieldCourses99/TropEcoCostaRicaArticles/FinalDraftof.MoreThanYouW.html)
-  * [Salvadoran refugee women in Costa Rica (8/11/99)](/FieldCourses99/TropEcoCostaRicaArticles/SalvadoranrefugeewomeninC.html)
-  * [Final: Plantlife in the Canopy of the Tropical Rainforests of Costa Rica (8/5/99)](/FieldCourses99/TropEcoCostaRicaArticles/Final.PlantlifeintheCanop.html)
-  * [Ecological Restoration (7/31/99)](/FieldCourses99/TropEcoCostaRicaArticles/EcologicalRestoration.html)
-  * [Pan American Highway System Final (7/21/99)](/FieldCourses99/TropEcoCostaRicaArticles/PanAmericanHighwaySystemF.html)
-  * [Final: National Parks of Costa Rica (7/8/99)](/FieldCourses99/TropEcoCostaRicaArticles/Final.NationalParksofCost.html)
-  * [Final: The Natural History of the African Oil and Pejibaye Palms of Costa Rica (7/6/99)](/FieldCourses99/TropEcoCostaRicaArticles/Final.TheNaturalHistoryof.html)
-  * [Final: The Effects of Global Warming on the Frog Species of Monteverde Cloud Forest (7/1/99)](/FieldCourses99/TropEcoCostaRicaArticles/Final.TheEffectsofGlobalW.html)
-  * [The Life of the Sloth: Final Draft (6/29/99)](/FieldCourses99/TropEcoCostaRicaArticles/TheLifeoftheSloth.FinalDr.html)
-  * [Final: Mimicry (and camouflage) and its evolution (6/8/99)](/FieldCourses99/TropEcoCostaRicaArticles/Final.Mimicryandcamouflag.html)
-  * [Final Draft: The Great Leatherback (6/6/99)](/FieldCourses99/TropEcoCostaRicaArticles/FinalDraft.TheGreatLeathe.html)
-  * [Final Draft - History of U.S. involvement in Latin America (6/4/99)](/FieldCourses99/TropEcoCostaRicaArticles/FinalDraft-HistoryofU.S.i.html)
-  * [U.S. Latin American History (5/13/99)](/FieldCourses99/TropEcoCostaRicaArticles/U.S.LatinAmericanHistory.html)
-  * [History of U.S. intervention in Latin America - Draft 2 (5/12/99)](/FieldCourses99/TropEcoCostaRicaArticles/HistoryofU.S.intervention.html)
-  * [Draft#2: More Bananas!! (5/11/99)](/FieldCourses99/TropEcoCostaRicaArticles/Draft2.MoreBananas.html)
-  * [Draft I -The Natural History of African Oil Palm, Cacao & Pejibaye (5/4/99)](/FieldCourses99/TropEcoCostaRicaArticles/DraftI-TheNaturalHistoryo.html)
-  * [Histor of U.S. intervention in Latin America - Draft 1 (4/27/99)](/FieldCourses99/TropEcoCostaRicaArticles/HistorofU.S.interventioni.html)
-  * [Draft #1:Ecology and life history of the Boa constrictor (4/12/99)](/FieldCourses99/TropEcoCostaRicaArticles/Draft1.Ecologyandlifehist.html)
-  * [A Journey Down the Highway of Friendship: Outline Draft 1 (3/31/99)](/FieldCourses99/TropEcoCostaRicaArticles/AJourneyDowntheHighwayofF.html)
-  * [Medicinal uses of tropical forest plants "claiming a topic" (3/29/99)](/FieldCourses99/TropEcoCostaRicaArticles/Medicinalusesoftropicalfo.html)
-  * [Grassroots Movements in Costa Rica(Draft#1) (3/22/99)](/FieldCourses99/TropEcoCostaRicaArticles/GrassrootsMovementsinCost.html)
-  * [Biodiversity Issues of Costa Rica: Nat'l Parks, buffer zones, and beyond (3/20/99)](/FieldCourses99/TropEcoCostaRicaArticles/BiodiversityIssuesofCosta.html)
-  * [Tropical Forests: Similarities and Differences - "Claiming" of topic (3/19/99)](/FieldCourses99/TropEcoCostaRicaArticles/TropicalForests.Similarit.html)
-  * [Effects of Rainforest Deforestation. Draft numero uno (3/11/99)](/FieldCourses99/TropEcoCostaRicaArticles/EffectsofRainforestDefore.html)
-  * [Draft #1: The Great Leatherback (2/28/99)](/FieldCourses99/TropEcoCostaRicaArticles/Draft1.TheGreatLeatherbac.html)
-  * [Management of Buffer Zones to Protected Areas in Costa Rica (2/27/99)](/FieldCourses99/TropEcoCostaRicaArticles/ManagementofBufferZonesto.html)
-  * [Draft #1: Frog Fatale (2/27/99)](/FieldCourses99/TropEcoCostaRicaArticles/Draft1.FrogFatale.html)
-  * [Draft#1: More than anyone in their right mind would want to know about BANANAS (2/25/99)](/FieldCourses99/TropEcoCostaRicaArticles/Draft1.Morethananyoneinth.html)
-  * [Draft #1 Arenal National Park, Corcovado National Park, & Cano Island Biological Res (2/25/99)](/FieldCourses99/TropEcoCostaRicaArticles/Draft1ArenalNationalParkC.html)
-  * [Land Use and/or Ecological Restoration in Costa Rica (Draft #1) (2/24/99)](/FieldCourses99/TropEcoCostaRicaArticles/LandUseand.orEcologicalRe.html)
-  * [Draft#1 The State of AIDS: An Epidemiological Study of HIV and AIDS in Latin America (2/24/99)](/FieldCourses99/TropEcoCostaRicaArticles/Draft1TheStateofAIDS.AnEp.html)
-  * [Evolution, Perturbation, and Preservation of the Leatherback Sea Turtle Draft #1 (2/15/99)](/FieldCourses99/TropEcoCostaRicaArticles/EvolutionPerturbationandP.html)
-  * [National Parks of Costa Rica: Focus on Corcovado (Draft 1) (2/7/99)](/FieldCourses99/TropEcoCostaRicaArticles/NationalParksofCostaRica..html) 
+  * Final Draft of: More Than You Would Ever Want To Know About BANANAS (8/13/99)
+  * Salvadoran refugee women in Costa Rica (8/11/99)
+  * Final: Plantlife in the Canopy of the Tropical Rainforests of Costa Rica (8/5/99)
+  * Ecological Restoration (7/31/99)
+  * Pan American Highway System Final (7/21/99)
+  * Final: National Parks of Costa Rica (7/8/99)
+  * Final: The Natural History of the African Oil and Pejibaye Palms of Costa Rica (7/6/99)
+  * Final: The Effects of Global Warming on the Frog Species of Monteverde Cloud Forest (7/1/99)
+  * The Life of the Sloth: Final Draft (6/29/99)
+  * Final: Mimicry (and camouflage) and its evolution (6/8/99)
+  * Final Draft: The Great Leatherback (6/6/99)
+  * Final Draft - History of U.S. involvement in Latin America (6/4/99)
+  * U.S. Latin American History (5/13/99)
+  * History of U.S. intervention in Latin America - Draft 2 (5/12/99)
+  * Draft#2: More Bananas!! (5/11/99)
+  * Draft I -The Natural History of African Oil Palm, Cacao & Pejibaye (5/4/99)
+  * Histor of U.S. intervention in Latin America - Draft 1 (4/27/99)
+  * Draft #1:Ecology and life history of the Boa constrictor (4/12/99)
+  * A Journey Down the Highway of Friendship: Outline Draft 1 (3/31/99)
+  * Medicinal uses of tropical forest plants "claiming a topic" (3/29/99)
+  * Grassroots Movements in Costa Rica(Draft#1) (3/22/99)
+  * Biodiversity Issues of Costa Rica: Nat'l Parks, buffer zones, and beyond (3/20/99)
+  * Tropical Forests: Similarities and Differences - "Claiming" of topic (3/19/99)
+  * Effects of Rainforest Deforestation. Draft numero uno (3/11/99)
+  * Draft #1: The Great Leatherback (2/28/99)
+  * Management of Buffer Zones to Protected Areas in Costa Rica (2/27/99)
+  * Draft #1: Frog Fatale (2/27/99)
+  * Draft#1: More than anyone in their right mind would want to know about BANANAS (2/25/99)
+  * Draft #1 Arenal National Park, Corcovado National Park, & Cano Island Biological Res (2/25/99)
+  * Land Use and/or Ecological Restoration in Costa Rica (Draft #1) (2/24/99)
+  * Draft#1 The State of AIDS: An Epidemiological Study of HIV and AIDS in Latin America (2/24/99)
+  * Evolution, Perturbation, and Preservation of the Leatherback Sea Turtle Draft #1 (2/15/99)
+  * National Parks of Costa Rica: Focus on Corcovado (Draft 1) (2/7/99) 
 
-[Return To the Main Discussion Page.](/FieldCourses99/FieldCourses.html)
+Return To the Main Discussion Page.
 
 **IMPORTANT:** If this page seems to be missing recently added documents,
 click the  "Reload Page" button on your Web Browser to update the menu.
@@ -197,8 +184,8 @@ natural resources.
   
   
 
-[![\[Purdue Weather
-Processor\]](http://weather.unisys.com/images/sat_sfc_map.gif)](http://wxp.atms.purdue.edu/)
+![\[Purdue Weather
+Processor\]](http://weather.unisys.com/images/sat_sfc_map.gif)
 
 ### Books, Articles, Journals, Library Resources
 
@@ -211,47 +198,32 @@ Processor\]](http://weather.unisys.com/images/sat_sfc_map.gif)](http://wxp.atms.
 #### Miami Library  
   
 ---|---  
-[The Library of Congress Home Page](http://lcweb.loc.gov/) | [Reference
-Resources](http://www.lib.muohio.edu/res/ref.html)(Encyclopedias, maps, phone
-books)
+The Library of Congress Home Page | Reference Resources(Encyclopedias, maps,
+phone books)
 
-[Encyclopedias](http://www.lib.muohio.edu/res/encyclopedias.html)
+Encyclopedias
 
-[Sciences](http://www.lib.muohio.edu/res/science.html)  
-[Search The Library of Congress](http://lcweb.loc.gov/harvest/query-lc.html) |
-[Sherlock](http://holmes.lib.muohio.edu/screens/opacmenu.html) (Library
-holdings at Miami)
+Sciences  
+Search The Library of Congress |  Sherlock (Library holdings at Miami)
 
-#### [Miami Link](http://www.lib.muohio.edu/)
+#### Miami Link
 
-#### [Ohio Link Central Catalog
-](http://www.lib.muohio.edu/catalogs/ohiolink.html)(SEARCH Statewide)
+#### Ohio Link Central Catalog (SEARCH Statewide)
 
-[Ohio Link Home Page](http://www.ohiolink.edu/)
+Ohio Link Home Page
 
-[World Catalog](http://www.lib.muohio.edu/catalogs/worldcat.html)
+World Catalog
 
-[ARTICLE INDICES ](http://www.lib.muohio.edu/indexes/)**Search Journals for
-the LATEST pubs**
+ARTICLE INDICES **Search Journals for the LATEST pubs**
 
-#### [The Current Issue of Scientific
-American](http://www.sciam.com/currentissue.html)  
+#### The Current Issue of Scientific American  
   
 ### Other Cool Library Stuff!
 
-[FIRST SEARCH](http://www.lib.muohio.edu/cgi-bin/dbselect)   |
-[Biology](http://www.lib.muohio.edu/research/indexes/subjects/Zoology/) |
-[Science Citation Index](http://cite.ohiolink.edu/isi/CIW.cgi) | [Applied
-Science & Technology](http://www.lib.muohio.edu/indexes/subjects/Physics)   |
-[Environment and
-Ecology](http://www.lib.muohio.edu/indexes/subjects/Environment_and_Ecology)  
+FIRST SEARCH   |   Biology | Science Citation Index | Applied Science &
+Technology   |  Environment and Ecology  
 ---|---|---|---|---  
-[AGRICCOLA](http://www.lib.muohio.edu/cgi-bin/fs/firstsearch?AGRICOLA)   |
-[Geology](http://www.lib.muohio.edu/indexes/subjects/Geology)   |
-[GEOBASE](http://www.lib.muohio.edu/cgi-bin/fs/firstsearch?GEOBASE) | [Life
-Sciences](http://www.lib.muohio.edu/indexes/subjects/Life_Science)   |
-[General
-Periodicals](http://www.lib.muohio.edu/indexes/subjects/General_Periodical)  
+AGRICCOLA   | Geology   |  GEOBASE | Life Sciences   | General Periodicals  
   
 ###
 
@@ -261,39 +233,34 @@ Periodicals](http://www.lib.muohio.edu/indexes/subjects/General_Periodical)
 
 ### Search Engines-Search Worldwide
 
-#### [![](/thumbs/alta2.JPG)](http://www.altavista.com/)
+#### ![](/thumbs/alta2.JPG)
 
 |
 
-####  [![](/thumbs/arf-pile2.jpg)](http://www.dogpile.com/index.html)
+####  ![](/thumbs/arf-pile2.jpg)
 
-|
-[![](http://static.wired.com/help.hotbot/images/logo_hb2_white.gif)](http://www.hotbot.com/)  
+| ![](http://static.wired.com/help.hotbot/images/logo_hb2_white.gif)  
 ---|---|---  
   
-#### [![Searching with WebCrawler\(TM\)](/photos/wc-
-logo.gif)](http://webcrawler.com/)
+#### ![Searching with WebCrawler\(TM\)](/photos/wc-logo.gif)
 
 |
 
-#### [![](/thumbs/Lcos4.jpeg)](http://www.lycos.com/)
+#### ![](/thumbs/Lcos4.jpeg)
+
+| ![Infoseek](http://www.infoseek.com/images/webkit/seek3/small_logo.gif)  
+![](http://www.excite.com/img/logo/button_logo.gif) |
+
+#### ![](/thumbs/mc-logo.JPG)
 
 |
-[![Infoseek](http://www.infoseek.com/images/webkit/seek3/small_logo.gif)](http://www.infoseek.com/Home?pg=Home.html&sv=A2)  
-[![](http://www.excite.com/img/logo/button_logo.gif)](http://www.excite.com/)
-|
 
-#### [![](/thumbs/mc-logo.JPG)](http://www.metacrawler.com/)
-
-|
-
-### [![](/thumbs/yahoo.jpeg)](http://search.yahoo.com/search/options)  
+### ![](/thumbs/yahoo.jpeg)  
   
 * * *
 
-**Visit the Rest of the Site!** **Site NAVIGATION--Table of Contents** [
-![Google](http://www.google.com/logos/Logo_40wht.gif)](http://www.google.com/)
-|  
+**Visit the Rest of the Site!** **Site NAVIGATION--Table of Contents**
+![Google](http://www.google.com/logos/Logo_40wht.gif) |  
 Search WWW  WITHIN-SITE Keyword Search!!  
   
 ---|---  
@@ -330,11 +297,8 @@ Rica Summer 99-Tropical Marine Ecology Summer 98-Tropical Marine Ecology
 Summer 99-Tropical Ecosystems of Costa Rica Summer 98-Tropical Ecosystems of
 Costa Rica
 
-#### |[Earth Science Resources
-](http://jrscience.wcp.muohio.edu/html/EarthSci.html)| [Astronomy
-Links](http://jrscience.wcp.muohio.edu/html/Astronomy.html) | [Global
-Change](http://jrscience.wcp.muohio.edu/html/globalchange.html) |[Hays'
-Tarantula Page](http://jrscience.wcp.muohio.edu/html/tarantulas.html)  
+#### |Earth Science Resources | Astronomy Links | Global Change |Hays'
+Tarantula Page  
   
 ---  
   
@@ -371,19 +335,9 @@ Student Research & Peer Review Fall 99-Evolution & Earth Systems Spring
 Nature Fall 98-Natural Systems 1 Student Research & Peer Review Fall
 97-Natural Systems 1 Research Menu
 
-| [Educational Philosophy
-](http://jrscience.wcp.muohio.edu/html/index.html#anchor28665897)|
-[**Discovery
-Labs**](http://jrscience.wcp.muohio.edu/html/index.html#anchor4674195) **:**
-Moon, Geologic Time, Sun, Taxonomy, Frisbee | Project [Dragonfly
-](http://jrscience.wcp.muohio.edu/html/index.html#anchor146632)| [Vita
-](http://jrscience.wcp.muohio.edu/html/index.html#anchor5823692)|[
-](http://jrscience.wcp.muohio.edu/Research/Research.html)Field Course
-[Postings ](http://jrscience.wcp.muohio.edu/FieldCourses01/Fieldcourses.html)|
-Student Research[
-Postings](http://jrscience.wcp.muohio.edu/html/index.html#Anchor666666) |
-[Nature/Science Autobiography
-](http://jrscience.wcp.muohio.edu/html/SciAutobiography.html)|  
+| Educational Philosophy | **Discovery Labs** **:** Moon, Geologic Time, Sun,
+Taxonomy, Frisbee | Project Dragonfly | Vita | Field Course Postings | Student
+Research Postings | Nature/Science Autobiography |  
 ---  
   
 #### Teaching Tools and Other Stuff
@@ -398,29 +352,18 @@ Ecology Discussion Costa Rica Discussion Evolution & Earth Systems Discussion
 NS1: Participatory Research in Environmental Science PRESENT NS1:
 Participatory Research in Environmental Science PAST Global Climate Change
 
-[**Daily Necessities:**
-](http://jrscience.wcp.muohio.edu/html/index.html#anchor8335048)[Macintosh
-Resources
-](http://jrscience.wcp.muohio.edu/html/Necessities.html#anchor768418)| [Search
-Engines](http://jrscience.wcp.muohio.edu/html/Necessities.html#anchor906884) |
-[Library
-Resources](http://jrscience.wcp.muohio.edu/html/Necessities.html#anchor113300)|![](http://jrscience.wcp.muohio.edu/photos/wink.gif)
-[Server Stats](http://jrscience.wcp.muohio.edu/2funnelweb/Reports/index.html)|
-[Family Album ](http://jrscience.wcp.muohio.edu/html/FamilyPhotos.html)| [Add
-to Guestbook ](http://jrscience.wcp.muohio.edu/Guestbook/AddGuest.html)| [View
-Guestbook](http://jrscience.wcp.muohio.edu/guestbook/guestbook.html) | [Wild
-Flowers in Miami's Natural
-Areas](http://jrscience.wcp.muohio.edu/html/springflowers.html)  
+**Daily Necessities:** Macintosh Resources | Search Engines | Library
+Resources|![](http://jrscience.wcp.muohio.edu/photos/wink.gif) Server Stats|
+Family Album | Add to Guestbook | View Guestbook | Wild Flowers in Miami's
+Natural Areas  
 ---|---  
   
-**Visit our New Science Center[Radio
-Station!](http://weather.wcp.muohio.edu/naturalsystems/discuss/msgReader$62?mode=topic&y=2001&m=11&d=22)**
-[![](http://jrscience.wcp.muohio.edu/photos/white_home_planet.GIF)](http://jrscience.wcp.muohio.edu/html/index.html)  
+**Visit our New Science CenterRadio Station!**
+![](http://jrscience.wcp.muohio.edu/photos/white_home_planet.GIF)  
   
-![](/thumbs/mailmov.gif) Any mail, comments or suggestions? You can [**Add to
-my Guestbook**](/Guestbook/AddGuest.html),[ **View the
-Guestbook**](/guestbook/guestbook.html) or e-mail me privately at
-[HaysC@muohio.edu](mailto:HaysC@muohio.edu).
+![](/thumbs/mailmov.gif) Any mail, comments or suggestions? You can **Add to
+my Guestbook**, **View the Guestbook** or e-mail me privately at
+HaysC@muohio.edu.
 
 **Thanks for stopping by!**
 

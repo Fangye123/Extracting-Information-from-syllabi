@@ -31,14 +31,13 @@ Tentative Schedule ]
 
 >   * Phone: 273-5919
 
->   * E-Mail: [wallingf@cs.uni.edu](mailto:wallingf@cs.uni.edu)
+>   * E-Mail: wallingf@cs.uni.edu
 
->   * WWW: [http://www.cs.uni.edu/~wallingf/](../../)
+>   * WWW: http://www.cs.uni.edu/~wallingf/
 
 >
 
->   * Click here for my [ my office hours and
-schedule](../../miscellaneous/schedule.html)
+>   * Click here for my  my office hours and schedule
 
 >
 
@@ -48,32 +47,23 @@ schedule](../../miscellaneous/schedule.html)
 
 >   * Required Texts:
 
->     * [ Understanding Object-Oriented Programming with
-Java](ftp://ftp.cs.orst.edu/pub/budd/java/ReadMe.html), by [Tim
-Budd](http://www.cs.orst.edu/~budd/)
+>     * Understanding Object-Oriented Programming with Java, by Tim Budd
 
->     * [ The Java Programming
-Language](http://java.sun.com/docs/books/javaprog/secondedition/), by [Ken
-Arnold](http://java.sun.com/people/arnold/) and [James
-Gosling](http://java.sun.com/people/jag/)
+>     * The Java Programming Language, by Ken Arnold and James Gosling
 
 >
 
 >   * Optional Texts:
 
->     * [ Java in a Nutshell](http://www.oreilly.com/catalog/javanut3/), by [
-David Flanagan](http://www.davidflanagan.com/) of [O'Reilly
-Publishing](http://java.oreilly.com/)
+>     * Java in a Nutshell, by  David Flanagan of O'Reilly Publishing
 
 >
 
 >   * Electronic resources:
 
->     * The course web page,
-[http://www.cs.uni.edu/~wallingf/teaching/053/](./)
+>     * The course web page, http://www.cs.uni.edu/~wallingf/teaching/053/
 
->     * The course mailing list,
-[810-059-05@uni.edu](mailto:810-059-05@uni.edu)
+>     * The course mailing list, 810-059-05@uni.edu
 
 >
 
@@ -120,11 +110,11 @@ happen anyway, depending on your programming habits.
 
 ###  Course Requirements
 
-  * [Class sessions](sessions/) \-- Our class meetings will consist of a mixture of short lecture, discussion, and in-class exercises. Nearly all of our lecture and discussion material will go beyond what you read in your textbooks, so attendance is essential. I expect you to read assigned topics prior to the class session and to participate actively in class. 
+  * Class sessions \-- Our class meetings will consist of a mixture of short lecture, discussion, and in-class exercises. Nearly all of our lecture and discussion material will go beyond what you read in your textbooks, so attendance is essential. I expect you to read assigned topics prior to the class session and to participate actively in class. 
 
-  * [Homework](homework/) \-- Over the course of the term, you will complete approximately ten homework assignments. These assignments will involve applying analysis, design, and implementation techniques learned in class. Some assignments will involve writing and some will consist of paper exercises, but many will involve programming. 
+  * Homework \-- Over the course of the term, you will complete approximately ten homework assignments. These assignments will involve applying analysis, design, and implementation techniques learned in class. Some assignments will involve writing and some will consist of paper exercises, but many will involve programming. 
 
-  * [Exams](exams/) \-- We will have one exam near the middle of the course and a comprehensive exam at the end of the course. 
+  * Exams \-- We will have one exam near the middle of the course and a comprehensive exam at the end of the course. 
 
 * * *
 
@@ -170,16 +160,16 @@ communicate with one another and to do programming assignments that explore
 course topics.
 
 Communication will be done by e-mail and by World Wide Web. I will post
-materials for the course to the [053 web page](./), and we will make use of
-other web-based resources when appropriate. We also have a class-wide mailing
-lists, [810-059-05@uni.edu](mailto:810-059-05@uni.edu), by which we carry on
-discussion outside the confines of class meetings. Be sure that you remain
-current in your use of these resources! I leave you on your own to choose and
-use web browsing and e-mail tools on any platform you like.
+materials for the course to the 053 web page, and we will make use of other
+web-based resources when appropriate. We also have a class-wide mailing lists,
+810-059-05@uni.edu, by which we carry on discussion outside the confines of
+class meetings. Be sure that you remain current in your use of these
+resources! I leave you on your own to choose and use web browsing and e-mail
+tools on any platform you like.
 
-You will write your programs in the language [Java](http://java.sun.com/).
-Numerous Java resources are available on the web, and Java implementations are
-available for many platforms, including Unix and Windows.
+You will write your programs in the language Java. Numerous Java resources are
+available on the web, and Java implementations are available for many
+platforms, including Unix and Windows.
 
 My base platform for the course is the CNS Linux system for students. It
 provides Version 1.2 of the Java Development Kit, a set of tools for compiling
@@ -188,7 +178,7 @@ development environment of any sort. On chaos, you can enter Java programs
 using any text editor with which you are comfortable. Many students find
 comfort in using the Grasp environment they came to know and love in Computer
 Science I. Though I am not a Grasp user, I have collected a number of useful
-tips on how to use Java within Grasp on the [course Java page](java/).
+tips on how to use Java within Grasp on the course Java page.
 
 * * *
 
@@ -216,8 +206,7 @@ The FINAL EXAM is Wednesday, May 8, from 8:00 AM - 9:50 AM.
 
 * * *
 
-[Eugene Wallingford](../../) ====
-[wallingf@cs.uni.edu](mailto:wallingf@cs.uni.edu) ==== January 15, 2002
+Eugene Wallingford ==== wallingf@cs.uni.edu ==== January 15, 2002
 
 * * *
 

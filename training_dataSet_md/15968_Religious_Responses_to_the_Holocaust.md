@@ -159,6 +159,5 @@ _Contemporary Christian Religious Responses_ , 139-194
 
 * * *
 
-For additional information about the course, contact
-[rajones@uiuc.edu](mailto:rajones@uiuc.edu).
+For additional information about the course, contact rajones@uiuc.edu.
 

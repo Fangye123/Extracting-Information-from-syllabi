@@ -1,11 +1,8 @@
-[![](G&H.gif)](http://www.uncfsu.edu/w4/dpt/ghp/index.htm)**[FAYETTEVILLE
-STATE UNIVERSITY](http://www.uncfsu.edu/)**  
-**[College of Arts and
-Sciences](http://www.uncfsu.edu/w4/dpt/artsci/index.htm)**  
-**[Department of Government and
-History](http://www.uncfsu.edu/w4/dpt/ghp/index.htm)** |
+![](G&H.gif)**FAYETTEVILLE STATE UNIVERSITY**  
+**College of Arts and Sciences**  
+**Department of Government and History** |
 
-**[Dr. Theron Corse](index.htm)**  
+**Dr. Theron Corse**  
 ---|---  
 **LOCATOR INFORMATION  **  
 **Course Description**  
@@ -23,19 +20,19 @@ History](http://www.uncfsu.edu/w4/dpt/ghp/index.htm)** |
 Semester Hours of Credit: **3** |  Office Phone: **672-1044**  
 Instructor: **Dr. Theron Corse** |  Alternate Phone: **672-1573**  
 Class Meeting Days, Time, and Location:  **MW, 4:00-5:20  ** | E-Mail:
-[tcorse@uncfsu.edu](mailto:%20tcorse@uncfsu.edu)  
+tcorse@uncfsu.edu  
 Office Hours: **W 9-11, 2-3; T, R 1:30-4:00; T 5:30-6:00; or by appointment**  
-[Lecture Notes and Study Guides](h353nts/notesmx.htm)
+Lecture Notes and Study Guides
 
-[Maps and Internet Resources](h353nts/links.htm)  
+Maps and Internet Resources  
   
-[ FINAL EXAM](h353nts/senior.htm)
+FINAL EXAM
 
 
 
-**[STUDY GUIDE EXAM 2](h353nts/exam2.htm)**
+**STUDY GUIDE EXAM 2**
 
-**[STUDY GUIDE EXAM 1](h353nts/exam1a.htm)**  
+**STUDY GUIDE EXAM 1**  
   
 **COURSE DESCRIPTION** |  This course will introduce the social, cultural,
 economic, and political history of Mexico, primarily since independence, with
@@ -83,7 +80,7 @@ Assignments will be weighted as follows:
 ---|---  
 Final Exam | 25%  
 _Underdogs_ Essay |  10%  
-[Current Events Project](h353nts/current.htm) | 10%  
+Current Events Project | 10%  
 Map Quizzes | 10%  
 Participation | 05%  
 Total | 100%  
@@ -121,8 +118,7 @@ the Meyers and Sherman book. Underlined readings are links to web sites.
 1-4  | Aug 23-Sep 11 | **Pre-Spanish Mexico and the Spanish Conquest**
 Introduction - Where is Mexico? The First Mexicans: Life in Pre-Spanish
 Mexico. The Hummingbird and the Hawk: The Conquest of Mexico--Cross and Sword
-|  Sections 1-2; [3\. Aztec accounts of the Conquest of
-Mexico](http://www.fordham.edu/halsall/mod/aztecs1.html)  
+|  Sections 1-2; 3\. Aztec accounts of the Conquest of Mexico  
   
 4-6  | Sep 11-25 | **Colonial Mexico and Independence** The Long Sixteenth
 Century: Silver and the Hapsburg Slumber. Daily Life in New Spain: Marriage,
@@ -134,22 +130,17 @@ handout
 6-9  | Sep 25-Oct 16 | **19th Century Mexico and the Porfiriato** Struggle for
 Identity: The Age of Santa Anna and the War of Northern Aggression. La
 Reforma: Benito Juarez and the Triumph of Liberalism. Bread or the Club: The
-Porfiriato (1876-1910). **EXAM 1 - SEP. 27.** |  Sections 5-7; [7\. The Treaty
-of Guadaloupe Hidalgo, 2 Feb
-1848"](http://www.fordham.edu/halsall/mod/1848hidalgo.html)  
+Porfiriato (1876-1910). **EXAM 1 - SEP. 27.** |  Sections 5-7; 7\. The Treaty
+of Guadaloupe Hidalgo, 2 Feb 1848"  
   
 9-11  | Oct 18-29 | **The Mexican Revolution(s).** One Revolution, Many
 Revolutions: Madero, Zapata, Villa, Carranza, Etc...... Education in the
 Mexican Revolution: Vasconselos and the New Mexican. Literature of the Mexican
 Revolution: the Underdogs (Los de Abajo). Art in the Mexican Revolution:
 Rivera, the Muralists, and Frida Kahlo. A Revolution in Song: The Mexican
-Corrido. |  Sections 8-9; [9\. George M. McBride: "Haciendas" from _The Land
-Systems of Mexico_ ,
-1923](http://www.fordham.edu/halsall/mod/1923hacienda.html) [10\. Francisco
-Madero: The Plan of San Luis Potosi, November 20,
-1910](http://www.fordham.edu/halsall/mod/1910potosi.html) [11\. Zapata's Plan
-de
-Ayala.](http://www.msstate.edu/Archives/History/Latin_America/Mexico/ayala.html)  
+Corrido. |  Sections 8-9; 9\. George M. McBride: "Haciendas" from _The Land
+Systems of Mexico_ , 1923 10\. Francisco Madero: The Plan of San Luis Potosi,
+November 20, 1910 11\. Zapata's Plan de Ayala.  
   
 11-13  | Oct 31-Nov 15 | **The Twentieth Century** A New Revolution: Cardenas
 and the Re-Emergence of the Populists. The Frozen Revolution: Mexico at Mid-
@@ -161,8 +152,8 @@ Struggles With Urbanization: The Explosive Growth of Mexico City. **EXAM
 and the Zapatista Revolt. Popular Culture in Contemporary Mexico. Greater
 Mexico: Mexicans in the United States and the World of the Borderlands.
 Distant Neighbors: The Future of Mexican-U.S. Relations. **CURRENT EVENTS
-PROJECT DUE NOV.   20.** | TBA; [21\. Website for the Zapatista Front of
-National Liberation](http://www.ezln.org/fzln/index.html)  
+PROJECT DUE NOV.   20.** | TBA; 21\. Website for the Zapatista Front of
+National Liberation  
   
 |  | **FINAL EXAM:  ** |  
   

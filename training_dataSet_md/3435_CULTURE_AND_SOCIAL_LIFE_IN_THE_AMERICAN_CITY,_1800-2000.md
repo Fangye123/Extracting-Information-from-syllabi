@@ -389,5 +389,5 @@ The following journals are also useful: _Journal of Urban History_ , _Urban
 History Yearbook_ , _Urban Affairs Quarterly_ , _Urban Affairs Review_ , and
 _Journal of Social History_.
 
-[Back to Timothy Gilfoyle](index.htm)
+Back to Timothy Gilfoyle
 

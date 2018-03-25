@@ -15,7 +15,7 @@ Team Projects**
 
 **Babson College**
 
-Richard Voos; [voos@babson.edu](mailto:voos@babson.edu)
+Richard Voos; voos@babson.edu
 
 The Babson team at the AAHE Summer Academy will plan Babson's effort to
 improve undergraduate writing -- including proposing a working team and
@@ -27,7 +27,7 @@ standards for undergraduate writing.
   
 **California State University, Stanislaus**
 
-Mary Cullinan; [mcullinan@stan.csustan.edu](mailto:mcullinan@stan.csustan.edu)
+Mary Cullinan; mcullinan@stan.csustan.edu
 
 In summer 1999, we wish to develop the learning goals and a curricular outline
 for a new Honors program, Honors 2000. During the planning processes over the
@@ -50,8 +50,7 @@ goals.
   
 **C entral Michigan University**
 
-Richard Davenport;
-[Richard.W.Davenport@cmich.edu](mailto:Richard.W.Davenport@cmich.edu)
+Richard Davenport; Richard.W.Davenport@cmich.edu
 
 Our primary objective is to learn from other institutions about how they
 systematically address faculty development activities and objectives, and to
@@ -77,7 +76,7 @@ contributions to undergraduate education.
   
 **Concordia College**
 
-Charles Paulson; [paulson@cord.edu](mailto:paulson@cord.edu)
+Charles Paulson; paulson@cord.edu
 
 Concordia College has initiated a curriculum review to ensure that the college
 is still succeeding with our institutional mission in the face of a changing
@@ -100,7 +99,7 @@ opportunity to work on our project as a team.
   
 **Del Mar College**
 
-Cheryl Pfoff; [cpfoff@delmar.edu](mailto:cpfoff@delmar.edu)
+Cheryl Pfoff; cpfoff@delmar.edu
 
 While at the Summer Academy, we plan to explore the theories and practices
 concerning learning communities and develop a plan for encouraging and
@@ -116,9 +115,8 @@ assessment measures, faculty development, and administrative support.
   
 **DePaul University**
 
-Susan Leigh;
-[sleigh@wppost.depaul.edu](file:///A:/Snowmass/sleigh@wppost.depaul.edu) and
-Brian Spittle; [bspittle@wppost.depaul.edu](mailto:bspittle@wppost.depaul.edu)
+Susan Leigh; sleigh@wppost.depaul.edu and Brian Spittle;
+bspittle@wppost.depaul.edu
 
 One part of DePaul's five-year U.S. Department of Education Title III grant is
 devoted to advising issues. In October 1998, the DePaul Advising Project was
@@ -133,7 +131,7 @@ Academy team from DePaul.
   
 **George Mason University**
 
-Joseph S. Wood; [jwood@gmu.edu](mailto:jwood@gmu.edu)
+Joseph S. Wood; jwood@gmu.edu
 
 The George Mason team is composed of faculty members who teach in either its
 integrative studies program in New Century College or its new general
@@ -151,7 +149,7 @@ as for undertaking faculty development initiatives university-wide.
   
 **Georgia State University**
 
-Timothy Crimmins; [histjc@langate.gsu.edu](mailto:histjc@langate.gsu.edu)
+Timothy Crimmins; histjc@langate.gsu.edu
 
 The Summer Academy team proposes that the University consider modifying its
 core curriculum by structuring elements of computer-based instruction into
@@ -171,7 +169,7 @@ in the 2000-2001 academic year
   
 **Indiana University - Purdue University \- Indianapolis (IUPUI)**
 
-Scott E. Evenbeck; [evenbeck@iupui.edu](mailto:evenbeck@iupui.edu)
+Scott E. Evenbeck; evenbeck@iupui.edu
 
 This project would link two important initiatives - first semester learning
 communities and the connection between student life and academic affairs. We
@@ -187,7 +185,7 @@ outcomes of the first year seminar
   
 **The Metropolitan Community Colleges**
 
-Fred L. Grogan; [grogan@longview.cc.mo.us](mailto:grogan@longview.cc.mo.us)
+Fred L. Grogan; grogan@longview.cc.mo.us
 
 The Metropolitan Community Colleges' 1999 Summer Academy Team, building upon
 the work begun by the 1997 and 1998 teams, will develop an overall strategy
@@ -206,7 +204,7 @@ initiatives.
   
 **Missouri General Education Steering Committee**
 
-Tim Gilmour; [Gilmour@mail.nwmissouri.edu](mailto:Gilmour@mail.nwmissouri.edu)
+Tim Gilmour; Gilmour@mail.nwmissouri.edu
 
 At the 1998 Summer Academy, four institutions from Missouri came to define a
 common set of general education outcomes. These outcomes could build on sets
@@ -234,7 +232,7 @@ design of a statewide student/faculty conference to be convened in the fall of
   
 **Mount St. Mary's College**
 
-Pam Haldeman; [phaldeman@msmc.la.edu](mailto:phaldeman@msmc.la.edu)
+Pam Haldeman; phaldeman@msmc.la.edu
 
 We would very much benefit from coming together in the Academy format to
 receive expert input and guidance on how to infuse service-learning components
@@ -253,8 +251,7 @@ merits and application would be helpful.
   
 **Northwest Missouri State University**
 
-Kent Porterfield;
-[kporter@mail.nwmissouri.edu](mailto:kporter@mail.nwmissouri.edu)
+Kent Porterfield; kporter@mail.nwmissouri.edu
 
 For two years now, Northwest's Student Success Task Force has worked hard to
 build a comprehensive and coherent system of processes that orient, place, and
@@ -273,7 +270,7 @@ for improvement and work together to bring them about.
   
 **Pennsylvania State University**
 
-Jeremy Cohen; [jxc45@psu.edu](mailto:jxc45@psu.edu)
+Jeremy Cohen; jxc45@psu.edu
 
 After listening to a description of service-learning and public scholarship a
 reporter for the school newspaper asked, "how can students get involved?" That
@@ -290,7 +287,7 @@ nurture collaborative efforts among public scholarship stakeholders.
   
 **Rowan University**
 
-Carol Sharp; [sharp@rowan.edu](mailto:sharp@rowan.edu)
+Carol Sharp; sharp@rowan.edu
 
 A team representing five of Rowan's six colleges, the Executive Vice
 President/Provost and the Director of the Faculty Center propose to work on a
@@ -310,7 +307,7 @@ pilot group members as mentors.
   
 **Sinclair Community College**
 
-Tom Huguley; [thuguley@sinclair.edu](mailto:thuguley@sinclair.edu)
+Tom Huguley; thuguley@sinclair.edu
 
 The overall goal of Sinclair's Parallel College project is to better align the
 services of the college with the needs of the community it serves. During the
@@ -332,7 +329,7 @@ coming academic year.
   
 **Towson University**
 
-M.J. McMahon; [mj@towson.edu](mailto:mj@towson.edu)
+M.J. McMahon; mj@towson.edu
 
 Given the projected enrollment growth for Towson University and program
 expansion that has already occurred and will continue into the next three to
@@ -366,7 +363,7 @@ should they be participating?
   
 **University of Cincinnati**
 
-Terry Bullock; [Terry.Bullock@uc.edu](mailto:Terry.Bullock@uc.edu)
+Terry Bullock; Terry.Bullock@uc.edu
 
 Since 1819, UC has grown from a small medical college to a Research I
 university. That growth has come in part through planned expansion of programs
@@ -395,7 +392,7 @@ academic vision, and overall mission.
   
 **University of Maryland**
 
-Robert L. Hampton; [rhampton@deans.umd.edu](mailto:rhampton@deans.umd.edu)
+Robert L. Hampton; rhampton@deans.umd.edu
 
 We have been working hard to enhance undergraduate education for all students
 at the University of Maryland and believe the next set of tasks we need to
@@ -428,7 +425,7 @@ opportunities for participation.
   
 **University of Michigan - Dearborn**
 
-Charlotte A. Otto; [cotto@umich.edu](mailto:cotto@umich.edu)
+Charlotte A. Otto; cotto@umich.edu
 
 Background: A team of faculty from the Department of Natural Science and the
 School of Education have planned to offer a sequence of science courses for
@@ -450,7 +447,7 @@ considerations, teaching assignments, etc. will be part of the project.
   
 **Valdosta State University**
 
-Lloyd Benjamin; [lbenjami@valdosta.edu](mailto:lbenjami@valdosta.edu)
+Lloyd Benjamin; lbenjami@valdosta.edu
 
 Our goal this year will be to focus upon the freshman-year experience within
 the context of the learning community. Student orientation should serve as an
@@ -464,7 +461,7 @@ learning community.
   
 **Weber State University**
 
-David Eisler; [deisler@weber.edu](mailto:deisler@weber.edu)
+David Eisler; deisler@weber.edu
 
 In 1996 Weber State University became an open access institution with the
 creation of two tiers, university (students meeting entrance requirements) and
@@ -490,7 +487,7 @@ partnership.
 
 **Youngstown State University**
 
-Charles Singler; [c.singler@ysu.edu](mailto:c.singler@ysu.edu)
+Charles Singler; c.singler@ysu.edu
 
 Youngstown State's mission will be to continue working on the development and
 implementation of "Investigative Approaches in the Natural Sciences" (NSF SMET
@@ -506,20 +503,20 @@ to semesters in Fall 2000.
 
 ![](_themes/canvas/acnvrule.gif)
 
-[![Team Members](_derived/newpage1.htm_cmp_canvas110_hbtn.gif)](newpage1.htm)
-[![Application](_derived/applicat.htm_cmp_canvas110_hbtn.gif)](applicat.htm)
-[![Schedule](_derived/schedule.htm_cmp_canvas110_hbtn.gif)](schedule.htm)
-[![Presentation](_derived/presenta.htm_cmp_canvas110_hbtn.gif)](presenta.htm)
-[![Assignments](_derived/assignments.htm_cmp_canvas110_hbtn.gif)](assignments.htm)
-![Other Team Projects](_derived/other.htm_cmp_canvas110_hbtn_p.gif)
-[![Links](_derived/links.htm_cmp_canvas110_hbtn.gif)](links.htm)
-[![Search](_derived/search.htm_cmp_canvas110_hbtn.gif)](search.htm)
-[![Discussions](_derived/discuss.htm_cmp_canvas110_hbtn.gif)](discuss.htm)
+![Team Members](_derived/newpage1.htm_cmp_canvas110_hbtn.gif)
+![Application](_derived/applicat.htm_cmp_canvas110_hbtn.gif)
+![Schedule](_derived/schedule.htm_cmp_canvas110_hbtn.gif)
+![Presentation](_derived/presenta.htm_cmp_canvas110_hbtn.gif)
+![Assignments](_derived/assignments.htm_cmp_canvas110_hbtn.gif) ![Other Team
+Projects](_derived/other.htm_cmp_canvas110_hbtn_p.gif)
+![Links](_derived/links.htm_cmp_canvas110_hbtn.gif)
+![Search](_derived/search.htm_cmp_canvas110_hbtn.gif)
+![Discussions](_derived/discuss.htm_cmp_canvas110_hbtn.gif)
 
   
 ---|---|---  
   
-For questions or comments contact [David Eisler](mailto:deisler@weber.edu)  
+For questions or comments contact David Eisler  
 Last updated: July 03, 1999.  
   
 ---

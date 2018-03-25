@@ -37,12 +37,11 @@ Webster Hall
 
 >
 
->   * [ woolflm@webster.edu](mailto:woolflm+statistics16@webster.edu)
+>   * woolflm@webster.edu
 
 >
 
->   * [Woolf Web Page:
-http://www.webster.edu/~woolflm/](http://www.webster.edu/~woolflm/)
+>   * Woolf Web Page: http://www.webster.edu/~woolflm/
 
 >
 
@@ -173,7 +172,7 @@ understand a concept in class, ask. I'm more than willing to re-explain. If
 you start to fall behind, contact me as soon as possible. We'll make some
 arrangements. This is important because the material discussed four weeks from
 today will be based on material discussed today. For more survival tips, see
-[Survival Tips](tips.html)
+Survival Tips
 
 >
 
@@ -310,8 +309,8 @@ No grade of Incomplete will be issued for this course.
 > Introduction to statistics  
 > Overview of methodology| Chapter 1  
 > Chapter 12  
-> [Introduction to Measurement and Statistics](statwhatis.html)  
->  [Research Methods](statmethods.html)  
+> Introduction to Measurement and Statistics  
+>  Research Methods  
 >  
 > January| 25| Frequency Distributions and Graphing|  Chapter 2  
 > February| 1| Frequency Distributions and Graphing|  Chapter 2  
@@ -320,7 +319,7 @@ No grade of Incomplete will be issued for this course.
 > Measures of relative standing | Chapter 3  
 > Chapter 5  
 > February| 22|  Correlation |  Chapter 7  
-> [Correlation](correlation/correlation.html)  
+> Correlation  
 > March| 1|  Regression  
 >  ** Take home Midterm Exam** |  Chapter 6  
 > March| 8|  Sampling distributions  
@@ -340,7 +339,7 @@ No grade of Incomplete will be issued for this course.
 
   
   
-[Back to Statistics Page](statistics.html)
+Back to Statistics Page
 
   
   

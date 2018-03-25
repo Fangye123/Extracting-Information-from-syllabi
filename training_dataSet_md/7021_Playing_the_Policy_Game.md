@@ -1,5 +1,4 @@
-[![TAMU-
-CC](tamuhome.gif)](http://www.tamucc.edu)[![Syllabus](syl5302.gif)](http://www.tamucc.edu/~whatley/padm5302.htm)
+![TAMU-CC](tamuhome.gif)![Syllabus](syl5302.gif)
 
 ![](redrule.gif)
 

@@ -2,15 +2,10 @@
 
 **EDU 250 - History and Philosophy of Education**
 
-**_[Instructor](file:///C|/temp/Madonna/HP.HTML#Instructor:)_** | **_Course
-Information_** | **_Course Description_**  
+**_Instructor_** | **_Course Information_** | **_Course Description_**  
 ---|---|---  
-**_[Course Objectives](file:///C|/temp/Madonna/HP.HTML#COURSEOBJ)_** |
-**_[Textbooks](file:///C|/temp/Madonna/HP.HTML#TEXTBOOKS:)_** | **_[Course
-Requirements](file:///C|/temp/Madonna/HP.HTML#COURSEreq)_**  
-**_[Evaluation](file:///C|/temp/Madonna/HP.HTML#Evaluation)_** | **_[Course
-Outline](file:///C|/temp/Madonna/HP.HTML#COURSEOUT)_** |
-**_[Bibliography](file:///C|/temp/Madonna/HP.HTML#BIBLIOGRAPHY)_**  
+**_Course Objectives_** | **_Textbooks_** | **_Course Requirements_**  
+**_Evaluation_** | **_Course Outline_** | **_Bibliography_**  
   
   * **INSTRUCTOR: Dr. Madonna Murphy, Associate Professor**
   * **Office: S304**

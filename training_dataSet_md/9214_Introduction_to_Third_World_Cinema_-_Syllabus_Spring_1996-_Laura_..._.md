@@ -1,11 +1,8 @@
-**[ Syllabus](http://www.lib.virginia.edu/area-
-studies/SouthAsia/SAvideos/syllabus.html) \- University of Virginia - Spring
-1996**  
-[ Net Resources](http://www.lib.virginia.edu/area-
-studies/SouthAsia/SAvideos/net.html)
+** Syllabus \- University of Virginia - Spring 1996**  
+Net Resources
 
 **Introduction to Third World Cinema**  
-Instructor: **Laura Parsons.** Email: [@virginia.edu](mailto:@virginia.edu)  
+Instructor: **Laura Parsons.** Email: @virginia.edu  
 Course number: AMTR 200. Location/Time: Clemons 301 / MW 12:00 - 1:30
 
 [Introduction] [Latin American] [African] [Middle East] [South Asia]
@@ -259,6 +256,5 @@ Back to the top
 
 * * *
 
-Back to [Teaching
-Resources](http://www.virginia.edu/~soasia/videos/vidlist96.html)
+Back to Teaching Resources
 

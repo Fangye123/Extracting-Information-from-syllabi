@@ -2,19 +2,19 @@
 
   
   
-What is this course about?  | [What are some specific course
-goals?](objectives.htm) | Course Problems: PHYS 145 and Problem Based Learning  
+What is this course about?  | What are some specific course goals? | Course
+Problems: PHYS 145 and Problem Based Learning  
 ---|---|---  
-Course Requirements  | Readings  | [Detailed Class Schedule](00schedule.htm)  
+Course Requirements  | Readings  | Detailed Class Schedule  
 What are discussion sections, and how are they related to the large class?  |
 Frequently Asked Questions about Working in Groups | Why should I learn how to
 work in groups?  
-[Course Policies (attendance, exams, academic honesty)](policies.htm) | [Study
-Tips](studytips.htm) | Course Instructors  
-[Assignment Due Dates and Exam Dates ](assignment.dates.htm) | [Linked Course
-Webpages](weblinks.htm) | [Description of in-class activities](activities.htm)  
-[Discussion Section Assignments](assignment.topics.htm) | [Information about
-Group D courses in general](groupD.htm) | [Harry's Hotline](hotline.htm)  
+Course Policies (attendance, exams, academic honesty) | Study Tips | Course
+Instructors  
+Assignment Due Dates and Exam Dates  | Linked Course Webpages | Description of
+in-class activities  
+Discussion Section Assignments | Information about Group D courses in general
+| Harry's Hotline  
   
 **Information of current interest**
 
@@ -22,65 +22,59 @@ Information relevant to the University Faculty Senate Committee on General
 Education, specifically with regards to the questions being asked about
 pathways courses, can be obtained at
 
-<http://www.udel.edu/physics/phys145/pathways.short.htm>
+http://www.udel.edu/physics/phys145/pathways.short.htm
 
 A more detailed description of the ten goals of the General Education Program
 can be found at
 
-_<http://www.udel.edu/facsen/reports/>_
+_http://www.udel.edu/facsen/reports/_
 
   
   
 
-The answer key for the final exam can be found by [clicking here.
-](final.anskey.htm) Challenges are due by midnight tonight, preferably over
-email but also by calling Harry's Hotline (831-2986).
+The answer key for the final exam can be found by clicking here.  Challenges
+are due by midnight tonight, preferably over email but also by calling Harry's
+Hotline (831-2986).
 
-A final exam review sheet can be found by [clicking here. ](final.info.htm)
+A final exam review sheet can be found by clicking here.
 
-_The [overheads](overheads3.htm) for the last part of the course have been
-posted to the web.
+_The overheads for the last part of the course have been posted to the web.
 
 There are three webpages which are relevant to the last section of the course.
 Each can be accessed by clicking on its URL, which is provided here:
 
-[theory.htm](theory.htm)_ is the handout on theory distributed on November 20.
+theory.htm_ is the handout on theory distributed on November 20.
 
-[evolution.htm](evolution.htm)_ is the brief description of the theory of
-evolution, presented in class on November 27.
+evolution.htm_ is the brief description of the theory of evolution, presented
+in class on November 27.
 
-[darwin.einstein.god.htm](darwin.einstein.god.htm)_ is my article, written
-some years ago but with a brief update, on the relationship between science
-and religion.
+darwin.einstein.god.htm_ is my article, written some years ago but with a
+brief update, on the relationship between science and religion.
 
 For information on the second hour exam, including a set of essay questions,
-some of which will actually appear on the exam, [click here. ](he2info.htm)
+some of which will actually appear on the exam, click here.
 
 _For copies of the overheads which were used in class, relating to Problems 2,
-3, and 4 (the material which is on the second hour exam), [click
-here](overheads2.htm).
+3, and 4 (the material which is on the second hour exam), click here.
 
-_For the big assignment topic (due October 25), [click here.
-](big.assignment.htm)
+_For the big assignment topic (due October 25), click here.
 
-_For a worked-out example in relativity which uses algebra,[ click here.
-](http://www.udel.edu/physics/phys145/99/synchro.htm)
+_For a worked-out example in relativity which uses algebra, click here.
 
-_For the answers to the objective section of the first exam, [click here.
-](h1.answers.htm)
+_For the answers to the objective section of the first exam, click here.
 
 _For a set of essay questions, some of which will actually appear on the first
-hour exam,[ click here.](h1.essays.htm)
+hour exam, click here.
 
 _For some specific information about the first hour exam, including the
 questions from the reader which are relevant to topics covered on the first
-exam,[ click here. ](exam1info.htm)
+exam, click here.
 
 _For a copy of the overheads which were used in the classes prior to the first
-hour exam, [click here.](overheads1.htm)
+hour exam, click here.
 
-[For information on the waiting list and this course's application of the
-University's Seat Claim policy, click here.](/seatclaim.htm)
+For information on the waiting list and this course's application of the
+University's Seat Claim policy, click here.
 
 * * *
 
@@ -125,9 +119,8 @@ the Universe?)
 
 5\. Where did complex life forms come from?
 
-[Click on this sentence for a more complete description of problem-based
-learning, including the major University of Delaware initiative in this
-topic.](pbl.htm)
+Click on this sentence for a more complete description of problem-based
+learning, including the major University of Delaware initiative in this topic.
 
 _It really is remarkable that we can understand that this extraordinarily
 complex Universe that we live in is the product of a fairly simple beginning,
@@ -142,10 +135,10 @@ a tiny rockball, off in the far reaches of the Milky Way Galaxy, observing the
 Universe, and understanding our observations, we can come to a remarkably
 complete understanding of how it all came to be.
 
-**[Why are we offering group D courses, and how are they structured to meet
-the needs of general-audience students?](groupD.htm)**
+**Why are we offering group D courses, and how are they structured to meet the
+needs of general-audience students?**
 
-**[What are some specific course objectives?](objectives.htm)**
+**What are some specific course objectives?**
 
 ##### Back to the top of this page  
   
@@ -194,15 +187,13 @@ e-mail forwarded to an account which you do check.
 You need to buy three books for this course: Rees's Before the Beginning,
 Weiner's The Beak of the Finch (both available at the bookstore) and
 "Readings," a course packet from Copy Maven. Contents of the course packet are
-listed on a separate web page;
-[/readings/copymaven/htm](/readings.copymaven.htm).
+listed on a separate web page; /readings/copymaven/htm.
 
-##### [Click here to obtain a detailed class schedule. ](/00schedule.htm)  
+##### Click here to obtain a detailed class schedule.  
   
 ---  
   
-##### [Click here to obtain a list of dates for assignments and
-exams.](assignmentlist.htm)  
+##### Click here to obtain a list of dates for assignments and exams.  
   
 ---  
   
@@ -218,12 +209,11 @@ and much of what you in discussion section will be group work. The activities
 for group work have been specifically selected as being ones which will work
 better in a small class.
 
-The topics in discussion section are listed in the [main class
-schedule.](00schedule.htm) __ The due dates for discussion section assignments
-are in this schedule and in a separate list of [assignments and test
-dates](assignment.dates.htm). _The assignments themselves will be posted no
-later than four days ahead of time in a separate list of [assignment
-topics](assignment.topics.htm).
+The topics in discussion section are listed in the main class schedule. __ The
+due dates for discussion section assignments are in this schedule and in a
+separate list of assignments and test dates. _The assignments themselves will
+be posted no later than four days ahead of time in a separate list of
+assignment topics.
 
 ##### WHY SHOULD I LEARN HOW TO WORK IN GROUPS?  
   
@@ -232,7 +222,7 @@ topics](assignment.topics.htm).
 _You are working in groups in this course for two reasons:
 
   * Ninety years of research and thousands of studies show that, when collaborative learning is done right, students learn better when they work in groups. 
-  * In the 21st century workplace, you will be working in teams. If you have team skills, you will thrive. I'm an optimistic person and don't want to be very specific about what happens if you don't have team skills, but most Delaware students should be able to figure this out. See a separate [webpage on teams](/teams.htm). 
+  * In the 21st century workplace, you will be working in teams. If you have team skills, you will thrive. I'm an optimistic person and don't want to be very specific about what happens if you don't have team skills, but most Delaware students should be able to figure this out. See a separate webpage on teams. 
 
 ##### Back to the top of this page  
   
@@ -243,16 +233,14 @@ _Answers to miscellaneous questions: (click on the question to get to an
 answer)  
 ---  
   
-[How can I, as a student, provide feedback to the professor?
-](student.feedback.htm)
+How can I, as a student, provide feedback to the professor?
 
-[What are the course policies about deadlines, class conduct, academic
-dishonesty, etc.? ](policies.htm)
+What are the course policies about deadlines, class conduct, academic
+dishonesty, etc.?
 
-[](00schedule.htm)[What can I do to help me study for an exam?
-](studytips.htm)
+What can I do to help me study for an exam?
 
-[How can I do a better job working in groups?](groups.htm)_
+How can I do a better job working in groups?_
 
   
   
@@ -283,15 +271,15 @@ questions. They are undergraduates who have been successful students in this
 course. If you would like to meet with them to discuss the course, please
 email them to set a time and place. Their email addresses are:
 
-Jeff Henderson : [jhen@udel.edu](mailto:jhen@udel.edu)
+Jeff Henderson : jhen@udel.edu
 
-_Maddy Pachter-Vail: [maddypv@udel.edu](mailto:maddypv@udel.edu)
+_Maddy Pachter-Vail: maddypv@udel.edu
 
 ##### Back to the top of this page
 
 _This page is maintained by and copyrighted by Harry L. Shipman, Annie Jump
 Cannon Professor of Physics and Astronomy, University of Delaware.
-([harrys@udel.edu)](mailto:\(harrys@udel.edu\))
+(harrys@udel.edu)
 
 _Most recent revision: February 5, 2001
 

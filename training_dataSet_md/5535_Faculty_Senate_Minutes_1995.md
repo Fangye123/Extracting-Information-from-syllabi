@@ -518,7 +518,6 @@ Westbury, NY. April, 1984.
 Young, Kate. "Employment Opportunities and Constraints from Women from Here to
 2000." _Development._ Vol. 1, pp. 13-15, 1990.  
 
-[Return to Faculty Senate Home
-Page](http://muweb.millersville.edu/~fsenate/index.html)  
-[Return to MU Home Page](http://muweb.millersville.edu/index.html)
+Return to Faculty Senate Home Page  
+Return to MU Home Page
 

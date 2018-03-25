@@ -5,10 +5,10 @@ Spring 2000
 4:00-5:40 TTh (but see below)  
 HUM Rm. 205
 
-Instructor: [ Tim O'Keefe ](index.html)  
+Instructor:  Tim O'Keefe  
 Office: CAM 207  
 Phone: O: 589-6288, H: 589-2966  
-e-mail: [ okeefets@mrs.umn.edu](mailto:okeefets@mrs.umn.edu)  
+e-mail:  okeefets@mrs.umn.edu  
 OH: Tuesday and Thursday 1-1:45, Wednesday 1-2:30, and by appointment.
 
 ![](blueline.gif)  
@@ -29,13 +29,11 @@ revising and resubmitting.
 
 I will rotate the schedule of reading response papers, so that every class
 period one or two students will submit a paper. You will post this paper to
-the [class bulletin board.
-](http://www.mrs.umn.edu/academic/phil3151/pushpin/src/bbs.cgi) Please post
-your paper the night before the class, at the latest. Everybody will be
-responsible for reading the reading response papers before the class meeting.
-Feel free to post your own responses to others' papers on the bulletin board,
-or to put comments or questions there also. I may occasionally require
-somebody to post a response to others' work.
+the class bulletin board.  Please post your paper the night before the class,
+at the latest. Everybody will be responsible for reading the reading response
+papers before the class meeting. Feel free to post your own responses to
+others' papers on the bulletin board, or to put comments or questions there
+also. I may occasionally require somebody to post a response to others' work.
 
 Typically, I will explain the material in the first half of the class. We will
 take a break, and then the second half of the class will be devoted to
@@ -46,8 +44,8 @@ class, and during the course of discussing the material in the second part,
 sometimes I may go back to clarify some points in the material.
 
 The bulletin board, announcements, copies of this syllabus, and a trove of
-other information is available from the course web site, [
-http://cda.mrs.umn.edu/~okeefets/ancient.html.](http://cda.mrs.umn.edu/~okeefets/ancient.html)
+other information is available from the course web site,
+http://cda.mrs.umn.edu/~okeefets/ancient.html.
 
 **Texts:**
 
@@ -123,7 +121,7 @@ the classroom.
 
 ![](blueline.gif)
 
-[Return to the Ancient Philosophy web site.](ancient.html)  
-[Return to the course materials index.](course-materials.html)  
-[Return to Tim O'Keefe's homepage.  
+Return to the Ancient Philosophy web site.  
+Return to the course materials index.  
+Return to Tim O'Keefe's homepage.  
 

@@ -13,12 +13,12 @@ Professor of Politics
 Office: 58 W. 10th St. (CES)  
 Office Hrs: Wed 1:00-2:30  
 998-2609 998 3838 (CES)/998 8531(Politics)  
-e-mail: [ms5@nyu.edu](mailto:ms5@nyu.edu)
+e-mail: ms5@nyu.edu
 
 Ann Snoeyenbos  
 Librarian for West European and Social Studies  
 Bobst, Rm. 610  
-e-mail: [ann.snoeyenbos@nyu.edu](mailto:ann.snoeyenbos@nyu.edu)  
+e-mail: ann.snoeyenbos@nyu.edu  
   
 
 The purpose of this course is to train undergraduates who are interested in

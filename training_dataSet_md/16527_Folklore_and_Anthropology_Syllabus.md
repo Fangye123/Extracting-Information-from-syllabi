@@ -11,31 +11,28 @@
 **Office Hours** : Monday and Wednesday, 3:30-5:30 pm and by appointment, SA
 12.
 
-**Web Page** : [
-http://www.utoledo.edu/~NLIGHT/mainpage.htm#folk](http://www.utoledo.edu/~NLIGHT/mainpage.htm#folk)
+**Web Page** :  http://www.utoledo.edu/~NLIGHT/mainpage.htm#folk
 
-[ **E-mail me** ](mailto:NLIGHT@UofT02.utoledo.edu) (Please put ANTH 400 on
-the subject line.)
+**E-mail me** (Please put ANTH 400 on the subject line.)
 
-**E-mail class discussion list** : [
-ANTH400-001@uoft02.utoledo.edu](mailto:ANTH400-001@uoft02.utoledo.edu)
+**E-mail class discussion list** :  ANTH400-001@uoft02.utoledo.edu
 
 ![](visuals/jadebar1.gif)
 
 ## Some web preliminaries: What can you do with folklore and why study it?
 
-  * [ Teach ](http://lcweb.loc.gov/folklife/teachers.html)
-  * [ Learn to teach using Folklore in Education: The Humanities in Everyday Life ](http://www.utoledo.edu/colleges/EDUCATION-AND-ALLIED-PROFESSIONS/summinst/)
-  * [ Do fieldwork on folklore and folklife](http://lcweb.loc.gov/folklife/fieldwk.html)
-  * [ Check out this Australian folklife research project!](http://lcweb.loc.gov/folklife/fieldwk.html)
-  * [ Explore the riches of the WPA Life Histories Collection ](http://rs6.loc.gov/ammem/wpaintro/wpahome.html)
-  * [ Search for a song you can't quite remember](http://www.deltablues.com/dbsearch.html)
-  * [ Browse some jumprope rhymes ](http://www.uwf.edu/~stankuli/jrope/jumprope.htm)
-  * [ The Smithsonian Center for Folklife ](http://www.si.edu/folklife/start.htm)
-  * [ National Folk Festival in Dayton, Ohio, June 21-23, 1997](http://www.muohio.edu/~mclellm/599outline.html)
-  * [ A great list of mythology links organized by culture area](http://fas-www.harvard.edu/~folkmyth/fandmwebsitessarah.html)
-  * [ A smaller list of folklore links ](http://fas-www.harvard.edu/~folkmyth/fandmwebsites.html)
-  * [ My very limited list of links ](http://www.utoledo.edu/~nlight/folk-lnx.htm) 
+  * Teach 
+  * Learn to teach using Folklore in Education: The Humanities in Everyday Life 
+  * Do fieldwork on folklore and folklife
+  * Check out this Australian folklife research project!
+  * Explore the riches of the WPA Life Histories Collection 
+  * Search for a song you can't quite remember
+  * Browse some jumprope rhymes 
+  * The Smithsonian Center for Folklife 
+  * National Folk Festival in Dayton, Ohio, June 21-23, 1997
+  * A great list of mythology links organized by culture area
+  * A smaller list of folklore links 
+  * My very limited list of links  
 ![](visuals/jadebar1.gif)
 
 **READINGS** (average 80-100 pages a week, much of which will be folklore
@@ -123,24 +120,22 @@ culture, the interaction of oral and literate expressive culture, fieldwork
 issues, and so on. Taking notes of examples that occur to you both in and
 outside of class will also help you write the weekly commentaries.
 
-[ _Library Research_
+_Library Research_
 
-](a400libr.htm) In the first three weeks of class, you should choose a
-folklorist who interests you and research his or her work, theories and
-methods. Based on this, write a 5-8 page typed discussion of the folklorist's
-work. I include a handout describing this assignment and listing folklorists
-to work on.
+In the first three weeks of class, you should choose a folklorist who
+interests you and research his or her work, theories and methods. Based on
+this, write a 5-8 page typed discussion of the folklorist's work. I include a
+handout describing this assignment and listing folklorists to work on.
 
-[Field Research_
+Field Research_
 
-](a400fldr.htm) The fieldwork project will consist of interview and
-observation research with folklore performers. This could be anyone with
-knowledge and expressive skills that you want to understand. I will give a
-comprehensive description of how to do this assignment soon, but we will be
-reading about fieldwork so you should be thinking about project ideas. This
-will be an 8-12 page paper, with additional documentation. In-class
-presentation of results from your fieldwork is worth up to 8 points of extra
-credit.
+The fieldwork project will consist of interview and observation research with
+folklore performers. This could be anyone with knowledge and expressive skills
+that you want to understand. I will give a comprehensive description of how to
+do this assignment soon, but we will be reading about fieldwork so you should
+be thinking about project ideas. This will be an 8-12 page paper, with
+additional documentation. In-class presentation of results from your fieldwork
+is worth up to 8 points of extra credit.
 
 **GRADING**
 
@@ -418,15 +413,13 @@ Rosenberg. "Strategy and Tactics in Fieldwork: The Whole Don Messer Show" _WO_
 _Wed.:_ History, ethnic identity, immigration, and cultural boundaries. Film:
 _J'ai ete au bal_. Read:
 
-[Kirshenblatt-
-Gimblett](http://www.nyu.edu/classes/tourist/readings.html#Full). "Studying
-Immigrant and Ethnic Folklore" _HAF_ , 39-47 (PKT)
+Kirshenblatt- Gimblett. "Studying Immigrant and Ethnic Folklore" _HAF_ , 39-47
+(PKT)
 
 Barrand. "Stumbling Upon Lancashire Mill Culture in New England" _WO_ ,
 171-184 (skim)
 
-Dewhurst, et al. [ "Michigan Hmong Textiles"
-](http://pitcairn.lib.uci.edu/sea/hmong.html) _MFR_ , 57-70
+Dewhurst, et al.  "Michigan Hmong Textiles"  _MFR_ , 57-70
 
 Cochrane. "Commercial Fishermen and Isle Royale" _MFR_ , 89-91, 98-104
 
@@ -492,8 +485,7 @@ Schwartz. "Henry Ford's Melting Pot." _Ethnic Groups in the City_. pp. 191-198
 
 Washburn. "The Noble and Ignoble Savage." _HAF_ , 60-65 (PKT)
 
-[Bruner. ](http://www.nyu.edu/classes/tourist/readings.html#Full)"Ethnography
-as Narrative" _AOE_ , 139-155
+Bruner. "Ethnography as Narrative" _AOE_ , 139-155
 
 F. Turner. "Reflexivity as Evolution in Thoreau's _Walden_ " _AOE_ , pp. 73-93
 
@@ -501,20 +493,17 @@ F. Turner. "Reflexivity as Evolution in Thoreau's _Walden_ " _AOE_ , pp. 73-93
 and local expression (popular and folk traditions). Cultural geography. Folk
 architecture, the Greek Revival, and classicism.
 
-[ Examples of vernacular architecture
-](http://www.uvm.edu/~vhnet/histarch/haas.html) and some [ less vernacular
-](http://www.views.com/mainpgs/) and a discussion of [ studying vernacular
-architecture. ](http://www.georgetown.edu/crossroads/vernarch.html)
+Examples of vernacular architecture  and some  less vernacular  and a
+discussion of  studying vernacular architecture.
 
 READING QUESTIONS FOR THIS WEEK:
 
 * What can artifacts and names reveal that other historical sources cannot?
 
-* What was the [ Greek Revival ](images/gkrev1.gif), and why did people participate in it? 
+* What was the  Greek Revival , and why did people participate in it? 
 
-[ Another Greek Revival example](images/gkrev2.jpg) and [ another
-](http://users.vnet.net/albemarl/counties/Camden.html) and [ a discussion of
-Greek Revival in New England ](http://www.views.com/mainpgs/cohgr.html)
+Another Greek Revival example and  another  and  a discussion of Greek Revival
+in New England
 
 * Discuss the relationship of personal expression and national culture, or folk and popular culture. How do they influence each other?
 

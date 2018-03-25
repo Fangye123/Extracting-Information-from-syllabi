@@ -207,6 +207,6 @@ the WSU History Department's "Model Statement on Plagiarism:
 
   
   
-[![](thnbatle.jpg)Return to Anderson's Home Page](index.htm)  
+![](thnbatle.jpg)Return to Anderson's Home Page  
   
 

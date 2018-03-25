@@ -10,8 +10,7 @@ _Primary Sources on the Internet_
 
 * * *
 
-As a result of the Duke bibliography [ Women and the Civil
-War](http://scriptorium.lib.duke.edu/women/civilwar.html), we consistantly
+As a result of the Duke bibliography  Women and the Civil War, we consistantly
 receive requests from students and teachers who would like to see primary
 sources on this topic available to th em via the Internet. In response, we
 have begun to transcribe and scan some of our manuscript collections which
@@ -22,7 +21,7 @@ time period. Below are links to primary sources on the Internet that are
 directly related to women and the Civil War. We encourage archivists, project
 staff, and Civil War enthusists to network more women's collections!
 
-_[**Tell us about other sites to add to this list!**](mailto:cwhc@duke.edu)_
+_**Tell us about other sites to add to this list!**_
 
   
 
@@ -30,113 +29,95 @@ _[**Tell us about other sites to add to this list!**](mailto:cwhc@duke.edu)_
 
 ## _**DIARIES, LETTERS, and other DOCUMENTS**_
 
-[**_Alice Williamson Diary,
-1864_**](http://scriptorium.lib.duke.edu/williamson/)  
+**_Alice Williamson Diary, 1864_**  
 Diary of a 16 year old rebel girl living in Gallatin, Tennessee during Union
 occupation of the area. Transcription and scanned image of original document
 held by the Special Collections Library at Duke Unversity.
 
-[**_Rose O'Neal Greenhow Papers,
-1861-1864_**](http://scriptorium.lib.duke.edu/greenhow/)  
+**_Rose O'Neal Greenhow Papers, 1861-1864_**  
 Letters from Greenhow, a Confederate spy, to Jefferson Davis, Alexander
 Boteler, and others regarding war activites. Also several newspaper articles
 describing her imprisionment in 1861 and her death in 1864. Transcriptions and
 scanned images of original documents held in the Special Collections Library
 at Duke University. Another site specializing in military history provides
-[information on Greenhow's war
-contributions](ftp://byrd.mu.wvnet.edu/pub/history/military/civil_war_usa/pictures/rose.info)
-as well as [a picture and brief biographical
-caption](ftp://byrd.mu.wvnet.edu/pub/history/military/civil_war_usa/pictures/lady-
-spy.gif).
+information on Greenhow's war contributions as well as a picture and brief
+biographical caption.
 
-[**_Rachel Cormany Diary, June 14-July 6,
-1863_**](http://jefferson.village.virginia.edu/vshadow/rcormany.html)  
+**_Rachel Cormany Diary, June 14-July 6, 1863_**  
 An excerpt of this Franklin County, PA., woman's diary describing the town of
 Chambersburg during the Gettysburg campaign. Taken from ** _The Cormany
 Diaries: A Northern Family in the Civil War_** , James C. Mohr, editor,
 Richard E. Winslow, III, assistant editor, (Pittsburg, University of Pittsburg
-Press, 1982), pp. 328-341. Part of the [_Valley of the Shadow
-project_](http://jefferson.village.virginia.edu/vshadow2/).
+Press, 1982), pp. 328-341. Part of the _Valley of the Shadow project_.
 
-[**_Carrie Berry Diary August 1, 1864-January 4,
-1865_**](http://cee.indiana.edu/gopher/Turner_Adventure_Learning/Gettysburg_Archive/Primary_Resources/Berry_diary.txt)  
+**_Carrie Berry Diary August 1, 1864-January 4, 1865_**  
 Passages from the diary of a 10 yr. old Atlanta girl describe the immediate
 affects of the War on her and her family. Transcription of original diary
 provided by the Atlanta Historical Center.
 
-[**_At Gettysburg, or What a Girl Saw and Heard of the
-Battle_**](http://cee.indiana.edu/gopher/Turner_Adventure_Learning/Gettysburg_Archive/Primary_Resources/At_Gettysburg.txt)  
+**_At Gettysburg, or What a Girl Saw and Heard of the Battle_**  
 A narrative by Tillie Allerman. Electronic text of a book originally published
 in 1889.
 
-[**_Civil War Reminiscences by Catharine
-Hunsecker_**](http://jefferson.village.virginia.edu/vshadow2/KHS/hunsecker.html)  
+**_Civil War Reminiscences by Catharine Hunsecker_**  
 Transcription of a narrative which gives some general information about
 Hunsecker's life, but mainly focuses on the events of the Civil War and the
-affect it had on her community in Franklin County, PA. Part of the [_Valley of
-the Shadow project_](http://jefferson.village.virginia.edu/vshadow2/).
+affect it had on her community in Franklin County, PA. Part of the _Valley of
+the Shadow project_.
 
-[**_Sallie Seeper Scott Letter, April 15,
-1865_**](http://scholar2.lib.vt.edu/spec/cwlove/seeper.html)  
+**_Sallie Seeper Scott Letter, April 15, 1865_**  
 Transcription of a love letter from Sallie Seeper Scott of "Lower Chanceford"
 (state unknown), to Robert Bennett, Chief Carpenter Shop in Washington, D.C.
 Original held in the Special Collections Department of the University
-Libraries at Virginia Tech. Part of their on-line collection of [_American
-Civil War Resources_](http://scholar2.lib.vt.edu/spec/civwar/cwhp.htm).
+Libraries at Virginia Tech. Part of their on-line collection of _American
+Civil War Resources_.
 
-[**_Memoir of Alansa Rounds Sterrett,
-c.1859-1865._**](http://jefferson.village.virginia.edu/vshadow2/personal/sterrett.html)  
+**_Memoir of Alansa Rounds Sterrett, c.1859-1865._**  
 Transcription of original memoir housed in the the Augusta County Historical
 Society. Alansa Rounds Sterrett was Jedediah Hotchkiss' niece and a teacher at
 Loch Willow Academy during the Civil War. A Northerner, Alansa Rounds married
 Franklin F. Sterrett, a friend of Hotchkiss' and a Confederate cavalry
-officer. Part of the [_Valley of the Shadow
-project_](http://jefferson.village.virginia.edu/vshadow2/).
+officer. Part of the _Valley of the Shadow project_.
 
-[**_10th South Carolina Ladies
-Auxilary_**](http://www.awod.com/gallery/probono/cwchas/10ladies.html)  
+**_10th South Carolina Ladies Auxilary_**  
 This is a website for Civil War "re-enactresses" that contains a wealth of
 primary source information about women during the war. Site includes links to
 several WPA memoirs of South Carolina women during the war, detailed
 information about fashion and fabrics of the times, and a bibliography of
 suggested readings.
 
-[**_The Ladies Union Aid Society of St.
-Louis_**](http://www.stlcc.cc.mo.us/fv/users/mfuller/luas/)  
+**_The Ladies Union Aid Society of St. Louis_**  
 Produced by a women's Civil War reenacting group, this site provides a history
 of the LUAS which contains excerpts from original documents related to the
 creation and work of the Society. Includes references to specific women such
 as Anna Clapp and Jesse Freement, but also illustrates the work of the many
 unnamed women who aided soldiers. Also has a bibliography for further reading.
 
-[**_Nancy Emerson Diary,
-1862_**](http://jefferson.village.virginia.edu/staunton/diaries.html)  
+**_Nancy Emerson Diary, 1862_**  
 Memoranda of events and thoughts of woman living in Augusta County, Virginia.
 Transcription and scanned images of the original manuscript diary held in the
-Alderman Library at the University of Virginia. Part of the [_Valley of the
-Shadow project_](http://jefferson.village.virginia.edu/vshadow2/).
+Alderman Library at the University of Virginia. Part of the _Valley of the
+Shadow project_.
 
 * * *
 
 ## _**PHOTOGRAPHS and PRINTS**_
 
-The [Library of Congress](http://rs6.loc.gov/ammem/cwphome.html) and the
-[National Archives](http://www.nara.gov/publications/prologue/women1.html)
-have scanned hundreds of photographs relating to the Civil War. While only a
-small percentage of these photos actually depict women (see below), other
-photographs may provide useful supplementary information or illustrations for
-women-focused projects. For instance, photos show towns where women lived and
-battles and events often described in women's diaries and letters. Each of the
-following images specifically include women:
+The Library of Congress and the National Archives have scanned hundreds of
+photographs relating to the Civil War. While only a small percentage of these
+photos actually depict women (see below), other photographs may provide useful
+supplementary information or illustrations for women-focused projects. For
+instance, photos show towns where women lived and battles and events often
+described in women's diaries and letters. Each of the following images
+specifically include women:
 
 ### _**From the Library of Congress' American Memory Project**_
 
 _Note: Because of the way the American Memory Project photographs are set up,
 we cannot provide direct links to each of the photos listed. To access the
-following photos, simply[go to the Library of Congress Civil War Search
-Page](http://rs6.loc.gov/ammem/cwarquery.html), and search on any of the words
-in the following picture captions. Or search on words like **women** ,
-**girls** , **nurses** , or **lady**._
+following photos, simplygo to the Library of Congress Civil War Search Page,
+and search on any of the words in the following picture captions. Or search on
+words like **women** , **girls** , **nurses** , or **lady**._
 
   * Port Royal Island, SC. African American preparing cotton for the gin on Smith's plantation in 1861. 
   * Cedar Mt., VA. Family group before the house in which Gen. Charles S. Winder (C.S.A.) died, 1862. 
@@ -159,9 +140,8 @@ in the following picture captions. Or search on words like **women** ,
   * Washington, D.C. Hanging hooded bodies of the four conspirators; crowd departing, July 1865 
   * Washington, D.C. Hanging bodies of the conspirators; guards only in yard, July 1865 
 
-**[To Duke Special Collections Library](http://scriptorium.lib.duke.edu/) |
-[To Women and the Civil War
-Bibliography](http://scriptorium.lib.duke.edu/women/civilwar.html) **
+**To Duke Special Collections Library | To Women and the Civil War
+Bibliography **
 
 * * *
 

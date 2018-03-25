@@ -5,8 +5,7 @@
 #### Class Meets TR 1400-1515 EST 337  
 Lead Instructor: Dr. David J. Keeling
 
-##### Office: EST 304, Phone: 745-4555 EMail:
-[Keeling](mailto:david.keeling@wku.edu)
+##### Office: EST 304, Phone: 745-4555 EMail: Keeling
 
 #### Office Hours: MTWR 13:00-14:00 and by appointment.  
 Participating Instructors: Dr. Richard Salisbury (History), Dr. John Petersen
@@ -100,11 +99,11 @@ Thurs 2/7/02      | The Early Modern Period | TBA
 
  **Geographic Patterns that Shape Latin America** (Keeling)  
 
-#### Link to the [Key Concepts](geo200_study.htm) outline for this section.
+#### Link to the Key Concepts outline for this section.
 
-#### Link to the [First Assignment](geo200_assign1.htm) in this section.
+#### Link to the First Assignment in this section.
 
-#### Link to the [Second Assignment](geo200_assign2.htm) in this section.
+#### Link to the Second Assignment in this section.
 
 Thurs 2/14/02 | Key Geographical Trends | Reading: Packet -- Introduction and
 Country Profiles; Textbook, pp. 3-26  
@@ -145,13 +144,10 @@ Thurs 5/2/02| Government and Politics | Packet
 
 #  HAPPY STUDYING!!
 
-#### To view study maps, just click on:  [MAPS](geomaps.htm), and to view the
-location study list, just click on: [LOCATION GUIDE](mapguide.htm).  
-To email the course director, just click on:  [
-david.keeling@wku.edu](mailto:david.keeling@wku.edu)  
-Return to the History Department [Home
-Page](http://www.wku.edu/Dept/Academic/AHSS/History/).  
-Return to the Geography & Geology Department [HOME
-PAGE](http://www.wku.edu/geoweb/index.htm).  
+#### To view study maps, just click on:  MAPS, and to view the location study
+list, just click on: LOCATION GUIDE.  
+To email the course director, just click on:  david.keeling@wku.edu  
+Return to the History Department Home Page.  
+Return to the Geography & Geology Department HOME PAGE.  
 Last updated on 2/19/02.
 

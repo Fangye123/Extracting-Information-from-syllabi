@@ -2,11 +2,9 @@
 
 * * *
 
- **[Resource Links](http://www2.hawaii.edu/~fredr/glopages.htm)** ... **[Key
-Concepts](http://www2.hawaii.edu/~fredr/glocon.htm)** .... **[Vinnie's online
-reading](http://www.mtholyoke.edu/acad/intrel/globaliz.htm)**
+ **Resource Links** ... **Key Concepts** .... **Vinnie's online reading**
 
-[**MAPS**](http://www.history.upenn.edu/hist188/)
+**MAPS**
 
 * * *
 
@@ -26,11 +24,9 @@ But long before 1492, people began to link together disparate locations on the
 globe into extensive systems of communication, migration, and
 interconnections. This formation of systems of interaction between the global
 and the local has been a central driving force in world history. [for very,
-very long-term _world system_ history, see [Andre Gunder
-Frank](http://csf.colorado.edu/authors/Frank.A_Gunder/) and especially "[the
-five thousand year world system: an interdisciplinary
-introduction,"](ftp://csf.colorado.edu/psn/authors/Frank.Gunder/5000-yr-WS-
-intro) by Andre Gunder Frank and Barry K. Gills.]
+very long-term _world system_ history, see Andre Gunder Frank and especially
+"the five thousand year world system: an interdisciplinary introduction," by
+Andre Gunder Frank and Barry K. Gills.]
 
   **Q: what is global?** |  **A:** the expansive interconnectivity of
 localities -- spanning local sites of everyday social, economic, cultural, and
@@ -67,11 +63,9 @@ India) which produced the economic output, instruments (financial),
 technologies, and impetus for the medieval world economy that linked Europe
 and China by land and sea across Eurasia and the Indian Ocean.
 
-**5\. 1100: The Rise of[Genghis
-Khan](http://www.nationalgeographic.com/features/97/genghis/timeline/index.html)**
-and the integration of overland routes across Eurasia -- producing also a
-military revolution in technologies of war on horseback and of fighting from
-military fortifications.
+**5\. 1100: The Rise ofGenghis Khan** and the integration of overland routes
+across Eurasia -- producing also a military revolution in technologies of war
+on horseback and of fighting from military fortifications.
 
 **6\. 1300: the creation of the Ottoman Empire** spanning Europe, North
 Africa, and Middle East, and connected politically overland with Safavids and
@@ -101,19 +95,16 @@ economic growth also lead to more militarized British, Dutch, and French
 imperial growth in Asia. These national empires expand during the industrial
 revolution, which also provokes class struggles and new ideas and movements of
 revolution within the national states and subsequently in their empires as
-well. [The historical chronology of
-modernity](http://www.history.upenn.edu/hist086/hist11lect10.htm) coincides
-with the chronology of globalization from the eighteenth century.
+well. The historical chronology of modernity coincides with the chronology of
+globalization from the eighteenth century.
 
 **10\. 1885: Treaties of Berlin** mark a diplomatic watershed in the age
 modern imperial expansion by European and American overseas empires, beginning
 the age of "high imperialism" with the legalization of the Partition of
 Africa, which also marks a foundation-point for the creation of international
-law. In the last decades of the 19th century, the global ["white man's
-burden"](http://www.boondocksnet.com/kipling/index.html#Poem) became a subject
-of discussion. (Here is an old syllabus for an undergraduate course on "[US
-Empire](http://www.sas.upenn.edu/~dludden/h206syll.htm)" with some useful
-links.)
+law. In the last decades of the 19th century, the global "white man's burden"
+became a subject of discussion. (Here is an old syllabus for an undergraduate
+course on "US Empire" with some useful links.)
 
 **11\. 1929: the great depression** hits all parts of the world at the same
 time \-- in contrast to depression of late 19th century, but following rapid,
@@ -217,8 +208,7 @@ up but the owner." He also noted that "most of the merchants from Fars and
 Yemen disembark" at Mangalore, where "pepper and ginger are exceedingly
 abundant." In 1357, John of Marignola, an emissary to China from Pope Benedict
 XII, also stopped at Quilon, which he described it as "the most famous city in
-the whole of India, where all the pepper in the world
-grows."[1](../WINDOWS/TEMP/PM2A0B3.TMP#FNT0)  
+the whole of India, where all the pepper in the world grows."1  
   
   
 **2\. The European Seaborne Empires, 1500-1750  

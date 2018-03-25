@@ -2,7 +2,7 @@
 **_207 Turner Road_  
 _Wallingford, PA 19086_  
 _(610) 627-0984_  
-_e-mail:_[ _mparker81@erols.com_](mailto:mparker81@erols.com)
+_e-mail:_ _mparker81@erols.com_
 
 **EDUCATION:**
 
@@ -104,8 +104,7 @@ Musicology Association, February 1988.
 >  Peer Reviewer, Nupedia Encyclopedia  
 >  President, Mid-Atlantic Chapter of the American Musicological Association
 (1998-2000)  
->  Board Member, [Darlington Fine Arts Center](http://www.darlingtonarts.org/)
-(1998-2000)  
+>  Board Member, Darlington Fine Arts Center (1998-2000)  
 >  1994-95 Walter and Freda Kaufmann Award in Musicology (1995)  
 >  Doctoral Student Grant-in-Aid Grant (Summer 1988)
 
@@ -130,12 +129,11 @@ of Pennsylvania, Otto Albrecht Symposium, May 7, 1999
 
 **MEMBERSHIPS:**
 
-> [American Musicological Society](http://www.sas.upenn.edu/music/ams/)  
->  [College Music Society](http://www.music.org/)  
->  [Phi Beta Kappa](http://www.pbk.org/)  
->  [National Association of Scholars](http://www.nas.org/)  
->  [The Society for American Music](http://www.american-music.org/) (
-formerly: The Sonneck Society)
+> American Musicological Society  
+>  College Music Society  
+>  Phi Beta Kappa  
+>  National Association of Scholars  
+>  The Society for American Music ( formerly: The Sonneck Society)
 
 
 
@@ -181,6 +179,5 @@ formerly: The Sonneck Society)
 > Back to top
 
   
-[Homepage](MaraParker.html) | [Courses](Courses.html) | [Music Department
-Homepage](index.html) | [Widener Homepage](http://www.widener.edu/)  
+Homepage | Courses | Music Department Homepage | Widener Homepage  
 

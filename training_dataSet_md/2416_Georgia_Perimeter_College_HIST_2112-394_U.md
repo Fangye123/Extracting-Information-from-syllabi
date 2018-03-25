@@ -4,7 +4,7 @@
 **Instructor: Salli Vargis**  
 **Office: SB 2267**  
 **Phone: (404) 244-2993**  
-**Email:[svargis@gpc.peachnet.edu](mailto:svargis@gpc.peachnet.edu)**  
+**Email:svargis@gpc.peachnet.edu**  
 **Office Hours MWF 8:00 - 9:00 a.m., TR 9:30 a.m. - 12:15 p.m. & 1:40 - 2:30
 p.m.**
 

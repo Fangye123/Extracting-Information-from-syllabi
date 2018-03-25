@@ -239,10 +239,9 @@ R/Hancock "The East European roots of Romani Nationalism"
 
 **Week 16.** May 23-27  
 Oral examinations.  
-Final examination: Wednesday, May 25 3:30-5:30  Property of [ Linfield
-College](http://www.linfield.edu): [Sociology and Anthropology
-Department.](index.html)  
+Final examination: Wednesday, May 25 3:30-5:30  Property of  Linfield College:
+Sociology and Anthropology Department.  
 The contents of this pager are the responsibility of Jeff D. Peterson, send
-concerns to [ jdpeters](mailto:jdpeters@linfield.edu) This document was
-created using Web Weaver by Mark McConnell.
+concerns to  jdpeters This document was created using Web Weaver by Mark
+McConnell.
 

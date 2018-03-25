@@ -7,14 +7,13 @@ a graduate elective in music theory / history
 11-12 MWF, Fall 2001  
 Moores Computer Lab, rm. 214  
   
-**Dr. Tim Koozin** |  MSOM 148 |  (713) 743-3318 | email:
-[tkoozin@uh.edu](mailto:tkoozin@uh.edu) | Web site:
-[http://www.uh.edu/~tkoozin](http://www.uh.edu/~tkoozin/)[/](http://www.uh.edu/~tkoozin/)  
+**Dr. Tim Koozin** |  MSOM 148 |  (713) 743-3318 | email: tkoozin@uh.edu | Web
+site: http://www.uh.edu/~tkoozin/  
 ---|---|---|---  
 Syllabus | Manuals on Reserve | Links to Examples | Assignment 1 | Assignment
 2 | More Examples  
   
-[Student Projects](http://www.uh.edu/%7Etkoozin/projects/)  
+Student Projects  
 
 **Course Description** : Use of multimedia resources in research, composition,
 and pedagogy, with emphasis on creating music applications for Web delivery
@@ -120,23 +119,21 @@ completed._
 
 **Some Links to Interesting Examples:** **           **(top)
 
-> Moores School |
-[http://www.uh.edu/musi](http://www.uh.edu/music/)[c/](http://www.uh.edu/music/)
-| ![](Port.jpg)  
+> Moores School | http://www.uh.edu/music/ | ![](Port.jpg)  
 > ---|---|---  
-> Dr. Koozin's page |  <http://www.uh.edu/~tkoozin/>  
-> The New Grove | <http://www.grovemusic.com/index.html>  
+> Dr. Koozin's page |  http://www.uh.edu/~tkoozin/  
+> The New Grove | http://www.grovemusic.com/index.html  
 > MTO Journal (Koozin's Article) |
-<http://smt.ucsb.edu/mto/issues/mto.99.5.3/toc.5.3.html>  
-> Cambridge Journals | <http://journals.cambridge.org/>  
+http://smt.ucsb.edu/mto/issues/mto.99.5.3/toc.5.3.html  
+> Cambridge Journals | http://journals.cambridge.org/  
 > Rhythm and Meter Bibliography |
-<http://www.music.indiana.edu/som/courses/rhythm/biblio.html>  
-> Karlheinz Stockhausen | <http://www.stockhausen.org/>  
-> set theory | <http://www.arts.ilstu.edu/~staylor/setfinder/index.html>  
->   | <http://www.azstarnet.com/~solo/setheory.htm>  
-> Plainchant data base | <http://publish.uwo.ca/~cantus/>  
-> For Children | <http://www.nickjr.com/index.jhtml>  
-> Non-Musical | <http://www.shockwave.com/sw/home/>  
+http://www.music.indiana.edu/som/courses/rhythm/biblio.html  
+> Karlheinz Stockhausen | http://www.stockhausen.org/  
+> set theory | http://www.arts.ilstu.edu/~staylor/setfinder/index.html  
+>   | http://www.azstarnet.com/~solo/setheory.htm  
+> Plainchant data base | http://publish.uwo.ca/~cantus/  
+> For Children | http://www.nickjr.com/index.jhtml  
+> Non-Musical | http://www.shockwave.com/sw/home/  
   
 * * *
 
@@ -167,8 +164,8 @@ functionality.
   * Sound   
 \- Use SoundEdit 16 to convert from audio CD to AIFF and trim excerpt  
 \- Use MediaCleaner to convert from AIFF to MP3  
-\- Use sample HTML from [Chopin example](ChopinMP3/goToMP3.html) provided
-(Thanks fot the help, Cyrill!).
+\- Use sample HTML from Chopin example provided (Thanks fot the help,
+Cyrill!).
 
   * Links: internal and external  
 
@@ -185,15 +182,15 @@ class index. ****
 
 **More examples** : **           **(top)
 
-> [Chopin example](ChopinMP3/goToMP3.html) (MP3 audio)  
->  [A scanned score excerpt](traviata/traviata.html) (Gif image)  
->  [A video performance clip and scanned score
-graphic](traviata/traviata1.html) (QuickTime movie and GIF image)
+> Chopin example (MP3 audio)  
+>  A scanned score excerpt (Gif image)  
+>  A video performance clip and scanned score graphic (QuickTime movie and GIF
+image)
 
 **Some models for web page design:**
 
 > Bonnie Jacobi's online study of Stravinsky's _Agon:_
-<http://www.uh.edu/%7Etkoozin/projects/Jacobi/6306final.html>  
->  Two of my projects, The Moores School - <http://www.uh.edu/music/> and Arts
-a la Carte - [http://www.artsalacarte.com/ ](http://www.artsalacarte.com/)
+http://www.uh.edu/%7Etkoozin/projects/Jacobi/6306final.html  
+>  Two of my projects, The Moores School - http://www.uh.edu/music/ and Arts a
+la Carte - http://www.artsalacarte.com/
 

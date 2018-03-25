@@ -51,7 +51,7 @@
   * Roche, Judith, and Meg McHutchison, eds.  _First Fish, First People:   Salmon Tales of the North Pacific Rim_.  Seattle, 1998.
   * Ruby, Robert H., and John A. Brown.  _The Chinook Indians:   Traders of the Lower Columbia_.  Norman, Oklahoma, 1976
   * Russell, Emily.  _People and the Land Through Time_. New Haven, 1997.
-  * Ryan, John.   _State of the Northwest_. [Northwest Environment Watch](http://www.northwestwatch.org/) Report 1.  Seattle, 1994.
+  * Ryan, John.   _State of the Northwest_. Northwest Environment Watch Report 1.  Seattle, 1994.
   * Ryden, Hope.   _Lily Pond:   Four Years with a Family of Beavers_.  New York, 1989.
   * Postel, Sandra, and Linda Starke, ed.  _Last Oasis:   Facing Water Scarcity_. 2d ed. New York, 1997.
   * Postel, Sandra.  _Pillar of Sand:   Can the Irrigation Miracle Last?_   New York, 1999.
@@ -78,26 +78,26 @@ vols. Chicago, 1956.
 
 ###  Internet Resources
 
-  * **[Our Forests Before EuroAmerican Settlement](http://www.rockisland.com/~tom/presettle.html) (on San Juan Island, with Bibliography and Primary Sources)**
-  * [Surfrider's Coastal Bibliography](http://www.surfrider.org/bibliography.html)
-  * [Resources for Teaching and Researching Northwest Environmental History](http://www.wsu.edu:8080/~forrest/)
-  * [Ravenna Creek Alliance Home Page](http://home.earthlink.net/~ravennacreek/)
-  * [The Rivers Council of Washington](http://www.brigadoon.com/~riverswa/)
-  * [San Francisco Estuary Project](http://www.abag.ca.gov/bayarea/sfep/sfep.html)
-  * [California Department of Water Resources](http://wwwdwr.water.ca.gov/)
-  * [CSIRO Division of Water Resources](http://www.clw.csiro.au/) (Australia)
-  * [Come sta Madre Terra](http://www.copin.it/ita/catania/madrterr.htm) (in Italian)
-  * [Electronic Maps of Washington State](http://fermi.jhuapl.edu/states/wa_0.html)
-  * [Electronic Maps of Washington's Watersheds](http://www.epa.gov/surf2/)
-  * [Middle East & Water Web Sites](http://www.ssc.upenn.edu/~mewin/links.html)
-  * [Working the Watershed](http://www.hcn.org/1997/mar17/dir/Feature_Working_th.html) by Richard Manning (Willapa Bay)
-  * [Living on Earth ](http://www.loe.org/)(radio show)
-  * [American Society of Environmental History Discussion List (H-ASEH)](http://h-net2.msu.edu/~aseh/)
-  * [International Rivers Network](http://www.irn.org/)
-  * [ONE/Northwest ](http://www.onenw.org/)(be sure to visit the [LightHawk Image Gallery](http://www.onenw.org/lighthawk/))
-  * [Cascade Chapter of the Sierra Club http://www.sierraclub.org/chapters/wa/](http://www.sierraclub.org/chapters/wa/)
-  * [The Natural History and Development of the Columbia River Basin](http://courses.washington.edu/tande/col/)
-  * **[Annotated Bibliographies for A Natural History of Garbage, Winter 2001](http://courses.washington.edu/tande/hg/bibs/)**
+  * **Our Forests Before EuroAmerican Settlement (on San Juan Island, with Bibliography and Primary Sources)**
+  * Surfrider's Coastal Bibliography
+  * Resources for Teaching and Researching Northwest Environmental History
+  * Ravenna Creek Alliance Home Page
+  * The Rivers Council of Washington
+  * San Francisco Estuary Project
+  * California Department of Water Resources
+  * CSIRO Division of Water Resources (Australia)
+  * Come sta Madre Terra (in Italian)
+  * Electronic Maps of Washington State
+  * Electronic Maps of Washington's Watersheds
+  * Middle East & Water Web Sites
+  * Working the Watershed by Richard Manning (Willapa Bay)
+  * Living on Earth (radio show)
+  * American Society of Environmental History Discussion List (H-ASEH)
+  * International Rivers Network
+  * ONE/Northwest (be sure to visit the LightHawk Image Gallery)
+  * Cascade Chapter of the Sierra Club http://www.sierraclub.org/chapters/wa/
+  * The Natural History and Development of the Columbia River Basin
+  * **Annotated Bibliographies for A Natural History of Garbage, Winter 2001**
 
 * * *
 
@@ -105,7 +105,7 @@ vols. Chicago, 1956.
 Suggestions for books or links you think should be on this list?  Broken
 links?  Contact me at kucher@u.washington.edu
 
-[Return to Michael Kucher's Courses](http://courses.washington.edu/tande/)
+Return to Michael Kucher's Courses
 
 (C) Copyright 1997-2001 Michael Kucher Updated 4 April  2001
 

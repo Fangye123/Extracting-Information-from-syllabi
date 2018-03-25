@@ -19,9 +19,9 @@ Dr. Linda M. Woolf
 
   * Phone: 968-6970 or 968-7062
 
-  * [woolflm@webster.edu](mailto:woolflm+aliens@webster.edu)
+  * woolflm@webster.edu
 
-  * [Woolf Web Page: http://www.webster.edu/~woolflm/](http://www.webster.edu/~woolflm/)
+  * Woolf Web Page: http://www.webster.edu/~woolflm/
 
 | ![](casttng7.jpg)  
 ---|---  
@@ -231,7 +231,7 @@ Week| Eight|  Life as a Fan
 
   
   
-[Back to Alien Minds & Cultures Page](aliens.html)
+Back to Alien Minds & Cultures Page
 
 
 

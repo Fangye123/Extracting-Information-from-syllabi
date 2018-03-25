@@ -10,8 +10,7 @@ Office Hours: Mon. & Weds 10:00 a.m. - noon
 Tues. & Weds. 5: 00 p.m. - 6:00 p.m.  
 Phone: 310-317-7602 or 310-317-7691  
 Fax: 310-317-7494  
-E-mail: [glloyd@pepperdine.edu](mailto:glloyd@pepperdine.edu) or
-[gtlloyd@earthlink.net](mailto:gtlloyd@earthlink.net)
+E-mail: glloyd@pepperdine.edu or gtlloyd@earthlink.net
 
 MPP 660  
 Class Location: SR2  

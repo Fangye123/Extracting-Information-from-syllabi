@@ -1,4 +1,4 @@
-[ graphics version ](../Courses/coursemain.htm)
+graphics version
 
 Department of Plant Biology  
   
@@ -10,21 +10,21 @@ at The Ohio State University
   
 
 
-[Undergraduate Studies ](us-introtextonly.html)
+Undergraduate Studies
 
-[Graduate Studies ](Gs-introtextonly.htm)
+Graduate Studies
 
-[Faculty and Staff](facultymaintextonly.htm)
+Faculty and Staff
 
-[Facilities](facilitymaintextonly.htm)
+Facilities
 
-[Seminars](seminar-maintextonly.htm)
+Seminars
 
-[Symposium](pbrd4textonly.htm)
+Symposium
 
-[Outreach and Alumni](outreachtextonly.html)
+Outreach and Alumni
 
-[Links](links-2textonly.htm) |  |
+Links |  |
 
 ![](../images/guardcell_sphere_small.gif)**Summer Quarter 2002 Courses**
 
@@ -41,35 +41,35 @@ at The Ohio State University
 
 For Detailed Course Information Click on Field Topic:
 
-    * [**General Plant Biology  
+    * **General Plant Biology  
   
-**](coursegeneraltextonly.htm)
+**
 
-    * [**Molecular Biology and Plant Development  
+    * **Molecular Biology and Plant Development  
   
-**](coursemolectextonly.htm)
+**
 
-    * **[Plant Structural, Developmental and Cell Biology](coursestructuraltextonly.htm)**[ **  
+    * **Plant Structural, Developmental and Cell Biology** **  
   
-**](coursestructuraltextonly.htm)
+**
 
-    * [**Biochemistry and Physiology  
+    * **Biochemistry and Physiology  
   
-**](coursephysbchemtextonly.htm)
+**
 
-    * [**Seminars/Research/Special**](courseresearchtextonly.htm)
+    * **Seminars/Research/Special**
 
 * * *
 
-[Home (text version)](plantbiotextonly.html)
+Home (text version)
 
-[Home (graphic version)](../plantbio.html)
+Home (graphic version)
 
 |
 
-[College of Biological Sciences](http://www.biosci.ohio-state.edu/) |
+College of Biological Sciences |
 
-[OSU Home ](http://www.osu.edu/)  
+OSU Home  
 ---|---|---  
 
 
@@ -82,36 +82,30 @@ For Detailed Course Information Click on Field Topic:
 **Course:** | **Title:** | **Credit Hours:** | **Instructor:** | **Lecture
 Time:**  
 ---|---|---|---|---  
-Plant Biology 101 | [Intro to Plant Biology I: Plants, People, and the
-Environment](coursegeneraltextonly.htm#101) |
+Plant Biology 101 | Intro to Plant Biology I: Plants, People, and the
+Environment |
 
 5
 
 |   | M,W,F@ 9:30  
-Plant Biology 101N | [Intro to Plant Biology I: Plants, People, and the
-Environment](coursegeneraltextonly.htm#101) | 5 |   | M,W @ 6:30 PM  
-Plant Biology 102 | [Intro to Plant Biology II: Plants, People, and the
-Environment](coursegeneraltextonly.htm#102) | 5 |   | M,W,F @ 9:30  
-Plant Biology 102N | [Intro to Plant Biology II: Plants, People, and the
-Environment](coursegeneraltextonly.htm#102) | 5 |   | M,W @ 6:30 PM  
-Plant Biology 293 | [Individual Studies](courseresearchtextonly.htm#293) | 1-5
-| Arranged | Arranged  
-Plant Biology 693 | [Individual Studies](courseresearchtextonly.htm#693) | 1-5
-| Arranged | Arranged  
-Plant Biology H783 | [Honors Research](courseresearchtextonly.htm#H783) | 3-5
-|
+Plant Biology 101N | Intro to Plant Biology I: Plants, People, and the
+Environment | 5 |   | M,W @ 6:30 PM  
+Plant Biology 102 | Intro to Plant Biology II: Plants, People, and the
+Environment | 5 |   | M,W,F @ 9:30  
+Plant Biology 102N | Intro to Plant Biology II: Plants, People, and the
+Environment | 5 |   | M,W @ 6:30 PM  
+Plant Biology 293 | Individual Studies | 1-5 | Arranged | Arranged  
+Plant Biology 693 | Individual Studies | 1-5 | Arranged | Arranged  
+Plant Biology H783 | Honors Research | 3-5 |
 
 Arranged
 
 | Arranged  
-Plant Biology 998 | [Research (Masters)](courseresearchtextonly.htm#998) |
-1-18 | Arranged | Arranged  
-Plant Biology 999 | [Research (Ph.D.)](courseresearchtextonly.htm#999) | 1-18
-| Arranged | Arranged  
+Plant Biology 998 | Research (Masters) | 1-18 | Arranged | Arranged  
+Plant Biology 999 | Research (Ph.D.) | 1-18 | Arranged | Arranged  
   
 **For a more detailed listing of section times, click on this
-link:[http://www.ureg.ohio-state.edu/course/summer/](http://www.ureg.ohio-
-state.edu/course/summer/msched/M080.htm)**
+link:http://www.ureg.ohio-state.edu/course/summer/**
 
 * * *
 
@@ -120,58 +114,46 @@ state.edu/course/summer/msched/M080.htm)**
 **Course:** | **Title:** | **Credit Hours:** | **Instructor:** | **Lecture
 Time:**  
 ---|---|---|---|---  
-[Plant Biology 101](pb101/101main.htm) | [Intro to Plant Biology I: Plants,
-People, and the Environment](coursegeneraltextonly.htm#101) |
+Plant Biology 101 | Intro to Plant Biology I: Plants, People, and the
+Environment |
 
 5
 
 | Dr. Jensen | M, W, F @ 1:30  
-Plant Biology 203 | [Plant Growth Physiology](coursephysbchemtextonly.htm#203)
-| 4 | Dr. Raghavan | M,W,F  
+Plant Biology 203 | Plant Growth Physiology | 4 | Dr. Raghavan | M,W,F  
 @ 9:30  
-Plant Biology 293 | [Individual Studies](courseresearchtextonly.htm#293) | 1-5
-| Arranged | Arranged  
+Plant Biology 293 | Individual Studies | 1-5 | Arranged | Arranged  
 Plant Biology 300 |
 
-[General Plant Biology  
-](coursegeneraltextonly.htm#300)[(Syllabus: Autumn
-2000](../Courses/pb3002000syllabus.html))
+General Plant Biology  
+(Syllabus: Autumn 2000)
 
 | 5 | Dr. Sack | M,W,F @ 12:30  
-Plant Biology 436 | [Introductory Plant
-Physiology](coursephysbchemtextonly.htm#436) | 5 | Dr. Cline | MTWR @ 9:30  
-Plant Biology 604.01 | [Research Methods in Plant Science: Whole
-Plant](courseresearchtextonly.htm#604) | 4 | Dr. Knee |
+Plant Biology 436 | Introductory Plant Physiology | 5 | Dr. Cline | MTWR @
+9:30  
+Plant Biology 604.01 | Research Methods in Plant Science: Whole Plant | 4 |
+Dr. Knee |
 
 T,R @ 12:30  
   
-Plant Biology 623 | [Plant Genetics & Genomics](coursemolectextonly.htm#623) |
-4 | Dr. Scholl |
+Plant Biology 623 | Plant Genetics & Genomics | 4 | Dr. Scholl |
 
 M,T,W,R @ 10:30  
   
-Plant Biology 630 | [Plant Physiology](coursephysbchemtextonly.htm#630) | 3 |
-Dr. Armstrong | M,W,F @ 1:30  
-Plant Biology 650 | [Biological
-Microtechnique](courseresearchtextonly.htm#650)  
-([Syllabus: Autumn 2002](../Courses/pb650syllabusau02.html)) | 3 | Dr. Ding |
-T,R @ 9:30  
-Plant Biology 693 | [Individual Studies](courseresearchtextonly.htm#693) | 1-5
-| Arranged | Arranged  
-Plant Biology 735 | [Plant Biochemistry I](coursephysbchemtextonly.htm#735) |
-3 |
+Plant Biology 630 | Plant Physiology | 3 | Dr. Armstrong | M,W,F @ 1:30  
+Plant Biology 650 | Biological Microtechnique  
+(Syllabus: Autumn 2002) | 3 | Dr. Ding | T,R @ 9:30  
+Plant Biology 693 | Individual Studies | 1-5 | Arranged | Arranged  
+Plant Biology 735 | Plant Biochemistry I | 3 |
 
 Dr. Sayre
 
 | M,W,F @ 11:30  
-Plant Biology 998 | [Research (Masters)](courseresearchtextonly.htm#998) |
-1-18 | Arranged | Arranged  
-Plant Biology 999 | [Research (Ph.D.)](courseresearchtextonly.htm#999) | 1-18
-| Arranged | Arranged  
+Plant Biology 998 | Research (Masters) | 1-18 | Arranged | Arranged  
+Plant Biology 999 | Research (Ph.D.) | 1-18 | Arranged | Arranged  
   
 **For a more detailed listing of section times, click on this
-link:[http://www.ureg.ohio-state.edu/course/autumn/](http://www.ureg.ohio-
-state.edu/course/autumn/msched/M080.htm)**
+link:http://www.ureg.ohio-state.edu/course/autumn/**
 
 * * *
 
@@ -199,34 +181,31 @@ state.edu/course/autumn/msched/M080.htm)**
 **X** | **X**  
 203 | Plant Growth Physiology |   |   | **X** |    |   |   |  
 H250 | Frontiers in Plant Biology |   |   |   |   | **X** |    |  
-300 | General Plant Biology [(Syllabus: Autumn
-2000](../Courses/pb3002000syllabus.html)) |   |   | **X** |    | **X** |    |  
+300 | General Plant Biology (Syllabus: Autumn 2000) |   |   | **X** |    |
+**X** |    |  
 402 | Plant Development |   |   |   |   | **X** |    |  
 436 | Introductory Plant Physiology |   |   | **X** |    |   | **X** |  
-604.02 | Research Methods in Plant Science: Cells & Tissues ([Syllabus: Winter
-2002](../Courses/604_02_Syllabus_2002.htm)) |   |   |   |   | **X** |    |  
-622 | Plant Molecular Biology [(Syllabus](../Courses/622_syllabus.htm))  |   |
-|   |   | **X** |    |  
+604.02 | Research Methods in Plant Science: Cells & Tissues (Syllabus: Winter
+2002) |   |   |   |   | **X** |    |  
+622 | Plant Molecular Biology (Syllabus)  |   |   |   |   | **X** |    |  
 623 |  Plant Genetics & Genomics |   |   | **X** |    |   |   |  
-625 | Plant Metabolic Engineering [(Syllabus) ](../Courses/625_syllabus.htm) |
-|   |   |   | **X** |    |  
+625 | Plant Metabolic Engineering (Syllabus)  |   |   |   |   | **X** |    |  
 630 | Plant Physiology |   |   | **X** |    |   |   |  
 631 | Plant Physiology |   |   |   |   |   | **X** |  
 643 |
 
-Plant Anatomy [(Syllabus: Spring 2001](../Courses/pb643syllabus.html))  |   |
-|   |   |   | **X** |  
+Plant Anatomy (Syllabus: Spring 2001)  |   |   |   |   |   | **X** |  
 648 |
 
-Plant Cell Biology [(Syllabus: Winter 2000](../Courses/pb648syllabus.html))
+Plant Cell Biology (Syllabus: Winter 2000)
 
 |   |   |   |   |   |   |  
-650 | Biological Microtechniques ([Syllabus: Autumn
-2002](../Courses/pb650syllabusau02.html)) |   |   | **X** |    |   |   |  
-735 | Plant Biochemistry I ([Syllabus: Autumn
-2001](../Courses/735_Syllabus_2001.htm)) |   |   | **X** |    |   |   |  
-736 | Plant Biochemistry II ([Syllabus: Spring
-2002](../Courses/PB_736_Syllabus.html)) |   |   |   |   |   | **X** |  
+650 | Biological Microtechniques (Syllabus: Autumn 2002) |   |   | **X** |
+|   |   |  
+735 | Plant Biochemistry I (Syllabus: Autumn 2001) |   |   | **X** |    |   |
+|  
+736 | Plant Biochemistry II (Syllabus: Spring 2002) |   |   |   |   |   |
+**X** |  
 H783 | Honors Research |   |   |   |   |   |   |  
 803 | Seminar in Developmental & Regulatory Plant Bio. |   |   |   |   |   |
 **X** |  

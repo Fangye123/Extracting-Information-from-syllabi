@@ -2,11 +2,9 @@
 
 # Operating Systems: Syllabus
 
-Daniel E. Bromberg, Adjunct Professor  |  [
-bromberg@eecs.tufts.edu](mailto:bromberg@eecs.tufts.edu)  
+Daniel E. Bromberg, Adjunct Professor  |  bromberg@eecs.tufts.edu  
 ---|---  
-John Hart, Teaching Assistant  |
-[jhart@eecs.tufts.edu](mailto:jhart@eecs.tufts.edu)  
+John Hart, Teaching Assistant  |  jhart@eecs.tufts.edu  
   
 * * *
 
@@ -153,7 +151,7 @@ access course website, submit programs, read and download course materials.
 
 ### Prerequisites
 
-[Intro: COMP-11](../../comp/11) and [Data Structures: COMP-15](../../comp/15);  
+Intro: COMP-11 and Data Structures: COMP-15;  
 Familiarity with using Emacs/C compiler on Unix  
 Curiosity about Systems
 
@@ -205,9 +203,9 @@ so that he can understand your strengths and weaknesses and better help you.
 Prof. Bromberg will most likely hold his hours just before class 3:00-4:30 Tue
 and Thu. The remainder are TBA. We will survey best times at the 1st class
 meeting.  
-**On-Line Help** |  In order: check the course website, e-mail [ course staff:
-staff128@eecs.tufts.edu](mailto:staff128@eecs.tufts.edu)**. We will be
-checking our e-mail constantly and can usually reply within a day.
+**On-Line Help** |  In order: check the course website, e-mail  course staff:
+staff128@eecs.tufts.edu**. We will be checking our e-mail constantly and can
+usually reply within a day.
 
 There is no such thing as a stupid question so please be forthcoming. There
 _is_ such a thing as an un-researched question: we are not inclined to repeat
@@ -230,15 +228,12 @@ before you are done.**
 
 Copying of code or prose is from others is not only self-defeating and easy to
 detect (even in programming, everybody's style is different), **it invokes
-undergraduate-wide policies on academic dishonesty.** Please see [ these
-policies](http://www.ase.tufts.edu/deanstu/pachy/pachypolicies/academicinteg.html)
-for details.  
+undergraduate-wide policies on academic dishonesty.** Please see  these
+policies for details.  
 **Facilities** |  Halligan Hall Sun workstation labs. Details TBA.  
 **Accounts** |  You should already have a Unix account and be able to login to
-the Sun clusters. E-mail [EECS staff](mailto:staff@eecs.tufts.edu) if you need
-any help with your account.  
-**Web Site** |  Please frequent [
-http://www.eecs.tufts.edu/g/ee128](http://www.eecs.tufts.edu/g/ee128) for
+the Sun clusters. E-mail EECS staff if you need any help with your account.  
+**Web Site** |  Please frequent  http://www.eecs.tufts.edu/g/ee128 for
 updates.  
   
 * * *
@@ -295,62 +290,29 @@ Last day** | Summary - Where to go next - Suggestions for further research |
   
 Page accesses:  _Last modified: Wed Jan 08 EDT 2001_
 
-  * [
+  * ### Main Page
 
-### Main Page
+  * ### Announcements and News
 
-](./main.php)
+  * ### TA hours
 
-  * [
+  * ### Syllabus
 
-### Announcements and News
+  * ### Lecture Slides, Section, & Homeworks
 
-](./motd/index.cgi)
+  * ### Additional Hints & Reference
 
-  * [
+  * ### Q & A Archive: Assignment Questions
 
-### TA hours
-
-](./tahours.php)
-
-  * [
-
-### Syllabus
-
-](./syllabus.php)
-
-  * [
-
-### Lecture Slides, Section, & Homeworks
-
-](./lechw.php)
-
-  * [
-
-### Additional Hints & Reference
-
-](./ref.php)
-
-  * [
-
-### Q & A Archive: Assignment Questions
-
-](./qna.php)
-
-  * [
-
-### Submit Assignment
-
-](./submit.php)
+  * ### Submit Assignment
 
 * * *
 
 ### EECS Department Administration
 
-[Tufts EECS Home](http://www.eecs.tufts.edu)  
+Tufts EECS Home  
 ---  
-[ COMP 111 Course Catalog
-Entry](../../academics/getcourses.php3?class=comp0111)  
+COMP 111 Course Catalog Entry  
   
 * * *
 

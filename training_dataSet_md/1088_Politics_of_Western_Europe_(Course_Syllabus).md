@@ -1,6 +1,6 @@
   
 ---  
-[![Faculty Page](fac.gif)](http://www.polisci.ccsu.edu/faculty.htm#petterson)
+![Faculty Page](fac.gif)
 
 **COURSE SYLLABUS - PS 336 (01) - Fall 2000**  
 **Politics of Western Europe**  
@@ -151,9 +151,7 @@ December 11,13,15 | The Future of Europe: Summary and Review
 December 20, 2 PM | **FINAL EXAM**  
   
     
-  [![Faculty
-Page](fac.gif)](http://www.polisci.ccsu.edu/faculty.htm#petterson) | [![P.S.
-Home Page](home.gif)](http://www.polisci.ccsu.edu/default.html)  
+  ![Faculty Page](fac.gif) | ![P.S. Home Page](home.gif)  
 ---|---  
 ---
 

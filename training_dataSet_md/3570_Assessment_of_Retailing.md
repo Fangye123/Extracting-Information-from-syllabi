@@ -136,12 +136,10 @@ inability of the student to register for the following semester's classes.
 
   
 
-[[USC Homepage](http://www.sc.edu)] [[IPA Homepage](http://kudzu.ipr.sc.edu)]  
-[[Accountability](http://kudzu.ipr.sc.edu/accnt.htm)] [[Institutional
-Effectiveness Reports](http://kudzu.ipr.sc.edu/iereports.htm)] [[USC Columbia
-2000](http://kudzu.ipr.sc.edu/IEReports/Cola2000/cola2000.htm)]  
+[USC Homepage] [IPA Homepage]  
+[Accountability] [Institutional Effectiveness Reports] [USC Columbia 2000]  
 Last update: 5 July 2000  
-This page administered by [Russell Long](mailto:Russell.Long@sc.edu).  
+This page administered by Russell Long.  
 This page copyright (C) 2000, The Board of Trustees of the University of South
 Carolina.  
 URL http://kudzu.ipr.sc.edu/IEReports/Cola2000/retail.htm  

@@ -83,28 +83,28 @@ class or online articles that you may find at:  www.rci.rutgers.edu/~marinos.
 **September 19**  
 
 
-  * ["Anghelos Sikelianos and his Vision of Greece" Philip Sherrard](http://www.rci.rutgers.edu/~marinos/Sikelianos.html)
-  * [Angelos Sikelianos: Selected Poems](http://www.rci.rutgers.edu/~marinos/Sikelianos_Poems.html)
+  * "Anghelos Sikelianos and his Vision of Greece" Philip Sherrard
+  * Angelos Sikelianos: Selected Poems
 
 * * *
 
 **September 24**
 
-  *  [Angelos Sikelianos:  Selected Poems](http://www.rci.rutgers.edu/~marinos/Sikelianos_Poems.html)
-  *  [Nikos Kazantzakis, "My Friend the Poet. Mount Athos"](http://www.rci.rutgers.edu/~marinos/Sikelianos_Kazantzakis.html)
+  *  Angelos Sikelianos:  Selected Poems
+  *  Nikos Kazantzakis, "My Friend the Poet. Mount Athos"
 
 * * *
 
 **September 26**
 
-  * [Seferis "Mythistorima" & Selected Poems](http://www.rci.rutgers.edu/~marinos/seferisselectedpoems.html)
-  * [T.S. Eliot "Ulysses, Order and Myth"](http://www.rci.rutgers.edu/~marinos/Eliot_MythicalMethod.html)
+  * Seferis "Mythistorima" & Selected Poems
+  * T.S. Eliot "Ulysses, Order and Myth"
 
 * * *
 
 **October 01**
 
-  *   [Seferis "Mythistorima" and Selected Poems](http://www.rci.rutgers.edu/~marinos/seferisselectedpoems.html)
+  *   Seferis "Mythistorima" and Selected Poems
   *   "Mythologia" Music by Manos Hadjidakis, lyrics by Nikos Gatsos
 
 * * *
@@ -112,14 +112,14 @@ class or online articles that you may find at:  www.rci.rutgers.edu/~marinos.
 **October 03**
 
   *   "Iphigenia"  written and directed by Michael Cacoyannis
-  *    [Euripides "Iphigenia At Aulis"](http://classics.mit.edu/Euripides/iphi_aul.html) (or any other translation of the play)
+  *    Euripides "Iphigenia At Aulis" (or any other translation of the play)
 
 * * *
 
 **October 08**
 
   *   "Iphigenia"   written and directed by Michael Cacoyannis
-  *    [Euripides  "Iphigenia in Tauris"](http://classics.mit.edu/Euripides/iph_taur.html) (or any other translation of the play)
+  *    Euripides  "Iphigenia in Tauris" (or any other translation of the play)
 
 * * *
 
@@ -187,14 +187,14 @@ class or online articles that you may find at:  www.rci.rutgers.edu/~marinos.
 **November 14**
 
   * "Eternity and a Day" a film by Theo Angelopoulos / Discussion
-  * [Steven Walker "Eternity and a Day" (film review)](http://www.cgjungpage.org/films/eternity.html)
-  * [Puer Aeternus (in Jung Lexicon)](http://www.cgjungpage.org/jplexiconi2p.html#I)
+  * Steven Walker "Eternity and a Day" (film review)
+  * Puer Aeternus (in Jung Lexicon)
 
 * * *
 
 **November 19**
 
-  *   [Menis Koumandareas "The Bath"](http://www.rci.rutgers.edu/~marinos/koumandareas.html)
+  *   Menis Koumandareas "The Bath"
 
 * * *
 

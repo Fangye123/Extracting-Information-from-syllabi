@@ -35,13 +35,13 @@ transmission or record keeping.**
 
 **Skip Lohse**
 
-**[lohserne@isu.edu](mailto:lohserne@isu.edu)**
+**lohserne@isu.edu**
 
 **208-282-5189**
 
 **Robert Schlader, graduate assistant**
 
-**[schlrobe@isu.edu](mailto:schlrobe@isu.edu)**
+**schlrobe@isu.edu**
 
 **Course Objective :**
 
@@ -80,8 +80,8 @@ No.28, Idaho Museum of Natural History, Pocatello.**
 
 **Lohse, E.S. and D. Sammons**
 
-**2001[ _DIGITAL Stones_. Interactive CD-ROM. Special Publication of the Idaho
-Museum of Natural History, Pocatello](digitalccd.htm). **
+**2001 _DIGITAL Stones_. Interactive CD-ROM. Special Publication of the Idaho
+Museum of Natural History, Pocatello. **
 
 **Schedule**
 
@@ -104,8 +104,7 @@ _****Chatroom 1: Introduction
 Read: _Digital Stones_ : Functional Analysis  
 Film: View _Ancient Projectile Points  
 _ Chatroom 2: Technologies of production  
-****Project due: [Generalized core
-production](schedule/exercises/gencore.htg/gencore.htm)  
+****Project due: Generalized core production  
 ****Quiz 2**
 
 **Week 5  
@@ -127,8 +126,7 @@ Read: _Digital Stones_ : Models and Lithic Analysis
 **
 
 **Week 8  
-Project due: [Prepared core
-reduction](schedule/exercises/coreprep.htg/coreprep.htm)  
+Project due: Prepared core reduction  
 ****Chatroom 6: Guest Expert  
 ****Midterm Examination 1**
 
@@ -137,7 +135,7 @@ Chatroom 7: Guest Expert
 ****Quiz 6**
 
 **Week 10  
-Project due: [Scrapers](schedule/exercises/handscrap.htg/scraphand.htm)  
+Project due: Scrapers  
 ****Chatroom 8: Guest Expert  
 ****Quiz 7**
 
@@ -146,9 +144,7 @@ Chatroom 9: Guest Expert
 ****Quiz 8**
 
 **Week 12  
-Project due: [Prismatic Blade
-Reduction](schedule/exercises/blades.htg/blades.htm) or [Microblade
-Reduction](schedule/exercises/microblade.htg/microblade.htm)  
+Project due: Prismatic Blade Reduction or Microblade Reduction  
 ****Chatroom 10  
 ****Quiz 9**
 
@@ -157,8 +153,7 @@ Field Trip
 ****Quiz 10**
 
 **Week 14  
-Project due: Knives, [Points](schedule/exercises/projpts.htg/projpts.htm) or
-[Composite Blade Tools](schedule/exercises/composite.htg/composite.htm)  
+Project due: Knives, Points or Composite Blade Tools  
 **
 
 **Week 15  

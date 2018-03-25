@@ -22,7 +22,7 @@
 
 ####  Discussion: The Internet
 
-  * Review the section on [computers](../../general/best/bestplan.htm#anchor1064056) in "Be Your Best."
+  * Review the section on computers in "Be Your Best."
   * If you would like additional instruction on using computers, come to my workshop at 10 a.m. on Wednesday, August 27, in the Dial computer lab. Bring your diskettes, computer paper, and e-mail information.
   * Make sure that you have an e-mail address by the end of this week. See me if you need a form.
   * Visit www.excite.com, personalize a page, and set up a clipping service to give you news about the English language. Read this news regularly and be prepared to discuss the issues raised here in class discussions. 
@@ -82,13 +82,12 @@ arms, because he hain't.''
 goes out of this--because he's going out right, and there ain't going to be no
 flaws in his record.''
 
-(Text courtesy of [University of Toronto English
-Library](http://dev.library.utoronto.ca/utel/index.html)) |
+(Text courtesy of University of Toronto English Library) |
 
 #### Assignments
 
   * _An Introduction to Language_ , Chapter 1
-  * ["How Much Do You Know About English Grammar?"](http://www.uncp.edu/home/canada/work/caneng/gramquiz.htm) 
+  * "How Much Do You Know About English Grammar?" 
 
 #### Terms
 
@@ -219,7 +218,7 @@ different intonation and analyze the different effects.
 
   * In the computer lab, insert your diskette in the A drive of a computer and launch the e-mail software called Eudora. Place your cursor in the box labeled "POP account number" and type your e-mail address. Example: wshakespeare@papa.uncp.edu. Press the TAB key and type your name in the next box. Finally, type your e-mail address again in the "Return address" box. Click on "OK." You now have stored your e-mail information on this diskette. Label it "Eudora e-mail" and carry it with you at all times.
   * Practice sending a message. Click on the picture of a pencil and paper. In the box that appears, type **listserv@papa.uncp.edu** next to the word  "To." Tab down to the message field and type **SUBSCRIBE ENG521**. Click on  "Send." You have joined the list serve for this class. Whenever you want to send a question, comment, or idea to me and your classmates, you can send it to **ENG521@papa.uncp.edu** , and everyone in the class will receive it. I will use the list serve to pass along announcements and to share tidbits on language. We also will use the list serve to share our journals for this class. Be sure to check your e-mail before each class meeting.
-  * Practice using Netscape Composer to build a World Wide Web site. See the [instructions](../../general/best/bestplan.htm#anchor137900) on "Be Your Best." 
+  * Practice using Netscape Composer to build a World Wide Web site. See the instructions on "Be Your Best." 
 
 #### Journal 1: Dialect
 
@@ -365,7 +364,7 @@ the different dictionaries. Submit your response to the online forum.
 
   * _An Introduction to Language_ , chapters 3 and 11
   * _The Origins and Development of the English Language_ , chapters 9 and 11
-  * Visit the [Merriam-Webster World Wide Web site](http://www.m-w.com/) and subscribe to "Word of the Day."
+  * Visit the Merriam-Webster World Wide Web site and subscribe to "Word of the Day."
   * Journal 2 
 
 #### Terms
@@ -692,10 +691,9 @@ things you may want to consider:
 Try to refer to terms and concepts we have studied, as well as any books--the
 _OED_ and books by Crystal and Orwell, for example--that can illuminate your
 analysis. A number of speeches are available on the World Wide Web. For a
-recent presidential speech, for example, visit the [White House's
-site](http://www.whitehouse.gov/). For older speeches and documents, visit the
-[University of Virginia Library electronic text
-center](http://etext.lib.virginia.edu/) or a similar site. |
+recent presidential speech, for example, visit the White House's site. For
+older speeches and documents, visit the University of Virginia Library
+electronic text center or a similar site. |
 
 ####  Assignments
 
@@ -806,9 +804,7 @@ center](http://etext.lib.virginia.edu/) or a similar site. |
 
 #### Individual Exercise: Linguistic Fingerprints
 
-Read these
-[passages](http://www.uncp.edu/home/canada/work/markport/language/ameng/passages.htm)
-and answer the following questions:
+Read these passages and answer the following questions:
 
   * Two of these passages were written by the same person. Which ones are they? Defend your answer by referring to patterns in lexicon and syntax.
   * Try to identify this author further. Is the writer male or female? What is his or her race? When did he or she live? Again, defend your answer.
@@ -819,7 +815,7 @@ and answer the following questions:
 
   * _An Introduction to Language_ , chapters 2, 8, 9, and 12
   * "Primary Culprit"
-  * [Books](../../../caneng/books.htm) 
+  * Books 
 
 #### Terms
 
@@ -862,16 +858,13 @@ In this two-part journal, you will teach a concept in sociolinguistics to your
 classmates. First, choose one of the terms at the right, write a definition of
 it in your own words, illustrate the concept with one or more examples that
 you have found outside our textbook, compile a list of at least two sources
-related to the concept, and submit this summary to the [Online
-forum](http://www.uncp.edu/cgi-bin/forum?key=6543eda3). In the second half of
-the assignment, you will present the concept to the rest of the class and lead
-us through an exercise on it.
+related to the concept, and submit this summary to the Online forum. In the
+second half of the assignment, you will present the concept to the rest of the
+class and lead us through an exercise on it.
 
 #### Group Exercise: Sociolinguistic Phenomena
 
-Translate the [Gettysburg
-Address](http://www.loc.gov/exhibits/gadd/gatr2.html) into one of the
-following:
+Translate the Gettysburg Address into one of the following:
 
   * slang
   * the jargon of a particular field
@@ -921,7 +914,7 @@ following:
   
 ---|---  
   
-(C) [Mark Canada](../../markwork.htm), 1998
+(C) Mark Canada, 1998
 
 
 

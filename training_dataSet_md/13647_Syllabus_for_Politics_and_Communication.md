@@ -3,9 +3,8 @@
 **POLITICS AND COMMUNICATION:  
 THE MEXICAN MASS MEDIA AS AN ECOSYSTEM**
 
-**Instructors:** [Doug Barkey](../DouglasBarkey/barkeyhome.html)
-(barkey@ecology.coa.edu) and [Gray
-Cox](http://www.coa.edu/%7Egray/fquilt.html) (gray@ecology.coa.edu)
+**Instructors:** Doug Barkey (barkey@ecology.coa.edu) and Gray Cox
+(gray@ecology.coa.edu)
 
 
 
@@ -13,7 +12,7 @@ Cox](http://www.coa.edu/%7Egray/fquilt.html) (gray@ecology.coa.edu)
 
 * * *
 
-[![](brodie/images/plazabut.jpg)](MMM.html)
+![](brodie/images/plazabut.jpg)
 
 * * *
 
@@ -30,7 +29,7 @@ heard and how. We will look at art, design and political realities in public
 forums such as plazas, churches, newspapers, and television. We will use
 historical case studies to understand contemporary political realities.
 Students will learn how to create Internet homepages. As a class we will
-create an [Internetweb site](MMM.html) based on course themes:
+create an Internetweb site based on course themes:
 
 * How do the mass media persuade, manipulate, and coerce? * How can mass media be used to liverate the oppressed? What would a useful and accessible "readers guide" to mass media in Mexico or the U. S. or elsewhere look like? How might it be presented on the Internet? * How was the Internet crucial to the success of the Zapatista revolt in Chiapas? * How has the experience of public space been changed through out history as Mayan ceremonial centers were deconstructed and transformed into Spanish plazas? * How are aesthetic and political traditions of the plaza informing the virtual world of the Internet? 
 
@@ -57,13 +56,11 @@ discussion, small group activities, and computer work.
 
 1 Introduction and Syllabus Review 30 min
 
-Initial Discussion of Viewpoints and Metaphors through [Virgin of
-Guadalupe,](virgen.html)
+Initial Discussion of Viewpoints and Metaphors through Virgin of Guadalupe,
 
-[Plaza de Toros,](toros.html) [Central Plaza](plaza.html), Zapata and the
-Zapatistas 30 min
+Plaza de Toros, Central Plaza, Zapata and the Zapatistas 30 min
 
-[How to use Macs](Macos.html), Netscaping the Internet 30 min
+How to use Macs, Netscaping the Internet 30 min
 
 Assignment: Find specific information on the Internet -- a treasure hunt
 
@@ -73,9 +70,9 @@ Assignment: Find specific information on the Internet -- a treasure hunt
 
 History of the Internet with examples dealing with Chiapas 30 min
 
-Netscaping details, [Basic use of Adobe Pagemill](basicpm.html) 90 min
+Netscaping details, Basic use of Adobe Pagemill 90 min
 
-[Elements of Design](designele.html) 30 min
+Elements of Design 30 min
 
 
 
@@ -83,15 +80,15 @@ Netscaping details, [Basic use of Adobe Pagemill](basicpm.html) 90 min
 
 Mayan and Aztec politics and communication 60 min
 
-[Principles of Design](designprin.html) 30 min
+Principles of Design 30 min
 
 
 
 4 Initial Annotated Bibliography and Internet References DUE 60 min
 
-[Working Parameters](parameters.html), Review of Pagemill and
+Working Parameters, Review of Pagemill and
 
-[Creating Links in Pagemill](pmlinks.html) 90 min
+Creating Links in Pagemill 90 min
 
 Work time 30 min
 
@@ -99,8 +96,7 @@ Work time 30 min
 
 5 VIDEO: The Virgin and the Bull 60 min
 
-[Basic color theory](colort.html) [Feedback from Gray re:
-Bibliographies](rr.html) 30 min
+Basic color theory Feedback from Gray re: Bibliographies 30 min
 
 
 
@@ -114,7 +110,7 @@ Work time 30 min
 
 7 Squaring the Triangle: Soldiers, Priests, Plazas and Peasants 60 min
 
-[Basic Typography](type.html) 30 min
+Basic Typography 30 min
 
 
 
@@ -124,7 +120,7 @@ Work time 30 min
 
 
 
-9 Discussion of [Criteria for critique](critique.html) of Dimension 30min
+9 Discussion of Criteria for critique of Dimension 30min
 
 Critique of Sites (Diario del Yucatan, CNN, Hotwired) 30min
 
@@ -164,20 +160,15 @@ and Guest Review of Website
 
 
 
-15 Review of sketches for plaza metaphor. [Mythmaking as
-ideology:](myths.html)
+15 Review of sketches for plaza metaphor. Mythmaking as ideology:
 
-Images from the [Maya](cox/mythsoutline.html) to
-[Siqueiros](http://www.conet.com.mx/macg/siqueiro.HTM),
-**[Riviera](http://www.conet.com.mx/macg/RIVERA.HTM)** , and [Orozco .
-](http://www.conet.com.mx/macg/orozco.htm)
+Images from the Maya to Siqueiros, **Riviera** , and Orozco .
 
 
 
 
 
-16 [Markets](mercado.html) and [Malls](mall.html): Mythmaking as advertising:
-how the
+16 Markets and Malls: Mythmaking as advertising: how the
 
 mass media constructs cultural ideology: Discussion of
 
@@ -287,21 +278,12 @@ EVALUATION.
   
   
 
-[COA At a Glance](http://www.coa.edu/ataglance/index.html) |
-[Admission/Financial Aid](http://www.coa.edu/index.html) | [Academic
-Program](http://www.coa.edu/academicprogram/index.html) | [Summer
-Programs](http://www.coa.edu/summer/index.html)  
-[Campus Life](http://www.coa.edu/campuslife/index.html) | [Faculty &
-Staff](http://www.coa.edu/faculty/index.html) | [Offices &
-Facilities](http://www.coa.edu/facilities/index.html) |
-[Alumni](http://www.coa.edu/alumni/index.html) | [News &
-Events](http://www.coa.edu/news/index.html)  
-[Associated Programs](http://www.coa.edu/assocprograms/index.html) | [What's
-New](http://www.coa.edu/whatsnew/index.html) |
-[Home](http://www.coa.edu/index.html)  
+COA At a Glance | Admission/Financial Aid | Academic Program | Summer Programs  
+Campus Life | Faculty & Staff | Offices & Facilities | Alumni | News & Events  
+Associated Programs | What's New | Home  
   
 College of the Atlantic * 105 Eden St. * Bar Harbor, ME 04609  
 Phone: (207) 288-5015 * Fax: (207) 288-4126  
 Admissions/Financial Aid only: 800-528-0025  
-e-mail: [inquiry@ecology.coa.edu](mailto:inquiry@ecology.coa.edu)
+e-mail: inquiry@ecology.coa.edu
 

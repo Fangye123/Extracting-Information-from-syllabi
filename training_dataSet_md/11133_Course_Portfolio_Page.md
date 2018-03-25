@@ -2,11 +2,11 @@
 
 **Course Portfolio Page**
 
-**[Randy Bass](mailto:rbass@guvax.georgetown.edu) (Georetown University)**
+**Randy Bass (Georetown University)**
 
 **course portfolios for:**
 
-    **AMST203:[American Civilization I](portfolio.html#amciv)**
+    **AMST203:American Civilization I**
     **ENGL 143:American Literary Traditions**
     **ENGL  511: Text, Knowledge, and Pedagogy in the Electronic Age**
 
@@ -15,7 +15,7 @@ course portfolio is a new relatively experimental genre for reflecting on
 one's teaching. I am developing these course portfolios as a participant in
 the Course Portfolio study group that is part of the AAHE Peer Review of
 Teaching Initiative. (For a fuller description of course portfolios and their
-rationale, follow this link to [About Course Portfolios](aboutcp.html).)
+rationale, follow this link to About Course Portfolios.)
 
 These course portfolios are **_hypertext_ course portfolios**. They not only
 attempt to represent my reflections on teaching and student learning in my
@@ -31,14 +31,13 @@ portfolios:
 
 * * *
 
-**AMST203:[American Civilization I](cpamciv.html)**
+**AMST203:American Civilization I**
 
-     This course portfolio addresses the first semester of the American Civilization core course sequence which I will have taught five times by fall 1997. The primary focus of the portfolio is our investigation in this course of ways to incorporate new technologies into the teaching of an introductory interdisciplinary experience so that students are effectively exposed to the tools and methodologies for doing cultural inquiry. For the broader context of the American Civilization core, see the [American Studies Program](http://www.georgetown.edu/departments/amer_studies/) home page. 
+     This course portfolio addresses the first semester of the American Civilization core course sequence which I will have taught five times by fall 1997. The primary focus of the portfolio is our investigation in this course of ways to incorporate new technologies into the teaching of an introductory interdisciplinary experience so that students are effectively exposed to the tools and methodologies for doing cultural inquiry. For the broader context of the American Civilization core, see the American Studies Program home page. 
 
 * * *
 
-**ENGL 143:[American Literary
-Traditions](http://www.georgetown.edu/bassr/traditions.html)**
+**ENGL 143:American Literary Traditions**
 
 This course portfolio reflects on a new course that I taught for the first
 time in spring 1997. American Literary Traditions was the first literature
@@ -46,12 +45,10 @@ course that I had taught with a significant computing component. Half of the
 of the classes for this course were held in a networked computing lab, with
 the other half being held in a traditional classroom. This course portfolio
 reviews the lessons learned from the first offering of this format, as well as
-a reflection the extensive electronic [student
-work](http://www.georgetown.edu/bassr/218/projects/student_projects.html)
-produced in the course. In particular, I am interested in asking what
-computer-based work adds to the traditional format for a literary traditions
-course. Follow this link to go direclty to the [American Literary
-Traditions](http://www.georgetown.edu/bassr/traditions.html) home page.
+a reflection the extensive electronic student work produced in the course. In
+particular, I am interested in asking what computer-based work adds to the
+traditional format for a literary traditions course. Follow this link to go
+direclty to the American Literary Traditions home page.
 
 * * *
 
@@ -62,19 +59,17 @@ This course portfolio addresses a graduate level course in electronic
 textuality and cultural knowledge that I have taught twice. The primary focus
 of this course portfolio is the continued refinement of a course model for a
 graduate level introduction to the theory, practice, and pedagogy of
-electronic textuality. Follow this link to go directly to the [Bigger Place to
-Play](www.georgetown.edu/bassr/511/bpp97.html) course home page; or see also,
-the [spring 1996 version of the
-syllabus](otal.umd.edu/~googie/bass/bassdemo.html). If you are interested in
-seeing the [final student projects for the course, go
-here](www.georgetown.edu/bassr/511/final/).
+electronic textuality. Follow this link to go directly to the Bigger Place to
+Play course home page; or see also, the spring 1996 version of the syllabus.
+If you are interested in seeing the final student projects for the course, go
+here.
 
 * * *
 
 **Related Materials and Links**
 
-  * [About Course Portfolios:](aboutcp.html) my own description of the course portfolio genre and project. 
-  * [Evaluation of Faculty Work with Technology:](facwork) an outline of issues related to the electronic representation of teaching and the evaluation of faculty work with information technologies in their teaching, research, and professional activity. 
-  * A page of links to [resources dealing with the issues of tenure, recognition, and technology](http://www.rpi.edu/~doherm/recognition/), set up by one of the editors of Kairos.
-  * Special issue of the electronic journal, _Kairos_ , on [Tenure and Technology](http://english.ttu.edu/kairos/). 
+  * About Course Portfolios: my own description of the course portfolio genre and project. 
+  * Evaluation of Faculty Work with Technology: an outline of issues related to the electronic representation of teaching and the evaluation of faculty work with information technologies in their teaching, research, and professional activity. 
+  * A page of links to resources dealing with the issues of tenure, recognition, and technology, set up by one of the editors of Kairos.
+  * Special issue of the electronic journal, _Kairos_ , on Tenure and Technology. 
 

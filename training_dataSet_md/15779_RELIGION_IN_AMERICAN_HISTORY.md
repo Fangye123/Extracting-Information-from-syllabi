@@ -10,9 +10,8 @@ MAINSTREAM AND PERIPHERY
   
 **Spring Semester 2001  
 Dr. Gregory Holmes Singleton  
-E-MAIL: **[**G-Singleton@neiu.edu**](mailto:G-Singleton@neiu.edu) **PHONE:
-(773)794-2805 FAX: (773) 794-6243  
-**[**http://www.neiu.edu/~ghsingle/**](home.html) **  
+E-MAIL: ****G-Singleton@neiu.edu** **PHONE: (773)794-2805 FAX: (773) 794-6243  
+****http://www.neiu.edu/~ghsingle/** **  
 Office: 4-085 Hours: T 5-7 p.m., Th F 9-11 a.m., and by appointment
 
 **
@@ -74,7 +73,7 @@ INTERNET RESOURCES:
 
 **_
 
-You will find these at <http://www.neiu.edu/~ghsingle/435.htm>
+You will find these at http://www.neiu.edu/~ghsingle/435.htm
 
 
 
@@ -482,7 +481,7 @@ INTERNET RESOURCES FOR THIS COURSE
 
 The web site for this course is:
 
-<http://www.neiu.edu/~ghsingle/435.htm>
+http://www.neiu.edu/~ghsingle/435.htm
 
 Either write this URL down, or add it as a bookmark (for Netscape) or favorite
 (for Internet Explorer). You will find a copy of this syllabus on this web
@@ -636,7 +635,7 @@ paragraphs) which presents a logical and creative perspective on the issue(s)
 resulting from your original thought.  
   
 For some suggestions on writing essays, you can consult my web page at
-[http://www.neiu.edu/~ghsingle/](home.html) and follow the For Students link.  
+http://www.neiu.edu/~ghsingle/ and follow the For Students link.  
   
 The most frequently asked question about essays (alas) is "How long should it
 be?" Writing styles vary. Some topics and issues can be dealt with more

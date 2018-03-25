@@ -852,8 +852,7 @@ for degree Student end of quarter
 
 * * *
 
-[Math Home](index.html) [WWU Home](http://www.wwu.edu/) [WWU
-Index](http://www.wwu.edu/WesternOnline/AlphaAll.html)
+Math Home WWU Home WWU Index
 
 **Note:** This page and the pages linked to it are not official university
 documents.

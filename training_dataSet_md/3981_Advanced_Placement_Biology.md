@@ -9,8 +9,7 @@ course is divided into three major units: Molecules and Cells (25%), Heredity
 and Evolution (25%), and Organisms and Populations (50%).  
 ---|---  
   
-Requirements    Syllabus    Assignments
-[Index](http://www.fvs.edu/faculty/jmariner/jmariner-science.html)
+Requirements    Syllabus    Assignments   Index
 
 ![](http://www.fvs.edu/faculty/jmariner/swline.jpg)
 
@@ -22,7 +21,7 @@ relative to the total possible points that could have been earned.   Points
 are earned in the following ways:
 
   * 6 Major tests (100 pts each); these will be modeled after the CEEB's AP Biology Examination in both format and scoring. 
-  * 2-3 Formal [ Laboratory Reports](labrpt.8.htm) (50 pts each). 
+  * 2-3 Formal  Laboratory Reports (50 pts each). 
   * Periodic homework assignments (10-25 pts each). 
   * Fall semester Final exam (25% of semester grade). 
 
@@ -47,9 +46,7 @@ there may be a few opportunities of this nature from time to time.
 For additional details, please see the course _Handbook_ that you received at
 the beginning of the year.
 
-[Top of Page](file:///I:/jmariner/APBio.htm)   Requirements     Syllabus
-Assignments   [Index](http://www.fvs.edu/faculty/jmariner/jmariner-
-science.html)
+Top of Page   Requirements     Syllabus    Assignments   Index
 
 ![](http://www.fvs.edu/faculty/jmariner/swline.jpg)
 
@@ -169,9 +166,7 @@ interactions
 
 >
 
-> [Top of Page](file:///I:/jmariner/APBio.htm)   Requirements    Syllabus
-Assignments   [Index](http://www.fvs.edu/faculty/jmariner/jmariner-
-science.html)
+> Top of Page   Requirements    Syllabus    Assignments   Index
 
 ![](http://www.fvs.edu/faculty/jmariner/swline.jpg)
 
@@ -286,10 +281,8 @@ May 17  |
 5 |
 
 Friday |  **NO Class for all who took AP Exam; Final Exam for others**  
-[ ](file:///H:/Jim's%20Page/astronomy.htm)
-
-[Top of Page ](APBio.htm)
-[Index](http://www.fvs.edu/faculty/jmariner/jmariner-science.html)
+  
+Top of Page     Index
 
 
 

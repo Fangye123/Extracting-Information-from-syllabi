@@ -1,11 +1,10 @@
 # American Indian World Views
 
-![Oscar Howe designed logo](ohowelogo2.gif) [ click here for logo
-history](http://www.usd.edu/iais/iais/histlogo.html)
+![Oscar Howe designed logo](ohowelogo2.gif) click here for logo history
 
-Theme Coordinator: Meg Quintal [mquintal@usd.edu](mailto:mquintal@usd.edu)  
-IdEA Program [mainpage](http://www.usd.edu/admin/vpaa/themes/themeList.shtml)  
-[Syllabus](../indianstudies/idea305f02.html) for IDEA 305, Fall 2002.
+Theme Coordinator: Meg Quintal mquintal@usd.edu  
+IdEA Program mainpage  
+Syllabus for IDEA 305, Fall 2002.
 
 **Faculty Participants** :
 
@@ -66,10 +65,10 @@ IdEA Program [mainpage](http://www.usd.edu/admin/vpaa/themes/themeList.shtml)
   * Students of Color in Psychology 
   * Indian community potlucks, programs, and activities throughout the year 
 
-[Institute](http://www.usd.edu/iais/) mainpage  
-[American](http://www.usd.edu/iais/major/) Indian Studies Page  
-[Current](links.html) Events Links  
-[Links](usdlinks.html) to Other USD Departments
+Institute mainpage  
+American Indian Studies Page  
+Current Events Links  
+Links to Other USD Departments
 
 14 June 2002, th, lrb
 

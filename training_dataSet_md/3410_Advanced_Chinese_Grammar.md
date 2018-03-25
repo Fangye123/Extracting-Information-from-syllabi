@@ -1,8 +1,7 @@
 Textbooks | Course Requirements | Weekly Schedule **Chinese 325--Fall 1999**
 **ADVANCED CHINESE GRAMMAR** **_Course Information and Syllabus_**
 
-Instructor: **R.VanNess Simmons** [[back to main
-page](http://www.rci.rutgers.edu/~rsimmon/)]
+Instructor: **R.VanNess Simmons** [back to main page]
 
   * Office: Scott Hall 327
   * Office Phone: 932-5597
@@ -262,6 +261,5 @@ _Week 15--T12/7 & Th 12/9_
 **Final: Friday 12/17, 12:00-3:00pm**
 
 [back to top]  
-[[back to R. VanNess Simmons' main
-page](http://www.rci.rutgers.edu/~rsimmon/)]
+[back to R. VanNess Simmons' main page]
 

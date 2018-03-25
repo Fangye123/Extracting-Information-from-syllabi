@@ -3,12 +3,9 @@ AMTH 024
 Georgetown University, Spring 2002**
 
 **  
-Please feel free to email me at**[
-**pwarfield@mac.com**](mailto:pwarfield@mac.com) **if you have any questions
-about the course.  
-Georgetown students should check**[
-**blackboard**](https://campus.georgetown.edu/index.html) **for the latest
-information  
+Please feel free to email me at** **pwarfield@mac.com** **if you have any
+questions about the course.  
+Georgetown students should check** **blackboard** **for the latest information  
 **
 
 * * *
@@ -59,16 +56,14 @@ lives. By the end of the course all successful students should:
 **Course Materials**
 
 Course readings and listening are available in the library. Most readings are
-also available through Georgetown's [electronic
-reserves](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/frameset&F=pwarfield+p&2,,2).
-The listening CDs can be found the Gelardin Center in the Library, and should
-be available on their streaming server. Students are encouraged to go to the
-library early and make copies of the assignments. Students must do the
-assignments before the class period to which they pertain. As you can see,
-some weeks have very lengthy assignments. Students are encouraged to look
-ahead on the syllabus and plan accordingly.  If you are planning on not doing
-the assignments for this class, or not doing them seriously, please drop the
-course now.
+also available through Georgetown's electronic reserves. The listening CDs can
+be found the Gelardin Center in the Library, and should be available on their
+streaming server. Students are encouraged to go to the library early and make
+copies of the assignments. Students must do the assignments before the class
+period to which they pertain. As you can see, some weeks have very lengthy
+assignments. Students are encouraged to look ahead on the syllabus and plan
+accordingly.  If you are planning on not doing the assignments for this class,
+or not doing them seriously, please drop the course now.
 
 **Tips for Succeeding:**
 
@@ -100,8 +95,8 @@ even if you are unprepared. The core of this course is in what we do together
 in class. Missed work can always be made up; a missed class is gone forever.
 Excessive absences will result in a significant grade penalty. Let me say that
 again, excessive absences will result in a significant grade penalty.
-Students will be expected to follow the guidelines explained on the [Course
-Contract.](contract.html)
+Students will be expected to follow the guidelines explained on the Course
+Contract.
 
   2. Quizzes and Short Assignments: 15%  
 Several quizzes (unannounced) will be given during the course of the semester.
@@ -112,8 +107,8 @@ journal described below.
 
   3. Reading and Listening Journal: 25%  
 For each reading and some listening assignments, students will write a journal
-entry. This journal will be turned in twice  during the semester. [See further
-instructions](journal.htm).
+entry. This journal will be turned in twice  during the semester. See further
+instructions.
 
   4. Exams: 50%  
 Two exams will be given during the semester, each counting 25% of the final
@@ -142,8 +137,7 @@ and earn a good grade_.
 
 > **Class 2 (January 15** ) **: The Materials of Music: Melody and Rhythm**
 
->   * Reading: Course syllabus, web pages, and [Materials of
-Music](material.html) handout
+>   * Reading: Course syllabus, web pages, and Materials of Music handout
 
 >   * Listening: Pick a popular song, of which you have a recording, and come
 prepared to discuss it in terms of the Materials of Music reading. Bring your
@@ -155,9 +149,9 @@ recording
 
 >
 
->   * Reading: [Materials of Music](material.html) handout
+>   * Reading: Materials of Music handout
 
->   * Reading: [Resources in American Music](Sources.html)
+>   * Reading: Resources in American Music
 
 >
 
@@ -168,11 +162,9 @@ recording
 >
 
 >   * Reading: Richard Crawford, "American Music and its Two Written
-Traditions," _Fontes Artis Musicae_ 31 (1984): 79-84. [ [Electronic
-reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/frameset~2355570&F=pwarfield+p&1,,2)
+Traditions," _Fontes Artis Musicae_ 31 (1984): 79-84.  [Electronic reserves]
 
->   * Listening: Several performances of "The Star-Spangled Banner" on [CD
-1](CD1.html)
+>   * Listening: Several performances of "The Star-Spangled Banner" on CD 1
 
 >
 
@@ -197,10 +189,9 @@ do we need to have to understand your piece.
 >
 
 >   * Reading: Susan McClary, "Living to Tell: Madonna's Resurrection of the
-Fleshly" in _Feminine Endings_. [ [Electronic
-reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/frameset~2388476&F=pwarfield+p&2,,2)
+Fleshly" in _Feminine Endings_.  [Electronic reserves]
 
->   * Listening: Selections from Amy Beach and Madonna on [CD 2](CD2.html).
+>   * Listening: Selections from Amy Beach and Madonna on CD 2.
 
 >
 
@@ -212,11 +203,10 @@ Anderson**
 >
 
 >   * Reading: Susan McClary, "Getting Down Off the Beanstalk: The Presence of
-a Woman's Voice in Janika Vandervelde's _Genesis II_. " [[Electronic
-reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/frameset~2388480&F=pwarfield+p&2,,2)
+a Woman's Voice in Janika Vandervelde's _Genesis II_. " [Electronic reserves]
 
->   * Listening: Selections from Janika Vandervelde and Laurie Anderson on [CD
-3](CD3.html).
+>   * Listening: Selections from Janika Vandervelde and Laurie Anderson on CD
+3.
 
 >
 
@@ -228,11 +218,10 @@ reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/fram
 
 >   * Reading: Austin Caswell, "Jenny Lind's Tour of America: A Discourse of
 Gender and Class" in _Festa Musicologica: Essays in Honor of George J.
-Buelow._[ [Electronic
-reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/frameset~2388481&F=pwarfield+p&2,,2)
+Buelow._ [Electronic reserves]
 
 >   * There is no listening assignment, but come prepared to discuss these
-[questions](Lind.html).
+questions.
 
 >
 
@@ -242,7 +231,7 @@ reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/fram
 
 >
 
->   * Listening: Selections by Amy Beach, on [CD 4](CD4.html).
+>   * Listening: Selections by Amy Beach, on CD 4.
 
 >
 
@@ -253,8 +242,7 @@ reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/fram
 >
 
 >   * Reading: William Eric Perkins, "The Rap Attack: An Introduction." in
-_Droppin' Science._[ [Electronic
-reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/frameset~2388485&F=pwarfield+p&2,,2)
+_Droppin' Science._ [Electronic reserves]
 
 >
 
@@ -265,10 +253,9 @@ reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/fram
 >
 
 >   * Reading: Rob Walser, "Rhythm, Rhyme, and Rhetoric in the Music of Public
-Enemy" in _Ethnomusicology._[ [Electronic
-reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/frameset~2388489&F=pwarfield+p&2,,2)
+Enemy" in _Ethnomusicology._ [Electronic reserves]
 
->   * Listening: "Fight the Power" by Public Enemy on [CD 5](CD5.html)
+>   * Listening: "Fight the Power" by Public Enemy on CD 5
 
 >
 
@@ -279,12 +266,11 @@ reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/fram
 >
 
 >   * Reading: Michael Pisani, "The Indian Music Debate and `American' Music
-in the Progressive Era," in _The College Music Symposium_ (1997). [
-[Electronic
-reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/frameset~2388508&F=pwarfield+p&2,,2)
+in the Progressive Era," in _The College Music Symposium_ (1997).  [Electronic
+reserves]
 
 >   * There is no listening assignment, but come prepared to discuss these
-[questions](Indianists.html).
+questions.
 
 >
 
@@ -294,7 +280,7 @@ reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/fram
 
 >
 
->   * Selections from Antonin Dvorak and Arthur Farwell on [CD 6](CD6.html).
+>   * Selections from Antonin Dvorak and Arthur Farwell on CD 6.
 
 >
 
@@ -306,20 +292,17 @@ Tower**
 >
 
 >   * Reading: Milton Babbitt, "Who Cares If You Listen?" in _High Fidelity_
-(1958). [ [Electronic
-reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/frameset~2388491&F=pwarfield+p&2,,2)
+(1958).  [Electronic reserves]
 
->   * Listening: Milton Babbitt, _Composition for Four Instruments_ on [CD
-7.](CD7.html)
+>   * Listening: Milton Babbitt, _Composition for Four Instruments_ on CD 7.
 
->   * [Review](Exam1.html) for exam
+>   * Review for exam
 
 >
 
 >
 
-> **Class 15 (February 28): Midterm and turn in**[
-**journals**](Journal1.html)
+> **Class 15 (February 28): Midterm and turn in** **journals**
 
 **_Week 9: Spring Break (no class March 5 and 7)_**
 
@@ -329,7 +312,7 @@ reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/fram
 
 >
 
->   * Listening: Early minstrel selections on [CD 8](CD8.html).
+>   * Listening: Early minstrel selections on CD 8.
 
 >
 
@@ -340,8 +323,7 @@ reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/fram
 >
 
 >   * Reading: Eric Lott, "Love and Theft: The Racial Unconscious of Blackface
-Minstrelsy" in _Representations_ (1992). [ [Electronic
-reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/frameset~2388497&F=pwarfield+p&2,,2)
+Minstrelsy" in _Representations_ (1992).  [Electronic reserves]
 
 >
 
@@ -351,9 +333,9 @@ reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/fram
 
 >
 
->   * Reading: _Porgy and Bess_ [ guide](PB.html)
+>   * Reading: _Porgy and Bess_ guide
 
->   * Listening: _Porgy and Bess_ highlights on [CD 9](CD9.html)
+>   * Listening: _Porgy and Bess_ highlights on CD 9
 
 >
 
@@ -365,8 +347,7 @@ reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/fram
 
 >   * Reading: Richard Crawford, "It Ain't Necessarily Soul: Gershwin's Porgy
 and Bess as a Symbol," _Yearbook for Inter-American Musical Research_ (1972).
-[ [Electronic
-reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,1,B/frameset~2355580&F=pwarfield&1,,0)
+[Electronic reserves]
 
 >
 
@@ -382,8 +363,7 @@ reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,1,B/fram
 
 >
 
->   * Listening: Selections by Edward Kennedy "Duke" Ellington on [CD
-10](CD10.html)
+>   * Listening: Selections by Edward Kennedy "Duke" Ellington on CD 10
 
 >
 
@@ -394,15 +374,12 @@ reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,1,B/fram
 >
 
 >   * Reading: Samuel A. Floyd, Jr. "The Harlem Renaissance of the 1920s"
-_Black Music Research Bulletin_ 10 (1988), 8-10. [ [Electronic
-reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/frameset~2388501&F=pwarfield+p&2,,2)
+_Black Music Research Bulletin_ 10 (1988), 8-10.  [Electronic reserves]
 
 >   * Reading: Langston Hughes, "The Negro Artist and the Racial Mountain."
-[[Electronic
-reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/frameset~2388502&F=pwarfield+p&2,,2)
+[Electronic reserves]
 
->   * Listening: William Grant Still, _Afro-American Symphony_ on [ CD
-11](CD11.html).
+>   * Listening: William Grant Still, _Afro-American Symphony_ on  CD 11.
 
 >
 
@@ -412,7 +389,7 @@ reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/fram
 
 >
 
->   * Listening: 1960s Political Song on [CD 12](CD12.html).
+>   * Listening: 1960s Political Song on CD 12.
 
 >
 
@@ -426,8 +403,8 @@ reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/fram
 
 >
 
->   * Listening: Selections from Marc Blitzstein, _The Cradle Will Rock_ on [
-CD 13](CD13.html).
+>   * Listening: Selections from Marc Blitzstein, _The Cradle Will Rock_ on
+CD 13.
 
 >
 
@@ -440,10 +417,9 @@ Music**
 
 >   * Reading: Caroline Moseley, "The Hutchinson Family: The Function of their
 Song in Ante-Bellum America," _Journal of American Culture_ 1 (1978), 713-23.
-[ [Electronic
-reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/frameset~2388504&F=pwarfield+p&2,,2)
+[Electronic reserves]
 
->   * Listening: Nineteenth Century Political Song on [CD 14](CD14.html).
+>   * Listening: Nineteenth Century Political Song on CD 14.
 
 >
 
@@ -454,15 +430,13 @@ reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/fram
 >
 
 >   * Reading: Arthur Schrader, "`Wilks', `No. 45', and Mr. Billings."
-_American Music_ 7 (1989), 412-429. [ [Electronic
-reserves]](http://library.georgetown.edu/search/pwarfield/pwarfield/1,1,2,B/frameset~2388487&F=pwarfield+p&2,,2)
+_American Music_ 7 (1989), 412-429.  [Electronic reserves]
 
->   * Listening: Selections by William Billings on [CD 15](CD15.html).
+>   * Listening: Selections by William Billings on CD 15.
 
 >
 
-> **Class 27 (April 25):**[ **Review**](Exam2.html) **and turn in**[
-**journals**](Journal2.html)
+> **Class 27 (April 25):** **Review** **and turn in** **journals**
 
 **_Week 17: Final Exam_**
 

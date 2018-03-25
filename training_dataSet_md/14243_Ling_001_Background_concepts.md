@@ -1,6 +1,6 @@
 **Ling 001     Background concepts** |
 
-[![](prev.gif)](introduction.html)[![](up.gif)](schedule.html)[![](next.gif)](instinct.html)  
+![](prev.gif)![](up.gif)![](next.gif)  
 ---|---  
   
 Today we'll cover some basic ideas that underly work in linguistics, to help
@@ -41,8 +41,7 @@ communication with or between computers.
 8. |   | Verbal communication as a subject of study.  
 9. |   | The wording of a legal document or statute as distinct from the spirit.  
   
-_[American Heritage Dictionary, 4th
-ed.](http://www.bartleby.com/61/14/L0041400.html)_  
+_American Heritage Dictionary, 4th ed._  
   
 Note that the phenomena named by the extended senses are quite different from
 one another.
@@ -117,8 +116,7 @@ Greek_.
 3. |   | The manner or style of expressing oneself in language or the arts.  
 4. |   | A language considered as part of a larger family of languages or a linguistic branch. Not in scientific use: _Spanish and French are Romance dialects_.  
   
-_[American Heritage Dictionary, 4th
-ed.](http://www.bartleby.com/61/49/D0194900.html)_  
+_American Heritage Dictionary, 4th ed._  
   
 For linguists, however, no one actually speaks an entire "language"; rather,
 every utterance occurs in some (social and geographical) dialect of a
@@ -167,9 +165,8 @@ for a range of opinions.
 * * *
 
 On the other hand, there are some disagreements about language where one side
-is just wrong, as wrong as those who believe that [the Earth is
-flat](http://www.talkorigins.org/faqs/flatearth.html) or that it was created
-out of nothing in [4004 BCE](http://www.lhup.edu/~dsimanek/ussher.htm).
+is just wrong, as wrong as those who believe that the Earth is flat or that it
+was created out of nothing in 4004 BCE.
 
 These include plenty of misconceptions about language among otherwise
 reasonable people, simply because they have never really learned how language
@@ -180,7 +177,7 @@ works.
   * The language that you speak determines the way you think. 
 
 In this course we'll see why these myths are, in fact, provably wrong. For
-more examples, see [The sci.lang FAQ](http://zompist.com/langfaq.html).
+more examples, see The sci.lang FAQ.
 
 * * *
 
@@ -377,12 +374,11 @@ _-ed_ in places where it has generally been abandoned.
 "I feel like such a free spirit, and I'm really enjoying this so-called ...
 _iced_ cream. "
 
-  |
-[![](burns.gif)](http://www.thesimpsons.com/bios/bios_townspeople_burns.html)  
+  | ![](burns.gif)  
 ---|---  
   
 _Montgomery Burns in The Simpsons  
-Episode [1F05](http://www.snpp.com/episodes/1F05.html), Bart's Inner Child_  
+Episode 1F05, Bart's Inner Child_  
   
 Other phrases have not achieved this status yet, and sound distinctly informal
 without _-ed_ , such as _cream corn_. But  in linguistic structure, they are
@@ -392,8 +388,8 @@ acceptability.
 
 Here's a current example. I have noticed lately that CD's and DVD's are often
 sold in **box sets** rather than **boxed sets** , though both terms are
-common. Two web searches on [Google](http://www.google.com/), a year apart,
-found evidence of an increasing preference for "box set":
+common. Two web searches on Google, a year apart, found evidence of an
+increasing preference for "box set":
 
 | _January 2001_ | _January 2002_  
 ---|---|---  
@@ -416,8 +412,7 @@ cream_. Those who don't adjust will eventually sound like Mr. Burns.
 It's instructive to think of attidutes toward language usage as a kind of
 **fashion**.
 
-[![](ElizabethPor.gif)](http://www.twingroves.district96.k12.il.us/Renaissance/TowerofLondon/ElizabethI.html)
-|
+![](ElizabethPor.gif) |
 
 Some styles are hopelessly outdated.
 
@@ -431,11 +426,10 @@ Whom did you see? is good, but formal, modern English.
 
 It would be silly to ask your friend, Whom did you see at the frat party? |
 
-[![](elizabeth_II_crown.jpg)](http://www.royal.gov.uk/family/hmqueen.htm)  
+![](elizabeth_II_crown.jpg)  
 ---|---  
   
-[![](amidala.jpg)](http://www.sccs.swarthmore.edu/users/01/duffy/amidala.html)
-|
+![](amidala.jpg) |
 
 Still other styles are complete fantasy.
 
@@ -452,11 +446,9 @@ Importantly, however, particular styles are appropriate for some contexts but
 not for others \-- depending on whether you're accepting an Oscar, chatting on
 a talk show, or battling evil.
 
-[![](hilary_swank.jpg)](http://talkshows.about.com/tvradio/talkshows/library/extras/blgalleryoprah.htm)
-|
-[![](oprah_bette.jpg)](http://talkshows.about.com/tvradio/talkshows/library/extras/blgalleryoprah.htm)  
+![](hilary_swank.jpg) | ![](oprah_bette.jpg)  
 ---|---  
-[![](lucy_liu.gif)](http://www3.bc.sympatico.ca/lucyliu/F_updates.htm)  
+![](lucy_liu.gif)  
   
 Similarly, you have to adopt different speaking styles \-- and different
 grammatical usages -- depending on the situation, audience, and purpose of
@@ -561,9 +553,9 @@ attention to the prevailing standards in order to use language in a way that
 will be considered "standard" or prestigious, but the details themselves are a
 matter of fashion.
 
-[syllabus](syllabus.html)   [schedule](schedule.html) |
+syllabus   schedule |
 
-[![](prev.gif)](introduction.html)[![](up.gif)](schedule.html)[![](next.gif)](instinct.html)  
+![](prev.gif)![](up.gif)![](next.gif)  
 ---|---  
   
  _gene@unagi.cis.upenn.edu_

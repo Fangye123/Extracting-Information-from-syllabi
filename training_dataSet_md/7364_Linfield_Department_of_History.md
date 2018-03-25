@@ -1,7 +1,5 @@
-[Directory |](../../../directory/index.php) [Site Map |](../../../siteidx.htm)
-[Linfield Home |](../../../index.html)[Alumni|](../../../alumni/index.html)
-[Current Students](../../../current.html) [| Faculty and Staff
-](../../../staff.html)  
+Directory | Site Map | Linfield Home |Alumni| Current Students | Faculty and
+Staff  
 ---  
   
 #  ![Linfield](../images/clearlogo.gif)Department of History
@@ -9,23 +7,23 @@
 | ![ ](../../images/spacer.gif)  
 ---|---  
   
-[Courses](http://webserver-nt.linfield.edu/history/courses.asp)  
+Courses  
   
-[Degree Requirements](http://webserver-nt.linfield.edu/history/degrees.asp)  
+Degree Requirements  
   
 Faculty  
   
-[ Honors and Awards](../../honors.html)  
+Honors and Awards  
   
-[History Studies Abroad](../../abroad.html)  
+History Studies Abroad  
   
-[Opportunities](../../opportunities.html)  
+Opportunities  
   
-[Resources](../../resources.html)  
+Resources  
   
   
   
-[History Home](../../index.html)
+History Home
 
 |
 
@@ -399,6 +397,6 @@ give the reader some advice on what lessons might be drawn from it.
 Write legibly and try to eliminate spelling and grammatical errors.  
   
 Linfield College Department of History 900 SE Baker Street, McMinnville, OR
-97128 503-883-2479 [  
-vjacobs@linfield.edu](mailto:vjacobs@linfield.edu)
+97128 503-883-2479  
+vjacobs@linfield.edu
 

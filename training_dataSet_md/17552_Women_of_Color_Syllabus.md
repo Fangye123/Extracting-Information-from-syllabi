@@ -192,8 +192,8 @@ Nations" (photocopy)
 
 * * *
 
-Click here to see the [Fall 1994 "Race, Class, Gender:  Women of Color in the
-U.S." Syllabus](http://www.oxy.edu/~maeda/wofc94.htm)  
+Click here to see the Fall 1994 "Race, Class, Gender:  Women of Color in the
+U.S." Syllabus  
     
     
 

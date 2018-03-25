@@ -408,7 +408,7 @@ contemporary sub-Saharan Africa?**
 **_East along the Equator_ :**
 
 **The discussion questions and notes are sufficient.   To see them, click
-[Here](East%20along%20the%20Equator.html)**
+Here**
 
  **Kiswahili Vocabulary:**
 
@@ -431,7 +431,7 @@ or "don't rush things, they will happen all in good time."**
 
 
 
-To return to the syllabus, click [Here](Syllabus01a.html)
+To return to the syllabus, click Here
 
 ![Hit
 Counter](_vti_bin/fpcount.exe/dzirker/?Page=AfLat%20Study%20Guide1.html|Image=4)

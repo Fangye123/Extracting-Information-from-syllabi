@@ -1,4 +1,4 @@
-**go to[text](../1997/ss-970923txt.html) version**  
+**go totext version**  
 
 ## The Scout Report for Social Sciences
 
@@ -21,7 +21,7 @@ weeks. Subscription information is included at the bottom of each issue.
 
 * * *
 
-| [ ![The Scout Report](../graphics/sr-smgrcr.gif)](../../index.html)  
+|  ![The Scout Report](../graphics/sr-smgrcr.gif)  
 ---|---|---  
   
 > ![*](../graphics/blackarrow.gif) Research | ![*](../graphics/blackarrow.gif)
@@ -39,7 +39,7 @@ Publications
 ---|---  
   
 > **The Data Archive**  
->  [ http://dawww.essex.ac.uk/](http://dawww.essex.ac.uk/)  
+>  http://dawww.essex.ac.uk/  
 >  The University of Essex hosts "the largest collection of accessible
 computer-readable data in the social sciences and humanities in the United
 Kingdom," housing over 7000 datasets of information for secondary research in
@@ -57,8 +57,7 @@ dataset) can order data in a variety of formats and media. [MD]
 >
 
 > **Cambridge University Press Journals Online**  
->  [
-http://www.journals.cup.org/cup/html/nm_intro.htm](http://www.journals.cup.org/cup/html/nm_intro.htm)  
+>  http://www.journals.cup.org/cup/html/nm_intro.htm  
 >  Cambridge University Press (CUP) has unveiled a new free service that gives
 users full access to its online journals. After registration, users can browse
 the content of all Cambridge online journals, read abstracts, download the
@@ -75,8 +74,7 @@ to all. [MD]
 >
 
 > **European Association of Sinological Librarians (EASL)**  
->  [ http://www.uni-kiel.de:8080/ORIENTALISTIK/easl/easl.html](http://www.uni-
-kiel.de:8080/ORIENTALISTIK/easl/easl.html)  
+>  http://www.uni-kiel.de:8080/ORIENTALISTIK/easl/easl.html  
 >  This site is an excellent collection of resources for both librarians and
 scholars interested in China. Highlights include recent and past issues of
 BEASL (Bulletin of the European Association of Sinological Librarians), notes
@@ -92,8 +90,7 @@ and specific Asian resources. [MD]
 >
 
 > **Working Papers--Center for Demography and Ecology (CDE) [.pdf, .ps]**  
->  [
-http://www.ssc.wisc.edu/cde/workpap.htm](http://www.ssc.wisc.edu/cde/workpap.htm)  
+>  http://www.ssc.wisc.edu/cde/workpap.htm  
 >  The CDE at the University of Wisconsin-Madison is "a multi-disciplinary
 faculty research cooperative for social scientific demographic research whose
 membership includes sociologists, rural sociologists, economists, and
@@ -110,7 +107,7 @@ available abstracts may be viewed without special software. [MD]
 >
 
 > **Electronic Journal of Africana Bibliography (EJAB)**  
->  [ http://www.lib.uiowa.edu/proj/ejab/](http://www.lib.uiowa.edu/proj/ejab/)  
+>  http://www.lib.uiowa.edu/proj/ejab/  
 >  Provided by John Howell, International Studies Bibliographer at the
 University of Iowa Libraries, "EJAB is a refereed online journal of
 bibliographies on any aspect of Africa, its peoples, their homes, cities,
@@ -130,7 +127,7 @@ numerous important resources. [MD]
 ---|---  
   
 > **CAIN Web Service--The Northern Ireland Conflict**  
->  [ http://cain.ulst.ac.uk/index.html](http://cain.ulst.ac.uk/index.html)  
+>  http://cain.ulst.ac.uk/index.html  
 >  The CAIN Project (Conflict Archive on the Internet) is in the process of
 creating a wonderful multimedia resource for anyone researching or teaching
 "the Troubles." The site is still under development, but the amount of
@@ -151,8 +148,7 @@ related links, and a photo collection which includes political wall murals.
 
 > **The Valley of the Shadow Archive: Two Communities in the American Civil
 War**  
->  [
-http://jefferson.village.Virginia.EDU/vshadow2/](http://jefferson.village.Virginia.EDU/vshadow2/)  
+>  http://jefferson.village.Virginia.EDU/vshadow2/  
 >  This ambitious and well-executed web site is the product of a University of
 Virginia research Project funded in part by the National Endowment for the
 Humanities. It seeks to document the story of the Civil War as seen by the
@@ -173,8 +169,7 @@ life in these counties through Emancipation and Reconstruction. [MD]
 >
 
 > **Fieldwork--The Anthropologist in the Field**  
->  [
-http://www.truman.edu/academics/ss/faculty/tamakoshil/index.html](http://www.truman.edu/academics/ss/faculty/tamakoshil/index.html)  
+>  http://www.truman.edu/academics/ss/faculty/tamakoshil/index.html  
 >  This site is part of an effort by Professor Laura Tamakoshi of Truman State
 University to deepen her student's understanding and appreciation of fieldwork
 in anthropology. The content is based on Dr. Tamakoshi's five and one-half
@@ -192,8 +187,7 @@ and engaging. [MD]
 >
 
 > **International Constitutional Law**  
->  [ http://www.uni-wuerzburg.de/law/home.html](http://www.uni-
-wuerzburg.de/law/home.html)  
+>  http://www.uni-wuerzburg.de/law/home.html  
 >  Hosted by the University of Wuerzburg (Germany), International
 Constitutional Law (ICL) provides English texts of constitutional documents
 and links to background information on over seventy countries. Documents are
@@ -210,7 +204,7 @@ both secondary and university classrooms. [MD]
 >
 
 > **Syllabus Web**  
->  [ http://www.syllabus.com/](http://www.syllabus.com/)  
+>  http://www.syllabus.com/  
 >  This site is produced by Syllabus Press, publishers of the free _Syllabus
 Magazine_ , which covers the use of technology in secondary and higher
 education. Syllabus Web features full text archives of several of the
@@ -229,7 +223,7 @@ Conference and reviews of the latest educational technology products. [MD]
   
 > **Conference Announcements**  
 >  IRISS'98 Internet Research and Information for Social Scientists  
->  [ http://www.sosig.ac.uk/iriss/](http://www.sosig.ac.uk/iriss/)  
+>  http://www.sosig.ac.uk/iriss/  
 >  March 25-27, 1998 University of Bristol, UK. The first international IRISS
 conference aims to bring together social scentists who are interested in the
 Internet, either as a means of supporting and enhancing their work, or as a
@@ -241,8 +235,7 @@ researchers, librarians, educators, and information providers. [MD]
 
 > "Globalization From Below: Contingency and Contestation in Historical
 Perspective"  
->  [
-http://jefferson.village.virginia.edu/~spoons/global/](http://jefferson.village.virginia.edu/~spoons/global/)  
+>  http://jefferson.village.virginia.edu/~spoons/global/  
 >  February 5-8, 1998 Duke University, Durham, North Carolina, USA. "This
 conference is concerned with globalization as a dynamic, contested and often
 contingent process. Rather than concentrating upon the huge, apparently
@@ -254,31 +247,28 @@ against, the developing global system."
 >
 
 > (For links to additional calls for papers and conference announcements, see
-the Conference section of the Current Awareness Resources Page ([
-http://scout.cs.wisc.edu/scout/report/socsci/metapage/index.html](http://scout.cs.wisc.edu/scout/report/socsci/metapage/index.html))).  
+the Conference section of the Current Awareness Resources Page (
+http://scout.cs.wisc.edu/scout/report/socsci/metapage/index.html)).  
 >  [Back to Contents]
 
 >
 
 > **Job Guides**  
 >  H-Net Job Guide for 22 September 1997  
->  [
-http://www.h-net.msu.edu/jobs/jobcats.cgi](http://www.h-net.msu.edu/jobs/jobcats.cgi)  
+>  http://www.h-net.msu.edu/jobs/jobcats.cgi  
 >  American Studies Crossroads Project Opportunities Database  
->  [ http://impian.dokkyomed.ac.jp/ml-open/new-
-list/1997-b/0069.html](http://impian.dokkyomed.ac.jp/ml-open/new-
-list/1997-b/0069.html)  
+>  http://impian.dokkyomed.ac.jp/ml-open/new-list/1997-b/0069.html  
 >  American Sociological Association Employment Bulletin September 1997  
->  [ http://www.asanet.org/eb0997.htm](http://www.asanet.org/eb0997.htm)  
+>  http://www.asanet.org/eb0997.htm  
 >  (For links to additional Job Guides, see the Employment/Funding section of
-the Current Awareness Resources Page ([
-http://scout.cs.wisc.edu/scout/report/socsci/metapage/index.html](http://scout.cs.wisc.edu/scout/report/socsci/metapage/index.html))).  
+the Current Awareness Resources Page (
+http://scout.cs.wisc.edu/scout/report/socsci/metapage/index.html)).  
 >  [Back to Contents]
 
 >
 
 > **UN International Criminal Tribunal for the Former Yugoslavia (ICTY)**  
->  [ http://www.un.org/icty/](http://www.un.org/icty/)  
+>  http://www.un.org/icty/  
 >  The ICTY was established by the UN Security Council in May 1993 to
 "prosecute persons responsible for serious violations of international
 humanitarian law committed in the territory of the former Yugoslavia since
@@ -294,7 +284,7 @@ entire site is also searchable. [MD]
 >
 
 > **FinAid**  
->  [ http://finaid.org/](http://finaid.org/)  
+>  http://finaid.org/  
 >  Maintained by Mark Kantrowitz and sponsored by the National Association of
 Student Financial Aid Administrators (NASFAA), the Financial Aid Information
 Page is one of the finest online sources of free information and guidance on
@@ -313,7 +303,7 @@ electronic search for funding. [MD]
 >
 
 > **European Museum Guide**  
->  [ http://www.museumguide.com:80/](http://www.museumguide.com:80/)  
+>  http://www.museumguide.com:80/  
 >  Museum Media Publishers publishes this guide to the major museums in twelve
 European countries. The current edition describes some 1500 exhibitions
 planned between May 1997 and May 1998. Museums and exhibitions are listed
@@ -332,7 +322,7 @@ each country or search the site by museum or exhibition. [MD]
 ---|---  
   
 > **American Graduate**  
->  [ http://www-dept.usm.edu/~amgrad/](http://www-dept.usm.edu/~amgrad/)  
+>  http://www-dept.usm.edu/~amgrad/  
 >  American Graduate, provided by the Department of History at the University
 of Southern Mississippi, is a new free e-journal of social and cultural
 history aimed at graduate students in History and related fields. Each issue
@@ -343,11 +333,9 @@ announcements, and interviews with established historians. [MD]
 >
 
 > **Latin American Studies Association LASA97 Papers Online [.pdf]**  
->  [
-http://lasa.international.pitt.edu/elecpaprs.htm](http://lasa.international.pitt.edu/elecpaprs.htm)  
+>  http://lasa.international.pitt.edu/elecpaprs.htm  
 >  No frames  
->  [
-http://lasa.international.pitt.edu/epapersnoframes.htm](http://lasa.international.pitt.edu/epapersnoframes.htm)  
+>  http://lasa.international.pitt.edu/epapersnoframes.htm  
 >  The Latin American Studies Association has recently begun to place papers
 from the LASA97 meeting online in Adobe Acrobat (.pdf) format. Papers are
 organized into 17 different categories, including Agrarian and Rural Issues,
@@ -358,59 +346,50 @@ Latinos in the US, Gender, and Democratization. [MD]
 
 > **New Think Tank Policy Papers and Briefs**  
 >  Gary Burtless, "The Future of Organized Labor"--Brookings Intstitution  
->  [
-http://www.brookings.edu/es/oped/burtless/8-26-97.htm](http://www.brookings.edu/es/oped/burtless/8-26-97.htm)
+>  http://www.brookings.edu/es/oped/burtless/8-26-97.htm
 
 >
 
 > Ariel Cohen, "Russia's Assault on Religious Freedom"--Heritage Foundation  
->  [
-http://www.heritage.org/heritage/library/categories/forpol/bg1137.html](http://www.heritage.org/heritage/library/categories/forpol/bg1137.html)  
->  [
-http://www.heritage.org/heritage/library/pdf_library/backgrounder/bg_1137.pdf](http://www.heritage.org/heritage/library/pdf_library/backgrounder/bg_1137.pdf)
+>  http://www.heritage.org/heritage/library/categories/forpol/bg1137.html  
+>
+http://www.heritage.org/heritage/library/pdf_library/backgrounder/bg_1137.pdf
 [.pdf]
 
 >
 
 > Keith Watson and Steven D. Gold, "The Other Side of Devolution: Shifting
 Relationships Between State and Local Governments"--Urban Institute  
->  [
-http://newfederalism.urban.org/html/other.htm](http://newfederalism.urban.org/html/other.htm)  
+>  http://newfederalism.urban.org/html/other.htm  
 >  .PDF version (16p.)  
->  [
-http://newfederalism.urban.org/pdf/other.pdf](http://newfederalism.urban.org/pdf/other.pdf)
+>  http://newfederalism.urban.org/pdf/other.pdf
 
 >
 
 > Alan Vick, David T. Orletsky, Abram N. Shulsky, John Stillion, "Preparing
 the US Air Force for Military Operations Other Than War"--Rand Organization  
->  [
-http://www.rand.org/publications/MR/MR842/MR842.pdf/](http://www.rand.org/publications/MR/MR842/MR842.pdf/)
+>  http://www.rand.org/publications/MR/MR842/MR842.pdf/
 
 >
 
 > (For links to additional new Think Tank publications see the Think Tank
-Policy Papers section on the Current Awareness Resources Page ([
-http://scout.cs.wisc.edu/scout/report/socsci/metapage/index.html](http://scout.cs.wisc.edu/scout/report/socsci/metapage/index.html))).
-[MD]  
+Policy Papers section on the Current Awareness Resources Page (
+http://scout.cs.wisc.edu/scout/report/socsci/metapage/index.html)). [MD]  
 >  [Back to Contents]
 
 >
 
 > **Academia Book Releases--Baker& Taylor--September 1997**  
->  [ http://www.baker-taylor.com/Academia/M09/UBBS.html](http://www.baker-
-taylor.com/Academia/M09/UBBS.html)  
+>  http://www.baker-taylor.com/Academia/M09/UBBS.html  
 >  (Please see the Publications section of the Current Awareness Resources
-Page ([
-http://scout.cs.wisc.edu/scout/report/socsci/metapage/index.html](http://scout.cs.wisc.edu/scout/report/socsci/metapage/index.html))).
+Page ( http://scout.cs.wisc.edu/scout/report/socsci/metapage/index.html)).
 [MD]  
 >  [Back to Contents]
 
 >
 
 > **33 New ERIC Digests--August 1997**  
->  [
-http://www.ed.gov/databases/ERIC_Digests/index/](http://www.ed.gov/databases/ERIC_Digests/index/)  
+>  http://www.ed.gov/databases/ERIC_Digests/index/  
 >  33 New ERIC Digests, "short reports (1,000 - 1,500 words) on topics of
 prime current interest in education," were added to the US Education
 Department's ERIC Digest Page in August 1997. The full text ERIC Digest
@@ -422,19 +401,15 @@ database contains over 1,700 Digests. [JS]
 > **New Tables of Contents/Abstracts for recent and forthcoming issues are
 available for the following Journals:** [MD]  
 >  _Archaeology Magazine_  
->  [
-http://www.he.net/~archaeol/9709/index.html](http://www.he.net/~archaeol/9709/index.html)  
+>  http://www.he.net/~archaeol/9709/index.html  
 >  _History and Theory_  
->  [
-http://www.wesleyan.edu/histjrnl/forthcom.htm](http://www.wesleyan.edu/histjrnl/forthcom.htm)  
+>  http://www.wesleyan.edu/histjrnl/forthcom.htm  
 >  _Social Science and Medicine_  
->  [
-http://www.elsevier.com/estoc/publications/store/6/02779536/SZ976801.shtml](http://www.elsevier.com/estoc/publications/store/6/02779536/SZ976801.shtml)  
+>  http://www.elsevier.com/estoc/publications/store/6/02779536/SZ976801.shtml  
 >  _Columbia Journalism Review_  
->  [ http://www.cjr.org/](http://www.cjr.org/)  
+>  http://www.cjr.org/  
 >  _Review of Politics_  
->  [
-http://www.nd.edu/~rop/recent.forthcoming/summer97/introsummer.htm](http://www.nd.edu/~rop/recent.forthcoming/summer97/introsummer.htm)  
+>  http://www.nd.edu/~rop/recent.forthcoming/summer97/introsummer.htm  
 >  [Back to Contents]
 
 ![New Data](../graphics/newdata.gif) |
@@ -444,8 +419,7 @@ http://www.nd.edu/~rop/recent.forthcoming/summer97/introsummer.htm](http://www.n
 ---|---  
   
 > **Basic Tables: 1990 Demographic Profile Generator**  
->  [
-http://www.oseda.missouri.edu/uic/uicapps/xtabs3.html](http://www.oseda.missouri.edu/uic/uicapps/xtabs3.html)  
+>  http://www.oseda.missouri.edu/uic/uicapps/xtabs3.html  
 >  The University of Missouri-St. Louis Urban Information Center has recently
 updated this online application, which allows users to "generate a single 1990
 'Basic Tables' (demographic profile) report for any of the supported
@@ -457,8 +431,7 @@ States. Examples are provided to assist users. [MD]
 >
 
 > **Housing Vacancies and Home Ownership--Second Quarter 1997**  
->  [
-http://www.census.gov/ftp/pub/hhes/www/hvs.html](http://www.census.gov/ftp/pub/hhes/www/hvs.html)  
+>  http://www.census.gov/ftp/pub/hhes/www/hvs.html  
 >  The Census Bureau has recently released data on housing vacancies and home
 ownership for the second quarter 1997. The site features the Bureau press
 release, tables, annual statistics for 1995 and 1996, and a graph of
@@ -473,19 +446,16 @@ homeownership rates by region. [MD]
   
 > **Scottish and Welsh Devolution**  
 >  The Scottish Devolution Web Site  
->  [ http://www.scottish-devolution.org.uk/frame.htm](http://www.scottish-
-devolution.org.uk/frame.htm)  
+>  http://www.scottish-devolution.org.uk/frame.htm  
 >  Record Campaign: Make it a Double for Scotland's Parliament  
->  [ http://www.record-mail.co.uk/rm/devo/](http://www.record-
-mail.co.uk/rm/devo/)  
+>  http://www.record-mail.co.uk/rm/devo/  
 >  A Voice for Wales  
->  [
-http://floor.ccta.gov.uk:8080/assembly/english/homepage.nsf](http://floor.ccta.gov.uk:8080/assembly/english/homepage.nsf)  
+>  http://floor.ccta.gov.uk:8080/assembly/english/homepage.nsf  
 >  [Note: The Resource/URL mentioned above is no longer available.]  
 >  Scottish National Party  
->  [ http://www.snp.org.uk/](http://www.snp.org.uk/)  
+>  http://www.snp.org.uk/  
 >  Plaid Cymru  
->  [ http://www.plaidcymru.org/](http://www.plaidcymru.org/)  
+>  http://www.plaidcymru.org/  
 >  On 11 September the Scottish people voted strongly in favor of creating
 their own Parliament and granting that body tax varying powers. One week
 later, Wales approved its first devolved government in over 500 years by the
@@ -510,17 +480,17 @@ manifestos and white papers, and the latest news. [MD]
 **Subscription and Contact Information**
 
 To subscribe to the Scout Report for Social Sciences, send email to:  
-[listserv@cs.wisc.edu](mailto:listserv@cs.wisc.edu)  
+listserv@cs.wisc.edu  
 In the body of the message type:  
 subscribe SRSOCSCI
 
 For subscription options, send email to:  
-[listserv@cs.wisc.edu](mailto:listserv@cs.wisc.edu)  
+listserv@cs.wisc.edu  
 In the body of the message type:  
 query SRSOCSCI
 
 Internet Scout team member information:  
-[http://scout.cs.wisc.edu/addserv/team.html](/addserv/team.html)
+http://scout.cs.wisc.edu/addserv/team.html
 
 **The Scout Report for Social Sciences  
 Brought to You by the Internet Scout Project**
@@ -529,10 +499,10 @@ The Scout Report for Social Sciences is published every other Tuesday by the
 Internet Scout Project, located in the University of Wisconsin-Madison's
 Department of Computer Sciences.
 
-[ Susan Calcari](/addserv/team.html#scal)  
-[Jack Solock](/addserv/team.html#jacks)  
-[Michael de Nie](/addserv/team.html#mwdenie)  
-[Jeannine Ramsey](/addserv/team.html#ramsey)  
+Susan Calcari  
+Jack Solock  
+Michael de Nie  
+Jeannine Ramsey  
 |  \--  
 \--  
 \--  
@@ -561,14 +531,12 @@ Foundation.
 
 * * *
 
-[![Internet Scout](/graphics/islogos/is-small.gif)  
-A Publication of the Internet Scout Project](/index.html)
+![Internet Scout](/graphics/islogos/is-small.gif)  
+A Publication of the Internet Scout Project
 
 Comments, Suggestions, Feedback  
-Use our [feedback form](/misc/forms/Feedback.html) or send email to
-[scout@cs.wisc.edu](mailto:scout@cs.wisc.edu).
+Use our feedback form or send email to scout@cs.wisc.edu.
 
 _(C) 1999 Internet Scout Project_  
-Information on reproducing any publication is available on our [copyright
-page](/misc/copyright.html).
+Information on reproducing any publication is available on our copyright page.
 

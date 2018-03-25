@@ -17,14 +17,14 @@ download the latest version of Adobe Acrobat Reader. You may do so by clicking
 on the icon below:  
   
 
-[![](http://www.calvarychapel.org/redbarn/getacro.gif)](http://www.adobe.com/products/acrobat/readstep.html)
+![](http://www.calvarychapel.org/redbarn/getacro.gif)
 
   
 **Pastoral Ministry Resources**  
   
 **The Pastoral Ministry**
 
-  * [Introduction to the Pastoral Ministry](http://www.calvarychapel.org/redbarn/pm.pdf)  
+  * Introduction to the Pastoral Ministry  
 Class Syllabus from Calvary Chapel Bible College.
 
 Back To Top
@@ -37,28 +37,28 @@ Back To Top
 
 
 
-   * [Books for Biblical Expositors](http://www.tms.edu/750books.asp)  
+   * Books for Biblical Expositors  
 By James Stitzinger of TMS. An important listing of the best books to build an
 individual library for a pastor.
 
 
 
-   * [An Old Testament Pattern for Expository Preaching](http://www.tms.edu/tmsj/tmsj6f.pdf)  
+   * An Old Testament Pattern for Expository Preaching  
 By David Deuel, a TMSJ article.
 
 
 
-   * [Rediscovering Expository Preaching](http://www.tms.edu/tmsj/tmsj1e.pdf)  
+   * Rediscovering Expository Preaching  
 by Richard L. Mayhue, a TMSJ Article.
 
 
 
-   * [Preaching.com](http://www.preaching.com/preaching/)  
+   * Preaching.com  
 The Online resources of Preaching Magazine. Some useful material here.
 
 
 
-   * [Preaching the Old Testament](http://www.ministry.org/preaching/features/kaiser.htm)  
+   * Preaching the Old Testament  
 A Question and Answer article with Dr. Walter C. Kaiser on expository
 preaching of the Old Testament.
 
@@ -74,12 +74,12 @@ preaching of the Old Testament.
 
 
 
-   * [NANC: National Association of Nouthetic Counselors](http://www.nanc.org/)  
+   * NANC: National Association of Nouthetic Counselors  
 A leading organization in the Biblical Counseling movement.
 
 
 
-   * [Christian Counseling and Educational Foundation](http://www.ccef.org/)  
+   * Christian Counseling and Educational Foundation  
 Back To Top
 
 
@@ -90,12 +90,12 @@ Back To Top
 
 
 
-   * [The Dynamics of Small Church Ministry](http://www.tms.edu/tmsj/tmsj3g.pdf)  
+   * The Dynamics of Small Church Ministry  
 By John M. Koessler, a TMSJ Article.
 
 
 
-   * [Biblical Eldership Homepage](http://www.nccn.net/~brennanp/)  
+   * Biblical Eldership Homepage  
 Various Articles and Links related to the concept of Biblical Eldership,
 including Alexander Strauch's works.
 
@@ -120,43 +120,43 @@ including Alexander Strauch's works.
 
 
 
-   * [The B-Hebrew Homepage](http://www.ibiblio.org/bhebrew/)  
+   * The B-Hebrew Homepage  
 Homepage for the Biblical Hebrew discussion group.
 
 
 
-   * [The Comprehensive Aramaic Lexicon](http://cal1.cn.huc.edu/)  
+   * The Comprehensive Aramaic Lexicon  
 Searchable Aramaic lexicon maintained by Hebrew Union College.
 
 
 
-   * [The Dead Sea Scrolls](http://www.ibiblio.org/expo/deadsea.scrolls.exhibit/intro.html)  
+   * The Dead Sea Scrolls  
 The Library of Congress Exhibit, some good links to other DSS information.
 
 
 
-   * [Institute of Microfilmed Hebrew Manuscripts](http://www.sites.huji.ac.il/jnul/imhm/)  
+   * Institute of Microfilmed Hebrew Manuscripts  
 Hebrew manuscript Information and Guide to Hebrew Manuscript Collections.
 
 
 
- [My Hebrew Dictionary](http://www.dictionary.co.il/)  
+ My Hebrew Dictionary  
 Searchable Dictionary for Modern Hebrew.
 
 
 
-   * [Semantics of Ancient Hebrew Database ](http://www.ed.ac.uk/~dreimer/SAHD/)  
+   * Semantics of Ancient Hebrew Database   
 A new and ongoing work in the Hebrew language. Some other useful information
 and transliteration charts.
 
 
 
-   * [The Sumerian Language Page](http://www.sumerian.org)  
+   * The Sumerian Language Page  
 An interesting site with a Sumerian Lexicon and additional resources.
 
 
 
-   * [The Septuagint Online](http://spindleworks.com/septuagint/septuagint.htm)  
+   * The Septuagint Online  
 Full text non-transliterated Greek text. A little hard to read.
 
 
@@ -171,35 +171,35 @@ Full text non-transliterated Greek text. A little hard to read.
 
 
 
-   * [Baalism in Canaanite Religion and Its Relation to Selected Old Testament Texts](http://www.bible.org/docs/ot/topics/baal.htm)
+   * Baalism in Canaanite Religion and Its Relation to Selected Old Testament Texts
 
 
-   * [Concise Old Testament Survey Page.](http://www.bible.org/docs/ot/survey/toc.htm)
+   * Concise Old Testament Survey Page.
 
 
-   * [The Genesis Flood Homepage](http://www.genesisfiles.com/)  
+   * The Genesis Flood Homepage  
 Interesting page of information related to the flood and Noah's ark.
 
 
 
-   * [The Genesis Research Homepage](http://members.truepath.com/gr/index.html)  
+   * The Genesis Research Homepage  
 Excellent and well maintained page on topics related to Genesis 1-11. Good
 graphics a little technical.
 
 
 
-   * [Inscriptions from the Land of Israel](http://www.iath.virginia.edu/mls4n/home.html)  
+   * Inscriptions from the Land of Israel  
 Maintained by the University of Virginia.
 
 
 
-   * [Israelite Origins](http://www.loras.edu/~REL/mcdermot/origins.htm#classic)  
+   * Israelite Origins  
 Chart form summations of various theories. Maintained by John J. McDermott of
 Loras College. Some other useful links.
 
 
 
-   * [The Old Testament Pseudepigrapha Web Page](http://www.st-andrews.ac.uk/~www_sd/otpseud.html)  
+   * The Old Testament Pseudepigrapha Web Page  
 University of St. Andrews excellent page with texts and discussions.
 
 
@@ -214,23 +214,23 @@ University of St. Andrews excellent page with texts and discussions.
 
 
 
-   * [ABZU ](http://www-oi.uchicago.edu/OI/DEPT/RA/ABZU/ABZU.HTML)  
+   * ABZU   
 The University of Chicago's Repository of Ancient Near East Materials.
 
 
 
-   * [The Edinburgh Ras Shamra Project](http://www.ed.ac.uk/~ugarit/home.htm)
+   * The Edinburgh Ras Shamra Project
 
 
-   * [Encyclopedia of the Orient](http://www.i-cias.com/e.o/)
+   * Encyclopedia of the Orient
 
 
-   * [The Library of Alexandria](http://www.perseus.tufts.edu/GreekScience/Students/Ellen/Museum.html)  
+   * The Library of Alexandria  
 An interesting site and information about the LXX.
 
 
 
-   * [The Oriental Institute of the University of Chicago](http://www-oi.uchicago.edu/OI/default.html)  
+   * The Oriental Institute of the University of Chicago  
 
 
 
@@ -253,49 +253,49 @@ An interesting site and information about the LXX.
 
 
 
-   * [B-Greek Homepage](http://www.ibiblio.org/bgreek/)  
+   * B-Greek Homepage  
 Homepage for the Biblical Greek discussion group.
 
 
 
-   * [Center for the Study of Ancient Documents](http://www.csad.ox.ac.uk/CSAD/index.html)  
+   * Center for the Study of Ancient Documents  
 Maintained by the Oxford University center. Good links and helpful material.
 
 
 
-   * [The Electronic New Testament Manuscripts Project](http://www.entmp.org/)
+   * The Electronic New Testament Manuscripts Project
 
 
-   * [Greek Word Search Page](http://www.perseus.tufts.edu/cgi-bin/psearch?lang=Greek)
+   * Greek Word Search Page
 
 
-   * [Interpreting Ancient Manuscripts](http://www.earlham.edu/~seidti/iam/interp_mss.html)  
+   * Interpreting Ancient Manuscripts  
 Resources for the study of the NT maintained by Timothy Seid of Brown
 University.
 
 
 
-   * [Manuscripts, Paleography and Codicology](http://www.georgetown.edu/labyrinth/subjects/mss/mss.html)  
+   * Manuscripts, Paleography and Codicology  
 Set of links to pages related to manuscript studies.
 
 
 
-   * [The Papyrology Home Page](http://www.smu.edu/~dbinder/papyrolo.html)  
+   * The Papyrology Home Page  
 Excellent Resource for NT Manuscripts.
 
 
 
-   * [The Perseus Project](http://www.perseus.tufts.edu/)  
+   * The Perseus Project  
 Resources for the Study of Classical and Koine Greek.
 
 
 
-   * [The Nag Hammadi Library](http://www.gnosis.org/naghamm/nhsearch.html)  
+   * The Nag Hammadi Library  
 A Searchable Database of the Nag Hammadi texts.
 
 
 
-   * [Vine's Expository Dictionary of New Testament Words](http://www.menfak.no/bibel/vines.html)  
+   * Vine's Expository Dictionary of New Testament Words  
 A Searchable database of this useful tool.
 
 
@@ -310,42 +310,42 @@ A Searchable database of this useful tool.
 
 
 
-   * [A World Without Q](http://www.bham.ac.uk/theology/q/)  
+   * A World Without Q  
 Good resources for Synoptic studies.
 
 
 
-   * [Blackballing Scripture: Scholarship Takes a Beating](http://www.gty.org/~phil/articles/jsem.htm)  
+   * Blackballing Scripture: Scholarship Takes a Beating  
 A article by Dr. MacArthur dealing with the Jesus Seminar.
 
 
 
-   * [A Commentary on the New Testament from the Talmud and Hebraica](http://philologos.org/__eb-jl/)  
+   * A Commentary on the New Testament from the Talmud and Hebraica  
 The full text of the classic work by Bishop Lightfoot.
 
 
 
-   * [Encyclopedia of New Testament Textual Criticism](http://www.skypoint.com/~waltzmn/)  
+   * Encyclopedia of New Testament Textual Criticism  
 Helpful source of articles and definitions.
 
 
 
-   * [Four Color Synopsis](http://www.mindspring.com/~scarlson/synopt/harmony/)  
+   * Four Color Synopsis  
 Interesting colorized harmony of the Synoptics in the Greek text.
 
 
 
-   * [New Testament Textual Criticism](http://www.ntgateway.com/textcrit.htm)  
+   * New Testament Textual Criticism  
 A Page of Useful Academic Links to Pages Dealing with Textual Criticism.
 
 
 
-   * [Qumran Fragment 7Q5](http://members.aol.com/egweimi/7q5.htm)  
+   * Qumran Fragment 7Q5  
 A discussion of this fragment and the New Testament text.
 
 
 
-   * [The Synoptic Problem Homepage](http://www.mindspring.com/~scarlson/synopt/index.html)  
+   * The Synoptic Problem Homepage  
 
 
 
@@ -359,26 +359,26 @@ A discussion of this fragment and the New Testament text.
 
 
 
-   * [From Jesus to Christ](http://www.pbs.org/wgbh/pages/frontline/shows/religion/)  
+   * From Jesus to Christ  
 A web page based on the PBS Frontline series. Good site with a lot of
 information.
 
 
 
-   * [The Letters to the Seven Churches](http://www.philologos.org/__eb-lttsc/)  
+   * The Letters to the Seven Churches  
 Full Text version of William Ramsey's classic work.
 
 
 
-   * [New Testament Gateway](http://www.ntgateway.com/)  
+   * New Testament Gateway  
 A portal of NT study sources maintained by Mark Goodacre.
 
 
 
-   * [Second Temple Jerusalem City Model](http://www.inisrael.com/holyland/model.html)
+   * Second Temple Jerusalem City Model
 
 
-   * [Resources for New Testament Studies](http://faculty.bbc.edu/rdecker/rd_rsrc.htm)  
+   * Resources for New Testament Studies  
 Very useful site maintained by Rodney Decker.
 
 
@@ -402,30 +402,30 @@ Very useful site maintained by Rodney Decker.
 
 
 
-   * [The Unbound Bible](http://unbound.biola.edu/)  
+   * The Unbound Bible  
 An Interesting Project from BIOLA University, several useful tools.
 
 
 
-   * [Bible Gateway](http://www.gospelcom.net/bible)  
+   * Bible Gateway  
 Online sources for various English and Non-English Bible translations online.
 
 
 
-   * [Bible.net](http://www.bibles.net/)  
+   * Bible.net  
 A large selection of online searchable Bible versions and concordances,
 unfortunately you have to listen to a poor rendition of "Dust in the Wind" in
 the background.
 
 
 
-   * [Latin Vulgate Text](http://www.fourmilab.ch/etexts/www/Vulgate/Vulgate.html)
+   * Latin Vulgate Text
 
 
-   * [Latin Word Search](http://www.perseus.tufts.edu/cgi-bin/psearch?lang=Latin)
+   * Latin Word Search
 
 
-   * [The NET Bible](http://www.bible.org/netbible/index.htm)  
+   * The NET Bible  
 The New English Translation, originally was available on the Internet as a
 work in progress. Good translation and critical notes.
 
@@ -441,45 +441,45 @@ work in progress. Good translation and critical notes.
 
 
 
-   * [Bible Texts Online Bible Commentary](http://www.bibletexts.com/bt.htm)  
+   * Bible Texts Online Bible Commentary  
 An interesting online commentary linking passages to web sites. Color
 selection for fonts is poor.
 
 
 
-   * [Blueletter Bible](http://www.khouse.org/blueletter/)  
+   * Blueletter Bible  
 Online searching of various English Bibles and some older commentaries.
 
 
 
-   * [The Christian Classics Ethereal Library](http://www.ccel.org/)  
+   * The Christian Classics Ethereal Library  
 A large repository of Christian texts. Somewhat cumbersome to navigate.
 
 
 
-   * [Evangelical Dictionary of Biblical Theology](http://bible.crosswalk.com/Dictionaries/BakersEvangelicalDictionary/)  
+   * Evangelical Dictionary of Biblical Theology  
 Searchable database for this reference work.
 
 
 
-   * [The Linked Word Project]()  
+   * The Linked Word Project  
 Interesting project from Bob Jones University, the interface is a little
 clunky to use.
 
 
 
-   * [Issues in Hermeneutics](http://www.prca.org/articles/issues_in_hermeneutics.html)  
+   * Issues in Hermeneutics  
 by Herman Hanko of Reformed Protestant Seminary, good overview of issues.
 
 
 
-   * [Philologos Online Religious Books](http://philologos.org/ebooks.htm)  
+   * Philologos Online Religious Books  
 Several full-text publications and popular public domain authors. Cutting edge
 e-book service.
 
 
 
-   * [Synopsis of the Bible](http://biblestudy.churches.net/CCEL/D/DARBY/SYNOPSIS/INDEX.HTM)  
+   * Synopsis of the Bible  
 John Nelson Darby's classic work. A survey of the entire Bible.
 
 
@@ -494,25 +494,25 @@ John Nelson Darby's classic work. A survey of the entire Bible.
 
 
 
-   * [Ancient Greek and Roman Coins](http://www.geocities.com/Athens/Acropolis/6193/)  
+   * Ancient Greek and Roman Coins  
 Interesting page with good graphics and data. Numismatics are an important
 background study.
 
 
 
-   * [Ancient Near East Map Series](http://www-oi.uchicago.edu/OI/INFO/MAP/ANE_Maps.html)  
+   * Ancient Near East Map Series  
 Maintained by the University of Chicago, promises to be the premier web site
 for ANE maps.
 
 
 
-   * [Archaeological Digs in Israel](http://www.israel-mfa.gov.il/mfa/go.asp?MFAH00wk0)  
+   * Archaeological Digs in Israel  
 Maintained by the Israel Ministry of Information, gives information on all the
 current digs going on in Israel.
 
 
 
-   * [Bible Places](http://www.bibleplaces.com)  
+   * Bible Places  
 A Great site operated by Prof. Todd Bohlen of The Master's College IBEX
 Department. A great source for Bible location photographs and materials. These
 are undoubtedly the best digital photographs of site locations and geographic
@@ -520,53 +520,53 @@ features of Israel and other Bible-related locations.
 
 
 
-   * [Biblical Hermeneutics Homepage](http://www.geocities.com/Athens/5948/hermeneutics.htm)  
+   * Biblical Hermeneutics Homepage  
 Some good articles and links to be found here.
 
 
 
-   * [Biblical Studies on the Web](http://www.bsw.org/index?l=41)  
+   * Biblical Studies on the Web  
 Mainly Catholic Resources, but some good links and resources.
 
 
 
-   * [Biblical Archaeology Resources ](http://www.bib-arch.org/links.html)  
+   * Biblical Archaeology Resources   
 Maintained by the Biblical Archaeology Society
 
 
 
-   * [Duke University Library Papyrus Archive](http://odyssey.lib.duke.edu/papyrus/)
+   * Duke University Library Papyrus Archive
 
 
-   * [The Jewish Student Online Research Center](http://www.us-israel.org/jsource/Archaeology/archintro.html)  
+   * The Jewish Student Online Research Center  
 Archaeological and background information, good graphics.
 
 
 
-   * [Links for Biblical Archaeology ](http://www.lpl.arizona.edu/~kmeyers/archaeol/bib_arch.html)  
+   * Links for Biblical Archaeology   
 Excellent list of sites pertaining to Biblical Archaeology maintained by Karen
 Myers.
 
 
 
-   * [Pepperdine Institute for the Study of Archaeology and Religion](http://www.pepperdine.edu/seaver/religion/isar/)  
+   * Pepperdine Institute for the Study of Archaeology and Religion  
 Some very good resources here.
 
 
 
-   * [Ritmeyer Archaeological Design](http://dialspace.dial.pipex.com/ritmeyer/)  
+   * Ritmeyer Archaeological Design  
 Maintained by Dr. Leen Ritmeyer, excellent resources for the study of
 Jerusalem and the Temple Mount.
 
 
 
-   * [The Temple Mount in Jerusalem](http://www.templemount.org/)  
+   * The Temple Mount in Jerusalem  
 Extremely useful site with much good information on the Temple Mount,
 including texts from Charles Warren's surveys.
 
 
 
-   * [World of the Bible](http://www.worldofthebible.com/)  
+   * World of the Bible  
 Web Site of Dr. Randall Price. Good links and helpful materials here.
 
 
@@ -581,46 +581,46 @@ Web Site of Dr. Randall Price. Good links and helpful materials here.
 
 
 
-   * [Ashkelon Excavations Homepage](http://www-oi.uchicago.edu/OI/PROJ/ASH/Ashkelon.html)
+   * Ashkelon Excavations Homepage
 
 
-   * [Bethsaida Excavations Homepage](http://www.unomaha.edu/~betsaida/)
+   * Bethsaida Excavations Homepage
 
 
-   * [British Archaeology in Carmel Homepage](http://www.wkac.ac.uk/departments/archaeology/sumaqa.htm)
+   * British Archaeology in Carmel Homepage
 
 
-   * [The Capernaum Homepage](http://198.62.75.1/www1/ofm/sites/TScpmain.html)
+   * The Capernaum Homepage
 
 
-   * [The Corinth Homepage](http://www.ascsa.edu.gr/Corinth/info.htm)
+   * The Corinth Homepage
 
 
-   * [El Ahawat Excavation Homepage](http://research.haifa.ac.il/~webhum/archeology/ahawat/)
+   * El Ahawat Excavation Homepage
 
 
-   * [Hazor Excavation Homepage](http://unixware.mscc.huji.ac.il/~hatsor/hazor.html)
+   * Hazor Excavation Homepage
 
 
-   * [Hebrew University of Jerusalem Archaeology Homepage](http://www.hum.huji.ac.il/ARCHAEOLOGY/)
+   * Hebrew University of Jerusalem Archaeology Homepage
 
 
-   * [The Meggido Expedition Homepage](http://www.tau.ac.il/~archpubs/megiddo/index.html)
+   * The Meggido Expedition Homepage
 
 
-   * [Sepphoris Excavation Homepage](http://www.colby.edu/rel/Israel.html)
+   * Sepphoris Excavation Homepage
 
 
-   * [Shar'ar Hagolan in the Jordan Rift Valley](http://www.hum.huji.ac.il/Archaeology/golan/)
+   * Shar'ar Hagolan in the Jordan Rift Valley
 
 
-   * [The Sardis Homepage](http://www.harvard-magazine.com/issues/ma98/sardis.html)
+   * The Sardis Homepage
 
 
-   * [Tel Dor Archaeological Excavation Homepage](http://www.qal.berkeley.edu/~teldor/index.html)
+   * Tel Dor Archaeological Excavation Homepage
 
 
-   * [The Thessolonica Homepage](http://alexander.macedonia.culture.gr/maps/macedon/salonica/salonica.html)  
+   * The Thessolonica Homepage  
 
 
 
@@ -647,25 +647,25 @@ Web Site of Dr. Randall Price. Good links and helpful materials here.
 
 
 
-   * [The Apostle's Creed and Notes](http://www.gty.org/~phil/creeds/apostles.htm)
+   * The Apostle's Creed and Notes
 
 
-   * [The Nicene Creed](http://www.crcna.org/cr/crbe/crbecdnc.htm)
+   * The Nicene Creed
 
 
-   * [The Definition of Chalcedon, 451](http://www.reformed.org/documents/chalcedon.html)
+   * The Definition of Chalcedon, 451
 
 
-   * [The Anthanasian Creed](http://home.earthlink.net/~andrepar/creed03.htm)
+   * The Anthanasian Creed
 
 
-   * [Canons of the Council of Orange, 529](http://www.reformed.org/documents/canons_of_orange.html)
+   * Canons of the Council of Orange, 529
 
 
-   * [The Anathemas of the Second Council of Constantinople, 533](http://home.earthlink.net/~andrepar/creed09.htm)
+   * The Anathemas of the Second Council of Constantinople, 533
 
 
-   * [Statement of Faith from the Third Council of Constantinople, 681](http://home.earthlink.net/~andrepar/creed13.htm)
+   * Statement of Faith from the Third Council of Constantinople, 681
 
 
 
@@ -674,31 +674,31 @@ _Reformation Era (1516-1648)_
 
 
 
-   * [Martin Luther's Ninety-Five Theses](http://www.gty.org/~phil/history/95theses.htm)
+   * Martin Luther's Ninety-Five Theses
 
 
-   * [The Second Helvetic Confession, 1566](http://gideon.goshen.net/History/AD/CreedsandConfessions/Confessions/TheSecondHelveticConfession.html)
+   * The Second Helvetic Confession, 1566
 
 
-   * [The Thirty Nine Articles of Religion, 1571](http://sunflower.singnet.com.sg/~kohfly/articles.html)
+   * The Thirty Nine Articles of Religion, 1571
 
 
-   * [The Canons of Dort, 1618](http://www.gty.org/~phil/creeds/dort.htm)
+   * The Canons of Dort, 1618
 
 
-   * [The Westminster Confession of Faith, 1646](http://www.reformed.org/documents/wcf_with_proofs/Index.html)
+   * The Westminster Confession of Faith, 1646
 
 
-   * [The Westminster Larger Catechism, 1648](http://www.opc.org/documents/WLC.html)
+   * The Westminster Larger Catechism, 1648
 
 
-   * [The Scottish Confession of Faith](http://www.swrb.com/newslett/actualnls/ScotConf.htm)
+   * The Scottish Confession of Faith
 
 
-   * [The Canons and Decrees of Trent](http://history.hanover.edu/early/trent.htm)
+   * The Canons and Decrees of Trent
 
 
-   * [The First London Baptist Confession of Faith, 1644-46](http://www.baptiststart.com/1stlondon.htm)
+   * The First London Baptist Confession of Faith, 1644-46
 
 
 
@@ -707,46 +707,46 @@ _Modern Era (1648 to Present_
 
 
 
-   * [Doctrinal Statement of The Master's Seminary](http://www.tms.edu/statfath.htm)
+   * Doctrinal Statement of The Master's Seminary
 
 
-   * [Second London Baptist Confession of Faith](http://www.ccel.org/creeds/bcf/bcf.htm)
+   * Second London Baptist Confession of Faith
 
 
-   * [The Philadelphia Baptist Confession, 1742](http://www.integrityonline11.com/rwcole/philconf.htm)
+   * The Philadelphia Baptist Confession, 1742
 
 
-   * [New Hampshire Baptist Confession of 1833](http://www.integrityonline11.com/rwcole/nh_conf.htm)
+   * New Hampshire Baptist Confession of 1833
 
 
-   * [Charles H. Spurgeon's Catechism of 1855](http://www.integrityonline11.com/rwcole/spur_cat.htm)
+   * Charles H. Spurgeon's Catechism of 1855
 
 
-   * [Decrees of the First Vatican Council, 1880](http://www.piar.hu/councils/ecum20.htm)
+   * Decrees of the First Vatican Council, 1880
 
 
-   * [Doctrinal Position of the Lutheran Church, Missouri Synod, 1932](http://www.lcms.org/belief.asp)  
+   * Doctrinal Position of the Lutheran Church, Missouri Synod, 1932  
 This site also contains links to other Lutheran confessional documents.
 
 
 
-   * [Documents of Vatican II](http://www.rc.net/rcchurch/vatican2/)
+   * Documents of Vatican II
 
 
-   * [Chicago Statement on Biblical Inerrancy](http://www.gty.org/~phil/creeds/chicago.htm)  
+   * Chicago Statement on Biblical Inerrancy  
 One of the most important theological documents dealing with the Bible.
 
 
 
-   * [Catechism of the Catholic Church](http://www.scborromeo.org/ccc.htm)  
+   * Catechism of the Catholic Church  
 A searchable version of the most recent document of Catholic beliefs.
 
 
 
-   * [The Cambridge Declaration of 1996](http://www.alliancenet.org/month/pr9901.EvangCelebration.html)
+   * The Cambridge Declaration of 1996
 
 
-   * [Baptist Faith and Message](http://www.sbc.net/default.asp?url=bfam_2000.html)  
+   * Baptist Faith and Message  
 The 2000 revision of the 1963 version. Along with past documents and articles.
 
 
@@ -761,52 +761,52 @@ The 2000 revision of the 1963 version. Along with past documents and articles.
 
 
 
-   * [American Society of Church History Home Page](http://www.churchhistory.org/)
+   * American Society of Church History Home Page
 
 
-   * [American Religious Experience](http://are.as.wvu.edu/)  
+   * American Religious Experience  
 Well done page of articles, resources and links related to American religious
 history. Useful, but eclectic.
 
 
 
-   * [Billy Graham Center Archives at Wheaton College](http://www.wheaton.edu/bgc/archives/archhp1.html)  
+   * Billy Graham Center Archives at Wheaton College  
 Archival Records of Evangelism in the United States. Excellent American Church
 History Resources.
 
 
 
-   * [Church History Internet Resources](http://www.csbsju.edu/library/internet/theochht.html)
+   * Church History Internet Resources
 
 
-   * [The ECOLE Church History Chronology Project](http://cedar.evansville.edu/~ecoleweb/chronol.html)
+   * The ECOLE Church History Chronology Project
 
 
-   * [Eusebius' Ecclesiastical History](http://www.newadvent.org/fathers/250100.htm)
+   * Eusebius' Ecclesiastical History
 
 
-   * [Early Church History Documents on the ECOLE Page](http://cedar.evansville.edu/~ecoleweb/documents.html)
+   * Early Church History Documents on the ECOLE Page
 
 
-   * [Institute for the Study of American Evangelicals](http://www.wheaton.edu/isae/)  
+   * Institute for the Study of American Evangelicals  
 Another fine site maintained by Wheaton College.
 
 
 
-   * [Internet Medieval Resources](http://www.fordham.edu/halsall/sbook1y.html)  
+   * Internet Medieval Resources  
 Links to the important documents and writings of the Reformation
 
 
 
-   * [ICL Net Guide to Church History Documents ](http://www.iclnet.org/pub/resources/christian-history.html)  
+   * ICL Net Guide to Church History Documents   
 Full text of various documents related to Church History
 
 
 
-   * [Hall of Church History](http://www.gty.org/~phil/hall.htm)
+   * Hall of Church History
 
 
-   * [Time Lines of Church History](http://millennium.fortunecity.com/scooby/87/index.html)  
+   * Time Lines of Church History  
 Scroll to the bottom of the page and access time-line charts of church history
 century by century. Fairly well done.
 
@@ -822,65 +822,65 @@ century by century. Fairly well done.
 
 
 
-   * [Alliance of Confessing Evangelicals](http://www.alliancenet.org/index.html)
+   * Alliance of Confessing Evangelicals
 
 
-   * [Anabaptist Web Page](http://www.anabaptists.org/)
+   * Anabaptist Web Page
 
 
-   * [Anglican Online](http://anglicansonline.org/index.html)  
+   * Anglican Online  
 Extensive site with many resources pertaining to the Anglican Church.
 
 
 
-   * [The Baptist Page](http://www.baptistpage.com/)
+   * The Baptist Page
 
 
-   * [Baptist General Conference Homepage](http://www.bgcworld.org/)
+   * Baptist General Conference Homepage
 
 
-   * [Bible Presbyterian Church Home Page](http://bpc.org/BPC_TOC.html)  
+   * Bible Presbyterian Church Home Page  
 Some interesting articles and resources.
 
 
 
-   * [Calvary Chapel Home Page](http:www.calvarychapel.org)  
+   * Calvary Chapel Home Page  
 official website of Calvary Chapel.
 
 
 
-   * [Desiring God Ministries](http://www.desiringgod.org/index.html)  
+   * Desiring God Ministries  
 The home page for the ministry of John Piper. Articles and audio files.
 
 
 
-   * [Fellowship of Grace Brethren Churches](http://www.fgbc.org)
+   * Fellowship of Grace Brethren Churches
 
 
-   * [Founders Online](http://www.founders.org/)  
+   * Founders Online  
 Southern Baptist association committed to the SBC's original doctrinal
 positions.
 
 
 
-   * [General Association of Regular Baptist Churches (GARBC)](http://www.garbc.org)
+   * General Association of Regular Baptist Churches (GARBC)
 
 
-   * [Independent Fundamental Churches of America Home Page](http://www.ifca.org)
+   * Independent Fundamental Churches of America Home Page
 
 
-   * [Methodist Archive and Research Center](http://rylibweb.man.ac.uk/data1/dg/text/method.html)  
+   * Methodist Archive and Research Center  
 John Rylands University Library.
 
 
 
-   * [Orthodox Presbyterian Church Home Page](http://www.opc.org/)
+   * Orthodox Presbyterian Church Home Page
 
 
-   * [Plymouth Brethren Resources](http://www.storm.ca/~sabigail/)
+   * Plymouth Brethren Resources
 
 
-   * [Reformed Episcopal Church Online](http://recus.org/index.htm)
+   * Reformed Episcopal Church Online
 
 
  Back To Top
@@ -902,40 +902,40 @@ John Rylands University Library.
 
 
 
-   * [Alpha and Omega Ministries](http://www.aomin.org/)  
+   * Alpha and Omega Ministries  
 The Home Page for Dr. James White. Outstanding Resources for refuting Cults,
 Catholicism and King James Onlyism.
 
 
 
-   * [Applied Presuppositionalism](http://www.chesco.com/~topcat/ap.html)  
+   * Applied Presuppositionalism  
 Articles and materials from the late Greg Bahnsen.
 
 
 
-   * [Cult Research and Evangelism](http://pionet.net/~cultrsch/INDEX.HTM)
+   * Cult Research and Evangelism
 
 
-   * [Operation Clambake: Exposing the Secrets of Scientology](http://www.xenu.net)  
+   * Operation Clambake: Exposing the Secrets of Scientology  
 A Page dedicated to exposing the false teaching of the Church of Scientology
 cult and L. Ron Hubbard. A lot of information and articles, not from a
 Christian perspective.
 
 
 
-   * [Stand to Reason Ministries](http://www.str.org/)  
+   * Stand to Reason Ministries  
 Good articles from an evidentialist point of view. Excellent material on
 ethics.
 
 
 
-   * [Utah Lighthouse Ministries](http://www.utlm.org/)  
+   * Utah Lighthouse Ministries  
 The site of Gerald and Sandy Tanner,excellent material refuting and exposing
 Mormonism.
 
 
 
-   * [The Watchtower Observer](http://www.observer.org)  
+   * The Watchtower Observer  
 The official site of ex-Jehovah Witnesses. Excellent material on this cult.
 
 
@@ -950,17 +950,17 @@ The official site of ex-Jehovah Witnesses. Excellent material on this cult.
 
 
 
-   * [Evangelicals and Catholics Together? by Dr. MacArthur](http://www.tms.edu/tmsj/tmsj6a.pdf)  
+   * Evangelicals and Catholics Together? by Dr. MacArthur  
 A Critical Examination of the ECT Document and its Ramifications.
 
 
 
-   * [Christian Witness to Roman Catholicism](http://www.cwrc-rz.org/)  
+   * Christian Witness to Roman Catholicism  
 Excellent material confronting unbiblical theology within Roman Catholicism.
 
 
 
-   * [Virtual Religion Index](http://religion.rutgers.edu/vri/)  
+   * Virtual Religion Index  
 
 
 
@@ -974,98 +974,98 @@ Excellent material confronting unbiblical theology within Roman Catholicism.
 
 
 
-   * [Abstract of Systematic Theology](http://www.founders.org/library/boyce1/toc.html)  
+   * Abstract of Systematic Theology  
 Full text of this important Baptist work by Boyce.
 
 
 
-   * [According to Prophecy Ministries](http://www.according2prophecy.org/index.html)  
+   * According to Prophecy Ministries  
 Donald Perkins web site, some sensationalism, but quite a few good articles.
 
 
 
-   * [The Ankerberg Theological Research Institute](http://www.ankerberg.com/)
+   * The Ankerberg Theological Research Institute
 
 
-   * [Biblical Theology and Redemptive Historical Hermeneutics Homepage](http://www.two-age.org/)  
+   * Biblical Theology and Redemptive Historical Hermeneutics Homepage  
 A site dedicated to the works of Gerhardus Vos. Valuable for the full-text
 documents.
 
 
 
-   * [Canadian Institute for Law, Theology and Public Policy](http://www.lights.com/caninst/)  
+   * Canadian Institute for Law, Theology and Public Policy  
 Works of John Warwick Montgomery and others.
 
 
 
-   * [Center for Reformed Theology and Apologetics](http://www.crta.org/index2.html)  
+   * Center for Reformed Theology and Apologetics  
 Quite a bit a good material here, including full-text pages of classic
 theological literature.
 
 
 
-   * [Classic Theological Articles](http://www.markers.com/ink/classic.htm)  
+   * Classic Theological Articles  
 From the Reformed perspective, classic articles by the Princeton theologians,
 Calvin, and others.
 
 
 
-   * [Center for Reformed Theology and Apologetics](http://www.crta.org/index2.html)  
+   * Center for Reformed Theology and Apologetics  
 The name says it all, there are a lot of good (and not so good) resources
 here.
 
 
 
-   * [Contemporary Theological Articles](http://www.markers.com/ink/contemp.htm)  
+   * Contemporary Theological Articles  
 From a Reformed Perspective. This site has lots of outstanding material.
 
 
 
-   * [The Controversial Charismata](http://www.geocities.com/Athens/Atlantis/5068/charismata/)  
+   * The Controversial Charismata  
 A collection of online articles dealing with issues in the Charismatic
 movement.
 
 
 
-   * [Dispensational.com](http://www.dispensationalism.com/)  
+   * Dispensational.com  
 Dedicated to more classical dispensationalism. Utilizes the Dallas Seminary
 doctrinal statement.
 
 
 
-   * [Dispensational International Research Center](http://www.tyndale.edu/dirc/)  
+   * Dispensational International Research Center  
 Maintained by Tyndale Seminary, a growing work with some good resources.
 
 
 
-   * [The Fundamentals Homepage](http://www.xmission.com/~fidelis/)  
+   * The Fundamentals Homepage  
 Full text of the significant four volume work. Other resources as well.
 
 
 
-   * [Has Bible Prophecy Already Been Fulfilled?](http://www.ldolphin.org/preterism-ice.html)  
+   * Has Bible Prophecy Already Been Fulfilled?  
 By Thomas Ice, a thorough examination and refutation of preterism.
 
 
 
-   * [The Thomas Ice Homepage](http://www.novia.net/~todd/ttcol.html)  
+   * The Thomas Ice Homepage  
 Online articles, mainly dealing with eschatological themes.
 
 
 
-   * [Theological Resources Exchange Network](http://www.tren.com/)  
+   * Theological Resources Exchange Network  
 Obtain copies and/or microfiche of theses, dissertations and society papers.
 Searchable database.
 
 
 
-   * [Wrongly Dividing the Word](http://www.cnonline.net/~rkmiller/ultradispensationalism-ironside.htm)  
+   * Wrongly Dividing the Word  
 The Full-text work of H. A. Ironside's classic refutation of Hyper or Ultra
 dispensationalism.
 
 
 
-   * [The William Lane Craig Virtual Office](http://www.leaderu.com/offices/billcraig/)  
+   * The William Lane Craig Virtual Office  
 Online articles and materials.  
 
 
@@ -1089,22 +1089,22 @@ Online articles and materials.
 
 
 
-   * [Saint Augustine of Hippo Home Page](http://ccat.sas.upenn.edu/jod/augustine.html)
+   * Saint Augustine of Hippo Home Page
 
 
-   * [Early Church Fathers](http://www.ccel.org/fathers2/)
+   * Early Church Fathers
 
 
-   * [The Flavius Josephus Homepage](http://members.aol.com/fljosephus/home.htm)
+   * The Flavius Josephus Homepage
 
 
-   * [The Venerable Bede Homepage](http://www.cohums.ohio-state.edu/history/people/crisp.23/bede.htm)
+   * The Venerable Bede Homepage
 
 
-   * [The Gregory of Nyssa Homepage](http://www.bhsu.edu/dsalomon/nyssa/home.html)
+   * The Gregory of Nyssa Homepage
 
 
-   * [The William Tyndale Homepage](http://www.williamtyndale.com/)
+   * The William Tyndale Homepage
 
 
  Back To Top
@@ -1117,33 +1117,33 @@ Online articles and materials.
 
 
 
-   * [Project Wittenburg: Works of Martin Luther](http://www.iclnet.org/pub/resources/text/wittenberg/wittenberg-home.html)
+   * Project Wittenburg: Works of Martin Luther
 
 
-   * [John Calvin's Institutes of the Christian Religion](http://www.smartlink.net/~douglas/calvin/)  
+   * John Calvin's Institutes of the Christian Religion  
 Other selected works by Calvin as well.
 
 
 
-   * [The Thomas Manton Homepage](http://www.smartlink.net/~phillipj/manton/manton.htm)
+   * The Thomas Manton Homepage
 
 
-   * [The John Owen Homepage](http://www.theocentric.com/johnowen/)
+   * The John Owen Homepage
 
 
-   * [The Richard Baxter Homepage](http://members.aol.com/augusteen/Baxter.html)
+   * The Richard Baxter Homepage
 
 
-   * [The Cotton Mather Homepage](http://www.gty.org/~phil/mather.htm)
+   * The Cotton Mather Homepage
 
 
-   * [Pilgrim's Place: A John Bunyan Archive](http://www.johnbunyan.org/)
+   * Pilgrim's Place: A John Bunyan Archive
 
 
-   * [The Thomas Boston Homepage](http://www.geocities.com/~thomasboston/)
+   * The Thomas Boston Homepage
 
 
-   * [The Jonathan Edwards Homepage](http://www.JonathanEdwards.com/)
+   * The Jonathan Edwards Homepage
 
 
  Back To Top
@@ -1156,44 +1156,44 @@ Other selected works by Calvin as well.
 
 
 
-   * [The J. C. Ryle Homepage](http://www.iserv.net/~mrbill/)
+   * The J. C. Ryle Homepage
 
 
-   * [The Spurgeon Archive](http://www.spurgeon.org)  
+   * The Spurgeon Archive  
 Maintained by Phil Johnson, the Largest Collection of Full-Text Spurgeon
 Material on the Internet.
 
 
 
-   * [C. I. Scofield and His Bible](http://www.shepherdbible.org/scofield.htm)
+   * C. I. Scofield and His Bible
 
 
-   * [The Harry Ironside Homepage](http://www.wholesomewords.org/biography/biorpironside.html)
+   * The Harry Ironside Homepage
 
 
-   * [The J. Gresham Machen Homepage](http://fly.hiwaay.net/~bsrich/machen.htm)
+   * The J. Gresham Machen Homepage
 
 
-   * [The Francis Schaeffer Homepage](http://www.rationalpi.com/theshelter/index.html)
+   * The Francis Schaeffer Homepage
 
 
-   * [The Cornelius Van Til Page](http://www.ccir.ed.ac.uk/~jad/vantil.html)  
+   * The Cornelius Van Til Page  
 Sign up for the Van Til discussion list. Also good Van Til resources here.
 
 
 
-   * [The Arthur C. Custance Library](http://www.custance.org/)  
+   * The Arthur C. Custance Library  
 The Online library of the author of the Doorway Papers. Some very good and
 some very peculiar material.
 
 
 
-   * [The Martyn Lloyd-Jones Collection Home Page](http://www.mlj.org.uk/frames.htm)  
+   * The Martyn Lloyd-Jones Collection Home Page  
 Text and Audio Collection from this famous British Pastor.
 
 
 
-   * [The Ray C. Steadman Library](http://www.pbc.org/dp/stedman/)  
+   * The Ray C. Steadman Library  
 Full-Text and audio material from Dr. Steadman.
 
 
@@ -1221,148 +1221,148 @@ information for those interested. **
 
 
 
-   * [ The Master's Seminary Journal](http://www.tms.edu/journal.asp)
+   * The Master's Seminary Journal
 
 
-   * [American Schools of Oriental Research](http://www.asor.org/pubs.htm)  
+   * American Schools of Oriental Research  
 Table of Contents for: _Bulletin of the American Schools_ , _Near Eastern
 Archaeology_ , and _Journal of Cuneiform Studies_.
 
 
 
-   * [Archaeology Magazine](http://www.archaeology.org/)  
+   * Archaeology Magazine  
 Publication of the Archaeological Institute of America.
 
 
 
-   * [Biblica Online](http://www.bsw.org/index?l=71)  
+   * Biblica Online  
 Selected articles from Biblica journal.
 
 
 
-   * [Calvin Theological Journal](http://www.calvinseminary.edu/pubs/journal/index.htm)  
+   * Calvin Theological Journal  
 From Calvin Seminary, article listing only.
 
 
 
-   * [Chafer Theological Seminary Journal](http://www.chafer.edu/journal/journal.htm)  
+   * Chafer Theological Seminary Journal  
 Full-text articles. There is a separate link to book reviews.
 
 
 
-   * [Christian Bioethics](http://www.swets.nl/sps/journals/cb0402.html)  
+   * Christian Bioethics  
 Abstracts and indexes only.
 
 
 
-   * [Christianity Today Magazine Online](http://www.christianitytoday.com/ctmag/)
+   * Christianity Today Magazine Online
 
 
-   * [Denver Journal Online](http://www.gospelcom.net/densem/dj/index98.html)  
+   * Denver Journal Online  
 An Online Journal from Denver Seminary, mainly book reviews.
 
 
 
-   * [Emmaus Journal](http://www.emmaus.edu/ej_toc.html)  
+   * Emmaus Journal  
 The Theological Journal of Emmaus Bible College.
 
 
 
-   * [International Journal of Systematic Theology](http://www.blackwellpublishers.co.uk/asp/journal.asp?ref=1463-1652)  
+   * International Journal of Systematic Theology  
 Abstracts and indexes only.
 
 
 
-   * [Moody Magazine](http://www.moodymagazine.com)  
+   * Moody Magazine  
 Formerly Moody Monthly, no longer monthly.
 
 
 
-   * [The Founder's Journal](http://www.founders.org/journal.html)
+   * The Founder's Journal
 
 
-   * [Journal for Christian Theological Research ](http://home.apu.edu/~CTRF/jctr.html)  
+   * Journal for Christian Theological Research   
 One of the better "peer reviewed" E-Journals in terms of format and
 usefulness. Part of the AAR Systematic Theology Study group.
 
 
 
-   * [Journal for the Study of the New Testament](http://www.shef-ac-press.co.uk/4jsnt.cfm)  
+   * Journal for the Study of the New Testament  
 Sheffield Press journal. Not a lot of full-text material, but the index and
 subscription is available.
 
 
 
-   * [Journal for the Study of the Old Testament](http://www.shef-ac-press.co.uk/4jsot.cfm)  
+   * Journal for the Study of the Old Testament  
 Sheffield Press journal. Not a lot of full-text material, but the index and
 subscription is available.
 
 
 
-   * [Journal for the Study of the Psuedepigrapha](http://www.shef-ac-press.co.uk/4jsp.cfm)  
+   * Journal for the Study of the Psuedepigrapha  
 Sheffield Press journal. Not a lot of full-text material, but the index and
 subscription is available.
 
 
 
-   * [Journal of Religious and Theological Information](http://bubl.ac.uk/journals/lis/fj/jrati/)  
+   * Journal of Religious and Theological Information  
 Abstracts and searchable index.
 
 
 
-   * [McMaster Journal of Theology and Ministry](http://www.mcmaster.ca/mjtm/)  
+   * McMaster Journal of Theology and Ministry  
 Full-text articles for the E-Journal. Perspective is decidedly liberal in
 terms of theology and ministry.
 
 
 
-   * [Philosophia Christi](http://www.reasons.org/resources/apologetics/philchristi.html)  
+   * Philosophia Christi  
 Journal of the Evangelical Philosophical Society.
 
 
 
-   * [TC: Journal of Biblical Textual Criticism](http://rosetta.atla-certr.org/TC/TC-main.html)  
+   * TC: Journal of Biblical Textual Criticism  
 An online electronic peer-reviewed journal.
 
 
 
-   * [Quodlibet: An Online Journal of Christian Theology and Philosophy]()  
+   * Quodlibet: An Online Journal of Christian Theology and Philosophy  
 An online journal with some good articles, if you can ignore the horrible
 graphics.
 
 
 
- [Reformation and Revival Journal](http://www.randr.org/Journal/Journal.htm)  
+ Reformation and Revival Journal  
 Indexes only.
 
 
 
-   * [Religious and Theological Abstracts](http://www.rtabst.org/)  
+   * Religious and Theological Abstracts  
 Searchable site, more benefits for subscribers.
 
 
 
-   * [Reviews of Biblical Literature](http://www.bookreviews.org/)  
+   * Reviews of Biblical Literature  
 The book review publication of the Society of Biblical Literature. Full text
 of the reviews in searchable database.
 
 
 
-   * [The Tyndale Bulletin](http://www.tyndale.cam.ac.uk/tyndale/tb/contents.html)
+   * The Tyndale Bulletin
 
 
-   * [Wesley Theological Journal](http://wesley.nnu.edu/theojrnl/)  
+   * Wesley Theological Journal  
 Only the Index for their volumes since 1966.
 
 
 
-   * [World Magazine Online](http://www.worldmag.com/world/home.asp)  
+   * World Magazine Online  
 Often sensationalistic and occasionally unguarded, but often has some useful
 material.
 
 
 
-   * [The ATLA Serials Project](http://rosetta.atla-certr.org/CERTR/ATLAS/FAQ.html)  
+   * The ATLA Serials Project  
 An ongoing effort to digitize many theological journals and make them
 available online (for a fee).
 
@@ -1378,106 +1378,106 @@ available online (for a fee).
 
 
 
-   * [Grace Books International](http://www.gbibooks.com)  
+   * Grace Books International  
 The Online Bookstore and Ordering Center for The Master's Seminary and Grace
 Community Church Campus Bookstore.
 
 
 
-   * [Amazon.com](http://www.amazon.com)  
+   * Amazon.com  
 Premier Online Booksellers.
 
 
 
-   * [Augsburg Fortress Press](http://www.fortresspress.com)
+   * Augsburg Fortress Press
 
 
-   * [Baker Book House](http://www.bakerbooks.com)  
+   * Baker Book House  
 Now also the owners of Fleming H. Revell Publishers
 
 
 
-   * [Banner of Truth Trust](http://www.banneroftruth.co.uk)
+   * Banner of Truth Trust
 
 
-   * [Barnes and Noble.com](http://www.barnesandnoble.com)
+   * Barnes and Noble.com
 
 
-   * [BookFinder.com](http://www.bookfinder.com/)  
+   * BookFinder.com  
 Excellent search engine for used and out of print books.
 
 
 
-   * [Books for Libraries](http://www.booksforlibraries.com/)  
+   * Books for Libraries  
 Excellent source for shelving, buys and sells library collections.
 
 
 
-   * [Cambridge University Press](http://www.cup.org)
+   * Cambridge University Press
 
 
-   * [Christian Focus Publications](http://www.christianfocus.com)
+   * Christian Focus Publications
 
 
-   * [Crossway Publishing Company ](http://www.crossway.com)  
+   * Crossway Publishing Company   
 Site Under Construction.
 
 
 
-   * [Cumberland Valley Bible Book Service](http://www.cvbbs.com/)
+   * Cumberland Valley Bible Book Service
 
 
-   * [Eerdman's Publishing Company](http://www.eerdmans.com)
+   * Eerdman's Publishing Company
 
 
-   * [Eisenbraun's Publishers](http://www.eisenbrauns.com)
+   * Eisenbraun's Publishers
 
 
-   * [Hendrickson Publishers](http://www.hendrickson)
+   * Hendrickson Publishers
 
 
-   * [Inter-Varsity Press](http://www.intervarsitypress.com)
+   * Inter-Varsity Press
 
 
-   * [Kregel Publications](http://www.kregel.com)
+   * Kregel Publications
 
 
-   * [Moody Press](http://www.moodypress.org)
+   * Moody Press
 
 
-   * [Pilgrim Publications ](http://www.pilgrimpub.org)  
+   * Pilgrim Publications   
 Publisher's of all of Charles Spurgeon's Materials and other Works. Owned and
 Operated by Bob Ross.
 
 
 
-   * [Regular Baptist Press](http://www.garbc.org/rbp)
+   * Regular Baptist Press
 
 
-   * [Sola Deo Gloria Books](http://www.sdgbooks.com/sdgbooks/main.html)
+   * Sola Deo Gloria Books
 
 
-   * [Sovereign Grace Publishers](http://www.sovgracepub.com/)
+   * Sovereign Grace Publishers
 
 
-   * [Still Waters Revival Books](http://www.swrb.com/)
+   * Still Waters Revival Books
 
 
-   * [T & T Clark Publishers](http://www.tandtclark.co.uk/tp.html)
+   * T & T Clark Publishers
 
 
-   * [Thomas Nelson Publishing](http://www.thomasnelson.com)
+   * Thomas Nelson Publishing
 
 
-   * [Trinity Book Service](http://www.trinitybookservice.org/)
+   * Trinity Book Service
 
 
-   * [Word Publishing](http://www.wordpublishing.com)  
+   * Word Publishing  
 A Part of Thomas Nelson Publishing.
 
 
 
-   * [Zondervan Publishing Company](http://www.zondervan.com)  
+   * Zondervan Publishing Company  
 
 
 
@@ -1497,55 +1497,49 @@ A Part of Thomas Nelson Publishing.
 **Other Links**  
   
 
-> [Phil Johnson's Bookmarks](http://www.gty.org/~phil/bookmark.htm) The most
-important set of annotated Christian links available.
+> Phil Johnson's Bookmarks The most important set of annotated Christian links
+available.
 
 
 
- [Best of the Christian Web Searching and Home Page](http://www.botcw.com)
-Something of the Christian Version of Yahoo or Lycos, good links but they are
-a little slow on updating.
+ Best of the Christian Web Searching and Home Page Something of the Christian
+Version of Yahoo or Lycos, good links but they are a little slow on updating.
 
 
 
- [Computer Assisted Theology](http://info.ox.ac.uk/ctitext/theology/)
-Impressive collection of links for Biblical studies.
+ Computer Assisted Theology Impressive collection of links for Biblical
+studies.
 
 
 
- [God on the Net](http://www.godonthenet.com) This site lists over 1,000
-different links.
+ God on the Net This site lists over 1,000 different links.
 
 
 
- [The Lambert Dolphin Library of Links](http://www.ldolphin.org/URLres.shtml)
-One of the most extensive list of links on the Internet. An important place to
-look.
+ The Lambert Dolphin Library of Links One of the most extensive list of links
+on the Internet. An important place to look.
 
 
 
- [Links for New Testament
-Studies](http://www.artsci.wustl.edu/~cwconrad/nt.html)
+ Links for New Testament Studies
 
 
 
- [The Omnilist of Christian Links](http://members.aol.com/clinksgold/)
+ The Omnilist of Christian Links
 
 
 
- [The Robert Kraft Home Page](http://ccat.sas.upenn.edu/rs/rak/kraft.html)
-Kraft has been a leader in the utilization of online resources for biblical
-and theological studies.
+ The Robert Kraft Home Page Kraft has been a leader in the utilization of
+online resources for biblical and theological studies.
 
 
 
- [The Society of Biblical Literature's Guide to Online Resources for Biblical
-Studies](http://www.sbl-site2.org/e-sites.php3)
+ The Society of Biblical Literature's Guide to Online Resources for Biblical
+Studies
 
 
 
- [University of Pennsylvania Library Resources for Biblical
-Studies](http://www.library.upenn.edu/resources/subject/humanities/religion/working/bible.html)  
+ University of Pennsylvania Library Resources for Biblical Studies  
 
 
 
@@ -1566,57 +1560,57 @@ Studies](http://www.library.upenn.edu/resources/subject/humanities/religion/work
 
 
 
-   * [The Atlanta Journal-Constitution](http://www.accessatlanta.com/partners/ajc/)
+   * The Atlanta Journal-Constitution
 
 
-   * [The Chicago Tribune](http://www.chicagotribune.com)
+   * The Chicago Tribune
 
 
-   * [The Daily News: ](http://www.dailynews.com)  
+   * The Daily News:   
 The Newspaper for the San Fernando Valley.
 
 
 
-   * [The Dallas Morning News](http://www.dallasnews.com)
+   * The Dallas Morning News
 
 
-   * [The Denver Post](http://www.denverpost.com)
+   * The Denver Post
 
 
-   * [The Detroit News](http://www.detnews.com)
+   * The Detroit News
 
 
-   * [The Kansas City Star](http://www.kcstar.com/)
+   * The Kansas City Star
 
 
-   * [The Los Angeles Times](http://www.latimes.com)
+   * The Los Angeles Times
 
 
-   * [The Miami Herald](http://www.miamihearld.com)
+   * The Miami Herald
 
 
-   * [The New York Times](http://www.nytimes.com)
+   * The New York Times
 
 
-   * [The Philadelphia Inquirer](http://inq.philly.com/content/inquirer/home/)
+   * The Philadelphia Inquirer
 
 
-   * [The San Francisco Chronicle](http://www.sfgate.com/chronicle/)
+   * The San Francisco Chronicle
 
 
-   * [The Seattle Times](http://seattletimes.nwsource.com/cgi-bin/WebObjects/SeattleTimes.woa/wa/)
+   * The Seattle Times
 
 
-   * [USA Today Online](http://www.usatoday.com)
+   * USA Today Online
 
 
-   * [The Washington Post](http://www.washingtonpost.com)
+   * The Washington Post
 
 
-   * [The Washington Times](http://www.washingtontimes.com)
+   * The Washington Times
 
 
-   * [The Wall Street Journal](http://www.wsj.com)  
+   * The Wall Street Journal  
 
 
 
@@ -1631,22 +1625,22 @@ The Newspaper for the San Fernando Valley.
 
 
 
-   * [The Economist](http://www.economistgroup.com/)
+   * The Economist
 
 
-   * [The Jerusalem Post](http://www.jpost.com)
+   * The Jerusalem Post
 
 
-   * [The National Post (Canada)](http://www.nationalpost.com/)
+   * The National Post (Canada)
 
 
-   * [The Sunday Times (South Africa)](http://www.sundaytimes.co.za/)
+   * The Sunday Times (South Africa)
 
 
-   * [The Sydney Morning Herald](http://www.smh.com.au/)
+   * The Sydney Morning Herald
 
 
-   * [The Times of London](http://www.thetimes.co.uk/)  
+   * The Times of London  
 
 
 
@@ -1660,48 +1654,48 @@ The Newspaper for the San Fernando Valley.
 
 
 
-   * [Fox News Online](http://www.foxnews.com)
+   * Fox News Online
 
 
-   * [ABC News Online](http://www.abcnews.com)
+   * ABC News Online
 
 
-   * [CBS Network News](http://www.cbsnews.com)
+   * CBS Network News
 
 
-   * [CNN](http://www.cnn.com)
+   * CNN
 
 
-   * [MSNBC Online News](http://www.msnbc.com)
+   * MSNBC Online News
 
 
-   * [The American Spectator Online: ](http://www.spectator.org/)  
+   * The American Spectator Online:   
 Useful online news magazine.
 
 
 
-   * [Business Week Online: ](http://www.businessweek.com/)  
+   * Business Week Online:   
 Premier business news magazine online edition.
 
 
 
-   * [Jewish World Review: ](http://www.jewishworldreview.com/)  
+   * Jewish World Review:   
 Online opinion articles from noted conservative writers and scholars.
 
 
 
-   * [Newsweek Online: ](http://www.msnbc.com/news/NW-front_Front.asp)  
+   * Newsweek Online:   
 Online home of the weekly news magazine, they run this jointly with MSNBC,
 which has interesting implications in terms of objectivity.
 
 
 
-   * [Time Magazine Online: ](http://www.time.com/time/)  
+   * Time Magazine Online:   
 The online presence of this noted news magazine.
 
 
 
-   * [US News and World Report: ](http://www.usnews.com/usnews/home.htm) Online edition of this weekly.
+   * US News and World Report:  Online edition of this weekly.
 
 
  Back To Top
@@ -1710,86 +1704,86 @@ The online presence of this noted news magazine.
 
 
 
-   * [How to Do Research: ](http://www.tms.edu/research.htm)  
+   * How to Do Research:   
 An Annotated Bibliography for Biblical and Theological Research: Covering
 Sources, Methodology and Writing Skills.
 
 
 
-   * [Alta-Vista Translation Page: ](http://hepax6.rl.ac.uk/DELPHI/Adye/AltavistaTranslate.html)  
+   * Alta-Vista Translation Page:   
 Translation words and phrases from English to several other languages.
 
 
 
-   * [American Library Association ](http://www.ala.org/booklist/)[Booklets](http://www.ala.org/booklist/)  
+   * American Library Association Booklets  
 Book reviews of various genre of books. Good material and information,
 although the ALA is one of the most liberal organizations in America.
 
 
 
-   * [The Academic Web of Israel](http://www.ac.il)  
+   * The Academic Web of Israel  
 Access links to all Israeli universities and research centers.
 
 
 
-   * [The Biography Page](http://www.biography.com/)  
+   * The Biography Page  
 Sponsored by the Biography Channel, good basic information and features.
 
 
 
-   * [Chicago Manual of Style FAQ](http://www.press.uchicago.edu/Misc/Chicago/cmosfaq.html#4)  
+   * Chicago Manual of Style FAQ  
 A FAQ page where new issues of writing style, formatting and other questions
 are answered by the CMS editors.
 
 
 
-   * [The CIA World Fact Book](http://www.odci.gov/cia/publications/factbook/index.html)  
+   * The CIA World Fact Book  
 Information on every country in the world.
 
 
 
-   * [Copyright Office, Library of Congress](http://www.loc.gov/copyright/)  
+   * Copyright Office, Library of Congress  
 Full Information on Current Copyright Laws and Regulations.
 
 
 
-   * [Current Library of Congress Exhibits](http://lcweb.loc.gov/exhibits/)
+   * Current Library of Congress Exhibits
 
 
-   * [Ethnologic](http://www.sil.org/ethnologue/)  
+   * Ethnologic  
 Information and Statistics on All Known Languages Worldwide.
 
 
 
-   * [Expedia.com](http://maps.expedia.com/pub/agent.dll?qscr=over&fmap=1&zz=981777227387&zz=982015523860)  
+   * Expedia.com  
 Online maps and directions for anywhere in the United States.
 
 
 
-   * [Fed Stats](http://www.fedstats.gov)  
+   * Fed Stats  
 Access to Statistics from over 100 Federal Agencies.
 
 
 
-   * [First Gov](http://www.firstgov.gov/)  
+   * First Gov  
 The "front page" to all of the United States government web sites.
 
 
 
-   * [Hanover Historical Texts Project](http://history.hanover.edu/project.html)  
+   * Hanover Historical Texts Project  
 An excellent project to make full-text historical document (of all types)
 available on the web.
 
 
 
-   * [How Stuff Works.com](http://www.howthingswork.com/)  
+   * How Stuff Works.com  
 A great site that gives thorough but easily understood information on how
 virtually anything from nature to technology works. One of the best sites on
 the web.
 
 
 
-   * [The Junkscience Homepage](http://www.junkscience.com)  
+   * The Junkscience Homepage  
 A wonderful site designed to debunk the latest fads in politically correct
 science. Be sure to check this page before you use the latest scientific
 "fact" as a sermon illustration.

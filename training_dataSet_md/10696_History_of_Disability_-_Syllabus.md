@@ -1,13 +1,8 @@
-  [![Crossroads
-logo](../logo_sm.gif)](http://crossroads.georgetown.edu/index.html) |   |
-[![Technology &
-Learning](../tech_sm.gif)](http://crossroads.georgetown.edu/innovation.html)
-[![Reference &
-Research](../ref_sm.gif)](http://crossroads.georgetown.edu/reference.html)
-[![Communities](../com_sm.gif)](http://crossroads.georgetown.edu/curriculum.html)
+  ![Crossroads logo](../logo_sm.gif) |   | ![Technology &
+Learning](../tech_sm.gif) ![Reference & Research](../ref_sm.gif)
+![Communities](../com_sm.gif)
 
- ![horizontal red rule](../redrule.gif)
-[![Curriculum](../cur.gif)](http://crossroads.georgetown.edu/community.html)
+ ![horizontal red rule](../redrule.gif) ![Curriculum](../cur.gif)
 
   
 ---|---|---  
@@ -23,7 +18,7 @@ Research](../ref_sm.gif)](http://crossroads.georgetown.edu/reference.html)
 #### History of Disability
 
 Douglas Baynton  
-[douglas-baynton@uiowa.edu](mailto:douglas-baynton@uiowa.edu)
+douglas-baynton@uiowa.edu
 
 Graduate Seminar  
 Spring, 1998
@@ -60,9 +55,9 @@ also available at Prairie Lights:
 
     
     
-    Shapiro, Joseph, _No Pity: People with Disabilities Forging a New Civil Rights Movement_
-              	(Times Books/Random House, 1993). 
-     Thomson, Rosemarie Garland, _Extraordinary Bodies: Figuring Physical Disability in American Culture and Literature_ 
+    Shapiro, Joseph, _No Pity: People with Disabilities Forging a New Civil Rights Movement_
+              	(Times Books/Random House, 1993). 
+     Thomson, Rosemarie Garland, _Extraordinary Bodies: Figuring Physical Disability in American Culture and Literature_ 
     	(Columbia University Press, 1997).   
      Thomson, Rosemarie Garland, _Freakery: Cultural Spectacles of the Extraordinary Body_   
     	(New York University Press, 1996).   
@@ -267,14 +262,7 @@ Discussion of critiques.
   
 * * *
 
-[Communities](http://crossroads.georgetown.edu/community.html) |
-[Curriculum](http://crossroads.georgetown.edu/curriculum.html) | [Technology &
-Learning](http://crossroads.georgetown.edu/innovation.html) | [Reference &
-Research](http://crossroads.georgetown.edu/reference.html) [Crossroads home
-page](http://crossroads.georgetown.edu/index.html) | [About
-Crossroads](http://crossroads.georgetown.edu/about.html) | [What's
-New](http://crossroads.georgetown.edu/new.html) | [Visitors'
-Book](http://crossroads.georgetown.edu/visitor.html)   This section last
-updated August 2000. Please send comments to [Crossroads
-Webstaff](mailto:cepacs@gusun.georgetown.edu).
+Communities | Curriculum | Technology & Learning | Reference & Research
+Crossroads home page | About Crossroads | What's New | Visitors' Book   This
+section last updated August 2000. Please send comments to Crossroads Webstaff.
 

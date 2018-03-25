@@ -8,9 +8,7 @@
 
 * * *
 
-From: Renee Romano,
-INTERNET:[rromano@wesleyan.edu](mailto:rromano@wesleyan.edu) **DATE: 6/5/97
-10:20 AM**
+From: Renee Romano, INTERNET:rromano@wesleyan.edu **DATE: 6/5/97 10:20 AM**
 
 AfAm 345/History 345/Wm Studies 345  
 Wednesdays 1:00-4:00  
@@ -237,7 +235,7 @@ December 10: Student Presentations of Research
 >Thanks very much for your trouble.  
 >  
 >Maria Elena Raymond  
->[73113.1362@compuserve.com](mailto:73113.1362@compuserve.com)  
+>73113.1362@compuserve.com  
 >H-WOmen Web Page Co-Editor
 
   * End Part 2 / Begin Part 3 ===================== Name: AfAm_Family_History 
@@ -465,7 +463,7 @@ December 10: Student Presentations of Research
   * End Part 3 ============================= 
 
   
-[Return](/~women/) to H-Women Home Page.  
+Return to H-Women Home Page.  
 
 * * *
 

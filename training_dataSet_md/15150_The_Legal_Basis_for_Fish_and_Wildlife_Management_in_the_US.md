@@ -1,4 +1,4 @@
-[![\[Back\]](../graphics/back.gif)](attitudes.html)[![\[Home\]](../graphics/home.gif)](../index.html)[![\[Syllabus\]](../graphics/syllabus.gif)](../syllabus.html)[![\[Forward\]](../graphics/forward.gif)](players.html)
+![\[Back\]](../graphics/back.gif)![\[Home\]](../graphics/home.gif)![\[Syllabus\]](../graphics/syllabus.gif)![\[Forward\]](../graphics/forward.gif)
 
 * * *
 
@@ -6,7 +6,7 @@
 
 
 
-[Erik Fritzell](../bio/fritzell.html), Department of Fisheries and Wildlife,
+Erik Fritzell, Department of Fisheries and Wildlife,
 
 Oregon State University
 
@@ -254,5 +254,5 @@ casesMartin vs. Waddell and Missouri vs. Holland.
 
 * * *
 
-[![\[Back\]](../graphics/back.gif)](attitudes.html)[![\[Home\]](../graphics/home.gif)](../index.html)[![\[Syllabus\]](../graphics/syllabus.gif)](../syllabus.html)[![\[Forward\]](../graphics/forward.gif)](players.html)
+![\[Back\]](../graphics/back.gif)![\[Home\]](../graphics/home.gif)![\[Syllabus\]](../graphics/syllabus.gif)![\[Forward\]](../graphics/forward.gif)
 

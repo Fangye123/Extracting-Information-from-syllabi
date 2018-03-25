@@ -5,18 +5,14 @@
 W. Fitzhugh Brundage  
 Turlington 4131  
 Office Hours: Wednesday 8am-12am, 1-2pm  
-**[brundage@history.ufl.edu](mailto:brundage@history.ufl.edu)**
+**brundage@history.ufl.edu**
 
 * * *
 
 Course Description  
 Course Requirements  
-[Assigned
-Readings](http://web.clas.ufl.edu/users/brundage/20thcentury_grad_course/2000_syllabus.htm#Assigned
-Readings)  
-[Course
-Schedule](http://web.clas.ufl.edu/users/brundage/20thcentury_grad_course/2000_syllabus.htm#Reading
-Assignments)  
+Assigned Readings  
+Course Schedule  
 Thinking About Your Oral Presentation
 
 * * *

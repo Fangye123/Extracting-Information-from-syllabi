@@ -1,13 +1,11 @@
 The Cultural Role of the State in Pre-modern China, Islam and Europe
-[**Student Course Guide**](http://www.princeton.edu/scg/)
-![->](/~scg/pics/arrow.gif) [ Spring 1999](/~scg/html/departments.s99.shtml)
-![->](/~scg/pics/arrow.gif) [Humanistic Studies](../s99.shtml)
-![->](/~scg/pics/arrow.gif) [430](/~scg/search/searchcourse.pl?q=HUM+430)
+**Student Course Guide** ![->](/~scg/pics/arrow.gif) Spring 1999
+![->](/~scg/pics/arrow.gif) Humanistic Studies ![->](/~scg/pics/arrow.gif) 430
 ![->](/~scg/pics/arrow.gif) Professor's Syllabus  
 ---  
   
 ### The Cultural Role of the State in Pre-modern China, Islam and Europe  
-[MA Cook](/~scg/search/searchprof.pl?last=Cook&init=MA)  
+MA Cook  
 1:30-4:20 F
 
 Provisional Syllabus

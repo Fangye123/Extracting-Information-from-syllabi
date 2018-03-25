@@ -2,8 +2,7 @@
 
 **History 407/507**
 
-[ Professor Elizabeth
-Reis](http://darkwing.uoregon.edu/~history/people/faculty/other/reis.htm)  
+Professor Elizabeth Reis  
 224 PLC  
 Wednesday, 3:30-5:30  
 (541) 346-5904
@@ -57,22 +56,18 @@ Students will be responsible as well for preparing an outline of major
 questions and issues for one week's readings to help facilitate class
 discussion.
 
-[Link to Grading
-Criteria](http://darkwing.uoregon.edu/~lzreis/public/gradingcriteria.htm)
+Link to Grading Criteria
 
-[Link to Guide to Writing Research
-Papers](http://darkwing.uoregon.edu/~lzreis/public/hst407guide.htm)
+Link to Guide to Writing Research Papers
 
-[A 4th grade
-checklist](http://darkwing.uoregon.edu/~lzreis/public/4thgradechecklist.htm)
+A 4th grade checklist
 
-[RESEARCH LINKS
-](http://darkwing.uoregon.edu/~lzreis/public/407%20Helpful%20Links.htm)
+RESEARCH LINKS
 
 **Required Books: **
 
-Elizabeth Reis, __[Damned Women: Sinners and Witches in Puritan New England
-_](http://darkwing.uoregon.edu/~lzreis/public/mybooks.htm)_ (New York, 1997).  
+Elizabeth Reis, __Damned Women: Sinners and Witches in Puritan New England __
+(New York, 1997).  
 R. Marie Griffith, _God's Daughters: Evangelical Women and the Power of
 Submission_ (Berkeley, 1997).  
 Rosemary Radford Ruether and Rosemary Skinner Keller, eds., _In Our Own

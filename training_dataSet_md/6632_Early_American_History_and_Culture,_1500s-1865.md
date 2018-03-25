@@ -12,8 +12,7 @@ Richard Stockton College of New Jersey**
 ####  ![](ecole1.jpg)
 
 ####  Thomas Cole, "The Connecticut River Near Northampton," 1836.  
-{Courtesy of Carol L. Gerten and her magnificent [CGFA
-Website](http://metalab.unc.edu/cgfa/index.html)}
+{Courtesy of Carol L. Gerten and her magnificent CGFA Website}
 
 ####  ![](borsquar.gif)
 
@@ -51,33 +50,33 @@ AMERICAN_** **_STUDIES to 1789_**
 
 **NEW ENGLAND TO 1789: REGIONAL HISTORY AND CULTURAL LIFE**
 
-###  **[PAGE ONE](neng-891.htm)**
+###  **PAGE ONE**
 
-###  **[PAGE TWO](neng-892.htm)**
+###  **PAGE TWO**
 
 * * *
 
 ###  **THE MID-ATLANTIC TO 1789: REGIONAL HISTORY AND CULTURAL LIFE  
 **.  
-**[PAGE ONE](midat891.htm)**
+**PAGE ONE**
 
-###  **[PAGE TWO](midat892.htm)**
+###  **PAGE TWO**
 
 * * *
 
 ###  **THE SOUTH TO 1789: REGIONAL HISTORY AND CULTURAL LIFE  
 **.  
-[PAGE ONE](sou-891.htm)
+PAGE ONE
 
-###  [PAGE TWO](sou-892.htm)
+###  PAGE TWO
 
 * * *
 
   
 
 
-####  **[AMERICA IN THE EUROPEAN IMAGINATION TO THE 1760s](amaz-89.htm)**
-**{caution for younger children}**
+####  **AMERICA IN THE EUROPEAN IMAGINATION TO THE 1760s** **{caution for
+younger children}**
 
 .  ![](borsquar.gif)
 
@@ -92,24 +91,22 @@ Studies to 1865_**
 
 ###  PERIOD 1. 1606-1763: FORMING PROVINCIAL BRITISH SOCIETIES & MENTALITIES  
   
-[Page One: A. THE SOUTHERN REGION](vl1s-89.htm)
+Page One: A. THE SOUTHERN REGION
 
-###  **[Page Two: B. NEW ENGLAND AND THE MID-ATLANTIC REGIONS](v1nwen1.htm)**
+###  **Page Two: B. NEW ENGLAND AND THE MID-ATLANTIC REGIONS**
 
-###  [Page Three: B. (ctd.) NEW ENGLAND AND THE MID-ATLANTIC
-REGIONS](v1nwen2.htm)
+###  Page Three: B. (ctd.) NEW ENGLAND AND THE MID-ATLANTIC REGIONS
 
 ###  
 PERIOD 2. 1763-89: VALUES & BELIEFS IN A NEW WORLD REPUBLIC
 
-###  [Page Four: FUNDAMENTAL PRINCIPLES OF REPUBLICANISM](v1crea1.htm)
+###  Page Four: FUNDAMENTAL PRINCIPLES OF REPUBLICANISM
 
-###  [Page Five: (ctd.) FUNDAMENTAL PRINCIPLES OF REPUBLICANISM](v1crea2.htm)
+###  Page Five: (ctd.) FUNDAMENTAL PRINCIPLES OF REPUBLICANISM
 
-###  [Page Six: SHARED AND CONFLICTING VALUES, 1763-1789](v1crea3.htm)
+###  Page Six: SHARED AND CONFLICTING VALUES, 1763-1789
 
-###  [Page Seven: ](v1crea4.htm)[(ctd.) ](v1crea2.htm)[SHARED AND CONFLICTING
-VALUES, 1763-1789](v1crea4.htm)
+###  Page Seven: (ctd.) SHARED AND CONFLICTING VALUES, 1763-1789
 
 ![](borsquar.gif)
 
@@ -118,97 +115,89 @@ VALUES, 1763-1789](v1crea4.htm)
 
 ###  PERIOD 3. 1789-1826
 
-###  **[SHARED AND CONFLICTING VALUES IN A NEW WORLD REPUBLIC,
-1789-1826](v1790-26.htm)**
+###  **SHARED AND CONFLICTING VALUES IN A NEW WORLD REPUBLIC, 1789-1826**
 
 ###  **PERIOD 4. 1826-1865: Struggling Toward A Biracial Republic:
 Renegotiating Basic Premises During The Great Transformation, 1826-1865  **.
 
-###  [Section A. DIALOGUES ABOUT AN AMERICAN PATH OF ECONOMIC
-DEVELOPMENT](v126-a.htm)
+###  Section A. DIALOGUES ABOUT AN AMERICAN PATH OF ECONOMIC DEVELOPMENT
 
-###  [Section ](v126-a.htm)[B. DECLARATIONS CONCERNING CULTURAL
-DEVELOPMENT](v126-b.htm)
+###  Section B. DECLARATIONS CONCERNING CULTURAL DEVELOPMENT
 
-###  [Section ](v126-a.htm)[C. PLURALISM AND CONFLICTING VALUES ON THE MEANING
-Of AMERICA: REMOVAL, "FREEDOM," & SLAVERY](v126-c.htm)
+###  Section C. PLURALISM AND CONFLICTING VALUES ON THE MEANING Of AMERICA:
+REMOVAL, "FREEDOM," & SLAVERY
 
 . ![](borsquar.gif)
 
 ##  **2-3. William Gilmore-Lehne: Course Syllabi & Resources**
 
-**A1. Syllabus for[HIST 4653 DRP: AMERICAN HISTORY](s99usdrp.htm) {Secs. 1/2}
+**A1. Syllabus forHIST 4653 DRP: AMERICAN HISTORY {Secs. 1/2} Spring, 1999**
+
+**A2. HIST 4653Requirements**
+
+**A3. Syllabus for GIS 3670 IMPACT OF COMMUNICATIONS IN CONTEMPORARY AMERICA
 Spring, 1999**
 
-**A2. HIST 4653[Requirements](s99drprq.htm)**
-
-**A3. Syllabus for[ GIS 3670 IMPACT OF COMMUNICATIONS IN CONTEMPORARY
-AMERICA](s99gissy.htm)  Spring, 1999**
-
-**A4. GIS 3670[Requirements](s99gisreq.htm).**  
+**A4. GIS 3670Requirements.**  
 
 * * *
 
-**B1. Syllabus for[HIST 2158 AMERICAN HISTORY & CIVILIZATION TO
-1789](f97-89.htm) Fall, 1997**
+**B1. Syllabus forHIST 2158 AMERICAN HISTORY & CIVILIZATION TO 1789 Fall,
+1997**
 
-**B2. HIST 2158[Requirements](f9789req.htm)**  
+**B2. HIST 2158Requirements**  
 
 * * *
 
-**C1. Syllabus for[HIST 2159 U.S. 1789-1865:  Forging an American
-Civilization](s9819csy.htm)**    **Spring, 1998**
+**C1. Syllabus forHIST 2159 U.S. 1789-1865:  Forging an American
+Civilization**    **Spring, 1998**
 
-###  **C2. HIST 2159[Requirements](s9819req.htm)**
+###  **C2. HIST 2159Requirements**
 
-###  **C3.  [ Resources in U.S. History and Civilization, 1789-1865 {Just
-beginning}](89-65p1.htm)**
+###  **C3.   Resources in U.S. History and Civilization, 1789-1865 {Just
+beginning}**
 
 ###  **C4. Bookmarks Files:**
 
-**[General, 1787-1865;](0US87651.htm)** . **[Chronological,
-1787-1865](0US87652.htm)**  
+**General, 1787-1865;** . **Chronological, 1787-1865**  
 .  
 
 * * *
 
-####  D1. Syllabus for [HIST 2332 Communications in U.S. Civilization,
-1585-1997](f97comhisyl.htm)   Fall, 1997
+####  D1. Syllabus for HIST 2332 Communications in U.S. Civilization,
+1585-1997   Fall, 1997
 
-####  D2. HIST 2332 [Requirements](f97comreq.htm)
-
-* * *
-
-####  E1. Syllabus for [GIS 3670 Impact of Communications in Contemporary
-America ](s98gissyl.htm)  Spring, 1998
-
-####  E2. GIS 3670 [Requirements](s98gisreq.htm)
+####  D2. HIST 2332 Requirements
 
 * * *
 
-####  F. Syllabus for [HIST 3304 Global History to 1450
-C.E.](../consorti/0s97glo.htm) {Syllabus & Requirements}   Spring, 1997
+####  E1. Syllabus for GIS 3670 Impact of Communications in Contemporary
+America   Spring, 1998
+
+####  E2. GIS 3670 Requirements
 
 * * *
 
-####  F1. Syllabus for [HIST 3306 Global History since 1450
-C.E.](../consorti/f97glo.htm)   Fall, 1997
+####  F. Syllabus for HIST 3304 Global History to 1450 C.E. {Syllabus &
+Requirements}   Spring, 1997
 
-####  F2. HIST 3306 [Requirements](../consorti/f97glreq.htm).
+* * *
 
-![](borsquar.gif) .. **[Return to _Clio's Digital Forge_
-Homepage](indexres.htm#wkshop)**  
+####  F1. Syllabus for HIST 3306 Global History since 1450 C.E.   Fall, 1997
+
+####  F2. HIST 3306 Requirements.
+
+![](borsquar.gif) .. **Return to _Clio's Digital Forge_ Homepage**  
 ---  
 
 
 ##  **to link to our other WEBSITE:**
 
-##  **_[The Global History Consortium's World Wide
-Website](../consorti/index.html)_**
+##  **_The Global History Consortium's World Wide Website_**
 
  ![](borsquar.gif) . **     I would very much appreciate suggestions,
-comments, etc. You may send** **me an E-mail message directly:[Clio's Digital
-Forge](mailto:gilmorew@pollux.stockton.edu)**  
+comments, etc. You may send** **me an E-mail message directly:Clio's Digital
+Forge**  
 **gilmorew@pollux.stockton.edu** **William J. Gilmore-Lehne, Associate
 Professor of History, The Richard Stockton College** **of New Jersey, Pomona,
 NJ 08240**

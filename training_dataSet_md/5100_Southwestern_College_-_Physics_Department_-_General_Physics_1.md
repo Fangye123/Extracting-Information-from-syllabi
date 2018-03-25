@@ -4,8 +4,7 @@
 
 ![](birds2.gif)
 
-[Southwestern College Home Page](http://www.sckans.edu/) [Physics Department
-Home Page  
+Southwestern College Home Page Physics Department Home Page  
 ---|---  
 ![](l_blue.gif)Syllabus  
 ![](l_blue.gif)Laboratory Materials  
@@ -13,8 +12,8 @@ Home Page
 ![](l_blue.gif)Study Aids  
 ![](l_blue.gif)Internet Resources  
 ![](l_blue.gif)Pictures  
-|  ![](l_red.gif)[Back to Syllabi](courses.html)  
-![](l_red.gif)[More Stuff](info.html)  
+|  ![](l_red.gif)Back to Syllabi  
+![](l_red.gif)More Stuff  
 ![](l_red.gif)Physics Department Links  
 ![](l_red.gif)Southwestern College Links  
   
@@ -30,23 +29,14 @@ Home Page
 ### Southwestern College Links  
   
 ---|---|---  
-[ ![Careers](jobsico1.gif)](careers.html) [
-![Catalog](catico1.gif)](catalog.html) [
-![Certification](certico1.gif)](teacher.html) [
-![Dual](engico1.gif)](dual.html) |  |  [
-![Career](planico1.gif)](http://www.sckans.edu/life/Career/home.html) [
-![Library](libico1.gif)](http://www.sckans.edu/library/home.html) [
-![PSC](profico1.gif)](http://www.sckans.edu/psc/home.html)  
-[ ![Faculty](insico1.gif)](instructors.html) [
-![Home](homeico1.gif)](home1.html) [ ![Information](info1.gif)](info.html) [
-![Message](messico1.gif)](message.html) |  |  [ ![SC
-Home](scico1.gif)](http://www.sckans.edu/home.html) [ ![History
-Home](history1.gif)](http://www.sckans.edu/~lwilg/home.html) [ ![English
-Home](english1.gif)](http://www.sckans.edu/~troyb/english.html)  
-[ ![Mission](misico1.gif)](mission.html) [
-![Students](studico1.gif)](students.html) [
-![Syllabi](syllabi1.gif)](courses.html) [ ![WWW](wwwico1.gif)](www.html) |  |
-[ ![Education Home](educa1.gif)](http://www.sckans.edu/~mich/educ.html)  
+![Careers](jobsico1.gif) ![Catalog](catico1.gif)
+![Certification](certico1.gif) ![Dual](engico1.gif) |  |
+![Career](planico1.gif) ![Library](libico1.gif) ![PSC](profico1.gif)  
+![Faculty](insico1.gif) ![Home](homeico1.gif) ![Information](info1.gif)
+![Message](messico1.gif) |  |  ![SC Home](scico1.gif) ![History
+Home](history1.gif) ![English Home](english1.gif)  
+![Mission](misico1.gif) ![Students](studico1.gif) ![Syllabi](syllabi1.gif)
+![WWW](wwwico1.gif) |  |  ![Education Home](educa1.gif)  
   
 * * *
 
@@ -365,28 +355,28 @@ Work Problems: 16, 30, 34, 57
 
 ##  Study Aids
 
-[1995 Quiz #1](95Q1.html)  
-[1995 Quiz #2](95Q2.html)  
-[1995 Quiz #3](95Q3.html)  
-[1993 Quiz #3](93Q3.html)  
-[1995 Quiz #4](95Q4.html)  
-[1994 Quiz #4](94Q4.html)  
-[1993 Quiz #4](93Q4.html)  
-[1993 Quiz #5](93Q5.html)  
-[1995 Quiz #5](95Q5.html)  
-[1995 Quiz #6](95Q6.html)  
-[1994 Quiz #6](94Q6.html)  
-[1993 Quiz #6](93Q6.html)  
-[1993 Quiz #7](93Q7.html)  
-[1994 Quiz #7](94Q7.html)  
-[1995 Quiz #7](95Q7.html)  
-[1995 Quiz #9](95Q9.html)  
-[1994 Quiz #9](94Q9.html)  
-[Lab Study Guide](labstudy.html)  
-[1995 Fianl Exam Page #1](95final1.html)  
-[1995 Final Exam Page #2](95final2.html)  
-[1995 Fianl Exam Page #3](95final3.html)  
-[1995 Fianl Exam Page #4](95final4.html)  
+1995 Quiz #1  
+1995 Quiz #2  
+1995 Quiz #3  
+1993 Quiz #3  
+1995 Quiz #4  
+1994 Quiz #4  
+1993 Quiz #4  
+1993 Quiz #5  
+1995 Quiz #5  
+1995 Quiz #6  
+1994 Quiz #6  
+1993 Quiz #6  
+1993 Quiz #7  
+1994 Quiz #7  
+1995 Quiz #7  
+1995 Quiz #9  
+1994 Quiz #9  
+Lab Study Guide  
+1995 Fianl Exam Page #1  
+1995 Final Exam Page #2  
+1995 Fianl Exam Page #3  
+1995 Fianl Exam Page #4  
 
 * * *
 
@@ -394,28 +384,20 @@ Work Problems: 16, 30, 34, 57
 
 ##  Internet Resources
 
-  * [A Vector Tutorial](http://www.physics.uoguelph.ca/tutorials/vectors/)
-  * [A Free-Body Diagram Tutorial](http://www.physics.uoguelph.ca/tutorials/fbd/intro.html)
-  * [A Dimensional Analysis Tutorial](http://www.physics.uoguelph.ca/tutorials/dimanaly/)
-  * [Other Physics Tutorials](http://www.physics.uoguelph.ca/tutorials/tutorials.html)
-  * [A Quick Summary of Logical Problem Solving Skills](http://www-hpcc.astro.washington.edu/mirrors/suremath/students1.html)
-  * [ Problem Solving](http://www-hpcc.astro.washington.edu/mirrors/suremath/physicsProblems.h
-tml)
-
-  * [ How to Solve Problems](http://www-hpcc.astro.washington.edu/mirrors/suremath/howTo.html)
-  * [ Solved Physics Problems](http://www-hpcc.astro.washington.edu/mirrors/suremath/journal.html#phys
-ics)
-
-  * [Interactive Physics Problem Set With Calculus](http://info.itp.berkeley.edu/Vol1/Contents.html)
-  * [ Eric's Treasure Trove of Physics](http://www.gps.caltech.edu/~eww/physics/physics0.html)
-  * [ The Physics Connexion: A Fresh Oasis for the Weary Physics Student](http://www.epix.net/~wkimler/)
-  * [ Physics Around the World: History of Science and Science Museums](http://www.physics.mcgill.ca:8081/physics-services/physics_history2.htm
-l)
-
-  * [ The Net Advance of Physics: History of Physics](http://web.mit.edu/afs/athena.mit.edu/user/r/e/redingtn/www/netadv/hist
-.html)
-
-  * [ Physics Biographies](http://www-hpcc.astro.washington.edu/scied/physics/physbio.html) 
+  * A Vector Tutorial
+  * A Free-Body Diagram Tutorial
+  * A Dimensional Analysis Tutorial
+  * Other Physics Tutorials
+  * A Quick Summary of Logical Problem Solving Skills
+  * Problem Solving
+  * How to Solve Problems
+  * Solved Physics Problems
+  * Interactive Physics Problem Set With Calculus
+  * Eric's Treasure Trove of Physics
+  * The Physics Connexion: A Fresh Oasis for the Weary Physics Student
+  * Physics Around the World: History of Science and Science Museums
+  * The Net Advance of Physics: History of Physics
+  * Physics Biographies 
 
 * * *
 
@@ -423,9 +405,9 @@ l)
 
 ##  Pictures
 
-[Galileo](galileo.html)  
-[Newton](newton.html)  
-[Joule](joule.html)
+Galileo  
+Newton  
+Joule
 
 * * *
 
@@ -440,7 +422,7 @@ Telephone: (316) 229-6000
 
 George Gangwere  
 Telephone: (316) 229-6308  
-E-Mail: [ gangwere@jinx.sckans.edu](MAILTO:gangwere@jinx.sckans.edu)
+E-Mail:  gangwere@jinx.sckans.edu
 
 URL="http://www.sckans.edu/~gangwere/general1.html"  
 Updated: August 22, 2000 by George Gangwere

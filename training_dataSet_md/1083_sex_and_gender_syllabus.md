@@ -3,15 +3,13 @@
 **History 410: Sex and Gender in Medieval and Early Modern Europe**
 
 Fall 1998  
-Professor Jennifer Fisk Rondeau; E-mail
-[jrondeau@darkwing.uoregon.edu](mailto:jrondeau@darkwing.uoregon.edu)  
+Professor Jennifer Fisk Rondeau; E-mail jrondeau@darkwing.uoregon.edu  
 Office: 221 PLC; Office Phone: 346-4821  
 Office Hours: Tuesdays, 10.00 a.m. to 12.00 noon, or by appointment  
   
 Requirements  | Grading | Schedule of Lecture Topics and Assignments |
-Discussion Questions | About the Class Listservs | [Guidelines for Listserv
-Discussion](listserv_guidelines.htm) | Paper Guidelines | [Midterm
-Guidelines](midterm_guide.htm) | [Final Guidelines](final_guide.htm)  
+Discussion Questions | About the Class Listservs | Guidelines for Listserv
+Discussion | Paper Guidelines | Midterm Guidelines | Final Guidelines  
   
   
 **_Course Description_**
@@ -35,9 +33,9 @@ Requirements | _**top of page
 _ and from a selection of volumes available on reserve in Knight Library.
 
   * Class attendance and participation. Class meetings will typically consist of a combination of lecture on background material and discussion of the reading assignments in the primary sources.
-  * Participation in an archived listserv discussion. You will choose one week's topic/s on which you will be required to post a brief summary and critical analysis of the week's readings, together with some supplemental bibliography which you will develop in consultation with the professor. This supplemental bibliography will also be posted, both to the list and to the course webpage. Every member of the class is responsible for posting at least one substantial response to this initial discussion each week. Please see [_Guidelines for Listserv Discussion_](listserv_guidelines.htm) for further description of this assignment.
-  * A midterm and a final examination, to be held on dates specified in the schedule below. The midterm examination will ask you to write one, the final examination two, comparative or analytical essay questions from a selection of topics drawn from lectures, readings, and on-line and in-class discussions. See [_Midterm Guidelines_](midterm_guide.htm) _,_[ _Final Guidelines_](final_guide.htm) for more details.
-  * A 12-15 page paper based on your own research and readings in the primary sources, due at the end of the term. You will also present a summary of your bibliography and research for this paper to the class during the week for which your topic is most relevant. In most cases, your paper topic should be based on the topic for which you develop bibliography and an on-line discussion question, but other options are certainly available. **YOU MUST CONSULT WITH THE PROFESSOR BEFORE UNDERTAKING EITHER THIS ASSIGNMENT OR YOUR ON-LINE ASSIGNMENT**. See [_Paper Guidelines_](paper_guidelines.htm) for more details.
+  * Participation in an archived listserv discussion. You will choose one week's topic/s on which you will be required to post a brief summary and critical analysis of the week's readings, together with some supplemental bibliography which you will develop in consultation with the professor. This supplemental bibliography will also be posted, both to the list and to the course webpage. Every member of the class is responsible for posting at least one substantial response to this initial discussion each week. Please see _Guidelines for Listserv Discussion_ for further description of this assignment.
+  * A midterm and a final examination, to be held on dates specified in the schedule below. The midterm examination will ask you to write one, the final examination two, comparative or analytical essay questions from a selection of topics drawn from lectures, readings, and on-line and in-class discussions. See _Midterm Guidelines_ _,_ _Final Guidelines_ for more details.
+  * A 12-15 page paper based on your own research and readings in the primary sources, due at the end of the term. You will also present a summary of your bibliography and research for this paper to the class during the week for which your topic is most relevant. In most cases, your paper topic should be based on the topic for which you develop bibliography and an on-line discussion question, but other options are certainly available. **YOU MUST CONSULT WITH THE PROFESSOR BEFORE UNDERTAKING EITHER THIS ASSIGNMENT OR YOUR ON-LINE ASSIGNMENT**. See _Paper Guidelines_ for more details.
 
   
   
@@ -62,27 +60,25 @@ WEEK I. Introductions practical and theoretical. Sex and gender, now and then.
 _Monday, September 28:_ Introduction to the Course. Course Materials on the
 Web. Discussion Lists.  
 _Wednesday, September 30:_ Lecture/Discussion. What is sex? What is gender?  
-_Friday, October 2:_ [Discussion. Sex and gender theory](theory_questions.htm)  
+_Friday, October 2:_ Discussion. Sex and gender theory  
   
   
 WEEK II. Marriage: what difference does sex make?
 
-  * Reading assignment: [_The Letters of Abelard and Heloise_](abelard_and_heloise.htm) _,_ pp. 57-156; *canon law texts (available on disk and in printed form); *Brooke, _The Medieval Idea of Marriage,_ pp. 61-118, and browse
+  * Reading assignment: _The Letters of Abelard and Heloise_ _,_ pp. 57-156; *canon law texts (available on disk and in printed form); *Brooke, _The Medieval Idea of Marriage,_ pp. 61-118, and browse
 
-  _Monday, October 5:_ [Marriage and theology](marriage_outline1.htm) _  
-__Wednesday, October 7:_ [Marriage and canon law](marriage_outline1.htm) _  
-Friday, October 9:_ [Discussion. Marriage, sex, gender, and past
-lives](marriage_1.htm) _  
+  _Monday, October 5:_ Marriage and theology _  
+__Wednesday, October 7:_ Marriage and canon law _  
+Friday, October 9:_ Discussion. Marriage, sex, gender, and past lives _  
   
   
 _ WEEK III. Marriage: what difference does gender make?
 
   * Reading assignment: __ Boccaccio, _The Decameron_ (I give the assignment by day and tale, rather than page number, so that you can use different editions if you wish): Day 2, tales 3, 6-7, 9-10; Day 4, tales 6, 8-9; Day 5, tales 7, 10; Day 7, as many tales as you can manage -- they are all variations on a theme; Day 8, tale 8, Day 10, tale 10; *Howell, _The Marriage Exchange,_ pages to be assigned; *Herlihy and Klapisch, _Tuscans and their Families,_ 202-31, 337-60; *Klapisch, _Women, Family, and Ritual,_ 117-31, 178-212; *Sheehan, _Marriage, Family, and Law in Medieval Europe,_ pp. 16-37, 87-117, 247-98; John Baldwin in _Consent and Coercion to Sex and Marriage,_ pp. 257-70
 
-  _Monday, October 12:_ [Medieval marriage: gender and social
-practice](marriage_outline_2.htm) _  
-Wednesday, October 14:_[Marriage for men, marriage for women? stereotypes and
-the exercise of power](marriage_outline_2.htm) _  
+  _Monday, October 12:_ Medieval marriage: gender and social practice _  
+Wednesday, October 14:_Marriage for men, marriage for women? stereotypes and
+the exercise of power _  
 Friday, October 16:_ Discussion. Stereotypes and "realities" _  
   
   
@@ -90,11 +86,10 @@ _ WEEK IV. Sex and sexuality: the literary sources
 
   * Reading assignment: _The Lais of Marie de France: Guigemar, Le Fresne, Bisclavret, Lanval, Chevrefoil, Eliduc_ ; Chretien de Troyes, _Romances: Erec et Enide_ ; Andreas Capellanus, _The Art of Courtly Love,_ Book I; Cadden, _The Meanings of Sex Difference_ ; Jacquaert and Thomasset, _Sexuality and medicine in the Middle Ages_
 
-  _Monday, October 19:_[Sex and stereotypes](sex_and_stereotypes.htm) _  
-Wednesday, October 21:_[The Literary Sources: sexuality/sexualities and the
-erotic](literary_sex.htm) _  
-Friday, October 23:_[Discussion. Gendered literature, literary
-sex](sex_at_court.htm) _  
+  _Monday, October 19:_Sex and stereotypes _  
+Wednesday, October 21:_The Literary Sources: sexuality/sexualities and the
+erotic _  
+Friday, October 23:_Discussion. Gendered literature, literary sex _  
   
   
 _ WEEK V. Sex and sexuality: the social and legal sources
@@ -105,7 +100,7 @@ _ WEEK V. Sex and sexuality: the social and legal sources
 Wednesday, October 28  
 Friday, October 30_
 
-[**MIDTERM EXAMINATION**](midterm_fall98.htm) **ON LINE THURSDAY, OCTOBER 29**
+**MIDTERM EXAMINATION** **ON LINE THURSDAY, OCTOBER 29**
 
 _  
   
@@ -118,8 +113,7 @@ _Monday, November 2:_ Sex and masculinity _
 Wednesday, November 4:_ Men, families, and courts _  
 Friday, November 6:_  Discussion: sex, society, and masculinity  
 
-[**MIDTERM EXAMINATION**](midterm_fall98.htm) **DUE IN CLASS FRIDAY, NOVEMBER
-6**
+**MIDTERM EXAMINATION** **DUE IN CLASS FRIDAY, NOVEMBER 6**
 
   
   
@@ -167,9 +161,9 @@ _** This link is a short-cut to the pages containing questions to help you
 prepare for class and on line discussion. You may follow the links from here
 or from the schedule of weekly reading assignments.  
   
-[Scott, Roper, Butler for Week I](theory_questions.htm)  
-[_The Letters of Abelard and Heloise_](abelard_and_heloise.htm) _  
-_[_The Decameron_](decameron.htm) _  
+Scott, Roper, Butler for Week I  
+_The Letters of Abelard and Heloise_ _  
+__The Decameron_ _  
 _  
 **_  
 About the Class Listservs |_**top of page  
@@ -182,6 +176,5 @@ classmates, and to learn from and help one another in that process. If you are
 not familiar with listservs, don't worry about it. We will go over the list in
 class, resources to help you are widely available on campus, and your
 instructor and fellow students can also help out. Please see the separate page
-[_Guidelines for Listserv Discussion_](listserv_guidelines.htm) __ for more
-details.
+_Guidelines for Listserv Discussion_ __ for more details.
 

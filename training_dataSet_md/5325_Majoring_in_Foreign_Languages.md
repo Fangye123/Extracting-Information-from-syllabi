@@ -1,8 +1,8 @@
-**[![](../images/newfl.gif)](../index.html) ** |
+**![](../images/newfl.gif) ** |
 
 **Majoring in Foreign Languages** |
 
-[ ![](../images/chitwood-1c_small.jpg)](../index.html)  
+![](../images/chitwood-1c_small.jpg)  
 ---|---|---  
   
 **TABLE OF CONTENTS**
@@ -75,9 +75,8 @@ years as a major or minor in the Department of Foreign Languages. The
 information is accurate as of spring, 2001, but future curriculum revision or
 resource allocation may necessitate changes at any time. Always check with the
 departmental office, 205 Chitwood: phone: 304 293 5121 or e-mail:
-[mbendena@wvu.edu](mailto:mbendena@wvu.edu) for updates. The departmental WEB
-site can also provide you with important information:
-<http://www.as.wvu.edu/forlang>.
+mbendena@wvu.edu for updates. The departmental WEB site can also provide you
+with important information:  http://www.as.wvu.edu/forlang.
 
 *Course numbers given in this booklet include numbers used prior to fall, 2001 and their new counterparts (given in parentheses) used as of fall, 2001. Two sets of Departmental graduation requirements are also listed in this text: one set for students entering the University before fall, 2001, and another set for students entering the University as of fall, 2001.
 
@@ -481,21 +480,18 @@ Back to top of page
 **ADVISING**
 
 When students enter the university as freshmen, they are designated as _pre-
-majors_ and are advised in the [ Advising
-Center](http://www.wvu.edu/~advising/). If pre-majors prefer to be advised in
-the Department, they may request that their files be sent to the Department of
-Foreign Languages by contacting [ Marilyn Bendena](mailto:mbendena@wvu.edu) in
-205 Chitwood. When students earn 58 credit hours, they officially may declare
+majors_ and are advised in the  Advising Center. If pre-majors prefer to be
+advised in the Department, they may request that their files be sent to the
+Department of Foreign Languages by contacting  Marilyn Bendena in 205
+Chitwood. When students earn 58 credit hours, they officially may declare
 their major. Their files are sent to their major department, where they will
 be advised. In order to declare a major, students should see Rose Eavenson in
-202 [ Student Services Center](http://www.wvu.edu/~advising/) (phone 293
-7476).
+202  Student Services Center (phone 293 7476).
 
-[ Michael Lastinger](mailto:mlasting@wvu.edu) (220 Chitwood) advises all
-French majors. [ Marilyn Bendena](mailto:mbendena@wvu.edu) advises all other
-majors and minors in the Department. It is important to keep in touch with
-your advisor. Give updates of your address and phone number so that important
-information can be sent to you.
+Michael Lastinger (220 Chitwood) advises all French majors.  Marilyn Bendena
+advises all other majors and minors in the Department. It is important to keep
+in touch with your advisor. Give updates of your address and phone number so
+that important information can be sent to you.
 
 Pre-registration usually begins right after mid-terms. In order to get the
 classes you need, register as early as possible. Also, if you are having
@@ -716,6 +712,5 @@ Back to top of page
 
 * * *
 
-[ ![](../images/newfl.gif)Back to the Department of Foreign Languages Menu
-](../index.html)
+![](../images/newfl.gif)Back to the Department of Foreign Languages Menu
 

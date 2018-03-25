@@ -4,8 +4,7 @@
 
 **SYLLABUS**
 
-[Click here to see Amplification of Course
-Assignments](http://webs.csu.edu/~big0ama/CSU/ELCAF/courses/ELCF442/Amplification.html)
+Click here to see Amplification of Course Assignments
 
 Dr. Makedon
 
@@ -289,10 +288,10 @@ Corporation, 1986.
   
 Return to the Top
 
-[Alexander Makedon ](http://webs.csu.edu/~big0ama/CSUhomepg.html)  
-[Chicago State University ](http://www.csu.edu)
+Alexander Makedon  
+Chicago State University
 
-_**Copyright (C) 1999 [A. Makedon](mailto:A-Makedon@csu.edu)**_
+_**Copyright (C) 1999 A. Makedon**_
 
 ![](http://webs.csu.edu/cgi-bin/count.cgi/pagecounterELCF442Syllabus.dat)
 _visits since  09/01/1999_

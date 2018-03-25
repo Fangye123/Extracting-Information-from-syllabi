@@ -121,7 +121,7 @@ history.
     * Apsley Cherry-Garrard, _The Worst Journey in the World_
     * Elspeth Huxley, _Flame Trees of Thika_
   
-  [](index.html)
+
 
 * * *
 

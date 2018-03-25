@@ -1,11 +1,9 @@
 ##  CS 2073 Section 2, Fall 1997  
 Computer Programming with Engineering Applications
 
-**Instructor:** [ Daniel Jimenez, M.S.
-](http://daffodil.uthscsa.edu/website/faculty/jimenez/jimenez.html)  
+**Instructor:** Daniel Jimenez, M.S.  
 **Office:** SB 3.01.06 (straight in, last cubicle on the right). **  
-E-mail: ** [ ` djimenez@ringer.cs.utsa.edu`
-](mailto:djimenez@ringer.cs.utsa.edu)  
+E-mail: ** ` djimenez@ringer.cs.utsa.edu`  
 **Office Hours:** Tuesday and Thursday, 9:30-11:00AM, SB 3.01.06
 
 **Class Times:**
@@ -19,7 +17,7 @@ E-mail: ** [ ` djimenez@ringer.cs.utsa.edu`
   * **The Art of Programming: Computer Science with C** _ by Steven C. Lawlor 
 ** _
 
-  * [ Unix System V: A Practical Guide, 3rd Ed. ](http://heg-school.aw.com/cseng/authors/sobell/SystemV/SystemV.html) _ by Mark G. Sobell 
+  * Unix System V: A Practical Guide, 3rd Ed.  _ by Mark G. Sobell 
 
 **
 
@@ -85,19 +83,19 @@ be scored on a scale of 1-10 with the grades depending on:
     * Style (discussed in class).  We will be using UTSA's ` runner` computer to do the assignments. If you have a computer at home, you may use it to develop your programs, but the project you turn in must work correctly on and be submitted from `runner.` You will normally turn the programs and output in by e-mail, with exact instructions given in the assignment. Although the programming assignments are 15% of the grade, they are the most important part of the learning process since doing them is how you learn to program. 
   * **Progress Reports** (10% of grade):   
 Each time a program is due, each student will submit an article from his or
-her ` runner` account to the UTSA newsgroup [ utsa.cs.2073.d
-](news:utsa.cs.2073.d) giving an overview of the work he or she has done on
-the current assignment ( **without giving any C code** ), his or her
-impressions on what was discussed in class since the last report was
-submitted, and at least one question about computer science or programming.
-These articles must be in the students' own words and will be graded according
-to content as well as grammar and spelling; part of being a computer scientist
-is the ability to express yourself clearly. The articles are expected to be
-thoughtful and not composed hurriedly at 11:55 the night they're due. Your
-single-spaced article should normally fill two screenfuls on a VT320 terminal
-(48 lines); more is fine. Note that the newsgroup is a public forum; anybody
-at UTSA will be able to read the article (although only the individual
-students will know the grade they made), so you are making an impression.
+her ` runner` account to the UTSA newsgroup  utsa.cs.2073.d  giving an
+overview of the work he or she has done on the current assignment ( **without
+giving any C code** ), his or her impressions on what was discussed in class
+since the last report was submitted, and at least one question about computer
+science or programming. These articles must be in the students' own words and
+will be graded according to content as well as grammar and spelling; part of
+being a computer scientist is the ability to express yourself clearly. The
+articles are expected to be thoughtful and not composed hurriedly at 11:55 the
+night they're due. Your single-spaced article should normally fill two
+screenfuls on a VT320 terminal (48 lines); more is fine. Note that the
+newsgroup is a public forum; anybody at UTSA will be able to read the article
+(although only the individual students will know the grade they made), so you
+are making an impression.
 
   * **Midterm Exam:** (15% of grade):   
 There will one mid-term exam. This will be a closed book exam consisting of
@@ -110,14 +108,14 @@ mid-term, but will be approximately twice as long.
 
   * **Class Participation** (5% of grade):   
 During class, students are expected to ask questions and participate in class
-discussions. This also includes discussions on the class newsgroup, [
-utsa.cs.2073.d ](news:utsa.cs.2073.d). Students should read the newsgroup
-frequently. Read your classmates posts and respond to their questions if you
-know the answers. Also, important announcements (such as "the due date has
-been changed") may be posted to the newsgroup; look for such messages. If you
-have a question in class, ask it. Chances are that someone else has the same
-question. If the instructor poses a question to the class, and you feel you
-know the answer, answer it.  
+discussions. This also includes discussions on the class newsgroup,
+utsa.cs.2073.d . Students should read the newsgroup frequently. Read your
+classmates posts and respond to their questions if you know the answers. Also,
+important announcements (such as "the due date has been changed") may be
+posted to the newsgroup; look for such messages. If you have a question in
+class, ask it. Chances are that someone else has the same question. If the
+instructor poses a question to the class, and you feel you know the answer,
+answer it.  
   
 **Note:** Late programs are not accepted. Late progress reports are not
 accepted. You are given enough time to do the assignments if you start early.

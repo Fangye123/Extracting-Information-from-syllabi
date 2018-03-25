@@ -7,9 +7,8 @@
 
 | **Office:** 203 Brock Hall  
 **Phone:** 755-4581  
-**E-mail:** [Anthony-Steinhoff@utc.edu](mailto:Anthony-Steinhoff@utc.edu)  
-**Home page:** [http://www.utc.edu/~asteinho](http://www.utc.edu/%7Easteinho)
-|
+**E-mail:** Anthony-Steinhoff@utc.edu  
+**Home page:** http://www.utc.edu/~asteinho |
 
 **Class Hours:** MWF 9:00-9:50  
   
@@ -166,7 +165,7 @@ Redefined" (packet).
 Revolutions?" (packet).
 
 1/18 _Discussion:_ The Calling of the Estates General. Baker, 154-83.  
-         [Questions for Discussion](http://www.utc.edu/~asteinho/317/Disc1.html) .
+         Questions for Discussion .
 
   
 
@@ -176,7 +175,7 @@ Revolutions?" (packet).
 
 1/23 From Reform to Revolt: May-July 1789. Popkin, 29-35; Baker, 199-208; Cox,
 90-102.  
-         ** _[Distribute Instructions for Interpretative Essay](http://www.utc.edu/~asteinho/317/EssayAssign.html)_
+         ** _Distribute Instructions for Interpretative Essay_
 
 1/25 Ending the Old Regime. Popkin, 36-43; Baker, 208-31.
 
@@ -189,7 +188,7 @@ and the Third Estate" (packet).
 
 1/30 _Discussion: Defining Citizens_. Baker 237-39, 242-49, 261-68; Sewell,
 "Le Citoyen/la citoyenne" (packet).  
-         [Questions for Discussion](http://www.utc.edu/~asteinho/317/Disc2.html) .
+         Questions for Discussion .
 
 2/1 The Church and the Revolution. Popkin 48-52; Baker 239-42.
 
@@ -201,22 +200,22 @@ and the Third Estate" (packet).
 
 2/6 [Class cancelled - weather]
 
-2/8 Troubles at Home and Abroad. Popkin 61-72; [Declaration of the Duke of
-Brunswick](http://history.hanover.edu/texts/bruns.htm) C. Petitfrere, "The
-Origins of the Civil War in the Vendee" (packet).  
-      [Questions for Discussion](http://www.utc.edu/~asteinho/317/Disc3.html) .
+2/8 Troubles at Home and Abroad. Popkin 61-72; Declaration of the Duke of
+Brunswick C. Petitfrere, "The Origins of the Civil War in the Vendee"
+(packet).  
+      Questions for Discussion .
 
   
 
 **Week VI: The Radical Spirit**
 
 2/11 _Midterm Examination._  
-         [Information for the Midterm Examination](http://www.utc.edu/~asteinho/317/MidtermInfo.html).
+         Information for the Midterm Examination.
 
 2/13 The Convention and the Republic. Popkin, 77-81; Baker, 324-330, 362-67.
 
 2/15 _Discussion_ : Trying the King. Popkin, 73-77; Baker 286-90, 302-24;
-[Indictment of Louis XIV](http://www.utc.edu/~asteinho/317/indictment.htm).
+Indictment of Louis XIV.
 
   
 
@@ -230,7 +229,7 @@ Origins of the Civil War in the Vendee" (packet).
 
 2/22 _Discussion: Understanding the Terror_. Furet,  "Terror" (packet); B.
 Singer, "Violence in the French Revolution" (packet).  
-         [Questions for Discussion](http://www.utc.edu/~asteinho/317/Disc4.html).
+         Questions for Discussion.
 
   
 
@@ -244,7 +243,7 @@ necessary 342-54); Cox, 187-96.
 
 3/1 _Discussion: The Symbols of Change_. Cox, 187-200; J. Leith,  "Ephemera"
 (packet); Images of the Revolution (via WWW).  
-       [Questions for Discussion](http://www.utc.edu/~asteinho/317/Disc5.html).     
+       Questions for Discussion.     
 
   
 
@@ -258,7 +257,7 @@ the Declaration of the Rights of Man" (packet).
 
 3/8 _Discussion: Women and Revolutionary Political Culture_. Cox, 230-248;
 Hufton,  "Counter-Revolutionary Women" (packet).  
-       [Questions for Discussion](http://www.utc.edu/~asteinho/317/Disc6.html) .
+       Questions for Discussion .
 
   
 
@@ -282,13 +281,11 @@ the Liberal Republic" (packet).
 **Week XII: Enter Napoleon**
 
 3/25 _Discussion: Dissolving the Directory_. Popkin, 107-115; Baker 392-416.  
-        [Questions for Discussion](http://www.utc.edu/~asteinho/317/Disc7.html) .
+        Questions for Discussion .
 
-3/27 The First Consul and the Emperor. Bonaparte, "[Proclamation to the French
-Nation](http://www.napoleonseries.org/reference/political/legislation/proclamation.cfm)";
-[Law Reorganizing the Administrative System
-(1800)](http://www.napoleonseries.org/reference/political/legislation/administrative.cfm);
-Furet, "Bonaparte" (packet).
+3/27 The First Consul and the Emperor. Bonaparte, "Proclamation to the French
+Nation"; Law Reorganizing the Administrative System (1800); Furet, "Bonaparte"
+(packet).
 
 3/29 **Official Holiday (no class)**.
 
@@ -325,11 +322,11 @@ Furet, "Bonaparte" (packet).
 4/17 _Discussion: Discourses on Revolution in Modern Times_. Cox, 141-53;
 Seigel,  "Politics, Memory, Illusion" (packet); and L. Trotsky, "On the
 Russian Revolution" (excerpts via WWW).  
-         [Questions for Discussion](http://www.utc.edu/~asteinho/317/Disc8.html).
+         Questions for Discussion.
 
 4/19 The French Revolution, Human Rights, and the Democratic Tradition. Cox,
 248-64; Geoffrey Best, "The French Revolution and Human Rights (packet).  
-         [Questions for Discussion](http://www.utc.edu/~asteinho/317/Disc9.html).
+         Questions for Discussion.
 
 
 
@@ -351,13 +348,11 @@ Russian Revolution" (excerpts via WWW).
 
 **INTERESTING AND USEFUL WEBSITES**
 
-[**Liberty, Equality, Fraternity**](http://chnm.gmu.edu/revolution/) **:** An
-impressive multi-media website, developed under the leadership of two of the
-Revolution's foremost scholars: Lynn Hunt and Jack Censer. Contains primary
-texts, timelines, images, songs, and historiographical discussions of the
-Revolutionary era.
+**Liberty, Equality, Fraternity** **:** An impressive multi-media website,
+developed under the leadership of two of the Revolution's foremost scholars:
+Lynn Hunt and Jack Censer. Contains primary texts, timelines, images, songs,
+and historiographical discussions of the Revolutionary era.
 
-[**NapoleonSeries.org**](http://www.napoleonseries.org/) ** _:_** companion
-site to the TV series on Napoleon. Excellent source for primary sources and
-information on the Napoleonic period.
+**NapoleonSeries.org** ** _:_** companion site to the TV series on Napoleon.
+Excellent source for primary sources and information on the Napoleonic period.
 

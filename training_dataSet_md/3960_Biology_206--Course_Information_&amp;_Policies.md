@@ -42,10 +42,10 @@ Reading
   
 ---  
   
-    [ Laurel F. Appel ](http://lappel.web.wesleyan.edu/)(1st half)  
+     Laurel F. Appel (1st half)  
 ext. 3258  
 106 Hall-Atwater  
-[lappel@wesleyan.edu](mailto:lappel@wesleyan.edu)  
+lappel@wesleyan.edu  
 Office hours:  
 M 11:00 AM - 12:00 PM  
 Th 1:10-2:00 PM  
@@ -53,10 +53,10 @@ and by appointment
 
 |
 
-    [Ann C. Burke ](http://www.wesleyan.edu/bio/burke/burke.html)(2nd half)  
+    Ann C. Burke (2nd half)  
 ext. 3518  
 302 Shanklin  
-[acburke@wesleyan.edu](mailto:acburke@wesleyan.edu)  
+acburke@wesleyan.edu  
 Office hours:  
 Tues, 2:00 - 4:45 PM  
 and by appointment
@@ -69,7 +69,7 @@ and by appointment
 
 >
 
-> [**TA office hours**](tas.htm) **:**  
+> **TA office hours** **:**  
 >  **** to be announced  
   
 * * *
@@ -194,7 +194,7 @@ Grading
 
 >
 
-> see [syllabus](biol206syllabus.htm)
+> see syllabus
 
 >
 
@@ -257,8 +257,8 @@ Grading
 
 > -  
   
-  * [Sample exam questions](homework_206.htm) will be posted. Review sessions before exams will be arranged.
-  * [Homework:](homework_206.htm) There will be 4 problem sets and two writing assignments, which will add up to 50 points (10% of your grade) and assist you in preparing for exams. Homework should be handed in on time, or the grade will be reduced for each day it is late.
+  * Sample exam questions will be posted. Review sessions before exams will be arranged.
+  * Homework: There will be 4 problem sets and two writing assignments, which will add up to 50 points (10% of your grade) and assist you in preparing for exams. Homework should be handed in on time, or the grade will be reduced for each day it is late.
 
 ## Goals and Procedures
 
@@ -276,11 +276,11 @@ the topics discussed.
 
 **Laboratory**
 
-> Biol/MBB 216, the [laboratory ](biol216home.htm)associated with Biol/MBB
-206, is a very important part of the course. Students must enroll for it
-separately, and are graded separately on the lab component, but both address
-the same principles. The hands-on, real organism experience will add to your
-understanding of the same material you are learning in lectures and readings.
+> Biol/MBB 216, the laboratory associated with Biol/MBB 206, is a very
+important part of the course. Students must enroll for it separately, and are
+graded separately on the lab component, but both address the same principles.
+The hands-on, real organism experience will add to your understanding of the
+same material you are learning in lectures and readings.
 
 **Skills** :
 
@@ -298,12 +298,12 @@ course. You are responsible for all of the material covered in lectures.
 
 >
 
-> **2.** [**Homework**](homework_206.htm) **.** **Doing the homework
-assignments is guaranteed to very marginally help your grade (in aggregate,
-they account for 10% of your grade). More importantly, they are designed to
-help prepare you for the exams (which together account for 90% of your grade).
-Therefore we strenuously encourage you not only to complete them but also to
-check the key, as this is the best preparation you can have for the exams.**
+> **2.** **Homework** **.** **Doing the homework assignments is guaranteed to
+very marginally help your grade (in aggregate, they account for 10% of your
+grade). More importantly, they are designed to help prepare you for the exams
+(which together account for 90% of your grade). Therefore we strenuously
+encourage you not only to complete them but also to check the key, as this is
+the best preparation you can have for the exams.**
 
 >
 
@@ -365,13 +365,13 @@ Concepts of Genetics_ (for K&C)
 >   * Wolpert _Principles of Development_
 
 >   * Alberts, et al. _Molecular Biology of the Cell_ (3rd ed.), searchable
-[on-line](http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?db=Books))
+on-line)
 
 >
 
 >
 
-> **Web:** See [syllabus](biol206syllabus.htm) for assigned web readings.  
+> **Web:** See syllabus for assigned web readings.  
 >  
 > ---  
 >  
@@ -385,7 +385,7 @@ Concepts of Genetics_ (for K&C)
 
 >
 
-> To [Bio206 index page](index.htm)
+> To Bio206 index page
 
 >
 
@@ -393,7 +393,7 @@ Concepts of Genetics_ (for K&C)
 
 >
 
-> [To Biol 216 index page](biol216home.htm)  
+> To Biol 216 index page  
 >  
 > ---|---  
 > Copyright 2002, Wesleyan University.

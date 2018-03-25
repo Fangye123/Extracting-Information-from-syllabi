@@ -141,25 +141,22 @@ tank".
   
 
 
-[![](graphics/return.gif) ](index.htm)
+![](graphics/return.gif)
 
 * * *
 
-[HOME](index.htm)   [SYLLABUS](syllabus.htm)   [LAB SCHEDULE](labs.htm)
-[COURSE INFO](courseinfo.htm)  
-[OFFICE HOURS](hours.htm)    [SCIENCE](science.htm)    [SWISS
-KNIEF](swissknife.htm)    [COURSE CONTENT](content.htm)
-[UNSUSTAINABLE](unsustainable.htm)   [DIVERSITY IN
-PERSPECTIVES](diversideas.htm)  
+HOME   SYLLABUS   LAB SCHEDULE    COURSE INFO  
+OFFICE HOURS    SCIENCE    SWISS KNIEF    COURSE CONTENT   UNSUSTAINABLE
+DIVERSITY IN PERSPECTIVES  
 
 * * *
 
   
 
-[Ecology & Evolutionary Biology](http://eebweb.arizona.edu/)  
+Ecology & Evolutionary Biology  
 The University of Arizona  
 20 November 2001  
-[calderwa@email.arizona.edu](mailto:calderwa@email.arizona.edu%20)
+calderwa@email.arizona.edu
 
 http://eebweb.arizona.edu/calder/206  
 All contents copyright (C) 2001\. All rights reserved.

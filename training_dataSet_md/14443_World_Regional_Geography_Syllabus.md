@@ -1,6 +1,6 @@
 
-    ![](earthspn.gif)
-    	**
+    ![](earthspn.gif)
+    	**
     
 
 #  WORLD REGIONAL GEOGRAPHY
@@ -236,22 +236,21 @@ Japan, Tasman Sea, Hawaii
   
   
   
-![](writeus.gif)[carolyn.prorok@sru.edu](mailto:carolyn.prorok@sru.edu)  
+![](writeus.gif)carolyn.prorok@sru.edu  
   
   
 
-#####  ![](om.gif) [Return to Carol's index
-page....](http://www.sru.edu/depts/artsci/ges/prorok/index.htm)
+#####  ![](om.gif) Return to Carol's index page....
 
   
   
-[![](earth.gif)
+![](earth.gif)
 
 ### Go to Department of Geography and Environmental Studies Homepage
 
-](http://www.sru.edu/depts/artsci/ges/ges.htm)  
   
-[![](buton5.gif)](http://www.sru.edu)
+  
+![](buton5.gif)
 
 ###### This homepage last updated 2/01
 

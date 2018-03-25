@@ -5,10 +5,10 @@
 * * *
     
     
-    **From** [mspellman@cix.compulink.co.uk](mailto:mspellman@cix.compulink.co.uk) ("Martin Spellman")
+    **From** mspellman@cix.compulink.co.uk ("Martin Spellman")
     **Organization** Cutty Wren Press
     **Date** Mon, 15 Jan 1996 22:52:24 GMT
-    **Newsgroups** [alt.politics.socialism.trotsky](news:alt.politics.socialism.trotsky)
+    **Newsgroups** alt.politics.socialism.trotsky
     **Message-ID**  <DL8vJC.749@cix.compulink.co.uk>
     
 
@@ -145,11 +145,8 @@
     
 
   
-[ ![](images/buttonbar.gif)](images/buttonbar.map)  
-[Syllabus/Home](index.html) | [Schedule](schspr98.html) |
-[Resources](resources.html)  
-[Exams](exams/examhome.html) | [Current Event Analyses](curevent.html) |
-[Grades](graspr98.html)  
-Questions? Contact Prof. Monroe at
-[bmonroe@indiana.edu](mailto:bmonroe@indiana.edu)
+![](images/buttonbar.gif)  
+Syllabus/Home | Schedule | Resources  
+Exams | Current Event Analyses | Grades  
+Questions? Contact Prof. Monroe at bmonroe@indiana.edu
 

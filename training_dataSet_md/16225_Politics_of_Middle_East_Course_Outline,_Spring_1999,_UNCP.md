@@ -77,18 +77,17 @@ unless there are special circumstances.
 3). Written Assignment and Seminar Discussion:  Each students will be required
 to submit a comprehensive outline via the class web server on a set of
 assigned readings from Global Studies: The Middle East.. These article/country
-summaries are to be posted to the [MIDEAST](mailto:mideast@papa.uncp.edu) list
-server two day prior the date the article/country summaries are to be
-discussed in class.  Guidelines for this assignment can be found at
-[http://www.uncp.edu/home/trapp/pls355/pl355pg.htm](http://www.uncp.edu/home/trapp/post.htm)
-The typed written article/country outline must be posted two days prior to
-when this article will be discussed by the class.  NO CREDIT WILL BE GIVEN FOR
-ARTICLES POSTED THE DAY ARTICLE IS BEING DISCUSSED.
+summaries are to be posted to the MIDEAST list server two day prior the date
+the article/country summaries are to be discussed in class.  Guidelines for
+this assignment can be found at
+http://www.uncp.edu/home/trapp/pls355/pl355pg.htm  The typed written
+article/country outline must be posted two days prior to when this article
+will be discussed by the class.  NO CREDIT WILL BE GIVEN FOR ARTICLES POSTED
+THE DAY ARTICLE IS BEING DISCUSSED.
 
 4). Joining Class List Serve:  All students are required to join the class
 list server.  Instruction for the joining the list server can be found at
-<http://www.uncp.edu/political/server.htm>[
-](http://www.uncp.edu/political/server.htm)  
+http://www.uncp.edu/political/server.htm  
 
 
 5). Suggested Current Event Readings:  Because the Middle East is a dynamic
@@ -96,11 +95,11 @@ political environment, all students are to regularly read news papers or news
 journals concerning the Middle East events.  In particulars links to the
 following newspapers are good sources of current events materials.
 
-  * [New York Times](http://www.nytimes.com/yr/mo/day/news/world/)
-  * [Washington Post](http://www.washingtonpost.com/wp-srv/WPlate/m-international.html)
-  * [CNN Interactive](http://www.cnn.com/WORLD/)
-  * [USA Today](http://www.usatoday.com/news/world/nw1.htm)
-  * [Jerusalem Post](http://www.jpost.com)
+  * New York Times
+  * Washington Post
+  * CNN Interactive
+  * USA Today
+  * Jerusalem Post
 
 6). Grading Policy: In the event unusual or unforeseen circumstances prevent
 you from completing the course, an "I" grade will be assigned. "The "I", or
@@ -166,9 +165,9 @@ _100 points_
 **Class Readings** The bold numbers in parentheses correspond   to the article
 readings found in _Global Studies: The Middle East_ followed by the date the
 article/country summary is to be discussed in class.   All articles/country
-summaries must be post to the [MIDEAST](mailto:mideat@papa.uncp.edu) list
-serve two days prior to its discussion date.  For example: Article 3, due Feb
-5,  should be posted no later than Feb 3.
+summaries must be post to the MIDEAST list serve two days prior to its
+discussion date.  For example: Article 3, due Feb 5,  should be posted no
+later than Feb 3.
 
 **Date**  
     
@@ -264,9 +263,9 @@ LEWIS__**
 **Apr 23, GS, United Arab Emirates, pps. 151-153 - _ _PHILLIP BOWMAN__**  
 **Apr 23, GS, Yemen, pps. 154-159** \- **DR TRAPP**  
   
-  [Return to Home Page](http://www.uncp.edu/home/trapp/pls355/pls355.htm)
+  Return to Home Page
 
-###  `This Page is Maintained by [Frank Trapp](mailto:trapp@papa.uncp.edu)`
+###  `This Page is Maintained by Frank Trapp`
 
      
 

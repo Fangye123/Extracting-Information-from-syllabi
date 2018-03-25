@@ -1,7 +1,4 @@
-[[Contents](/users/mfcjh/wiu/contents.htm)] |
-[[Comment](/users/mfcjh/wiu/comment.htm)]  |  [[Home
-Page](/users/mipsci/wiu/home.html)]  |  [[Index to Home
-Page](/users/mfcjh/wiu/index.htm)]  
+[Contents] |  [Comment]  |  [Home Page]  |  [Index to Home Page]  
 ---|---|---|---  
   
 Extended Learning  
@@ -19,23 +16,23 @@ Table of Contents
   
   
 
-  * [**Preface](/users/mfcjh/wiu/guide.htm#1g) **
-  * [**Meet the Author](/users/mfcjh/wiu/guide.htm#2g)**
-  * [**Student Information](/users/mfcjh/wiu/guide.htm#3g)**
-  * [**Instructor](/users/mfcjh/wiu/guide.htm#4g)**
-  * [**Course Materials](/users/mfcjh/wiu/guide.htm#5g)**
-  * [**Syllabus: Assignments, Examinations. Grades**
-  * [**Time Limits for Taking and Completing the Course](/users/mfcjh/wiu/guide.htm#6g)**
-  * [**Withdrawals/Tuition Credit](/users/mfcjh/wiu/guide.htm#7g)**
-  * [**Questions](/users/mfcjh/wiu/guide.htm#8g)**
-  * [**Course Progress Record](/users/mfcjh/wiu/guide.htm#9g)** 
+  * **Preface **
+  * **Meet the Author**
+  * **Student Information**
+  * **Instructor**
+  * **Course Materials**
+  * **Syllabus: Assignments, Examinations. Grades**
+  * **Time Limits for Taking and Completing the Course**
+  * **Withdrawals/Tuition Credit**
+  * **Questions**
+  * **Course Progress Record** 
 
 ### Course Materials
 
-  * [**Course Lectures and Discussion**](/users/mfcjh/wiu/extend/discuss.htm)
-  * [**Course Materials for Modern Political Theory](/users/mfcjh/wiu/extend/classweb.htm): Guidelines for Papers, Glossary, Bibliography, etc.**
-  * [**Syllabus: Assignments, Examinations. Grades**
-  * [**Web Sites Linked to _Modern Political Theory_](http://www.ecn.bgu.edu/users/mfcjh/wiu/web/modern/modtoc.htm) \--Machiavelli to the Twentieth Century** 
+  * **Course Lectures and Discussion**
+  * **Course Materials for Modern Political Theory: Guidelines for Papers, Glossary, Bibliography, etc.**
+  * **Syllabus: Assignments, Examinations. Grades**
+  * **Web Sites Linked to _Modern Political Theory_ \--Machiavelli to the Twentieth Century** 
 
 * * *
 
@@ -473,20 +470,16 @@ Exam # Date Date Sent Received Grade  |  |  |  |
 Course Lectures and Discussion  
 ---  
   
-[**Lectures from Machiavelli to the
-Present**](/users/mfcjh/wiu/extend/discuss.htm)
+**Lectures from Machiavelli to the Present**
 
 |  |  |  |  
-[![\[Contents\]](/users/mfcjh/wiu/images/cntsicox.gif)
-[Contents]](contents.htm) |
-[![\[Index\]](/users/mfcjh/wiu/images/indxicox.gif)[Index]](/users/mfcjh/wiu/index.htm)
-| [
-![\[Comment\]](/users/mfcjh/wiu/images/cmnticon.gif)[Comment]](/users/mfcjh/wiu/comment.htm)
-| [
-![\[Home\]](/users/mfcjh/wiu/images/homeicon.gif)[Home]](/users/mfcjh/wiu/home.html)  
+![\[Contents\]](/users/mfcjh/wiu/images/cntsicox.gif) [Contents] |
+![\[Index\]](/users/mfcjh/wiu/images/indxicox.gif)[Index] |
+![\[Comment\]](/users/mfcjh/wiu/images/cmnticon.gif)[Comment] |
+![\[Home\]](/users/mfcjh/wiu/images/homeicon.gif)[Home]  
 ---|---|---|---  
   
 Last updated 13 January 1999
 
-If you wish to comment: [c-helm@wiu.edu](mailto:c-helm@wiu.edu)  
+If you wish to comment: c-helm@wiu.edu  
 

@@ -97,14 +97,11 @@ This catalog provides general information about the University of Illinois at
 Chicago and detailed information about the programs of study offered by its
 eight undergraduate colleges.
 
-This catalog has two major parts. The first part provides information about [
-admission,](./AR.html#ARADMISSION) [ special opportunities and
-programs,](./SP.html#SP) [ student services, ](./SS.html#SS) [ student
-costs,](./SC.html#SC) [ financial aid,](./FA.html#FA) [ the grading
-system](./GR.html#GRGRADING) and [ academic regulations,](./GR.html#GRACADREG)
-[ graduation requirements,](./GR.html#GRGRADREQ) and [
-honors.](./GR.html#GRHONORSGRAD)The second part has separate sections for each
-of the undergraduate colleges, which detail their curricula, special academic
+This catalog has two major parts. The first part provides information about
+admission, special opportunities and programs, student services,  student
+costs, financial aid, the grading system and  academic regulations, graduation
+requirements, and  honors.The second part has separate sections for each of
+the undergraduate colleges, which detail their curricula, special academic
 programs, specific requirements for graduation, honors programs, course
 descriptions, and other information.
 
@@ -145,9 +142,9 @@ year. Because space at these weekend programs is limited, reservations are
 required.
 
 Students interested in visiting campus should call in advance (312) 996-4350
-to schedule a visit. Refer to the [ Campus Map and Travel
-Directions](./CM.html#CM) on the inside back cover of this catalog for
-instructions on how to reach the UIC campus.
+to schedule a visit. Refer to the  Campus Map and Travel Directions on the
+inside back cover of this catalog for instructions on how to reach the UIC
+campus.
 
 UIC Preview Days for prospective students are scheduled several mornings each
 semester. These events include a tour of campus and a residence hall, general
@@ -160,11 +157,11 @@ academic advisers from each of UIC's undergraduate programs. Call (312)
 All students who wish to take courses for credit at UIC, whether as degree or
 nondegree candidates, must submit an application, supporting documents, and
 the required nonrefundable application fee within specified deadlines. (For
-information about registration as a visitor/auditor, see [ Special Enrollment
-Categories ](./AR.html#ARSPECENROLL). After an application has been submitted,
-any changes to the application must be submitted to the Office of Admissions
-in writing and must be dated, signed, and include the term applied for and the
-applicant's social security number.
+information about registration as a visitor/auditor, see  Special Enrollment
+Categories . After an application has been submitted, any changes to the
+application must be submitted to the Office of Admissions in writing and must
+be dated, signed, and include the term applied for and the applicant's social
+security number.
 
 ### English Competency Requirement for All Applicants
 
@@ -232,13 +229,12 @@ credentials and admission test score and may complete more than 12 semester
 hours of transferable college classroom credit at another institution before
 enrollment at UIC.
 
-[ Advanced Placement (AP) credit](./AR.html#ARAP) is granted to students who
-have successfully completed AP courses in high school and received a
-satisfactory test score. Credit is also available through the [ International
-Baccalaureate Program,](./AR.html#ARINTBACC) [ ACT/SAT English/Verbal
-subscores,](./AR.html#ARACTSAT) and the [ College Level Examination Program
-(CLEP).](./AR.html#ARCLEP) See the appropriate section elsewhere in this
-section for specific credits.
+Advanced Placement (AP) credit is granted to students who have successfully
+completed AP courses in high school and received a satisfactory test score.
+Credit is also available through the  International Baccalaureate Program,
+ACT/SAT English/Verbal subscores, and the  College Level Examination Program
+(CLEP). See the appropriate section elsewhere in this section for specific
+credits.
 
 High school seniors who wish to enter the fall term immediately following
 their graduation from high school are encouraged to submit their applications
@@ -271,8 +267,8 @@ University if it appears on the transcript of an accredited high school. Such
 credit usually applies to elementary algebra and foreign languages; however,
 it may apply to any subject.
 
-**High School Course Patterns Required for Beginning Freshmen[
-1](./AR.html#ARPATTERN1) ** Architecture and the Arts  
+**High School Course Patterns Required for Beginning Freshmen 1 **
+Architecture and the Arts  
 ---  
 Architectural Studies| Pattern II  
 Art and Design| Pattern I  
@@ -284,17 +280,16 @@ Kinesiology| Pattern I
 Liberal Arts and Sciences  
 Arts and Humanities| Pattern I  
 Math and Science (recommended)| Pattern II  
-**High School Subject Patterns[ 2](./AR.html#ARPATTERN2) ** SUBJECTS| PATTERN
-I| PATTERN II  
+**High School Subject Patterns 2 ** SUBJECTS| PATTERN I| PATTERN II  
 ---|---|---  
-English[ 3](./AR.html#ARPATTERN3)| 4| 4  
+English 3| 4| 4  
 Algebra| 1| 2  
 Geometry| 1| 1  
 Trigonometry| \--| 1/2  
 Lab sciences **_Note:_** not including general science|  2| 2  
-Social studies[ 4](./AR.html#ARPATTERN4)| 2| 2  
-Electives[ 5](./AR.html#ARPATTERN5)| 2| 2  
-Flexible Academic Units[ 6](./AR.html#ARPATTERN6)| 3| 1 1/2  
+Social studies 4| 2| 2  
+Electives 5| 2| 2  
+Flexible Academic Units 6| 3| 1 1/2  
 Other| 1| 1  
 TOTAL| 16| 16  
   
@@ -359,12 +354,12 @@ not meet the definition of a beginning freshman or a readmission applicant.
     1. Colleges and universities that offer degree programs comparable to programs offered by UIC and are (1) members of, or hold Candidate for Accreditation status from, the North Central Association of Colleges and Schools or other regional accrediting associations, or (2) accredited by another accrediting agency that is a member of the Commission on Recognition of Postsecondary Accreditation.
     2. Illinois public community colleges that are neither members of nor holders of Candidate for Accreditation status from the North Central Association of Colleges and Schools but that are approved and recognized by the Illinois Community College Board (ICCB) for a period of time not to exceed five years from the date on which the college registers its first class after achieving ICCB recognition.
   3. Certain colleges and universities do not meet the specifications in II above but have been assigned a status by the University Committee on Admissions that permits credit to be accepted on a provisional basis for admission purposes on transfer to UIC. Transfer credit, as defined in I above, from such colleges and universities is accepted on a deferred basis to be validated by satisfactory completion of additional work in residence. Validation through satisfactory work in residence may be accomplished by earning at UIC or another fully accredited [1] college or university, at least a 3.00 (A=5.00) grade point average (higher if prescribed by the curriculum the student wishes to enter) in the first 12 to 30 semester hours completed following transfer.
-  4. Credit, as specified in I above, transferred from an approved community or junior college is limited only by the provision that the student must earn at least 60 semester or 90 quarter hours required for the degree at the University or at any other approved [ [1] ](./AR.html#ARCOLLEGESPEC) four-year college or university after attaining junior standing, except that the student must meet the residence requirements that apply to all students for a degree from the University. When a school or college within the University requires three years of preprofessional college credit for admission, at least the last 30 semester or 45 quarter hours must be taken in an approved [ [1] ](./AR.html#ARCOLLEGESPEC) four-year collegiate institution.
+  4. Credit, as specified in I above, transferred from an approved community or junior college is limited only by the provision that the student must earn at least 60 semester or 90 quarter hours required for the degree at the University or at any other approved  [1] four-year college or university after attaining junior standing, except that the student must meet the residence requirements that apply to all students for a degree from the University. When a school or college within the University requires three years of preprofessional college credit for admission, at least the last 30 semester or 45 quarter hours must be taken in an approved  [1] four-year collegiate institution.
   5. In all cases, the precise amount of transfer credit applicable toward a particular degree will be determined by the University college and department concerned. 
 
 #### Transfer Student Admission Requirements.
 
-  1. To be admitted a transfer applicant must have achieved a minimum transfer grade point average of 3.00 (A = 5.00) on the basis of all transferable work attempted (minimum: 12 semester or 18 quarter hours--24 semester or 36 quarter hours beginning Fall 1996). See [ Grading and Grade Point Systems ](./GR.html#GRGRADING). Some colleges and curricula require a higher minimum grade point average and additional credit hours (consult individual college and curricula listings).
+  1. To be admitted a transfer applicant must have achieved a minimum transfer grade point average of 3.00 (A = 5.00) on the basis of all transferable work attempted (minimum: 12 semester or 18 quarter hours--24 semester or 36 quarter hours beginning Fall 1996). See  Grading and Grade Point Systems . Some colleges and curricula require a higher minimum grade point average and additional credit hours (consult individual college and curricula listings).
   2. For admission purposes only, transfer grades for _all_ baccalaureate-oriented course work attempted and accepted are used in computing the transfer student's average. However, a particular UIC college or school may not accept all courses toward degree requirements.
   3. A student transferring to the University who was previously dropped from a collegiate institution for disciplinary or academic reasons must submit a petition to the director of the Office of Admissions, who will forward the petition to the appropriate committee.
   4. When a course is repeated the grade point average is computed using both grades and all hours for the course. However, credit for the course is only awarded once.
@@ -415,9 +410,8 @@ the University, and the availability of space in the chosen program. Degree-
 seeking readmission applicants do not pay the application fee.
 
 Students who interrupt their UIC enrollment by two or more semesters in
-succession (summer session excluded) must reapply. See[ Eligibility to
+succession (summer session excluded) must reapply. See Eligibility to
 Register: University Policy on Continuing Student Status
-](./AR.html#ARELIGIBLREG)
 
 Students must clear any encumbrances before they may register for classes.
 
@@ -536,8 +530,8 @@ ACT Registration, Box 414, Iowa City, Iowa 52240.
 
 ### English Competency Requirements.
 
-See the previous section on [ English Competency Requirement for All
-Applicants ](./AR.html#ARENGLCOMPET).
+See the previous section on  English Competency Requirement for All Applicants
+.
 
 If the international applicant is admissible, performance on the English test
 either (1) qualifies the student to register for English 160 and 161 or (2)
@@ -609,9 +603,9 @@ wishing to enroll in a course in mathematics, composition, foreign language,
 physics, and/or chemistry may be required to take a preliminary placement test
 after acceptance.
 
-For application and information, inquiries should be made to the [ Honors
-College ](./HC.html#HC),(M/C 204), The University of Illinois at Chicago, 851
-South Morgan Street, Chicago, Illinois 60607-7044; (312) 413-2260.
+For application and information, inquiries should be made to the  Honors
+College ,(M/C 204), The University of Illinois at Chicago, 851 South Morgan
+Street, Chicago, Illinois 60607-7044; (312) 413-2260.
 
 ### Early Admission Applicant
 

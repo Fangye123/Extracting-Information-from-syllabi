@@ -3,9 +3,8 @@
 ### Course Description Course Requirements Required Textbooks Grading Policy
 Instructor Information Instructor Office Hours Lecture/Lab Schedule
 
-#### Contact [Dr. Steven Berg](mailto:sberg@vax2.winona.msus.edu) by email
-Return to [Biology Department](http://bio.winona.msus.edu) Homepage Return to
-the [Winona State University](http://www.winona.msus.edu) Homepage
+#### Contact Dr. Steven Berg by email Return to Biology Department Homepage
+Return to the Winona State University Homepage
 
   
   
@@ -23,8 +22,7 @@ the [Winona State University](http://www.winona.msus.edu) Homepage
   
   
 Instructor: Dr. Steven P. Berg Office: Pasteur 215G Telephone: 507-457-5277
-Email: [sberg@vax2.winona.msus.edu](mailto:sberg@vax2.winona.msus.edu) FAX:
-507-457-5681 Back to Top of Page  
+Email: sberg@vax2.winona.msus.edu FAX: 507-457-5681 Back to Top of Page  
   
   
   
@@ -129,17 +127,16 @@ Back to Top of Page
 Week| Date| Lecture Topic| Chapter| Quiz/Exam| Laboratory  
 ---|---|---|---|---|---  
 1| Mon 28 Aug| Intro to the course  
-Intro to the Lab| | | [Downloading Lab](../Labs/Download.htm)  
+Intro to the Lab| | | Downloading Lab  
 Bring your laptop  
-1| Tue 29 Aug| | | | [Downloading Lab](../Labs/Download.htm)  
+1| Tue 29 Aug| | | | Downloading Lab  
 Bring your laptop  
 1| Wed 30 Aug| Themes in Biology| Chapter 1| |  
 1| Fri 1 Sept| Chemistry| Chapter 2| |  
 2| Mon 4 Sept| Labor Day|  | No Class| No Lab  
 2| Tue 5 Sept| | | | No Lab  
 2| Wed 6 Sept| Water| Chapter 3| Quiz 1  
-Covers Web Notes on "[Intro](../Lec-note/Intro-1.htm)", "[Chemistry](../Lec-
-note/Chem-1.htm)" |  
+Covers Web Notes on "Intro", "Chemistry" |  
 2| Fri 8 Sept| Organic Chemistry| Chapter 4| |  
 3| Mon 11 Sept| Intro to Lab  
 Biochemistry| Chapter 5| | Microscopes and Cells (p. 57)  
@@ -147,17 +144,15 @@ Bring your lab manual
 3| Tue 12 Sept| | | | Microscopes and Cells (p. 57)  
 Bring your lab manual  
 3| Wed 13 Sept| Exam 1| | Exam 1  
-Covers [Intro](../Lec-note/Intro-1.htm), [Chemistry](../Lec-note/Chem-1.htm),
-[Water](../Lec-note/Water.htm) and the CD assignments|  
+Covers Intro, Chemistry, Water and the CD assignments|  
 3| Fri 15 Sept| Biochemistry| Chapter 5| |  
 4| Mon 18 Sept| Intro to Lab  
-Biochemistry| Chapter 5| | [Image Analysis Lab](../Labs/Image.htm)  
+Biochemistry| Chapter 5| | Image Analysis Lab  
 Bring your laptop  
-4| Tue 19 Sept| No Lecture| | | [Image Analysis Lab](../Labs/Image.htm)  
+4| Tue 19 Sept| No Lecture| | | Image Analysis Lab  
 Bring your laptop  
 4| Wed 20 Sept| Biochemistry| Chapter 5| Quiz 2  
-Covers "[Organic](../Lec-note/Organic.htm)" & "[Biochem](../Lec-
-note/Biochem.htm)"|  
+Covers "Organic" & "Biochem"|  
 4| Fri 22 Sept| Biochemistry| Chapter 5| |  
 5| Mon 25 Sept| Intro to Lab 2  
 Metabolism| Chapter 6| | Enzymes (p. 33)  
@@ -165,21 +160,19 @@ Bring your lab manual
 5| Tue 26 Sept| No Lecture| | | Enzymes (p. 33)  
 Bring your lab manual  
 5| Wed 27 Sept|  Metabolism| Chapter 6| Quiz 3  
-Covers [Biochemistry](../Lec-note/Biochem.htm)  
+Covers Biochemistry  
 |  
 5| Fri 29 Sept| Metabolism| Chapter 6| |  
 6| Mon 2 Oct| Intro to Lab 3  
-Cells| Chapter 7| | [RasMol Lab](../Labs/RasMol.htm)  
+Cells| Chapter 7| | RasMol Lab  
 Bring your laptop  
-6| Tue 3 Oct| No Lecture| | | [RasMol Lab](../Labs/RasMol.htm)  
+6| Tue 3 Oct| No Lecture| | | RasMol Lab  
 Bring your laptop  
-6| Wed 4 Oct| Exam 2| | Exam 2 Covers [Organic](../Lec-
-note/Organic.htm),[Biochemistry, [Metabolism,](../Lec-note/Metabol.htm)|  
+6| Wed 4 Oct| Exam 2| | Exam 2 Covers Organic,Biochemistry, Metabolism,|  
 6| Fri 6 Oct| Cells| Chapter 7| |  
 7| Mon 9 Oct| Fall Break Day| No Class| | No Lab  
 7| Tue 10 Oct| No Lecture| | | No Lab  
-7| Wed 11 Oct| Membranes| Chapter 8| Quiz 4 Covers [Cells](../Lec-
-note/Cells.htm) |  
+7| Wed 11 Oct| Membranes| Chapter 8| Quiz 4 Covers Cells |  
 7| Fri 13 Oct| Respiration| Chapter 9| |  
 8| Mon 16 Oct| Intro to the Diffusion Lab  
 Respiration| Chapter 9| | Diffusion and Osmosis (p. 81)  
@@ -187,7 +180,7 @@ Bring your lab manual
 8| Tue 17 Oct| | | | Diffusion and Osmosis (p. 81)  
 Bring your lab manual  
 8| Wed 18 Oct| Respiration| Chapter 9| Quiz 5  
-Covers [Membranes](../Lec-note/Membrane.htm)| | |  
+Covers Membranes| | |  
 8| Fri 20 Oct| Respiration| Chapter 9  
 9| Mon 23 Oct| Mitosis| Chapter 12| | MitochondriaLab on the Web  
 Bring your laptop  
@@ -196,8 +189,7 @@ Bring the LabsOnLine materials
 Bring your laptop  
 Bring the LabsOnLine materials  
 9| Wed 25 Oct| Exam 3| | Exam 3 Covers  
-[Cells](../Lec-note/Cells.htm), [Membranes](../Lec-note/Membrane.htm),
-[Respiration](../Lec-note/Respira.htm)|  
+Cells, Membranes, Respiration|  
 9| Fri 27 Oct| Mitosis and Meiosis| Chapter12  
 Chapter 13| |  
 10| Mon 30 Oct| Intro to Mitosis and Meiosis Lab  
@@ -206,7 +198,7 @@ Bring your lab manual
 10| Tue 31 Oct| | | | Mitosis and Meiosis (p. 161)  
 Bring your lab manual  
 10| Wed 1 Nov| SemiFinal Exam| | Semi Final Exam Covers all lectures through
-[Mitosis](../Lec-note/Mitosis.htm) Does not include Mendelian Genetics  
+Mitosis Does not include Mendelian Genetics  
 10| Fri 3 Nov| Mendelian Genetics| Chapter 14| |  
 11| Mon 6 Nov| Intro to Lab Topic 9  
 Chromosomes and Genes| Chapter 15| | Mendelian Genetics: Drosophila (p. 219)  
@@ -223,7 +215,7 @@ Bring the LabsOnLine materials
 Bring your laptop  
 Bring the LabsOnLine materials  
 12| Wed 15 Nov| Genes and DNA| | Quiz 6  
-[Mendelian Genetics](../Lec-note/Mendel.htm)|  
+Mendelian Genetics|  
 12| Fri 17 Nov| Genes and DNA| | |  
 13| Mon 20 Nov| Intro to the Photosynthesis Lab  
 Photosynthesis| Chapter 10| | Photosynthesis (p. 135)  
@@ -243,26 +235,26 @@ Bring your lab manual
 15| Tue 5 Dec| No Lecture| | | Lab Final Exam  
 15| Wed 6 Dec| Evolution of New Species| Chapter 24| |  
 15| Fri 8 Dec| Exam 4| | Exam 4 Covers  
-[Mitosis](../Lec-note/Mitosis.htm), [Meiosis](../Lec-note/Meiosis.htm),  
-[Mendelian Genetics](../Lec-note/Mendel.htm),  
-[Chromosomes](../Lec-note/Chromos.htm),  
-[DNA and genes](../Lec-note/DNA.htm),  
-[Genes to Proteins](../Lec-note/Prot-Syn.htm),  
-[Population Genetics](../Lec-note/PopGen.htm),  
+Mitosis, Meiosis,  
+Mendelian Genetics,  
+Chromosomes,  
+DNA and genes,  
+Genes to Proteins,  
+Population Genetics,  
 |  
 16| Wed 13 Dec| Final Exam  
 8-10 a.m.  
 | | Final Exam  
 8-10 a.m.  
 Covers  
-[Mitosis](../Lec-note/Mitosis.htm), [Meiosis](../Lec-note/Meiosis.htm),  
-[Mendelian Genetics](../Lec-note/Mendel.htm),  
-[Chromosomes](../Lec-note/Chromos.htm),  
-[DNA and genes](../Lec-note/DNA.htm),  
-[Genes to Proteins](../Lec-note/Prot-Syn.htm),  
-[Population Genetics](../Lec-note/PopGen.htm),  
-[Intro to Evolution](../Lec-note/Evolutn.htm),  
-[Evol of New Species](../Lec-note/Species.htm)  
+Mitosis, Meiosis,  
+Mendelian Genetics,  
+Chromosomes,  
+DNA and genes,  
+Genes to Proteins,  
+Population Genetics,  
+Intro to Evolution,  
+Evol of New Species  
 |  
 | | | | |  
 | | | | |  

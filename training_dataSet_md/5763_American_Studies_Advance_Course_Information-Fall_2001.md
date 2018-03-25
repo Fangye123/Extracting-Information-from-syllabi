@@ -22,7 +22,7 @@ Instructor: Judy Yung
 Classroom: Oakes 105  
 Class Time: MWF 9:30-10:40 am
 
-e-mail: [yung@cats.ucsc.edu](mailto:yung@cats.ucsc.edu)  
+e-mail: yung@cats.ucsc.edu  
 Office: Oakes 207, 459-4725  
 Office hours: Wed. 2 - 4 p.m., or by appointment
 
@@ -1465,7 +1465,7 @@ In-class: African American women's blues
 
 Instructor: Ann Lane  
 Office: Oakes 201, 459-4517  
-[amlane@cats.ucsc.edu](mailto:amlane@cats.ucsc.edu)
+amlane@cats.ucsc.edu
 
 ### Please note:  Information from a previous quarter
 
@@ -1570,7 +1570,7 @@ Instructor: Renya Ramirez
 T/Th 4-5:45 PM, Porter 144
 
 Office Hours: 3-4 T/Th  
-e-mail: [renya@cats.ucsc.edu](mailto:renya@cats.ucsc.edu)
+e-mail: renya@cats.ucsc.edu
 
 ### Please note: This information from a previous quarter
 

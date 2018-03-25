@@ -4,10 +4,9 @@
 
 **COURSE SYLLABUS  
   
-**[**Click here for an index of names and pictures of students in this
-course**](pictures/)
+****Click here for an index of names and pictures of students in this course**
 
-  * Professor: [Dr. Fidel Fajardo-Acosta](http://mockingbird.creighton.edu/english/fajardo/)
+  * Professor: Dr. Fidel Fajardo-Acosta
   * Course: ENG 520, Call # 1868 
   * Class Time: Tuesdays and Thursdays, 3:30-4:45 PM 
   * Classroom: Instructional Technology Classroom, Reinert Alumni Library Building (RL), Room L02 
@@ -15,8 +14,8 @@ course**](pictures/)
   * Office Hours: Tuesdays and Thursdays 11:00AM-1:45 PM and by appointment 
   * Office: Hitchcock Communication Arts Building (CA) Room 304A 
   * Office Telephone: (402) 280-2522 
-  * [e-mail: fajardo@creighton.edu](mailto:%20fajardo@creighton.edu)
-  * WWW Home Page: <http://mockingbird.creighton.edu/english/fajardo/>
+  * e-mail: fajardo@creighton.edu
+  * WWW Home Page: http://mockingbird.creighton.edu/english/fajardo/
 
 
 
@@ -148,85 +147,85 @@ following formula:
 
 **Tue Jan 19**
 
-  * **Presentation:**[ **English Present and Future**](../intro.htm) **(Baugh/Cable Ch. 1, see also**[ **Introductions in Millward and Pyles/Algeo**](../histeng.htm) **)**
+  * **Presentation:** **English Present and Future** **(Baugh/Cable Ch. 1, see also** **Introductions in Millward and Pyles/Algeo** **)**
 
 > **PRESENTERS: Fidel Fajardo-Acosta**
 
 **Thu Jan 21**
 
-  * **Presentation:**[ **The Phonology of English**](../phonology.htm) **(Millward and Pyles)**
+  * **Presentation:** **The Phonology of English** **(Millward and Pyles)**
 
 > **PRESENTERS: Fidel Fajardo-Acosta**
 
 **Tue Jan 26**
 
-  * **Presentation:**[ **Writing and Writing Systems**](../writing.htm) **(Millward and Pyles)**
+  * **Presentation:** **Writing and Writing Systems** **(Millward and Pyles)**
 
-> **PRESENTERS:[Lorna Perez & Joe DeGeorge](lornajoe.htm)**
+> **PRESENTERS:Lorna Perez & Joe DeGeorge**
 
 **Thu Jan 28**
 
-  * **Presentation:[Language Families of the World and the Place of English](../langfam.htm) (Millward and Pyles)**
+  * **Presentation:Language Families of the World and the Place of English (Millward and Pyles)**
 
-> **PRESENTERS:[Ryan Syrek & Gregory Nipper](gregryan.htm)**
+> **PRESENTERS:Ryan Syrek & Gregory Nipper**
 
 **Tue Feb 02**
 
-  * **Presentation:[ The Indo-European Family of Languages](../indoeur.htm) ****(Baugh/Cable Ch. 2)**
+  * **Presentation: The Indo-European Family of Languages ****(Baugh/Cable Ch. 2)**
 
 > **PRESENTER: Fidel Fajardo-Acosta**
 
 **Thu Feb 04**
 
-  * **Presentation:[From Indo-European to Germanic Languages](../indoeur.htm#transition) (Millward)**
+  * **Presentation:From Indo-European to Germanic Languages (Millward)**
 
 > **PRESENTER: Fidel Fajardo-Acosta**
 
 **Tue Feb 09**
 
-  * **Presentation:[Old English (Anglo-Saxon) Origins and History](../oldeng.htm) (Baugh/Cable Ch. 3: Sections 29--38)**
+  * **Presentation:Old English (Anglo-Saxon) Origins and History (Baugh/Cable Ch. 3: Sections 29--38)**
 
-> **PRESENTERS:[ Kevin Lutz & Carlos Gonzalez](carlkev.htm)**
+> **PRESENTERS: Kevin Lutz & Carlos Gonzalez**
 
 **Thu Feb 11**
 
-  * **Presentation:[Old English Language: General Characteristics, Nouns, Gender, Adjectives, Articles, Pronouns](../oldeng.htm) (Baugh/Cable Ch. 3: Sections 40-45, see also Millward and Pyles/Algeo)**
+  * **Presentation:Old English Language: General Characteristics, Nouns, Gender, Adjectives, Articles, Pronouns (Baugh/Cable Ch. 3: Sections 40-45, see also Millward and Pyles/Algeo)**
 
 > **PRESENTERS: Taryn Haslam & David Garcia-Prats**
 
 **Tue Feb 16**
 
-  * **Presentation:[Old English Language: Verbs, Vocabulary, Syntax, etc. ](../oldeng.htm)(Baugh/Cable Ch. 3: Sections 45, 48-51, see also Millward and Pyles/Algeo)**
+  * **Presentation:Old English Language: Verbs, Vocabulary, Syntax, etc. (Baugh/Cable Ch. 3: Sections 45, 48-51, see also Millward and Pyles/Algeo)**
 
-> **PRESENTERS:[Tanya Starman & Dawn Moser](stardawn.htm)**
+> **PRESENTERS:Tanya Starman & Dawn Moser**
 
 **Thu Feb 18**
 
-  * **Presentation:[Old English Dialects, Literature, and Illustrations of the Language ](../oldeng.htm)(Baugh/Cable Ch. 3: Sections 39, 47, 52, and other sources)**
+  * **Presentation:Old English Dialects, Literature, and Illustrations of the Language (Baugh/Cable Ch. 3: Sections 39, 47, 52, and other sources)**
 
 > **PRESENTERS: Dora Devai & Kelly Broman**
 
 **Tue Feb 23**
 
-  * **Presentation:[The Norman Conquest and the Subjection of English, 1066-1200 (Baugh/Cable, Ch. 5)](../mideng.htm)**
+  * **Presentation:The Norman Conquest and the Subjection of English, 1066-1200 (Baugh/Cable, Ch. 5)**
 
-> **PRESENTERS:[Lorna Perez & Joe DeGeorge](lornajoe.htm)**
+> **PRESENTERS:Lorna Perez & Joe DeGeorge**
 
 **Thu Feb 25**
 
-  * **Presentation:[The Reestablishment of English, 1200-1500 (Baugh/Cable Ch. 6: Sections 93-109)](../mideng.htm)**
+  * **Presentation:The Reestablishment of English, 1200-1500 (Baugh/Cable Ch. 6: Sections 93-109)**
 
-> **PRESENTERS:[Ryan Syrek & Gregory Nipper](gregryan.htm)**
+> **PRESENTERS:Ryan Syrek & Gregory Nipper**
 
 **Tue Mar 02**
 
-  * **Presentation:[Middle English (Baugh/Cable, Ch. 7: Sections 111-123, 146-150). ](../mideng2.htm)PROJECT PROPOSALS DUE.**
+  * **Presentation:Middle English (Baugh/Cable, Ch. 7: Sections 111-123, 146-150). PROJECT PROPOSALS DUE.**
 
-> **PRESENTERS:[Kevin Lutz & Carlos Gonzalez](carlkev.htm)**
+> **PRESENTERS:Kevin Lutz & Carlos Gonzalez**
 
 **Thu Mar 04**
 
-  * **Presentation:[Middle English Dialects, Literature, and Illustrations of the Language (Baugh/Cable, Ch. 6: Section 110 and other sources; Ch. 7: Sections 111-123, 146-150 and other sources)](../mideng2.htm)**
+  * **Presentation:Middle English Dialects, Literature, and Illustrations of the Language (Baugh/Cable, Ch. 6: Section 110 and other sources; Ch. 7: Sections 111-123, 146-150 and other sources)**
 
 > **PRESENTERS: Taryn Haslam & David Garcia-Prats**
 
@@ -242,13 +241,13 @@ following formula:
 
 **Tue Mar 16**
 
-  * **Presentation: The Renaissance, 1500-1650, (Baugh/Cable, Ch 8: Sections 152-160, 167-172). Additional Sources:[Early Modern English](../emodeng.htm) (Millward Ch. 7) **
+  * **Presentation: The Renaissance, 1500-1650, (Baugh/Cable, Ch 8: Sections 152-160, 167-172). Additional Sources:Early Modern English (Millward Ch. 7) **
 
-> **PRESENTERS:[Tanya Starman & Dawn Moser](stardawn.htm)**
+> **PRESENTERS:Tanya Starman & Dawn Moser**
 
 **Thu Mar 18**
 
-  * **Presentation: The Renaissance, 1500-1650, (Baugh/Cable, Ch 8: Sections 173-185). Additional Sources:[Early Modern English](../emodeng.htm) (Millward Ch. 7) **
+  * **Presentation: The Renaissance, 1500-1650, (Baugh/Cable, Ch 8: Sections 173-185). Additional Sources:Early Modern English (Millward Ch. 7) **
 
 > **PRESENTERS: Dora Devai & Kelly Broman**
 
@@ -274,9 +273,9 @@ following formula:
 
 **Tue Apr 06**
 
-  * **Presentation:[The Nineteenth Century and After ](carlkev.htm)(Baugh/Cable, Ch 10: Sections 211-226)**
+  * **Presentation:The Nineteenth Century and After (Baugh/Cable, Ch 10: Sections 211-226)**
 
-> **PRESENTERS:[Kevin Lutz & Carlos Gonzalez](carlkev.htm)**
+> **PRESENTERS:Kevin Lutz & Carlos Gonzalez**
 
 **Thu Apr 08**
 
@@ -286,9 +285,9 @@ following formula:
 
 **Tue Apr 13**
 
-  * **Presentation:[The English Language in America](stardawn.htm) (Baugh/Cable, Ch 11: Sections 238-249)**
+  * **Presentation:The English Language in America (Baugh/Cable, Ch 11: Sections 238-249)**
 
-> **PRESENTERS:[Tanya Starman & Dawn Moser](stardawn.htm)**
+> **PRESENTERS:Tanya Starman & Dawn Moser**
 
 **Thu Apr 15**
 
@@ -299,7 +298,7 @@ following formula:
 **Tue Apr 20**
 
   * **STUDENT PROJECT PRESENTATIONS:**
-    * **[Kevin Lutz,"Socio-Economic Influences on the English Language in America"](Socio-e.ppt)**
+    * **Kevin Lutz,"Socio-Economic Influences on the English Language in America"**
     * **David Garcia-Prats, "History of the Garcia-Prats Language"   
 **
 
@@ -308,20 +307,20 @@ following formula:
   * **STUDENT PROJECT PRESENTATIONS**
     * **Dora Devai, "Problems of Hungarian Learners of English"**
     * **Carlos Gonzalez, "Influence of Archaic Spanish on the English of San Luis, Colorado"**
-    * **[Kelly Broman,"The History of the Lord's Prayer: A Manuscript"](dorakelly.htm#kelly)  
+    * **Kelly Broman,"The History of the Lord's Prayer: A Manuscript"  
 **
 
 **Tue Apr 27**
 
   * **STUDENT PROJECT PRESENTATIONS**
     * **Dawn Moser, "Regional and Dialectal Differences in American English" **
-    * **[Taryn Haslam,](gendercom.html)** _**["Gender Specific Communication: Is There Really a Difference?"](gendercom.html)**_
-    * **[Lorna Perez,"Language, Culture, and Politics: California's Recent Anti-Minority Legislation"](lornajoe.htm#lorna)**
+    * **Taryn Haslam,** _**"Gender Specific Communication: Is There Really a Difference?"**_
+    * **Lorna Perez,"Language, Culture, and Politics: California's Recent Anti-Minority Legislation"**
 
 **Thu Apr 29**
 
   * **STUDENT PROJECT PRESENTATIONS:**
-    * **[Joe DeGeorge,"Psycholinguistics: The Effects of Intonational Phrasing on Lexical Interpretation"](Joe%20DeGeorge/Finalp1.ppt)**
+    * **Joe DeGeorge,"Psycholinguistics: The Effects of Intonational Phrasing on Lexical Interpretation"**
     * **Gregory Nipper, "The Language of _Finnegan's Wake_ "**
     * **Ryan Syrek, "The Dictionary of _Chasing Amy_ "**
     * **Tanya Starman, "Swear Words"**

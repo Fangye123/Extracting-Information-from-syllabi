@@ -5,7 +5,7 @@ ADVANCED COMMUNICATIONS FOR MANAGEMENT
 
 COURSE SYLLABUS--SPRING 2002  
 DR. WARREN C. WEBER  
-[ E-MAIL: wcweber@csupomona.edu](MAILTO:wcweber@csupomona.edu)  
+E-MAIL: wcweber@csupomona.edu  
 Phone: (909) 869-2433 Office: 94-270**
 
 * * *
@@ -151,14 +151,13 @@ films/videos, exercises, and textbooks.
  **Grades** are assigned based on the evaluations of each student's work
 compared to others in the class and in previous sections of this class. The
 percentages indicated in 5, above, and the grading system in the 1999-2001
-University Catalog are factors. A system of [Stanines (Standard Nine-Point
-Scale)](http://www.csupomona.edu/~wcweber/curve.gif) is used to calculate the
-value of grades. Letter grades (A, B, C, D, or F) are assigned on the basis of
-the instructor's evaluation of student work compared with the work of other
-students completing classwork. An I (Incomplete) grade will be given only if
-sufficient, but not all, work has been completed for good cause. The
-I(ncomplete) will be changed to a letter grade when all work is completed
-according to University Policy.  
+University Catalog are factors. A system of Stanines (Standard Nine-Point
+Scale) is used to calculate the value of grades. Letter grades (A, B, C, D, or
+F) are assigned on the basis of the instructor's evaluation of student work
+compared with the work of other students completing classwork. An I
+(Incomplete) grade will be given only if sufficient, but not all, work has
+been completed for good cause. The I(ncomplete) will be changed to a letter
+grade when all work is completed according to University Policy.  
 ![](../arrowup.gif)
 
 ###
@@ -167,10 +166,10 @@ according to University Policy.
 **Bonus Incentive Points** (BIPs) may be earned to improve poor test grade,
 make up for unavoidable absences or late assignments, etc., or merely to raise
 the final grade received. Bonus work consists of additional work similar to
-those completed for regular classwork. (Examples include: [Periodical Reports
---Abstract and Analysis with Applications](aa.html), extra typed letters,
-additional reports on communication topics, arranging a guest speaker) See
-instructor for additional details.  
+those completed for regular classwork. (Examples include: Periodical Reports--
+Abstract and Analysis with Applications, extra typed letters, additional
+reports on communication topics, arranging a guest speaker) See instructor for
+additional details.  
 ![](../arrowup.gif)  
   
 
@@ -230,8 +229,8 @@ in late normally receive one grade lower than they would otherwise earn. You
 must have an active Cal Poly intranet account and periodically purge your
 account of unnecessary materials to avoid "diskquota exceeded problems" that
 prohibit you from getting mail or posting materials. If you forget your
-password, [click here for instructions on how to get a new
-password](../resources/pppacct.htm) immediately.
+password, click here for instructions on how to get a new password
+immediately.
 
 #### 10\. ADD-DROP POLICY
 
@@ -249,113 +248,86 @@ Room 218, from your Department Office, and from the University Catalog.
 Change)  
   
   
-[Link to Learn HTML In A Weekend--Reader-Support
-Page](http://www.callihan.com/learn3/index2.htm)  
+Link to Learn HTML In A Weekend--Reader-Support Page  
 (http://www.callihan.com/learn3/index2.htm)  
   
-[Members of ACM, Inc., for Spring 2002](acmsp02/acmsp02.html) **_Week 1_**  
+Members of ACM, Inc., for Spring 2002 **_Week 1_**  
 **April 3.** Orientation. Introductions. Class Plan and Organization. Purchase
 Textbook. Make sure Intranet Account Is working. (Check with Computer Commons,
 CLA 5-13 or Enterprise Computing Help Desk, 98-B1-208). Mail may be checked
-from other locations at: <http://webmail.csupomona.edu:8000>**  
-[. E-Mail and Web Browser usage.
-[](http://www.csupomona.edu/~sciman/html/library/internet/noframesTAGS/noframes.htm)
-What is ACM, Incorporated? **Homework: LearnHTML--Friday Evening, Getting
-Oriented.**  
+from other locations at: http://webmail.csupomona.edu:8000**  
+. E-Mail and Web Browser usage.  What is ACM, Incorporated? **Homework:
+LearnHTML--Friday Evening, Getting Oriented.**  
 **_Week 2_**  
-**April 8.** Group organization within[ ACM, Incorporated.](acmorgchart.html).
-[Exploring the Web](../resources/searchtl.htm) & E-Mail--VAX/VMS Mail,
-Netscape Message Center, M/S Outlook, AOL Instant Messenger. Setting
-Preferences. How to join mailing lists. The MHR325 List--Joining and Using.
-Review of final [Group Binder](bindergrd.html) contents. HTML Tag
-Guide.](../eudornet/eudnetst.htm) [HTML Exercise](htmlprac1.html). **Homework:
-LearnHTML--Saturday Morning, Learning the Basics.**  
-**April 10.** Finding and Using HTML Tutorials. Brainstorming Project Ideas.[A
-GDSS List of Ideas.](brainstm.htm) Developing Marks and Logotypes (Word,
-PowerPoint Drawing, FreeHand, Illustrator, Clip and Word Art, etc.). ***[
-**The Electronic Database
-Assignment.](http://www.csupomona.edu/~wcweber/resources/database.html)***
-**[First E-Mail Due Today.](email325.html) Homework: LearnHTML--Saturday
+**April 8.** Group organization within ACM, Incorporated.. Exploring the Web &
+E-Mail--VAX/VMS Mail, Netscape Message Center, M/S Outlook, AOL Instant
+Messenger. Setting Preferences. How to join mailing lists. The MHR325 List--
+Joining and Using. Review of final Group Binder contents. HTML Tag Guide. HTML
+Exercise. **Homework: LearnHTML--Saturday Morning, Learning the Basics.**  
+**April 10.** Finding and Using HTML Tutorials. Brainstorming Project Ideas.A
+GDSS List of Ideas. Developing Marks and Logotypes (Word, PowerPoint Drawing,
+FreeHand, Illustrator, Clip and Word Art, etc.). *** **The Electronic Database
+Assignment.*** **First E-Mail Due Today. Homework: LearnHTML--Saturday
 Afternoon, Dressing Up Your Pages.**  
   
 **_Week 3_**  
-**April 15.**[Searching the Web.** Using search engines for background
-research data and Additional Project Ideas. ](../resources/searchtl.htm) Using
-Steve's [Internet Library and HTML
-Tutorials](http://www.csupomona.edu/~sciman/html/library/internet/). Use of
-File Transfer Protocol (ftp) tools for downloading and uploding files. Using
-WS_FTP. Posting Your Web Pages to the Intranet. **(LearnHTML: Appendix G)**
-Creating a web page using Netscape Composer. **Homework: LearnHTML, Working
-with Tables.**  
-**April 17.**[How drawing, illustration, paint, image manipulation, and page
-layout programs
-work.](http://www.csupomona.edu/~wcweber/resources/slidesho/graphics/index.htm)
-Refer to the [ Cal Poly Graphic Communications Services
-Website](http://www.csupomona.edu/~procurement/graphics/) and its link to the
-[Cal Poly Graphic Standards
-Manual.](http://www.csupomona.edu/~procurement/graphics/GSDmanual.pdf ) Also
-see: [ Design Management Institute, ](http://www.dmi.org/) [Corporate Design
-Foundation](http://www.cdf.org/) and other web sites for ideas on the
-development of Identity, Logos, Letterheads, etc. **Homework: LearnHTML,
-Working with Frames.**  
+**April 15.**Searching the Web.** Using search engines for background research
+data and Additional Project Ideas.  Using Steve's Internet Library and HTML
+Tutorials. Use of File Transfer Protocol (ftp) tools for downloading and
+uploding files. Using WS_FTP. Posting Your Web Pages to the Intranet.
+**(LearnHTML: Appendix G)** Creating a web page using Netscape Composer.
+**Homework: LearnHTML, Working with Tables.**  
+**April 17.**How drawing, illustration, paint, image manipulation, and page
+layout programs work. Refer to the  Cal Poly Graphic Communications Services
+Website and its link to the Cal Poly Graphic Standards Manual. Also see:
+Design Management Institute,  Corporate Design Foundation and other web sites
+for ideas on the development of Identity, Logos, Letterheads, etc. **Homework:
+LearnHTML, Working with Frames.**  
   
 **_Week 4_**  
-**April 22.**[Research Techniques](../resources/slidesho/organize/index.htm).
-[Writing Style--Formal Reports](../resources/forminfm.htm). [The Paramedic
-Method](../resources/slidesho/paramedc/index.htm). [Writing
-Abstracts](../resources/abstract.html). [The Format
-Guide](../resources/formatgd.htm). Using Adobe Acrobat Reader to view and
-print Portable Document Format (PDF) Files. [The Logo
-Factory](http://www.thelogofactory.com/reception.html)\--Professional Logo
-Development. **_Review of Individual and Team Web Pages to Date._ **Term
-Report Topic Due. Homework: LearnHTML, Working with Forms.**  
-**April 24.** Designing Graphs, Charts and Web Sites. [Object Linking and
-Embedding (OLE)](../resources/ole.html). Additional practice in creating WEB
-pages. Additional HTML exercises. ****Homework--Review this site:[Web Style
-Guide: Basic Design for Creating Web Sites (Lynch & Horton)--
-http://info.med.yale.edu/caim/manual/](http://info.med.yale.edu/caim/manual/)
+**April 22.**Research Techniques. Writing Style--Formal Reports. The Paramedic
+Method. Writing Abstracts. The Format Guide. Using Adobe Acrobat Reader to
+view and print Portable Document Format (PDF) Files. The Logo
+Factory\--Professional Logo Development. **_Review of Individual and Team Web
+Pages to Date._ **Term Report Topic Due. Homework: LearnHTML, Working with
+Forms.**  
+**April 24.** Designing Graphs, Charts and Web Sites. Object Linking and
+Embedding (OLE). Additional practice in creating WEB pages. Additional HTML
+exercises. ****Homework--Review this site:Web Style Guide: Basic Design for
+Creating Web Sites (Lynch & Horton)-- http://info.med.yale.edu/caim/manual/
 **Homework: LearnHTML, Working with Graphics.**  
   
 **_Week 5_**  
-**April 29.**[WWW--HTML and Home Page Design and
-Development](../resources/webpgs.htm). Alternative sources of Web Page code
-and ideas. [Using Color on Web Pages.](../resources/colorweb.htm) Bring your
-home page ideas. ****[Term Project Complete Proposal Outline and Mindmap
-Due.**](../resources/proposal.htm)  
-**May 1.**[Designing Visible
-Visuals](../resources/slidesho/visvisb/index.htm). [Preparing
-Storyboards](../resources/slidesho/organize/index.htm). [Newsletter
-design](../resources/newstut.html). Review of Individual and Team Web Pages.
-Additional classwork on web pages, trademark and logotype development.Thoughts
-on [Transactional Analysis (Read this page on the web prior to
-class.)](ta.html)Videotape--Transactional Analysis. **Mid-Term Examination of
-Web Page Progress.**  
+**April 29.**WWW--HTML and Home Page Design and Development. Alternative
+sources of Web Page code and ideas. Using Color on Web Pages. Bring your home
+page ideas. ****Term Project Complete Proposal Outline and Mindmap Due.**  
+**May 1.**Designing Visible Visuals. Preparing Storyboards. Newsletter design.
+Review of Individual and Team Web Pages. Additional classwork on web pages,
+trademark and logotype development.Thoughts on Transactional Analysis (Read
+this page on the web prior to class.)Videotape--Transactional Analysis. **Mid-
+Term Examination of Web Page Progress.**  
   
 **_Week 6_**  
-**May 6.**[Advanced PowerPoint Techniques. In-class
-exercise.](../resources/ppttutor/ppttutor.html) Presentation Techniques. _Be
-Prepared to Speak_ \--View videotape. Videotaping/CamCart. [Initial Electronic
-Database Printouts Due](../resources/database.html). **  
-**May 8. Professor for a Day--Lois Hoyt, _Daily Bulletin._[Second E-Mail
-Due](email325.html).****  
+**May 6.**Advanced PowerPoint Techniques. In-class exercise. Presentation
+Techniques. _Be Prepared to Speak_ \--View videotape. Videotaping/CamCart.
+Initial Electronic Database Printouts Due. **  
+**May 8. Professor for a Day--Lois Hoyt, _Daily Bulletin._Second E-Mail
+Due.****  
   
 **_Week 7_  
-**May 13.****[Review: The Language of the Report--Formal Language.
-](../resources/forminfm.htm) The Format of the Report. [Format Guide for the
-Research Report. ](../resources/formatgd.htm) Using PhotoShop on Scanned
-Pictures. **Bring Pictures to Scan.[Final Electronic Database Assignment
-Due](../resources/database.html). **  
-**May 15.[Media Interviews. Videotape-- _Art of Exposing Yourself in
-Public](../resources/slidesho/mediaint/index.htm)_ Videotaping (CamCart). **
-Additional work on individual and group web pages.  
+**May 13.****Review: The Language of the Report--Formal Language.  The Format
+of the Report. Format Guide for the Research Report.  Using PhotoShop on
+Scanned Pictures. **Bring Pictures to Scan.Final Electronic Database
+Assignment Due. **  
+**May 15.Media Interviews. Videotape-- _Art of Exposing Yourself in Public_
+Videotaping (CamCart). ** Additional work on individual and group web pages.  
   
 **Week 8**  
 **May 20.** Additional work on graphics for website and finalizing web oages.
-Using the Multimedia Lab. (See [Business Project Grading
-Analysis](../projgrdg.htm))  
-**May 22.[Job Interviews. ](../324/interview.htm)Videotaping with CamCorder.
-** Using PhotoShop and Manipulating Scanned Pictures. Bring Scanned Pictures.
-**Finalize Work on Presentations and Binders.**  
+Using the Multimedia Lab. (See Business Project Grading Analysis)  
+**May 22.Job Interviews. Videotaping with CamCorder. ** Using PhotoShop and
+Manipulating Scanned Pictures. Bring Scanned Pictures. **Finalize Work on
+Presentations and Binders.**  
   
 **Week 9**  
 **May 27. HOLIDAY--MEMORIAL DAY.**  
@@ -364,8 +336,7 @@ Analysis](../projgrdg.htm))
 **Week 10  
 **June 3. Present Term Project Findings. Deadline for All Work & BIPS. Binder
 Due.  
-**June 5.[Third E-Mail Due](email325.html). Review and Evaluation of Unit
-Binders.  
+**June 5.Third E-Mail Due. Review and Evaluation of Unit Binders.  
 ![](../arrowup.gif)  
 
 ###
@@ -397,9 +368,9 @@ quarter._
       * Writing business letters and reports.  
 
       * Learning HyperText Markup Language (HTML) 
-      * [Newsletter design](<A HREF=)">Creating a newsletter, brochure, or announcement.  
+      * Newsletter design">Creating a newsletter, brochure, or announcement.  
 
-      * Creating [World Wide Web Home Pages](../resources/webpgs.htm). Click here to [see a slide with the minimum specific web pages to be included](homeflow/index.htm).   
+      * Creating World Wide Web Home Pages. Click here to see a slide with the minimum specific web pages to be included.   
 
       * Creating graphs (the visual display of quantitative information) for integration into letters, reports, or web pages.  
 
@@ -432,20 +403,20 @@ quarter._
       * Individual up-to-date resumes (also to be posted to your web site). 
       * Individual assignments completed in class or for homework. 
       * Individual WEB page printouts and HTML files with floppy disk. 
-      * Term project and presentation materials for each individual and the group (identify creator of each item). Each individual must also learn and apply [basics of HTML and web-page design and prepare a home page for the World Wide Web](../resources/webpgs.htm) that includes meaningful text and graphics. Each web page will be evaluated using a [Web Page Evaluation Form.](hpgeval.htm)  
+      * Term project and presentation materials for each individual and the group (identify creator of each item). Each individual must also learn and apply basics of HTML and web-page design and prepare a home page for the World Wide Web that includes meaningful text and graphics. Each web page will be evaluated using a Web Page Evaluation Form.  
 
       * Work completed for Bonus Incentive Points (BIPS)
       * Term Project, Presentation, and Binder  
 
         * Form your own "company" that will examine a significant problem in **_management communications_** (see list above for suggestions). The aim is to prepare materials that potential clients might use to get information which can be used to solve a significant management communication problem within their companies. 
         * Create a unit identity, including: logo, letterhead, calling card, newsletter, flyer, and mission statement. Visit various websites on logo creation and design to learn more. 
-        * [Do research from a variety of sources (with emphasis on the internet)](../resources/searchtl.htm) to find answers to the problem.  
+        * Do research from a variety of sources (with emphasis on the internet) to find answers to the problem.  
 
-        * Do research on a **_management communication_** topic. (Specifics to be given in class). [A proposal is required.](../resources/proposal.htm) The [formal vs. the informal writing style](../resources/forminfm.htm) is to be used. Any abstract used should follow the [guidelines for preparing the abstract](../resources/abstract.html).  
+        * Do research on a **_management communication_** topic. (Specifics to be given in class). A proposal is required. The formal vs. the informal writing style is to be used. Any abstract used should follow the guidelines for preparing the abstract.  
 
-        * Provide evidence (printouts) of a variety of computer and internet database research sources on the **_management communication_** topic. [(See Database Assignment.)](../resources/database.html)  
+        * Provide evidence (printouts) of a variety of computer and internet database research sources on the **_management communication_** topic. (See Database Assignment.)  
 
-        * Web Pages. The materials collected and created will be put into a web site with company and individual pages. See the [flowchart slide showing minimum required pages](homeflow/index.htm).[ See the main items required on team and individual home pages.](examppgs.html)
+        * Web Pages. The materials collected and created will be put into a web site with company and individual pages. See the flowchart slide showing minimum required pages. See the main items required on team and individual home pages.
         * Conduct a management presentation on the topic including audio-visuals (color slide show, overheads, handouts, web pages or other appropriate media). This presentation is given to ACM, Inc. (the class), prior to being shown to the "client" The class acts as a proxy for the client. If there is an actual company for whom the work is being done, they may be invited to the class presentation.  
 
           * Include an experiential activity so the audience can apply the knowledge presented.  
@@ -455,13 +426,13 @@ quarter._
           * Complete the feedback process evaluating the lesson, including completion of the evaluation form.  
 
           * Submit to the instructor appropriate question(s) for the final examination.
-        * Prepare and submit the binder as outlined below (use dividers for each section). For more details, see the [Binder Evaluation Form](bindergrd.html) for more specifics.   
+        * Prepare and submit the binder as outlined below (use dividers for each section). For more details, see the Binder Evaluation Form for more specifics.   
   
 
-    * The [Binder,](bindergrd.html) described above, must include dividers for each main section and contain the following summary of materials (final will not necessarily be in this order): 
+    * The Binder, described above, must include dividers for each main section and contain the following summary of materials (final will not necessarily be in this order): 
       * Letter of Transmittal. 
       * Printed reports of research completed. 
-      * Presentation materials ([Storyboards](storybd.htm), Powerpoint files, handouts) on the management communication topic. 
+      * Presentation materials (Storyboards, Powerpoint files, handouts) on the management communication topic. 
       * Logo and associated unit identity documents. 
       * Resume 
       * Assignments of individuals--identified with names of the person completing the assignments. 

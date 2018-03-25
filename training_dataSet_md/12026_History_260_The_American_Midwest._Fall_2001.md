@@ -6,7 +6,7 @@ Matthew N. Vosmeier
 
 Fall 2001**
 
-866-7211          [vosmeier@hanover.edu](mailto:vosmeier@hanover.edu)
+866-7211          vosmeier@hanover.edu
 
 ![](http://history.hanover.edu/pictures/bars/magenta_thin.gif)
 
@@ -97,9 +97,8 @@ discussions.
 >
 
 > Sept. 5: The Midwest and the Nation  
->  [ Frederick Jackson
-Turner](http://xroads.virginia.edu/~HYPER/TURNER/chapter1.html), "The
-Significance of the Frontier in American History"
+>  Frederick Jackson Turner, "The Significance of the Frontier in American
+History"
 
 >
 
@@ -151,9 +150,7 @@ of the Great West_
 >
 
 > Sept. 21: The American Revolution  
->  [George Rogers
-Clark](http://history.hanover.edu/courses/excerpts/260grclark.htm), _The
-Conquest of the Illinois_ , Milo Quaife, ed.
+>  George Rogers Clark, _The Conquest of the Illinois_ , Milo Quaife, ed.
 
 >
 
@@ -279,9 +276,7 @@ Women's and Men's Perceptions of Pioneer Foodways on the Midwestern Frontier,
 >
 
 > Oct. 31: Progressive Era Politics in the Midwest  
->  [Robert M. La
-Follette](http://history.hanover.edu/courses/excerpts/260lafol.htm), _La
-Follette's Autobiography_
+>  Robert M. La Follette, _La Follette's Autobiography_
 
 >
 
@@ -308,9 +303,7 @@ _Midwestern Women_ , 158-177
 >
 
 > Nov. 7: Critiques of Midwestern Life  
->  [Sinclair Lewis's](http://history.hanover.edu/courses/excerpts/260main.htm)
-_Main Street_ and [Sherwood Anderson's
-](http://history.hanover.edu/courses/excerpts/260wines.htm) _Winesburg, Ohio_
+>  Sinclair Lewis's _Main Street_ and Sherwood Anderson's  _Winesburg, Ohio_
 
 >
 

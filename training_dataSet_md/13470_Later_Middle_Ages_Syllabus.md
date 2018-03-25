@@ -15,14 +15,14 @@ Grading
 Policies  
 Readings  
 
-**_[Later Middle Ages Home](index.html)_**  
+**_Later Middle Ages Home_**  
 
 **_Study Aids  
-_**[Study, Writing, and Research Aids](studyaids/index.htm)  
+_**Study, Writing, and Research Aids  
 
-**_[Index Historiae](../index.html)_**
+**_Index Historiae_**
 
-**_[Email Prof. Berkhofer](mailto:robert.berkhofer@wmich.edu)_**
+**_Email Prof. Berkhofer_**
 
 |    |  |
 

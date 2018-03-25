@@ -6,7 +6,7 @@ Adjunct Assistant Professor
 B.A., Wright State University  
 M.A., University of Cincinnati
 
-Email: [kevin.grace@uc.edu](mailto:kevin.grace@uc.edu)
+Email: kevin.grace@uc.edu
 
 Current Research: **
 
@@ -19,16 +19,15 @@ Current Research: **
 
 **Teaching:**
 
-> Social History of Baseball -- [**Syllabus**](baseballSpring2001.pdf)  
->  Basketball and American Society -- [**Syllabus**](basketballSpring2001.pdf)
+> Social History of Baseball -- **Syllabus**  
+>  Basketball and American Society -- **Syllabus**
 
 **Recent Publications, Papers and Research Projects:**
 
 > "The Culture of Reading in Cincinnati: Images From the Collections."
 Exhibit, Archives & Rare Books Department, March 1999-February 2000.  
 >  
->  **["Two Unpublished Letters of Ring Lardner, With
-Comment."](http://www.tridget.com/lardnermania/rwlets.htm)**   In: Scott's
+>  **"Two Unpublished Letters of Ring Lardner, With Comment."**   In: Scott's
 Lardnermania [web site], May 27, 1999.  
 >  
 >  "Bossism and the Development of Urban Sport: The Case of Baseball's Garry
@@ -59,9 +58,8 @@ Association of Historians, February 28, 1998.
 > "Mac vs. Sammy II: Why This Sequel Isn't a Smash... Yet" by Gary Klein.
 _Los Angeles Times_ , Aug. 6, 1999.  
 >  
->  [**" Reds Drooling Over New Park's Profit
-Promise"**](http://reds.enquirer.com/1999/05/23/red_reds_drooling_over.html)
-by John Byczkowski.   _The Cincinnati Enquirer_ , May 23, 1999.  
+>  **" Reds Drooling Over New Park's Profit Promise"** by John Byczkowski.
+_The Cincinnati Enquirer_ , May 23, 1999.  
 >  
 >  "The Wide World of Future Sports" by Gary Mihoces.   _USA Today_ , May 19,
 1999.  
@@ -69,9 +67,8 @@ by John Byczkowski.   _The Cincinnati Enquirer_ , May 23, 1999.
 >  "Atlantic City Surf Opens This Week Needing a Financial Grand Slam" by
 Thomas Peele.   _Atlantic City Press_ , May 2, 1999.  
 >  
->  [**" Must the Reds' Owners be
-Local?"**](http://reds.enquirer.com/1999/02/28/red_must_reds_owners_be.html)
-by John Erardi.   _The Cincinnati Enquirer_ , Feb. 28, 1999.  
+>  **" Must the Reds' Owners be Local?"** by John Erardi.   _The Cincinnati
+Enquirer_ , Feb. 28, 1999.  
 >  
 >  "Amid Controversy, Huggins Stands Tough" by William Gildea.   _The
 Washington Post_ , Feb. 10, 1999.  
@@ -82,10 +79,9 @@ _University of Cincinnati Currents_ , Feb. 5, 1999.
 >  "The Birth of a Sports Nation" by Rachel Shuster.   USA Today, Dec. 29,
 1998.  
 >  
->  **["Elementary and College Students Team Up for a Diamond of a Course at
-the University of Cincinnati."](http://www.uc.edu/info-
-services/baseball.htm)**   University of Cincinnati News [web site], September
-29, 1998.  
+>  **"Elementary and College Students Team Up for a Diamond of a Course at the
+University of Cincinnati."**   University of Cincinnati News [web site],
+September 29, 1998.  
 >  
 >  "Segregation Kept Home-Run King's Record Out of Spotlight" by Norma Martin.
 _Austin American-Statesman_ , Sept. 25, 1998.  
@@ -101,9 +97,8 @@ University of Cincinnati Survey."   _University of Cincinnati Currents,_ May
 >  "Throwing a Little Light on the Lingo" by Dom Amore.   _The Hartford
 Courant_ , March 19, 1998.  
 >  
->  **["'Bearcats!' A Trip Through Hoop
-History"](http://enquirer.com/bearcats/1998/03/031098_book.html)** by Mike
-DeCourcy.    _Cincinnati Enquirer,_ March 10, 1998.
+>  **"'Bearcats!' A Trip Through Hoop History"** by Mike DeCourcy.
+_Cincinnati Enquirer,_ March 10, 1998.
 
 **Memberships:**
 
@@ -117,20 +112,15 @@ DeCourcy.    _Cincinnati Enquirer,_ March 10, 1998.
 
 **Links of Interest:**
 
-> **[Association of Professional Basketball
-Researchers](http://user.aol.com/bradleyrd/apbr.html)  
->  [Baseball Links](http://www.baseball-links.com/main.shtml)  
->  [Center for Print Culture in Modern
-America](http://slisweb.lis.wisc.edu/printcul/)  
->  [The Center for the Book in the Library of
-Congress](http://www.loc.gov/loc/cfbook/)  
->  [Center for the Study of Sport in
-Society](http://www.sportinsociety.org/index.html)  
->  [Ex Libris](http://palimpsest.stanford.edu/byform/mailing-lists/exlibris/)  
->  [History and Archives Interest Group, Greater Cincinnati Library
-Consortium](http://www.libraries.uc.edu/gclc)  
->  [Rare Books and Manuscripts Section, Association of College and Research
-Libraries](http://www.princeton.edu/~ferguson/rbms.html)  
->  [Rare Books Around the Net](http://www.abaa-booknet.com/discuss.html)  
->  [Society for American Baseball Research](http://www.sabr.org/) **
+> **Association of Professional Basketball Researchers  
+>  Baseball Links  
+>  Center for Print Culture in Modern America  
+>  The Center for the Book in the Library of Congress  
+>  Center for the Study of Sport in Society  
+>  Ex Libris  
+>  History and Archives Interest Group, Greater Cincinnati Library Consortium  
+>  Rare Books and Manuscripts Section, Association of College and Research
+Libraries  
+>  Rare Books Around the Net  
+>  Society for American Baseball Research **
 

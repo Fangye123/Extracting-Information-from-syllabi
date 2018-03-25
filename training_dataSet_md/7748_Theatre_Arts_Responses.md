@@ -1,11 +1,10 @@
-[< < <](msg00041.html) [ Date](index.html#00042) [> > >](msg00043.html) | [< <
-<](msg00078.html) [Thread](threads.html#00042) [> > >](msg00025.html)
+< < < Date > > > | < < < Thread > > >
 
 * * *
 
 ## Theatre Arts Responses
 
-#### by [Sylvia King](mailto:SKING1@boisestate.edu)
+#### by Sylvia King
 
 #### 12 January 2001 02:59 UTC
 
@@ -176,7 +175,7 @@
     
     Hillary
     
-    <http://www.upenn.edu/ccp/PHENND/syllabi/THAR250.html> 
+    http://www.upenn.edu/ccp/PHENND/syllabi/THAR250.html 
     
     *I searched the database of the National Service-Learning Clearinghouse and 
     came up with the following information.  The first list is of programs - you 
@@ -487,14 +486,14 @@
     
     .**Note: Literature references cited below with an ED (ERIC document) number 
     are available in ERIC and can be purchased through EDRS at: 
-    <https://orders.edrs.com/Webstore/Default.cfm> or by calling 800-443-3742 (If you 
+    https://orders.edrs.com/Webstore/Default.cfm or by calling 800-443-3742 (If you 
     have access to a college/university library they may have these items on 
     microfiche, ask your librarian.)  Citations with an EJ (ERIC journal)
     number are available through the originating journal, interlibrary loan 
     services, or from the following: CARL UnCover S.O.S.: sos@carl.org, 
-    800-787-7979, online order form: <http://uncweb.carl.org/sos/sosform.html>; or 
+    800-787-7979, online order form: http://uncweb.carl.org/sos/sosform.html; or 
     ISI Document Solution: ids@isinet.com, 800-336-4474, 215-386-4399, online order 
-    form: <http://www.isinet.com/prodserv/ids/idsfm.html> 
+    form: http://www.isinet.com/prodserv/ids/idsfm.html 
     
     TITLE: Be a Part of the Equation: A User's Guide on Arts in Community Service.
     AUTHOR: Sam Quan Krueger
@@ -505,7 +504,7 @@
     in the community service activity, and information on contacting and locating 
     community artists, groups, and other resources.
     AVAILABILITY: 
-    <http://www.nationalservice.org/research/fellows_reports/99/krueger.pdf>; or 
+    http://www.nationalservice.org/research/fellows_reports/99/krueger.pdf; or 
     contact the Corporation for National Service at 202-606-5000.
     
     TITLE: Praxis I. A Faculty Casebook on Community Service Learning.
@@ -607,13 +606,11 @@
     
     
 
-[SL Theater syllabi.doc](doc00000.doc)
+SL Theater syllabi.doc
 
 * * *
 
-[< < <](msg00041.html) [ Date](index.html#00042) [> > >](msg00043.html) | [< <
-<](msg00078.html) [Thread](threads.html#00042) [> > >](msg00025.html) |
-[Home](/forums/service-learning/)
+< < < Date > > > | < < < Thread > > > | Home
 
 * * *
 

@@ -219,11 +219,11 @@ home page.
 12\. T 12:20 p.m., 232 Warren Hall, T.A.  
 
 ![](http://instruct1.cit.cornell.edu/courses/rsoc101/homejump.gif) Return to
-the [RS101 Home Page](RS101hme.htm). . . [
+the RS101 Home Page. . .
 
-![](http://instruct1.cit.cornell.edu/courses/rsoc101/book1.gif) Notes ](SYL).
-. . ![](http://instruct1.cit.cornell.edu/courses/rsoc101/arrow1.gif) Return to
-the top of this syllabus . . .
+![](http://instruct1.cit.cornell.edu/courses/rsoc101/book1.gif) Notes . . .
+![](http://instruct1.cit.cornell.edu/courses/rsoc101/arrow1.gif) Return to the
+top of this syllabus . . .
 
 
 

@@ -77,9 +77,9 @@ examination.
 
   
 **Web Resources**  
-[![](oralhistlogo2.jpg)](http://www.baylor.edu/~OHA/Welcome.html)
+![](oralhistlogo2.jpg)
 
-[![](khs_banner.gif)](http://www.state.ky.us/agencies/khs/outreach/oral_history.htm)
+![](khs_banner.gif)
 
 * * *
 
@@ -165,7 +165,7 @@ will be followed.
 Updated 8-15-2002  
 TOP
 
-[Public History Courses Page](Program.htm)
+Public History Courses Page
 
-[Public History Home Page](Index.htm)
+Public History Home Page
 

@@ -8,15 +8,15 @@
 Instructor: Gavan Duffy  
 Office: 531 Eggers Hall  
 Phone: 443-5764  
-Home Page: [ http://web.syr.edu/~gavan/](http://web.syr.edu/~gavan/)  
+Home Page:  http://web.syr.edu/~gavan/  
 Office Hours: W 1:00-3:00 and by appointment.  
-Email: [ gavan@mailbox.syr.edu](mailto:gavan@mailbox.syr.edu)  
+Email:  gavan@mailbox.syr.edu  
   
 TA: Mark Brewer  
 Office: 021 Eggers Hall  
 Phone: 443-9068  
 Office Hours: T 12:30-1:30 and Th 11:00-12:00  
-Email: [ mdbrewer@mailbox.syr.edu](mailto:mdbrewer@mailbox.syr.edu)  
+Email:  mdbrewer@mailbox.syr.edu  
 
 ## Course Description
 
@@ -212,6 +212,6 @@ will be announced in class.
 **April 28**  
     _Third Examination._
 
-This document is available on the World-Wide Web at [
-http://web.syr.edu/~gavan/psc311-s98.html](http://web.syr.edu/~gavan/psc311-s98.html).
+This document is available on the World-Wide Web at
+http://web.syr.edu/~gavan/psc311-s98.html.
 

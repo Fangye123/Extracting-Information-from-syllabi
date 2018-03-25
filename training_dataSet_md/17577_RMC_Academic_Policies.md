@@ -1,36 +1,35 @@
-[Rocky Homepage](http://www.rocky.edu/)  
-[Welcome](/about/)  
-[Academics](/academic/)  
-[Registrar](/academic/registrar/)  
-[Academic Calendar 2001/02](/academic/registrar/cal01.shtml)  
-[Academic Calendar 2002/03](/academic/registrar/cal02.shtml)  
-[Registration and Validation](/academic/registrar/reg.shtml)  
-[Common Requests](/academic/registrar/FAQ.shtml)  
-[Requesting a Transcript](/academic/registrar/FAQ.shtml#Requesting a
-Transcript)  
-[Course Schedules](/academic/registrar/schedule.shtml)  
-[RMC Catalog](/academic/catalog.php3)  
-[Academic Policies](/academic/registrar/policies.shtml)  
-[Degree Requirements](/academic/registrar/policies.shtml)  
-['C', 'M', 'S', and 'W' Courses](/academic/registrar/satisfies.php3)  
-[Graduation Information](/academic/registrar/Grad.shtml)  
-[Institutional Research](/academic/registrar/ir/ir.shtml)  
-[Academic Advising](/academic/advising-sheets.shtml)  
-[Course Schedules](/academic/registrar/schedule.shtml)  
-[Request a Transcript](/academic/registrar/FAQ.shtml#Requesting a Transcript)  
-[Programs of Study](/academic/)  
-[Institute for Peace Studies](/academic/international/IPS/)  
-[International Programs](/academic/international/)  
-[Administration](/admin/)  
-[Admissions](/admissions/)  
-[Alumni/ae](/alumni/)  
-[Athletics](/campus/athletics/)  
-[Bookstore](http://shop.efollett.com/htmlroot/storehome/rockymountaincollege489.html)  
-[Campus Life](/campus/)  
-[Library](http://library.rocky.edu/)  
-[Outreach](http://outreach.rocky.edu)  
-[Career Services](/campus/placement)  
-[Search![ ](/images/search.gif)](/search/)  
+Rocky Homepage  
+Welcome  
+Academics  
+Registrar  
+Academic Calendar 2001/02  
+Academic Calendar 2002/03  
+Registration and Validation  
+Common Requests  
+Requesting a Transcript  
+Course Schedules  
+RMC Catalog  
+Academic Policies  
+Degree Requirements  
+'C', 'M', 'S', and 'W' Courses  
+Graduation Information  
+Institutional Research  
+Academic Advising  
+Course Schedules  
+Request a Transcript  
+Programs of Study  
+Institute for Peace Studies  
+International Programs  
+Administration  
+Admissions  
+Alumni/ae  
+Athletics  
+Bookstore  
+Campus Life  
+Library  
+Outreach  
+Career Services  
+Search![ ](/images/search.gif)  
   
 ---  
 ---  
@@ -371,7 +370,7 @@ Students must begin to fulfill a major at Rocky. Successful completion of the
 first year at Washington University is required for the awarding of a
 bachelor's degree from Rocky.
 
-## [Teaching Certification](...catalog.php3?code=EDC)
+## Teaching Certification
 
 For information about teaching certification, refer to the education program
 section of the catalog.
@@ -985,13 +984,12 @@ student's transcript.
 
 Back to top of page.  
   
-[![ Rocky Mountain College ](/images/rmc_white.gif)](http://www.rocky.edu/)
-1511 Poly Drive  
+![ Rocky Mountain College ](/images/rmc_white.gif) 1511 Poly Drive  
 Billings, MT 59102-1796  
 1-800-877-6259  
-[albersoj@rocky.edu](mailto:albersoj@rocky.edu)  
+albersoj@rocky.edu  
   
-[![ * Search this Site
+![ * Search this Site
 
-* ](/images/search.gif)](/search/) Copyright (C) 2002 Rocky Mountain College. All rights reserved.  
+* ](/images/search.gif) Copyright (C) 2002 Rocky Mountain College. All rights reserved.  
 

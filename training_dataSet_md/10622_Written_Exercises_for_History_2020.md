@@ -1,27 +1,25 @@
-![Monogram](mc.gif)  [ **Maurice Crouse's home page**](home.html "Maurice
-Crouse's home page")  ![->](arrowtny.gif) [** **](summer02.html "Summer 2002
-courses") **[Summer 2002 courses](summer02.html "Summer 2002 courses")**
-![->](arrowtny.gif)  Current page  
+![Monogram](mc.gif)  **Maurice Crouse's home page**  ![->](arrowtny.gif) ** **
+**Summer 2002 courses**   ![->](arrowtny.gif)  Current page  
 ---  
   
 ## Written Exercises for History 2020
 
-The [syllabus for this course](2020_02x.html) indicates that 20% of your grade
-will depend upon classroom participation. Part of it (11 points) will be
-determined by your attendance and actual participation in classroom
-discussion. Another part of it (9 points) will be determined by written
-exercises based on _Discovering the American Past: A Look at the Evidence_ ,
-volume II, 5th edition, by William Bruce Wheeler and Susan D. Becker. ![Writer
-with quill pen](drafting.gif) (This is the book used in classroom discussion
-and is referred to in the assignments in the syllabus as **_READINGS_**.)
+The syllabus for this course indicates that 20% of your grade will depend upon
+classroom participation. Part of it (11 points) will be determined by your
+attendance and actual participation in classroom discussion. Another part of
+it (9 points) will be determined by written exercises based on _Discovering
+the American Past: A Look at the Evidence_ , volume II, 5th edition, by
+William Bruce Wheeler and Susan D. Becker. ![Writer with quill
+pen](drafting.gif) (This is the book used in classroom discussion and is
+referred to in the assignments in the syllabus as **_READINGS_**.)
 
 Each exercise will normally be due two class meetings after the readings
 selection is scheduled for discussion in the classroom; because the 2002 term
 is a day shorter than usual, toward the end of the term some of the exercises
 will be due at the next class meeting instead. It will count only 1/2 point if
-submitted later than the due date (see the [course syllabus](2020_02x.html)
-for these dates). Your instructor will keep all the exercises on file until
-the course has been completed.
+submitted later than the due date (see the course syllabus for these dates).
+Your instructor will keep all the exercises on file until the course has been
+completed.
 
 ### Chapter 2. The Road to True Freedom: African American Alternatives in the
 New South

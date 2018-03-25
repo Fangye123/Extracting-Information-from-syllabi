@@ -11,9 +11,8 @@ Readings should be done regularly. They are marked with the book symbol
 ![](book.gif). The reading assignments should be completed up to but not
 beyond the week indicated for discussion that week. By the beginning of week
 _x_ , you should have completed all assignments before the **WEEK _x_**
-indicator seen on the left of the page. Please [email the
-instructor](mailto:dow@oakland.edu) if something on this web page does not
-work or if there are any questions.
+indicator seen on the left of the page. Please email the instructor if
+something on this web page does not work or if there are any questions.
 
 Readings on reserve are marked "( **reserve** )". To save students time coming
 into the library. I will color the "reserve" mark **red** if the reading is
@@ -34,12 +33,10 @@ BFM
 
 ##  Introduction
 
-![](book.gif) Rosset, Peter and Shea Cunningham. [Understanding
-Chiapas](http://www.ezln.org/understanding-chiapas.html).
+![](book.gif) Rosset, Peter and Shea Cunningham. Understanding Chiapas.
 
-![](book.gif) Dow, James. (1995). [The Mexican Political System and the
-Promise of
-Reform](http://www.oakland.edu/~dow/personal/papers/mexpol/mexican_political_system.html)
+![](book.gif) Dow, James. (1995). The Mexican Political System and the Promise
+of Reform
 
 **WEEK 2** \- 9/14
 
@@ -47,8 +44,7 @@ Reform](http://www.oakland.edu/~dow/personal/papers/mexpol/mexican_political_sys
 
 ##  Geographic and cultural variations
 
-![](book.gif) Dow, James. (1999). [The Cultural Anthropology of Middle
-America.](http://www.oakland.edu/~dow/personal/papers/meso/ca_of_ma.html)
+![](book.gif) Dow, James. (1999). The Cultural Anthropology of Middle America.
 
 ![](book.gif) West, Robert, and John P. Augelli. (1989). Cultural
 Characteristics and Diversity of Middle America, Chapter 1 in Middle America:
@@ -71,29 +67,25 @@ Byrd Simpson. (University of California Press, 1963) ( reserve)
 
 **WEEK 4** \- 9/28
 
-![](book.gif) [Revised culture area maps](culture_area.html)
+![](book.gif) Revised culture area maps
 
 ###  19th century exploitation
 
-![](book.gif) [Pp. 120-137 in _Barbarous Mexico_ by John Kenneth Turner
-(Chicago: Charles H. Kerr  & Company,
-1910)](http://www.geocities.com/Athens/forum/9061/mexico/turnertxt.html)  
+![](book.gif) Pp. 120-137 in _Barbarous Mexico_ by John Kenneth Turner
+(Chicago: Charles H. Kerr  & Company, 1910)  
 Note that this was written in 1910. The reign of Porfiro Diaz, which led up to
 the Mexican Revolution in 1910 is known to historians as the Porfiriato. After
 looking at the results of this reign in the forgoing text, look at the public
-front that it put forth, seen in ![](book.gif)[James Creelman's interview with
-the
-general](http://www.geocities.com/Athens/Forum/9061/mexico/creelman.html)which
-was written before 1910. You may notice some similarity between the approach
-to development then and the approach seen recently during the Salinas
-presidency. The new approach is called by its critics "neoliberalism," which
-refers back to the nineteenth century economic liberalism, of which Diaz was
-Mexico's final proponent.
+front that it put forth, seen in ![](book.gif)James Creelman's interview with
+the generalwhich was written before 1910. You may notice some similarity
+between the approach to development then and the approach seen recently during
+the Salinas presidency. The new approach is called by its critics
+"neoliberalism," which refers back to the nineteenth century economic
+liberalism, of which Diaz was Mexico's final proponent.
 
 ###  The Revolution
 
-![](book.gif) [Mexican Revolution](http://www.emayzine.com/lectures/MEX6.html)
-by Eric Meyer.
+![](book.gif) Mexican Revolution by Eric Meyer.
 
 **WEEK 5** \- 10/5
 
@@ -108,8 +100,8 @@ Mexican Peasant and his Family_. by Oscar Lewis. (1964) (reserve)
 
 ##  Indians
 
-![](book.gif) James Dow. (1994). [Sierra Otomi. Discovering Religion in a
-Mexican Indian Society](dow_sierra_otomi.html).
+![](book.gif) James Dow. (1994). Sierra Otomi. Discovering Religion in a
+Mexican Indian Society.
 
 ![](film.gif)The Highland Maya
 
@@ -138,8 +130,8 @@ World Cultures. James W. Dow, Editor. Boston: G. K. Hall. (reserve)
 **WEEK 8** \- 10/26
 
   
-While reading this chapter look at the ![](book.gif)[Gutierrez kin
-diagram](g_kin.html) to see a diagram of the kinship relationships.
+While reading this chapter look at the ![](book.gif)Gutierrez kin diagram to
+see a diagram of the kinship relationships.
 
 ![](book.gif) The Sanchez Family in FF.
 
@@ -183,22 +175,18 @@ diagram](g_kin.html) to see a diagram of the kinship relationships.
 
 **WEEK 13** \- 11/30
 
-![](book.gif) [Mexico in 1994: Politics and Public
-Life](http://www.worldbank.org/wbi/edimp/mex/ps.html#Colosio)
+![](book.gif) Mexico in 1994: Politics and Public Life
 
 ![](film.gif) The exile of Carlos Salinas on the MacNeil News hour.
 
-![](book.gif) [Mexican Economic
-Crisis](http://www.worldbank.org/wbi/edimp/mex/stv.html) Read all the linked
-pages too.
+![](book.gif) Mexican Economic Crisis Read all the linked pages too.
 
 ![](book.gif) By Way of Conclusion, Ch. 8 in BFM.
 
 ###  Is democracy possible?
 
-![](book.gif) [Lewis, Tom. (1996). Breaking the State-Society Bargain:
-Neoliberal Market Reforms and Resistance in
-Mexico.](http://www.wws.princeton.edu/~jpia/July96/lewis.html)
+![](book.gif) Lewis, Tom. (1996). Breaking the State-Society Bargain:
+Neoliberal Market Reforms and Resistance in Mexico.
 
 ![](film.gif) Mexican opposition to economic reform. C-span.
 

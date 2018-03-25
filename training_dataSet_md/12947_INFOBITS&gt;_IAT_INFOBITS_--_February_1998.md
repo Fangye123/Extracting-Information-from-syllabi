@@ -45,7 +45,7 @@ working in an electronic environment: lack of trust, difficulty in team
 building, increased information overload. [See also "Balkanization of  
 the Global Village," IAT Infobits, December 1996, No. 42,  
 
-<http://www.iat.unc.edu/infobits/bitdec96.html#4>]  
+http://www.iat.unc.edu/infobits/bitdec96.html#4]  
 
 Collaboratories have been set up to help institutions with limited  
 resources partner with major research universities to share expensive  
@@ -55,18 +55,18 @@ students or provide expert advice to K-12 classrooms.
 The complete article and links to the collaboratory projects described  
 in the article are available on the Web at  
 
-<http://web.mit.edu/techreview/www/articles/ma98/ross-flanigan.html>  
+http://web.mit.edu/techreview/www/articles/ma98/ross-flanigan.html  
 
 Technology Review [ISSN 0040-1692] is published six times a year by the  
 Association of Alumni and Alumnae of the Massachusetts Institute of  
 Technology, 201 Vassar St., W59-200, Cambridge, MA 02139 USA; tel:  
-617-253-8250; fax: 617-258-5850; Web: <http://web.mit.edu/techreview/>  
+617-253-8250; fax: 617-258-5850; Web: http://web.mit.edu/techreview/  
 
 To subscribe, contact Technology Review, P.O. Box 489, Mount Morris, IL  
 61054 USA; tel: 800-877-5230; fax: 815-734-5237; email:  
 trsubscriptions@mit.edu; Web:  
 
-<http://web.mit.edu/techreview/www/freeissue.html>  
+http://web.mit.edu/techreview/www/freeissue.html  
 Annual subscriptions are available for $19.95 (U.S.); $25.95 (Canada);  
 $37.95 (foreign air delivery to all other countries).  
 
@@ -80,22 +80,22 @@ Foundation, Inc., was established "to arrive at the edge of the world's
 knowledge, seek out the most complex and sophisticated minds, put them  
 in a room together, and have them ask each other the questions they are  
 asking themselves." To eavesdrop on the latest Edge conversations,  
-check out their Web site at <http://www.edge.org/>  
+check out their Web site at http://www.edge.org/  
 
 Want to start online dialogue with others in your field but don't know  
 how to contact them? Locating email addresses for others in academe can  
 be a time-consuming, frustrating task, despite the proliferation of  
 email address directories available on the Web. (See  
 
-<http://www.iat.unc.edu/guides/irg-08.html#2> for examples of  
+http://www.iat.unc.edu/guides/irg-08.html#2 for examples of  
 directories.) Many higher education institutions now provide online  
 faculty directories that include email addresses. To locate schools  
 that have a Web presence, try Christina DeMello's extensive list of  
 college and university Web pages. The list has not been updated  
 recently, nevertheless, with over 3,000 entries from around the world,  
 it is the most comprehensive list of its kind.  
-Alphabetical listing: <http://www.mit.edu:8001/people/cdemello/univ.html>  
-Geographical listing: <http://www.mit.edu:8001/people/cdemello/geog.html>  
+Alphabetical listing: http://www.mit.edu:8001/people/cdemello/univ.html  
+Geographical listing: http://www.mit.edu:8001/people/cdemello/geog.html  
 
 ......................................................................  
 
@@ -115,7 +115,7 @@ that promise greater job growth and earnings potential.
 
 A brief summary of the report is available on the Web at  
 
-<http://www.ets.org/aboutets/oficecon.html>  
+http://www.ets.org/aboutets/oficecon.html  
 Free copies of the report are available from ETS, Communications  
 Services, MS 50-D, Rosedale Road, Princeton, NJ 08541 USA; tel:  
 609-734-5050.  
@@ -127,7 +127,7 @@ Board. For more information, contact Corporate Headquarters,
 Educational Testing Service, Rosedale Road, Princeton, NJ 08541 USA;  
 tel: 609-921-9000; fax: 609-734-5410; email: etsinfo@ets.org; Web:  
 
-<http://www.ets.org/>  
+http://www.ets.org/  
 
 ......................................................................  
 
@@ -144,7 +144,7 @@ realization of it: who pays, its impact on student enrollments, faculty
 resistance to change, and the freedom from imposed standards in  
 academe. An excerpt from the article is available on the Web at  
 
-<http://www.syllabus.com/feb98_mag.html>  
+http://www.syllabus.com/feb98_mag.html  
 
 In the CEO Forum's "School Technology and Readiness (StaR) Report: From  
 Pillars to Progress" it was reported that "while 3% of American schools  
@@ -159,9 +159,9 @@ their school is preparing its students for the 21st century." Copies of
 the report can be obtained from the CEO Forum by calling 202-393-1010.  
 The complete report is also available on the Web at  
 
-<http://www.ceoforum.org/report97/> [HTML format] and  
+http://www.ceoforum.org/report97/ [HTML format] and  
 
-<http://www.ceoforum.org/report97/report97.pdf> [PDF format].  
+http://www.ceoforum.org/report97/report97.pdf [PDF format].  
 
 The CEO Forum on Education and Technology was founded in the Fall of  
 1996 to "help ensure that America's schools effectively prepare all  
@@ -173,20 +173,20 @@ contact: The CEO Forum on Education and Technology, 1001 G Street, NW,
 Suite 900 East, Washington, DC 20001 USA; tel: 202-393-2260; fax:  
 202-393-0712; email: ceoforum@itstrategies.com; Web:  
 
-<http://www.ceoforum.org/>  
+http://www.ceoforum.org/  
 
 Syllabus [ISSN 1089-5914] is published ten times a year by Syllabus  
 Press, Inc., 345 Northlake Drive, San Jose, CA 95117-1261 USA; tel:  
 408-261-7200; fax: 408-261-7280; email: info@syllabus.com; Web:  
 
-<http://www.syllabus.com/>  
+http://www.syllabus.com/  
 Annual subscriptions are available for $24 (individual/North America);  
 $75 (institution/North America); $75 (individual/outside North  
 America); $135 (institution/outside North America). Subscriptions in  
 the U.S. are free to individuals who work in colleges, universities,  
 and high schools. A free subscription application is available at  
 
-<http://www.syllabus.com/syllsub.html>  
+http://www.syllabus.com/syllsub.html  
 
 ......................................................................  
 
@@ -205,13 +205,13 @@ Confederacy of Apprentices" (TRAINING, vol. 35, no. 1, January 1998,
 pp. 44-48, 50).  
 The full text of the article is available this month on the Web at  
 
-<http://www.trainingsupersite.com/publications/magazines/training/article1.htm>  
+http://www.trainingsupersite.com/publications/magazines/training/article1.htm  
 
 Training [ISSN 0095-5892] is published monthly by Lakewood  
 Publications, Inc., Lakewood Building, 50 S. Ninth St., Minneapolis, MN  
 55402 USA; tel: 612-333-0471; fax: 612-333-6526; Web:  
 
-<http://www.trainingsupersite.com/TSS_Link/lakeset.htm>  
+http://www.trainingsupersite.com/TSS_Link/lakeset.htm  
 Annual subscriptions are available for $79 (U.S.); $89 (Canada); $100  
 (all other countries).  
 
@@ -224,7 +224,7 @@ Software" (COMMUNICATIONS OF THE ACM, vol. 41, no. 2, February 1998,
 pp. 11-15), finding educationally appropriate materials is a "classic  
 time-consuming, hit-or-miss activity for teachers." He points out that  
 the metadata system developed as part of Educom's Instructional  
-Management Systems (IMS) initiative [<http://www.imsproject.org/>] holds  
+Management Systems (IMS) initiative [http://www.imsproject.org/] holds  
 great promise for solving this problem with regard to Web-based  
 materials. Metadata is "data about data" which "allows the user to  
 locate, evaluate, access, and manage online available learning  
@@ -233,15 +233,15 @@ of the IMS initiative, and Dr. Thomas Wason, IAT Director of Research
 and Evaluation, is in charge of the IMS Metadata project. For more  
 information on the Metadata project, see the project's homepage at  
 
-<http://www.imsproject.org/metadata/index.html> and Dr. Wason's papers in  
+http://www.imsproject.org/metadata/index.html and Dr. Wason's papers in  
 the IAT's technical publications area at  
 
-<http://www.iat.unc.edu/publications/tech.html>  
+http://www.iat.unc.edu/publications/tech.html  
 
 Communications of the ACM [ISSN: 0001-0782] is published monthly by the  
 Association for Computing Machinery (ACM), One Astor Plaza, 1515  
 Broadway, New York, New York 10036 USA; tel: 212-869-7440; fax:  
-212-944-1318; email: acmhelp@acm.org; Web: <http://www.acm.org/>  
+212-944-1318; email: acmhelp@acm.org; Web: http://www.acm.org/  
 Subscriptions are included with membership in the ACM. Annual  
 subscriptions for non-members are $144 (print version), $173 (print and  
 online versions), $115 (online version). Subscribers outside North  
@@ -269,9 +269,9 @@ Example: SUBSCRIBE INFOBITS Mary Daheim
 
 INFOBITS is also available online on the IAT's World Wide Web site at  
 
-<http://www.iat.unc.edu/infobits/infobits.html> (HTML format) and at  
+http://www.iat.unc.edu/infobits/infobits.html (HTML format) and at  
 
-<http://www.iat.unc.edu/infobits/text/index.html> (plain text format).  
+http://www.iat.unc.edu/infobits/text/index.html (plain text format).  
 
 If you have problems subscribing or want to send suggestions for future  
 issues, contact the editor, Carolyn Kotlas, at carolyn_kotlas@unc.edu  

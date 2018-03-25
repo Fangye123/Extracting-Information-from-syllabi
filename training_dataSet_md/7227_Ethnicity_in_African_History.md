@@ -287,12 +287,11 @@ Manuscript).
 
 * * *
 
-[![](backarw.gif)](HomePage.html)**Return to Pier's Home Page**  
+![](backarw.gif)**Return to Pier's Home Page**  
 
 * * *
 
-[![](mailbox.gif)](mailto:PML9@psu.edu)**Email a message to Pier:
-PML9@psu.edu**
+![](mailbox.gif)**Email a message to Pier: PML9@psu.edu**
 
 * * *
 

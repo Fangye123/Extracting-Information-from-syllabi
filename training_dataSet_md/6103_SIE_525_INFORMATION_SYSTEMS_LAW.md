@@ -6,8 +6,7 @@ Fall 2001
 
 11:00 \- 12:15 Tues & Thurs, Room 126 Barrows Hall
 
-Instructor:  [Professor Harlan J.
-Onsrud](http://www.spatial.maine.edu/~onsrud)
+Instructor:  Professor Harlan J. Onsrud
 
 **Course Objectives**
 
@@ -30,14 +29,13 @@ graduate degree in engineering, information systems, or computer science. As
 such, a substantial amount of time is spent on introductory legal concepts.
 Further, we will focus on overview books for most of the readings rather than
 use the text of case law or legislation. (For materials appropriate for a law
-school course, see for instance, [Law 276.1
-Cyberlaw](http://www.sims.berkeley.edu/~pam/).)
+school course, see for instance, Law 276.1 Cyberlaw.)
 
-Required readings include several [books](books.htm).  The required books are
-typically cheaper to purchase online than in the university bookstore so you
-should purchase them online yourself from any distributor you desire. I have
-listed a few sample prices. I recommend that you order the books by express
-mail in the first week of class (or earlier) and begin reading them at once.
+Required readings include several books.  The required books are typically
+cheaper to purchase online than in the university bookstore so you should
+purchase them online yourself from any distributor you desire. I have listed a
+few sample prices. I recommend that you order the books by express mail in the
+first week of class (or earlier) and begin reading them at once.
 
 Suggested completion dates for each book are indicated on the syllabus.
 Course lectures will NOT correspond exactly with the readings although I
@@ -58,39 +56,35 @@ All enrolled students must obtain a FirstClass mail account.  Delivery of
 assignments, exams, and written communications among the class as a group will
 occur through use of this system. Information on obtaining a FirstClass
 account and information on acquiring additional free software to access course
-materials may be found at [access, hardware and
-software](http://www.spatial.maine.edu/MSIS/access_software_hardware.htm).
-Contacts for phone and e-mail technical assistance are also provided. I highly
-recommend that all students view the distance education considerations below.
-In the event I need to travel I may video some lecture materials in advance or
-after the fact that may be viewed using the technologies described.
+materials may be found at access, hardware and software.  Contacts for phone
+and e-mail technical assistance are also provided. I highly recommend that all
+students view the distance education considerations below. In the event I need
+to travel I may video some lecture materials in advance or after the fact that
+may be viewed using the technologies described.
 
 Notes Concerning First Class:  Please note that messages may be sent from
 anywhere on the Internet to the rest of the class by sending a message to
-[SIE525@umit.maine.edu](mailto:SIE525@umit.maine.edu)  If you prefer using
-another e-mail address, you can set FirstClass to forward any e-mails arriving
-on your FirstClass account to your standard e-mail address (or vice versa.)
-All assignments and exams will be delivered by electronic mail by you to a
-FirstClass assignment folder.
+SIE525@umit.maine.edu  If you prefer using another e-mail address, you can set
+FirstClass to forward any e-mails arriving on your FirstClass account to your
+standard e-mail address (or vice versa.) All assignments and exams will be
+delivered by electronic mail by you to a FirstClass assignment folder.
 
-[Important Notice to All Students](ImportantNotice.htm)
+Important Notice to All Students
 
-[Copyright Notice for Materials Accessible through this
-Website](CopyrightNotice.htm)
+Copyright Notice for Materials Accessible through this Website
 
-For those students interested in [GIS Law](../../GISlaw.htm) issues.
+For those students interested in GIS Law issues.
 
-[Term Paper Instructions](termpapers.htm)
+Term Paper Instructions
 
-[Book Review Instructions](BookReviewGuideline.htm)
+Book Review Instructions
 
 **Distance Education Considerations**
 
 Some students may be taking this course through live streaming video on the
 web.  To sign up for the course from a distant location, contact the UMaine
-[Continuing Education Division](http://www.ume.maine.edu/~ced/ced).  In order
-to take the course by distance methods, [access, software and hardware
-requirements](../../MSIS/access_software_hardware.htm) must be met.  To ensure
+Continuing Education Division.  In order to take the course by distance
+methods, access, software and hardware requirements must be met.  To ensure
 that all technologies are working you should be able to view (1) this web
 page, (2) the slides for a lecture, and (3) the streaming video all at the
 same time on your screen in three separate windows.  After you have followed
@@ -120,36 +114,32 @@ coming to my FirstClass address (i.e. Harlan_Onsrud@umit.maine.edu)
 **Wk** | **Day** | **Date** |    **Topic** | **Required Readings** * |
 **Assignment** | **Class Video**  
 ---|---|---|---|---|---|---  
-1 |  T | Sept 4 |  Introductory Materials  [[SlidesIntro](SlidesIntro.htm)]  |
-Le Ch 1-5, NRC pp 1-54 |   | <a href="movies/1.mov" target="intro"
-onclick="window.open("
+1 |  T | Sept 4 |  Introductory Materials  [SlidesIntro]  | Le Ch 1-5, NRC pp
+1-54 |   | <a href="movies/1.mov" target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 1  
-  | TH | Sept 6 |  (continued) |   | Read [Tragedy of Info
-Commons](../../pubs/tragedyabstract42.htm) | <a href="movies/2.mov"
-target="intro" onclick="window.open("
+  | TH | Sept 6 |  (continued) |   | Read Tragedy of Info Commons | <a
+href="movies/2.mov" target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')"">Lecture
 2  
-2 |  T | Sept 11 |  Liability [[SlidesLiability](SlidesLiability.pdf)] | Le Ch
-6-8 | Read [Liability in Use of GIS](../../pubs/liabilityabstract40.htm) | <a
-href="movies/3.mov" target="intro" onclick="window.open("
+2 |  T | Sept 11 |  Liability [SlidesLiability] | Le Ch 6-8 | Read Liability
+in Use of GIS | <a href="movies/3.mov" target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 3  
   | TH | Sept 13 |  (continued) |   |   | <a href="movies/4.mov"
 target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 4  
-3 |  T | Sept 18 |  Ethics  [[SlidesEthics](SlidesEthics.pdf)] | Sp Ch 1 | 1\.
-Liability Response Due | <a href="movies/5.mov" target="intro"
-onclick="window.open("
+3 |  T | Sept 18 |  Ethics  [SlidesEthics] | Sp Ch 1 | 1\. Liability Response
+Due | <a href="movies/5.mov" target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 5  
   | TH | Sept 20 |  (continued) |   | Finish Lessig | <a href="movies/6.mov"
 target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 6  
-4 |  T | Sept 25 |  Privacy [[SlidesPrivacy](SlidesPrivacy.pdf)] | Sp Ch 5, Le
-Ch 11 |   | <a href="movies/7.mov" target="intro" onclick="window.open("
+4 |  T | Sept 25 |  Privacy [SlidesPrivacy] | Sp Ch 5, Le Ch 11 |   | <a
+href="movies/7.mov" target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 7  
   | TH | Sept 27 |  (continued) |   |   | <a href="movies/8.mov"
@@ -165,9 +155,8 @@ href="movies/10.mov" target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 10  
 6 |  T | Oct 9 |   _Fall Break_  
-  | TH | Oct 11 |  Intellectual Property Basics
-[[SlidesIPBasics](SlidesIPbasics.pdf)] | Sp Ch 4, Le Ch 9&10 | 2\. Privacy
-Book Review Due | <a href="movies/11.mov" target="intro"
+  | TH | Oct 11 |  Intellectual Property Basics [SlidesIPBasics] | Sp Ch 4, Le
+Ch 9&10 | 2\. Privacy Book Review Due | <a href="movies/11.mov" target="intro"
 onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 11  
@@ -179,22 +168,21 @@ target="intro" onclick="window.open("
 href="movies/13.mov" target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 13  
-8 |  T | Oct 23 |  Database Legislation & Academic Research
-[[SlidesDtbs](SlidesDtbs.pdf)] |   |   | <a href="movies/14.mov"
-target="intro" onclick="window.open("
+8 |  T | Oct 23 |  Database Legislation & Academic Research [SlidesDtbs] |   |
+| <a href="movies/14.mov" target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 14  
   | TH | Oct 25 |  Self-help Technologies: Copyright, Copyleft & DE Commons
-[[SlidesCpyLt](SlidesCpyLt.pdf)] |   | Finish Litman | <a href="movies/15.mov"
-target="intro" onclick="window.open("
+[SlidesCpyLt] |   | Finish Litman | <a href="movies/15.mov" target="intro"
+onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 15  
 9 |  T | Oct 30 |  Copyright, Copyleft & DE Commons (con't) |   |   | <a
 href="movies/16.mov" target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 16  
-  | TH | Nov 1 |  Public Information  [[SlidesFOIA](SlidesFOIA.pdf)] |   |   |
-<a href="movies/17.mov" target="intro" onclick="window.open("
+  | TH | Nov 1 |  Public Information  [SlidesFOIA] |   |   | <a
+href="movies/17.mov" target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 17  
 10 |  T | Nov 6 |  IP Discussion Piece on MP3s |   | 3\. In class IP exercise
@@ -206,31 +194,26 @@ href="movies/16.mov" target="intro" onclick="window.open("
 href="movies/19.mov" target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 19  
-  | TH | Nov 15 |  Public Information
-[[SlidesLocalGovt](SlidesLocalGovt.pdf)] |   |   | <a href="movies/20.mov"
-target="intro" onclick="window.open("
+  | TH | Nov 15 |  Public Information  [SlidesLocalGovt] |   |   | <a
+href="movies/20.mov" target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 20  
-12 |  T | Nov 20 |  Free Speech  [[SlidesFreeSpeech](SlidesFreeSpeech.htm)]]
-| Sp Ch 3, Le Ch 12 | Finish NRC Report | <a href="movies/21.mov"
-target="intro" onclick="window.open("
+12 |  T | Nov 20 |  Free Speech  [SlidesFreeSpeech]]   | Sp Ch 3, Le Ch 12 |
+Finish NRC Report | <a href="movies/21.mov" target="intro"
+onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 21  
   | TH | Nov 22 |   _Thanksgiving Break  _  
-13 |  T | Nov 27 |  Evidentiary Admissibility [[SlidesEvid](SlidesEvid.htm)]]
-|   | [Evidence from
-GIS](http://www.spatial.maine.edu/~onsrud/pubs/evidence.pdf) | <a
-href="movies/22.mov" target="intro" onclick="window.open("
+13 |  T | Nov 27 |  Evidentiary Admissibility [SlidesEvid]]   |   | Evidence
+from GIS | <a href="movies/22.mov" target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 22  
-  | TH | Nov 29 |  Jurisdiction and the Internet
-[[SlidesJuris](SlidesJuris.htm)]] | Sp Ch 2, Le 14 |   | <a
-href="movies/23.mov" target="intro" onclick="window.open("
+  | TH | Nov 29 |  Jurisdiction and the Internet  [SlidesJuris]] | Sp Ch 2, Le
+14 |   | <a href="movies/23.mov" target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 23  
-14 |  T | Dec 4 |  International Law and Trade  [[SlidesILT](SlidesILT.htm)] |
-| 4\. Scenario Response Due | <a href="movies/24.mov" target="intro"
-onclick="window.open("
+14 |  T | Dec 4 |  International Law and Trade  [SlidesILT] |   | 4\. Scenario
+Response Due | <a href="movies/24.mov" target="intro" onclick="window.open("
 ,'lecture','toolbar="no,scroollbars=no,alwaysRaised=yes,titlebar=no,dependent=yes,innerHeight=255,innerWidth=335,height=255,width=335')">Lecture
 24  
   | TH | Dec 6 |  (continued) |   |   | <a href="movies/25.mov" target="intro"
@@ -270,14 +253,11 @@ Sp = Spinello, Cyber Ethics: Morality and Law in Cyberspace
 
 
 
-[[Primary Research Interests](../../research.htm)] [[Selected
-Publications](../../pubs.htm)] [[Courses](../../courses.htm)]
+[Primary Research Interests] [Selected Publications] [Courses]
 
-[[GIS Law, Policy and Ethics](../../GISlaw.htm)] [[GIS in Developing
-Countries](../../emergingeconomies.html)] [[GSDI Survey](../../GSDI.htm)]
+[GIS Law, Policy and Ethics] [GIS in Developing Countries] [GSDI Survey]
 
-[[Spatial Odyssey](http://wwwsgi.ursus.maine.edu/gisweb/home.html)]
+[Spatial Odyssey]
 
-[[Onsrud Index](../../)] [[UMaine SIE Program](../../../)]
-[[UMaine](http://www.umaine.edu)]
+[Onsrud Index] [UMaine SIE Program] [UMaine]
 

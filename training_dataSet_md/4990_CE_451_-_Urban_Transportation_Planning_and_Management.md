@@ -6,7 +6,7 @@
 
 **
 
-* [Syllabus, including lectures, labs and exam dates](syllabus.htm)
+* Syllabus, including lectures, labs and exam dates
 **
 
 * Contact Information
@@ -16,10 +16,10 @@
 * Late Assignments
 * Evaluation Criteria
 * Lab Write-Ups
-* [Grades to Date](grades.jpg)
+* Grades to Date
 * Prerequisites by Topic
 * Graduate Project
-* [Graded Reports](http://www.ctre.iastate.edu/education/ce451/graded_reports/)
+* Graded Reports
 
 * * *
 
@@ -31,7 +31,7 @@ Instructors:
 Edward Kannel  
 382 B Town Engr  
 Phone: 294-2861  
-[ekannel@iastate.edu](mailto:ekannel@iastate.edu)
+ekannel@iastate.edu
 
   
   
@@ -48,9 +48,9 @@ Phone:
 294-5453
 
 Email:  
-[reg@iastate.edu](mailto:reg@iastate.edu)
+reg@iastate.edu
 
-[Dr. Reg Souleyrette](http://www.eng.iastate.edu/~reg/)
+Dr. Reg Souleyrette
 
 Office Hours:  
 TBA - see note on door of 380 Town. Important: I am accessible via email M-F
@@ -122,25 +122,25 @@ the semester.
   2. _Travel Demand Modelling with TransCAD 4.0_ , 2001 Caliper Corporation, Newton, MA.**).  
   
 
-  3. [Travel Model Improvement Program Clearinghouse ](http://tmip.fhwa.dot.gov/clearinghouse/)(No specific reading assignment here as there are more than 50 full documents at this site. Check it early and then throughout the semester you should check for, and read, related material that would help you learn better, help you prepare lab reports, (e.g., cut and paste supporting figures, with appropriate credit given, etc.), or be useful to you in other classes/research).  
+  3. Travel Model Improvement Program Clearinghouse (No specific reading assignment here as there are more than 50 full documents at this site. Check it early and then throughout the semester you should check for, and read, related material that would help you learn better, help you prepare lab reports, (e.g., cut and paste supporting figures, with appropriate credit given, etc.), or be useful to you in other classes/research).  
 
-  4. [ National Transportation Library directory ](http://ntl.bts.gov/browse.cfm)(As in Clearinghouse above, you can examine dozens of resources, by interest groups, related to transportation data, models, analysis and more).  
+  4. National Transportation Library directory (As in Clearinghouse above, you can examine dozens of resources, by interest groups, related to transportation data, models, analysis and more).  
 
-  5. **Week 2,**[ A Transportation Modeling Primer.](http://www.uwm.edu/Dept/CUTS/primer.htm) Read through intial segment through Trip Generation. Do not focus on the "limitations or shortcomings" at this time. We will return to these after you have gained more familiarity with the general process.   
+  5. **Week 2,** A Transportation Modeling Primer. Read through intial segment through Trip Generation. Do not focus on the "limitations or shortcomings" at this time. We will return to these after you have gained more familiarity with the general process.   
 
   6. **Week 4, Monday:** NCHRP 365, Travel Estimation Techniques for Urban Areas, Chapter 3: Trip Generation (I will provide hard copies of this, xx pages, estimated reading time: 1 hour  
 
   7. **Week 5, Monday** NCHRP 365, Travel Estimation Techniques for Urban Areas, Chapter 5: External Travel (I will provide hard copies of this, 12 pages, estimated reading time: 1 hour  
 
-  8. **Week 9, Monday:**[Travel Surveys, Chapter 2](http://ntl.bts.gov/data/1392.pdf)  
+  8. **Week 9, Monday:**Travel Surveys, Chapter 2  
 
-  9. **Week 10, Tuesday:**[Calibration and Adjustment of System Planning Models ](http://ntl.bts.gov/DOCS/377CAS.html)\- December 1990 (This is short, but good. I suggest reading this as soon as possible, 6500 words, estimated time: 2 hours)   
+  9. **Week 10, Tuesday:**Calibration and Adjustment of System Planning Models \- December 1990 (This is short, but good. I suggest reading this as soon as possible, 6500 words, estimated time: 2 hours)   
 
-  10. **Week 11, Monday:**[Model Validation and Reasonableness Checking Manual](http://tmip.fhwa.dot.gov/clearinghouse/docs/mvrcm/), 1997 (this is rather large. I suggest you being reading this right after exam 1, 28,000 words, estimated time: 8 hours) If you prefer, you can download a pdf version at <http://tmip.fhwa.dot.gov/clearinghouse/docs/mvrcm/finalval.pdf>  
+  10. **Week 11, Monday:**Model Validation and Reasonableness Checking Manual, 1997 (this is rather large. I suggest you being reading this right after exam 1, 28,000 words, estimated time: 8 hours) If you prefer, you can download a pdf version at http://tmip.fhwa.dot.gov/clearinghouse/docs/mvrcm/finalval.pdf  
 
-  11. **Week 14, Monday:**[A Critical Review of the Trip-Based, Four-Step Procedure of Urban Passenger Demand Forecasting ](http://tmip.fhwa.dot.gov/clearinghouse/docs/amos/ch2.stm)(2000 words, estimated time: 30 minutes)  
+  11. **Week 14, Monday:**A Critical Review of the Trip-Based, Four-Step Procedure of Urban Passenger Demand Forecasting (2000 words, estimated time: 30 minutes)  
 
-  12. **Week 14, Friday:**[A Transportation Modeling Primer ](http://www.uwm.edu/Dept/CUTS/primer.htm)(8000 words, estimated time: 2.2 hours) 
+  12. **Week 14, Friday:**A Transportation Modeling Primer (8000 words, estimated time: 2.2 hours) 
   
 
 other references:
@@ -148,8 +148,7 @@ other references:
 _Transportation Planning Handbook_ , Institute of Transportation Engineers,
 1992.  
 _Urban Transportation Planning in the United States, An Historical Overview._
-USDOT. 5th Edition. [Click Here for
-Link](http://www.bts.gov/tmip/abstracts/history.htm)  
+USDOT. 5th Edition. Click Here for Link  
 John Dickey, _Metropolitan Transportation Planning_ , 2nd Ed., Hemisphere,
 1983 (some lecture material taken from this book)  
 M.P. Meyer and E.J. Miller, _Urban Transportation Planning, A Decision
@@ -202,13 +201,13 @@ answer is usually only half the work.
   5. Reports that are confusing, sloppy or difficult to read will be penalized 20% from the start. 
   6. A general guide for Laboratory and Homework presentation is at 
 
-[Guidelines for Lab and Homework Preparation](GUIDES.htm)
+Guidelines for Lab and Homework Preparation
 
 .
 
-[Lab Report Submittal Instructions](submit.htm)
+Lab Report Submittal Instructions
 
-[Download the report template here.](lab_temp.doc)
+Download the report template here.
 
 Back to Index
 

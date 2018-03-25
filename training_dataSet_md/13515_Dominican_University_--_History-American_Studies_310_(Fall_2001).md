@@ -9,12 +9,8 @@ Scott A. Newman, Instructor** |
 Migrant mother, 32, in California peapickers camp, 1936 >  
 ---  
 ![x](http://homepages.luc.edu/~snewma1/courses/photo01.jpg)  
-| [Guide to Critical
-Reading](http://homepages.luc.edu/~snewma1/courses/310read.htm) \- [Guidelines
-for Four-Credit-Hour
-Project](http://homepages.luc.edu/~snewma1/courses/310proj.htm) \- [Reading
-Suggestions](http://homepages.luc.edu/~snewma1/courses/310books.htm) \- [Links
-to Visual Aids](http://homepages.luc.edu/~snewma1/courses/310imgs.htm) |  
+| Guide to Critical Reading \- Guidelines for Four-Credit-Hour Project \-
+Reading Suggestions \- Links to Visual Aids |  
 ---|---|---  
 |
 
@@ -23,8 +19,8 @@ to Visual Aids](http://homepages.luc.edu/~snewma1/courses/310imgs.htm) |
 |  
 | **Contact Information**  
 Office: Lewis 309 / Office hours: MWF 11:00-12:15, or by appt. / Email:
-[snewma1@luc.edu](mailto:snewma1@luc.edu)  
-Course web page: <http://homepages.luc.edu/~snewma1/courses/310.htm>  
+snewma1@luc.edu  
+Course web page: http://homepages.luc.edu/~snewma1/courses/310.htm  
 |  
 |
 
@@ -75,10 +71,8 @@ and a 15- to 20-page independent research paper or extended review essay
 review essay proposal by September 25, a list of sources and sketch outline by
 October 16, a first draft by November 20, and a final draft by December 13.
 Deadlines for the proposal, sketch outline, and first draft may be extended
-upon advance consultation with the instructor. Consult the ["Guidelines for
-the Four-Credit-Hour
-Project"](http://homepages.luc.edu/~snewma1/courses/310proj.htm) for more
-detailed instructions.  
+upon advance consultation with the instructor. Consult the "Guidelines for the
+Four-Credit-Hour Project" for more detailed instructions.  
   
 _Essays:_ There will be three essays due during the course. These essays
 should be 3-5 pages in length, typewritten, and well-organized. Well-organized
@@ -106,9 +100,8 @@ in this course. It is your responsibility to allocate enough time to complete
 the assigned readings before each class. You should come to class prepared to
 share your understanding of the readings, relate the readings to other aspects
 of the course, and to pose your own questions about the readings. Use the
-attached ["Guide to Critical
-Reading"](http://homepages.luc.edu/~snewma1/courses/310read.htm) to help you
-prepare to discuss assigned readings.  
+attached "Guide to Critical Reading" to help you prepare to discuss assigned
+readings.  
   
 |  
 | **Required Texts**  
@@ -126,12 +119,9 @@ Copies of the course texts are available for purchase in the university
 bookstore. Copies of these texts may also be ordered through most of the
 leading on-line booksellers, including some that may have used copies
 available for sale at substantial savings. Possibilities include (no
-endorsements implied): [www.powells.com](http://www.powells.com),
-[www.bibliofind.com](http://www.bibliofind.com),
-[www.half.com](http://www.half.com),
-[www.textbooks.com](http://www.textbooks.com),
-[www.follett.com](http://www.follett.com). Or compare prices at dozens of on-
-line booksellers at: [www.campusbooks.com](http://www.campusbooks.com).  
+endorsements implied): www.powells.com, www.bibliofind.com, www.half.com,
+www.textbooks.com, www.follett.com. Or compare prices at dozens of on-line
+booksellers at: www.campusbooks.com.  
   
 **Academic Dishonesty**  
 All work submitted for this course must be the product of your own
@@ -160,12 +150,11 @@ class before making any major changes in the schedule.)_
   
 **Week 1 - Introduction**  
 Th 9/6: Why study history? Why study this period of US history? |  |  
-_Get connected:_ send an email to [snewma1@luc.edu](mailto:snewma1@luc.edu)
-that lists your first and last name, major (if undecided, so state), and prior
-history courses (if any) that you have taken for college credit. Also, please
-tell me if you have no prior experience using the internet. If you do not have
-an email account, visit the Media Center for assistance. The email message is
-due 9/13.  
+_Get connected:_ send an email to snewma1@luc.edu that lists your first and
+last name, major (if undecided, so state), and prior history courses (if any)
+that you have taken for college credit. Also, please tell me if you have no
+prior experience using the internet. If you do not have an email account,
+visit the Media Center for assistance. The email message is due 9/13.  
 ---|---  
   
 **2 - Modern Economy and Urban Life: Civilization Gone Bad?**  
@@ -283,5 +272,5 @@ T 12/18 - 8:30am-10:30am, Lewis 310.
 Photo source: Lange, Dorothea. 1936. Destitute peapickers in California; a 32
 year old mother of seven children. In Farm Security Administration Collection,
 Library of Congress. [Online] Available HTTP:
-<http://lcweb.loc.gov/rr/print/128_migm.html>. [September 3, 2001].
+http://lcweb.loc.gov/rr/print/128_migm.html. [September 3, 2001].
 

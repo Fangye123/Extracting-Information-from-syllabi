@@ -1,5 +1,4 @@
-   [Homepage](GRR.htm) | [Syllabus](GRRsyl.htm) | [Schedule](GRRsch.htm) |
-[Instructor](index.html) | [Resources](GRRres.htm)  
+   Homepage | Syllabus | Schedule | Instructor | Resources  
 ---|---|---|---|---  
   
 ####  Greek and Roman Religions, Fall 1999
@@ -33,10 +32,9 @@ significant ways,  one of the main problems for any student of classical
 religions is to decide how to reconcile these disparate types of evidence and
 types of religion to form a unified picture.
 
-For some further thoughts on how this course works, [click here](GRRnonl.htm).
+For some further thoughts on how this course works, click here.
 
-The instructor for this course is [Carl
-Seaquist](http://ccat.sas.upenn.edu/~carlas).  Contact information is as
+The instructor for this course is Carl Seaquist.  Contact information is as
 follows:  
   | email | carlas@ccat.sas.upenn.edu  
 ---|---  
@@ -84,8 +82,7 @@ the library, if you would prefer:
 |  |  
 |  | **C.   Course Schedule**
 
-This is available on a separate web page, which can be accessed at
-[GRRsch.htm](GRRsch.htm).  
+This is available on a separate web page, which can be accessed at GRRsch.htm.  
   
 |  |  
 |  | **D.   Grading**
@@ -204,8 +201,7 @@ last two classes to maximize the benefit to you.  You won't be graded on this
 summary per se, but the more effort you put into it, the better off you will
 be when the time comes to write your final paper.
 
-For a fuller explanation of what is expected for the final paper, click
-[here](GRRfinpap.htm).  
+For a fuller explanation of what is expected for the final paper, click here.  
   
   
  last updated:  August 24, 1999

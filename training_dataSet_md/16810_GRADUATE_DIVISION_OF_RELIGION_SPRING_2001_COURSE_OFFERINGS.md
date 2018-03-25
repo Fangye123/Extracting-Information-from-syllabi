@@ -8,7 +8,7 @@ OFFERINGS
   
 **RLAR 737K Topics in Asian Religions: Christian Missions in China
 (representation, idolatry, and the body) (same as RLHT 738K)
-[Reinders](http://www.emory.edu/COLLEGE/RELIGION/faculty/reinders.html)
+Reinders
 M 9:00-12:00**  
 **Max: 8**
 
@@ -67,8 +67,7 @@ terminology early in the semester.
 * * *
 
   
-**RLE 733 Love & Justice
-[Jackson](http://www.emory.edu/CANDLER/Jackson.html)         W 2:30 - 5:30**  
+**RLE 733 Love & Justice       Jackson         W 2:30 - 5:30**  
 **Max: 12**
 
 **Content:** Few concepts are more central to ethics than love and justice,
@@ -92,8 +91,7 @@ open to advanced undergraduates and Candler students.
 * * *
 
   
-**RLE 735 Feminist Ethics
-[Bounds](http://www.emory.edu/CANDLER/Bounds.html)         Th 6:30-9:30**  
+**RLE 735 Feminist Ethics        Bounds         Th 6:30-9:30**  
 **Max: 12**
 
 **Content:** This course provides an advanced introduction to contemporary
@@ -117,8 +115,7 @@ research paper is also required.
 * * *
 
   
-**RLHB 720H - Exegetical Seminar on Song of Songs
-[Buss](http://www.emory.edu/COLLEGE/RELIGION/faculty/buss.html)         M
+**RLHB 720H - Exegetical Seminar on Song of Songs          Buss         M
 1:00-4:00**  
 **Max: 12**
 
@@ -135,8 +132,7 @@ half of the seminar; of course, they can listen to reports emanating from it.
 * * *
 
   
-**RLHB 750 Israelite History
-[Hayes](http://www.emory.edu/CANDLER/Hayes.html)                     Tu
+**RLHB 750 Israelite History            Hayes                     Tu
 1:00-4:00**  
 **Max: 12**
 
@@ -151,8 +147,8 @@ seminar, rather than a single research paper or final examination.
 * * *
 
   
-**RLHB 792 - Issues in Hebrew Bible Studies
-[Newsom](http://www.emory.edu/CANDLER/Newsom.html)             Th 1:00-4:00**  
+**RLHB 792 - Issues in Hebrew Bible Studies        Newsom             Th
+1:00-4:00**  
 **Max: 12**
 
 **Content:** This seminar, offered every other year, takes up a rotating
@@ -173,9 +169,8 @@ studies but no major paper.
 * * *
 
   
-**RLHT 721R Seminar in Aquinas (same as HIST 586K)
-[Reynolds](http://www.emory.edu/CANDLER/Reynolds.html)             W
-9:00-12:00**  
+**RLHT 721R Seminar in Aquinas (same as HIST 586K)          Reynolds
+W 9:00-12:00**  
 **Max: 8**
 
 **Content** : This seminar will focus on Thomas Aquinas's concept of the
@@ -206,8 +201,7 @@ paper based on primary sources.
 
   
 **RLHT 735K- Topics in American Religious History: Cultures of Death
-[Laderman](http://www.emory.edu/COLLEGE/RELIGION/faculty/laderman.html)
-Th 10:00-1:00**  
+Laderman         Th 10:00-1:00**  
 **(Same as HIST586L and ILA 790X)**  
 **Max: 6**
 
@@ -235,8 +229,7 @@ primary material for analysis and discussion.
 
   
 **RLHT 735L Topics in American Religious History: Muslim Identities in America
-[Martin](http://www.emory.edu/COLLEGE/RELIGION/faculty/martin.html)         Th
-2:30 - 5:30**  
+Martin         Th 2:30 - 5:30**  
 **Max: 12**
 
 **Content:** The offering of this seminar reflects the interest of the
@@ -284,15 +277,13 @@ fulfilling the requirements of the seminar.
   
 **RLHT 738K Topics in the History of Religions: Christian Missions in China
 (representation, idolatry, and the body) (same as RLAR 737K)
-[Reinders ](http://www.emory.edu/COLLEGE/RELIGION/faculty/reinders.html)
-M 9:00-12:00**  
+Reinders                             M 9:00-12:00**  
 **Max: 4**
 
 * * *
 
   
-**RLL 701B Akkadian        [Walls](http://www.emory.edu/CANDLER/Walls.html)
-W 2:30-4:30**  
+**RLL 701B Akkadian        Walls                             W 2:30-4:30**  
 **Max: 12**
 
 **Content:** Basic study of the language and grammar of Akkadian.
@@ -300,9 +291,8 @@ W 2:30-4:30**
 * * *
 
   
-**RLNT 711H Luke-Acts: Exegesis of the Acts of the Apostles
-[Holladay](http://www.emory.edu/CANDLER/Holladay.html)             W
-1:00-4:00**  
+**RLNT 711H Luke-Acts: Exegesis of the Acts of the Apostles          Holladay
+W 1:00-4:00**  
 **MAX: 12**
 
 **Content:** The focus of the seminar is exegetical: it provides an
@@ -318,8 +308,8 @@ student research projects.
 * * *
 
   
-**RLNT 745 Greco-Roman Backgrounds to the New Testament
-[Brown](http://www.emory.edu/CANDLER/Brown.html)         Tu 10:00-1:00**  
+**RLNT 745 Greco-Roman Backgrounds to the New Testament          Brown
+Tu 10:00-1:00**  
 **Max: 12**
 
 **Content:** This seminar will serve as an intensive introduction to the
@@ -346,8 +336,7 @@ conducting research, and analyzing and interpreting the research.
 * * *
 
   
-**RLPC 710G After Violence: Futuring the End of Victimization
-[Smith](http://www.emory.edu/COLLEGE/RELIGION/faculty/smith.html)
+**RLPC 710G After Violence: Futuring the End of Victimization         Smith
 Tu 1:00-4:00**  
 **(same as ILA 790U)**  
 **Max: 8**
@@ -421,7 +410,7 @@ course.
 * * *
 
 **RLPC 710K - James: Psychology, Pragmatism, and the Religious Life
-[Snarey](http://www.emory.edu/CANDLER/Snarey.html)             M 2:30 - 5:30**  
+Snarey             M 2:30 - 5:30**  
 **Max: 12        **
 
 **Content:**   We will examine carefully and critically the psychological,
@@ -441,8 +430,7 @@ seminar presentations; a final 15 page paper.
   
 **RLR 725 - Comparative Sacred Texts: Exegesis and Contemporary Politics of
 India and Israel**  
-**[Patton](http://www.emory.edu/COLLEGE/RELIGION/faculty/patton.html) and
-Goldman                         Th 10:00 -1:00**  
+**Patton and Goldman                         Th 10:00 -1:00**  
 **Max:12**
 
 **Content:** This course will focus on religion and nationalism in the reading
@@ -481,8 +469,7 @@ India_
 * * *
 
   
-**RLSR 775 Contemporary American Religion
-[Eiesland](http://www.emory.edu/CANDLER/Eiesland.html)
+**RLSR 775 Contemporary American Religion            Eiesland
 Tu 9:00 -12:00**  
 **(Same as SOC 790C)**  
 **Max: 9**
@@ -512,8 +499,7 @@ paper (20-25 pages).
 * * *
 
   
-**RLTS 753H Emotions and Passions
-[Saliers](http://www.emory.edu/CANDLER/Saliers.html)
+**RLTS 753H Emotions and Passions                Saliers
 Tu 5:00-8:00**  
 **Max: 12** ****
 
@@ -538,8 +524,7 @@ articles.
 * * *
 
   
-**RLTS 710 Theological Problems: Theological Anthropology
-[Farley](http://www.emory.edu/COLLEGE/RELIGION/faculty/farley.html)
+**RLTS 710 Theological Problems: Theological Anthropology          Farley
 F 9:00-12:00**  
 **Max: 12**
 
@@ -558,30 +543,25 @@ Jonathan Edwards, _Religious Affections_.
 texts in conversation with contemporary theology and experience.  
 
 
-####  [Fall 2000 Course Offerings](http://www.emory.edu/GDR/fall2000.html)
+####  Fall 2000 Course Offerings
 
-####  [Spring 2000 Course Offerings](http://www.emory.edu/GDR/Sp2000.html)
+####  Spring 2000 Course Offerings
 
-####  [Fall 1999 Course Offerings](http://www.emory.edu/GDR/Fall99.html)
+####  Fall 1999 Course Offerings
 
-####  [Spring 1999 Course Offerings](http://www.emory.edu/GDR/spring99.html)
-
-* * *
-
-###  Return to Graduate Division of Religion [Main Page
-](http://www.emory.edu/GDR/index.html)| [Ph.D.
-Programs](http://www.emory.edu/GDR/program.html)
+####  Spring 1999 Course Offerings
 
 * * *
 
-###  [![](EmoryHome-Main.gif)](http://www.emory.edu/)  
-[Return to Emory Home Page](http://www.emory.edu/)  
-[Search](http://www.emory.edu/INDEX/) | [Index
-](http://www.emory.edu/WWW/contents.html)|
-[Help](http://www.emory.edu/WWW/help.html)
+###  Return to Graduate Division of Religion Main Page | Ph.D. Programs
+
+* * *
+
+###  ![](EmoryHome-Main.gif)  
+Return to Emory Home Page  
+Search | Index | Help
 
 _Copyright (C) Emory University_  
 Last updated October 27, 2000  
-Please send any comments or suggestions to [Pescha
-Penso](mailto:ppenso@emory.edu)
+Please send any comments or suggestions to Pescha Penso
 

@@ -494,9 +494,9 @@ From Max Weber: Essays in Sociology (1958) [1921, 1922]
     
     
     Date:         Mon, 31 Oct 1994 08:18:43 -0600
-    Reply-To:     H-Net Political History discussion list <[H-POL@UICVM.BITNET](mailto:H-POL@UICVM.BITNET)>
-    Sender:       H-Net Political History discussion list <[H-POL@UICVM.BITNET](mailto:H-POL@UICVM.BITNET)>
-    From:         H-Pol co-moderator Peter Knupfer <[pknupfer@ksu.ksu.edu](mailto:pknupfer@ksu.ksu.edu)>
+    Reply-To:     H-Net Political History discussion list <H-POL@UICVM.BITNET>
+    Sender:       H-Net Political History discussion list <H-POL@UICVM.BITNET>
+    From:         H-Pol co-moderator Peter Knupfer <pknupfer@ksu.ksu.edu>
     Subject:      SYLLABUS: Modern America, 1877-1929 (x State)
     
 
@@ -509,8 +509,8 @@ Your comments are invited.
 * * *
 
 Date: Sat, 29 Oct 1994 08:31:51 -0700 From: "E. Wayne Carp, H-State co-
-moderator" <[CARPW@PLU.edu](mailto:CARPW@PLU.edu)> Subject: New Syllabus:
-Modern America, 1877-1929 (x H-SHGAPE)
+moderator" <CARPW@PLU.edu> Subject: New Syllabus: Modern America, 1877-1929 (x
+H-SHGAPE)
 
 **HISTORY 367: MODERN AMERICA, 1877-1929**
 
@@ -732,16 +732,15 @@ well in advance and are expected in on time.)
 
   
   
-[![](http://h-net.msu.edu/~pol/graphics/tbar.polh-pol.gif)](/~pol/)
-[Return](/~pol/) to H-POL's Home Page.  
+![](http://h-net.msu.edu/~pol/graphics/tbar.polh-pol.gif) Return to H-POL's
+Home Page.  
 
   
 
   
-[![H-Net Humanities & Social Sciences
-OnLine](/footers/graphics/logosmall.gif)](/)  
-[Contact Us](/contact/)  
+![H-Net Humanities & Social Sciences OnLine](/footers/graphics/logosmall.gif)  
+Contact Us  
 Copyright  (C) 1995-2002, H-Net, Humanities & Social Sciences OnLine  
-Click Here for an [Internet Citation Guide](/about/citation).  
+Click Here for an Internet Citation Guide.  
 ---
 

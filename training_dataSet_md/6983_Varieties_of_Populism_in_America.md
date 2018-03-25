@@ -24,8 +24,7 @@
     Subject:      SYLLABUS: Varieties of Populism In America (x SHGAPE)
     
 
-From: Robert Cherny
-<[cherny@mercury.sfsu.edu](mailto:cherny@mercury.sfsu.edu)>
+From: Robert Cherny <cherny@mercury.sfsu.edu>
 
 This syllabus was provided by Robert Johnston of Yale University. He invites
 comments, additional citations, questions, etc. Many thanks to him for sending
@@ -314,16 +313,15 @@ Adam Smith and James Madison Would Say About
 
   
   
-[![](http://h-net.msu.edu/~pol/graphics/tbar.polh-pol.gif)](/~pol/)
-[Return](/~pol/) to H-POL's Home Page.  
+![](http://h-net.msu.edu/~pol/graphics/tbar.polh-pol.gif) Return to H-POL's
+Home Page.  
 
   
 
   
-[![H-Net Humanities & Social Sciences
-OnLine](/footers/graphics/logosmall.gif)](/)  
-[Contact Us](/contact/)  
+![H-Net Humanities & Social Sciences OnLine](/footers/graphics/logosmall.gif)  
+Contact Us  
 Copyright  (C) 1995-2002, H-Net, Humanities & Social Sciences OnLine  
-Click Here for an [Internet Citation Guide](/about/citation).  
+Click Here for an Internet Citation Guide.  
 ---
 

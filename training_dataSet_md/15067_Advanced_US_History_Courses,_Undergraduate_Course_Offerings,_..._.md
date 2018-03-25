@@ -26,8 +26,7 @@
 * * *
 
 African American Church and Black Liberation (new History 282).  
-[Betty Collier-Thomas](collier-thomas.html)
-[bcollier@astro.ocis.temple.edu](mailto:bcollier@astro.ocis.temple.edu)  
+Betty Collier-Thomas bcollier@astro.ocis.temple.edu  
 Race has been and is a central issue in America. Race has played a very
 important role in the lives of black people and in the history of African
 Americans. Historically the black church has been a central institution for
@@ -47,43 +46,41 @@ development of liberationist black thought and movements during different
 periods.
 
 America's Rise to Globalism (History 248; new History 290).  
-[Richard Immerman](http://astro.temple.edu/~rimmerma)
-[rimmerma@astro.ocis.temple.edu](mailto:rimmerma@astro.ocis.temple.edu)  
+Richard Immerman rimmerma@astro.ocis.temple.edu  
 This course will trace the contours of U.S. foreign policy from its colonial
 origins through the destruction of the myth of isolationism produced by the
-attack on [Pearl Harbor](phshaw.gif). In other words, this course will trace
-the rise of American globalism. Although the syllabus proceeds
-chronologically, the lectures and readings emphasize thematic continuities and
-discontinuities. These themes include the ideological, strategic, economic,
-cultural, and racial influences on America's foreign relations; mission,
-manifest destiny, and continental expansion; issues of war, peace, and
-security; crisis management and mismanagement; the closing frontier and
-imperialism; Wilsonianism and its critics; independent internationalism; and
-personal versus coalition diplomacy. Because the study of diplomatic history
-is highly interpretative, and the assigned studies reflect competing
-interpretations, all students will be expected to question, comment upon, and
-yes, even criticize the readings and lectures. In doing so, emphasis will be
-placed on recognizing and assessing the strategies historians employ to
-collect and use evidence in order to advance arguments. Nevertheless, there
-will not be any scheduled discussion sessions (except for reviews prior to
-exams). They are too artificial to promote genuine give and take and, as a
-consequence, are a counterproductive use of valuable time. In lieu of set-
-piece discussions, students (ultimately every student) will be required to
-"volunteer" at the start of each session to summarize _briefly_ and _cogently_
-the primary issues and arguments covered in the preceding one. The remaining
-members of the class should be prepared to comment on these summaries. In
-addition, all students should be prepared as well to respond to questions and
-pointed references to the readings--including the documents **\--** that will
-be incorporated into each session's lectures. Needless to say, therefore,
-assigned readings should be completed prior to the appropriate class session,
-and students should become accustomed to throwing caution to the wind. The
-syllabus provides titles to weekly topics to allow flexibility sufficient to
-accommodate the never-ending discussions but still indicate the intended
-material to be covered.
+attack on Pearl Harbor. In other words, this course will trace the rise of
+American globalism. Although the syllabus proceeds chronologically, the
+lectures and readings emphasize thematic continuities and discontinuities.
+These themes include the ideological, strategic, economic, cultural, and
+racial influences on America's foreign relations; mission, manifest destiny,
+and continental expansion; issues of war, peace, and security; crisis
+management and mismanagement; the closing frontier and imperialism;
+Wilsonianism and its critics; independent internationalism; and personal
+versus coalition diplomacy. Because the study of diplomatic history is highly
+interpretative, and the assigned studies reflect competing interpretations,
+all students will be expected to question, comment upon, and yes, even
+criticize the readings and lectures. In doing so, emphasis will be placed on
+recognizing and assessing the strategies historians employ to collect and use
+evidence in order to advance arguments. Nevertheless, there will not be any
+scheduled discussion sessions (except for reviews prior to exams). They are
+too artificial to promote genuine give and take and, as a consequence, are a
+counterproductive use of valuable time. In lieu of set-piece discussions,
+students (ultimately every student) will be required to "volunteer" at the
+start of each session to summarize _briefly_ and _cogently_ the primary issues
+and arguments covered in the preceding one. The remaining members of the class
+should be prepared to comment on these summaries. In addition, all students
+should be prepared as well to respond to questions and pointed references to
+the readings--including the documents **\--** that will be incorporated into
+each session's lectures. Needless to say, therefore, assigned readings should
+be completed prior to the appropriate class session, and students should
+become accustomed to throwing caution to the wind. The syllabus provides
+titles to weekly topics to allow flexibility sufficient to accommodate the
+never-ending discussions but still indicate the intended material to be
+covered.
 
 American Cultural History (History 224; new History 272)  
-[William Cutler ](http://astro.temple.edu/~wcutler/cutler.html)
-[wcutler@astro.ocis.temple.edu](mailto:wcutler@astro.ocis.temple.edu)  
+William Cutler  wcutler@astro.ocis.temple.edu  
 This course will not attempt to cover all aspects of American cultural history
 in one semester. Instead, it will examine some important themes from the
 nineteenth and twentieth centuries. It will use material drawn from elite and
@@ -97,28 +94,27 @@ distinguish between public culture, intended for the edification of all, and
 the private cultures of different subgroups.
 
 American Revolution and Republic (History 203; new History 266).  
-[Howard Ohline](ohline.html)
-[holine@thunder.ocis.temple.edu](mailto:holine@thunder.ocis.temple.edu)  
+Howard Ohline holine@thunder.ocis.temple.edu  
 The central focus of History 266 is how the United States developed from
 colonies of great Britain in the middle of the eighteenth century to a nation
 with continental ambitions in the early nineteenth century. We will study the
 historical origins of the Revolution, the "radical character" of the
 revolution as Americans struggled to establish republican governments and
 social institutions. Special attention is given to the origins of the
-[Constitution](http://www.nara.gov/exhall/charters/constitution/constitution.html)
-and the struggle to define the Constitution in the early republic. Students
-will read various books which focus on revolutionary history from different
-perspectives. How did the Revolution alter the history of various groups
-within the United States. What impact did it have on Americans? The course
-stresses understanding the Revolution and the early Republic from a variety of
-historical interpretations. Many of the skills emphasized in the class prepare
-students to think about how historians solve historical problems. The solving
-of various historical problems prepare students for graduate school and law
-school. Historical thinking also prepares students to understand how history
-is used to address current cultural and political issues. Students will write
-book review essays in order to develop an understanding of how historians
-collect evidence, construct historical interpretation and to develop their own
-interpretations of historical events and personal writing skills.
+Constitution and the struggle to define the Constitution in the early
+republic. Students will read various books which focus on revolutionary
+history from different perspectives. How did the Revolution alter the history
+of various groups within the United States. What impact did it have on
+Americans? The course stresses understanding the Revolution and the early
+Republic from a variety of historical interpretations. Many of the skills
+emphasized in the class prepare students to think about how historians solve
+historical problems. The solving of various historical problems prepare
+students for graduate school and law school. Historical thinking also prepares
+students to understand how history is used to address current cultural and
+political issues. Students will write book review essays in order to develop
+an understanding of how historians collect evidence, construct historical
+interpretation and to develop their own interpretations of historical events
+and personal writing skills.
 
 Colonial America (History 201; new History 265).  
 Staff  
@@ -135,7 +131,7 @@ them together towards becoming one new nation, though not a nation without
 differences and conflicts.
 
 Development of the Modern American City (History 226; new History 278).  
-[Mark Haller](haller.html) [haller@vm.temple.edu](mailto:haller@vm.temple.edu)  
+Mark Haller haller@vm.temple.edu  
 The course examines the way that the American city has undergone two
 revolutionary changes in the 135 years since the Civil War. In the mid- to
 late-19th century the city went from a walking city to a streetcar city,
@@ -151,8 +147,7 @@ the factors that should be taken into account in influencing the future of
 cities.
 
 Gender, Race, and Ethnicity in America (new History 281).  
-[Betty Collier-Thomas](collier-thomas.html)
-[bcollier@astro.ocis.temple.edu](mailto:bcollier@astro.ocis.temple.edu)  
+Betty Collier-Thomas bcollier@astro.ocis.temple.edu  
 United States Women's history has come of age during the last two decades.
 There is now a recognition that there is no universal women's experience,
 rather American women come from diverse racial and ethnic, as well as cultural
@@ -169,7 +164,7 @@ gender and ethnicity must be addressed within the context of American women's
 history.
 
 Historical Roots of Urban Crime (History 366; new History 279).  
-[Mark Haller](haller.html) [haller@vm.temple.edu](mailto:haller@vm.temple.edu)  
+Mark Haller haller@vm.temple.edu  
 The course focuses on two aspects of the history of the underworld of American
 cities: 1) The first aspect might be called the life within the underworld, or
 what it means to live the life of a criminal. The course examines how
@@ -185,7 +180,7 @@ and the impact of technology. Crime becomes a prism through which students
 will learn about the history of American urban society.
 
 History of the American Presidency (new History 273).  
-[James Hilty](hilty.html) [jwhilty77@aol.com](mailto:jwhilty77@aol.com)  
+James Hilty jwhilty77@aol.com  
 The History of the American Presidency examines historical developments in the
 office of the US president from its establishment to contemporary times.
 Through lectures, discussions, class projects, and outside assignments, we
@@ -210,8 +205,7 @@ More importantly, the course engages students' concerns as life-long
 participants in American democracy.
 
 History of American Science (History 136; new History 274)  
-[Morris Vogel](vogel.html)
-[mjvogel@vm.temple.edu](mailto:mjvogel@vm.temple.edu)  
+Morris Vogel mjvogel@vm.temple.edu  
 This course approaches the history of science in America as a
 characteristically modern way of thinking, investigating questions, and
 designing technology. We will consider the development of the scientific
@@ -231,8 +225,7 @@ technology for economic development, social welfare, and military and
 political power.
 
 Jewish Experience in America (History 229; new History 285).  
-[Harriet Freidenreich](freidenreich.html)
-[hfreiden@thunder.ocis.temple.edu](mailto:hfreiden@thunder.ocis.temple.edu)  
+Harriet Freidenreich hfreiden@thunder.ocis.temple.edu  
 The evolution of the Jewish community in the United States from its colonial
 beginnings to the present day. Topics include the immigrant experiences of
 various waves of migration, especially from Eastern Europe and the former
@@ -243,8 +236,7 @@ American antisemitism; Black-Jewish relations; relationship between American
 Jews and Israel; assimilation and identity.
 
 Jewish Experience in America (History 229; new History 285).  
-[David Watt](watt.html)
-[dwatt@nimbus.ocis.temple.edu](mailto:dwatt@nimbus.ocis.temple.edu)  
+David Watt dwatt@nimbus.ocis.temple.edu  
 This course surveys the major developments in American Jewish life from the
 Colonial period to the present. We will discuss the various waves of Jewish
 immigration to the United States and examine the evolution of Jewish social,
@@ -254,7 +246,7 @@ explore the relationship between Jews and American culture, considering how
 Jews are represented and how they represent themselves in a film.
 
 Modern American Social History (History 222; new History 280).  
-[Kenneth Kusmer](kusmer.html)  
+Kenneth Kusmer  
 The purpose of this course is to provide an overview of the main elements of
 American social/economic development during the industrial period,
 approximately 1870-1940. Topics covered include the growth.of new industries
@@ -270,8 +262,7 @@ sources, Class participation in discussing the readings is also an important
 part of the course.
 
 Nineteenth-Century America (new History 270).  
-[Herbert Ershkowitz](ershkowitz.html)
-[ersh@astro.ocis.temple.edu](mailto:ersh@astro.ocis.temple.edu)  
+Herbert Ershkowitz ersh@astro.ocis.temple.edu  
 This is an advanced level history course aimed at giving history majors and
 students in other disciplines such as English and Political Science an
 understanding of the changes in American life during the Nineteenth Century.
@@ -284,26 +275,23 @@ the changes in the United States that promoted its development as a
 multicultural democracy and an economic superpower.
 
 Race and the US Constitution (History R246; new History R267).  
-[Howard Ohline](ohline.html)
-[holine@thunder.ocis.temple.edu](mailto:holine@thunder.ocis.temple.edu)  
+Howard Ohline holine@thunder.ocis.temple.edu  
 The central focus of History R267 is how the issue of race has shaped the
-history of the United States
-[Constitution](http://www.nara.gov/exhall/charters/constitution/constitution.html)
-and how constitutional law contributed to the history of ideas about race in
-the United States. We study the origins of the law of race and slavery in the
-pre-revolutionary period and end with understanding the origins of affirmative
-action in the post-World War II period. Students will read various books about
-U. S. Constitutional history in order to understand various interpretations of
-historical events and ideas abut race. Student will also read original court
-cases about racial minorities in order to develop an understanding of original
-historical texts. Many of the skills emphasized in the class prepare students
-for law school, public service, and analysizing the historical roots of
-contemporary issues. Class discussion about constitutional issues is designed
-to give students confidence and precision in public speaking. Students will
-also write book reviews in order to develop an understanding of how historians
-collect evidence in order to construct historical interpretations and to
-develop their own interpretations of historical events and their personal
-writing skills.
+history of the United States Constitution and how constitutional law
+contributed to the history of ideas about race in the United States. We study
+the origins of the law of race and slavery in the pre-revolutionary period and
+end with understanding the origins of affirmative action in the post-World War
+II period. Students will read various books about U. S. Constitutional history
+in order to understand various interpretations of historical events and ideas
+abut race. Student will also read original court cases about racial minorities
+in order to develop an understanding of original historical texts. Many of the
+skills emphasized in the class prepare students for law school, public
+service, and analysizing the historical roots of contemporary issues. Class
+discussion about constitutional issues is designed to give students confidence
+and precision in public speaking. Students will also write book reviews in
+order to develop an understanding of how historians collect evidence in order
+to construct historical interpretations and to develop their own
+interpretations of historical events and their personal writing skills.
 
 Sexual Minorities in the US (History230; new History 288).  
 Dennis Rubini  
@@ -319,37 +307,34 @@ color, their special problems and interactions with the lesbian and gay
 community. It also opens up our second major discussion of AIDS.
 
 Superpower America (History 249; new History 291).  
-[Richard Immerman](http://astro.temple.edu/~rimmerma)
-[rimmerma@astro.ocis.temple.edu](mailto:rimmerma@astro.ocis.temple.edu)  
+Richard Immerman rimmerma@astro.ocis.temple.edu  
 The Versailles Treaty concluding World War I represented a tragic defeat for
-[Woodrow Wilson](twwilson.jpg). He failed, abysmally, both to steer the United
-States toward an irrevocable commitment to global engagement, and to establish
-and institutionalize a new framework and set of norms for the international
-order based on U.S. leadership. The attack on the United States by a foreign
-aggressor in [December 1941](phbbs1.gif) and America's participation in an
-Allied coalition during the Second World War, however, confirmed the foresight
-of Wilson's policies. Indeed, when the United States emerged from the rubble
-of World War II as the world's leading economic and sole atomic power,
-Washington policymakers seized on this "second chance" to wield this power for
-the purpose of constructing the international environment that Wilson had
+Woodrow Wilson. He failed, abysmally, both to steer the United States toward
+an irrevocable commitment to global engagement, and to establish and
+institutionalize a new framework and set of norms for the international order
+based on U.S. leadership. The attack on the United States by a foreign
+aggressor in December 1941 and America's participation in an Allied coalition
+during the Second World War, however, confirmed the foresight of Wilson's
+policies. Indeed, when the United States emerged from the rubble of World War
+II as the world's leading economic and sole atomic power, Washington
+policymakers seized on this "second chance" to wield this power for the
+purpose of constructing the international environment that Wilson had
 prescribed: a Wilsonian world. This effort has remained the cornerstone of
 U.S. foreign policy ever since. This course traces the ebb and flow of that
-effort. It will begin with the diplomacy of World War II and [Franklin
-Roosevelt](froosevelt.gif)'s vision of "Open Spheres" patrolled by "Four
-Policemen." With Roosevelt's death and the War's abrupt and violent
-termination, the ideal of multilateral cooperation rapidly gave way to bipolar
-competition: the Cold War. From [Truman](hstruman1945.jpg) to
-[Johnson](lbjohnson.jpg), the United States waged the Cold War relentlessly,
-alternating between strategies of "containment" and "liberation." The ever-
-increasing reliance on nuclear weapons with ever-increasing megatonnage did
-not produce Armageddon, as many feared. But it did produce stalemates in
-Korea, fiascoes and crises in Cuba, and Quagmires in Vietnam.
-[Nixon](rmnixon.jpg) solution to the nuclear predicament was to count on
-[Mutually Assured Destruction (M.A.D.)](castlebravo.jpg) to deter war and
-promote stability. [Reagan](rreagan.jpg) tried to escape the predicament by
-imagining "Star Wars." Then the sudden end to the Cold War caught everyone by
-surprise. As attested to by [George Bush](gbush.jpg)'s rhetorical "New World
-Order" and the inchoate efforts of [Bill Clinton](wjclinton1998.jpg) to
+effort. It will begin with the diplomacy of World War II and Franklin
+Roosevelt's vision of "Open Spheres" patrolled by "Four Policemen." With
+Roosevelt's death and the War's abrupt and violent termination, the ideal of
+multilateral cooperation rapidly gave way to bipolar competition: the Cold
+War. From Truman to Johnson, the United States waged the Cold War
+relentlessly, alternating between strategies of "containment" and
+"liberation." The ever-increasing reliance on nuclear weapons with ever-
+increasing megatonnage did not produce Armageddon, as many feared. But it did
+produce stalemates in Korea, fiascoes and crises in Cuba, and Quagmires in
+Vietnam. Nixon solution to the nuclear predicament was to count on Mutually
+Assured Destruction (M.A.D.) to deter war and promote stability. Reagan tried
+to escape the predicament by imagining "Star Wars." Then the sudden end to the
+Cold War caught everyone by surprise. As attested to by George Bush's
+rhetorical "New World Order" and the inchoate efforts of Bill Clinton to
 "enlarge" global democracy and free market economies, a rudderless
 policymaking community in Washington knows of no one to whom to turn other
 than--Woodrow Wilson. Overlaying this narrative history is a number of
@@ -381,16 +366,15 @@ thoroughness necessary to formulate questions and participate actively in
 class discussions: challenging, probing, even arguing.
 
 Twentieth-Century America (new History 271).  
-[David Jacobs](jacobs.html)
-[djacobs@vm.temple.edu](mailto:djacobs@vm.temple.edu)  
+David Jacobs djacobs@vm.temple.edu  
 This course analyzes American politics, society and culture in the twentieth
 century. Among the topics to be analyzed are the changing role of the
-presidency from [McKinley](wmckinley.gif) to [Clinton](wjc.gif),
-progressivism, World War I, the conflictive 1920's, the depression and the New
-Deal, World War II, affluence in the 1950's, the cold war, anticommunism,
-racism, the civil rights movement, the rebellious 1960's, the war in Vietnam,
-[Nixon](rmnixon.jpg), the Great Society, the women's movement and gender
-issues, the conservative backlash, and the new diversity.
+presidency from McKinley to Clinton, progressivism, World War I, the
+conflictive 1920's, the depression and the New Deal, World War II, affluence
+in the 1950's, the cold war, anticommunism, racism, the civil rights movement,
+the rebellious 1960's, the war in Vietnam, Nixon, the Great Society, the
+women's movement and gender issues, the conservative backlash, and the new
+diversity.
 
 Women in US History (History 244; new History 287)  
 Staff  
@@ -414,6 +398,6 @@ experience of gender.
 
 * * *
 
-Return to the [Undergraduate Course Offerings](und_courses.html#advus)  
-Return to the [History Department Web Page](index.html)
+Return to the Undergraduate Course Offerings  
+Return to the History Department Web Page
 

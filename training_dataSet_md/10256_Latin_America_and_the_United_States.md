@@ -4,7 +4,7 @@
 
  Spring Semester 2002 |
 
- [J. Pablo Silva](http://www.grinnell.edu/individuals/silvajp)  
+ J. Pablo Silva  
 ---|---  
   
 * * *
@@ -20,8 +20,7 @@ Phone: 269-4886
   
 Office Hours: Not yet Determined |
 
-E-mail: [silvajp@grinnell.edu](http://www.grinnell.edu/cgi-
-bin/gfeed.dll?silvajp@grinnell.edu)  
+E-mail: silvajp@grinnell.edu  
   
 * * *
 
@@ -29,9 +28,7 @@ To see reading for a specific week, choose:  Which Week? Week 1: January 21
 Week 2: January 28 Week 3: February 4 Week 4: February 11 Week 5: February 18
 Week 6: February 25 Week 7: March 4 Week 8: March 11 Week 9: April 1 Week 10:
 April 8 Week 11: April 15 Week 12: April 22 Week 13: April 29 Week 14: May 6  
-[Required Texts](class_info/ReqBks.html) | Readings |
-[Grading](class_info/Grading.html) | [Research Project
-Overview](class_info/ResPaper.html)
+Required Texts | Readings | Grading | Research Project Overview
 
 * * *
 
@@ -43,7 +40,7 @@ Revolution, the Guatemalan Revolution, and the Alliance for Progress. The
 major assignment in the course is a research paper.  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
 **_Readings_** should be completed prior to the class meeting for which they
 are listed. The Syllabus below specifies the reading for each week. To see
@@ -55,19 +52,17 @@ Week 11: April 15 Week 12: April 22 Week 13: April 29 Week 14: May 6
 For the first seven weeks we will be reading secondary sources. During these
 weeks, two members of the class will be assigned the task of leading each
 particular session. During the last six weeks, the class readings will focus
-on the research projects.(See [Paper Overview](class_info/ResPaper.html))
-Class participation is an integral part of the course, so attendance is
-mandatory.
+on the research projects.(See Paper Overview) Class participation is an
+integral part of the course, so attendance is mandatory.
 
 Please note that most of the readings are available for purchase. Many are
-also on [reserve](class_info/USLAres.html). For purposes of discussion, be
-prepared to define (1) the authors main point, (2) the type of evidence used
-to make that point, (3) your assessment of whether the evidence and argument
-convincingly sustain the conclusions, and (4) the relationship to other works
-we have read.  
+also on reserve. For purposes of discussion, be prepared to define (1) the
+authors main point, (2) the type of evidence used to make that point, (3) your
+assessment of whether the evidence and argument convincingly sustain the
+conclusions, and (4) the relationship to other works we have read.  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
 **_Part 1. Case Studies of US-Latin American Relations (weeks 1-7)_**
 
@@ -83,7 +78,7 @@ we have read.
 | Spenser, _Impossible Triangle,_ pp. 1-70. Discussion will be led by:  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
  Monday, 28 January |
 
@@ -97,7 +92,7 @@ we have read.
 | Henderson, _Worm in the Wheat,_ pp. 1-64. Discussion will be led by:  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
  Monday, 4 February |
 
@@ -111,7 +106,7 @@ we have read.
 | Gleijeses, _Shattered Hope,_ pp. 3-71. Discussion will be led by:  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
  Monday, 11 February |
 
@@ -125,7 +120,7 @@ we have read.
 | Gleijeses, _Shattered Hope,_ pp. 279-394. Discussion will be led by:  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
  Monday, 18 February |
 
@@ -141,11 +136,10 @@ we have read.
   
  Friday, 22 February |
 
-| **Topic Statement Due by 5 pm.**[See
-Assignment](Research_Paper/TopcAsgn.html)  
+| **Topic Statement Due by 5 pm.**See Assignment  
 ---  
   
-[ Return to Top](index.html)
+Return to Top
 
  Monday, 25 February |
 
@@ -159,7 +153,7 @@ Assignment](Research_Paper/TopcAsgn.html)
 | Rabe, _The Most Dangerous Area,_ pp. 125-199. Discussion will be led by:  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
  Monday, 4 March |
 
@@ -173,7 +167,7 @@ Assignment](Research_Paper/TopcAsgn.html)
 | Latham, _Modernization as Ideology,_ pp. 151-215. Discussion will be led by:  
 ---  
   
-[ Return to Top](index.html)
+Return to Top
 
  Monday, 11 March |
 
@@ -185,8 +179,7 @@ Otherwise, work on your Primary Source Analysis. |
   
  Friday, 15 March |
 
-| **Primary Source Analysis Due by 5 pm.**[See
-Assignment](Research_Paper/PrimAsgn.html)  
+| **Primary Source Analysis Due by 5 pm.**See Assignment  
 ---  
   
   
@@ -195,7 +188,7 @@ Assignment](Research_Paper/PrimAsgn.html)
 
 
 
-[Return to Top](index.html)
+Return to Top
 
 **_Part 2. Research Projects (weeks 9-14)_**
 
@@ -208,59 +201,59 @@ Assignment](Research_Paper/PrimAsgn.html)
   
  Wednesday, 3 April |
 
-| Molly, David, Ashley, Sarah and Katie will Present Their Projects. [See
-Assignment.](Research_Paper/PrstAsgn.html)  
+| Molly, David, Ashley, Sarah and Katie will Present Their Projects. See
+Assignment.  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
  Monday, 7 November |
 
-| Rob, Toya, Colin, Dana, and Jenni will Present Their Projects. [See
-Assignment.](Research_Paper/PrstAsgn.html) |
+| Rob, Toya, Colin, Dana, and Jenni will Present Their Projects. See
+Assignment. |
 
 **Week 10**  
 ---|---  
   
  Wednesday, 9 November |
 
-| Molly, David, Ashley, Sarah and Katie will Present Their
-[Arguments](Research_Paper/ArguAsgn.html). Only they need to attend.  
+| Molly, David, Ashley, Sarah and Katie will Present Their Arguments. Only
+they need to attend.  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
  Monday, 14 November |
 
-| Rob, Toya, Colin, Dana, and Jenni will Present Their
-[Arguments](Research_Paper/ArguAsgn.html). Only they need to attend. |
+| Rob, Toya, Colin, Dana, and Jenni will Present Their Arguments. Only they
+need to attend. |
 
 **Week 11**  
 ---|---  
   
  Wednesday, 16 November |
 
-| David, Sarah and Katie will Present Their
-[Introductions](Research_Paper/IntrAsgn.html). Only they need to attend.  
+| David, Sarah and Katie will Present Their Introductions. Only they need to
+attend.  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
  Monday, 22 April |
 
-| Molly, Toya, and Colin will Present Their
-[Introductions](Research_Paper/IntrAsgn.html). Only they need to attend. |
+| Molly, Toya, and Colin will Present Their Introductions. Only they need to
+attend. |
 
 **Week 12**  
 ---|---  
   
  Wednesday, 24 April |
 
-| Ashley, Dana, Rob, and Jenni will Present Their
-[Introductions](Research_Paper/IntrAsgn.html). Only they need to attend.  
+| Ashley, Dana, Rob, and Jenni will Present Their Introductions. Only they
+need to attend.  
 ---  
   
-[Return to Top](index.html)
+Return to Top
 
  Monday, 29 April |
 
@@ -276,7 +269,7 @@ drafting your paper read pp. 149-233 of _The Craft of Research._ |
 drafting your paper read pp. 149-233 of _The Craft of Research._  
 ---  
   
-[ Return to Top](index.html)
+Return to Top
 
  Monday, 6 May |
 
@@ -288,14 +281,12 @@ Before drafting your paper read pp. 149-233 of _The Craft of Research._ |
   
  Wednesday, 8 May |
 
-| No Class. Paper Due Friday May 10 at noon. [See
-Assignment.](Research_Paper/FinalAsn.html)  
+| No Class. Paper Due Friday May 10 at noon. See Assignment.  
 ---  
   
 **_There is no Final Exam, Only the Final Paper_**  
 ---  
-[Return to Top](index.html) |  Return to [J. Pablo
-Silva](http://www.grinnell.edu/individuals/silvajp)'s Web Page  
+Return to Top |  Return to J. Pablo Silva's Web Page  
 ---|---  
   
 Last Modified: 12 March 2002

@@ -11,9 +11,8 @@ David Kinsella
 Office: 208 Professional Building  
 Office Hours: Tuesday 9:00-12:00  
 Phone: 882-0125  
-E-mail: [ polsdtk@mizzou1.missouri.edu](mailto:polsdtk@mizzou1.missouri.edu)  
-Homepage: [
-http://www.missouri.edu/~polsdtk/](http://www.missouri.edu/~polsdtk/)
+E-mail:  polsdtk@mizzou1.missouri.edu  
+Homepage:  http://www.missouri.edu/~polsdtk/
 
 **_Description:**_ This course examines topics that often receive little
 attention in international relations courses: norms, ethics, and gender. The

@@ -4,8 +4,7 @@
 |
 
 **American Social and Intellectual History  
-41070** |  | **    Choose a page to view.  ** |
-[![](Return.gif)](syl_list.asp?CourseID=110)  
+41070** |  | **    Choose a page to view.  ** | ![](Return.gif)  
 ---|---  
 **Page:   ** Syllabus |  
   **Sections:** 001  

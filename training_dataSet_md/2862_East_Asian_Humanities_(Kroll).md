@@ -1,11 +1,8 @@
-### [![Asian Studies Development Program](/Images/lions.jpeg)](/asdp/)
+### ![Asian Studies Development Program](/Images/lions.jpeg)
 
 * * *
 
-[[About](/external/asdp/about.html)] [[Index](/external/asdp/index.html)]
-[[Search](/external/asdp/search.html)] [[Other
-Links](/external/asdp/links.html)]
-[[Comments/Submissions](/external/asdp/warning.html)]
+[About] [Index] [Search] [Other Links] [Comments/Submissions]
 
 # East Asian Humanities
 
@@ -260,13 +257,9 @@ T'ang China circa 742; China in the Nineteenth Century
 
 Last updated: 06/19/2000
 
-[[About](/external/asdp/about.html)] [[Index](/external/asdp/index.html)]
-[[Search](/external/asdp/search.html)] [[Other
-Links](/external/asdp/links.html)]
-[[Comments/Submissions](/external/asdp/warning.html)]
+[About] [Index] [Search] [Other Links] [Comments/Submissions]
 
 * * *
 
-[ASDP Curriculum Online Project](/external/asdp/) <[
-ASDP@lama.kcc.Hawaii.Edu](mailto:asdp@lama.kcc.hawaii.edu)>
+ASDP Curriculum Online Project < ASDP@lama.kcc.Hawaii.Edu>
 

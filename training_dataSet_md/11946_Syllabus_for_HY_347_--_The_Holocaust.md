@@ -7,8 +7,8 @@ Winter 1998
 Dr. Daniel E. Rogers  
 | **Office: HUMB 372  
 Office Phone: 460-6210 (receptionist); 460-7610 (in my office)  
-<http://www.usouthal.edu/history/faculty/rogers>  
-E-mail: [drogers@jaguar1.usouthal.edu  
+http://www.usouthal.edu/history/faculty/rogers  
+E-mail: drogers@jaguar1.usouthal.edu  
   
 ---|---  
 **

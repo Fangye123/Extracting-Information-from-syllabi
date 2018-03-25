@@ -5,16 +5,16 @@ Fall 2001
 MWF 11:00-11:50 a.m.  
 Burdine 208  
 
-Professor: [Roger Hart](../../)  
+Professor: Roger Hart  
 Office: Garrison Hall, Room 405  
 Office hours: Wednesday, 2-5 p.m.  
 office phone: (512) 475-7258  
-e-mail: [rhart@mail.utexas.edu](mailto:rhart@mail.utexas.edu)
+e-mail: rhart@mail.utexas.edu
 
 Teaching Assistant: Vicky Ma  
 Office:  
 Office hours: MW 12:00-1:30 p.m.  
-e-mail: [vickyma@mail.utexas.edu](mailto:vickyma@mail.utexas.edu)
+e-mail: vickyma@mail.utexas.edu
 
 ### Description:
 

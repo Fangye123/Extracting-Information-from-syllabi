@@ -5,7 +5,7 @@ Office:  HFA 411-I**
 **MWF, 12:00-12:50, COMM 110              Office Hours:  MWF 11-11:45, M
 4-5:00, W 3:30-4:15 & by appt.**  
 **Phone:   407-823-5459
-E-mail:   [stanlick@pegasus.cc.ucf.edu](mailto:stanlick@pegasus.cc.ucf.edu)**  
+E-mail:   stanlick@pegasus.cc.ucf.edu**  
 **Dept. Phone:   407-823-2273**  
 
 * * *
@@ -24,17 +24,11 @@ printer._
 
 * * *
 
-**Quick Links (some are under construction - in red):** **[Academic
-Integrity](http://pegasus.cc.ucf.edu/~stanlick/acinteg.html)** | **[Message
-Board: For on-line review&
-discussion](http://users3.cgiforme.com/stanlick/cfmboard.html)** |
-**[Electronic Books](http://books.mirror.org/)** | **[Return to My Home
-Page](http://pegasus.cc.ucf.edu/~stanlick/)** | **[Go to Dept. of Philosophy
-Web-site](http://www.cas.ucf.edu/philosophy)**  
+**Quick Links (some are under construction - in red):** **Academic Integrity**
+| **Message Board: For on-line review& discussion** | **Electronic Books** |
+**Return to My Home Page** | **Go to Dept. of Philosophy Web-site**  
 ---|---|---|---|---  
-**[Lecture Notes](http://pegasus.cc.ucf.edu/~stanlick/lectnotes.html)** |
-**Review Questions** | **[Paper
-Requirements](http://pegasus.cc.ucf.edu/~stanlick/socphilpapers.htm)** |    |  
+**Lecture Notes** | **Review Questions** | **Paper Requirements** |    |  
   |   |   |   |  
   
 * * *
@@ -125,8 +119,7 @@ below).  Tests will be based on readings and lectures completed or assigned
 prior to the date of their administration.  Both tests are sectional tests.
 Tests and papers count equally in determining your final grade.
 
-Click here for important information about [academic
-integrity.](http://pegasus.cc.ucf.edu/~stanlick/acinteg.html)
+Click here for important information about academic integrity.
 
 **Grades and Grading Scale:** A, 90-100; B, 80-89; C, 70-79; D, 60-69.
 
@@ -159,8 +152,8 @@ reason, your only options are to write a paper (described above) or receive no
 credit.  There is no provision for making up the last examination.  Don't miss
 it.
 
-The 2 short papers are described in the following link.  [Go to paper
-requirements.](http://pegasus.cc.ucf.edu/~stanlick/socphilpapers.htm)
+The 2 short papers are described in the following link.  Go to paper
+requirements.
 
 **Extra Credit:   **Extra credit is **NOT** available.
 
@@ -190,8 +183,7 @@ on the board and will be deleted by the board's administrator.  Please do not
 use any person's name but your own when you post messages, answers to review
 questions, questions of your own, or any comments._**
 
-**_     [Message Board
-Link](http://users3.cgiforme.com/stanlick/cfmboard.html)_**
+**_     Message Board Link_**
 
 **PART ONE:   EQUALITY**
 

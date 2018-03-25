@@ -6,22 +6,15 @@
 |
 
 **Professor Chin's Home Page**  
-| ![](../clearpixel.gif) |  | [![ Home
-](../SIS-140_S99/home_ScotchButton.gif)](../index.html)  
+| ![](../clearpixel.gif) |  | ![ Home ](../SIS-140_S99/home_ScotchButton.gif)  
 ---  
-[![ SIS140.05 \(S99\)
-](../SIS140_S99_ScotchButton.gif)](../SIS-140_S99/sis140_s99.html)  
-[![ SIS400.02 \(S99\)
-](../SIS400_S99_ScotchButton.gif)](../SIS-400_S99/sis400_s99.html)  
-[![ 33.140 \(F98\)
-](../33.140_F98/33.140_F98_ScotchButtonOn.gif)](../33.140_F98/33.140_f98.html)  
-[![ 33.400 \(F98\)
-](../33.400_F98/33.400_F98_ScotchButton.gif)](../33.400_F98/33.400_f98.html)  
-[![ 33.596 \(F98\)
-](../33.400_F98/33.596_F98_ScotchButton.gif)](../33.596_F98/33.596_f98.html)  
+![ SIS140.05 \(S99\) ](../SIS140_S99_ScotchButton.gif)  
+![ SIS400.02 \(S99\) ](../SIS400_S99_ScotchButton.gif)  
+![ 33.140 \(F98\) ](../33.140_F98/33.140_F98_ScotchButtonOn.gif)  
+![ 33.400 \(F98\) ](../33.400_F98/33.400_F98_ScotchButton.gif)  
+![ 33.596 \(F98\) ](../33.400_F98/33.596_F98_ScotchButton.gif)  
 ![](../clearpixel.gif)  
-[![SIS Home
-Page](../sisglobe.gif)](http://www.american.edu/academic.depts/sis/)  
+![SIS Home Page](../sisglobe.gif)  
 | ![](../clearpixel.gif) | ![](../clearpixel.gif) |  | ![](../clearpixel.gif)  
 ---|---|---|---  
 |
@@ -367,16 +360,16 @@ TEAM PRESENTATIONS 5 & 6
 ---|---  
 |  |
 
-[[Home](../index.html)] |
+[Home] |
 
-[[SIS140.05 (S99)](../SIS-140_S99/sis140_s99.html)] |
+[SIS140.05 (S99)] |
 
-[[SIS400.02 (S99)](../SIS-400_S99/sis400_s99.html)] |
+[SIS400.02 (S99)] |
 
-[[33.140 (F98)](../33.140_F98/33.140_f98.html)] |
+[33.140 (F98)] |
 
-[[33.400 (F98)](../33.400_F98/33.400_f98.html)] |
+[33.400 (F98)] |
 
-[[33.596 (F98)](../33.596_F98/33.596_f98.html)]  
+[33.596 (F98)]  
 ---|---|---|---|---|---
 

@@ -3,17 +3,17 @@
     
 
 
-###  [Home](welcome.html)
+###  Home
 
-###  [Syllabus](syllabus.html)
+###  Syllabus
 
-###  [Lectures](lectures.html)
+###  Lectures
 
-###  [Readings](readings.html)
+###  Readings
 
-###  [Feedback](feedback.html)
+###  Feedback
 
-###  [Links](links.html)  
+###  Links  
   
 ---  
 |
@@ -31,13 +31,13 @@ Tuesday and Thursday in the Clipper Room of Shriver Hall, Homewood Campus from
 
 Professor:  
 Dr. Susan F. Weiss  
-[sweiss@peabody.jhu.edu](mailto:sweiss@peabody.jhu.edu)  
+sweiss@peabody.jhu.edu  
 Peabody Conservatory, 9 E Centre St, #21  
 410-783-8585
 
 Teaching assistant:  
 Joyce Besch  
-[besch@peabody.jhu.edu](mailto:besch@peabody.jhu.edu)  
+besch@peabody.jhu.edu  
 410-962-1612  
 GA Box, Peabody Conservatory, 1 East Mt. Vernon
 
@@ -51,9 +51,8 @@ With the text you will get an introductory CD, and 2 additional CDs of a 6 CD
 set (some 6 CD sets are also available in the bookstore; a copy of the 6 CD
 set will be available in the Reserves of MSEL).
 
-Other readings will be available on the [Reserves Website of MSEL
-library](http://milton.mse.jhu.edu/library/reserves/text.html) and as a hard
-copy in Reserves.
+Other readings will be available on the Reserves Website of MSEL library and
+as a hard copy in Reserves.
 
 ####  REQUIREMENTS
 
@@ -115,18 +114,17 @@ Thurs, Jan 27 | Lecture:  Dean Ilene Busch Vishniac, Music and Acoustics
 _Assignment_ for 2/1:   Read Chapter 2 in Wright and do Listening Exercises
 
 _Optional_ : Dave Barry  "Music Depreciation"  
-[Nicholas Cook "What is Musicology"](cook.html)
+Nicholas Cook "What is Musicology"
 
 [You can receive extra credit by sending me your thoughts on the Optional
 reading, listening, video, or web/CD-ROM assignments]  
-**Check out [links](links.html) for amslist and nytimes, as well as other
-websites and music lists  
+**Check out links for amslist and nytimes, as well as other websites and music
+lists  
 **Week 2** |  
 Tues, Feb 1 | Discussion of Performances and Chapter 1 and 2 of Wright: The
 Concert Hall: Symphony, Concerto, Overture; Rhythm and Meter
 
-_Assignment_ : Read about [Kamancheh](kamancheh.html) on website and Chapter
-19 in Wright  
+_Assignment_ : Read about Kamancheh on website and Chapter 19 in Wright  
   
 Thurs, Feb 3 | Performance: Kayhan Kalhor, Iranian Kamancheh
 
@@ -171,7 +169,7 @@ Tues, Feb 22 | Medieval, Renaissance, Baroque; Discussion of performances
 
 _Assisnment:_   Read Chapter 7 in Wright and do Listening Exercises.  
 Read for 2/24 pp. 108-111, Ostinato Figures (Purcell, Bach, and U2);  also
-read Chapter 18 in Wright and [Jim Sherry lecture](sherry.html) on website  
+read Chapter 18 in Wright and Jim Sherry lecture on website  
   
 Thurs, Feb 24 | Performance/ Lecture Jim Sherry, JHU Big Band
 

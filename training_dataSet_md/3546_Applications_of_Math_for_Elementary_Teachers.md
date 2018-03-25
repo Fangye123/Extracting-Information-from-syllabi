@@ -1,8 +1,7 @@
 ![Applications of Math for
 Elementary](_derived/te490mathelem.htm_cmp_factory010_bnr.gif)
 
-[ [Home](./) ] [ [Up](te490main.htm) ] [ [Applications of
-Geometry](te490geometry.htm) ] [ [Concepts of Matter](te490matter.htm) ] [
+[ Home ] [ Up ] [ Applications of Geometry ] [ Concepts of Matter ] [
 Applications of Math for Elementary ]  
   
 ---  

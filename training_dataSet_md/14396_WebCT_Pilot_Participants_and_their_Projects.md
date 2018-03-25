@@ -78,7 +78,7 @@ class and a computing & information proficiency class in the general education
 architecture. OT majors take it - second semester juniors. In addition to the
 "standard" class, some professional therapists enroll in the course, through
 extension teaching, to meet their continuing education requirements, etc.. For
-more info, see: <http://www.outreach.missouri.edu/otsherry>.
+more info, see: http://www.outreach.missouri.edu/otsherry.
 
 Sherry has used email as a part of her teaching for five years, has used
 listproc for three years, and has been using web sites to support her teaching
@@ -159,8 +159,8 @@ Sarah's support requirements:
 Dr. Chandrasekhar has received numerous recognitions for excellence in
 teaching (including the William T. Kemper fellowship in 1997). She has been
 using the web to enhance her teaching for two years (see
-<http://www.missouri.edu/~physwww/phys21.html>) and to support her service and
-outreach activities to K-12 teachers (see <http://www.missouri.edu/~wwwepic>).
+http://www.missouri.edu/~physwww/phys21.html) and to support her service and
+outreach activities to K-12 teachers (see http://www.missouri.edu/~wwwepic).
 She's been using Adobe Pagemill as her HTML editor.
 
 As indicated on her survey, when adopting technology she prefers to explore

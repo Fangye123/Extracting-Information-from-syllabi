@@ -8,13 +8,10 @@ green.gif) Computer Science Department
 * * *
 
 **To get to the webCT pages for this course, click on "Log onto myWebCT" in
-the[WebCT page](http://webct.colostate.edu/webct/public/home.pl)  
+theWebCT page  
 Only students that have accounts on Lamar or Holly can access the site. If you
-do not have an account click
-[here](http://www.cs.colostate.edu/helpdocs/holly.accounts.html) for
-information on how to get an account.  
-Click [ here](http://www.cs.colostate.edu/helpdocs/WebCT.HowToUse.html) for
-information on how to use webCT. **
+do not have an account click here for information on how to get an account.  
+Click  here for information on how to use webCT. **
 
 * * *
 
@@ -28,14 +25,9 @@ information on how to use webCT. **
 
 * * *
 
-[Basic Information](CS414Syllabus.html#BasicInfo) |
-[Syllabus](CS414Syllabus.html#Syllabus) |  [Grading Information,
-Tests](CS414Syllabus.html#Grades) |
-[Presentations](CS414Syllabus.html#Present) |  [Links to Related
-Materials](CS414Syllabus.html#Links) |  [Programming
-Project](CS414Syllabus.html#Project) |  [Modeling
-Assignments](CS414Syllabus.html#Assignments) |  [Reading
-Assignments](CS414Syllabus.html#Readings)
+Basic Information |  Syllabus |  Grading Information, Tests |  Presentations |
+Links to Related Materials |  Programming Project |  Modeling Assignments |
+Reading Assignments
 
 * * *
 
@@ -55,14 +47,12 @@ patterns, and software architectures._
 
   * Successful completion of CS314. 
 
-**Instructor:** [ Robert B. France](http://www.cs.colostate.edu/~france),
-[ france@cs.colostate.edu ](mailto:france@cs.colostate.edu)     **Office
+**Instructor:** Robert B. France,      france@cs.colostate.edu      **Office
 Hours:**
 
 * Tuesdays and Thursdays, 10AM-12noon 
 
-**GTA:** [ Dinh Trong Thanh Trung](http://www.cs.colostate.edu/~trungdt),
-[ trungdt@cs.colostate.edu ](mailto:trungdt@cs.colostate.edu)     **Office
+**GTA:** Dinh Trong Thanh Trung,      trungdt@cs.colostate.edu      **Office
 Hours:**
 
 * Wed, Fri: 1-3PM  
@@ -236,25 +226,25 @@ More links will be added to this section as the need arises.
 
 **
 
-  * [CSU Help Docs](http://www.cs.colostate.edu/helpdocs/index.html): Contains help documents on Unix, WebCT, Java. 
-  * [OMG UML Resource Page](http://www.omg.org/technology/uml/index.htm): Contains articles and tutorials on the UML. 
-  * [UML resource Center](http://www.rational.com/uml/index.jtmpl): Contains information on the UML including the official standard documents. 
-  * [Object Management Group (OMG)](http://www.omg.org/): This group is responsible for developing the UML and other OO industry standards. 
+  * CSU Help Docs: Contains help documents on Unix, WebCT, Java. 
+  * OMG UML Resource Page: Contains articles and tutorials on the UML. 
+  * UML resource Center: Contains information on the UML including the official standard documents. 
+  * Object Management Group (OMG): This group is responsible for developing the UML and other OO industry standards. 
   * AGILE PROCESSES 
-    * [Agile Modeling](http://www.agilemodeling.com/): Good source of information on an emerging area. 
-    * [Extreme Programming](http://www.xprogramming.com/): Info on the latest industry process buzz. 
-    * [Extreme Programming Explained](http://www.extremeprogramming.org/)
-    * [Scrum Agile Process](http://www.controlchaos.com/): Info on the Scrum development process (yet another agile process). 
-    * [The Crystal Agile Processes](http://www.crystalmethodologies.org/): Info on the Crystal Methods (more agile processes ...). 
-  * [JUnit site](http://www.junit.org/): Download the JUnit tool from this site. 
-  * [Cetus Links:OO](http://www.objenv.com/cetus/software.html): Links to WWW sites on OO frameworks, patterns, C++, and Java. 
-  * [Patterns Home Page](http://st-www.cs.uiuc.edu/users/patterns/patterns.html)
-  * [ Software Architecture Information Resources](http://www.cs.ruu.nl/~florijn/research/arch.html)
-  * [ SEI Software Architecture Site](http://www.sei.cmu.edu/technology/architecture/architecture.html)
-  * [Alhir's Links to UML stuff](http://home.earthlink.net/~salhir/) : A source of information on the UML. 
+    * Agile Modeling: Good source of information on an emerging area. 
+    * Extreme Programming: Info on the latest industry process buzz. 
+    * Extreme Programming Explained
+    * Scrum Agile Process: Info on the Scrum development process (yet another agile process). 
+    * The Crystal Agile Processes: Info on the Crystal Methods (more agile processes ...). 
+  * JUnit site: Download the JUnit tool from this site. 
+  * Cetus Links:OO: Links to WWW sites on OO frameworks, patterns, C++, and Java. 
+  * Patterns Home Page
+  * Software Architecture Information Resources
+  * SEI Software Architecture Site
+  * Alhir's Links to UML stuff : A source of information on the UML. 
 
 * * *
 
-**Comments:** [_france@CS.ColoState.EDU_](mailto:france@CS.ColoState.EDU)  
+**Comments:** _france@CS.ColoState.EDU_  
 _Last modified:_ July 30, 2001
 

@@ -195,16 +195,15 @@ more students will respond by getting involved in our courses and trying to
 live up to those expectations (p. 1).  
 ---  
   
-[ Syllabus Construction Guide](syllabus.htm)  
+Syllabus Construction Guide  
   
 
 * * *
 
   
-[[USC Homepage](http://www.sc.edu)] [[IPA Homepage](http://kudzu.ipr.sc.edu)]
-[[Assessment Homepage](http://kudzu.ipr.sc.edu/assessment/assessmt.htm)]  
+[USC Homepage] [IPA Homepage] [Assessment Homepage]  
 Last updated 2 May 2000  
-This page administered by IPA - [ipa@sc.edu](mailto:ipa@sc.edu).  
+This page administered by IPA - ipa@sc.edu.  
 This page copyright (C) 1999, The Board of Trustees of the University of South
 Carolina.  
 URL http://kudzu.ipr.sc.edu/assessment/sampsyll.htm  

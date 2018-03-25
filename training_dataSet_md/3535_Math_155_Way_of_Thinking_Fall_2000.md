@@ -1,7 +1,7 @@
-[ ![next](/usr/share/latex2html/icons.gif/next_motif.gif)](node1.html)
+![next](/usr/share/latex2html/icons.gif/next_motif.gif)
 ![up](/usr/share/latex2html/icons.gif/up_motif_gr.gif)
 ![previous](/usr/share/latex2html/icons.gif/previous_motif_gr.gif)  
-**Next:** [About this document ...](node1.html)  
+**Next:** About this document ...  
   
 
 # Math 155 Way of Thinking  
@@ -277,24 +277,22 @@ This syllabus is tentative and may be adjusted during the semester.
 
   
 
-![*](/usr/share/latex2html/icons.gif/redball.gif)      [Viterbo College Home
-Page](http://www.viterbo.edu)
-![*](/usr/share/latex2html/icons.gif/redball.gif)      [Mathematics Department
-Home Page](http://www.viterbo.edu/sls/Departments/Mathematics)
-![*](/usr/share/latex2html/icons.gif/redball.gif)      [My Home
-Page](http://www.viterbo.edu/ug/faculty/MnLukic)
+![*](/usr/share/latex2html/icons.gif/redball.gif)      Viterbo College Home
+Page ![*](/usr/share/latex2html/icons.gif/redball.gif)      Mathematics
+Department Home Page ![*](/usr/share/latex2html/icons.gif/redball.gif)      My
+Home Page
 
   
 
 * * *
 
-  * [About this document ...](node1.html) 
+  * About this document ... 
 
 * * *
 
-[ ![next](/usr/share/latex2html/icons.gif/next_motif.gif)](node1.html)
+![next](/usr/share/latex2html/icons.gif/next_motif.gif)
 ![up](/usr/share/latex2html/icons.gif/up_motif_gr.gif)
 ![previous](/usr/share/latex2html/icons.gif/previous_motif_gr.gif)  
-**Next:** [About this document ...](node1.html) __  
+**Next:** About this document ... __  
 _2000-08-30_
 

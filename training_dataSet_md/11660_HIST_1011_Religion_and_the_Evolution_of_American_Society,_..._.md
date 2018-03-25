@@ -387,6 +387,6 @@ The essays will be worth 75 points each. The first draft will account for 50
 points--15 for writing mechanics, 15 for summary, and 20 for analytic
 comparison. The revision will account for 25 points and all points will be
 accorded on the basis of how well you have implemented my instructions.
-[![](malden.jpg)](http://www.pitt.edu/~pnewman)  
-[Back](http://www.pitt.edu/~pnewman)
+![](malden.jpg)  
+Back
 

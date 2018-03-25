@@ -12,12 +12,10 @@ Dr. Evan McKenzie
 
 _Course Number:_ Lecture--87547  
 _Time_ : M,W,F 11:00-11:50 am _Room:_ Learning Center D1  
-_Instructor:_ [ Evan
-McKenzie](http://www.uic.edu/depts/pols/evanmckenzie.html)  
+_Instructor:_ Evan McKenzie  
 _Contact Information:_ I am located in BSB 1122-D. My office direct line is
-312-413-3782. My internet address is
-[mckenzie@uic.edu](mailto:mckenzie@uic.edu). My office hours are MW 12-1pm and
-by appointment.
+312-413-3782. My internet address is mckenzie@uic.edu. My office hours are MW
+12-1pm and by appointment.
 
 * * *
 
@@ -103,7 +101,7 @@ Judd (henceforth HJ) through Chapter 1.
 
   4. January 29. The structure of elite power. DZ ch. 4
 
-  5. February 5. **Monday: First mid term exam.** [Study Guide is available on line.](http://www.uic.edu/~mckenzie/testone.html) Weekly paper due Wednesday.   
+  5. February 5. **Monday: First mid term exam.** Study Guide is available on line. Weekly paper due Wednesday.   
 _Begin Unit Two: Polit_ ics.  
 Public opinion. DZ ch. 5; HJ ch. 4
 
@@ -144,13 +142,11 @@ might find interesting or useful.
 
 ### Internet Links
 
-[The Federalist Papers and other historical
-documents](http://www.mcs.net/~knautzr/fed/fedpaper.html)
+The Federalist Papers and other historical documents
 
-[The Ultimate Political Science Links
-Page](http://www.rvc.cc.il.us/faclink/pruckman/PSLinks.htm)
+The Ultimate Political Science Links Page
 
-[Back to UIC Political Science Home Page](http://www.uic.edu/depts/pols)
+Back to UIC Political Science Home Page
 
-[Back to Evan McKenzie's Home Page](http://www.uic.edu/~mckenzie)
+Back to Evan McKenzie's Home Page
 

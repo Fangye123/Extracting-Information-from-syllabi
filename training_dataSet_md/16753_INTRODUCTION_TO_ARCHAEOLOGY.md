@@ -10,7 +10,7 @@
 
 Allen Zagarell
 
-Email: [zagarell@wmich.edu](mailto:zagarell@wmich.edu)
+Email: zagarell@wmich.edu
 
 
 
@@ -35,9 +35,9 @@ course will emphasize both the theories behind archaeological practice as well
 as lots of hands on learning. I expect regular attendance. More than two
 unexcused absences will be penalized. Class participants will be expected to
 have read the relevant class materials and to be prepared to discuss them.
-There will be[2 class assignments ](an210as.html) representing 25% of total
-grade and 3 examinations each worth 25 %. Examinations will include readings,
-assigned Web sites, lectures and assigned labs.**
+There will be2 class assignments  representing 25% of total grade and 3
+examinations each worth 25 %. Examinations will include readings, assigned Web
+sites, lectures and assigned labs.**
 
 * * *
 
@@ -53,13 +53,12 @@ assigned Web sites, lectures and assigned labs.**
 
 Date: Exam I | Date: Exam II  
 ---|---  
-[Class assignments ](http://lab2.cc.wmich.edu/~zagarell/an210as.html) | [Web
-Assignments](http://lab2.cc.wmich.edu/~zagarell/webas.html)  
+Class assignments  | Web Assignments  
 Date: first assignment | Date: second assignment  
   
 * * *
 
-**[Archaeological Lab Pages](http://lab2.cc.wmich.edu/~zagarell/lab.htm)**
+**Archaeological Lab Pages**
 
 * * *
 
@@ -84,8 +83,7 @@ The Archaeological Past
 
 **Film** :Out of the Past
 
-[**questions** for readings week 1-3
-](http://lab2.cc.wmich.edu/~zagarell/qst1-3.html)
+**questions** for readings week 1-3  
 
 * * *
 
@@ -118,15 +116,11 @@ Artifacts, features, eco-facts sites and regions
 Research Projects
 
 **Film** :Four Butte 1  
-**Web:**[Museum of Prehispanic Antiquities,
-Guadalajara.](http://udgftp.cencar.udg.mx/cgi-bin/imagemap/web2?396,188) Just
-take a walk through the site.  
-OR look at [NUBIA](http://www-
-oi.uchicago.edu/OI/PROJ/NUB/NUBX92/NUBX92_brochure.html)
+**Web:**Museum of Prehispanic Antiquities, Guadalajara. Just take a walk
+through the site.  
+OR look at NUBIA
 
-[**questions** for readings
-4-6](http://lab2.cc.wmich.edu/~zagarell/qst4-6.html) and [Web
-assignments](http://lab2.cc.wmich.edu/~zagarell/webas.html)
+**questions** for readings 4-6 and Web assignments
 
 * * *
 
@@ -139,15 +133,14 @@ Readings:
 
 Reconnaissance, Aerial, Radar, ![](images/compass.gif)
 
-**Web:**[Geographic Information Systems
-Project](http://deathstar.rutgers.edu/projects/france/france.html)
+**Web:**Geographic Information Systems Project
 
 Satellite Sensing and sub-surface sensing
 
 Ways to approach one's data (total and sampling strategies)
 
-[Web assignments](http://lab2.cc.wmich.edu/~zagarell/webas.html)  
-**Lab:[Reading Maps](http://lab2.cc.wmich.edu/~zagarell/maplab.htm)**  
+Web assignments  
+**Lab:Reading Maps**  
 
 * * *
 
@@ -162,12 +155,10 @@ Readings:
 
 Stratigraphy, approaches tools and data.
 
-**Web:**[The site of Catal Hoyuk,
-Turkey](http://catal.arch.cam.ac.uk/catal/catal.html)
+**Web:**The site of Catal Hoyuk, Turkey
 
 **Film:** The Hearth  
-**Lab:[Dealing with Typology, Stratigraphy and
-Excavation](http://lab2.cc.wmich.edu/~zagarell/lab1.htm)**  
+**Lab:Dealing with Typology, Stratigraphy and Excavation**  
 
 * * *
 
@@ -184,13 +175,10 @@ Readings:
 
 Hand in first assignment (dating assignment); reports
 
-**Web:**[Dating Stonehenge](http://www.eng-h.gov.uk/stoneh/start.htm). Explore
-the site.  
-**Web:**[Radiocarbon dating](http://packrat.aml.arizona.edu/otherinfo.html)  
-**Lab:** **[Pottery Lab](http://lab2.cc.wmich.edu/~zagarell/lab2.htm)**  
-** [questions](http://lab2.cc.wmich.edu/~zagarell/qst7-9.html)**[ for
-7-9](http://lab2.cc.wmich.edu/~zagarell/qst7-9.html) and [Web sites
-](http://lab2.cc.wmich.edu/~zagarell/webas.html)
+**Web:**Dating Stonehenge. Explore the site.  
+**Web:**Radiocarbon dating  
+**Lab:** **Pottery Lab**  
+** questions** for 7-9 and Web sites
 
 * * *
 
@@ -202,9 +190,8 @@ Readings:
   * 
 Stones, bones, pots and metals  
 **Film:** Flintknapping  
-**Lab:[Dealing with Lithics](http://lab2.cc.wmich.edu/~zagarell/lab3.htm)**  
-**Lab:[The Environment ](http://lab2.cc.wmich.edu/~zagarell/environlab.htm)
-(on computer only)**  
+**Lab:Dealing with Lithics**  
+**Lab:The Environment (on computer only)**  
 
 * * *
 
@@ -219,11 +206,9 @@ Readings: What was the environment like
 
 Featuring features (what were they doing)
 
-  ** Lab: [Dealing with
-Metals](http://lab2.cc.wmich.edu/~zagarell/metalab.htm)**
+  ** Lab: Dealing with Metals**
 
-**Web:**[Architecture](http://ccat.sas.upenn.edu/arth/zoser/zoser.html)
-Zoser's Pyramid.
+**Web:**Architecture Zoser's Pyramid.
 
 * * *
 
@@ -238,12 +223,9 @@ Readings:   **Film:** The Spiritual World
 
 Analogy, Ethnography and Ethnoarchaeology
 
-**Web:**[EthnohistoryResources](http://spirit.lib.uconn.edu/ArchNet/Topical/Ethno/Ethno.html).
-Particularly look at [Hobbamock's
-Homesite](http://spirit.lib.uconn.edu/ArchNet/Topical/Historic/Plimoth/Hobba.html)
+**Web:**EthnohistoryResources. Particularly look at Hobbamock's Homesite
 
-[**questions** 10-14](http://lab2.cc.wmich.edu/~zagarell/qst10-14.html) and
-[Web sites ](http://lab2.cc.wmich.edu/~zagarell/webas.html)
+**questions** 10-14 and Web sites
 
 * * *
 
@@ -263,10 +245,8 @@ Readings:
 gender, power, inequality, ideology
 
 **Film:** :Realms  
-**Lab:[Social Identities: Class, Ethnicity,
-Gender](http://lab2.cc.wmich.edu/~zagarell/socid.htm)**  
-**Web:**[Graves/Cemeteries; Bani
-(Niger/Africa)](http://www.orstom.fr/bani/welcome.html)
+**Lab:Social Identities: Class, Ethnicity, Gender**  
+**Web:**Graves/Cemeteries; Bani (Niger/Africa)
 
 * * *
 
@@ -280,9 +260,9 @@ Readings:
   * 
   **Film:** Signs and Symbols
 
-**Web:**[Rock Art.](http://zzyx.ucsc.edu/Comp/hyder.html) Offers a large
-selection of rock art from various periods and regions.  
-**Animation:[Symbolism](http://lab2.cc.wmich.edu/~zagarell/symbolic.htm)**  
+**Web:**Rock Art. Offers a large selection of rock art from various periods
+and regions.  
+**Animation:Symbolism**  
 
 * * *
 
@@ -293,8 +273,7 @@ Readings:
 
   * Ch. 9
 
-**  Lab:[Spatial
-Relationships](http://lab2.cc.wmich.edu/~zagarell/spacial.htm)**  
+**  Lab:Spatial Relationships**  
 
 * * *
 
@@ -316,21 +295,19 @@ Readings:
 
 
 
-**[Last Week's Lecture](notes/frame.htm)**
+**Last Week's Lecture**
 
 * * *
 
-[Return to Zagarell Home Page ](http://lab2.cc.wmich.edu/~zagarell/index.html)
+Return to Zagarell Home Page
 
 * * *
 
-**Archaeological Resources
-:**[ArchNet](http://spirit.lib.uconn.edu/ArchNet/ArchNet.html) or [Zagarell's
-list ](http://lab2.cc.wmich.edu/zagarell/zarclst.htm)
+**Archaeological Resources :**ArchNet or Zagarell's list
 
 * * *
 
 * * *
 
-Contact me by e-mail:[zagarell@wmich.edu](mailto:zagarell@wmich.edu)
+Contact me by e-mail:zagarell@wmich.edu
 

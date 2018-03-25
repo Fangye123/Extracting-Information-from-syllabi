@@ -7,7 +7,7 @@ _Last updated: Thu, 06 Jan 2000 01:00:11 (GMT -0600)_
   * Total Transfers by Client Domain
   * Total Transfers by Reversed Subdomain
   * Total Transfers from each Archive Section
-  * [Previous Full Summary Period](http://www.engr.uark.edu/usage/wwwstat/data/OLD/Dec.wwwstats.html) 
+  * Previous Full Summary Period 
 
 ## Totals for Summary Period: Jan 5 2000 to Jan 6 2000
 

@@ -88,10 +88,8 @@ What are the important characteristics of modern archaeology?
 
 ###  The pre-projectile-point occupation
 
-![](book.gif) [Monte Verde Excavation: or Clovis Police Beat a
-Retreat](http://www.unl.edu/rhames/monte_verde/monteverde.htm)  
-![](book.gif) [Chilean Field Yields New Clues to Peopling of
-Americas](http://www.unl.edu/rhames/monte_verde/monte_verde1.htm), New York
+![](book.gif) Monte Verde Excavation: or Clovis Police Beat a Retreat  
+![](book.gif) Chilean Field Yields New Clues to Peopling of Americas, New York
 Times, August 5, 1998.
 
 ###  Paleoindian occupation
@@ -112,10 +110,8 @@ Times, August 5, 1998.
 
 ###  The Olmec on the Gulf Coast
 
-![](book.gif) [Olmec Art of Ancient
-Mexico](http://www.unam.mx/voices/1996/nov/fuente.html)  
-![](book.gif) [Imagenes de Vestigios Arqueologicos: Cultura
-Olmeca](http://dbweb.admvo2.uv.mx/imgs/min/olmred/olmeca.html)
+![](book.gif) Olmec Art of Ancient Mexico  
+![](book.gif) Imagenes de Vestigios Arqueologicos: Cultura Olmeca
 
 There are a lot of beautiful pictures on this page, but you may have to
 download them via a high-speed network such as the one at the university.

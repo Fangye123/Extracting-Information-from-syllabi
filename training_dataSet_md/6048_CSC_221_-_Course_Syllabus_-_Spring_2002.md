@@ -2,8 +2,8 @@
 
 _ _ **
 
-### [Course Schedule](221schedule.html)  
-[Course Links](221links.html)
+### Course Schedule  
+Course Links
 
 ** **
 
@@ -11,15 +11,15 @@ _ _ **
 
     
     
-    221-001 Lecture   TR   2:00 -  2:50  DO 202   
-     221-200 Lab        W   9:00 - 10:40  BR 165   
-     221-201 Lab        W  11:00 - 12:40  BR 165  
+    221-001 Lecture   TR   2:00 -  2:50  DO 202   
+     221-200 Lab        W   9:00 - 10:40  BR 165   
+     221-201 Lab        W  11:00 - 12:40  BR 165  
      221-202 Lab        W   2:20 -  3:55  BR 165
 
 ** **INSTRUCTOR**
 
-[Dr. David R.Berman](http://www.uncwil.edu/csc/faculty/berman/)  
-E-mail: [bermand@uncwil.edu ](mailto:bermand@uncwil.edu)  
+Dr. David R.Berman  
+E-mail: bermand@uncwil.edu  
 Office hours (BR 128): MF 12:30-1:30, TR 12:00-1:30. Drop-ins are welcome
 anytime.  
 Phone: 962-3247  
@@ -46,9 +46,8 @@ Note 2: A grade of "C" or better is required for taking courses for which CSC
 
 **REQUIRED TEXTBOOK**
 
-C. Thomas Wu, [_An Introduction to Object-Oriented Programming with
-Java_](http://mhhe.com/engcs/compsci/wu2/), Second Edition, WCB/McGraw-Hill,
-2001.  
+C. Thomas Wu, _An Introduction to Object-Oriented Programming with Java_,
+Second Edition, WCB/McGraw-Hill, 2001.  
   
 
 **COURSE REQUIREMENTS AND GRADING CRITERIA**
@@ -145,21 +144,21 @@ assessment criteria, etc., will be given when the programs are assigned.
 A modified 10-point scale will be used to compute your course grade.
 
     
-    
-        Numeric Score     Letter Grade     Quality Points 
-      ====================================================               
-         93.3 - 100            A                4.00 
-         90.0 - 93.2           A-               3.67
-         86.7 - 89.9           B+               3.33
-         83.3 - 86.6           B                3.00
-         80.0 - 83.2           B-               2.67
-         76.7 - 79.9           C+               2.33
-         73.3 - 76.6           C                2.00
-         70.0 - 73.2           C-               1.67
-         66.7 - 69.9           D+               1.33
-         63.3 - 66.6           D                1.00
-         60.0 - 63.2           D-               0.67
-         00.0 - 59.9           F                0.00
+    
+        Numeric Score     Letter Grade     Quality Points 
+      ====================================================               
+         93.3 - 100            A                4.00 
+         90.0 - 93.2           A-               3.67
+         86.7 - 89.9           B+               3.33
+         83.3 - 86.6           B                3.00
+         80.0 - 83.2           B-               2.67
+         76.7 - 79.9           C+               2.33
+         73.3 - 76.6           C                2.00
+         70.0 - 73.2           C-               1.67
+         66.7 - 69.9           D+               1.33
+         63.3 - 66.6           D                1.00
+         60.0 - 63.2           D-               0.67
+         00.0 - 59.9           F                0.00
     
 
 **Honor Code**
@@ -192,7 +191,7 @@ You may work on your programs in BR 202 and Schwartz Hall (open 24 hours).
   * **Tutors**  
 The Computer Science Department will keep a list of tutors for this class. To
 view the list go to the Computer Science Department web site:
-[www.uncwil.edu/csc](http://www.uncwil.edu/csc/), and follow the links.
+www.uncwil.edu/csc, and follow the links.
 
   * **Lab Assistants**  
 A student lab assistant is assigned to each lab section.
@@ -207,5 +206,5 @@ register with the Office of Disability Services in Westside Hall (extension
 with your instructor to make mutually agreeable arrangements based on the
 recommendations of the Accommodation Letter.
 
-[![](back.gif)](javascript:history.back\(\))
+![](back.gif)
 

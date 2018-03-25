@@ -15,8 +15,8 @@ Week 6: Kurt Lewin, The Practical Theorist
 Week 7: WWII: The Seeds of the Cognitive Revolution  
 Week 8: The Cognitive Revolution I  
 Week 9: The Cognitive Revolution II  
-[Week 10: The Heyday of Experimental Social Psychology](week10)  
-[Week 11: The Fragmentation of Social Psychology](week11)  
+Week 10: The Heyday of Experimental Social Psychology  
+Week 11: The Fragmentation of Social Psychology  
 Week 12: Cognition in Cultural Context  
 Week 13: Picking up the Threads  
 Week 14: Student Presentations  
@@ -56,15 +56,13 @@ historical perspectives. _Science in Context_ , **5** , 309-328.
 >
 
 > Danziger, K. (1985). The Origins of the Psychological Experiment as a Social
-Institution. American Psychologist, 40, 133-140. [Web Link
-](http://www.psych.yorku.ca/grad/ht/danziger/experiment.htm)  
+Institution. American Psychologist, 40, 133-140. Web Link  
 >
 
 >
 
-> Mead, G.H. (1909). [Social Psychology as a Counterpoint to Physiological
-Psychology](http://spartan.ac.brocku.ca/%7Elward/mead/pubs/Mead_1909a.html).
-_Psychological Bulletin_ , **6** , 401-408.
+> Mead, G.H. (1909). Social Psychology as a Counterpoint to Physiological
+Psychology. _Psychological Bulletin_ , **6** , 401-408.
 
 >
 
@@ -74,8 +72,7 @@ _Psychological Bulletin_ , **6** , 401-408.
 
 >
 
-> [George's Page](http://spartan.ac.brocku.ca/%7Elward/mead/mead_biblio.html):
-Brock University's Mead Project
+> George's Page: Brock University's Mead Project
 
 #### Week 3: America post WWI
 
@@ -89,9 +86,8 @@ Delinquency_ , 2, 243-277.
 
 >
 
-> Watson, J.B. (1913). [Psychology as the behaviorist views
-it](http://psychclassics.yorku.ca/Watson/views.htm). Psychological Review,
-**20** , 158-177.
+> Watson, J.B. (1913). Psychology as the behaviorist views it. Psychological
+Review, **20** , 158-177.
 
 >
 
@@ -125,7 +121,7 @@ Clark University Press.
 
 > Vygotsky, L. (1927). The Historical Meaning of the Crisis in Psychology: A
 Methodological Investigation. Online at
-<http://www.marxists.org/archive/vygotsky/works/crisis/index.htm>
+http://www.marxists.org/archive/vygotsky/works/crisis/index.htm
 
 >
 
@@ -161,10 +157,8 @@ pp. 118-132. New York: Columbia University Press.
 >
 
 > Sokal, M. (1984). The Gestalt psychologists in behaviorist America.
-_American Historical Review_ , **89** , 1240-1263. [On campus
-link](http://links.jstor.org/sici?sici=0002-8762\(198412\)89%3A5%3C1240%3ATGPIBA%3E2.0.CO;2-8).
-[Off campus
-link](http://198.83.6.242/bin/rdas.dll/RDAS_SVR=links.jstor.org/sici?sici=0002-8762\(198412\)89%3A5%3C1240%3ATGPIBA%3E2.0.CO;2-8).
+_American Historical Review_ , **89** , 1240-1263. On campus link. Off campus
+link.
 
 >
 
@@ -241,15 +235,13 @@ Psychology.
 
 >
 
-> Turing, A.M. (1950). [Computing Machinery and
-Intelligence](http://cogprints.soton.ac.uk/documents/disk0/00/00/04/99/cog00000499-00/turing.html).
-_Mind_ , 49, 433-460.
+> Turing, A.M. (1950). Computing Machinery and Intelligence. _Mind_ , 49,
+433-460.
 
 >
 
-> Miller, G. (1956). [The magical number seven plus or minus
-two](http://psychclassics.yorku.ca/Miller/). _Psychological Review_ , 63,
-81-97.
+> Miller, G. (1956). The magical number seven plus or minus two.
+_Psychological Review_ , 63, 81-97.
 
 >
 
@@ -272,17 +264,13 @@ Princeton, NJ: Princeton University Press.
 
 #### Week 8: The Cognitive Revolution continued: The New Look
 
-> Bruner, J. & Goodman, C. (1947). [Value and Need as Organizing Factors in
-Perception](http://psychclassics.yorku.ca/Bruner/Value/). _Journal of Abnormal
-and Social Psychology_ , 42, 33-44.
+> Bruner, J. & Goodman, C. (1947). Value and Need as Organizing Factors in
+Perception. _Journal of Abnormal and Social Psychology_ , 42, 33-44.
 
 >
 
 > Bruner, J. (1992) Another look at New Look 1\. _American Psychologist_ ,
-**47** , 780-783. [SLC network
-link](http://www.psycinfo.com/ftdocs/amp/1992/june/amp476780.html). [non-SLC
-connection
-link](http://remote.slc.edu:2048/login?url=http://www.psycinfo.com/ftdocs/amp/1992/june/amp476780.html).
+**47** , 780-783. SLC network link. non-SLC connection link.
 
 >
 
@@ -291,9 +279,8 @@ of psychology in autobiography_. (Vol. 7). San Francisco: Freeman.
 
 >
 
-> Chomsky, N. (1959). [A Review of B. F. Skinner's Verbal
-Behavior](http://cogprints.soton.ac.uk/documents/disk0/00/00/11/48/cog00001148-00/chomsky.htm).
-_Language_ , **35** , 26-58.
+> Chomsky, N. (1959). A Review of B. F. Skinner's Verbal Behavior. _Language_
+, **35** , 26-58.
 
 >
 
@@ -340,16 +327,14 @@ psychology. _Journal of the History of the Behavioral Sciences_ , **35** ,
 #### Week 10: The Heydey of Experimental Social Psychology: The First
 Generation of Lewinians
 
-> Festinger, L. & Carlsmith, J.M. (1959). [Cognitive Consequences of Forced
-Compliance](http://psychclassics.yorku.ca/Festinger/index.htm). _Journal of
-Abnormal and Social Psychology_ , 58, 203-210.  
+> Festinger, L. & Carlsmith, J.M. (1959). Cognitive Consequences of Forced
+Compliance. _Journal of Abnormal and Social Psychology_ , 58, 203-210.  
 >
 
 >
 
 > Sherif, M., O. J. Harvey, B. J. White, W. R. Hood, C. W. Sherif (1954/1961).
-[Intergroup Conflict and Cooperation: The Robbers Cave
-Experiment](http://psychclassics.yorku.ca/Sherif/chap1.htm)
+Intergroup Conflict and Cooperation: The Robbers Cave Experiment
 
 >
 

@@ -500,7 +500,7 @@ Sexuality and Obscenity Law_. London: Macmillan, pp. vii-56.
 
 > The fundamental problems of communication historiography, revisited.
 
-[[Back]](courses.html)
+[Back]
 
-Copyright 2000 [Jonathan Sterne](mailto:jsterne+@pitt.edu)  
+Copyright 2000 Jonathan Sterne  
 

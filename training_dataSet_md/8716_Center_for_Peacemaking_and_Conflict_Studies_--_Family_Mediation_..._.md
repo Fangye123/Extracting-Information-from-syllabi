@@ -6,8 +6,7 @@ page.](pacstop2.jpg)
 # Family Mediation  
 CMP 762
 
-### [Duane Ruth-Heffelbower, MDiv,
-JD](http://www.fresno.edu/grad/faculty/duanerh.html)
+### Duane Ruth-Heffelbower, MDiv, JD
 
 3 Units  
 Fall Semester 2002. Tuesdays 6:00-9:00 P.M. beginning date to be announced.
@@ -25,11 +24,9 @@ Fresno Pacific University Graduate School Program in Conflict Management and
 Peacemaking CMP 762 and Mennonite Brethren Biblical Seminary Marriage and
 Family Program MF 635.
 
-Instructor: [Duane Ruth-Heffelbower, M.Div.,
-J.D.](http://www.fresno.edu/grad/faculty/duanerh.html); 559-455-5840; fax
-252-4800; [duanerh@fresno.edu](mailto:duanerh@fresno.edu). Office in the
-Center for Peacemaking and Conflict Studies. The current edition of this
-syllabus is always available here.
+Instructor: Duane Ruth-Heffelbower, M.Div., J.D.; 559-455-5840; fax 252-4800;
+duanerh@fresno.edu. Office in the Center for Peacemaking and Conflict Studies.
+The current edition of this syllabus is always available here.
 
 #### Family Mediation
 
@@ -387,22 +384,21 @@ Francisco: Jossey-Bass Publishers.
 
 * * *
 
-###### Last modified June 18, 2002. Page constructed and maintained by [Duane
-Ruth-Heffelbower](mailto:duanerh@fresno.edu?SUBJECT=PACS home page)
+###### Last modified June 18, 2002. Page constructed and maintained by Duane
+Ruth-Heffelbower
 
 * * *
 
-**[Center for Peacemaking and Conflict Studies](mailto:pacs@fresno.edu)  
+**Center for Peacemaking and Conflict Studies  
 Fresno Pacific University  
 1717 S. Chestnut Avenue  
 Fresno, CA 93702  
 559-455-5840, fax 559-252-4800  
 800-909-8677**
 
-[**FPU Home Page**](http://www.fresno.edu)
+**FPU Home Page**
 
-[Home](index.html) | [Academics](academic.shtml) | [New](newnews.shtml) |
-[Services](services.shtml) | [Documents](docs) | [Search](search.shtml)
+Home | Academics | New | Services | Documents | Search
 
 ###### (C)2002 Center for Peacemaking and Conflict Studies
 

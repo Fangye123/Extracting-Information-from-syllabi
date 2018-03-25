@@ -27,15 +27,15 @@ http://chandra.bgsu.edu/~gcd/ppst.html
 
 **Course Instructors:**
 
-  * **[Comer Duncan](mailto:gcd@chandra.bgsu.edu), Professor of Physics, Department of Physics and Astronomy, 173 Oveman Hall; Office Hours by appointment; Telephone: 372 8108; you may also visit my [web page.**](http://chandra.bgsu.edu/~gcd/)
+  * **Comer Duncan, Professor of Physics, Department of Physics and Astronomy, 173 Oveman Hall; Office Hours by appointment; Telephone: 372 8108; you may also visit my web page.**
 
-  * **[Michael Bradie](mailto:mbradie@bgnet.bgsu.edu), Professor of Philosophy, Department of Philosophy, 325 Shatzel Hall, Office Hours by appointment: Telephone: 372 8372**
+  * **Michael Bradie, Professor of Philosophy, Department of Philosophy, 325 Shatzel Hall, Office Hours by appointment: Telephone: 372 8372**
 
 ## Course Information
 
 ## Course materials:
 
-  * Selected sections of [**The Evolution of the Concepts of Space and Time**](titlepage.tableofcontents.html), a manuscript by Professors Bradie and Duncan. 
+  * Selected sections of **The Evolution of the Concepts of Space and Time**, a manuscript by Professors Bradie and Duncan. 
   * Hand-outs on various space and time topics will be provided. 
   * When possible, links in this web page to the lectures and selected hand-outs will be made as the term proceeds. 
   * A bibliography of some key references will be provided. 
@@ -58,47 +58,37 @@ models, and questions of determinism and causality.
 
 ### **Course Syllabus**
 
-Meeting Date| Lecture Topic| Supporting Materials | Jan. 13| Introduction| [B
-& D Chapter 1](Spacetime1.html), [B & D Chapter 2](Spacetime2.html)  
+Meeting Date| Lecture Topic| Supporting Materials | Jan. 13| Introduction| B &
+D Chapter 1, B & D Chapter 2  
 ---|---|---  
-Jan. 15| [ Zeno I ](Zeno.paradoxes.html)| [B & D Chapter 3](Spacetime3.html)  
-Jan. 20| [ Zeno II ](Zeno.paradoxes.html)| [B & D Chapter 3](Spacetime3.html)  
-Jan. 22| [ Zeno III ](Zeno.paradoxes.html)| [B & D Chapter
-3](Spacetime3.html), [Infinities](infinities.html)  
-Jan. 27| [ Zeno IV ](Zeno.paradoxes.html)| [B & D Chapter 3](Spacetime3.html)  
-Jan. 29| Plato's Universe| [B & D Chapter 4](Spacetime4.html)  
-Feb. 3| Aristotle's Universe| [B & D Chapter 5](Spacetime5.html)  
-Feb. 5| Newton I| [B & D Chapters 6](Spacetime6.html) , [B & D Chapters
-7](Spacetime7.html)  
-Feb. 10| Newton II| [B & D Chapter 7](Spacetime7.html)  
-Feb. 12| Newton III| [B & D Chapter 7](Spacetime7.html)  
-Feb. 17| Leibnitz I| [B & D Chapter 8](Spacetime8.html)  
-Feb. 19| Leibnitz II| [B & D Chapter 8](Spacetime8.html)  
+Jan. 15|  Zeno I | B & D Chapter 3  
+Jan. 20|  Zeno II | B & D Chapter 3  
+Jan. 22|  Zeno III | B & D Chapter 3, Infinities  
+Jan. 27|  Zeno IV | B & D Chapter 3  
+Jan. 29| Plato's Universe| B & D Chapter 4  
+Feb. 3| Aristotle's Universe| B & D Chapter 5  
+Feb. 5| Newton I| B & D Chapters 6 , B & D Chapters 7  
+Feb. 10| Newton II| B & D Chapter 7  
+Feb. 12| Newton III| B & D Chapter 7  
+Feb. 17| Leibnitz I| B & D Chapter 8  
+Feb. 19| Leibnitz II| B & D Chapter 8  
 Feb. 24| Absolute vs Relational Theories  
 Feb. 26| Alternative Geometries  
 Mar. 3| Space, Geometry, and Convention  
 Mar. 5| Gauss' 'Experiment'|  
 Mar. 10| Spring Break-no class  
 Mar. 12| Spring Break-no class  
-Mar. 17| Mach's Critique of Newton| [B & D Chapter 8](Spacetime8.html)  
-Mar. 19| Space, Time, and Events| [B & D Chapter 9](Spacetime9.html) **Term
-Paper I Due**  
-Mar. 24| Primacy of Light| [B & D Chapter 10](Spacetime10.html)  
-Mar. 26| Special Relativity: Foundations| [B & D Chapter 11](Spacetime11.html)  
-Mar. 31| Speical Relativity: Effects| [B & D Chapter 12](Spacetime12.html)  
-Apr. 2| Geometrization of Special Relativity| [B & D Chapter
-13](Spacetime13.html),[ Lecture notes](chapter13.html)  
-Apr. 7| The Principle of Equivalence| [B & D Chapter 14](Spacetime14.html), [
-Lecture notes](chapter14.html)  
-Apr. 9| Geometrization of Gravity I| [B & D Chapter 14](Spacetime14.html),
-[Term Paper 2 Refs.](gcd.paper.refs.html)  
-Apr. 14| Geometrization of Gravity II| [B & D Chapter 15](Spacetime15.html),[
-Lecture notes](chapter15.html)  
-Apr. 16| Black Holes| [B & D Chapter 15](Spacetime15.html)[
-Curvature](curvature.new.html) [ Field Eqns](fieldeqns.html)[,Black
-Holes](schw.version3.html)  
-Apr. 21| Introduction to Cosmology| [ Second Term Paper
-Topics](secondpaper.html)  
+Mar. 17| Mach's Critique of Newton| B & D Chapter 8  
+Mar. 19| Space, Time, and Events| B & D Chapter 9 **Term Paper I Due**  
+Mar. 24| Primacy of Light| B & D Chapter 10  
+Mar. 26| Special Relativity: Foundations| B & D Chapter 11  
+Mar. 31| Speical Relativity: Effects| B & D Chapter 12  
+Apr. 2| Geometrization of Special Relativity| B & D Chapter 13, Lecture notes  
+Apr. 7| The Principle of Equivalence| B & D Chapter 14,  Lecture notes  
+Apr. 9| Geometrization of Gravity I| B & D Chapter 14, Term Paper 2 Refs.  
+Apr. 14| Geometrization of Gravity II| B & D Chapter 15, Lecture notes  
+Apr. 16| Black Holes| B & D Chapter 15 Curvature Field Eqns,Black Holes  
+Apr. 21| Introduction to Cosmology|  Second Term Paper Topics  
 Apr. 23| Introduction to Quantum Phenomena  
 Apr. 28| Quantum and Gravity: Challenges  
 Apr. 30 | Future Developments in Space and Time|  **Term Paper II Due**  

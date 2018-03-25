@@ -8,7 +8,7 @@ W. Fitzhugh Brundage
 Flint 0025  
 392-0271  
 office hours: Tuesday, Thursday 8 am -11:30 am  
-email: [brundage@history.ufl.edu](mailto:brundage@history.ufl.edu)  
+email: brundage@history.ufl.edu  
   ![](miles_davis.jpg) |
 
   * **_Course Description_**
@@ -86,8 +86,7 @@ assigned reading.)
 1) January 10: Introductory Meeting  
 
 
-**[Technology, Creativity and Popular
-Music](http://web.clas.ufl.edu/users/brundage/Popular_Music_Course/Technology_and_Music.html)**  
+**Technology, Creativity and Popular Music**  
 2) January 15: Defining Popular Music: Lawrence Levine, _Highbrow/Lowbrow::
 The Emergence of Cultural Hierarchy in America_ , Chapter 3 (72 pages)
 
@@ -96,8 +95,7 @@ Sound Recording in America_ , Chapter 1; "Making Experience Repeatable," in
 Daniel J. Boorstin, _The Americans: The Democratic Experience_ (55 pages)  
 
 
-**[Popular Music and the Popular Face of
-Modernism](http://web.clas.ufl.edu/users/brundage/Popular_Music_Course/Jazz_Modernism.html)**  
+**Popular Music and the Popular Face of Modernism**  
 4) January 22: Burton Peretti, _The Creation of Jazz_ , Chapters 1-4 (75
 pages)
 
@@ -106,23 +104,20 @@ pages)
 
 ![](armstrong.gif)
 
-  **[Mainstreaming Jazz and "Modern"
-America](http://web.clas.ufl.edu/users/brundage/Popular_Music_Course/Swing_Sampler.html)**  
+  **Mainstreaming Jazz and "Modern" America**  
 6) January 29: Burton Peretti, _The Creation of Jazz_ , Chapters 8-10 (66
 pages)
 
 7) January 31: Film  
 
 
-**[Popular Music and the Cult of
-Authenticity](http://web.clas.ufl.edu/users/brundage/Popular_Music_Course/Blues_Samples.html)**  
+**Popular Music and the Cult of Authenticity**  
 8) February 5: Benjamin Filene, _Romancing the Folk_ , Chapter 1 (38 pages)
 
 9) February 7: Benjamin Filene, _Romancing the Folk_ , Chapter 2-3 (85 pages)  
 
 
-**[The Transmission of Regional Identity and Popular Music: Country
-Music](http://web.clas.ufl.edu/users/brundage/Popular_Music_Course/Country_Sampler.html)**  
+**The Transmission of Regional Identity and Popular Music: Country Music**  
 10) February 12: Nick Tosches, _Country: The Twisted Roots of Rock 'N' Roll_ ,
 1-119.
 
@@ -130,15 +125,13 @@ Music](http://web.clas.ufl.edu/users/brundage/Popular_Music_Course/Country_Sampl
 120-268.  
 
 
-**[A Case Study of Music, Class, Race, and Dissent: The
-Blues](http://web.clas.ufl.edu/users/brundage/Popular_Music_Course/Blues_Samples.html)**  
+**A Case Study of Music, Class, Race, and Dissent: The Blues**  
 13) February 19: Robert Palmer, _Deep Blues_ , Part 1 (72 pages)
 
 14) February 21:  Film: "Louie Bluie"  
 
 
-**[Blues in Chicago; Folk Music and Authenticity in a Conservative
-Era](http://web.clas.ufl.edu/users/brundage/Popular_Music_Course/Folk_Sampler.html)**  
+**Blues in Chicago; Folk Music and Authenticity in a Conservative Era**  
 15) February 26: Palmer, _Deep Blues_ , Part 3 (81 pages)
 
 16) February 28: Benjamin Filene, _Romancing the Folk_ , Chapter 5 (50 pages)  
@@ -180,8 +173,7 @@ pages)
 pages)  
 
 
-**[Integration, Gender, Authenticity and Hip
-Hop](http://web.clas.ufl.edu/users/brundage/Popular_Music_Course/r&b-compilation.htm)**  
+**Integration, Gender, Authenticity and Hip Hop**  
 23) April 2: Tricia Rose, _Black Noise: Rap Music and Black Culture in
 Contemporary America_ , pp. 1-96. (96 pages)
 
@@ -189,8 +181,7 @@ Contemporary America_ , pp. 1-96. (96 pages)
 Contemporary America_ , pp. 99-185. (86 pages)  
 
 
-**[Class
-Presentations](http://web.clas.ufl.edu/users/brundage/Popular_Music_Course/Latin_Samples.html)**  
+**Class Presentations**  
 25) April 9: Research Day
 
 26) April 11: Presentations

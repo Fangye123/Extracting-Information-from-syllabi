@@ -1,6 +1,5 @@
-[](../../txt/) |  |  | |  | [College Catalog](../../../txt/)|  | [General
-Provisions](../../general\\txt/)|  | [Organization of the Curriculum
-](../../curriculum\\txt/)|  |  
+|  |  | |  | College Catalog|  | General Provisions|  | Organization of the
+Curriculum |  |  
 ---|---|---|---|---|---|---|---|---|---|---|---  
   
 ## The Africana Studies concentration
@@ -98,7 +97,6 @@ More Links:
 * * *
 
 Copyright (C) 2001 Grinnell College| Grinnell, IA 50112-1690 | 641-269-4000|
-Privacy policy and additional information. | [Comments? Click
-here!](../mailto:ivanovl@grinnell.edu)  
+Privacy policy and additional information. | Comments? Click here!  
 ---
 

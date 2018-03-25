@@ -5,10 +5,10 @@ May 1, 2002
 
 ####  http://www.cs.indiana.edu/~port/teach/relg/syll.html
 
-**[Link to Oncourse](http://oncourse.iu.edu)**  
+**Link to Oncourse**  
 Click on `IUB' and enter login and password.
 
-####  Instructor: [Prof. Robert F. Port](http://www.cs.indiana.edu/~port/)
+####  Instructor: Prof. Robert F. Port
 
 ####  Assistant Instructor: Mark Van Dam
 
@@ -34,8 +34,7 @@ webpage)**.
 time.
 
   
-**[Other Basic
-Information](http://www.cs.indiana.edu/~port/teach/relg/basic.info.html)**  
+**Other Basic Information**  
 
 * * *
 
@@ -53,37 +52,30 @@ mentioned below:
 
 >
 
->> * _[Start page:](http://www.uni-
-kassel.de/fb8/misc/lfb/html/text/startlfbframeset.html)_   http://www.uni-
+>> * _Start page:_   http://www.uni-
 kassel.de/fb8/misc/lfb/html/text/startlfbframeset.html
 
->> * _[0\. Welcome](http://www.uni-
-kassel.de/fb8/misc/lfb/html/text/0frame.html)_
+>> * _0\. Welcome_
 
->> * _[1\. Language and Linguistics and all 6 subchapters](http://www.uni-
-kassel.de/fb8/misc/lfb/html/text/1frame.html)_
+>> * _1\. Language and Linguistics and all 6 subchapters_
 
->> * _[2\. Language Universals, all 4 subchapters](http://www.uni-
-kassel.de/fb8/misc/lfb/html/text/2frame.html)_
+>> * _2\. Language Universals, all 4 subchapters_
 
 >
 
-> * 2.    [Design Features of
-Language](http://www.cs.indiana.edu/~port/teach/relg/design.features.html)
-(Port)
+> * 2.    Design Features of Language (Port)
 
-> * 3.   [Communicative _Signs: Icon, Index and Symbol
-_](http://www.cs.indiana.edu/~port/teach/relg/sign.symbol.html) (Port)
+> * 3.   Communicative _Signs: Icon, Index and Symbol  _ (Port)
 
 ###  Wk 2.  Jan 14.  Phonetics and **Language Change**
 
 **          Read:** _  Linguistics for Beginners _ (online text)
 
-* _[3\. History of English](http://www.uni-kassel.de/fb8/misc/lfb/html/text/3frame.html)_
-* _[4\. Middle English](http://www.uni-kassel.de/fb8/misc/lfb/html/text/4frame.html)_
-* [How to Create New Words](http://www.cs.indiana.edu/~port/teach/relg/creating.words.html)
-* [Some Neologisms in English](http://www.cs.indiana.edu/~port/teach/relg/newwords.html)
-* [English Bible translation for 1000 years.](http://www.cs.indiana.edu/~port/teach/relg/bible.english.html)
+* _3\. History of English_
+* _4\. Middle English_
+* How to Create New Words
+* Some Neologisms in English
+* English Bible translation for 1000 years.
 
   
 **_Conclusion_ :** Languages inevitably change. In 100 years, it is barely
@@ -94,23 +86,19 @@ understand without lots of   training (think of Chaucer).
 
 **Wk 3.   Jan 21.  What is a Religion? The case of Shinto.**
 
-* **[Homework 1,](http://www.cs.indiana.edu/~port/teach/relg/homework_1.htm) due Monday Jan 28, midnite.  New version posted Jan 24.**
+* **Homework 1, due Monday Jan 28, midnite.  New version posted Jan 24.**
 * **Read** :
 
-> * [What is
-Religion?](http://www.cs.indiana.edu/~port/teach/relg/whatisreligion.html)
+> * What is Religion?
 
-> * [What is
-Shinto?](http://www.cs.indiana.edu/~port/teach/relg/shinto.sketch.html)
+> * What is Shinto?
 
-> * **_On Common Ground_.** [Section of 3 essays on
-Shinto](http://www.cs.indiana.edu/~port/teach/relg/shinto.ocg.fixed.html).
-For this week, I have prepared the OCG 3 essays about Shinto into a text file
-(called `` _The Way of the Kami'', ``Shinto Comes to America'_ ' and ``
-_Purification: Wand or Waterfall'_ '). I still recommend using the OCG CD
-since it has a variety of pictures as well.  I do not plan to do this for the
-other religion sections, however, since it was quite time consuming to
-prepare.
+> * **_On Common Ground_.** Section of 3 essays on Shinto.  For this week, I
+have prepared the OCG 3 essays about Shinto into a text file (called `` _The
+Way of the Kami'', ``Shinto Comes to America'_ ' and `` _Purification: Wand or
+Waterfall'_ '). I still recommend using the OCG CD since it has a variety of
+pictures as well.  I do not plan to do this for the other religion sections,
+however, since it was quite time consuming to prepare.
 
 >  
 >        In general, for each religion in Section 2 of OCG, the display has
@@ -121,9 +109,9 @@ that religion.
 
  Recommended web resources about Shinto. Some have interesting photos.
 
-* [Shinto page](http://www.religioustolerance.org/shinto.htm)at `ReligiousTolerance.org'. A nice quick summary of many features. (about 5 pages)
-* [An Introduction to Shinto](http://fefadmin.org/archive/readers/601_shinto.htm). by Meredith Sprunger (3 pages)
-* [Shinto, ](http://www.jinja.or.jp/english/s-0.html)with many good pictures if you keep looking but the text is full of English errors and typos.
+* Shinto pageat `ReligiousTolerance.org'. A nice quick summary of many features. (about 5 pages)
+* An Introduction to Shinto. by Meredith Sprunger (3 pages)
+* Shinto, with many good pictures if you keep looking but the text is full of English errors and typos.
 **_Conclusion_ :**  Christianity, Judaism and Islam share many features.  All
 three provide answers to as similar set of questions (about one's fate
 following death, about what kind of behavior God wants to exhibit, about the
@@ -135,15 +123,14 @@ Speech**
 
 > **Read:**
 
-> * [Rhythmic Speech, Chanting and Rhythmic Action
-](http://www.cs.indiana.edu/~port/teach/relg/chant.doc)by R. Port (9 pages).
-This article is an expansion of the lecture materials.   The logical
-progression of the paper is from _periodic patterns  _ to _oscillations_ as
-the basis for them.. From oscillation to the _entrainment or coupling_ of
-several oscillators (eg, mother's body and child-on-swing), to _self-
-entrainment_ (coupling one oscillating part of the body with another
-oscillating part of the body, such as the two hands), to _meter_ as two or
-more coupled, self-entrained oscillators with _integer ratio frequencies_.
+> * Rhythmic Speech, Chanting and Rhythmic Action by R. Port (9 pages). This
+article is an expansion of the lecture materials.   The logical progression of
+the paper is from _periodic patterns  _ to _oscillations_ as the basis for
+them.. From oscillation to the _entrainment or coupling_ of several
+oscillators (eg, mother's body and child-on-swing), to _self-entrainment_
+(coupling one oscillating part of the body with another oscillating part of
+the body, such as the two hands), to _meter_ as two or more coupled, self-
+entrained oscillators with _integer ratio frequencies_.
 
 **_Conclusions_ :**  Humans _love to talk rhythmically_ and seem almost unable
 to avoid it.    In particular, language employed for religious purposes is
@@ -153,13 +140,11 @@ symbolizes group solidarity and unity.
 
 ####  Week 5.  Feb 4.  Hinduism: Role of Chant in the _Bhagavad Gita_.
 
-> **[Homework
-2](http://www.cs.indiana.edu/~port/teach/relg/homework2.hindu.html), due Tues,
-February 12, midnight.**  
+> **Homework 2, due Tues, February 12, midnight.**  
 > **Readings:**
 
   * **_On Common Ground_ :** Portions of the section on Hinduism: Read all of the **Introduction** (a set of 13 short essays) and also read **Hindu Experience** , only the 3 sections called **Home Alta** r, **Murti-The Image of God** and **Lamp Offerings.    **Be sure to look at the associated photographs too.  And read other sections if you are interested.
-  * **[Child's Intro to Hinduism](http://www.hindubooks.org/hinduism_simplified/)**.
+  * **Child's Intro to Hinduism**.
   
 This poses a series questions by a hypothetical American-born child of Hindu
 parents about the religions along with `mother's' short answers (by Gangadhar
@@ -167,16 +152,15 @@ Choudhary). From the lefthand window, please read the **Introduction** , and
 nine of the questions and answers (each on a difft page): **Question 1 through
 Question 9.**
 
-  * [**`Some simple mantras, if you are just starting out'** ,](http://www.sanskritmantra.com/simple.htm#taraka) by Thomas Ashley-Farrand.  Listen to the short recording  of `Om Sri Rama, Jaya Rama, Jaya jaya Rama' http://www.hindunet.org/hindu_pictures/GodandGodesses/god.shtml
+  * **`Some simple mantras, if you are just starting out'** , by Thomas Ashley-Farrand.  Listen to the short recording  of `Om Sri Rama, Jaya Rama, Jaya jaya Rama' http://www.hindunet.org/hindu_pictures/GodandGodesses/god.shtml
 
 **Recommended sites:**
 
-  * [Picture collection](http://www.cs.indiana.edu/~port/teach/relg/gallery.hindu.gods.html) of some Hindu gods, selected by RP
+  * Picture collection of some Hindu gods, selected by RP
 
 **Week** 6-7. ******Feb 11- Feb 20.     Buddhism in General and in Tibet.**
 
-**February 13, Midterm1.[Study Guide for first
-midterm.](http://www.cs.indiana.edu/~port/teach/relg/study.guide1.html)**
+**February 13, Midterm1.Study Guide for first midterm.**
 
 > **Readings**
 
@@ -188,16 +172,16 @@ Awakening** through **Vajrayana**.    Then, (2) read **Issues for Buddhists in
 Americ** a, but only the essays called **Two Buddhisms or One** and
 **Difficulties of a Monk.**
 
-  * [Introduction to Tibetan Buddhism](http://www.pbs.org/wgbh/pages/frontline/shows/tibet/understand/intro.html)
-  * [Mind, Body and Buddha](http://www.tibet.com/Buddhism/3jewels.html)
+  * Introduction to Tibetan Buddhism
+  * Mind, Body and Buddha
 
 **Other recommended sites.**
 
-  * [General Information about Tibet](http://www.tibet.com/PL/index.html)
-  * [Treatment of Death in Tibetan Buddhism](http://www.pbs.org/wgbh/pages/frontline/shows/tibet/understand/dying.html)
-  * [Other Tibetan Buddhism Sites](http://www.tibet.com/Buddhism/)
-  * [Relation to Traditional Tibetan Religion](http://www.pbs.org/wgbh/pages/frontline/shows/tibet/understand/bon.html)
-  * [The Body, Speech and Mind of a Buddha](http://www.tibet.com/Buddhism/3jewels.html)
+  * General Information about Tibet
+  * Treatment of Death in Tibetan Buddhism
+  * Other Tibetan Buddhism Sites
+  * Relation to Traditional Tibetan Religion
+  * The Body, Speech and Mind of a Buddha
 
   
 **Week 8.   Feb  25, 27. Zen Buddhism and Language**
@@ -207,29 +191,28 @@ Americ** a, but only the essays called **Two Buddhisms or One** and
 
 Lecture Notes
 
-  * [Bolinger on imprecision in language](http://www.cs.indiana.edu/~port/teach/relg/bolinger.ambiguity.html).
-  * [Linguistic distortion of reality: Defending Zen on language ](http://www.cs.indiana.edu/~port/teach/relg/ling.distort.html)(by R. Port)
-  * [Zen notes (Port's lecture notes)](http://www.cs.indiana.edu/~port/teach/relg/zennotes.html)
-  * [The Koan Page ](http://www.cs.indiana.edu/~port/teach/relg/koan.html)(by R. Port)
+  * Bolinger on imprecision in language.
+  * Linguistic distortion of reality: Defending Zen on language (by R. Port)
+  * Zen notes (Port's lecture notes)
+  * The Koan Page (by R. Port)
 
 Required Reading.
 
-  * [`What do Buddhists mean by emptiness?](http://www.tricycle.com/buddhistbasics/emptiness.html)'
-  * [`Do thoughts ever stop?'](http://www.tricycle.com/buddhistbasics/thoughtsstop.html) [Or [my local copy here.](http://www.cs.indiana.edu/~port/teach/relg/stop.html)]
-  * [`How to sit in Zen.'](http://www.tricycle.com/buddhistbasics/zazensit.html)
+  * `What do Buddhists mean by emptiness?'
+  * `Do thoughts ever stop?' [Or my local copy here.]
+  * `How to sit in Zen.'
   
 **Recommended**
 
-    * [Excerpts from _Tao Te Ching   _](http://www.cs.indiana.edu/~port/teach/relg/tao.te.ching.excpt.html)(4 of 81 Verses)
-    * [Zen approach to swordplay   ](http://www.cs.indiana.edu/~port/teach/relg/swordplay.html)(A couple paragraphs from D. T. Suzuki ` _Zen and Japanese Cultur_ e', 1936)
-[Homework Assignment](http://www.cs.indiana.edu/~port/teach/relg/ZenDisc-
-Hmwk.html) done in Disc on Feb 28/Mar 1.
+    * Excerpts from _Tao Te Ching   _(4 of 81 Verses)
+    * Zen approach to swordplay   (A couple paragraphs from D. T. Suzuki ` _Zen and Japanese Cultur_ e', 1936)
+Homework Assignment done in Disc on Feb 28/Mar 1.
 
   
 **Week 9   March 4-6, [Break]. Writing and the Great Philosophers;  A Start on
 Islam**
 
-* **[History of Writing](http://www.cs.indiana.edu/~port/teach/relg/writing.history.html)** (Lecture notes from March 4)
+* **History of Writing** (Lecture notes from March 4)
 **Week 10, 11.   March 18, 20, 25 27.  Islam and the Koran**
 
 > **Readings (partial, more to come):**  
@@ -241,10 +224,9 @@ against stereotype_ s).
 
 >
 
->   * [Islam
-Notes](http://www.cs.indiana.edu/~port/teach/relg/islam.notes.html)
+>   * Islam Notes
 
->   * [Sufism](http://www.cs.indiana.edu/~port/teach/relg/sufism.html)
+>   * Sufism
 
 >
 
@@ -252,22 +234,19 @@ Notes](http://www.cs.indiana.edu/~port/teach/relg/islam.notes.html)
 
 >
 
->>  [Introduction to Islam.
-](http://www.religioustolerance.org/isl_intr.htm)(a website at
-ReligiousTolerance.com
+>>  Introduction to Islam. (a website at ReligiousTolerance.com
 
-**April 8. Second Midterm    [Review Sheet for Second
-Midterm](http://www.cs.indiana.edu/~port/teach/relg/study.guide.2.html)**[.](http://www.cs.indiana.edu/~port/teach/relg/study.guide.2.html)
+**April 8. Second Midterm    Review Sheet for Second Midterm**.
 
 **Week 12.   April 1.   Christianity in the America Colonies: The Great
 Awakening (1730-1750)**
 
 > ####  **Read** :
 
-  * [Christianity Notes](http://www.cs.indiana.edu/~port/teach/relg/christianity.notes.html)
-  * [Revivalism Notes](http://www.cs.indiana.edu/~port/teach/relg/revivalism.html)
-  * Jonathan Edwards [``Sinners in the Hands of an Angry God'' (sermon excerpt)](http://www.cs.indiana.edu/~port/teach/relg/sinners.short.htm)
-  * Jonathan Edwards [``Letter about Revival of Religion in Northampton, 1736-1742''](http://www.cs.indiana.edu/~port/teach/relg/reviv.edwards.html) (excerpt)
+  * Christianity Notes
+  * Revivalism Notes
+  * Jonathan Edwards ``Sinners in the Hands of an Angry God'' (sermon excerpt)
+  * Jonathan Edwards ``Letter about Revival of Religion in Northampton, 1736-1742'' (excerpt)
 
 ####  **Week 13.   April 8, 10.   Some Modern Protestant Religious Services**
 
@@ -278,19 +257,14 @@ Preaching styles, hymns, spontaneous and group prayer.
 > **General lecture source:** Jeff Todd Titon ` _Powerhouse for God'_ (Univ
 Texas P, 1988) pp. i, ii; 1-7; 23-48 (a church service: `Homecoming Day');  
 > **Read:**    **_On Common Ground_**.  
->  Port's Notes on [Protestant preaching and religious
-services](http://www.cs.indiana.edu/~port/teach/relg/preaching.html)  
-> and on [Comparison of language views across
-religions.](http://www.cs.indiana.edu/~port/teach/relg/comparison.review.html)
+>  Port's Notes on Protestant preaching and religious services  
+> and on Comparison of language views across religions.
 
 ###  Week 14.  April 15, 17.   Pentacostal Churches and `Speaking in Tongues';
 Bible Translation
 
 > **Read:** Biblical support for `speaking in tongues' (in Revised Standard
-Version): **[Acts
-2](http://www.cs.indiana.edu/~port/teach/relg/acts2.rev.st.vers.html)and [Mark
-16 ](http://www.cs.indiana.edu/~port/teach/relg/mark16.html)** (especially the
-last few verses, 11-20)
+Version): **Acts 2and Mark 16 ** (especially the last few verses, 11-20)
 
 > **Lecture source:** Jeff Todd Titon `Some Recent Pentacostal Revivals: A
 Report in Words and Photographs' _Georgia Review 32_ (1978), 579-610.
@@ -299,26 +273,23 @@ Report in Words and Photographs' _Georgia Review 32_ (1978), 579-610.
 Translations**
 
 > **Read** (used in discussion sections):  
-> [Comparing Bible
-translations.](http://www.cs.indiana.edu/~port/teach/relg/bible.transl.comparison.html)
+> Comparing Bible translations.
 
-* **Scott Munger:[ `It's Impossible to Translate the Bible Literally](http://www.gospelcom.net/ibs/niv/munger/5-1.php)'**
-* **Scott Munger:[ `Creating a `Clear, Accurate, Natural' Translation'](http://www.gospelcom.net/ibs/niv/munger/5-5-2.php)**
-* **Port's notes** **["The Problem of Translation](http://www.cs.indiana.edu/~port/teach/relg/translation.notes.html)**
-* Zondervan Bibles, Inc: [**Scale of Literalness of Translation**.](http://www.cs.indiana.edu/~port/teach/relg/bible.scale.html)
+* **Scott Munger: `It's Impossible to Translate the Bible Literally'**
+* **Scott Munger: `Creating a `Clear, Accurate, Natural' Translation'**
+* **Port's notes** **"The Problem of Translation**
+* Zondervan Bibles, Inc: **Scale of Literalness of Translation**.
 * **Conclusions**
-**Recommended** : These readings are part of a collection of [good essays on
-Bible translation by Scott Munger](http://www.gospelcom.net/ibs/niv/munger/).  
+**Recommended** : These readings are part of a collection of good essays on
+Bible translation by Scott Munger.  
           http://www.gospelcom.net/ibs/niv/munger/   
-Another good reading is by Herbert Wolf: `[When literal is not
-accurate'](http://www.gospelcom.net/ibs/niv/mct/12.php).  
+Another good reading is by Herbert Wolf: `When literal is not accurate'.  
           http://www.gospelcom.net/ibs/niv/mct/12.php 
 
-  * [**Review sheet for Final Exam**.](http://www.cs.indiana.edu/~port/teach/relg/fin.review.html)
+  * **Review sheet for Final Exam**.
   * Final Exam 12:30-2:30, Friday May 3 in regular classroom. **_Sorry, no early final exams can be given._**
 
 * * *
 
-[RFP](http://www.cs.indiana.edu/hyplan/port.html) . Copyright Indiana
-University.
+RFP . Copyright Indiana University.
 

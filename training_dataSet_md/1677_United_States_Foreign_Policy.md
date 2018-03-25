@@ -484,9 +484,7 @@ Department of State Foreign Affairs Network
 
 * * *
 
-You may [download text copies](ftp://krishna.csd.sc.edu/syllabi) of each of
-these syllabi.
+You may download text copies of each of these syllabi.
 
-[![TOC](blutoc.gif)](syllabi.htm) [![Index](bluindex.gif)](htindex.htm) [![See
-File](bluhome.gif)](home.htm)
+![TOC](blutoc.gif) ![Index](bluindex.gif) ![See File](bluhome.gif)
 

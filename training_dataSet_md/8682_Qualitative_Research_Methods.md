@@ -6,10 +6,9 @@ Princeton University |
 
 |
 
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](mailto:renne@opr.Princeton.EDU)**Professor E.P.
-Renne**  
+images/metredball.gif)**Professor E.P. Renne**  
 ---|---|---  
   
 **Woodrow Wilson School** |
@@ -36,84 +35,73 @@ Renne**
 
 images/metredball.gif)_(click on the red ball)_
 
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](wws513.html#lion)**I. Seminar description** |
+images/metredball.gif)**I. Seminar description** |
 
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](wws513.html#wolf)**II. Seminar requirements**  
+images/metredball.gif)**II. Seminar requirements**  
 ---|---  
   
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](wws513.html#dog)**Week 1: Qualitative methods:
-Introduction** |
+images/metredball.gif)**Week 1: Qualitative methods: Introduction** |
 
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](wws513.html#horse)**Week 2: Doing qualitative
-research: Ethnographic fieldwork**  
+images/metredball.gif)**Week 2: Doing qualitative research: Ethnographic
+fieldwork**  
   
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](wws513.html#mule)**Week 3: Doing qualitative research:
-Preliminaries** |
+images/metredball.gif)**Week 3: Doing qualitative research: Preliminaries** |
 
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](wws513.html#goat)**Week 4: Doing qualitative research:
-Interviews**  
+images/metredball.gif)**Week 4: Doing qualitative research: Interviews**  
   
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](wws513.html#giraffe)**Week 5: Doing qualitative
-research: Other methods** |
+images/metredball.gif)**Week 5: Doing qualitative research: Other methods** |
 
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](wws513.html#elephant)**Week 6: Fieldnotes**  
+images/metredball.gif)**Week 6: Fieldnotes**  
   
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](wws513.html#snake)**13 March 1997: Mid-term paper
-due** |
+images/metredball.gif)**13 March 1997: Mid-term paper due** |
 
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](wws513.html#worm)**SPRING BREAK**  
+images/metredball.gif)**SPRING BREAK**  
   
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](wws513.html#ant)**Week 7: The quantification of
-qualitative research** |
+images/metredball.gif)**Week 7: The quantification of qualitative research** |
 
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](wws513.html#flea)**Week 8: Theoretical and ethical
-concerns**
+images/metredball.gif)**Week 8: Theoretical and ethical concerns**
 
   
   
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](wws513.html#gnat)**Week 9: DQR: Gender
-considerations** |
+images/metredball.gif)**Week 9: DQR: Gender considerations** |
 
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](wws513.html#pebble)**Week 10: Writing and qualitative
-research**  
+images/metredball.gif)**Week 10: Writing and qualitative research**  
   
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](wws513.html#stone)**Week 11: Ethnographic experience,
-part 1** |
+images/metredball.gif)**Week 11: Ethnographic experience, part 1** |
 
-[![](http://www.princeton.edu/~sociolog/
+![](http://www.princeton.edu/~sociolog/
 
-images/metredball.gif)](wws513.html#rock)**Week 12: Ethnographic experience,
-part 2**  
+images/metredball.gif)**Week 12: Ethnographic experience, part 2**  
   
   
 
@@ -237,11 +225,9 @@ journal articles, at the Woodrow Wilson School library.
 
   * **Stack, Carol. _Call to Home: African Americans Reclaim the Rural South_. (*) New York: Basic Books, 1996.** 
 
-### Back to the [Sociology Department!
+### Back to the Sociology Department!
 
-](http://www.princeton.edu/~sociolog/)
+![](http://www.princeton.edu/~sociolog/
 
-[![](http://www.princeton.edu/~sociolog/
-
-images/metredball.gif)](mailto:blanche@phoenix.Princeton.EDU)**webdesign**
+images/metredball.gif)**webdesign**
 

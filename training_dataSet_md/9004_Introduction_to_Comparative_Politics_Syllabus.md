@@ -111,11 +111,8 @@ I. China (January 23-February 13)
 A. Chinese History and Political Culture (January 23, 25, 30)
 
 -Roskin, pp. 1-17; 376--384.   
-[-**Minxin Pei, "'Creeping Democratization' in China," Journal of Democracy,
-Fall 1995.
-](http://muse.jhu.edu/journals/journal_of_democracy/v006/6.4pei.html)  
-[-**Suisheng Zhao, "Three Scenarios," Journal of Democracy, Winter 1998.
-](http://muse.jhu.edu/journals/journal_of_democracy/v009/9.1zhao.html)
+-**Minxin Pei, "'Creeping Democratization' in China," Journal of Democracy, Fall 1995.   
+-**Suisheng Zhao, "Three Scenarios," Journal of Democracy, Winter 1998. 
 
 B. Legitimacy and Coercion: Ideology, Political Parties, and State Violence
 (February 1)
@@ -126,23 +123,18 @@ B. Legitimacy and Coercion: Ideology, Political Parties, and State Violence
 C. Economic Reform: Economic Liberalism, Political Conservatism (February 6)
 
 -Roskin, pp. 400-406.   
-[-**Xiao-huang Yin, "China's Guilded Age," The Atlantic Monthly, April 1994.
-](http://iberia.vassar.edu/vcl/reserves/reserve-readings/poli150/SB955_03.pdf)
+-**Xiao-huang Yin, "China's Guilded Age," The Atlantic Monthly, April 1994. 
 
 D. Debating Economics and Human Rights (February 8)
 
 -* Michael A. Santoro, "Global Capitalism and the Road to Chinese Democracy," Current History, September 2000.   
-[-**Harry Wu, "The Need to Restrain China," Journal of International Affairs,
-Winter 1996.](needtorestrain.html)  
-[-** Peter R. Moody, "Asian Values and International Relations," Journal of
-International Affairs, summer 1996. ](asianvalues.html)
+-**Harry Wu, "The Need to Restrain China," Journal of International Affairs, Winter 1996.   
+-** Peter R. Moody, "Asian Values and International Relations," Journal of International Affairs, summer 1996. 
 
 E. Gender and Politics (February 13)
 
 -Jung Chang, Wild Swans: Three Women of China, entire book.   
-[-** Stanley Rosen, "Women and Political Participation in China," Pacific
-Affairs, fall 1995. ](http://iberia.vassar.edu/vcl/reserves/reserve-
-readings/poli150/SB683_01.pdf)
+-** Stanley Rosen, "Women and Political Participation in China," Pacific Affairs, fall 1995. 
 
 Papers on Wild Swans due in class February 13.
 
@@ -156,7 +148,7 @@ A. British History and Political Culture (February 15, 17)
 B. British Political Institutions (February 22)
 
 -Roskin, pp. 34-47.   
--[**Jonathan Miller, "Breaking up Britain: a kingdom no longer united," World Policy Journal, Spring 1999.](miller.html)   
+-**Jonathan Miller, "Breaking up Britain: a kingdom no longer united," World Policy Journal, Spring 1999.   
 -* David Marquand, "Democracy in Britain," Political Quarterly, July-September 2000. 
 
 C. Political Participation and Legitimation (February 27)
@@ -185,8 +177,7 @@ III. Chile (March 27-April 5)
 A. Chilean History (March 27 & 29)
 
 -Constable and Valenzuela, chapters 1-4, 11 & 12\.   
-[-**Marc Cooper, "Twenty-Five Years After Allende," The Nation, February 1998.
-](http://iberia.vassar.edu/vcl/reserves/reserve-readings/poli150/cooper.pdf)
+-**Marc Cooper, "Twenty-Five Years After Allende," The Nation, February 1998. 
 
 Film Screening - March 29 - Missing
 
@@ -194,50 +185,33 @@ B. Legacies of Authoritarianism: The Aftermath of Political Violence (April 3)
 
 -Constable and Valenzuela, chapters 6 & 10  
 -* Felipe Aguero, "Chile's Lingering Authoritarian Legacy," Current History, February 1998.   
-[-**"Twighlight of the General," NACLA Report on the Americas, May/June 1999,
-pp. 11-33.
-](http://143.229.1.50/search/plongm/plongm/1,1,3,B/frameset~1584150&F=plongman+t&3,,3)
+-**"Twighlight of the General," NACLA Report on the Americas, May/June 1999, pp. 11-33. 
 
 C. Economic Policies (April 5)
 
 -Constable and Valenzuela, chapters 8, 9.   
-[-**Alejandro Foxley, "Chile: Latin America's Third Way," New Perspectives
-Quarterly. ](http://iberia.vassar.edu/vcl/reserves/reserve-
-readings/poli150/chile.html)
+-**Alejandro Foxley, "Chile: Latin America's Third Way," New Perspectives Quarterly. 
 
 D. Religion and Politics (April 10)
 
-[-** Carl Meacham, "The Role of the Chilean Catholic Church and the New
-Chilean Democracy," Journal of Church and State, Spring 1994.
-](http://iberia.vassar.edu/vcl/reserves/reserve-readings/poli150/meacham.html)
+-** Carl Meacham, "The Role of the Chilean Catholic Church and the New Chilean Democracy," Journal of Church and State, Spring 1994. 
 
 IV. South Africa (April 12-April 26)
 
 A. South African Political History (April 12, 17)
 
 -Roskin, pp. 440-465  
-[-**Steven Friedman, "Enterning the Post-Mandela Era," Journal of Democracy,
-October
-1999.](http://muse.jhu.edu/journals/journal_of_democracy/v010/10.4friedman.html?)  
-[-**Tom Nevin, "Thabo Mbeki -- an enigma waiting to unfold," African Business,
-March 1999. ](http://vassun.vassar.edu/~tilongma/thabombeki.html)  
-[-** Eric Foner, "We Must Forget the Past," Yale Review April 1995.
-](http://iberia.vassar.edu/vcl/reserves/reserve-readings/poli150/foner.html)
+-**Steven Friedman, "Enterning the Post-Mandela Era," Journal of Democracy, October 1999.   
+-**Tom Nevin, "Thabo Mbeki -- an enigma waiting to unfold," African Business, March 1999.   
+-** Eric Foner, "We Must Forget the Past," Yale Review April 1995. 
 
 Film Screening - April 12 - Sarafina
 
 B. Confronting the Past: The Truth and Reconciliation Commission (April 26)
 
-[-**Michael Lapsley, "Confronting the Past, Creating the Future: The
-Redemptive Value of Truth Telling" Social Research, Winter
-1999.](http://iberia.vassar.edu/vcl/reserves/reserve-
-readings/poli150/SB172_03.pdf)  
-[-**Beth S. Lyons, "Between Nuremberg and Amnesia," Monthly Review, September
-1997](http://iberia.vassar.edu/vcl/reserves/reserve-
-readings/poli150/SB536_01.pdf)  
-[-** Heribert Adam, "Trading Justice for Truth," The World Today, January
-1998. ](http://iberia.vassar.edu/vcl/reserves/reserve-
-readings/poli150/Adam.pdf)
+-**Michael Lapsley, "Confronting the Past, Creating the Future: The Redemptive Value of Truth Telling" Social Research, Winter 1999.   
+-**Beth S. Lyons, "Between Nuremberg and Amnesia," Monthly Review, September 1997  
+-** Heribert Adam, "Trading Justice for Truth," The World Today, January 1998. 
 
 C. Legacies of Authoritarianism: Memories of Apartheid (April 24)
 
@@ -248,10 +222,8 @@ Papers on Kaffir Boy due in class April 24.
 D. Post Apartheid Challenges: Economic and Social Diversity (April 19)
 
 -Roskin, pp. 466-471.  
-[-**Herbert Jauch, "Economics After Apartheid," Canadian Dimension, July-
-August 1997.  
-[-**Robert Price, "Race and Reconciliation," Politics and Society, June 1997.
-](http://iberia.vassar.edu/vcl/reserves/reserve-readings/poli150/SB955_02.pdf)  
+-**Herbert Jauch, "Economics After Apartheid," Canadian Dimension, July-August 1997.   
+-**Robert Price, "Race and Reconciliation," Politics and Society, June 1997.   
 -* Mark Gevisser, "The Word from Johannesburg," Out, August 1997. 
 
 Wrap Up (May 1)

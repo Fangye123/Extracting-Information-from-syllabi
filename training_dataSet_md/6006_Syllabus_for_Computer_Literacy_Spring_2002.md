@@ -5,8 +5,7 @@
 **COMPUTER LITERACY      **  
 ---|---  
   
-Course Syllabus | [Weekly Assignments](cs1003.sp2002.assign.html) | [Projects
-](cs1003.sp2002.project.html)  
+Course Syllabus | Weekly Assignments | Projects  
 ---|---|---  
   
 # Spring 2002
@@ -20,7 +19,7 @@ Computer Science Department
 216 Math Sciences  
 Oklahoma State University  
 **Phone** :  744-5675  
-**E-Mail Address** : [jje@a.cs.okstate.edu](mailto:jje@a.cs.okstate.edu)  
+**E-Mail Address** : jje@a.cs.okstate.edu  
 **Office Hours** :   Monday 10:30-11:20  Tuesday:  1:00-2:30  Wednesday
 10:30-11:20 2:30-4:00    Thursday  1:00-4:00 Friday   9:00-11:20  1:00-3:00
 Others by appointment.
@@ -62,8 +61,8 @@ that lab during the time of the rest of the class.  The instructor and a
 Teaching Assistant will be available to help you with any problems that you
 may have with the assignment.  If you are having some problems, you may also
 come to see me during my office hours.  The weekly lab assignments and the
-projects  will be listed on the Web at <http://www.cs.okstate.edu/cs1003/>.
-Just click on the Weekly Assignments or the Projects options.  
+projects  will be listed on the Web at http://www.cs.okstate.edu/cs1003/. Just
+click on the Weekly Assignments or the Projects options.  
 
 ![](../graphics/line10.gif)
 

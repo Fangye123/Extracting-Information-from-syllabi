@@ -21,8 +21,7 @@ Check with instructor the first day of class for any changes.
 Fall 2001  
 Instructors: Alice Yang Murray, Alan Christy
 
-Go to:[
-](http://humwww.ucsc.edu/history/history26)<http://humwww.ucsc.edu/history/history8>
+Go to: http://humwww.ucsc.edu/history/history8
 
 [top of page]
 
@@ -35,7 +34,7 @@ Go to:[
 Fall 2001  
 Instructor: Mark Traugott
 
-Go to: <http://ic.ucsc.edu/~traugott/hist10/>
+Go to: http://ic.ucsc.edu/~traugott/hist10/
 
 [top of page]
 
@@ -48,7 +47,7 @@ Go to: <http://ic.ucsc.edu/~traugott/hist10/>
 Fall 2001  
 Instructors: Alice Yang Murray, Alan Christy
 
-Go to: <http://humwww.ucsc.edu/history/history26>
+Go to: http://humwww.ucsc.edu/history/history26
 
 [top of page]
 
@@ -237,7 +236,7 @@ Reading:
 Fall 2001  
 Instructor: Mark Traugott
 
-Go to: <http://ic.ucsc.edu/~traugott/hist124/>
+Go to: http://ic.ucsc.edu/~traugott/hist124/
 
 [top of page]
 
@@ -250,7 +249,7 @@ Go to: <http://ic.ucsc.edu/~traugott/hist124/>
 Instructor: Gail Hershatter  
 Office: Merrill 111  
 Phone: 459-4041  
-E-mail: [gbhers@cats.ucsc.edu](mailto:gbhers@cats.ucsc.edu)
+E-mail: gbhers@cats.ucsc.edu
 
 ### Course Description:
 
@@ -294,7 +293,7 @@ A required course reader also will be provided.
 Instructor: Gail Hershatter  
 Office: Merrill 111  
 Phone: 459-4041  
-E-mail: [gbhers@cats.ucsc.edu](mailto:gbhers@cats.ucsc.edu)
+E-mail: gbhers@cats.ucsc.edu
 
 ### Course Description:
 
@@ -351,7 +350,7 @@ A course reader will also be provided.
 Instructor: Terry Burke  
 Office: Merrill 112  
 Phone: 459-2287 (messages: 459-2855)  
-e-mail: [eburke@cats.ucsc.edu](mailto:eburke@cats.ucsc.edu)
+e-mail: eburke@cats.ucsc.edu
 
 ### Course Description:
 
@@ -396,8 +395,7 @@ first draft for criticism, then revise the paper and submit the final draft.
 
 208B. Graduate Seminar: Readings in American History, 1800 to 1900
 
-Instructor: Bruce Levine
-([blevine@cats.ucsc.edu](mailto:blevine@cats.ucsc.edu))
+Instructor: Bruce Levine (blevine@cats.ucsc.edu)
 
 ### Course Description
 

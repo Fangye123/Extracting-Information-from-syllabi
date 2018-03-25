@@ -13,8 +13,7 @@
 
 ## Historiography Discussion Thread for H-Teach
 
-Date: Mon, 11 Apr 94 10:28:47 EDT From: David Burr
-<[OLIVI@VTVM1.BITNET](mailto:OLIVI@VTVM1.BITNET)>
+Date: Mon, 11 Apr 94 10:28:47 EDT From: David Burr <OLIVI@VTVM1.BITNET>
 
 Last year I taught our required Methods course for the first time. The
 syllabus seemed itself methodologically sound: An orderly trip through the
@@ -51,7 +50,7 @@ David Burr
 * * *
 
 Date: Mon, 11 Apr 1994 08:40:26 -0700 (PDT) From: Raymond McInnis
-<[rgmc@HENSON.CC.WWU.EDU](mailto:rgmc@HENSON.CC.WWU.EDU)>
+<rgmc@HENSON.CC.WWU.EDU>
 
 Numerous people on this list have inquired about successful methods of
 teaching historical methods, historiography and the like to undergraduates. I
@@ -102,12 +101,11 @@ Raymond G. McInnis
 Wilson Library  
 Western Washington University  
 Bellingham, WA 98225-9103  
-Internet: [rgmc@henson.cc.wwu.edu](mailto:rgmc@henson.cc.wwu.edu)
+Internet: rgmc@henson.cc.wwu.edu
 
 * * *
 
-Date: Tue, 12 Apr 1994 13:49:51 -0500 (CDT) From:
-[KJEFFREY@CARLETON.EDU](mailto:KJEFFREY@CARLETON.EDU)
+Date: Tue, 12 Apr 1994 13:49:51 -0500 (CDT) From: KJEFFREY@CARLETON.EDU
 
 At Carleton, we have a course on historiography that is required of all junior
 history majors. Faculty members take turns teaching the course, which has been
@@ -125,16 +123,16 @@ the British Marxist tradition.
 
 Kirk Jeffrey  
 Carleton College  
-[kjeffrey@carleton.edu](mailto:kjeffrey@carleton.edu)
+kjeffrey@carleton.edu
 
 * * *
 
 Date: Tue, 12 Apr 1994 12:24:33 -0600 (CST) From: "Patrick Riordan"
-<[riordanp@MAILER.FSU.EDU](mailto:riordanp@MAILER.FSU.EDU)>
+<riordanp@MAILER.FSU.EDU>
 
 In message Mon, 11 Apr 1994 10:02:51 CDT,
 
-David Burr <[OLIVI@VTVM1.BITNET](mailto:OLIVI@VTVM1.BITNET)> writes:
+David Burr <OLIVI@VTVM1.BITNET> writes:
 
 Last year I taught our required Methods course for the first time. [Halfway
 through,] I threw the rest of the syllabus away and simply gave them a series
@@ -162,13 +160,12 @@ the good work.
      Patrick Riordan                                       Ph.D. Candidate
      1717 Old Fort Dr.                               Department of History
      Tallahassee FL 32301                         Florida State University
-     904-656-6552 (voice and data)              [riordanp@mailer.cc.fsu.edu](mailto:riordanp@mailer.cc.fsu.edu)
+     904-656-6552 (voice and data)              riordanp@mailer.cc.fsu.edu
     
 
 * * *
 
-Date: Thu, 14 Apr 1994 15:55:22 -0500 (CDT) From:
-[KJEFFREY@CARLETON.EDU](mailto:KJEFFREY@CARLETON.EDU)
+Date: Thu, 14 Apr 1994 15:55:22 -0500 (CDT) From: KJEFFREY@CARLETON.EDU
 
 In reply to Elizabeth Ruth Dale's query of April 12 about Carleton's required
 historiography course for junior history majors, I would say that the primary
@@ -215,14 +212,13 @@ the department, mostly non-Europeanists, take their turn as instructors.
 
 Kirk Jeffrey  
 Carleton College  
-[kjeffrey@carleton.edu](mailto:kjeffrey@carleton.edu)
+kjeffrey@carleton.edu
 
 * * *
 
 Date: Thu, 14 Apr 1994 14:25:14 +0100  
-From: M. Haynes <[le1958@ccub.wlv.ac.uk](mailto:le1958@ccub.wlv.ac.uk)>
-University of Wolverhampton UK  
-[le1958@ccub.wlv.ac.uk](mailto:le1958@ccub.wlv.ac.uk)
+From: M. Haynes <le1958@ccub.wlv.ac.uk> University of Wolverhampton UK  
+le1958@ccub.wlv.ac.uk
 
 It seems to me that a lot depends on the level of the course. When I started
 teaching many years I was a great enthusiast for bringing in historiography at
@@ -338,8 +334,7 @@ beginning History majors to graduate students all love it. Good luck.
 
 Ken Wolf, Department of History  
 Murray State University  
-Murray, KY 42071 (502) 762-6582 or 762-2232 e-mail
-<[A23211f@MSUMUSIC.Bitnet](mailto:A23211f@MSUMUSIC.Bitnet)>
+Murray, KY 42071 (502) 762-6582 or 762-2232 e-mail  <A23211f@MSUMUSIC.Bitnet>
 
 * * *
 
@@ -364,8 +359,7 @@ Elon College
 
 * * *
 
-Date: Thu, 20 Oct 1994 09:39:10 -0500 (CDT) From:
-[KJEFFREY@carleton.edu](mailto:KJEFFREY@carleton.edu)
+Date: Thu, 20 Oct 1994 09:39:10 -0500 (CDT) From: KJEFFREY@carleton.edu
 
 Another book on recent developments in historical thought to consider with
 Novick's _That Noble Dream_ is the new book by Joyce Appleby, Lynn Hunt, and
@@ -392,7 +386,7 @@ Haskell also suggests that Novick's definition of objectivity is peculiar, not
 the one that in fact reigns among practicing historians.
 
 Kirk Jeffrey  
-[kjeffrey@carleton.edu](mailto:kjeffrey@carleton.edu)
+kjeffrey@carleton.edu
 
 * * *
 
@@ -434,7 +428,7 @@ Manhattan, KS 66506
     
     
     Date:          Tue, 1 Nov 1994 09:44:53 -0600 (CST)
-    From:          Kristin Eldyss Sorensen Zapalac <[kzapalac@artsci.wustl.edu](mailto:kzapalac@artsci.wustl.edu)>
+    From:          Kristin Eldyss Sorensen Zapalac <kzapalac@artsci.wustl.edu>
     
 
 Barbara --
@@ -470,7 +464,7 @@ tradition where necessary. And always, always, to emphasize perspective.
 Kris Zapalac  
 History  
 Washington University in St Louis  
-[kzapalac@artsci.wustl.edu](mailto:kzapalac@artsci.wustl.edu)
+kzapalac@artsci.wustl.edu
 
 PS. I taught with an anthropologist (another course) last year and was
 astonished to hear him use the term "primitive" without discussion or
@@ -480,7 +474,7 @@ analysis.... Hope this helps.
     
     
     Date:          Sat, 29 Oct 1994 22:58:07 -0500
-    From:          [Barbara.T.Norton@cyber.Widener.EDU](mailto:Barbara.T.Norton@cyber.Widener.EDU)
+    From:          Barbara.T.Norton@cyber.Widener.EDU
     Subject:      Presentism in students
     
 
@@ -494,7 +488,7 @@ ideas of the ancient and medieval worlds? Reminding my classes about their
 that will drive the point home?
 
 Barbara T. Norton  
-([barbara.t.norton@cyber.widener.edu](mailto:barbara.t.norton@cyber.widener.edu))
+(barbara.t.norton@cyber.widener.edu)
 
 * * *
     
@@ -507,7 +501,7 @@ Barbara T. Norton
     
     
     Date:          1 Nov 1994 02:33:31 U
-    From:          "Lucy Moye" <[lucy.moye@ac.hillsdale.edu](mailto:lucy.moye@ac.hillsdale.edu)>
+    From:          "Lucy Moye" <lucy.moye@ac.hillsdale.edu>
     
 
 I, too, have been pagued and disturbed by my students' recurring assertions
@@ -543,13 +537,13 @@ them to think correctly?
 
 Lucy Moye  
 Hillsdale College  
-[lucy.moye@ac.hillsdale.edu](mailto:lucy.moye@ac.hillsdale.edu)
+lucy.moye@ac.hillsdale.edu
 
 * * *
     
     
     Date:          Tue, 1 Nov 1994 20:02:11 -0500
-    From:          [DKLewis@aol.com](mailto:DKLewis@aol.com)
+    From:          DKLewis@aol.com
     
 
 This problem is a bit easier for us teaching the modern era. The Western faith
@@ -585,13 +579,12 @@ real point of confusion for some. Have I helped any?
 
 Ken Wolf, Department of History  
 Murray State University  
-Murray, KY 42071 (502) 762-6582 or 762-2232 e-mail
-<[A23211f@MSUMUSIC.Bitnet](mailto:A23211f@MSUMUSIC.Bitnet)>
+Murray, KY 42071 (502) 762-6582 or 762-2232 e-mail <A23211f@MSUMUSIC.Bitnet>
 
 * * *
 
 Date: Fri, 4 Nov 1994 17:24:05 -0500 (EST) From: Prof Chris Hamel
-<[chamel@hawk.anselm.edu](mailto:chamel@hawk.anselm.edu)>
+<chamel@hawk.anselm.edu>
 
 Jody:
 
@@ -607,8 +600,7 @@ Chris Hamel
 * * *
 
 Date: Sun, 26 Feb 95 14:01 EST  
-From: lr20
-<[Leslie_S_ROWLAND@umail.umd.edu](mailto:Leslie_S_ROWLAND@umail.umd.edu)>
+From: lr20 <Leslie_S_ROWLAND@umail.umd.edu>
 
 My department's undergraduate committee is discussing the possibility of
 creating a required course for history majors on the methods and skills of
@@ -644,7 +636,7 @@ have ever taught (or taken) such a course. Syllabi and/or reading lists would
 be particularly helpful. If you do not think your responses would interest the
 whole list, send directly to me (Leslie Rowland):
 
-e-mail: [lr20@umail.umd.edu](mailto:lr20@umail.umd.edu)
+e-mail: lr20@umail.umd.edu
 
 regular mail: Department of History, University of Maryland, College Park MD
 20742
@@ -652,7 +644,7 @@ regular mail: Department of History, University of Maryland, College Park MD
 * * *
 
 Date: Sun, 26 Feb 95 17:26:47 EST  
-From: [SMUMM@VM2.YorkU.CA](mailto:SMUMM@VM2.YorkU.CA)
+From: SMUMM@VM2.YorkU.CA
 
 We've been developing a course at York for second year students, tentatively
 entitled The Historian's Craft. It is designed to provide a framework in which
@@ -670,7 +662,7 @@ York U, Toronto
 * * *
 
 Date: Mon, 27 Feb 1995 10:33:56 -0500 (EST) From: MAJ Robert G Baker
-<[rbaker@norfolk.nadn.navy.mil](mailto:rbaker@norfolk.nadn.navy.mil)>
+<rbaker@norfolk.nadn.navy.mil>
 
 **AT THE US NAVAL ACADEMY WE DO THIS IN THE SOPHOMORE YEAR (EITHER 1ST OR**
 **SECOND SEMESTER) THE COURSE IS CALLED HH262--PERSPECTIVES IN HISTORY. IT**
@@ -682,13 +674,12 @@ Date: Mon, 27 Feb 1995 10:33:56 -0500 (EST) From: MAJ Robert G Baker
 **AFRICA; HISTORY OF THE US MARINE CORPS; TRADITION AND REVOLUTION IN MODERN**
 **CHINA. EACH SEMINAR IS LED BY A DIFFERENT PROF.**
 
-[RBAKER@NORFOLK.NADN.NAVY.MIL](mailto:RBAKER@NORFOLK.NADN.NAVY.MIL)
+RBAKER@NORFOLK.NADN.NAVY.MIL
 
 * * *
 
 Date: Sun, 26 Feb 95 14:01 EST  
-From: lr20
-<[Leslie_S_ROWLAND@umail.umd.edu](mailto:Leslie_S_ROWLAND@umail.umd.edu)>
+From: lr20  <Leslie_S_ROWLAND@umail.umd.edu>
 
 My department's undergraduate committee is discussing the possibility of
 creating a required course for history majors on the methods and skills of
@@ -721,22 +712,20 @@ proper size for such a course. How large can it be > and still be effective? >
 > have ever taught (or taken) such a course. Syllabi and/or reading lists
 would > be particularly helpful. If you do not think your responses would
 interest > the whole list, send directly to me (Leslie Rowland): > > e-mail:
-[lr20@umail.umd.edu](mailto:lr20@umail.umd.edu) > > regular mail: Department
-of History, University of Maryland, College Park > MD 20742 > > Editor's note:
-please do consider sending responses to the whole list: > this sounds a topic
-very much of interest to H-Teach members. SWTucker
+lr20@umail.umd.edu > > regular mail: Department of History, University of
+Maryland, College Park > MD 20742 > > Editor's note: please do consider
+sending responses to the whole list: > this sounds a topic very much of
+interest to H-Teach members. SWTucker
 
 * * *
 
 Date: Mon, 27 Feb 1995 09:51:28 -0600  
-From: Owen Duncan
-<[duncano@storm.simpson.edu](mailto:duncano@storm.simpson.edu)>
+From: Owen Duncan <duncano@storm.simpson.edu>
 
 Re previous post:
 
 Date: Sun, 26 Feb 95 14:01 EST  
-From: lr20
-<[Leslie_S_ROWLAND@umail.umd.edu](mailto:Leslie_S_ROWLAND@umail.umd.edu)>
+From: lr20 <Leslie_S_ROWLAND@umail.umd.edu>
 
 My department's undergraduate committee is discussing the possibility of
 creating a required course for history majors on the methods and skills of
@@ -756,12 +745,11 @@ course in methodology.
 
 Owen Duncan  
 Simpson College  
-[duncano@storm.simpson.edu](mailto:duncano@storm.simpson.edu)
+duncano@storm.simpson.edu
 
 * * *
 
-Date: Mon, 27 Feb 1995 11:08:30 -0500 (EST) From:
-[00aoedmonds@bsuvc.bsu.edu](mailto:00aoedmonds@bsuvc.bsu.edu)
+Date: Mon, 27 Feb 1995 11:08:30 -0500 (EST) From: 00aoedmonds@bsuvc.bsu.edu
 
 To those looking for info on history methods courses, try the most recent
 issue of the OAH Department Chairs _Newsletter_. I edited the issue on just
@@ -772,8 +760,7 @@ Tony Edmonds, History, Ball State U
 * * *
 
 Date: Mon, 27 Feb 95 10:58:52 EST  
-From: Randy Patton
-<[rpatton@kscmail.Kennesaw.Edu](mailto:rpatton@kscmail.Kennesaw.Edu)>
+From: Randy Patton  <rpatton@kscmail.Kennesaw.Edu>
 
 Here at Kennesaw State College, all history and history education majors are
 required to take, hopefully by the end of their sophomore year, "History 275:
@@ -795,7 +782,7 @@ Randy Patton
 * * *
 
 Date: Mon Feb 27 09:28:31 CST 1995  
-From: [mforet@uwspmail.uwsp.edu](mailto:mforet@uwspmail.uwsp.edu)
+From: mforet@uwspmail.uwsp.edu
 
 My colleague Eric Yonke and I are also in the process of developing an
 introductory course for history majors, to be taken in the sophomore year, and
@@ -824,12 +811,12 @@ for doing this.
 
 Michael Foret  
 University of Wisconsin-Stevens Point  
-[mforet@uwspmail.uwsp.edu](mailto:mforet@uwspmail.uwsp.edu)
+mforet@uwspmail.uwsp.edu
 
 * * *
 
 Date: Mon, 27 Feb 1995 22:42:05 -0500  
-From: Daniel Klenbort <[klenbort@halcyon.com](mailto:klenbort@halcyon.com)>
+From: Daniel Klenbort <klenbort@halcyon.com>
 
 Re previous posts including:  
 I do not have the experience requested, but I have considered such a course
@@ -841,22 +828,21 @@ course in methodology.
 
 Owen Duncan  
 Simpson College  
-[duncano@storm.simpson.edu](mailto:duncano@storm.simpson.edu)
+duncano@storm.simpson.edu
 
 I also have no experience teaching such a course, but I have used bits of the
 above Furay and Salevouris in history majors' class and find it helpful.
 
-Daniel Klenbort, Morehouse College
-[Klenbort@Halcyon.com](mailto:Klenbort@Halcyon.com) "Never argue with a man
-who is convinced the earth is flat. You have thought about why it is round for
-maybe five minutes. He spends every waking minute thinking up arguments that
-it is flat and, he believes if only he could convince everyone, then the
+Daniel Klenbort, Morehouse College Klenbort@Halcyon.com "Never argue with a
+man who is convinced the earth is flat. You have thought about why it is round
+for maybe five minutes. He spends every waking minute thinking up arguments
+that it is flat and, he believes if only he could convince everyone, then the
 problems of the world would be solved" Bud Foote
 
 * * *
 
 Date: Tue, 28 Feb 1995 1:01 pm EST (18:01:17 UT) From: George C. Browder
-<[BROWDER@fredonia.edu](mailto:BROWDER@fredonia.edu)>
+<BROWDER@fredonia.edu>
 
 At SUNY Fredonia, we have been using the Fury and Salevouris Workbook for
 several years in a sophomore methods course, and it has been very successful
@@ -866,7 +852,7 @@ until they have mastered it, but usually appreciated thereafter.
 * * *
 
 Date: Tue, 28 Feb 1995 11:03:51 -0800 (PST) From: Robert Cherny
-<[cherny@mercury.sfsu.edu](mailto:cherny@mercury.sfsu.edu)>
+<cherny@mercury.sfsu.edu>
 
 [Re previous post, exerpts to follow:]
 
@@ -971,8 +957,7 @@ reported to the University disciplinary officer.
 
 Office Hours and Related Information:  
 Office hours: 3:30-5:00 p.m., Mon. and Wed.; noon-1:45 p.m., Tue. Office:
-Psychology 411 Office phone: 338-7561 E-mail:
-[cherny@sfsu.edu](mailto:cherny@sfsu.edu)  
+Psychology 411 Office phone: 338-7561 E-mail: cherny@sfsu.edu  
 Call me to arrange other times; if I'm not there, leave a message. I'll
 probably call back during my office hours, so leave a number where you can be
 reached at those times. If you want to leave a written message for me, do not

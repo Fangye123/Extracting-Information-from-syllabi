@@ -9,7 +9,7 @@ Class Hours: T Th 4:00-5:15
 Prof. Ilya Vinitsky  
 Office: 1417 CL  
 Office Hours: M W 12:00 pm -1:00 pm  
-E-mail: [ilv1@pitt.edu](mailto:ilv1@pitt.edu)
+E-mail: ilv1@pitt.edu
 
 ![\[Image of Rublev's
 Redeemer\]](http://clover.slavic.pitt.edu/~tales/images/redeemer-rublev.jpg)
@@ -94,10 +94,10 @@ Final Exam: 30%
 Students are responsible for familiarizing themselves thoroughly with the
 university policy of academic integrity and for adhering to it. The rules are
 spelled out in the University's Academic Integrity _Policies_ (Policy
-02-03-03, <http://www.pitt.edu/HOME/PP/policies/02/02-03-03.html>) and
+02-03-03, http://www.pitt.edu/HOME/PP/policies/02/02-03-03.html) and
 _Procedures_ regarding cheating, plagiarism, etc. (Procedure 02-03-03,
-<http://www.pitt.edu/HOME/PP/procedures/02/02-03-03.html>). _Academic
-dishonesty will result in course failure!_
+http://www.pitt.edu/HOME/PP/procedures/02/02-03-03.html). _Academic dishonesty
+will result in course failure!_
 
 ### IX. Special Problems
 

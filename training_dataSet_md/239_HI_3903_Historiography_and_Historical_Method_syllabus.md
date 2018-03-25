@@ -10,7 +10,7 @@ Time: 2:00-4:30 p.m., Mondays
 
 Room: 253 Allen Hall
 
-Instructor: [Dr. Richard V. Damms](http://www2.msstate.edu/~rdamms)
+Instructor: Dr. Richard V. Damms
 
 Office: 234 Allen Hall
 
@@ -19,7 +19,7 @@ Office Telephone: 325-7086 (Voice Mail)
 Office Hours: MWF, 10:00-10:50 a.m., and by appointment ( **unavailable
 Tuesdays and Thursdays** )
 
-E-Mail: [rdamms@ra.msstate.edu](mailto:rdamms@ra.msstate.edu)
+E-Mail: rdamms@ra.msstate.edu
 
 Course Web Page: www2.msstate.edu/~rdamms/historiography.htm
 
@@ -51,16 +51,14 @@ result in a one letter grade reduction of the participation grade for each
 absence. Persistent tardiness and failure to observe established classroom
 etiquette will not be tolerated.
 
-2\. Students will write a critical [book
-review](http://www2.msstate.edu/~rdamms/review.htm) on a book chosen in
+2\. Students will write a critical book review on a book chosen in
 consultation with the instructor. Ideally, the book will address the topic of
 the student's larger research paper. The book review will count 10% toward the
 course grade.
 
-3\. Students will produce an [annotated
-bibliography](http://www2.msstate.edu/~rdamms/annotated.htm) of at least 20
-items (books, articles, essays, etc.) on the topic of their research paper.
-The annotated bibliography will count 10% toward the course grade.
+3\. Students will produce an annotated bibliography of at least 20 items
+(books, articles, essays, etc.) on the topic of their research paper. The
+annotated bibliography will count 10% toward the course grade.
 
 4\. Students will write a major research paper of approximately 20 pages on a
 topic chosen in consultation with the instructor. The paper must be based on
@@ -127,9 +125,8 @@ David Nowak.
 **Readings** : Benjamin, chs. 4-5, Appendix A; Turabian, chs. 1-5; Storey,
 chs. 2-10.
 
-**Assignment** : One-page [paper
-proposal](http://www2.msstate.edu/~rdamms/proposal.htm) due in class (make
-copies for everyone).
+**Assignment** : One-page paper proposal due in class (make copies for
+everyone).
 
   
   
@@ -139,9 +136,8 @@ Traditions.
 
 __**Readings** : Turabian, chs. 8-9, 12; Spickard, chs. 1-7.
 
-**Assignment** : Critical [Book
-Reviews](http://www2.msstate.edu/~rdamms/review.htm) (one copy) and Oral
-Reports due in class.
+**Assignment** : Critical Book Reviews (one copy) and Oral Reports due in
+class.
 
   
   
@@ -150,9 +146,7 @@ Reports due in class.
 
 **Readings** : Spickard, chs. 8-9, 12-16; Gilderhus, ch. 2.
 
-**Assignment** : [Footnote and Bibliography
-Exercise](http://www2.msstate.edu/~rdamms/footnotes.htm) due in class (one
-copy).
+**Assignment** : Footnote and Bibliography Exercise due in class (one copy).
 
   
   
@@ -161,9 +155,8 @@ copy).
 
 **Readings** : Spickard, chs. 23, 35, 44, 56.
 
-**Assignment** : [Preliminary
-Bibliography](http://www2.msstate.edu/~rdamms/bibliography.htm) of at least 20
-items due (copies for everyone).
+**Assignment** : Preliminary Bibliography of at least 20 items due (copies for
+everyone).
 
   
   
@@ -179,9 +172,8 @@ items due (copies for everyone).
 
 **Readings** : Spickard, chs. 27-34.
 
-**Assignment** : [Annotated
-Bibliography](http://www2.msstate.edu/~rdamms/annotated.htm) Due (one copy).
-Oral progress reports on rsearch papers.
+**Assignment** : Annotated Bibliography Due (one copy). Oral progress reports
+on rsearch papers.
 
   
   
@@ -255,7 +247,7 @@ P.M.**
 
 Last updated: 11 January 2001
 
-Return to [Mississippi State University Home Page](http://www.msstate.edu)
+Return to Mississippi State University Home Page
 
-Return to [History Department Home Page](http://www.msstate.edu/dept/history/)
+Return to History Department Home Page
 

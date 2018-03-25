@@ -141,9 +141,6 @@ Wolpert, Stanley A.  _A New History of India_.
 
 * * *
 
-[![](gamecock.gif)](http://www.jsu.edu)[Go to
-JSU[![](ani_book.gif)](http://www.jsu.edu/depart/english)](http://www.jsu.edu)[Go
-to English
-Dept.[![](faceicon.gif)](index.htm)](http://www.jsu.edu/depart/english)[Go to
-EH 219 Syllabus](index.htm)
+![](gamecock.gif)Go to JSU![](ani_book.gif)Go to English
+Dept.![](faceicon.gif)Go to EH 219 Syllabus
 

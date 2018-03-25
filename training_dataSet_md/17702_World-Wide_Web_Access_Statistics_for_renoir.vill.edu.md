@@ -7,7 +7,7 @@ _Last updated: Tue, 23 Apr 1996 15:17:04 (GMT -0500)_
   * Total Transfers by Client Domain
   * Total Transfers by Reversed Subdomain
   * Total Transfers from each Archive Section
-  * [Previous Full Summary Period](http://renoir.vill.edu/logs/Jan.wwwstats.html) 
+  * Previous Full Summary Period 
 
 ## Totals for Summary Period: Feb 1 1996 to Feb 29 1996
 

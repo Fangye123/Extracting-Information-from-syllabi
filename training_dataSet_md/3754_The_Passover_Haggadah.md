@@ -1,4 +1,4 @@
-[Back ](stern.html) to David Stern. AMES 353  
+Back  to David Stern. AMES 353  
 David Stern  
 651 Williams; Tel :8-6038  
 dstern@ccat.sas.upenn.edu  

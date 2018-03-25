@@ -2,16 +2,14 @@
 
 * * *
 
-| [![](images/gld_bul2.gif)**IDE Home**](ide.html)  
+| ![](images/gld_bul2.gif)**IDE Home**  
 ---  
-![](images/blank_06.gif) | [![](images/gld_bul2.gif)**DE
-Overview**](public.html)  
-| [![](images/gld_bul2.gif)**Policy Perspectives**](policy.html)  
-| [![](images/gld_bul2.gif)**Student Information**](stdnts.html)  
-| [![](images/gld_bul2.gif)**Faculty Development**](edctrs.html)  
-[![](images/gld_bul2.gif)**UMUC Home**](http://www.umuc.edu/)  
-[![](images/gld_bul2.gif)**USM
-Home**](http://www.usmh.usmd.edu/usm/index.html)  
+![](images/blank_06.gif) | ![](images/gld_bul2.gif)**DE Overview**  
+| ![](images/gld_bul2.gif)**Policy Perspectives**  
+| ![](images/gld_bul2.gif)**Student Information**  
+| ![](images/gld_bul2.gif)**Faculty Development**  
+![](images/gld_bul2.gif)**UMUC Home**  
+![](images/gld_bul2.gif)**USM Home**  
 IDE is supported and administered by University of Maryland University College
 on behalf of the University System of Maryland  
 ![](images/blank_38.gif) |
@@ -233,7 +231,7 @@ technologies for group meetings among all enrolled students.
 
 * * *
 
-Return to [Models of Distance Education Menu](modlmenu.html)  
+Return to Models of Distance Education Menu  
   
 ---  
   
@@ -241,7 +239,6 @@ Return to [Models of Distance Education Menu](modlmenu.html)
 
 |
 
-(C) 1997 Institute for Distance Education, USM E-mail:
-[ide@info.umuc.edu](mailto:ide@info.umuc.edu)  
+(C) 1997 Institute for Distance Education, USM E-mail: ide@info.umuc.edu  
 ---|---
 

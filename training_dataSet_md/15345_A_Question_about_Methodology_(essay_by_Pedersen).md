@@ -1,15 +1,11 @@
-[![Crossroads
-logo](http://crossroads.georgetown.edu/logo_sm.gif)](http://crossroads.georgetown.edu/index.html)
-|   |
+![Crossroads logo](http://crossroads.georgetown.edu/logo_sm.gif) |   |
 
-[![Curriculum](http://crossroads.georgetown.edu/cur_sm.gif)](http://crossroads.georgetown.edu/curriculum.html)
-[![Technology &
-Learning](http://crossroads.georgetown.edu/tech_sm.gif)](http://crossroads.georgetown.edu/innovation.html)
-[![Reference &
-Research](http://crossroads.georgetown.edu/ref_sm.gif)](http://crossroads.georgetown.edu/reference.html)
+![Curriculum](http://crossroads.georgetown.edu/cur_sm.gif) ![Technology &
+Learning](http://crossroads.georgetown.edu/tech_sm.gif) ![Reference &
+Research](http://crossroads.georgetown.edu/ref_sm.gif)
 
 ![horizontal red rule](http://crossroads.georgetown.edu/redrule.gif)  
-[![Communities](http://crossroads.georgetown.edu/com.gif)](http://crossroads.georgetown.edu/community.html)
+![Communities](http://crossroads.georgetown.edu/com.gif)
 
 **Interroads Discussion List**  
 ---|---|---  
@@ -18,49 +14,30 @@ Research](http://crossroads.georgetown.edu/ref_sm.gif)](http://crossroads.george
 
 **Essay by Vernon Pedersen, American University of Bulgaria**
 
-[Interroads Table of
-Contents](http://crossroads.georgetown.edu/interroads/toc.html)
+Interroads Table of Contents
 
 **3\. This thread contains an essay by Vernon Pedersen**
 
 **Invited Responses from:**
 
-[**Blair**](http://crossroads.georgetown.edu/interroads/blair.html)
-[**Budianta**](http://crossroads.georgetown.edu/interroads/budianta.html)
-[**Mintz**](http://crossroads.georgetown.edu/interroads/mintz1.html)
-[**Stowe**](http://crossroads.georgetown.edu/interroads/stowe1.html)
+**Blair** **Budianta** **Mintz** **Stowe**
 
 **List Responses from:**
 
-[**Carner**](http://crossroads.georgetown.edu/interroads/carner1.html)
-[**Finlay**](http://crossroads.georgetown.edu/interroads/finlay1.html)
-[**Stowe**](http://crossroads.georgetown.edu/interroads/stowe2.html)
-[**Zwick**](http://crossroads.georgetown.edu/interroads/zwick1.html)
-[**Linke**](http://crossroads.georgetown.edu/interroads/linke.html)
-[**Lauter**](http://crossroads.georgetown.edu/interroads/lauter1.html)
-[**Horwitz**](http://crossroads.georgetown.edu/interroads/horwitz1.html)
-[**Lauter**](http://crossroads.georgetown.edu/interroads/lauter2.html) **(2)**
-[**Kaenel**](http://crossroads.georgetown.edu/interroads/kaenel2.html)
+**Carner** **Finlay** **Stowe** **Zwick** **Linke** **Lauter** **Horwitz**
+**Lauter** **(2)** **Kaenel**
 
-**Counterresponse from[Vernon
-Pedersen](http://crossroads.georgetown.edu/interroads/pedersen2.html)**
+**Counterresponse fromVernon Pedersen**
 
 **Postscripts from:**
 
-[**Lauter**](http://crossroads.georgetown.edu/interroads/lauter3.html)
-[**Horwitz**](http://crossroads.georgetown.edu/interroads/horwitz2.html)
-[**Stowe**](http://crossroads.georgetown.edu/interroads/stowe3.html)
-[**Morreale**](http://crossroads.georgetown.edu/interroads/morreale.html)
+**Lauter** **Horwitz** **Stowe** **Morreale**
 
 **Addenda:**
 
-Syllabus, **[The Americas: Identity, Culture and
-Power](http://crossroads.georgetown.edu/interroads/mintz2.html) (** Mintz
-**)**
+Syllabus, **The Americas: Identity, Culture and Power (** Mintz **)**
 
-Syllabus, **[Introduction to American
-Studies](http://crossroads.georgetown.edu/interroads/lauter4.html)** (Lauter)
-|
+Syllabus, **Introduction to American Studies** (Lauter) |
 
 The American University in Bulgaria (AUBG) was founded five years ago to bring
 an American style liberal arts education to central and south eastern Europe
@@ -165,21 +142,14 @@ and political discourse. Included will be Sumner, Russell Conwell, Henry
 George, Eugene Debs, Malcom X, Martin Luther King and the discursive practice
 known as "signifying." Tony Osborne
 
-Vernon Pederson American University of Bulgaria Email:
-[VERN@nws.aubg.bg](mailto:VERN@nws.aubg.bg) |  
+Vernon Pederson American University of Bulgaria Email: VERN@nws.aubg.bg |  
 ---|---|---  
   
 * * *
 
-[Communities](http://crossroads.georgetown.edu/community.html) |
-[Curriculum](http://crossroads.georgetown.edu/curriculum.html) | [Technology &
-Learning](http://crossroads.georgetown.edu/innovation.html) | [Reference &
-Research](http://crossroads.georgetown.edu/reference.html)  
-[Crossroads home page](http://crossroads.georgetown.edu/index.html) | [About
-Crossroads](http://crossroads.georgetown.edu/about.html) | [What's
-New](http://crossroads.georgetown.edu/new.html) | [Visitors'
-Book](http://crossroads.georgetown.edu/visitor.html)
+Communities | Curriculum | Technology & Learning | Reference & Research  
+Crossroads home page | About Crossroads | What's New | Visitors' Book
 
-This section last updated September 1997. Please send comments to [Crossroads
-Webstaff](mailto:cepacs@guvax.georgetown.edu).  
+This section last updated September 1997. Please send comments to Crossroads
+Webstaff.  
 

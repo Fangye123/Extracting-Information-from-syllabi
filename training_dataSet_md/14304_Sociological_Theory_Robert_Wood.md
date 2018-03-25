@@ -113,9 +113,8 @@ of the social universe" to look like.
 >> 3) A third issue involves the fact that August Comte originally coined the
 term "social physics" for sociology.  What was the significance of this?
 
-![](kuhn.jpg) | Robert Wood, [**An Introduction to Thomas Kuhn, _ _The
-Structure of Scientific Revolution__ (1962)**](http://camden-
-nt1.rutgers.edu/wood/kuhn.htm)  
+![](kuhn.jpg) | Robert Wood, **An Introduction to Thomas Kuhn, _ _The
+Structure of Scientific Revolution__ (1962)**  
 ---|---  
   
 1\. The key thing to keep in mind when reading this summary of Kuhn's book is

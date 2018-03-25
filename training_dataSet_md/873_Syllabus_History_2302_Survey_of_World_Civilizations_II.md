@@ -107,7 +107,7 @@ Week 17 -- April 30 - May 4
     * Discuss the author's argument, the evidence used to support the thesis, theme, or purpose.  What is the author's perspective?  Is there bias (find out what this means before you discuss it)?  What is it and how does it influence the book?  How did you react to it?  What examples can you present to support your comments?  Your review must incorporate a logical, reasoned, thorough analysis of the book, not merely a reflective overview.  That won't do.
     * Discuss the ways the book enhanced or influenced your study of history.  Give examples.  What connections did you make between the context and assumptions of the author and anything related to historical developments during the time period or periods associated with the book?  There are no limits to this, so don't come asking the professor for guidance as to "just exactly" what he wants.
     * Discuss the readability of the book (and your own qualifications to read it), the tone and presentation of its contents, its physical features that added to or detracted from it; how, overall, do you evaluate the book, and how would you argue with or agree with the author on any number of points?
-    * As with any professional or collegiate paper: attend to spelling, punctuation, grammar, syntax.  Any faults in proper usage of English detract from communication and thus from the quality and grade of your paper.  Problems with writing?  Go to the ETBU English writing lab for help.  I also can recommend the UTEP history writing helps on the web at: <http://www.utep.edu/htc/tips/essay.htm>
+    * As with any professional or collegiate paper: attend to spelling, punctuation, grammar, syntax.  Any faults in proper usage of English detract from communication and thus from the quality and grade of your paper.  Problems with writing?  Go to the ETBU English writing lab for help.  I also can recommend the UTEP history writing helps on the web at: http://www.utep.edu/htc/tips/essay.htm
     * Do not cover your paper.  A cover sheet is adequate.  Staple rather than paper clip your paper.  The paper must be submitted on time, or be subject to one full grade point reduction per day it's late.  There will be no exceptions.  The paper is due at the beginning of the class period on the date due.  Cyberexcuses at the last minute will gain no sympathy.  You must be responsible.  The paper may be submitted early.
 
 **Course Evaluation**  
@@ -121,8 +121,7 @@ Points and Grades (800 = 100%)  | 810> = A
 540> = D  
 <540 = F  
 ---|---  
-   Top  |   [Courses](coursess99.htm)  |   [ETBU Home](www.etbu.edu/)  |
-[Summers Home](default.html)  
+   Top  |   Courses  |   ETBU Home  |   Summers Home  
 ---|---|---|---  
 
 

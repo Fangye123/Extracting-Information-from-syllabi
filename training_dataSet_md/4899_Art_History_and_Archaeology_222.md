@@ -221,51 +221,37 @@ Medieval Times_ , Part One, pp. 17-116.
 
 >>
 
->>   * [ General
-Chronology](http://www.missouri.edu/~ahawb/AHA222/GeneralChronology.html)
+>>   * General Chronology
 
->>   * [ The Pyramids](http://www.missouri.edu/~ahawb/AHA222/Pyramids.html)
+>>   * The Pyramids
 
->>   * [ Greek
-Construction](http://www.missouri.edu/~ahawb/AHA222/GreekConstruction.html)
+>>   * Greek Construction
 
->>   * [Greek Construction
-II](http://www.missouri.edu/~ahawb/AHA222/GreekConstrII.html)
+>>   * Greek Construction II
 
->>   * [Greek Construction
-III](http://www.missouri.edu/~ahawb/AHA222/GreekConstrIII.html)
+>>   * Greek Construction III
 
->>   * [Roman Architecture
-I](http://www.missouri.edu/~ahawb/AHA222/RomanArch.html)
+>>   * Roman Architecture I
 
->>   * [Roman Architecture
-II](http://www.missouri.edu/~ahawb/AHA222/RomArchII.html)
+>>   * Roman Architecture II
 
->>   * [Roman Architecture
-III](http://www.missouri.edu/~ahawb/AHA222/RomArchIII.html)
+>>   * Roman Architecture III
 
->>   * [Power and Pumps](http://www.missouri.edu/~ahawb/AHA222/PwrPmps.html)
+>>   * Power and Pumps
 
->>   * [Military
-Technology](http://www.missouri.edu/~ahawb/AHA222/MilitaryTechnology.html)
+>>   * Military Technology
 
->>   * [Ships and Sailing
-I](http://www.missouri.edu/~ahawb/AHA222/ShipsSailingI.html)
+>>   * Ships and Sailing I
 
->>   * [Ships and Sailing
-II](http://www.missouri.edu/~ahawb/AHA222/ShipsSailingII.html)
+>>   * Ships and Sailing II
 
->>   * [Time and
-Inventions](http://www.missouri.edu/~ahawb/AHA222/TimeInventions.html)
+>>   * Time and Inventions
 
->>   * [Greek & Roman Crafts I: Metal Work &
-Minting](http://www.missouri.edu/~ahawb/AHA222/CraftsI.html)
+>>   * Greek & Roman Crafts I: Metal Work & Minting
 
->>   * [Greek & Roman Crafts II:
-Pottery](http://www.missouri.edu/~ahawb/AHA222/CraftsII.html)
+>>   * Greek & Roman Crafts II: Pottery
 
->>   * [Greek & Roman (& Egyptian) Crafts III:
-Weaving](http://www.missouri.edu/~ahawb/AHA222/CraftsIII.html)
+>>   * Greek & Roman (& Egyptian) Crafts III: Weaving
 
 >>
 
@@ -397,22 +383,18 @@ these students.
 
 >>
 
->>     * [ARCHNET](http://spirit.lib.uconn.edu/archaeology.html)
+>>     * ARCHNET
 
->>     * [ROMARCH](http://www-personal.umich.edu/~pfoss/ROMARCH.html) \- Roman
-Archaeology
+>>     * ROMARCH \- Roman Archaeology
 
->>     * [The Ancient City of
-Athens](http://www.indiana.edu/~kglowack/Athens/Athens.html) \- lots of
-pictures!
+>>     * The Ancient City of Athens \- lots of pictures!
 
->>     * [Archaeology Magazine](http://www.he.net/~archaeol/index.html)
+>>     * Archaeology Magazine
 
->>     * The University of Michigan's [Classics and Mediterranean Archaeology
-Homepage](http://rome.classics.lsa.umich.edu/welcome.html) \- very extensive.
+>>     * The University of Michigan's Classics and Mediterranean Archaeology
+Homepage \- very extensive.
 
->>     * [Underwater
-Archaeology](http://fiat.gslis.utexas.edu:80/~trabourn/underwater.html)
+>>     * Underwater Archaeology
 
 >>
 

@@ -36,9 +36,9 @@ Work: 628-4930
 Home: 724-1519  
 **email: Office**
 
-**Home** | [mscheibe@proctor.k12.mn.us](mailto:mscheibe@proctor.k12.mn.us)
+**Home** | mscheibe@proctor.k12.mn.us
 
-[dunmullen@aol.com](mailto:dunmullen@aol.ciom)  
+dunmullen@aol.com  
   
 **Credits:**
 
@@ -301,7 +301,6 @@ reflections, activities etc. during this time.
 
 **770**  
   
-[![EDU 5565 Home
-Page](home1.gif)](http://www.css.edu/depts/edu/EDU5565/HRhomeopenS01.htm)  
-**[EDU 5565 Home Page](http://www.css.edu/depts/edu/edu5565/hrhomeopen.htm)**
+![EDU 5565 Home Page](home1.gif)  
+**EDU 5565 Home Page**
 

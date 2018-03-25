@@ -1,6 +1,6 @@
 ## History of Mathematics Syllabus
 
-(For a more detailed syllabus, see [this](syll.html).)
+(For a more detailed syllabus, see this.)
 
 What are we going to study this semester? Why, the history of mathematics, of
 course! But what does that encompass? Too much for a semester, for one thing.
@@ -35,16 +35,15 @@ but you can already see that the subject we're considering is pretty big.
 
 The next thing we'll look at is Greek mathematics. You could spend the rest of
 your life on it, but we'll condense it into a month. In 300 years, from the
-time of Thales (ca. 600 B.C.E.) to the time of
-[Euclid](http://aleph0.clarku.edu/~djoyce/java/elements/Euclid.html) (ca. 300
-B.C.E.), mathematics changed from an empirical subject to a theoretical one.
-How did that happen? That's a big question, and, because so few original (or
-even secondary) sources exist, we can't expect to answer it satisfactorily.
-But we can look at some of that mathematics, especially Euclid's. Truly
-marvelous stuff. It's fully developed mathematics, in the modern sense of the
-word "mathematics." Most of it is very interesting geometry, but there's a
-fair amount of number theory and some very abstract algebra (Eudoxus' theory
-of proportion). We'll spend quite a bit of time on chapter 2.
+time of Thales (ca. 600 B.C.E.) to the time of Euclid (ca. 300 B.C.E.),
+mathematics changed from an empirical subject to a theoretical one. How did
+that happen? That's a big question, and, because so few original (or even
+secondary) sources exist, we can't expect to answer it satisfactorily. But we
+can look at some of that mathematics, especially Euclid's. Truly marvelous
+stuff. It's fully developed mathematics, in the modern sense of the word
+"mathematics." Most of it is very interesting geometry, but there's a fair
+amount of number theory and some very abstract algebra (Eudoxus' theory of
+proportion). We'll spend quite a bit of time on chapter 2.
 
 After Euclid, the Greeks ("Hellenistic culture" might be a better term, since
 much of it occurs outside Greece, but all in the Greek language) developed
@@ -87,5 +86,5 @@ and that's just what I try to do in the other courses I teach.
 
 ![](rule.gif)
 
-[Back to course page](index.html)
+Back to course page
 

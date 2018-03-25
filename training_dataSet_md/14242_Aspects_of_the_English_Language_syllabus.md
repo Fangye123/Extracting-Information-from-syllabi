@@ -90,17 +90,16 @@ class on time and ready to work, to check your e-mail and the online forum for
 announcements, and to turn in neatly typed, carefully edited assignments on
 time. Please note that I will not accept late assignments except in the case
 of personal incapacitation, a death in the family, or an advance arrangement
-with me. For tips on improving your study habits, see [Be Your
-Best](../../best/bestset.htm). |
+with me. For tips on improving your study habits, see Be Your Best. |
 
 Fall 1999 * 149 Dial * 8-8:50 MWF
 
-[**Professor Mark Canada**](../../markwork.htm)  
+**Professor Mark Canada**  
 118 Dial, 521-6431  
-[University of North Carolina at Pembroke](http://www.uncp.edu/)  
-[canada@sassette.uncp.edu](mailto:CANADA@sassette.uncp.edu)  
-[www.uncp.edu/home/canada  
-](../../../index.htm)Office Hours: 9:15-10:15 MTWRF
+University of North Carolina at Pembroke  
+canada@sassette.uncp.edu  
+www.uncp.edu/home/canada  
+Office Hours: 9:15-10:15 MTWRF
 
 ###
 
@@ -110,63 +109,51 @@ Schedule
 
 **History of English**
 
-**August 18** : [Be Your Best](../../best/bestset.htm) **  
-August 20** : [Proto-Indo-
-European](../../../alleng/history/indoeuro/indoeuro.htm)  
-**August 23** : [Old English](../../../alleng/history/oldeng/oldeng.htm)  
-**August 25** : [Old English](../../../alleng/history/oldeng/oldeng.htm)  
-**August 27** : [Research](../../best/writing/research.htm)  
-**August 30** : [Middle English](../../../alleng/history/mideng/mideng.htm)  
-**September 1** : [Middle English](../../../alleng/history/mideng/mideng.htm)  
-**September 3** : [Early Modern
-English](../../../alleng/history/modeng/modeng.htm)  
+**August 18** : Be Your Best **  
+August 20** : Proto-Indo-European  
+**August 23** : Old English  
+**August 25** : Old English  
+**August 27** : Research  
+**August 30** : Middle English  
+**September 1** : Middle English  
+**September 3** : Early Modern English  
 **September 6** : No class (Labor Day)  
-**September 8** : [Early Modern
-English](../../../alleng/history/modeng/modeng.htm)  
-**September 10** : [Modern English](../../../alleng/history/modeng/modeng.htm)  
-**September 13** : [World English](../../../alleng/history/modeng/modeng.htm)
+**September 8** : Early Modern English  
+**September 10** : Modern English  
+**September 13** : World English
 
 **Structure of English**
 
-**September 15** : [Lexicon](../../../alleng/lexicon/lexicon.htm)  
-**September 17** : [Lexicon](../../../alleng/lexicon/lexicon.htm)  
-**September 20** : [Lexicon](../../../alleng/lexicon/lexicon.htm)  
-**September 22** : [Lexicon](../../../alleng/lexicon/lexicon.htm)  
-**September 24** : [Lexicon](../../../alleng/lexicon/lexicon.htm)  
-**September 27** : [Lexicon](../../../alleng/lexicon/lexicon.htm)  
-**September 29** : [Grammar](../../../alleng/grammar/grammar.htm)  
-**October 1** : [Grammar](../../../alleng/grammar/grammar.htm)  
-**October 4** : [Grammar](../../../alleng/grammar/grammar.htm)  
-**October 6** : [Grammar](../../../alleng/grammar/grammar.htm)  
-**October 8** : [Grammar](../../../alleng/grammar/grammar.htm)  
-**October 11** : [Phonology](../../../alleng/phono/phono.htm)  
-**October 13** : [Phonology](../../../alleng/phono/phono.htm)  
+**September 15** : Lexicon  
+**September 17** : Lexicon  
+**September 20** : Lexicon  
+**September 22** : Lexicon  
+**September 24** : Lexicon  
+**September 27** : Lexicon  
+**September 29** : Grammar  
+**October 1** : Grammar  
+**October 4** : Grammar  
+**October 6** : Grammar  
+**October 8** : Grammar  
+**October 11** : Phonology  
+**October 13** : Phonology  
 **October 15** : No class (fall break)
 
-[**Sociolinguistics**](../../../alleng/sociling/sociling.htm)
+**Sociolinguistics**
 
 **October 18** : Semantics  
-**October 20** : [Writing](../../../alleng/books/books.htm)  
-**October 22** : [Writing](../../../alleng/books/books.htm)  
-**October 25** :
-[Dialect](http://www.uncp.edu/home/canada/work/allam/1914-/language/dialect.htm)  
-**October 27** :
-[Dialect](http://www.uncp.edu/home/canada/work/allam/1914-/language/dialect.htm)  
-**October 29** :
-[Dialect](http://www.uncp.edu/home/canada/work/allam/1914-/language/dialect.htm)  
-**November 1** :
-[Slang](http://www.uncp.edu/home/canada/work/allam/1914-/language/slang.htm)  
-**November 3** :
-[Register](http://www.uncp.edu/home/canada/work/allam/1914-/language/register.htm)  
-**November 5** :
-[Slang](http://www.uncp.edu/home/canada/work/allam/1914-/language/slang.htm)
-and
-[register](http://www.uncp.edu/home/canada/work/allam/1914-/language/register.htm)  
-**November 8** :
-[Jargon](http://www.uncp.edu/home/canada/work/allam/1914-/language/jargon.htm)  
+**October 20** : Writing  
+**October 22** : Writing  
+**October 25** : Dialect  
+**October 27** : Dialect  
+**October 29** : Dialect  
+**November 1** : Slang  
+**November 3** : Register  
+**November 5** : Slang and register  
+**November 8** : Jargon  
 **November 10-12** : Sociolinguistics review
 
-[**Psycholinguistics**](../../../alleng/psyling/psyling.htm)
+**Psycholinguistics**
 
 **November 15** : Language acquisition  
 **November 17** : Language acquisition  
@@ -242,15 +229,14 @@ quizzes.
 
 ### World Wide Web Page (20 points)
 
-Please visit _[All American: Literature, History, and
-Culture](../../../allam/allam.htm)_ , a World Wide Web site that I have
-created with the help of my students, and become familiar with this site's
-content and format. In this assignment, your group will create an individual
-Web page for possible publication on _All American_. This page, which you
-should aim at readers with little or no knowledge of linguistics, will provide
-a thorough introduction to one of the following aspects of American English:
-dialect, taboo, euphemism, slang, register, or jargon. Your group's page
-should include the following elements:
+Please visit _All American: Literature, History, and Culture_ , a World Wide
+Web site that I have created with the help of my students, and become familiar
+with this site's content and format. In this assignment, your group will
+create an individual Web page for possible publication on _All American_. This
+page, which you should aim at readers with little or no knowledge of
+linguistics, will provide a thorough introduction to one of the following
+aspects of American English: dialect, taboo, euphemism, slang, register, or
+jargon. Your group's page should include the following elements:
 
   * a title bar indicating the period you are covering (Colonial America, 1607-1783; Antebellum and Civil War America, 1784-1865; Postbellum America, 1866-1913; or Modern America, 1914-present);
   * a word or phrase indicating the subject you are covering in this period;
@@ -304,7 +290,6 @@ years to come. You may even want to show it to friends, parents, prospective
 employers, and--someday--grandchildren to demonstrate all that you have
 learned this semester about language and life.
 
-Updated August 17, 1999 | [University of North Carolina at Pembroke  
-](http://www.uncp.edu/)(C) [Mark Canada](../../markwork.htm), 1999 |
-[canada@sassette.uncp.edu](mailto:CANADA@sassette.uncp.edu)
+Updated August 17, 1999 | University of North Carolina at Pembroke  
+(C) Mark Canada, 1999 | canada@sassette.uncp.edu
 

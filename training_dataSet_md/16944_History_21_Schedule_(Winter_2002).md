@@ -2,9 +2,7 @@
 
 * * *
 
-[[Return to Syllabus]](21sylw02.htm) [[Benson's Home
-Page]](http://www.furman.edu/~benson/index.htm) [[On-line
-Discussions]](http://www.quicktopic.com/11/H/nVXquFxjGmwUR)
+[Return to Syllabus] [Benson's Home Page] [On-line Discussions]
 
 * * *
 
@@ -38,8 +36,7 @@ Jan. 7
 (Purple, Silver,  
 after class) | Welcome; What is Historiography? | After class read James
 Loewen, Lies Across America, Section 75, pp. 362-366, on reserve in Furman
-Library. See the [syllabus](21sylw02.htm#online) for message posting
-instructions.  
+Library. See the syllabus for message posting instructions.  
 Jan. 8  
 (Purple, before class) | Recent Historiographical Trends | **Tindall and Shi
 (T & S), America**, xix-xxii; **Davidson & Lytle (D & L)**., After the Fact,
@@ -51,8 +48,8 @@ Jan. 11 (S) | Colonial Cultural Regions | T & S, 54-95
 Week Three:  
 Jan. 14  
 | American Identity and English Empire; Discussion of Lambert, Inventing the
-Great Awakening | T & S, 105-168; **Lambert Essay Due by 8:00 p.m.** [See
-syllabus guidelines.]()  
+Great Awakening | T & S, 105-168; **Lambert Essay Due by 8:00 p.m.** See
+syllabus guidelines.  
 Jan. 15 (P) | The American Revolution | T & S, 169-193  
 Jan. 16 | Confederation and Constitution | T & S, 193-232; D & L, Chapter
 Three  
@@ -69,8 +66,7 @@ Jan. 23 | Mid-term Exam; optional review session during class time. | **Mid-
 Term Exam: 6:00 p.m.** Location T.B.A.  
 Jan. 24 (S) | Slavery and Antislavery and the Historians | T & S, 465-506  
 Jan. 25 (P) | Slavery Expansion and the Causes of Civil War | T & S, 431-464,
-507-544; [ Mississippi Secession
-Declaration](http://members.aol.com/jfepperson/reasons.html#Mississippi)  
+507-544;  Mississippi Secession Declaration  
 Week Five:  
 Jan. 28 (S,P) | The Civil War Experience; discussion of Watkins | **Discuss
 Watkins, Company Aytch**; T & S, 545-622 (the textbook reading for today is
@@ -78,10 +74,9 @@ optional)
 Jan. 29 (S) | Reconstruction and Gilded Age Regions | T & S, 593-674; D & L,
 Chapter Seven  
 Jan. 30 (P) | The New Industrial America and Worker Rights | T & S, 675-708;
-*[Knights of Labor
-Broadside](http://www.chicagohistory.org/hadc/visuals/V0010.htm);  
-*[Manifesto of the International Working Peoples' Association](http://flag.blackened.net/ksl/bullet22.htm); [   
-*Josiah Strong, Our Country, "Perils--Socialism," excerpts](http://www.furman.edu/~benson/docs/jstrongperils.htm)  
+*Knights of Labor Broadside;  
+*Manifesto of the International Working Peoples' Association;    
+*Josiah Strong, Our Country, "Perils--Socialism," excerpts  
 Jan. 31 (S) | Immigrants, Cities, and the new Social Theories | T & S,
 708-722; 735-751; D & L, Chapter Eight  
 Feb. 1 (P) | Populism | T & S, 752-786, 823-855  

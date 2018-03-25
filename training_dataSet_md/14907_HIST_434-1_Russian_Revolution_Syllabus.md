@@ -9,7 +9,7 @@ Meeting time and place: MW 3:30-4:45 p.m. DU 418
 Office address/phone: Zulauf 702, 753-6821 (voice mail)  
 Office hours: MW 1:00-3:00 p.m.;TH 1:30-3:00 p.m.; F 11:30 a.m. - 1:00 p.m.;
 and by appt.  
-Email: [worobec@niu.edu](mailto:worobec@niu.edu)
+Email: worobec@niu.edu
 
 **_CourseDescription:_**
 

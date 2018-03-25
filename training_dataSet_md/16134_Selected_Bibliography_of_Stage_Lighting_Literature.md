@@ -86,13 +86,11 @@
 
   * Watson, Lee. **_Lighting Design Handbook_**. New York: McGraw-Hill,Inc. 1990.  
      An excellent survey of current American lighting practice. Includes units on musical (opera, dance, revues, operetta, musical comedy) and nonmusical (proscenium, arena, thrust stage, dinner theatre, avant-garde) theatre. There are additional units on photographic, concert, architectual, and industrial lighting. 
-[Stage Lighting Home Page](ldw01.htm)
+Stage Lighting Home Page
 
 * * *
 
-E-mail questions and comments to Larry Wild at [
-wildl@northern.edu](majlto:wildl@northern.edu).  
+E-mail questions and comments to Larry Wild at  wildl@northern.edu.  
 Posted: January 8, 2001  
-(C) 2001 by Larry Wild, [Northern State University](http://www.northern.edu),
-Aberdeen, SD 57401
+(C) 2001 by Larry Wild, Northern State University, Aberdeen, SD 57401
 

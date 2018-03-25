@@ -30,9 +30,9 @@ Students who don't take the exam during these period will need to obtain
 permission from the instructor,  Ms. Anne Jeffrey, and provide documentation.
 
 **  
-**[Midterm Review Sheet](AWWReview01.htm) [ ](AWWReview01.htm)
+**Midterm Review Sheet
 
-[Final Review Sheet](AWWReview02.htm)  
+Final Review Sheet  
 
 Please be aware that this syllabus is subject to change. Please be sure to
 check the 24-hr. information line (813) 974-3063 or the listserv or this
@@ -48,8 +48,8 @@ as we become aware of them.
 
 **Telephone:** 974-2360
 
-**Email:**[ajeffrey@helios.acomp.usf.edu](http://www.outreach.usf.edu/oucourses/ART4930/summer01/ajeffrey@helios.acomp.usf.edu)
-The best way to reach this instructor is by sending an email.  
+**Email:**ajeffrey@helios.acomp.usf.edu The best way to reach this instructor
+is by sending an email.  
 
 **_Telecourse Information:_**  
 **Coordinator:** Stephanie Gaskins  
@@ -57,10 +57,9 @@ The best way to reach this instructor is by sending an email.
 **Office Hours:** Monday-Thursday 8:00am- 7:00pm Friday 8:00am -5:00pm  
 **Phone:** 974-2996 (Distance Learning Student Support Services)
 
-**Email:**[sgaskins@admin.usf.edu](mailto:sgaskins@admin.usf.edu)  
+**Email:**sgaskins@admin.usf.edu  
   
-Listserv:
-[mailto:art4930@lists.acomp.usf.edu](mailto:art4930@lists.acomp.usf.edu)  
+Listserv: mailto:art4930@lists.acomp.usf.edu  
 Please type _joinart4930@lists.acomp.usf.edu_ in order to be included in the
 listserv for this class. The listserv lets you self-subscribe, thus allowing
 us better resources for contacting you with changes that may occur in the
@@ -68,9 +67,9 @@ syllabus.   There will not be any academic content on this listserv.
   
 If you would like to join a study group so that you may meet with other
 students registered in your Telecourse, then please visit:
-[http://www.outreach.usf.edu/oucourses/forms/ouforms.htm](http://www.outreach.usf.edu/oucourses/forms/ouforms.htm)
-for a study group application and more information. Please fill out the form
-completely and return it to SVC 1072.
+http://www.outreach.usf.edu/oucourses/forms/ouforms.htm for a study group
+application and more information. Please fill out the form completely and
+return it to SVC 1072.
 
 * * *
 
@@ -84,7 +83,7 @@ channel 18.
   
 **Video Rentals:** This Telecourse may be rented from RMI Media Productions by
 calling 1-800-745-5480. The cost to rent the videos is approximately $55.00.
-Visit their web site at ****<http://www.rmimedia.com/>_  
+Visit their web site at ****http://www.rmimedia.com/ _  
   
 _**Course Objectives:** The focus of this course will be to explore the
 purpose and processes of art making in a historical context and to take a

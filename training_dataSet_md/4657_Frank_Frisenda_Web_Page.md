@@ -66,30 +66,30 @@ NYS Wildlife Rehabilitation program.
 as follows:
 
     
-    
+    
     
     
     #### Tuesday: 1-2:15 and Thursday: 4-5:15
     
-    #### 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    #### 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
 
 ![](http://www.sunynassau.edu/webpages/images/mailbox1.gif)My Nassau e-mail
-address is: **[frisenf@sunynassau.edu](MAILTO:frisenf@sunynassau.edu)**
+address is: **frisenf@sunynassau.edu**
 
 ![\[---------------------------\]](../../images/bluebar.gif)
 
@@ -121,25 +121,22 @@ experiment
 
 ### Here are some of my favorite web sites
 
-[New York Academy of Sciences](http://www.nyas.org)
+New York Academy of Sciences
 
-[Learn about your favorite recording artist or song.](http://www.cdnow.com)
+Learn about your favorite recording artist or song.
 
-[Our own Super Highway club](http://www.shwclub.org)
+Our own Super Highway club
 
 ![\[---------------------------\]](../../images/bluebar.gif)
 
 ### Web sites for my students to visit
 
-[American Museum of Natural History in NYC](http://www.amnh.org)
+American Museum of Natural History in NYC
 
 ![\[---------------------------\]](../../images/bluebar.gif)  
-[Home](http://www.sunynassau.edu) | [Index](../../index/index.htm) |
-[Search](http://www.sunynassau.edu/search/iaquery.exe) |
-[Guestbook](../../guestbk/guestbk.htm)  
+Home | Index | Search | Guestbook  
 ---|---|---|---  
-[![\[Home\]](../../images/ncc_n.gif)](http://www.sunynassau.edu) |
-[![\[Search\]](../../images/index.gif)](../../index/index.htm) |
-[![\[Search\]](../../images/search2.gif)](http://www.sunynassau.edu/search/iaquery.exe)
-| [![\[Guest](../../images/guestbk2.gif)](../../guestbk/guestbk.htm)
+![\[Home\]](../../images/ncc_n.gif) | ![\[Search\]](../../images/index.gif) |
+![\[Search\]](../../images/search2.gif) |
+![\[Guest](../../images/guestbk2.gif)
 

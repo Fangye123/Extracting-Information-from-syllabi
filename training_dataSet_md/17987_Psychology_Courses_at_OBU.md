@@ -487,8 +487,6 @@ Top of this page | Syllabus for this class
   
 * * *
 
-[[Home
-Page](main.htm)][[Department](department.htm)][[Faculty](faculty.htm)][[Courses](courses.htm)][[Degrees](degrees.htm)][[Psi
-Chi](psichi.htm)]  
-[[Calendar](Calendar.htm)][[Newsletter](newsltr.htm)][[Links](links.htm)]
+[Home Page][Department][Faculty][Courses][Degrees][Psi Chi]  
+[Calendar][Newsletter][Links]
 

@@ -180,28 +180,24 @@ curriculum in business administration.
 
 ## Departments of the College and Degree Programs
 
-The College of Business Administration is comprised of six departments: [
-Accounting ](./BA.html#BAACCOUNTING), [ Economics ](./BA.html#BAECONOMICS), [
-Finance ](./BA.html#BAFINANCE), [ Information and Decision Sciences
-](./BA.html#BAINFODECSCI), [ Management ](./BA.html#BAMANAGEMENT), and [
-Marketing ](./BA.html#BAMARKETING). Each of these departments offers the
-Bachelor of Science degree, which requires 120 semester hours of credit for
-completion.
+The College of Business Administration is comprised of six departments:
+Accounting ,  Economics ,  Finance ,  Information and Decision Sciences ,
+Management , and  Marketing . Each of these departments offers the Bachelor of
+Science degree, which requires 120 semester hours of credit for completion.
 
 ## Degree Programs Affiliated with Other Colleges
 
 The College of Business Administration offers joint programs with other
 colleges on the campus. The College of Engineering coordinates the joint
-program for the degree of [ Bachelor of Science in Engineering
-Management](./EG.html#EGMEENGR). Details of this program are described in the
-_College of Engineering_ section of this catalog.
+program for the degree of  Bachelor of Science in Engineering Management.
+Details of this program are described in the _College of Engineering_ section
+of this catalog.
 
 The College of Liberal Arts and Sciences offers two joint programs with the
-College of Business Administration: the [ Bachelor of Science in Statistics
-and Operations Research](./LA.html#LASTATORCURR) and the [ Bachelor of Arts in
-French Business Studies.](./LA.html#LASFIP) Details of these programs are
-described in the _College of Liberal Arts and Sciences_ section of this
-catalog.
+College of Business Administration: the  Bachelor of Science in Statistics and
+Operations Research and the  Bachelor of Arts in French Business Studies.
+Details of these programs are described in the _College of Liberal Arts and
+Sciences_ section of this catalog.
 
 ## Admission Requirements
 
@@ -211,14 +207,14 @@ Students seeking admission to the College of Business Administration who are
 recent high school graduates or who have earned less than 12 semester hours
 (18 quarter hours) of credit at another collegiate institution are classified
 as new freshmen and must meet the entrance requirements to the college that
-are specified for beginning freshmen. (See [ Admission Requirements and
-Application Procedures ](./AR.html#ARADMISSION).) The college recommends that
-each freshman complete a strong high school mathematics curriculum that
-includes college algebra and trigonometry. Students are also required to have
-at least two years of a single foreign language in high school (with grades of
-C or better). Students with a deficiency in this area will be required, after
-admission to UIC, to take two semesters of a single foreign language at the
-college level, with grades of C or better, at UIC or elsewhere.
+are specified for beginning freshmen. (See  Admission Requirements and
+Application Procedures .) The college recommends that each freshman complete a
+strong high school mathematics curriculum that includes college algebra and
+trigonometry. Students are also required to have at least two years of a
+single foreign language in high school (with grades of C or better). Students
+with a deficiency in this area will be required, after admission to UIC, to
+take two semesters of a single foreign language at the college level, with
+grades of C or better, at UIC or elsewhere.
 
 ### Transfer Student Admission Requirements
 
@@ -284,11 +280,9 @@ plan to graduate.
 All continuing students are given the opportunity to register in advance for
 the next semester. Appointment letters for priority registration are sent by
 mail. Approval by the college is not required for registration. The student
-should consult this catalog and the [ Timetable
-](http://www.uic.edu/classes/timetable/)for guidance in program planning.
-Special note should be taken of the course descriptions, prerequisites, and
-other restrictions listed in the [
-Timetable.](http://www.uic.edu/classes/timetable/)
+should consult this catalog and the  Timetable for guidance in program
+planning. Special note should be taken of the course descriptions,
+prerequisites, and other restrictions listed in the  Timetable.
 
 The responsibility for course selection rests with the student. Satisfactory
 progress toward the degree is defined as progressive fulfillment of all the
@@ -342,11 +336,11 @@ Math 180 may be taken in place of Math 165.
 
 #### Other General Requirements
 
-  * [ Social Sciences ](./BA.html#BASOCSCI) (6 hrs) 
-  * [ Modern History and Philosophy ](./BA.html#BAHISTPHIL) (6 hrs) 
-  * [ Literature ](./BA.html#BALIT) (3 hrs) 
-  * [ Advanced Quantitative Skills ](./BA.html#BAADVQUANT) (3 hrs) 
-  * [ Natural Sciences ](./BA.html#BANATS) (5 hrs) 
+  * Social Sciences  (6 hrs) 
+  * Modern History and Philosophy  (6 hrs) 
+  * Literature  (3 hrs) 
+  * Advanced Quantitative Skills  (3 hrs) 
+  * Natural Sciences  (5 hrs) 
   * **Total: to be chosen from the CBA Course Selection Chart (23 hrs)** 
 
 #### Nonbusiness Electives
@@ -383,14 +377,11 @@ the general requirements hours to a total of at least 60.
 
 #### The Major and Business Electives (27 Hours)
 
-Students must choose a major from the following areas: [ Accounting
-](./BA.html#BAACCOUNTING), [ Economics ](./BA.html#BAECONOMICS), [ Finance
-](./BA.html#BAFINANCE), [ Information and Decision Sciences
-](./BA.html#BAINFODECSCI), [ Management ](./BA.html#BAMANAGEMENT), and [
-Marketing ](./BA.html#BAMARKETING). The major consists of at least 18 hours;
-the exact number varies across departments. Electives chosen from courses in
-the College of Business Administration must raise the total number of hours in
-this section to 27.
+Students must choose a major from the following areas:  Accounting ,
+Economics ,  Finance ,  Information and Decision Sciences ,  Management , and
+Marketing . The major consists of at least 18 hours; the exact number varies
+across departments. Electives chosen from courses in the College of Business
+Administration must raise the total number of hours in this section to 27.
 
 ### Curriculum Notes and Other Graduation Requirements
 
@@ -398,10 +389,10 @@ this section to 27.
 
 All students at UIC are expected to study a culture different from the
 dominant American culture. To fulfill this requirement, at least one course
-from [ UIC'sCultural Diversity List](./LA.html#LACULTDIVERS) must be chosen.
-This course may be one of those used to satisfy distribution requirements, it
-may be taken as one of the electives, or as part of the major (if a major
-course in included in the list).
+from  UIC'sCultural Diversity List must be chosen. This course may be one of
+those used to satisfy distribution requirements, it may be taken as one of the
+electives, or as part of the major (if a major course in included in the
+list).
 
 #### Basic Education
 
@@ -452,9 +443,9 @@ course as a prerequisite depending on their performance on the placement test.
 
 Courses for the social sciences, history and philosophy, literature, advanced
 quantitative skills, and natural sciences requirements must be chosen from the
-list of courses included in the [ Course Selection Chart for College of
-Business Administration Students ](./BA.html#BACOURSCHART). This chart may be
-found in this chapter, following the list of graduation requirements.
+list of courses included in the  Course Selection Chart for College of
+Business Administration Students . This chart may be found in this chapter,
+following the list of graduation requirements.
 
 #### Foreign Language
 
@@ -472,9 +463,8 @@ courses are excluded.
 
 #### Course Level Requirement
 
-At least 12 of the 32 hours in [ Other General Requirements
-](./BA.html#BAGENREQ) and [ Nonbusiness Electives ](./BA.html#BANONBUSELEC)
-must be taken at the 200 level or above.
+At least 12 of the 32 hours in  Other General Requirements  and  Nonbusiness
+Electives  must be taken at the 200 level or above.
 
 #### Courses that Do Not Count Toward the Bachelor of Science Degree Offered
 by the College of Business Administration
@@ -818,8 +808,8 @@ Morgan Street, Chicago, Illinois 60607-7107 or phone (312) 996-9548.
 
 ### Proficiency Examinations
 
-With the exception of foreign language, a student may earn credit through [
-proficiency examinations](./SP.html#SPPROFEXAM) as described in this catalog.
+With the exception of foreign language, a student may earn credit through
+proficiency examinations as described in this catalog.
 
 The college accepts CLEP (College Level Examination Program) credit in general
 examinations (humanities, social sciences, and natural sciences) provided it
@@ -855,12 +845,11 @@ Highest Distinction:| 4.75 overall| 4.75 department
 
 Students in the College of Business Administration may be eligible for special
 awards and scholarships in addition to those available through the Office of
-Student Financial Aid. For more detailed information consult [ Scholarships
-Administered by Colleges and Departments ](./FA.html#FASCHOLUNITS) and [
-Prizes and Recognition ](./FA.html#FAPRIZERECOG) in the _Financial Aid_
-chapter of this catalog. Information is also available in the College of
-Business Administration monthly publication  On-Line, which can be found
-outside of Room 106 Grant Hall.
+Student Financial Aid. For more detailed information consult  Scholarships
+Administered by Colleges and Departments  and  Prizes and Recognition  in the
+_Financial Aid_ chapter of this catalog. Information is also available in the
+College of Business Administration monthly publication  On-Line, which can be
+found outside of Room 106 Grant Hall.
 
 ### Beta Gamma Sigma
 
@@ -929,11 +918,9 @@ institutions.
 
 A student must declare a major before enrolling in any 300-level course
 offered by the College of Business Administration. The college offers six
-majors: [ Accounting ](./BA.html#BAACCOUNTING), [ Economics
-](./BA.html#BAECONOMICS), [ Finance ](./BA.html#BAFINANCE), [ Information and
-Decision Sciences ](./BA.html#BAINFODECSCI), [ Management
-](./BA.html#BAMANAGEMENT), and [ Marketing ](./BA.html#BAMARKETING). The
-specific requirements for each major follow.
+majors:  Accounting ,  Economics ,  Finance ,  Information and Decision
+Sciences ,  Management , and  Marketing . The specific requirements for each
+major follow.
 
 Each student should verify that he or she has an approved major. Curriculum
 code numbers appear on several documents. These codes are:  Accounting| 03  
@@ -967,13 +954,13 @@ Illinois at Chicago averages as well as the student's cumulative averages.
 
   1. A student not currently on probation is placed on academic probation in any term in which less than a 3.00 average is earned. 
   2. A student currently on academic probation is continued on academic probation (unless dropped) until both the cumulative average and the University of Illinois at Chicago average are raised to 3.00. 
-  3. A student is placed on progress probation who does not make satisfactory progress toward the degree as defined in [ Academic Advising and Course Selection ](./BA.html#BAACADADVIS) in this chapter.
+  3. A student is placed on progress probation who does not make satisfactory progress toward the degree as defined in  Academic Advising and Course Selection  in this chapter.
 
 #### Drop Rules
 
   1. A student on academic probation who fails to earn a 3.00 average in any term may be dropped unless both the cumulative average and the University of Illinois at Chicago average are 3.00 or higher. 
   2. A student who fails to earn at least a 2.00 average in any term may be dropped. 
-  3. A student on progress probation who fails to make satisfactory progress toward the degree as defined in [ Academic Advising and Course Selection ](./BA.html#BAACADADVIS) may be dropped.
+  3. A student on progress probation who fails to make satisfactory progress toward the degree as defined in  Academic Advising and Course Selection  may be dropped.
 
 ### Pass/Fail Regulations
 
@@ -1100,8 +1087,7 @@ offered by the department.
 In addition to the specific coursework below, the student must fulfill certain
 other course requirements to be awarded the Bachelor of Science in Accounting.
 For additional graduation requirements, information on admission, and academic
-regulations in the College, see [ College of Business Administration
-](./BA.html#BA).
+regulations in the College, see  College of Business Administration .
 
 ### Requirements for the Major [1]
 
@@ -1162,8 +1148,7 @@ that influence economic activity are also studied.
 In addition to the specific coursework below, the student must fulfill certain
 other course requirements to be awarded the Bachelor of Science in Economics.
 For additional graduation requirements, information on admission, and academic
-regulations in the College, see [ College of Business Administration
-](./BA.html#BA).
+regulations in the College, see  College of Business Administration .
 
 ### Requirements for the Major
 
@@ -1175,11 +1160,11 @@ regulations in the College, see [ College of Business Administration
   * **Total: (18 hrs)** 
 
 **_Note:_** Economics majors are required to take Econ 346 (Econometrics) in
-the [ Advanced Quantitative Skills ](./BA.html#BAADVQUANT) section, and this
-course does not count as one of the four elective 300- or 400-level courses.
-Economics majors may take Econ 495 to satisfy the integrative course
-requirement in the [ Business Core ](./BA.html#BABUSCORE), but this course
-will not count as one of the four elective 300- or 400-level courses.
+the  Advanced Quantitative Skills  section, and this course does not count as
+one of the four elective 300- or 400-level courses. Economics majors may take
+Econ 495 to satisfy the integrative course requirement in the  Business Core ,
+but this course will not count as one of the four elective 300- or 400-level
+courses.
 
 ### Business Electives
 
@@ -1211,8 +1196,7 @@ the monetary and banking system on economic activity.
 In addition to the specific coursework below, the student must fulfill certain
 other course requirements to be awarded the Bachelor of Science in Finance.
 For additional graduation requirements, information on admission, and academic
-regulations in the College, see [ College of Business Administration
-](./BA.html#BA).
+regulations in the College, see  College of Business Administration .
 
 ### Requirements for the Major
 
@@ -1232,8 +1216,7 @@ required for the major. Accordingly, the prerequisites of Fin 300 should be
 completed by the end of the sophomore year.
 
 Finance majors are required to take Math 205 (Advanced Mathematics for
-Business) in the [ Advanced Quantitative Skills ](./BA.html#BAADVQUANT)
-Section.
+Business) in the  Advanced Quantitative Skills  Section.
 
 * * *
 
@@ -1265,21 +1248,19 @@ management, computer center operations, and data analysis. The program also
 provides ideal preparation for graduate study leading to the MBA and other
 advanced degrees.
 
-Students are also referred to [ Statistics and Operations
-Research](./LA.html#LASTATORCURR) in the _College of Liberal Arts and
-Sciences._
+Students are also referred to  Statistics and Operations Research in the
+_College of Liberal Arts and Sciences._
 
 Students majoring in information and decision sciences are required to take
-Math 205 in the [ Advanced Quantitative Skills ](./BA.html#BAADVQUANT)
-Section.
+Math 205 in the  Advanced Quantitative Skills  Section.
 
 ## Curriculum in Information and Decision Sciences
 
 In addition to the specific coursework below, the student must fulfill certain
 other course requirements to be awarded the Bachelor of Science in Information
 and Decision Sciences. For additional graduation requirements, information on
-admission, and academic regulations in the College, see [ College of Business
-Administration ](./BA.html#BA).
+admission, and academic regulations in the College, see  College of Business
+Administration .
 
 ### Requirements for the Major
 

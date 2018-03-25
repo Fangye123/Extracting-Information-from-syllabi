@@ -10,18 +10,18 @@ Computer Science Department
 Office: 732 College of Education building  
 Office Hours: 2:30 - 4 p.m. Mondays and Wednesdays  
   
-web-page: <http://www.cs.gsu.edu/~cscmcw>  
-e-mail: [mweeks@cs.gsu.edu](mailto:mweeks@cs.gsu.edu)  
+web-page: http://www.cs.gsu.edu/~cscmcw  
+e-mail: mweeks@cs.gsu.edu  
 Phone: (404) 651-0660  
   
 Teaching Assistant : Mr. Praveen Madiraju  
-TA's e-mail: [mvnpraveen@hotmail.com](mailto:mvnpraveen@hotmail.com)  
+TA's e-mail: mvnpraveen@hotmail.com  
 TA's office: 796 College of Education building  
 TA's office hours: 10 - 1 Tuesdays and Thursdays  
 
   
 
-[See Attached Calendar](Su00calendar.htm)
+See Attached Calendar
 
 **FINAL EXAM**  
 The Final Exam will be given in the above classroom on Monday, August 7, at

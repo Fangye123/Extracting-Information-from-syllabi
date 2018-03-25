@@ -9,8 +9,8 @@ Case Study of Online Teaching and Research
   * **Technical Summary**
   * **Catalog Description**
   * **Syllabus**
-  * **[The Scenarios Discussed in This Essay](scenario.htm#one)**
-  * **[Summary (in Table Form) of All Scenarios](table.htm)**
+  * **The Scenarios Discussed in This Essay**
+  * **Summary (in Table Form) of All Scenarios**
 
 * * *
 
@@ -18,19 +18,18 @@ Case Study of Online Teaching and Research
 
 Historically, the first English course taught entirely in SCAILAB (a joint
 project of the Department of English and the Tutorium in Intensive English,
-our ESL program) was Keith Dorwick's [English 214: Writing and Publishing [for
-Cyberspace]](http://www2.uic.edu/~kdorwick/syll214.html), a topics-based
-writing course. Usually, the topics for the course are determined by the needs
-of the department and are strictly an internal matter. Dorwick's orginal topic
-for the course, "Writing and Publishing in Chicago," had been approved through
-standard departmental procedures.
+our ESL program) was Keith Dorwick's English 214: Writing and Publishing [for
+Cyberspace], a topics-based writing course. Usually, the topics for the course
+are determined by the needs of the department and are strictly an internal
+matter. Dorwick's orginal topic for the course, "Writing and Publishing in
+Chicago," had been approved through standard departmental procedures.
 
 However, his decision to make the course an online course - and to make its
 topic "Writing in Publishing in Cyberspace - was new territory for the
 department. Donald Marshall, Head, asked Dorwick to meet with Steven Weaver,
 Assistant Dean of the College of Liberal Arts and Sciences, and gain his
-approval for the change, not so much for the topic as for **[Dorwick's
-pedagogy](dorwick's.htm)**.
+approval for the change, not so much for the topic as for **Dorwick's
+pedagogy**.
 
 Though Dean Weaver did in fact approve 214, he also stated that he would not
 approve such courses in the future as topics courses; instead, he charged the
@@ -39,54 +38,50 @@ for the teaching of hypertext and the use of such technologies as Netscape and
 other Internet resources, a charge that has not yet been fulfiled, though some
 efforts have been made by graduate students at UIC.
 
-**[Other online courses](scenario.htm)** and **[courses specializing in
-electronic pedagogy](eng558.htm)** have been successfully taught at UIC.  
+**Other online courses** and **courses specializing in electronic pedagogy**
+have been successfully taught at UIC.  
 
 * * *
 
 ###  Technical Summary:
 
-**[Computer Content of Course:](models.htm)** **[Transitional
-Model](models.htm#trans)**
+**Computer Content of Course:** **Transitional Model**
 
-**[Percent of Internet Use:](glossary.htm#internet)** High both for students
-writing in the physical lab and for those students attending virtually
+**Percent of Internet Use:** High both for students writing in the physical
+lab and for those students attending virtually
 
-**[Percent Face-to-Face Contact:](glossary.htm#f2f)** 100% for students using
-the traditional attendance policy, down to 0% for students using the virtual
-attendance policy
+**Percent Face-to-Face Contact:** 100% for students using the traditional
+attendance policy, down to 0% for students using the virtual attendance policy
 
-**[Percent of Technical Training Needed by Students:](glossary.htm#techstud)**
-30-50% of Class Time
+**Percent of Technical Training Needed by Students:** 30-50% of Class Time
 
-**[Technical Training Needed by Faculty:](glossary.htm#techfac)** Extensive
+**Technical Training Needed by Faculty:** Extensive
 
-**[Percent Lecture:](glossary.htm#lect)** 0%
+**Percent Lecture:** 0%
 
-**[Percent Discussion or Other Student Centered
-Activity:](glossary.htm#disc)** 100%
+**Percent Discussion or Other Student Centered Activity:** 100%
 
-**[Percent Use of Computer Classroom:](glossary.htm#cc)** 100%
+**Percent Use of Computer Classroom:** 100%
 
-**[Percent Use of Multimedia Facilities:](glossary.htm#mm)** 0%
+**Percent Use of Multimedia Facilities:** 0%
 
-**[Attendance Requirements:](glossary.htm#att)** Two attendance policies, one
-for traditional students, another for virtual attendees
+**Attendance Requirements:** Two attendance policies, one for traditional
+students, another for virtual attendees
 
-**[Inclass Worktime:](glossary.htm#icwt)** 100%
+**Inclass Worktime:** 100%
 
-**[Out of Class Worktime:](glossary.htm#ocwt)** Varies
+**Out of Class Worktime:** Varies
 
-**[Computer Skill Requirements:](glossary.htm#skill)** High
+**Computer Skill Requirements:** High
 
-**[Equipment Requirements:](glossary.htm#equip)** High
+**Equipment Requirements:** High
 
-**[Use of Printed Textbooks or Other Materials:](glossary.htm#texts)** Low
+**Use of Printed Textbooks or Other Materials:** Low
 
-**[Software Requirements:](glossary.htm#software)** High
+**Software Requirements:** High
 
 Note: this section of the scenario uses Claudine Keenan's typology of the
-**[three models for teachers](models.htm)** in online environments.  
+**three models for teachers** in online environments.  
 
 * * *
 
@@ -122,31 +117,23 @@ Champaign, IL: Stipes Publishing Company, 1994.
 Gibaldi, Joseph. **MLA Handbook for Writers of Research Papers**. 4th ed. New
 York: MLA, 1995.
 
-[Kairos: A Journal For Teachers of Writing in Webbed
-Environments](http://129.118.38.138/kairos/1.3/)
+Kairos: A Journal For Teachers of Writing in Webbed Environments
 
-[RhetNet: A CyberJournal for rhetoric and
-writing](http://www.missouri.edu/~rhetnet/)
+RhetNet: A CyberJournal for rhetoric and writing
 
-[ebr: (electronic book review)](http://www.altx.com/ebr/)
+ebr: (electronic book review)
 
 ###  Some Helpful WWW pages:
 
-[Netscape page for New
-Webspinners](http://home.netscape.com/assist/net_sites/index.html)
+Netscape page for New Webspinners
 
-[A Beginner's Guide to
-HTML](http://www.ncsa.uiuc.edu/General/Internet/WWW/HTMLPrimer.html)
+A Beginner's Guide to HTML
 
 ###  Software:
 
-[HTML
-Assistant](http://www.yahoo.com/Computers/World_Wide_Web/HTML_Editors/MS_Windows/HTML_Assistant/),
-freeware version of HTML Assistant.
+HTML Assistant, freeware version of HTML Assistant.
 
-[Microsoft Internet
-Assistant](http://www.microsoft.com/word/Internet/IA/default.htm), free add-on
-for Microsoft Word.
+Microsoft Internet Assistant, free add-on for Microsoft Word.
 
 * * *
 
@@ -259,24 +246,23 @@ place!
 
 ###  Glossary:
 
-See <http://odwin.ucsd.edu/glossary/others.html>
+See http://odwin.ucsd.edu/glossary/others.html
 
 * * *
 
-**[The Scenarios Discussed in This Essay](scenario.htm#one)**
+**The Scenarios Discussed in This Essay**
 
-**[Summary (in Table Form) of All Scenarios](table.htm)**  
-
-* * *
-
-####  [How to Navigate This Essay Without Getting Lost](navigate.htm)
+**Summary (in Table Form) of All Scenarios**  
 
 * * *
 
-[![Go Back Home!](graphics/backhome.jpg)](toc.htm#contents) **[Back to the
-Table of Contents](toc.htm#contents)**  
+####  How to Navigate This Essay Without Getting Lost
 
 * * *
 
-Copyright (C) 1996-1998 by [Keith Dorwick](mailto:kdorwick@uic.edu)
+![Go Back Home!](graphics/backhome.jpg) **Back to the Table of Contents**  
+
+* * *
+
+Copyright (C) 1996-1998 by Keith Dorwick
 

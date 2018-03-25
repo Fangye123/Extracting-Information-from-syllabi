@@ -1,7 +1,7 @@
-[ ![next](/usr/share/latex2html/icons.gif/next_motif.gif)](node1.html)
+![next](/usr/share/latex2html/icons.gif/next_motif.gif)
 ![up](/usr/share/latex2html/icons.gif/up_motif_gr.gif)
 ![previous](/usr/share/latex2html/icons.gif/previous_motif_gr.gif)  
-**Next:** [About this document ...](node1.html)  
+**Next:** About this document ...  
   
 
 # Math 155 Way of Thinking  
@@ -276,13 +276,13 @@ This syllabus is tentative and may be adjusted during the semester.
 
 * * *
 
-  * [About this document ...](node1.html) 
+  * About this document ... 
 
 * * *
 
-[ ![next](/usr/share/latex2html/icons.gif/next_motif.gif)](node1.html)
+![next](/usr/share/latex2html/icons.gif/next_motif.gif)
 ![up](/usr/share/latex2html/icons.gif/up_motif_gr.gif)
 ![previous](/usr/share/latex2html/icons.gif/previous_motif_gr.gif)  
-**Next:** [About this document ...](node1.html) __  
+**Next:** About this document ... __  
 _2001-01-11_
 

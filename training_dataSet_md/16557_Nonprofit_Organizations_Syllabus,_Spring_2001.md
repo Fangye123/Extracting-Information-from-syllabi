@@ -48,10 +48,10 @@ teams. Students not doing a case study will have to work out the form of their
 presentation with me.
 
 At four points in the semester, students must complete and hand in
-**[discussion essays](Discussion.html)** , 2-3 pages in length. These will be
-graded and altogether will count 40% of your grade. I will provide sets of
-questions related to each class session. We will use those questions in our
-class discussions. Students who do discussion questions for that class will be
+**discussion essays** , 2-3 pages in length. These will be graded and
+altogether will count 40% of your grade. I will provide sets of questions
+related to each class session. We will use those questions in our class
+discussions. Students who do discussion questions for that class will be
 expected to take an active role in the class discussion and they must hand in
 their answers at the end of that class to receive credit. Students may
 complete all of their questions early in the term.
@@ -96,15 +96,14 @@ website.
 >
 
 >
-[http://www.ncf.org/ncf/publications/reports/holding_the_center/hc_contents.html](http://www.ncf.org/)
+http://www.ncf.org/ncf/publications/reports/holding_the_center/hc_contents.html
 
 **_Jan 29_** Complex organizations. What they are. What makes a complex
 organization complex. Elements of a case study. Students report on their
 choice of an organization to study (choices may be changed later.)
 
-> ****Read**** **_[On Electronic
-Reserves](http://eres.bucknell.edu/coursepage.asp?cid=224&page=01):_**
-Milofsky,  "Making Sense of Organizations"
+> ****Read**** **_On Electronic Reserves:_** Milofsky,  "Making Sense of
+Organizations"
 
 **_Feb 5_** A view from economics: The problem (for economists) of
 "nonprofitness". **_Discuss how to plan and outline a website._**
@@ -132,12 +131,11 @@ then she will meet with the class in discussion fomat for 75 minutes or so.
 **_Mar 5_** Marketing and strategic thinking in nonprofit organizations. Visit
 from Rick Farrel?
 
-> **_**Read**_** **_[On
-ERES](http://eres.bucknell.edu/coursepage.asp?cid=224&page=01)_** : Philip
-Kotler and Alan R. Andreasen, Ch.1, "Marketing in the Nonprofit Environment",
-pp 1-33, and Ch. 2, "The Marketing Philosophy", pp 34-66, in Kotler and
-Andreasen, Strategic Marketing for Nonprofit Organizations, 3rd ed. (Engelwood
-Cliffs, NJ: Prentice-Hall, Inc. 1987)  
+> **_**Read**_** **_On ERES_** : Philip Kotler and Alan R. Andreasen, Ch.1,
+"Marketing in the Nonprofit Environment", pp 1-33, and Ch. 2, "The Marketing
+Philosophy", pp 34-66, in Kotler and Andreasen, Strategic Marketing for
+Nonprofit Organizations, 3rd ed. (Engelwood Cliffs, NJ: Prentice-Hall, Inc.
+1987)  
 >  ****Writing**** Turn in annotated outline of case study and web-site plan.
 
 **_Mar 12_** **SPRING BREAK**

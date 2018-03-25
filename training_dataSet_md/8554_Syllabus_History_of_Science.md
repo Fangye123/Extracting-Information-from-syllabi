@@ -30,7 +30,7 @@ URL http://www.rit.edu/~flwgsh
 A study of the origins, nature, and development of Western science, and its
 social, economic, and cultural context.
 
-The  Content is described in the [Course Calendar](hoscal.html)
+The  Content is described in the Course Calendar
 
 #### **LEARNING OBJECTIVES**
 
@@ -68,10 +68,10 @@ class.
 
   1. Your grade in the course is determined by the number of "points" you accumulate. This allows you to choose what work you do, and what to do if you fall down in one area to raise your grade in another area: 
 
-    * [Midterm I](hosmid1.html) 250 points 
-    * [Midterm II](hosmid2) 250 points 
+    * Midterm I 250 points 
+    * Midterm II 250 points 
     * Participation 150 points 
-    * [Research](hosres.html) 300 points 
+    * Research 300 points 
     * Final Exam 300 points
 
 Your grade will be determined (strictly!) from the following table:
@@ -82,11 +82,11 @@ Your grade will be determined (strictly!) from the following table:
     * 750 - 874 D 
     * BELOW 750 F
 
-  2. There will be two midterms and a final. The questions will be based on class presentations and material posted on the WWW. The exam format is explained below in METHOD. All questions on the midterms will be taken from the list of [discussion questions](hosques.html). 
+  2. There will be two midterms and a final. The questions will be based on class presentations and material posted on the WWW. The exam format is explained below in METHOD. All questions on the midterms will be taken from the list of discussion questions. 
 
 The Final will be somewhat different and it is explained below.
 
-  3. A [research project](hosres.html) is required.
+  3. A research project is required.
 
 #### METHOD
 
@@ -106,9 +106,8 @@ from Preparation Questions from all sessions. The last 15 questions will be
 new questions you have not seen before. These questions will be integrative
 and cover all the material studied in the entire quarter.
 
-There will be an important [research project ](hosres.html) which will be a
-significant part of your grade. There are very strict rules on how the project
-must be done.
+There will be an important research project  which will be a significant part
+of your grade. There are very strict rules on how the project must be done.
 
 #### RULES OF THE GAME
 
@@ -136,10 +135,9 @@ Good luck in the course.
 
 ![](tiedye.gif)
 
-For a great WWW access provider contact [Grady
-Associates](http://www.grady.com) at
-[http://www.rochester.ny.us/Grady.html](www.rochester.ny.us/Grady.html)
+For a great WWW access provider contact Grady Associates at
+http://www.rochester.ny.us/Grady.html
 
-Fred L. Wilson ([FLWGSH@ritvax.isc.rit.edu](mailto:flwgsh@ritvax.isc.rit.edu))  
+Fred L. Wilson (FLWGSH@ritvax.isc.rit.edu)  
 June 21, 1996  
 

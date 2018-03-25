@@ -9,8 +9,8 @@ Links in History
 **Instructor: Dr. Nema Blyden  
 Office: JO 4.208  
 Office Hours: Tu/Th 8:30-9:30; Th.6-7 p.m. and by appointment  
-Email: [nblyden@utdallas.edu](mailto:nblyden@utdallas.edu)  
-Home page: [http:www.utdallas.edu/~nblyden](http://www.utdallas.edu/~nblyden)  
+Email: nblyden@utdallas.edu  
+Home page: http:www.utdallas.edu/~nblyden  
 Phone: 972-883-6354
 
 **

@@ -542,13 +542,13 @@ I. Clinton
 * * *
 
   
-[Return to Mr. Gibson's Page](gibsonhs.html)  
+Return to Mr. Gibson's Page  
   
 Other Links  
   
-[Social Studies Department Page](hssocst.html)  
+Social Studies Department Page  
   
-[Return to Dowagiac Schools Home Page  
+Return to Dowagiac Schools Home Page  
   
-](index.html)[REMC XI](http://www.remc11.k12.mi.us/bcisd)
+REMC XI
 

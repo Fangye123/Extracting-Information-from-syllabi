@@ -4,7 +4,7 @@ Spring 1998**
 Dr. Michele Gamburd  
 Office:  141-N Cramer Hall  
 Phone:  (503) 725-3317  
-[gamburdm@pdx.edu](mailto: b5mg@pdx.edu)
+gamburdm@pdx.edu
 
 **COURSE DESCRIPTION:**  
     The aim of this course is to give a broad overview of the historical trajectories of the discipline, as well as to provide close readings of key texts in contemporary theory.  Emphasis will be placed on techniques of critical thought, such as how to 'read against the grain', and how to uncover underlying assumptions and paradigmatic statements.   
@@ -204,5 +204,5 @@ following:
   
 
 
-### Return to [home page](http://web.pdx.edu/~b5mg).
+### Return to home page.
 

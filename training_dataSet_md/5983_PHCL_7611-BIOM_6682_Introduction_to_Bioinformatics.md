@@ -16,13 +16,13 @@ CPH Auditorium (except 9/13 and 11/1 in Sabin Auditorium) |
   
 Thursdays, 3:00-4:30pm |
 
-[Larry.Hunter@uchsc.edu](mailto:Larry.Hunter@uchsc.edu)  
+Larry.Hunter@uchsc.edu  
   
 Office hours by appointment
 
 |
 
-[http://compbio.uchsc.edu/hunter](http://compbio.uchsc.edu/Hunter)  
+http://compbio.uchsc.edu/hunter  
   
 * * *
 
@@ -102,13 +102,13 @@ instead of the exam.
 
 Problem sets and solutions will be posted here.
 
-[Problem set 1](ps1.html)
+Problem set 1
 
-[Problem set 2](ps2.html)
+Problem set 2
 
 ###  Final
 
-The [final exam](final.html) is due November 19 at 9am
+The final exam is due November 19 at 9am
 
 ##
 
@@ -130,19 +130,14 @@ _
 Lecture notes will be posted here, generally just before class time. The HTML
 versions are best for viewing online, and the PDF versions are better for
 printing (but the files are large, and may take a while to download). To read
-the PDF files, you may need to download the [Adobe Acrobat PDF file
-reader](http://www.adobe.com/products/acrobat/readstep2.html)
+the PDF files, you may need to download the Adobe Acrobat PDF file reader
 
-HTML versions: [8/30/2001](lecture1)     [9/6/2001](lecture2)
-[9/20/2001](lecture3)     [9/27/2001](lecture4)     [10/4/2001](lecture5)
-[10/11/2001](lecture6)     [10/18/2001](lecture7)     [10/25/2001](lecture8)
-[11/1/2001](lecture9)     [11/8/2001](lecture10)  
+HTML versions: 8/30/2001     9/6/2001     9/20/2001     9/27/2001
+10/4/2001     10/11/2001     10/18/2001     10/25/2001     11/1/2001
+11/8/2001  
 
-PDF versions: [8/30/2001](Lecture1.pdf)     [9/6/2001](Lecture2.pdf)
-[9/20/2001](Lecture3.pdf)     [9/27/2001](Lecture4.pdf)
-[10/4/2001](Lecture5.pdf)     [10/11/2001](Lecture6.pdf)
-[10/18/2001](Lecture7.pdf)     [10/25/2001](Lecture8.pdf)
-[11/1/2001](Lecture9.pdf)     [11/8/2001](Lecture10.pdf)  
+PDF versions: 8/30/2001     9/6/2001     9/20/2001     9/27/2001     10/4/2001
+10/11/2001     10/18/2001     10/25/2001     11/1/2001     11/8/2001  
 
 ###  Web sites
 
@@ -152,37 +147,37 @@ the web sites I discuss in class.
 
 * **Local Resources**
 
-  * [Center for Computational Pharmacology](http://compbio.uchsc.edu)
-  * [ CU Denver/UCHSC Center for Computational Biology](http://www.cudenver.edu/ccb/) 
+  * Center for Computational Pharmacology
+  * CU Denver/UCHSC Center for Computational Biology 
 
 * **Listings of bioinformatics web sites**
 
-  * [ Nucleic Acids Research Database Issue 2001](http://nar.oupjournals.org/content/vol29/issue1/#ARTICLES) (with [Database of Databases](http://www3.oup.co.uk/nar/db2001/c/) )
-  * [ Weizmann Institute list of bioinformatics web sites](http://bioinformatics.weizmann.ac.il/mb/molecular_biol_databases.html)
-  * [Kyoto list of bioinformatics web sites](http://www.genome.ad.jp/kegg/kegg4.html)
-  * [ Google bioinformatics entry](http://directory.google.com/Top/Science/Biology/Bioinformatics/)
+  * Nucleic Acids Research Database Issue 2001 (with Database of Databases )
+  * Weizmann Institute list of bioinformatics web sites
+  * Kyoto list of bioinformatics web sites
+  * Google bioinformatics entry
 
 * **Bioinformatics journals, conferences and society**
 
-  * [International Society for Computational Biology](http://www.iscb.org)
-  * [Bioinformatics](http://bioinformatics.oupjournals.org/) (journal)
-  * [Journal of Computational Biology](http://www.cs.sandia.gov/jcb/)
-  * [Pacific Symposium on Biocomputing](http://psb.stanford.edu) (Free full text proceedings)
-  * [Intelligent Systems for Molecular Biology (ISMB)](http://ismb01.cbs.dtu.dk)
-  * [RECOMB](http://recomb2001.gmd.de/)
+  * International Society for Computational Biology
+  * Bioinformatics (journal)
+  * Journal of Computational Biology
+  * Pacific Symposium on Biocomputing (Free full text proceedings)
+  * Intelligent Systems for Molecular Biology (ISMB)
+  * RECOMB
 
 * **Journalistic coverage of bioinformatics** (useful for keeping up with commercial developments)
 
-  * [GenomeWeb.com](http://www.genomeweb.com/) (companion to Genome Technology, free magazine)
-  * [Bioinform](http://www.bioinform.com/)
+  * GenomeWeb.com (companion to Genome Technology, free magazine)
+  * Bioinform
 
-* **[NCBI**](http://www.ncbi.nlm.nih.gov/) National Center for Biotechnology Information
+* **NCBI** National Center for Biotechnology Information
 
-  * [Entrez](http://www.ncbi.nlm.nih.gov/Entrez/)
-  * [BLAST](http://www.ncbi.nlm.nih.gov/BLAST/)
-  * [Education pages](http://www.ncbi.nlm.nih.gov/Education)
+  * Entrez
+  * BLAST
+  * Education pages
 
-* [**PDB**](http://www.rcsb.org/pdb/) Protein DataBank, a database of macromolecular structures 
+* **PDB** Protein DataBank, a database of macromolecular structures 
 
 ### Background
 
@@ -203,15 +198,15 @@ engineering. Here are some introductory books and other resources to get you
 started down that path:  
 
 
-  * _Computer Science, an Overview_ J. Glenn Brookshear, 6th edition, 1999\. An excellent introductory textbook, which you can [ purchase at amazon](http://www.amazon.com/exec/obidos/ASIN/020135747X) , or you might want to look for used copies on the net.
+  * _Computer Science, an Overview_ J. Glenn Brookshear, 6th edition, 1999\. An excellent introductory textbook, which you can  purchase at amazon , or you might want to look for used copies on the net.
   
 
 
-  * _[The Structure and Interpretation of Computer Programs](http://sicp.arsdigita.org/text/sicp) _ Hal Abelson and Gerry Sussman. The best textbook on software engineering. Not a gentle introduction, but a great one. The book is now free online. In addition, there is a [ complete and free set of video lectures by Abelson and Sussman themselves](http://64.64.103.140/ind.html#1986) available from ArsDigita university. These lectures were given in 1986, but they are still an excellent introduction to the principles and practices of software engineering. The entire online university is worth exploring: <http://aduni.org>
+  * _The Structure and Interpretation of Computer Programs _ Hal Abelson and Gerry Sussman. The best textbook on software engineering. Not a gentle introduction, but a great one. The book is now free online. In addition, there is a  complete and free set of video lectures by Abelson and Sussman themselves available from ArsDigita university. These lectures were given in 1986, but they are still an excellent introduction to the principles and practices of software engineering. The entire online university is worth exploring: http://aduni.org
   
 
 
-  * Also, a lot of computer science is knowing the best algorithms developed for a wide variety of particular tasks. My favorite reference book for algorithms (and a good investment if you are serious about computer science) is Cormen, Leiserson & Rivest, _Introduction to Algorithms_ McGraw-Hill, 1990 (yes, that's OK) You can [ purchase it at Amazon](http://www.amazon.com/exec/obidos/ASIN/0262031418) or look for a used copy.
+  * Also, a lot of computer science is knowing the best algorithms developed for a wide variety of particular tasks. My favorite reference book for algorithms (and a good investment if you are serious about computer science) is Cormen, Leiserson & Rivest, _Introduction to Algorithms_ McGraw-Hill, 1990 (yes, that's OK) You can  purchase it at Amazon or look for a used copy.
   
   
 
@@ -225,9 +220,9 @@ of sophistication and subtlety. These links will take you around the lowest
 level of the spiral once:  
 
 
-  * [ An Introduction to Molecular Biology for the Computer Scientist](http://www.aaai.org//Library/Books/Hunter/01-Hunter.pdf) Ch.1 of Hunter, L. _[Artificial Intelligence and Molecular Biology](http://www.aaai.org//Library/Books/Hunter/hunter.html) _ MIT Press 1993
+  * An Introduction to Molecular Biology for the Computer Scientist Ch.1 of Hunter, L. _Artificial Intelligence and Molecular Biology _ MIT Press 1993
   
 
 
-  * [The MIT Biology Hypertextbook](http://esg-www.mit.edu:8001/esgbio/chapters.html)
+  * The MIT Biology Hypertextbook
 

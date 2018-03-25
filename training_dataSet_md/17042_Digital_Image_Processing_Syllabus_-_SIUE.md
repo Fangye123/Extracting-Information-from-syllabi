@@ -10,24 +10,20 @@
 
 **Professor:** Dr. Scott Umbaugh **Office:** Engineering Building, Room EB3037
 
-**Phone:** 650-2524, 2948 **e-mail:**
-[sumbaug@ee.siue.edu](mailto:sumbaug@ee.siue.edu)
+**Phone:** 650-2524, 2948 **e-mail:** sumbaug@ee.siue.edu
 
-**Textbook:** _[Computer Vision and Image Processing: A Practical Approach
-Using CVIPtools_ ](http://www.ee.siue.edu/~sumbaug/book.html), SE Umbaugh,
-Prentice Hall PTR, 1998
+**Textbook:** _Computer Vision and Image Processing: A Practical Approach
+Using CVIPtools_ , SE Umbaugh, Prentice Hall PTR, 1998
 
 **Prerequisite:** ECE 351 and programming experience, or consent of instructor
 
 **Class Format:** Two lectures and 1 lab per week, two tests, quizzes and term
 project
 
-**[Goals and
-Objectives:](http://www.ee.siue.edu/~sumbaug/438Goals_and_objectives.html)**
-Introduce the student to analytical tools and methods which are currently used
-in digital image processing as applied to image information for human viewing.
-Then apply these tools in the laboratory in image restoration, enhancement and
-compression.
+**Goals and Objectives:** Introduce the student to analytical tools and
+methods which are currently used in digital image processing as applied to
+image information for human viewing. Then apply these tools in the laboratory
+in image restoration, enhancement and compression.
 
 * * *
 
@@ -153,11 +149,9 @@ _**Suggested Project Process:**_
   * 8) Write report, include images
   * 9) Demonstration to the class
 
-## **ECE 438[ Digital Image Processing Lab
-](http://www.ee.siue.edu/~cvip/CVIPlab.html) Outline**
+## **ECE 438 Digital Image Processing Lab  Outline**
 
-| **Week** | **TOPICS - reading: Chapters 6 and 8,[ CVIPtools
-](http://www.ee.siue.edu/CVIPtools) ** | **
+| **Week** | **TOPICS - reading: Chapters 6 and 8, CVIPtools  ** | **
 
 1&2 **| Introduction to C programming language and SUN-based image
 acquisition/processing system and CVIPlab via thresholding program | **

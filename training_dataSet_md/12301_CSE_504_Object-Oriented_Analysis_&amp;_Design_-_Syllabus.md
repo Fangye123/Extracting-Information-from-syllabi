@@ -2,7 +2,7 @@
   
 
 
-[![](images/OGItransparent.gif)](http://www.cse.ogi.edu/)
+![](images/OGItransparent.gif)
 
 |
 
@@ -28,14 +28,13 @@ Reading Assignments
 
 Weekly Schedule
 
-[Example Application: Grader](http://www.cse.ogi.edu/cse504/projects-
-index.html)
+Example Application: Grader
 
 Slides (with .ppt & .pdf files)
 
-[Bibliography for OO A&D](http://www.cse.ogi.edu/cse504/references.html)
+Bibliography for OO A&D
 
-[Programming in Smalltalk](http://www.cse.ogi.edu/cse504/SqueakPage.html)  
+Programming in Smalltalk  
 
 
 
@@ -51,7 +50,7 @@ Mondays and Wednesdays, 3:30-4:50 P.M., Room AB 401
 
 **Instructors:  ** |
 
-[Lois Delcambre ](http://www.cse.ogi.edu/~lmd/)  
+Lois Delcambre  
 lmd@cse.ogi.edu  
 503 748 1689  
 503 690 1553 fax
@@ -62,7 +61,7 @@ lmd@cse.ogi.edu
 
 |
 
-[Andrew Black](http://www.cse.ogi.edu/~black/)  
+Andrew Black  
 black@cse.ogi.edu  
 503 748 1250  
 503 690 1553 fax
@@ -75,7 +74,7 @@ black@cse.ogi.edu
   
 **Teaching Assistant** :
 
-[Shawn Bowers](http://www.cse.ogi.edu/~shawn)  
+Shawn Bowers  
 shawn@cse.ogi.edu  
 503 748 7068  
 Room: Compton 237D
@@ -133,12 +132,11 @@ UML diagrams.  It also provides a sketch of an OO development process.]
 
 **On-Line Information**
 
-[Brief description of this
-course](http://www.ogi.edu/catalog/CSE/courses.html#CSE504)
+Brief description of this course
 
-Help to get a CSE [computer account](http://www.cse.ogi.edu/CFST/apply.html)
+Help to get a CSE computer account
 
-[Textbook](http://www.ogi.edu/schedule/registration.html#textbooks) Ordering  
+Textbook Ordering  
   
 |
 
@@ -152,13 +150,8 @@ Help to get a CSE [computer account](http://www.cse.ogi.edu/CFST/apply.html)
   1. Small Projects: 50% of your grade
 
   
-[OOP1](http://www.cse.ogi.edu/cse504/oop1_assignment.html),
-[OOP2](http://www.cse.ogi.edu/cse504/oop2_assignment.html), [Use case
-1](http://www.cse.ogi.edu/cse504/assignment3.html), [Use case
-2](http://www.cse.ogi.edu/cse504/assignment4.html),
-[Analysis](http://www.cse.ogi.edu/cse504/assignment5.html), [Analysis
-Pattern](http://www.cse.ogi.edu/cse504/assignment6.html),
-[Design](http://www.cse.ogi.edu/cse504/assignment7.html), ... UML Metamodel  
+OOP1, OOP2, Use case 1, Use case 2, Analysis, Analysis Pattern, Design, ...
+UML Metamodel  
 The exact number of projects is to be determined.  This list of project titles
 will be linked to the assignments when they are ready.  Some projects are to
 be done individually.  Others are to be done in teams of three students.  
@@ -228,19 +221,18 @@ Course overview; introduction to objects; sample OO program
 
 |
 
-[acrobat](http://www.cse.ogi.edu/cse504/slides/Lecture1.pdf)
+acrobat
 
 |
 
-[OOP1 given ](http://www.cse.ogi.edu/cse504/oop1_assignment.html)  
+OOP1 given  
   
 2   Sept. 29  
      Andrew
 
 |
 
-Ch. 3 (text), [Budd on O-O
-thinking](http://www.cse.ogi.edu/cse504/readings/BuddCh1reading.pdf)
+Ch. 3 (text), Budd on O-O thinking
 
 |
 
@@ -248,7 +240,7 @@ Smalltalk: the Environment and the Language
 
 |
 
-[acrobat](http://www.cse.ogi.edu/cse504/slides/Lecture2.pdf)
+acrobat
 
 |
 
@@ -272,7 +264,7 @@ continue with slides from Sept. 29th
 |
 
 OOP1 due;  
-[OOP2 given](http://www.cse.ogi.edu/cse504/oop2_assignment.html)  
+OOP2 given  
   
 4   Oct. 6  
      Andrew
@@ -287,7 +279,7 @@ Design & redesign
 
 |
 
-[acrobat](http://www.cse.ogi.edu/cse504/slides/Lecture4.pdf)
+acrobat
 
 |
 
@@ -306,12 +298,12 @@ Use Cases & Use Case Diagram
 
 |
 
-[acrobat](http://www.cse.ogi.edu/cse504/slides/lecture5&6.pdf)
+acrobat
 
 |
 
 OOP2 due;  
-[Use case 1 given](http://www.cse.ogi.edu/cse504/assignment3.html)  
+Use case 1 given  
   
 6   Oct. 13  
      Lois
@@ -331,7 +323,7 @@ continue with slides from Oct. 11th
 
 |
 
-[Use case 2 given](http://www.cse.ogi.edu/cse504/assignment4.html)  
+Use case 2 given  
   
 7   Oct. 18  
      Andrew
@@ -342,12 +334,11 @@ continue with slides from Oct. 11th
 
 |
 
-Video of talk on Project Planning by [Ron
-Jeffries](http://www.armaties.com/jeffries.htm)
+Video of talk on Project Planning by Ron Jeffries
 
 |
 
- [Extreme Programming](http://www.xprogramming.com/) site
+ Extreme Programming site
 
 |
 
@@ -359,7 +350,7 @@ Use case 1 due
 |
 
 Ch. 3 (thru 3.8), pp. 29-46 [Budd98]  
-paper ([Beck/Cunn.89](http://c2.com/doc/oopsla89/paper.html))  
+paper (Beck/Cunn.89)  
 handout (pp. 64-66 of _UML Distilled_ )  
 Ch. 3 [Jacobson99] (pp. 40-48)  
 (Optional:  
@@ -373,16 +364,15 @@ Use Case-Driven Analysis using CRC Cards
 
 |
 
-[acrobat (text)](http://www.cse.ogi.edu/cse504/slides/lecture7&8.pdf)  
-[acrobat (Budd)](http://www.cse.ogi.edu/cse504/slides/analysisBudd.pdf)
+acrobat (text)  
+acrobat (Budd)
 
 |
 
 Use case 2 due  
 
 
-[Analysis given on Friday Oct.
-22](http://www.cse.ogi.edu/cse504/assignment5.html)  
+Analysis given on Friday Oct. 22  
   
 9   Oct. 25  
      Lois
@@ -397,7 +387,7 @@ UML Sequence Diagram
 
 |
 
-[acrobat](http://www.cse.ogi.edu/cse504/slides/sequencediagrams.pdf)
+acrobat
 
 |
 
@@ -416,7 +406,7 @@ UML Class Diagram
 
 |
 
-[acrobat](http://www.cse.ogi.edu/cse504/slides/changecases.pdf)
+acrobat
 
 |
 
@@ -455,11 +445,11 @@ Analysis Patterns
 
 |
 
-[acrobat](http://www.cse.ogi.edu/cse504/slides/AnalysisPatterns.pdf)
+acrobat
 
 |
 
-[Analysis Pattern](http://www.cse.ogi.edu/cse504/assignment6.html)s assigned  
+Analysis Patterns assigned  
   
 13 Nov. 8  
      Lois
@@ -474,9 +464,8 @@ Analysis Patterns and Introduction to Design Patterns
 
 |
 
-[acrobat](http://www.cse.ogi.edu/cse504/slides/introDesignPatterns.pdf)  
-Iterators in [Java](http://www.cse.ogi.edu/cse504/IteratorInJava.html) &
-[Smalltalk](http://www.cse.ogi.edu/cse504/IteratorInSmalltalk.html)
+acrobat  
+Iterators in Java & Smalltalk
 
 |  
   
@@ -495,7 +484,7 @@ Overview of design & responsibility-driven design
 
 |
 
-[acrobat](http://www.cse.ogi.edu/cse504/slides/AndrewOnDesign.pdf)
+acrobat
 
 |
 
@@ -536,7 +525,7 @@ no class (taped OCATE lecture from Nov. 12 shown in class)
 
 |
 
- [Design assigned](http://www.cse.ogi.edu/cse504/assignment7.html)  
+ Design assigned  
   
 16 Nov. 17  
      Andrew
@@ -551,8 +540,8 @@ Objects, Instances & Interfaces
 
 |
 
-[acrobat](http://www.cse.ogi.edu/cse504/slides/Lecture16.pdf)  
-Smalltalk class [Venn](http://www.cse.ogi.edu/cse504/programs/Venn.html)
+acrobat  
+Smalltalk class Venn
 
 |
 
@@ -580,8 +569,7 @@ attendance required
 
 |
 
-[Cook on Collection
-Interfaces](http://www.cse.ogi.edu/cse504/readings/CookSTInterfaces.pdf)
+Cook on Collection Interfaces
 
 |
 
@@ -589,10 +577,8 @@ Conformance & Subtyping
 
 |
 
-Confromance, Subtyping, Libraries & Frameworks
-[acrobat](http://www.cse.ogi.edu/cse504/slides/Lecture17%2618_4up.pdf)  
-[acrobat for HW 6
-comments](http://www.cse.ogi.edu/cse504/slides/hw6_observations.pdf)
+Confromance, Subtyping, Libraries & Frameworks acrobat  
+acrobat for HW 6 comments
 
 |
 
@@ -613,8 +599,7 @@ Libraries & Frameworks. Software Architecture
 
 Libraries & Frameworks: continues from previous slide set.
 
-[Software Architecture
-acrobat](http://www.cse.ogi.edu/cse504/slides/softwarearchitecture.pdf)
+Software Architecture acrobat
 
 |
 
@@ -633,12 +618,11 @@ Patterns of Software Architecture
 
 |
 
-[acrobat](http://www.cse.ogi.edu/cse504/slides/architecture-patterns-cont.pdf)
+acrobat
 
 |
 
-[Reverse Engineering](http://www.cse.ogi.edu/cse504/oop3_assignment.html)
-assigned  
+Reverse Engineering assigned  
   
 20 Dec. 1  
      Lois
@@ -656,8 +640,8 @@ Rational Rose Demo
 
 |
 
- [UML metamodel acrobat](http://www.cse.ogi.edu/cse504/slides/metamodel.pdf)  
-[statecharts acrobat](http://www.cse.ogi.edu/cse504/slides/OMT.pdf)
+ UML metamodel acrobat  
+statecharts acrobat
 
 |
 
@@ -685,14 +669,8 @@ Final exam - open book
   
 * * *
 
-[Education](http://www.cse.ogi.edu/edu.html) |
-[Admission](http://www.cse.ogi.edu/admit.html) |
-[Research](http://www.cse.ogi.edu/research.html) | [Student
-Life](http://www.cse.ogi.edu/student.html) |
-[People](http://www.cse.ogi.edu/people.html) | [News &
-Events](http://www.cse.ogi.edu/news.html) | [Additional
-Resources](http://www.cse.ogi.edu/resources.html)  
-[Home](http://www.cse.ogi.edu) | [OGI](http://www.ogi.edu/)  
-Send comments to [Webmaster](mailto:www@cse.ogi.edu). Last modified: Oct. 11,
-1999.
+Education | Admission | Research | Student Life | People | News & Events |
+Additional Resources  
+Home | OGI  
+Send comments to Webmaster. Last modified: Oct. 11, 1999.
 

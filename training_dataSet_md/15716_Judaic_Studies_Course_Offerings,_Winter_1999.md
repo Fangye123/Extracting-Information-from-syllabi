@@ -381,12 +381,9 @@ communal service is the focus, an underlying theme is the contributions of
 ethnic groups to the growth of social welfare and community self-help in a
 multicultural society.
 
-Back to the [ Judaic Studies Course Guide Archive
-](http://www.umich.edu/~judstud/crstbl.htm).
+Back to the  Judaic Studies Course Guide Archive .
 
-Back to the [Frankel Center for Judaic
-Studies](http://www.umich.edu/~judstud/).
+Back to the Frankel Center for Judaic Studies.
 
-Back to the [Frankel Center for Judaic Studies Text
-Page](http://www.umich.edu/~judstud/tof.htm).
+Back to the Frankel Center for Judaic Studies Text Page.
 

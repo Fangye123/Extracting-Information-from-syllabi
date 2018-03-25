@@ -58,9 +58,8 @@ read your comments, be sure to use the private option.
 
 8 January, 1998
 
-[Sign My Guestbook](http://www.lpage.com/wgb/wgbsign.dbm?owner=weavings) [View
-My Guestbook](http://www.lpage.com/wgb/wgbview.dbm?owner=weavings)
-[![Guestbook by GuestWorld](lpagebutton.gif)](http://www.Lpage.com/)  
+Sign My Guestbook View My Guestbook ![Guestbook by
+GuestWorld](lpagebutton.gif)  
     
   **COURSE SYLLABUS**
 
@@ -120,8 +119,8 @@ should do your best to attend at least one of those meetings.
 
 
 **TEXT BOOK :**  Gabrielle Lusser-Rico, _Writing the Natural Way: Using Right
-Brain Techniques to Release your Expressive Power_. ** **   **[E-mail Dr.
-Shafer](mailto:facshaferi@mercur.usao.edu)**  
+Brain Techniques to Release your Expressive Power_. ** **   **E-mail Dr.
+Shafer**  
 ---  
 Copyright   Ingrid Shafer 1998  
   

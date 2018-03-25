@@ -1,9 +1,9 @@
-[**American Mathematical Monthly**](http://www.maa.org/), Vol. 103, No. 2,
-February 1996, pp. 134-142.
+**American Mathematical Monthly**, Vol. 103, No. 2, February 1996, pp.
+134-142.
 
 ** A Fable of Reform
 
-[John J. Schommer](http://www.utm.edu/~jschomme/index.shtml) **
+John J. Schommer **
 
 For years the math department at Rolling Hills State University (RHSU) had
 been taking heat from nearly every liberal arts department on campus for being
@@ -30,11 +30,10 @@ university curriculum committee.
 
 The newly formed chess committee had barely met for an hour when they realized
 that, from a professional standpoint, most of what they wanted to accomplish
-in a chess class would resonate strongly with the
-_[NCTM](http://www.nctm.org/) Professional Standards for Teaching Mathematics_
-[ **1** , pp.19-67]. Within a week of their first committee meeting, a very
-eager chess committee had completed the first draft of its report to the
-curriculum committee. It emphasized the following:
+in a chess class would resonate strongly with the _NCTM Professional Standards
+for Teaching Mathematics_ [ **1** , pp.19-67]. Within a week of their first
+committee meeting, a very eager chess committee had completed the first draft
+of its report to the curriculum committee. It emphasized the following:
 
 * **Critical Thinking / Problem Solving.** If ever there was a game that involved critical thinking it was chess. Every time the board changed new problems were created, problems with many valid game-winning solutions, problems completely unlike the pre-fabricated exercises of the typical algebra book with their stock unique solutions. With the right teacher at the helm of this class, each lesson might very well involve almost 50 minutes of careful, critical analysis. 
 
@@ -412,6 +411,6 @@ offered the following year.
 
 **Reference**
 
-[1] [NCTM](http://www.nctm.org/), _Professional Standards for Teaching
-Mathematics_ , Reston: [NCTM](http://www.nctm.org/), 1991
+[1] NCTM, _Professional Standards for Teaching Mathematics_ , Reston: NCTM,
+1991
 

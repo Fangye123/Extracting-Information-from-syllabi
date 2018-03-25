@@ -1,7 +1,7 @@
 **MODERN WAR**
 
   
-Syllabus  |  | [Dale Clifford](mailto:clifford@unf.edu)  
+Syllabus  |  | Dale Clifford  
 ---|---|---  
 HIS 3307 020 | Office 8/2403; Phone 620-2886  
 Summer 2000 | Office hours 11-12:30 MW, or by appt.  
@@ -33,8 +33,8 @@ expected, and will count for 5% of the final grade.  The plus-minus system
 will be used.
 
 Students who plagiarize or cheat in any way will earn an F. If you are unsure
-about the definition of plagiarism, see the definition provided in
-_[Clifford's Advice.](http://www.unf.edu/~clifford/ca/ca1.html)_
+about the definition of plagiarism, see the definition provided in _Clifford's
+Advice._
 
 **REQUIRED BOOKS:**  
 Larry Addington, _The Patterns of War Since the 18 th Century_ [Patterns in
@@ -70,8 +70,7 @@ remember that a significant question is often a major contribution to
 discussion. One regular feature will be a weekly discussion of current
 military events. You can prepare for these discussions by reading a good
 newspaper or newsmagazine, or listening to NPR. You will find some useful
-sites linked from our [class web
-page](http://www.unf.edu/militaryhistory/mil.htm)[.](http://www.unf.edu/~clifford/mil.htm)
+sites linked from our class web page.
 
 **FILM REVIEW:**  
 Each student must review a film about World War II, and write a 3-4 page
@@ -125,7 +124,7 @@ warfare": From Vietnam to Kosovo. Read Turner, _Even the Women Must Fight_.
 Discussion question: Reflect on women's roles in war: is the experience of
 North Vietnamese women particular to that time and place, or is there
 something in common with women in other wars we have studied? **_Questions?
-[Email ](mailto:clifford@unf.edu)or phone 620-2886._**
+Email or phone 620-2886._**
 
 **FINAL EXAM** : **Take-home, due by 5 pm Friday, 16 June.**
 

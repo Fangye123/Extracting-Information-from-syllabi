@@ -9,11 +9,10 @@ Dr. Evan McKenzie
 _Call number:_ 15025_  
  _Room:_ BSB 381  
  _Time:_ 10:00-10:50am MWF  
- _Instructor:_ [Evan
-McKenzie](http://www.uic.edu/depts/pols/evanmckenzie.html)  
+ _Instructor:_ Evan McKenzie  
  _Contact Information:_ I am located in BSB 1122-D. My officer hours are MW
 12-1 and by appointment. My office direct line is 312-413-3782. My internet
-address is [mckenzie@uic.edu](mailto:mckenzie@uic.edu)
+address is mckenzie@uic.edu
 
 * * *
 
@@ -153,13 +152,12 @@ the law. See the O'Brien book, Appendix A, p 1537, for a list of some of the
 main ones. Or, if you go to the POLS department home page, using the link
 below, and then click the "Internet Resources" button at the top of the page,
 you will go to a page that contains many link to legal sources. But for now,
-try the [Legal Information Institute](http://supct.law.cornell.edu/supct/) at
-Cornell University. You can also go to the web site of the [United States
-Supreme Court](http://www.supremecourtus.gov/) itself and read opinions.
+try the Legal Information Institute at Cornell University. You can also go to
+the web site of the United States Supreme Court itself and read opinions.
 
 I will post other links on this web page from time to time.
 
-[Back to UIC Political Science Home Page](http://www.uic.edu/depts/pols)
+Back to UIC Political Science Home Page
 
-[Back to Evan McKenzie's Home Page](http://www.uic.edu/~mckenzie)
+Back to Evan McKenzie's Home Page
 

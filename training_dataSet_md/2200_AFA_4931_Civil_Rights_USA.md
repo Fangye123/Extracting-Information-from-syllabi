@@ -50,19 +50,19 @@ this website for updated information.
 **Office Phone:** 974-3640 (Dr. Morehouse) 974-2384; (Political Science dept.)
 974-2427; (Africana Studies dept.)  
 **Office Hours:** SOC 352 (Political Science department)  
-**E-mail:  ** _[morehous@luna.cas.usf.edu](mailto:morehous@luna.cas.usf.edu)_  
+**E-mail:  ** _morehous@luna.cas.usf.edu_  
 **Educational Outreach:** 974-2996 (Distance Learning Student Support);
 974-3063 (24 hr. Info Line).
 
 **Telecourse Rentals:** You may rent "Eyes on the Prize" from RMI Media
 Productions for $55.00. Call 1-800-745-5480 for details or visit their website
-at <http://www.rmimedia.com/>
+at http://www.rmimedia.com/
 
 
 
 **Distance Learning Student Support Information:**  
 **Coordinator:** Stephanie Gaskins  
-**Email:**[sgaskins@admin.usf.edu](../../../../outreach/Spring%202001%20Telecourse%20Syllabi/sgaskins@admin.usf.edu)  
+**Email:**sgaskins@admin.usf.edu  
 **Office Location:** SVC 1072 (map grid: D3)  
 **Office Hours:** Monday - Thursday 8:00 am -7:00 pm Friday 8:00 am -5:00pm  
 **Phone:** (813) 974-2996; 974-3063 (24 Hour Info Line)

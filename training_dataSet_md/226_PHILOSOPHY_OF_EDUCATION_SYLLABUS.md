@@ -4,8 +4,7 @@
 
 **SYLLABUS**
 
-[Amplification of Course
-Assignments](http://webs.csu.edu/~big0ama/CSU/ELCAF/courses/ELCF400/Amplification.html)
+Amplification of Course Assignments
 
 Dr. Makedon
 
@@ -303,10 +302,10 @@ Wingo, G. Max. Philosophies of Education: An Introduction. Boston: Heath,
   
 Return to the Top
 
-[Alexander Makedon ](http://webs.csu.edu/~big0ama/CSUhomepg.html)  
-[Chicago State University ](http://www.csu.edu)
+Alexander Makedon  
+Chicago State University
 
-_**Copyright (C) 1999 [A. Makedon](mailto:A-Makedon@csu.edu)**_
+_**Copyright (C) 1999 A. Makedon**_
 
 ![](http://webs.csu.edu/cgi-bin/count.cgi/pagecounterELCF400Syllabus.dat)
 _visits since  09/01/1999_

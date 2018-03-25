@@ -21,7 +21,7 @@
 
 >
 
->> > > [**PRLS 501 Course Syllabus**](501syl00.htm)
+>> > > **PRLS 501 Course Syllabus**
 
 >>>
 
@@ -29,158 +29,140 @@
 
 >>>
 
->>> [**Natural Resources Law Links:** Court Opinions, Statutes, Regulations,
-Legislative Materials, Agency websites](501link.html)
+>>> **Natural Resources Law Links:** Court Opinions, Statutes, Regulations,
+Legislative Materials, Agency websites
 
 >>>
 
->>> [Legal Dictionary
-(law.com)](http://dictionary.law.com/default2.asp?typed=)
+>>> Legal Dictionary (law.com)
 
 >>>
 
->>> [**WWWebster Dictionary**](http://www.m-w.com/)
-**[](http://www.m-w.com/dictionary.htm)** believe it or not definitions for a
-lot of "legalese"
+>>> **WWWebster Dictionary** **** believe it or not definitions for a lot of
+"legalese"
 
 >>>
 
->>> [SOLID WASTE AGENCY OF NORTHERN COOK COUNTY v. UNITED STATES ARMY CORPS  
->  OF ENGINEERS et al.](http://caselaw.lp.findlaw.com/cgi-
-bin/getcase.pl?court=US&navby=case&vol=000&invol=99-1178)[ ](501link.html)U.S.
-Supreme Court, No. 99-1178. Decided January 9, 2001
+>>> SOLID WASTE AGENCY OF NORTHERN COOK COUNTY v. UNITED STATES ARMY CORPS  
+>  OF ENGINEERS et al. U.S. Supreme Court, No. 99-1178. Decided January 9,
+2001
 
 >
 
-> **January 29:[National Environmental Policy Act
-(NEPA)](http://ceq.eh.doe.gov/nepa/regs/nepa/nepaeqia.htm)**
+> **January 29:National Environmental Policy Act (NEPA)**
 
 >
 
->> > > [**NEPA outine and case notes**](501nepan.html)
+>> > > **NEPA outine and case notes**
 
 >>>>
 
->>>>> [ MARSH v. OREGON NATURAL RESOURCES COUNCIL, 490 U.S. 360
-(1989)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=us&vol=490&invol=360)
+>>>>> MARSH v. OREGON NATURAL RESOURCES COUNCIL, 490 U.S. 360 (1989)
 
 >>>>>
 
->>>>> [ROBERTSON v. METHOW VALLEY CITIZENS COUNCIL, 490 U.S. 332
-(1989)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=us&vol=490&invol=332)
+>>>>> ROBERTSON v. METHOW VALLEY CITIZENS COUNCIL, 490 U.S. 332 (1989)
 
 >>>>>
 
->>>>> [CITIZENS TO PRESERVE OVERTON PARK v. VOLPE 401 U.S. 402
-(1971)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=us&vol=401&invol=402)
+>>>>> CITIZENS TO PRESERVE OVERTON PARK v. VOLPE 401 U.S. 402 (1971)
 
 >>>>>
 
->>>>> [**Council on Environmental Quality**](http://www.whitehouse.gov/ceq/)
+>>>>> **Council on Environmental Quality**
 
 >>>>>
 
->>>>>> [**CEQ - Regulations for Implementing
-NEPA**](http://ceq.eh.doe.gov/nepa/regs/ceq/toc_ceq.htm)
+>>>>>> **CEQ - Regulations for Implementing NEPA**
 
 >>>>>>
 
->>>>>> [**Part 1502 - Environmental Impact
-Statement**](http://ceq.eh.doe.gov/nepa/regs/ceq/1502.htm#1502)
+>>>>>> **Part 1502 - Environmental Impact Statement**
 
 >>>>>
 
->>>>> [**Environmental Protection Agency**](http://www.epa.gov/)
+>>>>> **Environmental Protection Agency**
 
 >>>>>
 
->>>>>> [**EPA Major Environmental Laws**](http://www.epa.gov/epahome/laws.htm)
+>>>>>> **EPA Major Environmental Laws**
 
 >>>>>>
 
->>>>>> [**Environmental Protection Agency (EPA) Laws &
-Regulations**](http://www.epa.gov/epahome/rules.html)
+>>>>>> **Environmental Protection Agency (EPA) Laws & Regulations**
 
 >>>>>>
 
->>>>>> [**Current EIS Documents Available for
-Review**](http://es.epa.gov/oeca/ofa/fedfile.html)
+>>>>>> **Current EIS Documents Available for Review**
 
 >>
 
->> [**CLEAN WATER ACT PERMIT IGNORED ADVERSE IMPACTS ON PARK
-ENVIRONMENT**](ceu22a.htm) case study, objectives, reading, and review
-questions
+>> **CLEAN WATER ACT PERMIT IGNORED ADVERSE IMPACTS ON PARK ENVIRONMENT** case
+study, objectives, reading, and review questions
 
 >>
 
->>> [AUDUBON SOCIETY OF CENTRAL ARKANSAS v. DAILEY, 977 F.2d 428 (10th Circuit
-1992)](dailey.htm)
+>>> AUDUBON SOCIETY OF CENTRAL ARKANSAS v. DAILEY, 977 F.2d 428 (10th Circuit
+1992)
 
 >>
 
->> [**ENVIRONMENTAL CHALLENGE TO FEDERAL HIGHWAY PROJECT THROUGH PARK** ,
-](ceu22b.htm)case study, objectives, reading, and review questions
+>> **ENVIRONMENTAL CHALLENGE TO FEDERAL HIGHWAY PROJECT THROUGH PARK** , case
+study, objectives, reading, and review questions
 
 >>
 
->>> [Committee to Preserve Boomer Lake Park v. Department of Transportation, 4
-F.3d 1543 (10th Cir. 1993)](boomer.html)
+>>> Committee to Preserve Boomer Lake Park v. Department of Transportation, 4
+F.3d 1543 (10th Cir. 1993)
 
 >>>
 
->>> [FHWA NEPA: Section 4(f): Protection of Parks, Recreation
-Areas](http://www.fhwa.dot.gov/environment/4_f.htm)
+>>> FHWA NEPA: Section 4(f): Protection of Parks, Recreation Areas
 
 >>
 
->> **February 5:[National Environmental Policy Act (NEPA)
-continued](http://ceq.eh.doe.gov/nepa/regs/nepa/nepaeqia.htm)**
+>> **February 5:National Environmental Policy Act (NEPA) continued**
 
 >>
 
->> [**GETTYSBURG NATIONAL MILITARY PARK DEER MANAGEMENT PROGRAM,** _Davis v.
-Latschar,_ 202 F.3d 359 (D.C.Cir. 02/22/2000) ](ceu24a.html) case study,
-objectives, reading, and review questions
+>> **GETTYSBURG NATIONAL MILITARY PARK DEER MANAGEMENT PROGRAM,** _Davis v.
+Latschar,_ 202 F.3d 359 (D.C.Cir. 02/22/2000)  case study, objectives,
+reading, and review questions
 
 >>
 
->>> ["Cut & Paste" Review Question Responses _Davis v.
-Latschar_](npsderqa.html)
+>>> "Cut & Paste" Review Question Responses _Davis v. Latschar_
 
 >>
 
->> [**SIERRA CLUB v. HATCH (U.S. D.C. Colo. 1992) ** Golf Course Construction,
-EPA and endangered species](hatch.htm)
+>> **SIERRA CLUB v. HATCH (U.S. D.C. Colo. 1992) ** Golf Course Construction,
+EPA and endangered species
 
 >>
 
->> [**DUBOIS v DEPARTMENT OF AGRICULTURE** LOON LAKE SKI EIS,
-1996](http://caselaw.findlaw.com/scripts/getcase.pl?navby=search&case=/data2/circs/1st/961015.html)
+>> **DUBOIS v DEPARTMENT OF AGRICULTURE** LOON LAKE SKI EIS, 1996
 
 >>
 
->>> > [NEPA/EIS general principles highlighted, Dubois v. Dept. of Agric.
-"Loon Lake"](nepants.htm)
+>>> > NEPA/EIS general principles highlighted, Dubois v. Dept. of Agric. "Loon
+Lake"
 
 >>>>
 
->>>> [CEQ \- Regulations for Implementing
-NEPA](http://ceq.eh.doe.gov/nepa/regs/ceq/toc_ceq.htm)
+>>>> CEQ \- Regulations for Implementing NEPA
 
 >>>>
 
->>>> [Part 1502 - Environmental Impact
-Statement](http://ceq.eh.doe.gov/nepa/regs/ceq/1502.htm#1502)
+>>>> Part 1502 - Environmental Impact Statement
 
 >>
 
->> [**PRESIDEO GOLF CLUB v. NATIONAL PARK SERVICE** 9TH CIRCUIT 1998
-](ceu24c.html)case study, objectives, reading, and review questions
+>> **PRESIDEO GOLF CLUB v. NATIONAL PARK SERVICE** 9TH CIRCUIT 1998 case
+study, objectives, reading, and review questions
 
 >>
 
->>> > [NEPA Case Study: Ox Road Widenng Project](oxrdcase.html)
+>>> > NEPA Case Study: Ox Road Widenng Project
 
 >
 
@@ -193,36 +175,32 @@ F.3d 722 (9th Cir. 02/23/2001)
 
 >>>
 
->>>> [FindLaw : Cases US Circuit
-Courts](http://www.findlaw.com/casecode/courts/index.html)
+>>>> FindLaw : Cases US Circuit Courts
 
 >>>
 
->>> [**CONSERVATION LAW FOUNDATION OF NEW ENGLAND, INC. v. SECRETARY OF THE
-INTERIOR** ( NPS **** Cape Cod ORV case) ](fedrec1.htm)Case Study, Objectives,
-Reading, Review Questions
-
->>>
-
->>> [**BICYCLE TRAILS COUNCIL OF MARIN v. BABBITT** NPS bike regs in Golden
-Gate NRA, 9th Circuit, 1996 ](fedrec2.htm)Case Study, Objectives, Reading,
+>>> **CONSERVATION LAW FOUNDATION OF NEW ENGLAND, INC. v. SECRETARY OF THE
+INTERIOR** ( NPS **** Cape Cod ORV case) Case Study, Objectives, Reading,
 Review Questions
 
 >>>
 
->>>> [GOLDEN GATE NATIONAL RECREATION AREA enabling legislation, 16 U.S.C.
-460bb](ggnralaw.html)
+>>> **BICYCLE TRAILS COUNCIL OF MARIN v. BABBITT** NPS bike regs in Golden
+Gate NRA, 9th Circuit, 1996 Case Study, Objectives, Reading, Review Questions
 
 >>>
 
->>> [**NORTHWEST MOTORCYCLE ASS'N v. USDA,** 18 F.3d 1468 (9th Cir.
-1994)](nwmotcyc.htm)
+>>>> GOLDEN GATE NATIONAL RECREATION AREA enabling legislation, 16 U.S.C.
+460bb
 
 >>>
 
->>> [**SOUTHERN UTAH WILDERNESS ALLIANCE v. DABNEY,** No. 98-4202 (10th Cir.
-08/16/2000)](http://caselaw.lp.findlaw.com/cgi-
-bin/getcase.pl?court=10th&navby=case&no=984202)
+>>> **NORTHWEST MOTORCYCLE ASS'N v. USDA,** 18 F.3d 1468 (9th Cir. 1994)
+
+>>>
+
+>>> **SOUTHERN UTAH WILDERNESS ALLIANCE v. DABNEY,** No. 98-4202 (10th Cir.
+08/16/2000)
 
 >
 
@@ -231,38 +209,35 @@ bin/getcase.pl?court=10th&navby=case&no=984202)
 
 >
 
->> > [**PERSONAL WATERCRAFT INDUSTRY ASN. v. DEPARTMENT OF COMMERCE** jet ski
-regs in marine sanctuary, 48 F.3d 540 (D.C. Cir. 1995)](jetski.htm)
+>> > **PERSONAL WATERCRAFT INDUSTRY ASN. v. DEPARTMENT OF COMMERCE** jet ski
+regs in marine sanctuary, 48 F.3d 540 (D.C. Cir. 1995)
 
 >>>
 
->>> [**ALASKA WILDLIFE v JENSEN** COMMERCIAL FISHING IN NPS
-ALASKA](alaska.htm)
+>>> **ALASKA WILDLIFE v JENSEN** COMMERCIAL FISHING IN NPS ALASKA
 
 >>>
 
->>> [**MAUSOLF v. BABBITT, (8th Circuit 1997)** restrictions on snowmobiling
-in Voyageurs National Park.](mausolf.htm)
+>>> **MAUSOLF v. BABBITT, (8th Circuit 1997)** restrictions on snowmobiling in
+Voyageurs National Park.
 
 >>>
 
->>> [**HELLS CANYON ALLIANCE v. U.S. FOREST SERVICE** No. 99-35675 (9th Cir.
-09/14/2000)](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=9th&navby=case&no=9935675&exact=1)
+>>> **HELLS CANYON ALLIANCE v. U.S. FOREST SERVICE** No. 99-35675 (9th Cir.
+09/14/2000)
 
 >>>
 
->>>> [Michigan United Conservation Clubs v. Lujan, 949 F.2d 202 (6th Cir.
-1991)](npstrapn.html)
+>>>> Michigan United Conservation Clubs v. Lujan, 949 F.2d 202 (6th Cir. 1991)
 
 >>>>
 
->>>> [Wilderness Public Rights Fund v. Kleppe, 608 F.2d 1250 (9th Cir.
-11/01/1979)](npsriver.html)
+>>>> Wilderness Public Rights Fund v. Kleppe, 608 F.2d 1250 (9th Cir.
+11/01/1979)
 
 >
 
-> **February 26: Exam # 1**[PRLS 501, Sample Exam, Fall '99 Exam
-#2](501fa99x.html)
+> **February 26: Exam # 1**PRLS 501, Sample Exam, Fall '99 Exam #2
 
 >
 
@@ -271,59 +246,52 @@ in Voyageurs National Park.](mausolf.htm)
 
 >
 
->> > [**SOUTHERN UTAH WILDERNESS ALLIANCE v. DABNEY,** No. 98-4202 (10th Cir.
-08/16/2000)](http://caselaw.lp.findlaw.com/cgi-
-bin/getcase.pl?court=10th&navby=case&no=984202)
+>> > **SOUTHERN UTAH WILDERNESS ALLIANCE v. DABNEY,** No. 98-4202 (10th Cir.
+08/16/2000)
 
 >>>
 
->>> [ PRLS 501, UNDERGRAD EXAM # 1, SPRING 2001 ](501xu101.html)***** **[PRLS
-501, GRADUATE EXAM # 1, SPRING 2001](501xg101.html)
+>>> PRLS 501, UNDERGRAD EXAM # 1, SPRING 2001 ***** **PRLS 501, GRADUATE EXAM
+# 1, SPRING 2001
 
 >
 
-> **March 5:[LAND AND WATER CONSERVATION FUND ACT
-(LWCF)](http://www.law.cornell.edu/uscode/16/460l-4.shtml)**
+> **March 5:LAND AND WATER CONSERVATION FUND ACT (LWCF)**
 
 >
 
->> [**LWCF ACT BLOCKS CONVERSION OF SCENIC EASEMENT TO GOLF
-COURSE,**](ceulwcf1.htm) Case Study, Objectives, Reading, Review Questions
+>> **LWCF ACT BLOCKS CONVERSION OF SCENIC EASEMENT TO GOLF COURSE,** Case
+Study, Objectives, Reading, Review Questions
 
 >>
 
->> [**FRIENDS OF IRONBRIDGE PARK v. BABBITT** LWCF regs  "facility changes"
-](ceulwcf2.htm)Case Study, Objectives, Reading, Review Questions
+>> **FRIENDS OF IRONBRIDGE PARK v. BABBITT** LWCF regs  "facility changes"
+Case Study, Objectives, Reading, Review Questions
 
 >>
 
->> [**SIERRA CLUB OF ARKANSAS v. DAVIES** LWCF Case, USCA 8th Circuit, 1992,
-Crater of Diamonds State Park](lwcfgem.htm)
+>> **SIERRA CLUB OF ARKANSAS v. DAVIES** LWCF Case, USCA 8th Circuit, 1992,
+Crater of Diamonds State Park
 
 >>
 
->>> [**National Park Service (NPS) LWCF
-website**](http://www.ncrc.nps.gov/lwcf/)
+>>> **National Park Service (NPS) LWCF website**
 
 >>>
 
->>> [**A Quick History of the LWCF
-PROGRAM**](http://www.ncrc.nps.gov/lwcf/history.htm)
+>>> **A Quick History of the LWCF PROGRAM**
 
 >>>
 
->>> [**NPS website Urban Park & Recreation Recovery Program
-(UPARR)**](http://www.ncrc.nps.gov/uparr/)
+>>> **NPS website Urban Park & Recreation Recovery Program (UPARR)**
 
 >>>
 
->>> [**Virginia Statewide Comprehensive Outdoor Recreation
-Plan**](http://www.dcr.state.va.us/vop_stat.htm)
+>>> **Virginia Statewide Comprehensive Outdoor Recreation Plan**
 
 >>>
 
->>>> [ Virginia Code Title 10.1 CONSERVATION](http://leg1.state.va.us/cgi-
-bin/legp504.exe?000+cod+TOC1001000)
+>>>> Virginia Code Title 10.1 CONSERVATION
 
 >
 
@@ -331,58 +299,50 @@ bin/legp504.exe?000+cod+TOC1001000)
 
 >
 
-> **March 19:** "Takings" unconstitutional taking of private property [Outline
-and Case Notes](501taknt.htm)
+> **March 19:** "Takings" unconstitutional taking of private property Outline
+and Case Notes
 
 >
 
->> [**CONSTITUTIONAL GREENWAY DEDICATION REQUIRES "ROUGH PROPORTIONALITY" TO
-DEVELOPMENT'S IMPACT,**](ceu41a.htm) **[](dolan.htm)** case study, objectives,
-reading, and review questions
+>> **CONSTITUTIONAL GREENWAY DEDICATION REQUIRES "ROUGH PROPORTIONALITY" TO
+DEVELOPMENT'S IMPACT,** **** case study, objectives, reading, and review
+questions
 
 >>
 
->>> [CONSTITUTIONAL DIRE STRAITS FOR PUBLIC BAN ON PRIVATE BEACH BUILDING  
+>>> CONSTITUTIONAL DIRE STRAITS FOR PUBLIC BAN ON PRIVATE BEACH BUILDING  
 >  : _Lucas v. South Carolina Coastal Council,_ NRPA Law Review, October 1992,
-Parks & Recreation](lucas.html)
+Parks & Recreation
 
 >>>
 
->>> [**LUCAS v. SOUTH CAROLINA COASTAL COUNCIL** , 505 U.S. 1003
-(1992)](http://www.findlaw.com/cgi-bin/getcase.pl?court=US&vol=505&invol=1003)
+>>> **LUCAS v. SOUTH CAROLINA COASTAL COUNCIL** , 505 U.S. 1003 (1992)
 
 >>>
 
->>>> [DOLAN v. CITY OF TIGARD, **** U.S. SUPREME COURT OPINION
-1994](http://www.findlaw.com/cgi-bin/getcase.pl?court=US&vol=000&invol=U10365)
+>>>> DOLAN v. CITY OF TIGARD, **** U.S. SUPREME COURT OPINION 1994
 
 >>>>
 
->>>> [NOLLAN v. CALIFORNIA COASTAL COMM'N, 483 U.S. 825
-(1987)](http://caselaw.findlaw.com/cgi-
-bin/getcase.pl?court=US&vol=483&invol=825)
+>>>> NOLLAN v. CALIFORNIA COASTAL COMM'N, 483 U.S. 825 (1987)
 
 >>>
 
->>> [**STATE MANDATORY DEDICATION OPINIONS ILLUSTRATE "ROUGH PROPORTIONALITY"
-ANALYSIS** ,](ceu41b.htm) case study, objectives, reading, and review
-questions
+>>> **STATE MANDATORY DEDICATION OPINIONS ILLUSTRATE "ROUGH PROPORTIONALITY"
+ANALYSIS** , case study, objectives, reading, and review questions
 
 >>>
 
->>> [Virginia Code Chapter 22 - Planning, Subdivision of Land and Zoning -
-Article 1 - General
-Provisions](http://leg1.state.va.us/000/cod/code9945.htm#114774)
+>>> Virginia Code Chapter 22 - Planning, Subdivision of Land and Zoning -
+Article 1 - General Provisions
 
 >>>
 
->>>> [Find Law Overview & Background on Fifth Amendment "Takings"
-Clause](http://supreme.findlaw.com/Constitution/amendment05/14.html#1)
+>>>> Find Law Overview & Background on Fifth Amendment "Takings" Clause
 
 >>>>
 
->>>> [Find Law Regulatory Takings Overview &
-Annotations](http://supreme.findlaw.com/Constitution/amendment05/16.html#4)
+>>>> Find Law Regulatory Takings Overview & Annotations
 
 >
 
@@ -390,49 +350,45 @@ Annotations](http://supreme.findlaw.com/Constitution/amendment05/16.html#4)
 
 >
 
->> > [**THE RESTAURANT IN CENTRAL PARK: A DIVERSION CASE
-STUDY**](ceulaw21.htm) objectives, reading, and review questions
-
->>>
-
->>> [**GRIFFITH v. CITY OF LOS ANGELES ,** TEMPORARY LANDFILL PROPER PURPOSE
-IN DEDICATED PARK](ceu21a.htm)[ ](ceulaw21a.htm)case study, objectives,
+>> > **THE RESTAURANT IN CENTRAL PARK: A DIVERSION CASE STUDY** objectives,
 reading, and review questions
 
 >>>
 
->>> [**WHITE v. METROPOLITAN DADE COUNTY,** FLORIDA TENNIS TOURNAMENT DEPRIVED
-PUBLIC OF PARK USE ](ceu21b.htm)case study, objectives, reading, and review
-questions
+>>> **GRIFFITH v. CITY OF LOS ANGELES ,** TEMPORARY LANDFILL PROPER PURPOSE IN
+DEDICATED PARK case study, objectives, reading, and review questions
 
 >>>
 
->>> [NICKOLS v. COMMISSIONERS OF MIDDLESEX COUNTY (Mass. 1960)](walden.html)
+>>> **WHITE v. METROPOLITAN DADE COUNTY,** FLORIDA TENNIS TOURNAMENT DEPRIVED
+PUBLIC OF PARK USE case study, objectives, reading, and review questions
 
 >>>
 
->>> [ANGEL v. CITY OF NEWPORT (R.I. 1972)](angel.html)
+>>> NICKOLS v. COMMISSIONERS OF MIDDLESEX COUNTY (Mass. 1960)
 
 >>>
 
->>> [Borough of Ridgway v. Grant, 56 Pa. Commw. 450; 425 A.2d 1168
-(1981)](ridgway.html)
+>>> ANGEL v. CITY OF NEWPORT (R.I. 1972)
 
 >>>
 
->>>> [**NRPA BRIEF URGES "MARKET" VALUE INAPPROPRIATE **, JANUARY 1994 , "NRPA
-LAW REVIEW," _Parks & Recreation_](p%26r194.htm)
+>>> Borough of Ridgway v. Grant, 56 Pa. Commw. 450; 425 A.2d 1168 (1981)
+
+>>>
+
+>>>> **NRPA BRIEF URGES "MARKET" VALUE INAPPROPRIATE **, JANUARY 1994 , "NRPA
+LAW REVIEW," _Parks & Recreation_
 
 >>>>
 
->>>> [**COMPENSATION FOR CONDEMNED LAND NOT DEVALUED BY PARK DEDICATION,** May
-1994 ,  "NRPA LAW REVIEW," _Parks & Recreation_](p%26r594.htm)
+>>>> **COMPENSATION FOR CONDEMNED LAND NOT DEVALUED BY PARK DEDICATION,** May
+1994 ,  "NRPA LAW REVIEW," _Parks & Recreation_
 
 >>>>
 
->>>> [**FAIRFAX COUNTY PARK AUTHORITY v. VIRGINIA DEPARTMENT OF
-TRANSPORTATION** , 247 Va. 259 (1994) Virginia Supreme Court
-Opinion](fcpavdot.htm)
+>>>> **FAIRFAX COUNTY PARK AUTHORITY v. VIRGINIA DEPARTMENT OF
+TRANSPORTATION** , 247 Va. 259 (1994) Virginia Supreme Court Opinion
 
 >
 
@@ -444,26 +400,24 @@ Opinion](fcpavdot.htm)
 
 >
 
->> [**Constitutional Regulation of Symbolic Speech in Parks case study:**
-Clark v. Community for Creative Non-Violence ](ceu31a.htm)objectives, reading,
-and review questions
+>> **Constitutional Regulation of Symbolic Speech in Parks case study:** Clark
+v. Community for Creative Non-Violence objectives, reading, and review
+questions
 
 >>
 
->> [**Sound Amplification Requirements for Park Concerts Challenged case
-study** \- Ward v. Rock Against Racism ](ceu31b.htm)objectives, reading, and
-review questions
+>> **Sound Amplification Requirements for Park Concerts Challenged case
+study** \- Ward v. Rock Against Racism objectives, reading, and review
+questions
 
 >>
 
->> [**Park Service Noise Regulation Unconstitutionally Applied to War
-Protest** \- United States v. Doe ](ceu31c.html)objectives, reading, and
-review questions
+>> **Park Service Noise Regulation Unconstitutionally Applied to War Protest**
+\- United States v. Doe objectives, reading, and review questions
 
 >>
 
->> [**FRIENDS OF THE VIETNAM VETERANS MEMORIAL v. KENNEDY** (D.C. Cir.
-1997)](vietmem.htm)
+>> **FRIENDS OF THE VIETNAM VETERANS MEMORIAL v. KENNEDY** (D.C. Cir. 1997)
 
 >>
 
@@ -476,22 +430,20 @@ review questions
 
 >
 
-> **April 16:[Federal Liability for Recreational Injuries](fednegln.html)**
+> **April 16:Federal Liability for Recreational Injuries**
 
 >
 
->> > [ FindLaw : Cases US Circuit
-Courts](http://www.findlaw.com/casecode/courts/index.html)
+>> > FindLaw : Cases US Circuit Courts
 
 >>>
 
->>> [Reed v. United States Department of the Interior, No. 99-15250 (9th Cir.
-11/02/2000)](blmftca.html)
+>>> Reed v. United States Department of the Interior, No. 99-15250 (9th Cir.
+11/02/2000)
 
 >>>
 
->>> [Pacheco v. United States, No. 99-15421 (9th Cir.
-07/31/2000)](pacheco.html)
+>>> Pacheco v. United States, No. 99-15421 (9th Cir. 07/31/2000)
 
 >>>
 
@@ -499,8 +451,8 @@ Courts](http://www.findlaw.com/casecode/courts/index.html)
 
 >>>
 
->>> [Fang v. United States, 140 F.3d 1238, 98 Cal. Daily Op. Serv. 2340 (9th
-Cir. 03/31/1998)](fang.htm)
+>>> Fang v. United States, 140 F.3d 1238, 98 Cal. Daily Op. Serv. 2340 (9th
+Cir. 03/31/1998)
 
 >>>
 
@@ -523,23 +475,22 @@ U.S. 425, 177 F.3d 834, 148 L.Ed.2d
 
 >
 
-> **April 23:[Endangered Species Protection](esants.html)**
+> **April 23:Endangered Species Protection**
 
 >
 
->> [**ENDANGERED SEA TURTLES PROTECTED DURING CITY BEACH RESTORATION,** JUNE
-1993 NRPA LAW REVIEW, Parks & Recreation](seaturt.htm)
+>> **ENDANGERED SEA TURTLES PROTECTED DURING CITY BEACH RESTORATION,** JUNE
+1993 NRPA LAW REVIEW, Parks & Recreation
 
 >>
 
->> [U.S. Fish & Wildlife Service, Consultations with Federal Agencies, Section
-7 of the Endangered Species
-Act](http://endangered.fws.gov/consultations/sec7_faq.html)
+>> U.S. Fish & Wildlife Service, Consultations with Federal Agencies, Section
+7 of the Endangered Species Act
 
 >>
 
->>> [**GRAY WOLVES IN YELLOWSTONE** Wyoming Farm Bureau Federation v. Babbitt,
-199 F.3d 1224 (10th Cir. 01/13/2000)](npswolf.html)
+>>> **GRAY WOLVES IN YELLOWSTONE** Wyoming Farm Bureau Federation v. Babbitt,
+199 F.3d 1224 (10th Cir. 01/13/2000)
 
 >
 

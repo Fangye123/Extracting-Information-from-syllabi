@@ -19,8 +19,7 @@ Office: Ryland Hall 107, 289-8334
 
 Office Hours: 11:15 to Noon, M, T, W,TH, and other times by appointment
 
-E-mail: [ebolt@richmond.edu](mailto:ebolt@richmond.edu) Homepage:
-<http://www.richmond.edu/~ebolt>
+E-mail: ebolt@richmond.edu Homepage: http://www.richmond.edu/~ebolt
 
 
 
@@ -118,7 +117,7 @@ hours. You may find that using e-mail is the most effective means of contact.
   
 **
 
-[**Return to Course Index Page**](Index_Page.html)
+**Return to Course Index Page**
 
 **Go to Schedule of Classes and Assignments**
 

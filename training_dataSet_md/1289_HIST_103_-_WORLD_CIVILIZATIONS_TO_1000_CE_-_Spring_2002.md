@@ -6,9 +6,8 @@
 
 | **Office:** 203 Brock Hall  
 **Phone:** 755-4581  
-**E-mail:** [Anthony-Steinhoff@utc.edu](mailto:Anthony-Steinhoff@utc.edu)  
-**Home page:** [http://www.utc.edu/~asteinho](http://www.utc.edu/%7Easteinho)
-|
+**E-mail:** Anthony-Steinhoff@utc.edu  
+**Home page:** http://www.utc.edu/~asteinho |
 
 **Class Hours:** Section 02 MWF 11:00-11:50  
 Section 03 MWF 12:00-12:50  
@@ -76,7 +75,7 @@ internet)
 
   * Completion of history workshop assignments. An essential part of the class is learning how to "make history" by working with the evidence of the past. You will have a special preparation for each history workshop (HW), which you must write up and submit. There will be ten such assignments over the semester and you may drop one of these without penalty. Under certain circumstances, you may be allowed to make-up a missed assignment of this type. (Total points: 150.) 
 
-            [Evaluation of History Workshop Preparation.](http://www.utc.edu/%7Easteinho/103/HWScores.html)
+            Evaluation of History Workshop Preparation.
 
   * Attendance at and participation in **all** history workshops (see below). You may miss only _one_ of these discussions without prior excuse. I will deduct 15 points for the second through fourth subsequent absence. If you are absent five or more times, you will receive **no** points for the workshop. In order to be counted as present, you must have that day's assigned readings with you (150 points).  
 
@@ -176,7 +175,7 @@ other health impairments. This list is not exhaustive._
 1/30 Civilization in the Americas andOceania; B/Z 103-24.
 
 2/1 **_First Exam_.  
-       [Information for First Exam](http://www.utc.edu/~asteinho/103/1ExamHelp_S2002.html).  
+       Information for First Exam.  
 **
 
   
@@ -216,16 +215,13 @@ other health impairments. This list is not exhaustive._
 **Week VIII: Classical Societies: The Mediterranean World**
 
 2/25 From Hellas to Hellenism; B/Z 209-213.  
-  **         _[Distribute Writing Assignment
-Instructions](http://www.utc.edu/%7Easteinho/103/PaperAss_S2002.html)_  
-         [Model Analysis Paper (using HW5 texts)](http://www.utc.edu/%7Easteinho/103/ModelPaper3.html)**
+  **         _Distribute Writing Assignment Instructions_  
+         Model Analysis Paper (using HW5 texts)**
 
 2/27 Rome: Republic and Early Empire, B/Z 225-48.
 
-3/1 _HW6: Imperial Rome_ ; Quintilian, _[Education of an
-Orator](http://www.utc.edu/~asteinho/103/Quintilian.html)_ (internet) and
-Juvenal, _[Satires](http://www.utc.edu/~asteinho/103/Juvenal.html) _
-(internet).  
+3/1 _HW6: Imperial Rome_ ; Quintilian, _Education of an Orator_ (internet) and
+Juvenal, _Satires _ (internet).  
       HW Prep: Answer the questions that appear on the documents themselves.
 
   
@@ -237,7 +233,7 @@ Juvenal, _[Satires](http://www.utc.edu/~asteinho/103/Juvenal.html) _
 3/6 The Silk Roads and the Decline ofClassical Civilizations; B/Z 249-73.
 
 3/8 **_Second Exam_.**  
-       [Information for the Second Exam](http://www.utc.edu/~asteinho/103/2ExamHelp_S2002.html)  
+       Information for the Second Exam  
   
 
   
@@ -254,8 +250,8 @@ Juvenal, _[Satires](http://www.utc.edu/~asteinho/103/Juvenal.html) _
 
 3/20 Byzantium: Politics and Society.
 
-3/22 _HW7: Byzantine Christianity;_ A/O 82, 86, and Justinian, [_Regulating
-Church Ritual_ ](http://www.utc.edu/~asteinho/103/Justinian.html) (Internet).  
+3/22 _HW7: Byzantine Christianity;_ A/O 82, 86, and Justinian, _Regulating
+Church Ritual_ (Internet).  
          HW Prep: For A/O 82 answer Q 2,3, 4. A/O 86, Q1 and Q3. Questions for the Justinian text appear   
          at the beginning of the document.
 
@@ -315,14 +311,12 @@ and 71.
 
 **Section 02 and 03: TUESDAY, APRIL 23, 9:30-11:30 A.M. Place: GROTE 131.**
 
-[**Information for the Final
-Exam**](http://www.utc.edu/~asteinho/103/FinalHelp_S2002.html)
+**Information for the Final Exam**
 
 **  
 **_(NOTE: Thisis not the standard exam time for these class times, but rather
 an exceptional arrangement for this course this semester. Also note that the
 exam takes place in Grote and not Brock!!)_
 
-[**General Remarks on the Analysis
-Papers.**](http://www.utc.edu/~asteinho/103/PaperRems_S2002.html)
+**General Remarks on the Analysis Papers.**
 

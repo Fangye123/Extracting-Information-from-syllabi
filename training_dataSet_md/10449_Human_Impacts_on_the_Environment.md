@@ -4,16 +4,14 @@ an Archaeological Perspective**
 **ASB 326 - Fall 2000 1:40-2:55 MW Nursing 15**
 
 Instructor: Michael Barton, PhD  
-Office: Anthropology Bldg C26; Email:
-[michael.barton@asu.edu](mailto:%20michael.barton@asu.edu)
+Office: Anthropology Bldg C26; Email: michael.barton@asu.edu
 
 
 
 Teaching Associate: Bulent Arikan, MA  
-Office: Anthropology Bldg C7: Email:
-[barikan@imap1.asu.edu](mailto:%20barikan@imap1.asu.edu)
+Office: Anthropology Bldg C7: Email: barikan@imap1.asu.edu
 
-[return to home page](index.htm)
+return to home page
 
 **_Course Overview_**
 
@@ -118,27 +116,23 @@ either of us after class to schedule another time.
   * Redman, C.L. (1999). Human Impact on Ancient Environments. University of Arizona Press, Tucson. Chapter 2, pp. 15-34.
   * *Kline, B. (1997). First Along the River Chapters 1-2.
 
-**Aug. 30, Sept. 6 Conceptual approaches:**[ **session
-1**](HI_lect/04_ecosystems.htm) **,**[ **session
-2**](HI_lect/05_ecology%26anthro.htm)
+**Aug. 30, Sept. 6 Conceptual approaches:** **session 1** **,** **session 2**
 
   * Butzer, K.W. (1982). Archaeology as Human Ecology. Cambridge University Press, Cambridge. Chapters 2 & 3, pp. 14-42.
   * *Kelly, R. (1995). The Foraging Spectrum. Chapter 2, pp. 39-64.
   * Redman, C.L. (1999). Human Impact on Ancient Environments. University of Arizona Press, Tucson. Chapter 3, pp. 35-52.
 
-**Sept.** **11 & 13, Studying past environments: **[**session
-1**](HI_lect/06_paleoenviroments1.htm) **,**[ **session
-2**](HI_lect/07_paleoenvironments2.htm)
+**Sept.** **11 & 13, Studying past environments: ****session 1** **,**
+**session 2**
 
   * Butzer, K.W. (1982). Archaeology as Human Ecology. Cambridge University Press, Cambridge. Chapters 4 & 11, pp. 43-66; 191-208. (Chapter 10 also recommended for non-majors)
   * Roberts, N. (1998). The Holocene: an Environmental History, 2nd Edition. Blackwell, Oxford. Chapter 2, pp. 8-26.
 
-**Sept. 18,**[ **Studying past societies**](HI_lect/08_archaeology1.htm)
+**Sept. 18,** **Studying past societies**
 
   * Butzer, K.W. (1982). Archaeology as Human Ecology. Cambridge University Press, Cambridge. Chapters 5-6, pp. 67-97.
 
-**Sept. 20,**[ **Reconstructing human impacts on
-ecosystems**](HI_lect/09_archaeology2_impacts.htm)
+**Sept. 20,** **Reconstructing human impacts on ecosystems**
 
   * Butzer, K.W. (1982). Archaeology as Human Ecology. Cambridge University Press, Cambridge. Chapter 8, pp. 123-156.
   * Roberts, N. (1998). The Holocene: an Environmental History, 2nd Edition. Blackwell, Oxford. Chapter 2 pp. 51-54 "Models of environmental reconstruction",
@@ -146,27 +140,24 @@ ecosystems**](HI_lect/09_archaeology2_impacts.htm)
 
 **CASE STUDIES: HUNTERS AND GATHERERS**
 
-**Sept. 25,**[ **The first human impacts**](HI_lect/10_earliest_impacts.htm)
+**Sept. 25,** **The first human impacts**
 
   * Redman, C.L. (1999). Human Impact on Ancient Environments. University of Arizona Press, Tucson. Chapter 4, pp. 53-68.
   * *Pyne, S.J. (1998). Forged in fire: history, land, and anthropogenic fire. In Advances in Historical Ecology, edited by W. Balee, pp. 64-103. Columbia University Press, NY.
 
-**Sept. 27,**[ **Human expansion in the late
-Pleistocene**](HI_lect/11_colonization.htm)
+**Sept. 27,** **Human expansion in the late Pleistocene**
 
   * *Webb, R.E. (1998). Megamarsupial extinction: the carrying capacity argument. Antiquity, 72(275): 46-55.
   * Roberts, N. (1998). The Holocene: an Environmental History, 2nd Edition. Blackwell, Oxford. Chapter 3, pp. 56-68 & pp. 81-86 .
 
-**Oct. 2,**[ **Holocene hunter/gatherers in temperate
-Europe**](HI_lect/12_holocene_foragers.htm)
+**Oct. 2,** **Holocene hunter/gatherers in temperate Europe**
 
   * *Moore, P.D. (1993). The origin of blanket mire, revisited. In Climate Change and Human Impact on the Landscape, edited by F.M. Chambers, pp. 217-224. Chapman & Hall, London.
   * Roberts, N. (1998). The Holocene: an Environmental History, 2nd Edition. Blackwell, Oxford. Chapter 4, pp. 99-112.
 
 **CASE STUDIES: AGRICULTURAL ECOLOGIES**
 
-**Oct. 4,**[ **Human ecology and the beginning of food
-production**](HI_lect/13_ecology_of_agric.htm)
+**Oct. 4,** **Human ecology and the beginning of food production**
 
   * *Rindos, David 1980. Symbiosis, instability, and the origins and spread of agriculture: a new model. Current Anthropology, 21: 751-772.
   * Redman, C.L. (1999). Human Impact on Ancient Environments. University of Arizona Press, Tucson. Chapter 5, pp. 81-117
@@ -179,33 +170,28 @@ Hill**
   * *Rollefson. G. & I. Kohler-Rollefson (1992). Early Neolithic exploitation patterns in the Levant: cultural impact on the environment. Population and Environment 13(4): 243-254.
   * Roberts, N. (1998). The Holocene: an Environmental History, 2nd Edition. Blackwell, Oxford. Chapter 6, 186-192.
 
-**Oct. 11,**[ **Farming in the arid Southwest of North
-America**](HI_lect/15_southwest_us.htm)
+**Oct. 11,** **Farming in the arid Southwest of North America**
 
   * Redman, C.L. (1999). Human Impact on Ancient Environments. University of Arizona Press, Tucson. Chapter 5, pp. 117-126; Chapter 6, pp. 148-156.
 
-**Oct. 16 & 18, Farming in temperate environments: **[**session
-1**](HI_lect/16_neol_europe.htm) **,**[ **session
-2**](HI_lect/17_e_woodlands_us.htm)
+**Oct. 16 & 18, Farming in temperate environments: ****session 1** **,**
+**session 2**
 
   * *Edwards, K.J. (1993). Models of mid-Holocene forest farming for northwest Europe. . In Climate Change and Human Impact on the Landscape, edited by F.M. Chambers, pp132-145. Chapman & Hall, London.
   * *Kidder, T.R. (1998). The rat that ate Louisiana: aspects of historical ecology in the Mississippi River delta. In Advances in Historical Ecology, edited by W. Balee, pp. 141-168. Columbia University Press, NY.
 
-**Oct. 23 Midterm review:**[ **study guide**](HI_lect/midterm_review.htm)
+**Oct. 23 Midterm review:** **study guide**
 
 **Oct. 25 MIDTERM EXAM IN CLASS**  
 ---  
   
 **CASE STUDIES: COMPLEX SOCIETY AND URBANISM**
 
-**Oct. 30,**[ **The causes and consequences of
-complexity**](HI_lect/18_ecol_of_civilization.htm)
+**Oct. 30,** **The causes and consequences of complexity**
 
   * Redman, C.L. (1999). Human Impact on Ancient Environments. University of Arizona Press, Tucson. Chapter 6, pp. 127-139; Chapter 7, pp. 160-164.
 
-**Nov. 1 & 6, Mediterranean civilizations: **[**session
-1**](HI_lect/19_aegean_civ.htm) **,**[ **session
-2**](HI_lect/20_NearEastCiv.htm)
+**Nov. 1 & 6, Mediterranean civilizations: ****session 1** **,** **session 2**
 
   * *Falconer, S. and P. Fall (1995). Human impacts on the environment during the rise and collapse of civilization in the eastern Mediterranean. In Late Quaternary Environments and Deep History, edited by D. Steadman and J. Mead, pp. 84-101.
   * *Van Andel, T.H. & E. Zanagger (1990). Landscape stability and destabilization in the prehistory of Greece. In Man's Role in the Shaping of the Eastern Mediterranean Landscape, edited by S. Bottema, G. Entjes-Nieborg, & W. van Zeist, pp. 139-157. A.A. Balkema, Rotterdam.
@@ -222,24 +208,23 @@ complexity**](HI_lect/18_ecol_of_civilization.htm)
 
 **CASE STUDIES: ISLAND ECOSYSTEMS**
 
-**Nov. 15,**[ **Other consequences of
-complexity**](HI_lect/22_civ_overview.htm)
+**Nov. 15,** **Other consequences of complexity**
 
   * *Kirch, P.V. (1996). Oceanic islands: microcosms of global change. MS at ASU.
   * Roberts, N. (1998). The Holocene: an Environmental History, 2nd Edition. Blackwell, Oxford. Chapter 6, 180-186 "The Pacific".
 
-**Nov. 20,**[ **Arctic islands**](HI_lect/24_NorseGreenland.htm)
+**Nov. 20,** **Arctic islands**
 
   * *McGovern, T.H. (1994). Management for extinction in Norse Greenland. In Historical Ecology: Cultural Knowledge and Changing Landscapes, edited by C.L. Crumley, pp. 127-154. School of American Research Press, Santa Fe.
 
 **GENERAL ISSUES**
 
-**Nov. 22,**[ **Demographic change**](HI_lect/25_population.htm)
+**Nov. 22,** **Demographic change**
 
   * *Cowgill, G.L. (1975). On causes and consequences of ancient and modern population changes. American Anthropologist 77: 505-525.
   * Redman, C.L. (1999). Human Impact on Ancient Environments. University of Arizona Press, Tucson. Chapter 7, pp. 164-173.
 
-**Nov. 27,**[ **Health and society**](HI_lect/26_disease.htm)
+**Nov. 27,** **Health and society**
 
   * *Cohen, M.N. (1992). The epidemiology of civilization. In Human Impact on the Environment: Ancient Roots, Current Challenges, edited by J.E. Jacobson & J. Firor, pp. 51-70. Westview Press, Boulder
   * *Diamond, Jared (1997). Guns, Germs, and Steel: the Fates of Human Societies, W.W. Norton, New York. Chapter 11, pp. 195-2149, "The lethal gift of livestock"
@@ -249,7 +234,7 @@ complexity**](HI_lect/22_civ_overview.htm)
   * *Butzer, K.W. (1996). Ecology in the long view: settlement histories, agrosystemic strategies, and ecological performance. Journal of Field Archaeology 23: 141-150.
   * Redman, C.L. (1999). Human Impact on Ancient Environments. University of Arizona Press, Tucson. Chapter 8, pp. 195-219
 
-**Dec. 4, Final review:**[ **study guide**](HI_lect/final_review.htm)
+**Dec. 4, Final review:** **study guide**
 
   **Dec. 13, FINAL EXAM, Wednesday, 2:40-4:30 pm**  
 ---  

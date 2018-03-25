@@ -33,7 +33,7 @@
   
 Phone: (317) 361-6031
 
-E-mail:[ DaviesJ@wabash.edu]()
+E-mail: DaviesJ@wabash.edu
 
 Office hours: TBA
 
@@ -380,68 +380,57 @@ electronic resource you use in your paper, you must also use one scholarly
 resource, i.e., an article from a scholarly journal such as _Latin American
 Research Review_ or _Comparative Politics_.
 
-[Chilean
-Government](http://www.segegob.cl/secregob_english/text/pcch/index.html)
+Chilean Government
 
 http://www.segegob.cl/secregob_english/text/pcch/index.html
 
-[La Epoca, a Chilean newspaper](http://www.reuna.cl/laepoca/)
+La Epoca, a Chilean newspaper
 
 http://www.reuna.cl/laepoca/
 
-[Uruguay's academic network](http://www.rau.edu.uy/)
+Uruguay's academic network
 
 http://www.rau.edu.uy/
 
-[Government of Argentina, Executive
-Branch](http://www.presidencia.ar/admin.html)
+Government of Argentina, Executive Branch
 
 http://www.presidencia.ar/admin.html
 
-[Latin American research database at UT
-Austin](http://lanic.utexas.edu/la/region/arl/)
+Latin American research database at UT Austin
 
 http://lanic.utexas.edu/la/region/arl/
 
-[Amnesty International](http://www.amnesty.org/)
+Amnesty International
 
 http://www.amnesty.org/
 
-[WWW Virtual Library: Latin American
-Studies](http://lanic.utexas.edu/las.html)
+WWW Virtual Library: Latin American Studies
 
-[Armando F. MastrapaHome Page](http://www.users.nyc.pipeline.com/~mastrapa/)
+Armando F. MastrapaHome Page
 
-[JOINT LIBRARY HOME PAGE](http://205.245.67.129/jl.htm)
+JOINT LIBRARY HOME PAGE
 
-[Ejercito Zapatista de Liberacion
-Nacional](http://www.peak.org/~justin/ezln/ezln.html)
+Ejercito Zapatista de Liberacion Nacional
 
-[Latin American Resources at UT](http://menic.utexas.edu/mes.html)
+Latin American Resources at UT
 
-[Latin America on the Net - Government and
-Politics](http://www.latinworld.com/government/)
+Latin America on the Net - Government and Politics
 
-[spec0317.html ](http://www.latino.com/opinion/spec0317.html)
+spec0317.html
 
-[FirstNews - Internet in Spanish - Culture and Contemporary
-Society](http://fnews.web.com.mx/iniescl.html#iePol'tica y Gobierno)
+FirstNews - Internet in Spanish - Culture and Contemporary Society
 
-[CubaWeb](http://www.cubaweb.cu)
+CubaWeb
 
-[Ejercito Zapatista de Liberacion
-Nacional](http://www.peak.org/~justin/ezln/ezln.html)
+Ejercito Zapatista de Liberacion Nacional
 
-[Latin American Resources at UT](http://menic.utexas.edu/mes.html)
+Latin American Resources at UT
 
-[Latin America on the Net - Government and
-Politics](http://www.latinworld.com/government/)
+Latin America on the Net - Government and Politics
 
-[Chiapas Para el Mundo...](http://planet.com.mx/~chiapas/index.html )
+Chiapas Para el Mundo...
 
-[Harry Cleaver's Chiapas
-Page](http://www.eco.utexas.edu:80/Homepages/Faculty/Cleaver/chiapas95.html )
+Harry Cleaver's Chiapas Page
 
-[Gabriel Garcia
-Marquez](http://www.microserve.net/~thequail/libyrinth/garcia.marquez.html )
+Gabriel Garcia Marquez
 

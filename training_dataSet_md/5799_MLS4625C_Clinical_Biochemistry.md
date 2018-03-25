@@ -22,8 +22,7 @@
 
 **Instructor** | **Office Location** | **Telephone** | **Office Hours***  
 ---|---|---|---  
-[David W. Brown, Ph.D.](mailto:davidb@fgcu.edu) |  BHG 223 | 590-7483 | M 1:00
-pm - 3:00 pm  
+David W. Brown, Ph.D. |  BHG 223 | 590-7483 | M 1:00 pm - 3:00 pm  
 W 9:00 am - 12:00 pm  
   
 *Additional office hours are available by appointment
@@ -33,7 +32,7 @@ expectations. Included in the syllabus are the course goals, objectives for
 learning, various reference sources and information about the course grading.
 
 Powerpoint presentations for lectures, as well as other miscellaneous
-material, may be accessed via the [Web Board](http://courses.fgcu.edu/%7E92)
+material, may be accessed via the Web Board
 
 **_COURSE DESCRIPTION_**  
   
@@ -87,7 +86,7 @@ excused absences.
 
 **Assignments:** Assignments such as reading and laboratory reports must be
 completed _before_ class. The Laboratory Policies handout may be accessed by
-following this [link](Laboratory%20Policies%20Spring%202001.doc).
+following this link.
 
 **Management of resources:** You must prioritize class time, follow
 instructions, and ask questions when you do not understand.
@@ -115,8 +114,7 @@ integrity.
   
 ---  
   
-Course objectives may be accessed by [following this link](objectives-
-Spring%202000.htm)
+Course objectives may be accessed by following this link
 
 **_COURSE TEXTS_**  
   
@@ -131,9 +129,9 @@ _Clinical Chemistry Laboratory Manual_ ; Naser and Naser; 1998; Mosby
   
 ---  
   
-  * [American Society for Clinical Laboratory Science](http://www.ascls.org)
-  * [American Society for Clinical Pathologists](http://www.ascp.org)
-  * [American Association for Clinical Chemistry](http://www.aacc.org)
+  * American Society for Clinical Laboratory Science
+  * American Society for Clinical Pathologists
+  * American Association for Clinical Chemistry
 
 **_TENTATIVE COURSE SCHEDULE_**  
   
@@ -351,16 +349,15 @@ Final exam
 
 ![](contline.GIF)
 
-[College of Health Professions](http://www.fgcu.edu/chp/)
+College of Health Professions
 
 |
 
-[![](fgcuhome.gif)](http://www.fgcu.edu)
+![](fgcuhome.gif)
 
 |
 
-[Department of Environmental Health, Molecular and Clinical
-Sciences](http://www.fgcu.edu/chp/clinical/)  
+Department of Environmental Health, Molecular and Clinical Sciences  
   
 ---|---|---
 

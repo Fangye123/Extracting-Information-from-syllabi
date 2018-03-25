@@ -1,4 +1,4 @@
-[![](COAspin1.gif)](http://www.ou.edu/architecture)[![](ENDtitle.jpg)](index.htm)  
+  ![](COAspin1.gif)![](ENDtitle.jpg)  
 ---  
   
 **College of Architecture**  
@@ -232,6 +232,6 @@ If you have any disability which would prevent your satisfying the
 requirements of the course, please see me as soon as possible so that
 accommodation can be arranged.  
   
-[![](assign.jpg)](assign.htm)[![](slides.jpg)](slides.htm)  
-[![](email1.jpg)](mailto:smohara@ou.edu)[![](email2.jpg)](mailto:eweinel@ou.edu)
+![](assign.jpg)![](slides.jpg)  
+![](email1.jpg)![](email2.jpg)
 

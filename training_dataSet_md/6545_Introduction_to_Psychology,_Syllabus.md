@@ -13,12 +13,10 @@
 **Office hours: Open -- please drop by** | **Office 1009-S**  
 **Professor: Dr. Vaden-Goad** | **Phone 713-221-8958  
 (Please leave clear messages)**  
-**Fax: 713-221-8144** | **email: _[V](mailto:Vaden-GoadL@uhd.edu)_ _[aden-
-GoadL@uhd.edu ](mailto:Vaden-GoadL@uhd.edu) _**  
+**Fax: 713-221-8144** | **email: _V_ _aden-GoadL@uhd.edu  _**  
   
-**webpage: _
-**[uhddx01.dt.uh.edu/~vaden/homepage.htm](http://www.dt.uh.edu/~vaden/homepage.htm)**_**
-| **_Date/Time last edited:   01/11/02 05:21 PM_**  
+**webpage: _ **uhddx01.dt.uh.edu/~vaden/homepage.htm**_** | **_Date/Time last
+edited:   01/11/02 05:21 PM_**  
   
 Prerequisite |
 
@@ -43,10 +41,7 @@ E-Group |   |  **Subscribe to intropsyc**
 ---  
   
 enter email address |  
-Powered by
-[groups.yahoo.com/group/intropsyc](http://groups.yahoo.com/group/intropsyc
-
-/)  
+Powered by groups.yahoo.com/group/intropsyc  
   
 Exams |
 
@@ -82,11 +77,8 @@ Journal | You are to keep a journal during the semester -- making one entry
 per week. I will let you know when the journals are due.  Six journal entries
 will be graded during the semester, and one entry will be dropped.  An entry
 is defined as one article plus a written description of its relevance to the
-course and readings. [ Click here for a complete
-description.](http://uhddx01.dt.uh.edu/~vaden/intro_journal.htm)  15 % of
-course.  
-Textbook Website | [www.prenhall.com/wade](http://www.prenhall.com/wade)
-(then, click on our textbook)  
+course and readings.  Click here for a complete description.  15 % of course.  
+Textbook Website | www.prenhall.com/wade (then, click on our textbook)  
   
 Hints |
 
@@ -109,9 +101,8 @@ Do not let the semester "get away" from you!  This semester, we have a
 supplemental instruction leader, Tracey Wyatt.  She will meet with you after
 class, and help you learn more about the course at deeper levels.  We are
 hoping that will make a difference!  **If you make a D or an F on any exam** ,
-[please make an appointment with me ](mailto:vaden-goad@dt.uh.edu) so you can
-make a _more workable plan_ for doing better.   I enjoy helping you.  Please
-come by...  
+please make an appointment with me  so you can make a _more workable plan_ for
+doing better.   I enjoy helping you.  Please come by...  
   
 Attendance |
 
@@ -127,8 +118,7 @@ plans are.  This visit will count as 3 extra credit bonus points on your first
 exam!  Bring your "About Me" form and we will discuss it.  
 Supplemental  
 Instruction  
-Leader | [Chris
-Montanez![](images/mailbox_bird.gif)](mailto:chrismontanez@hotmail.com)  
+Leader | Chris Montanez![](images/mailbox_bird.gif)  
   
 Grades |
 
@@ -139,9 +129,9 @@ Grades |
   
 90-100 | A |
 
-[Study Skills Guides  
+Study Skills Guides  
 (click here)  
-](http://www.csbsju.edu/academicadvising/helplist.html)Taken from  
+Taken from  
 St. John's University, MN  
 80-89 | B  
 70-79 | C  
@@ -188,9 +178,8 @@ and Short Essay
 | W:99-137  
 S:  3-6 (Carnal Acts:  Living With Multiple Sclerosis)  
 Other Media:  Brain Videos  
-5 | [Body Rhythms and Mental States  
-(sleep and dreams lecture)](http://uhddx01.dt.uh.edu/~vaden/Sleep.htm) | W:
-139-177  
+5 | Body Rhythms and Mental States  
+(sleep and dreams lecture) | W:  139-177  
 S: 50-54 (Asleep in the Fast Lane)  
 S: 64-67 (Practical Clinical Hypnosis)  
 6 | Sensation and Perception | W:  179-223  

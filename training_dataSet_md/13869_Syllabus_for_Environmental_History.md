@@ -175,8 +175,8 @@ Final Exam;| 12/10, 2-4 PM | 15%
 
 * * *
 
-**Student Survey of Study Activities and Learning Interests** [[To print,
-complete, and submit the form]](Stusurvy.html)
+**Student Survey of Study Activities and Learning Interests** [To print,
+complete, and submit the form]
 
   
 
@@ -256,11 +256,10 @@ Here:| how?
 
 ###
 
-**[[Start the course]](ENVHIST.htm) [[Schematic formulas]](ModelsEH.html)
-[[How we learn]](Learning.htm) [[Categories of meaning]](inform.htm ) [[Course
-overview]](Lessons ENV-280.html)**  
+**[Start the course] [Schematic formulas] [How we learn] [Categories of
+meaning] [Course overview]**  
   
-[[My Rollins Home Page]](http://fox.rollins.edu/~jsiry)
+[My Rollins Home Page]
 
   
   

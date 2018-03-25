@@ -1,7 +1,7 @@
 **Economics 361, George Mason University, Dr. Carrie Meyer**  
 **Economic Development of Latin America**  
 **Spring 2002, Ent 174 MWF 8:30-9:30AM**  
-[cmeyer@gmu.edu](mailto:cmeyer@gmu.edu) , tel: 703-993-1143,  
+cmeyer@gmu.edu , tel: 703-993-1143,  
 webpage: //mason.gmu.edu/~cmeyer/  
 Office Hours 9:30-10:30 MWF
 

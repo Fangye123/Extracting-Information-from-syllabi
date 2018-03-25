@@ -4,12 +4,11 @@
 ** Tues, Thurs: 2:00-3:15  
 532 Major Williams Hall
 
-Instructor: [Dr. Marian Mollin](index.html)  
+Instructor: Dr. Marian Mollin  
 Office: 415 Major Williams Hall  
-Phone: 231-8367             E-mail: [mmollin@vt.edu](mailto:mmollin@vt.edu)  
+Phone: 231-8367             E-mail: mmollin@vt.edu  
 Office Hours: Tues, 3:30-4:30, Thurs, 9:30-10:30, and by appointment  
-Class Webpage - access via the Blackboard 5 portal at
-[http://www.learn.vt.ed](http://www.learn.vt.edu)
+Class Webpage - access via the Blackboard 5 portal at http://www.learn.vt.ed
 
 Course Description
 
@@ -70,9 +69,9 @@ e-mail communication and for use of the course webpage.
 
 Course Webpage  
 You can access the course website through the Blackboard 5 portal at:
-**_[http://www.learn.vt.edu.](http://www.learn.vt.edu)_** Logging-in with your
-Virginia Tech PID and password will give you direct access to the class web-
-page, "Hist 4004 - Sexuality in American History"
+**_http://www.learn.vt.edu._** Logging-in with your Virginia Tech PID and
+password will give you direct access to the class web-page, "Hist 4004 -
+Sexuality in American History"
 
 Supplemental reading materials (noted on the syllabus as "Online Reading")
 will be posted on the course webpage. I **_strongly_** suggest printing the
@@ -245,9 +244,9 @@ Final Draft of Historiographical Paper |
 
 Honor Code  
 Students are expected to familiarize themselves with and adhere to the
-[Virginia Tech Honor Code](http://www.honorsystem.vt.edu/) on all assignments
-for this course. Although I strongly encourage students to work together in
-study and review groups, all work submitted for a grade must be your own.
+Virginia Tech Honor Code on all assignments for this course. Although I
+strongly encourage students to work together in study and review groups, all
+work submitted for a grade must be your own.
 
 return to top
 

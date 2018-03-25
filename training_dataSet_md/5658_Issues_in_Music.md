@@ -45,18 +45,16 @@ prerequisites.
 **Instructor:  **Dr. Lauren E. Baker **  
 Office:  **School of Music - FAH 223  
 **Office Hours:  **TBA  
-**Email:  **[lbaker@satie.arts.usf.edu](mailto:lbaker@satie.arts.usf.edu)  
+**Email:  **lbaker@satie.arts.usf.edu  
 **Phone:  **974-3801  Professor Baker's office; 974-2311 (School of Music)
 
 ###  _Distance Learning Student Support Office:_
 
-**Telecourse Coordinator:  **[Stephanie
-Gaskins](mailto:sgaskins@admin.usf.edu) **  
-Office Location:  **[SVC 1072 (map grid: D3)](../../map.htm)  
+**Telecourse Coordinator:  **Stephanie Gaskins **  
+Office Location:  **SVC 1072 (map grid: D3)  
 **Office Hours:  **Monday \- Thursday 8:00am -7:00pm; Friday 8:00am -5:00pm  
 **Phone:  **974-2996 (Telecourses);  
-**Listserve:  **
-_[mul3001-501@acomp.usf.edu](mailto:mul3001-501@acomp.usf.edu)_  
+**Listserve:  ** _mul3001-501@acomp.usf.edu_  
 Please send us  your email address so that we may add you to the listserv for
 this class and keep you informed of any changes to your syllabus.  Please
 ensure you indicate the course title in your  message.  There will not be any
@@ -71,11 +69,11 @@ hurricanes etc.
      
 ---  
   
-[![](book.gif)](http://images.amazon.com/images/P/0451627350.01.LZZZZZZZ.jpg)
+![](book.gif)
 
 |
 
-    * [What to Listen For In Music](http://www.amazon.com/exec/obidos/ASIN/0451627350/qid=904943344/sr=1-5/002-8488776-3685668), by Aaron Copland. Available in the YOU section of the university bookstore. ISBN# 0451627350 
+    * What to Listen For In Music, by Aaron Copland. Available in the YOU section of the university bookstore. ISBN# 0451627350 
     * A packet of composer biographies and essays on musical topics and ONE take home quiz. Cost: approximately $12.00. Available at Pro-Copy: 5209 E. Fowler Ave., Tampa, 988-5900, open 24 hours a day, 7 days a week. *For a small shipping fee, Pro-Copy will mail your materials to you when you place a phone order.  Ask for materials for Professor Woodbury's _Issues in Music_ course.  
 
   

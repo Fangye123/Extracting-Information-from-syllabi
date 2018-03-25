@@ -95,9 +95,8 @@ handbook, The Source.**
 **  Communication: You are all encouraged to communicate with me at any time
 during the semester. Feel free to drop by my office (Zehmer 219) during office
 hours. Call for an appointment at other times (376-4573); or you may wish to
-drop me a line via email
-([tmc5a@wise.virginia.edu](mailto:tmc5a@wise.virginia.edu)). Please don't wait
-until the last minute if you fall behind.**
+drop me a line via email (tmc5a@wise.virginia.edu). Please don't wait until
+the last minute if you fall behind.**
 
 **Office Hours: M: 12:30-2:00 PM**  
 **                       W: 10:00 AM-12:00 Noon**  
@@ -107,7 +106,7 @@ until the last minute if you fall behind.**
 **  Note: 22 March is the last day a student may drop the course without
 receiving a failing grade.**
 
-**[Go to Calendar](http://www.wise.virginia.edu/history/wciv2/calen.html).**
+**Go to Calendar.**
 
 * * *
 

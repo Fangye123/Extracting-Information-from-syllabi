@@ -9,8 +9,7 @@ COURSE SYLLABUS **
 > HOME PHONE: | (765) 677-1091 |   | LOCATIONS: |  
 > OFFICE PHONE: | (765) 677-2999 |   |  
 > OFFICE HOURS: | By Appointment |   |  
-> E-MAIL: | [ wtingley@indwes.edu](mailto:wtingley@indwes.edu) /
-[waynet@bpsinet.com](mailto:waynet@bpsinet.com) |   |  
+> E-MAIL: |  wtingley@indwes.edu / waynet@bpsinet.com |   |  
 >  
 > REQUIRED TEXT: | _**Elementary and Middle School Mathematics**_ ,
 VandeWalle, John A., (4th Ed.)  
@@ -296,7 +295,7 @@ must also be submitted prior to the absence by the student to the instructor.
 >  
 >
 
-[ Back](javascript:history.go\(-1\);)  
+Back  
   
   
 

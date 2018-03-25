@@ -1,11 +1,8 @@
-**[ Syllabus](http://www.lib.virginia.edu/area-
-studies/SouthAsia/SAvideos/syllabus.html) \- University of Virginia - Spring
-1998**  
-[Net Resources](http://www.virginia.edu/~soasia/courses/remedia.html)
+** Syllabus \- University of Virginia - Spring 1998**  
+Net Resources
 
 **Gender and Media in South Asia**  
-Instructor: **Ruhi Grover.** Email:
-[rgm2k@virginia.edu](mailto:gm2k@virginia.edu)
+Instructor: **Ruhi Grover.** Email: rgm2k@virginia.edu
 
 Course number: Drama 283  
 Location/Time: Cabell 241 / T  & Th. 9:30-10:45
@@ -72,9 +69,7 @@ Film: Bandit Queen
 
 **Feb. 5** : Discuss the film  
 Readings: Molly Heskel, "From reverence to rape," pp. 505-534, CR  
-[ Madhu Kishwar, "The Bandit
-Queen,"](http://poe.acc.virginia.edu/~pm9k/gifs/ZoForth/Pholan/bqManu.html)
-Manushi, no. 84, Sept.-Oct. 1994, CR
+Madhu Kishwar, "The Bandit Queen," Manushi, no. 84, Sept.-Oct. 1994, CR
 
 **Feb 10** : S. Asian women filmmakers abroad  
 Gurinder Chadha  
@@ -157,6 +152,5 @@ Back to the top
 
 * * *
 
-Back to [Teaching
-Resources](http://www.virginia.edu/~soasia/videos/vidlist96.html)
+Back to Teaching Resources
 

@@ -16,7 +16,7 @@ Office Hours:  MW 3:25-4:25 p.m.
 (and by appointment)  
 226 ten Hoor Hall  
 Phone:  348-1870  
-e-mail:  [dbeito@history.as.ua.edu](mailto:dbeito@history.as.ua.edu)
+e-mail:  dbeito@history.as.ua.edu
 
 Teaching Assistants:  James Albritton, Fran Baer, and Chris Riley  
 Office Hours:  to be announced on the syllabus of each t.a.  
@@ -247,11 +247,9 @@ December 6-8:  The Civil War.
 
 ![](_themes/neon2/neoarule.gif)
 
-[Return to the History Department Homepage](file:///C:/Documents and
-Settings/kbranyon/My Documents/My Webs/myweb/hydept.htm)
+Return to the History Department Homepage
 
-[Return to History Classes on the Web](file:///C:/Documents and
-Settings/kbranyon/My Documents/My Webs/myweb/classes.htm)
+Return to History Classes on the Web
 
-[![](uahome.gif)](http://www.ua.edu)
+![](uahome.gif)
 

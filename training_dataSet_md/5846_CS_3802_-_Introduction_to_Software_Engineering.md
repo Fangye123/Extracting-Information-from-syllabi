@@ -19,26 +19,26 @@ Tuesday & Thursday 4:30 - 6:00 PM
   
 
 
-  * [Project Information](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/project.html)
+  * Project Information
   
 
 
-  * [Project Groups](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/groups.html)
+  * Project Groups
   
 
 
-  * [Samples & Solutions](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/samples.html)
+  * Samples & Solutions
 
 | **INSTRUCTOR:   Allison Elliott Tew**
 
 * Office:  113 College of Computing
 * Phone:  (404) 385-0595
-* Email:   [allison@cc.gatech.edu](mailto:allison@cc.gatech.edu) 
+* Email:   allison@cc.gatech.edu 
 * Office Hours:  Open door policy and by appointment  
 ---|---  
 **TEACHING ASSISTANT:   Shanda Harper**
 
-* Email:   [shanda@cc.gatech.edu](mailto:shanda@cc.gatech.edu) 
+* Email:   shanda@cc.gatech.edu 
 * Office Hours:  Monday, Tuesday, & Thursday 1 - 2
 * Office Hours Location:  104A College of Computing  
 **TEXTBOOKS**
@@ -80,10 +80,7 @@ Introduction to Software Engineering |
 
 * Pressman -  1 & 2
 * Brooks - 1
-|
-[View](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/Lecture1/sld001.htm)
-|  [Download
-](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/Lecture1/Lecture1.ppt) |  
+|   View |  Download  |  
   |  09/30 | Project Planning
 
 Project Introduction & Team Organization |
@@ -98,52 +95,33 @@ Software Process Models |
 * Pressman - 4
 * Brooks - 16 & 17
   
-  |
-[View](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/Lecture2/sld001.htm)
-|
-[Download](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/Lecture2/Lecture2.ppt)
-|  [Team
-Organization](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/Team_Organization.html)  
+  |    View |  Download |  Team Organization  
   |   10/07 | Requirements Engineering |
 
 * Pressman - 10 & 11
 * Brooks - 10 & 15
-|    [View
-](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/Lecture3/sld001.htm) |
-[Download](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/Lecture3/Lecture3.ppt)
-|  
+|    View  |    Download |  
 3 |   10/12 | Requirements Analysis: Structured Techniques |
 
 *  Pressman - 12
-|
-[View](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/Lecture4/sld001.htm)
-|
-[Download](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/Lecture4/Lecture4.ppt)
-|  
+|    View |    Download |  
   |   10/14 | Requirments Analysis:  Object-Oriented Techniques |
 
 *  Pressman - 19 & 20
-|
-[View](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/Lecture5/sld001.htm)
-|
-[Download](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/Lecture5/Lecture5.ppt)
-|  [Preliminary Problem Analysis & Project Plan
-](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/Preliminary_Problem.html)  
+|    View |    Download |  Preliminary Problem Analysis & Project Plan  
 4 |   10/19 | HOLIDAY |   |   |    |  
   |   10/21 | Modeling Case Study
 
-Review for Midterm |   |    |    |   [Homework #1:  Modeling
-Exercise](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/hw1.html)  
+Review for Midterm |   |    |    |   Homework #1:  Modeling Exercise  
 5 |   10/26 | Midterm Exam |   |    |    |  
   |   10/28 | Mental Health Day
 
-SRS Question & Answer Session |   |    |    |   [Software Requirements
-Specification
-(SRS)](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/SRS.html)  
+SRS Question & Answer Session |   |    |    |   Software Requirements
+Specification (SRS)  
 6 |   11/02 | Software Design Concepts  |
 
 * Pressman - 13
-|   [View](Lecture6/sld001.htm) |   [Download](Lecture6/Lecture6.ppt) |  
+|   View |   Download |  
   |   11/04 | Project Work Day |   |    |    |  
 7 |   11/09 | Design Review Q & A
 
@@ -151,18 +129,12 @@ Software Architecture |
 
 
 * Brooks - 4 
-|   [View](Lecture7/sld001.htm) |   [Download](Lecture7/Lecture7.ppt) |
-[Homework #2A:  Design Review
-Worksheet](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/DesignReview.html#HW2A)  
-  |   11/11 | [Design
-Review](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/DesignReview.html)
-|
+|   View |   Download |   Homework #2A:  Design Review Worksheet  
+  |   11/11 | Design Review |
 
-*   [Design Review Worksheets](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/HW2/Worksheets.html)
-|    |    |   [Homework #2B:  Design Review
-Poster](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/DesignReview.html#Review)  
-8 |   11/16 | CLASS CANCELLED |   |    |   |   [Homework #3: Design
-Reflection](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/DesignReview.html#HW3)  
+*   Design Review Worksheets
+|    |    |   Homework #2B:  Design Review Poster  
+8 |   11/16 | CLASS CANCELLED |   |    |   |   Homework #3: Design Reflection  
   |   11/18 | Design Review Relflections
 
 Design Document Q & A
@@ -175,9 +147,7 @@ Object-Oriented Design |
 * Pressman - 14
 * Brooks - 11
 * Pressman - 21
-|   [View](Lecture8/sld001.htm) |   [Download](Lecture8/Lecture8.ppt) |
-[Design
-Document](http://www.cc.gatech.edu/classes/AY2000/cs3802_fall/DesignDoc.html)  
+|   View |   Download |    Design Document  
   |   11/25 | HOLIDAY |   |    |    |  
 10 |   11/30 | Implementation & Prototyping
 
@@ -188,7 +158,7 @@ Testing & Maintenance |
 
 
 * Pressman - 16, 17, & 22 
-|    [View](Lecture9/sld001.htm) |  [Download ](Lecture9/Lecture9.ppt) |  
+|    View |  Download  |  
   |   12/02 | _TheMythical Man-Month  _  
 Discussion
 
@@ -196,8 +166,8 @@ Course Wrap-Up |
 
 *  Brooks - 19
 |    |    |  
-11 |   12/07 |  [Project Presentations](Presentation.html) |   |    |   |  
-  |   12/09 |  [Project Presentations](Presentation.html) |   |   |   |  
+11 |   12/07 |  Project Presentations |   |    |   |  
+  |   12/09 |  Project Presentations |   |   |   |  
   |  12/10 | Project Demos  |   |    |    |   Prototype  
 Finals |  12/16 | Final Exam (8:00 AM - 10:50 AM)  |   |   |   |  
   
@@ -214,8 +184,7 @@ ACADEMIC HONESTY: All students are expected to maintain standards of academic
 integrity by giving proper credit for all work. All suspected cases of
 academic dishonesty will be reported and pursued.
 
-> * [Georgia Tech Academic Honor
-Code](http://www.honor.gatech.edu/honorcode.html)
+> * Georgia Tech Academic Honor Code
 
 ATTENDANCE POLICY: Unexcused absences from the midterm exam, final exam,
 design review, or project presentations will result in an automatic failure
@@ -270,8 +239,7 @@ Individual Contribution
   
 * * *
 
-[Georgia Tech Disclaimer](http://www.cc.gatech.edu/disclaimer.html)  
-This page is maintained by:
-[allison@cc.gatech.edu](mailto:allison@cc.gatech.edu)  
+Georgia Tech Disclaimer  
+This page is maintained by: allison@cc.gatech.edu  
 Last Modified on Tuesday, November 30, 1999 20:38:03 .
 

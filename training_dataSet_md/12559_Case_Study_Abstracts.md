@@ -4,7 +4,7 @@
 
 ####  Bill Bryant, University of Iowa  
 Undergraduate American Studies Survey Course  
-[Read Full Case Study](bryant_frame.html)
+Read Full Case Study
 
 I'm using **WebCT** as a tool in teaching an undergraduate course called
 _American Values_. Our syllabus, schedule, some course-related Web links and
@@ -27,7 +27,7 @@ conversations will add to our exploration of American values.
 
 ####  Susan Butler, Cerritos College  
 Undergraduate American History Survey Course  
-[Read Full Case Study](butler_frame.html)
+Read Full Case Study
 
 This case study evaluates the implementation of "Mini-Lectures" into online
 teaching of history. This method stands as the centerpiece of dissemination of
@@ -57,7 +57,7 @@ teaching an online course.
 
 ####  Saul Cornell, Ohio State University  
 Undergraduate American History Survey Course  
-[Read Full Case Study](cornell_frame.html)
+Read Full Case Study
 
 My use of multimedia technology has evolved considerably over the last few
 years. In my survey courses I have relied on **multimedia presentation
@@ -78,7 +78,7 @@ Students clearly like this and make use of it.
 
 ####  Barbara C. Ewell, City College, Loyola University  
 Undergraduate American Literature Course  
-[Read Full Case Study](ewell_frame.html)
+Read Full Case Study
 
 I think I'd like to focus my case study on both of the courses I've taught "
 **on-line** "--the first (which was my original project-- _Southern
@@ -99,7 +99,7 @@ independent learners.
 
 ####  William E. Grant, Bowling Green State University  
 Graduate American Studies Seminar  
-[Read Full Case Study](grant_frame.html)
+Read Full Case Study
 
 Since a number of Crossroads participants will be addressing such nuts and
 bolts issues as assessment of computer assisted learning, practical issues of
@@ -122,7 +122,7 @@ range of attitudes and perceptions than in their numerical occurrences.
 
 ####  Chris Lewis, University of Colorado at Boulder  
 Undergraduate American Studies Survey Course  
-[Read Full Case Study](lewis_frame.html)
+Read Full Case Study
 
 This case study of an introductory to American Studies courses, _American
 Culture: 1865 to the Present_ , will focus on two larger questions: 1) How has
@@ -153,7 +153,7 @@ and future.
 
 ####  John McClymer, Assumption College  
 Intermediate American History Course  
-[Read Full Case Study](mcclymer_frame.html)
+Read Full Case Study
 
 I will use the _Women and the American Experience_ course which I am offering
 this semester:  
@@ -168,7 +168,7 @@ not, entail the use of hypermedia.
 
 ####  Mary McGuire, University of Michigan  
 Upper level American Studies Course  
-[Read Full Case Study](mcguire_frame.html)
+Read Full Case Study
 
 In my case study I will do a comparative analysis of my use of the web in a
 course I taught in 1996 and again 1997. I want to focus on several points in
@@ -187,7 +187,7 @@ course taught in 1996, which used the web somewhat differently.
 
 ####  Earl F. Mulderink III, Southern Utah University  
 Undergraduate American History Survey Course  
-[Read Full Case Study](mulderink_frame.html)
+Read Full Case Study
 
 My project involves the use of **electronic mail** and **multimedia
 presentations** in the United States history survey courses that I teach at
@@ -201,7 +201,7 @@ multimedia presentations in classrooms that seat nearly 100 students.
 
 ####  Sarah Robbins, Kennesaw State University  
 Upper Level American Studies Course  
-[Read Full Case Study](robbins_frame.html)
+Read Full Case Study
 
 Our essay will review the experience of team-teaching an interdisciplinary
 course on 19th-century American women's work that made extensive use of
@@ -226,7 +226,7 @@ what ways might such tools help us address the goals of 19th-century women's
 
 ####  Pete Sands, University of Wisconsin-Milwaukee  
 Undergraduate American Literature Course  
-[Read Full Case Study](sands_frame.html)
+Read Full Case Study
 
 The course which I will give a case from is one which uses real-time, text-
 based virtual- reality environments called **MUDs** or **MOOs**. In the
@@ -242,7 +242,7 @@ utopian literature at their core.
 
 ####  Carl Schulkin, Pembroke Hill School  
 Undergraduate American History Survey Course  
-[Read Full Case Study](schulkin_frame.html)
+Read Full Case Study
 
 To prepare juniors in high school to meet the challenges of college level
 courses, it is important both to familiarize them with new media resources and
@@ -265,7 +265,7 @@ student papers.
 
 ####  Ivy Schweitzer, Dartmouth College  
 Introductory Women's Study Course  
-[Read Full Case Study](schweitzer_frame.html)
+Read Full Case Study
 
 In Fall 1997, I co-taught the introductory Women's Studies course, _Sex,
 Gender and Society_ (aka WS 10), with my colleague Michelle Meyers, an art
@@ -281,7 +281,7 @@ related to materials in the lectures.
 
 ####  David Silver, University of Maryland, College Park  
 Undergraduate American Studies Survey Course  
-[Read Full Case Study](silver_frame.html)
+Read Full Case Study
 
 My case study uses the concept of introducing the new technology as its unit
 of analysis.  Its goal is, on the one hand, to suggest a number of key
@@ -300,7 +300,7 @@ for introducing new technology into the classroom.
 
 ####  Kathy Walsh, Central Oregon Community College  
 Undergraduate African American Literature Course  
-[Read Full Case Study](walsh_frame.html)
+Read Full Case Study
 
 In Spring, 1997, I used a **WEB bulletin board** in an _African American
 Literature and Culture_ class to at least temporarily overcome the lack of
@@ -322,7 +322,7 @@ classes.
 
 ![Annenberg/CPB Project](../annenbrg.gif)The Crossroads Research and Study
 Project  
-is funded by the [Annenberg/CPB Projects](http://www.learner.org/).
+is funded by the Annenberg/CPB Projects.
 
   
 ---  

@@ -1,5 +1,5 @@
-[![The Conservation Course Syllabus Pages](syllabus.gif)](./) Course | History
-of Technology 2  
+![The Conservation Course Syllabus Pages](syllabus.gif) Course | History of
+Technology 2  
 ---|---  
 Date offered | Winter, 1999  
 Location | Ontario, Canada  
@@ -256,8 +256,7 @@ strict policy on this issue (see Academic Regulations).
 
 * * *
 
-[![ \[CoOL\] ](/icons/sm_cool.gif)](/) [[Search all CoOL
-documents]](/search.html)  
-[[Feedback]](/cgi-bin/fb?/forms/coolfeed.html)  
+![ \[CoOL\] ](/icons/sm_cool.gif) [Search all CoOL documents]  
+[Feedback]  
 This page last changed: March 04, 2001
 

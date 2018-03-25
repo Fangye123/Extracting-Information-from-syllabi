@@ -19,8 +19,8 @@
 > James W. Wilson  
 >  105 Aderhold Hall, (Office in Rm 110-F)  
 >  Telephone: 542-4552  
->  Internet Address: **[Http://jwilson.coe.uga.edu](../Default.html)**  
->  E-mail address: **[jwilson@coe.uga.edu](mailto:jwilson@coe.uga.edu)**
+>  Internet Address: **Http://jwilson.coe.uga.edu**  
+>  E-mail address: **jwilson@coe.uga.edu**
 
   
 **Office hours** : I maintain an open door policy for office hours. I come to
@@ -95,39 +95,36 @@ self-regulated learners;
 
 >
 
->> [**Mathematics Education Department CTL Site**](../CTL/CTL/index.html)
+>> **Mathematics Education Department CTL Site**
 
 >>
 
 >>  
->  **[USOE CTL Web Site](http://www.contextual.org/)**
+>  **USOE CTL Web Site**
 
 >>
 
->> [**UGA CTL Site**](http://www.coe.uga.edu/ctl)
+>> **UGA CTL Site**
 
 See:
 
-> [**The mathematics of irrigation
-systems**](../EMT668/EMAT6680.2000/Mylod/Math7200/Project/Irrigation.html).
+> **The mathematics of irrigation systems**.
 
 >
 
-> [**Geology surface mapping**](Envir/Three.Point.html).
+> **Geology surface mapping**.
 
 >
 
-> [**Pollution Cleanup**](Envir/Volume.html)
+> **Pollution Cleanup**
 
 >
 
-> [**Golf Course Maintenance**](Bob2/Golf/GolfGreen.html)
+> **Golf Course Maintenance**
 
 >
 
-> [**_Contextual Teaching and Learning (CTL)
-Report:_**](http://jwilson.coe.uga.edu/EMT668/EMAT6680.2000/Westmoreland/CTL/CTL.html)
-**North Georgia Hydro**
+> **_Contextual Teaching and Learning (CTL) Report:_** **North Georgia Hydro**
 
   
 
@@ -140,7 +137,7 @@ There is no textbook.
 Course assignments and materials (especially problems sets) are mostly
 available on this Web Site
 
-[( **http://jwilson.coe.uga.edu/EMT725/EMT725.html** )](EMT725.html).
+( **http://jwilson.coe.uga.edu/EMT725/EMT725.html** ).
 
 Material will also be given via **handouts** , via **class demonstrations** ,
 and via use of **references**. Occasionally, a problem or problem context will
@@ -274,8 +271,7 @@ course, but why would you want to?)
 
 * * *
 
- **UGA Academic Honesty**
-**[Policy](http://www.uga.edu/ovpi/honesty/main.html)**
+ **UGA Academic Honesty** **Policy**
 
 > **The University of Georgia seeks to promote and ensure academic honesty and
 personal integrity among students and other members of the University
@@ -288,8 +284,8 @@ policy and procedures on academic honesty.**
 
 * * *
 
-Back to **[EMAT 4600/6600 Page  
-](EMT725.html)**
+Back to **EMAT 4600/6600 Page  
+**
 
 * * *
 

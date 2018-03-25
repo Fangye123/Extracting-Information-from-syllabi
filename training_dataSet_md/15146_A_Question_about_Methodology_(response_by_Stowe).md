@@ -1,15 +1,11 @@
-[![Crossroads
-logo](http://crossroads.georgetown.edu/logo_sm.gif)](http://crossroads.georgetown.edu/index.html)
-|   |
+![Crossroads logo](http://crossroads.georgetown.edu/logo_sm.gif) |   |
 
-[![Curriculum](http://crossroads.georgetown.edu/cur_sm.gif)](http://crossroads.georgetown.edu/curriculum.html)
-[![Technology &
-Learning](http://crossroads.georgetown.edu/tech_sm.gif)](http://crossroads.georgetown.edu/innovation.html)
-[![Reference &
-Research](http://crossroads.georgetown.edu/ref_sm.gif)](http://crossroads.georgetown.edu/reference.html)
+![Curriculum](http://crossroads.georgetown.edu/cur_sm.gif) ![Technology &
+Learning](http://crossroads.georgetown.edu/tech_sm.gif) ![Reference &
+Research](http://crossroads.georgetown.edu/ref_sm.gif)
 
 ![horizontal red rule](http://crossroads.georgetown.edu/redrule.gif)  
-[![Communities](http://crossroads.georgetown.edu/com.gif)](http://crossroads.georgetown.edu/community.html)
+![Communities](http://crossroads.georgetown.edu/com.gif)
 
 **Interroads Discussion List**  
 ---|---|---  
@@ -18,49 +14,30 @@ Research](http://crossroads.georgetown.edu/ref_sm.gif)](http://crossroads.george
 
 **Response by David Stowe, University of Doshisha, Japan**
 
-[Interroads Table of
-Contents](http://crossroads.georgetown.edu/interroads/toc.html)
+Interroads Table of Contents
 
-**3\. This thread contains an essay by[Vernon
-Pedersen](http://crossroads.georgetown.edu/pedersen1.html)**
+**3\. This thread contains an essay byVernon Pedersen**
 
 **Invited Responses from:**
 
-[**Blair**](http://crossroads.georgetown.edu/interroads/blair.html)
-[**Budianta**](http://crossroads.georgetown.edu/interroads/budianta.html)
-[**Mintz**](http://crossroads.georgetown.edu/interroads/mintz1.html) **Stowe**
+**Blair** **Budianta** **Mintz** **Stowe**
 
 **List Responses from:**
 
-[**Carner**](http://crossroads.georgetown.edu/interroads/carner1.html)
-[**Finlay**](http://crossroads.georgetown.edu/interroads/finlay1.html)
-[**Stowe**](http://crossroads.georgetown.edu/interroads/stowe2.html)
-[**Zwick**](http://crossroads.georgetown.edu/interroads/zwick1.html)
-[**Linke**](http://crossroads.georgetown.edu/interroads/linke.html)
-[**Lauter**](http://crossroads.georgetown.edu/interroads/lauter1.html)
-[**Horwitz**](http://crossroads.georgetown.edu/interroads/horwitz1.html)
-[**Lauter**](http://crossroads.georgetown.edu/interroads/lauter2.html) **(2)**
-[**Kaenel**](http://crossroads.georgetown.edu/interroads/kaenel2.html)
+**Carner** **Finlay** **Stowe** **Zwick** **Linke** **Lauter** **Horwitz**
+**Lauter** **(2)** **Kaenel**
 
-**Counterresponse from[Vernon
-Pedersen](http://crossroads.georgetown.edu/interroads/pedersen2.html)**
+**Counterresponse fromVernon Pedersen**
 
 **Postscripts from:**
 
-[**Lauter**](http://crossroads.georgetown.edu/interroads/lauter3.html)
-[**Horwitz**](http://crossroads.georgetown.edu/interroads/horwitz2.html)
-[**Stowe**](http://crossroads.georgetown.edu/interroads/stowe3.html)
-[**Morreale**](http://crossroads.georgetown.edu/interroads/morreale.html)
+**Lauter** **Horwitz** **Stowe** **Morreale**
 
 **Addenda:**
 
-Syllabus, **[The Americas: Identity, Culture and
-Power](http://crossroads.georgetown.edu/interroads/mintz2.html) (** Mintz
-**)**
+Syllabus, **The Americas: Identity, Culture and Power (** Mintz **)**
 
-Syllabus, **[Introduction to American
-Studies](http://crossroads.georgetown.edu/interroads/lauter4.html)** (Lauter)
-|
+Syllabus, **Introduction to American Studies** (Lauter) |
 
 [David Stowe received his Ph.D. in American Studies from Yale University in
 1993. He has taught in the Department of American Thought and Language at
@@ -177,21 +154,15 @@ second language. Does the fact that I can speak only rudimentary Japanese (for
 now) disqualify me from questioning why so little of the business of our
 program takes place in English? I don't think so.
 
-David W. Stowe University of Doshisha, Japan Email:
-[dstowe@mail.doshisha.ac.jp](mailto:dstowe@mail.doshisha.ac.jp) |  
+David W. Stowe University of Doshisha, Japan Email: dstowe@mail.doshisha.ac.jp
+|  
 ---|---|---  
   
 * * *
 
-[Communities](http://crossroads.georgetown.edu/community.html) |
-[Curriculum](http://crossroads.georgetown.edu/curriculum.html) | [Technology &
-Learning](http://crossroads.georgetown.edu/innovation.html) | [Reference &
-Research](http://crossroads.georgetown.edu/reference.html)  
-[Crossroads home page](http://crossroads.georgetown.edu/index.html) | [About
-Crossroads](http://crossroads.georgetown.edu/about.html) | [What's
-New](http://crossroads.georgetown.edu/new.html) | [Visitors'
-Book](http://crossroads.georgetown.edu/visitor.html)
+Communities | Curriculum | Technology & Learning | Reference & Research  
+Crossroads home page | About Crossroads | What's New | Visitors' Book
 
-This section last updated September 1997. Please send comments to [Crossroads
-Webstaff](mailto:cepacs@guvax.georgetown.edu).  
+This section last updated September 1997. Please send comments to Crossroads
+Webstaff.  
 

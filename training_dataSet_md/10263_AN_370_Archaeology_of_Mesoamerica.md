@@ -77,12 +77,11 @@ well is the Chariot theory proven?
 ###  The difference between the true pre-history of Mesoamerica and
 fantastical interpretations
 
-![](book.gif)[ Picture](sarc_lid_1.jpg) and [drawing](sarc_lid_2.gif) of the
-sarcophagus lid in the tomb of the Temple of Inscriptions. Look at the details
-of this piece of sculpture. Do you see what von Daniken sees? Go to the [Maya
-resources](resources.html#Maya) for clues to the meaning of the symbols. Parts
-of Linda Schele's analysis should be read when it becomes available in the
-library.
+![](book.gif) Picture and drawing of the sarcophagus lid in the tomb of the
+Temple of Inscriptions. Look at the details of this piece of sculpture. Do you
+see what von Daniken sees? Go to the Maya resources for clues to the meaning
+of the symbols. Parts of Linda Schele's analysis should be read when it
+becomes available in the library.
 
 ##  Mesoamerica the cradle of civilization in North America
 
@@ -96,10 +95,8 @@ library.
 
 ###  The pre-projectile-point occupation
 
-![](book.gif) [Monte Verde Excavation: or Clovis Police Beat a
-Retreat](http://www.unl.edu/rhames/monte_verde/MonteVerde.htm)  
-![](book.gif) [Chilean Field Yields New Clues to Peopling of
-Americas](http://www.unl.edu/rhames/monte_verde/monte_verde1.htm), New York
+![](book.gif) Monte Verde Excavation: or Clovis Police Beat a Retreat  
+![](book.gif) Chilean Field Yields New Clues to Peopling of Americas, New York
 Times, August 5, 1998.
 
 ###  Paleoindian occupation
@@ -120,10 +117,8 @@ Times, August 5, 1998.
 
 ###  The Olmec on the Gulf Coast
 
-![](book.gif) [Olmec Art of Ancient
-Mexico](http://www.unam.mx/voices/1996/nov/fuente.html)  
-![](book.gif) [Imagenes de Vestigios Arqueologicos: Cultura
-Olmeca](http://dbweb.admvo2.uv.mx/imgs/min/olmred/olmeca.html)
+![](book.gif) Olmec Art of Ancient Mexico  
+![](book.gif) Imagenes de Vestigios Arqueologicos: Cultura Olmeca
 
 There are a lot of beautiful pictures on this page, but you may have to
 download them via a high-speed network such as the one at the university.
@@ -177,20 +172,17 @@ city
 ###  The influence of Teotihuacan
 
 ![](book.gif) Pages 161-205 in AMP.  
-![](book.gif) Introduction in [Archaeology of
-Teotihuacan](http://archaeology.la.asu.edu/teo/index.htm).  
-![](book.gif) [Iconography of the Facades at the Feathered Serpent Pyramid:
-General](http://archaeology.la.asu.edu/teo/fsp/Icon/icongnr.htm)  
-![](book.gif) [Looters' Tunnel at the Feathered Serpent
-Pyramid](http://archaeology.la.asu.edu/teo/fsp/Others/lootgnrl.htm)
+![](book.gif) Introduction in Archaeology of Teotihuacan.  
+![](book.gif) Iconography of the Facades at the Feathered Serpent Pyramid:
+General  
+![](book.gif) Looters' Tunnel at the Feathered Serpent Pyramid
 
 **WEEK 7** \- 10/19
 
 ###  The Classic Period in the rest of Central Mexico.
 
 ![](book.gif) Pages 205-237 in AMP.  
-![](book.gif) [Monte
-Alban](http://eric.tcs.tulane.edu/~dhixson/montealban/montealban.html)
+![](book.gif) Monte Alban
 
 **WEEK 8** \- 10/26
 

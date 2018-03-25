@@ -1,6 +1,4 @@
-#### [King's College Department of History
-
-](http://www.kings.edu/history)
+#### King's College Department of History
 
 ##  HISTORY 345  
 MODERN BRITAIN
@@ -56,8 +54,8 @@ completed prior to discussion of the material in class lectures.
 ** To assist in gathering a knowledge and understanding of many issues in the
 text as well as in classroom discussions and as an adjunct to your own
 research I have posted a Modern Britain Website which you might wish to access
-and use as is appropriate. Access:[ **MODERN BRITAIN
-1688-2000**](britweb.html) (www.kings.edu/hbfedric/britweb.html)
+and use as is appropriate. Access: **MODERN BRITAIN 1688-2000**
+(www.kings.edu/hbfedric/britweb.html)
 
 ### **WRITTEN RESEARCH ASSIGNMENTS
 
@@ -144,7 +142,7 @@ Other times may be arranged by mutually convenient appointment.
   
 
   * Contact may also be made by **phone/voice mail (Ext. 5744)** Messages may be left with the **Faculty Assistants (Ext.5702)**   
-Or by E-Mail [hbfedric@kings.edu](mailto:hbfedric@kings.edu)
+Or by E-Mail hbfedric@kings.edu
 
   
   
@@ -232,7 +230,7 @@ pp.218-229)
 \- The Era of Lady Thatcher  
 \- Tony Blair and The "Reform" of the Welfare State
 
-[Howard B. Fedrick](http://www.kings.edu/hbfedric)  
+Howard B. Fedrick  
 
 History Department
 

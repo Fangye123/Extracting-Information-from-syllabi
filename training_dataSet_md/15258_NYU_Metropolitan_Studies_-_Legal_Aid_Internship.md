@@ -1,34 +1,29 @@
 ![New York University, College of Arts and
 Science](../../images/littletop3.gif)  
-[![Home](../../images/logo_small.JPG)](../../index.html)  
-[![Program Description and Major/Minor
-Requirements](../../images/about.gif)](../../program/index.html)  
-[![](../../images/courses.gif)](../../course/index.html)  
-[![](../../images/faculty.gif)](../../faculty/index.html)  
-[![](../../images/interships.gif)](../index.html)  
-[![Colloquium](../../images/colloquium.gif)](../../events/colloquium.htm)  
-[![](../../images/society.gif)](../../society/index.html)  
-[![Metropolitan Studies Program
-Newsletter](../../images/newsletter.gif)](../../newslett/index.html)  
-[![](../../images/alumni.gif)](../../alumni/index.html)  
-[![](../../images/scholarships.gif)](../../scholarships/index.html)  
-[![](../../images/career.gif)](../../links/jobsites.htm)  
-[![](../../images/search.gif)](../../search/index.html)  
-[![](../../images/links.gif)](../links/research.html) |
+![Home](../../images/logo_small.JPG)  
+![Program Description and Major/Minor Requirements](../../images/about.gif)  
+![](../../images/courses.gif)  
+![](../../images/faculty.gif)  
+![](../../images/interships.gif)  
+![Colloquium](../../images/colloquium.gif)  
+![](../../images/society.gif)  
+![Metropolitan Studies Program Newsletter](../../images/newsletter.gif)  
+![](../../images/alumni.gif)  
+![](../../images/scholarships.gif)  
+![](../../images/career.gif)  
+![](../../images/search.gif)  
+![](../../images/links.gif) |
 
 #  Legal Aid Internship
 
-[Internship FAQ](../qa/index.html) || [Agencies Offering
-Internships](../agency/index.html) || [Tips on Resume
-Writing](../resume/index.html) || [Interview Tips](../interview/tips.html)
+Internship FAQ || Agencies Offering Internships || Tips on Resume Writing ||
+Interview Tips
 
 * * *
 
   
 These links will open in a new window:  
-[Career Services](http://www.nyu.edu/careerservices/) || [Service
-Net](http://www.nyu.edu/community.service/sn.html) || [Community Service
-Center](http://www.nyu.edu/community.service/)
+Career Services || Service Net || Community Service Center
 
 * * *
 

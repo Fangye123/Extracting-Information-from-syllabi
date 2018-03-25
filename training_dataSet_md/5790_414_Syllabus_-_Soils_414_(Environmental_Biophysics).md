@@ -16,7 +16,7 @@ Office Hours: M10:10-11am and by appointment
 
 (I will typically be in my off-campus office)  
 colin@decagon.com  
-_(_[ _email_](mailto:colin@decagon.com) _is a great way to contact me!)_
+_(_ _email_ _is a great way to contact me!)_
 
 **TA:       **Nu Nu Wai  
 235-A Johnson Hall Phone: 335-7817  
@@ -137,20 +137,19 @@ notification may mean that the requested accommodation cannot be made.
 _* Crosslisted as Env.Sci. 414, and also through the Botany Program at Univ.
 of Idaho_
 
-[Questions/Comments?](mailto:colin@decagon.com)  
+Questions/Comments?  
 ![](grey1.gif)
 
-[**_Return to Soils 414 homepage_**](index.htm)
+**_Return to Soils 414 homepage_**
 
-[Dept. of  Crop and Soil Sciences](http://css.wsu.edu/)  
-[Washington State University](http://www.wsu.edu/)  
-[Pullman,](http://www.pullman.com) WA 99164-6420
+Dept. of  Crop and Soil Sciences  
+Washington State University  
+Pullman, WA 99164-6420
 
 * * *
 
   
-[Copyright ](http://www.wsu.edu/Copyright.html)(C) Washington State University
-[Disclaimer](http://www.wsu.edu/Disclaimer.html)  
-_Modified 1/08/01_[ _C.S. Campbell_](mailto:colin@decagon.com)  
+Copyright (C) Washington State University  Disclaimer  
+_Modified 1/08/01_ _C.S. Campbell_  
 
 

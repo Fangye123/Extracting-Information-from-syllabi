@@ -4,8 +4,8 @@
 
 ###  Fall 1995 (95F) - Section 16
 
-####  Instructor: [ Dr. Diane L. Ferry ](ferryd.html)  
-[ ferryd@college.be.udel.edu ](mailto:ferryd@college.be.udel.edu)
+####  Instructor:  Dr. Diane L. Ferry  
+ferryd@college.be.udel.edu
 
     
     
@@ -52,10 +52,9 @@
 
 * * *
 
-Return to [ BUAD309 - Management and Organizational Behavior Home Page
-](309main.html)  
-Return to [ Dr. Diane L. Ferry Home Page ](ferryd.html)  
-Return to [ University of Delaware Home Page ](http://www.udel.edu)  
+Return to  BUAD309 - Management and Organizational Behavior Home Page  
+Return to  Dr. Diane L. Ferry Home Page  
+Return to  University of Delaware Home Page  
 
 * * *
 
@@ -166,10 +165,9 @@ Return to [ University of Delaware Home Page ](http://www.udel.edu)
 
 * * *
 
-Return to [ BUAD309 - Management and Organizational Behavior Home Page
-](309main.html)  
-Return to [ Dr. Diane L. Ferry Home Page ](ferryd.html)  
-Return to [ University of Delaware Home Page ](http://www.udel.edu)  
+Return to  BUAD309 - Management and Organizational Behavior Home Page  
+Return to  Dr. Diane L. Ferry Home Page  
+Return to  University of Delaware Home Page  
 
 * * *
 
@@ -330,10 +328,9 @@ scheduled final exam period.
 
 * * *
 
-Return to [ BUAD309 - Management and Organizational Behavior Home Page
-](309main.html)  
-Return to [ Dr. Diane L. Ferry Home Page ](ferryd.html)  
-Return to [ University of Delaware Home Page ](http://www.udel.edu)  
+Return to  BUAD309 - Management and Organizational Behavior Home Page  
+Return to  Dr. Diane L. Ferry Home Page  
+Return to  University of Delaware Home Page  
 
 * * *
 
@@ -377,10 +374,9 @@ requirement of the course.
 
 * * *
 
-Return to [ BUAD309 - Management and Organizational Behavior Home Page
-](309main.html)  
-Return to [ Dr. Diane L. Ferry Home Page ](ferryd.html)  
-Return to [ University of Delaware Home Page ](http://www.udel.edu)  
+Return to  BUAD309 - Management and Organizational Behavior Home Page  
+Return to  Dr. Diane L. Ferry Home Page  
+Return to  University of Delaware Home Page  
 
 * * *
 
@@ -415,14 +411,14 @@ forth. So, check your mail regularly too.
 
 * * *
 
-Return to [ International Joint Seminar Home Page](309main.html)  
-Return to [ BUAD428 - Management Systems ](428main.html)  
-Return to [ Dr. Diane L. Ferry Home Page ](ferryd.html)  
-Return to [ University of Delaware Home Page ](http://www.udel.edu)  
+Return to  International Joint Seminar Home Page  
+Return to  BUAD428 - Management Systems  
+Return to  Dr. Diane L. Ferry Home Page  
+Return to  University of Delaware Home Page  
 
 * * *
 
 Last Updated September 13, 1996  
-by [ Dr. Diane L. Ferry](ferryd.html)  
-[ FerryD@college.be.udel.edu ](mailto:ferryd@college.be.udel.edu)
+by  Dr. Diane L. Ferry  
+FerryD@college.be.udel.edu
 

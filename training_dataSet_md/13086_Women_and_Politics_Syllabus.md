@@ -6,9 +6,8 @@ Winter 1998
 #### Dr. Carolyn M. Shrewsbury  
 Mankato State University #7 Mankato, MN 56002-8400  
 MH 221D 507-389-6939 FAX: 507-389-6377  
-cbury@mankato.msus.edu **or** mail to:[ Dr. Carolyn M.
-Shrewsbury](mailto:cbury@Mankato.MSUS.EDU)  
-<http://krypton.mankato.msus.edu/~cbury/web/Welcome.html>
+cbury@mankato.msus.edu **or** mail to: Dr. Carolyn M. Shrewsbury  
+http://krypton.mankato.msus.edu/~cbury/web/Welcome.html
 
 Note: this syllabus is tentative and the class may choose to reconstruct it.
 
@@ -24,8 +23,8 @@ Note: this syllabus is tentative and the class may choose to reconstruct it.
 
 **Text:** Cohen, Jones and Tronto _Women Transforming Politics An Alternative
 Reader_.  
-For useful internet resources, see the [Resource Guide for Women, Politics and
-Policy.](../Resources/women.html).
+For useful internet resources, see the Resource Guide for Women, Politics and
+Policy..
 
 **Requirements:**
 
@@ -82,16 +81,15 @@ meeting.
 **Week 2**
 
   * Jan. 12 Read **Ch. 3** Stevens On the Marriage Question who argues that law engenders marriage and parenting roles in a hierarchical fashion. Mini-lecture: Using the internet and making successful searches. 
-  * Jan. 13 Read: **Ch. 4** Kwong American Sweatshops 1980s Style Chinese Women Garment Workers.Telling a good story is an important skill. For this chapter we'll practice story telling. Be prepared to tell a story based on some part on this chapter. For information on the internet about women and work you might want to start with the [Women's Bureau of the U.S. Department of Labor.](http://www.dol.gov/dol/wb/)
+  * Jan. 13 Read: **Ch. 4** Kwong American Sweatshops 1980s Style Chinese Women Garment Workers.Telling a good story is an important skill. For this chapter we'll practice story telling. Be prepared to tell a story based on some part on this chapter. For information on the internet about women and work you might want to start with the Women's Bureau of the U.S. Department of Labor.
   * Jam. 14 Instead of class. we'll meet at 12 at Happy Chef North for LWV meeting with Mary Rieder, a Congressional Candidate in 1996. 
   * Jam. 15 Read: Half of us will read **Ch. 5** Roth Women, Work and the Politics of Fetal Rights. Two key things to note here. 1)challenges to workplace discrimination and the court. Here be sure to note the distinction between disparate treatment and disparate impact and the defenses to each. 2) the ways in which fetal rights are used to define women. How would you want to resolve issues raised by concepts of fetal rights? The other half are to read **Ch. 7** Shende Fighting the Violence Against our Sisters: Prosecution of Pregnant Women and the Coercive Uses of Norplant. Identify the inconsistencies in state policy regarding fetal health that suggest something other than concern for children as the guiding perspective. What is that something?  
 Be prepared to summarize the chapter you read to the rest of the class. Also
 pick out ten or so quotes from the article that you'd want to share.  
-Website of interest: Families USA. at <http://www.familiesusa.org> They are
-very active in expanding Medicaid to cover more children. The
-[NARAL](http://www.naral.org/) site has lots of resources on reproductive
-rights. You might also find the. [Ultimate Pro-Life Resource
-List](http://www.prolife.org/ultimate/) interest.
+Website of interest: Families USA. at http://www.familiesusa.org They are very
+active in expanding Medicaid to cover more children. The NARAL site has lots
+of resources on reproductive rights. You might also find the. Ultimate Pro-
+Life Resource List interest.
 
 **Week 3**
 
@@ -155,7 +153,7 @@ List](http://www.prolife.org/ultimate/) interest.
 
 RETURN TO:
 
-  * [Carolyn Shrewsbury Home Page](http://krypton.mankato.msus.edu/~cbury/web/Welcome.html)
-  * [PS/LE Department Home Page](http://www.mankato.msus.edu/dept/psle/welcome.html)
-  * [MSU Welcome Page](http://www.mankato.msus.edu/) 
+  * Carolyn Shrewsbury Home Page
+  * PS/LE Department Home Page
+  * MSU Welcome Page 
 

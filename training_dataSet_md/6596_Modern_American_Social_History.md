@@ -22,7 +22,7 @@ Required Reading:
   * Packer, Blood of the Liberals
   * Johnson, Blowback 
 
-[Study Groups](mashgroups.html)
+Study Groups
 
 Tentative Weekly Schedule
 
@@ -54,7 +54,7 @@ IV. Getting on the Bus and Going Somewhere
 
 Weeks 7 & 8: Feb. 26 - March 7
 
-[MID-TERM](MASHMID.HTML) DUE FEBRUARY 26, MY OFFICE, 5 PM
+MID-TERM DUE FEBRUARY 26, MY OFFICE, 5 PM
 
   * Readings: Blowback
   * TBA 
@@ -156,8 +156,7 @@ vent, my door is always open.
 
 * * *
 
-[![](kauke.jpg)](http://www.wooster.edu)
-[![](kpage18.jpg)](http://www.wooster.edu/ktwebpage.html)
+![](kauke.jpg) ![](kpage18.jpg)
 
 Last updated: August 29, 2000  
 (C) Karen J. Taylor  **

@@ -1,7 +1,7 @@
-[ ![next](http://cs.idbsu.edu/icons//next_motif.gif)](node1.html)
+![next](http://cs.idbsu.edu/icons//next_motif.gif)
 ![up](http://cs.idbsu.edu/icons//up_motif_gr.gif)
 ![previous](http://cs.idbsu.edu/icons//previous_motif_gr.gif)  
-**Next:** [About this document ...](node1.html)  
+**Next:** About this document ...  
   
 
 # Math 307=COMPSCI 367/567, Cryptology I
@@ -111,13 +111,13 @@ session, unless I specifically say otherwise :-)
 
 * * *
 
-  * [About this document ... ](node1.html) 
+  * About this document ...  
 
 * * *
 
-[ ![next](http://cs.idbsu.edu/icons//next_motif.gif)](node1.html)
+![next](http://cs.idbsu.edu/icons//next_motif.gif)
 ![up](http://cs.idbsu.edu/icons//up_motif_gr.gif)
 ![previous](http://cs.idbsu.edu/icons//previous_motif_gr.gif)  
-**Next:** [About this document ...](node1.html) _Randall Holmes_  
+**Next:** About this document ... _Randall Holmes_  
 _2001-08-29_
 

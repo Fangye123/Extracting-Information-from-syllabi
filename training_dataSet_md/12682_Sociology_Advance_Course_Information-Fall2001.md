@@ -40,7 +40,7 @@ to sociological research.
 
 Instructor: Ben Crow  
 Office: Room 320, College 8  
-e-mail: [bencrow@cats.ucsc.edu](mailto:bencrow@cats.ucsc.edu)  
+e-mail: bencrow@cats.ucsc.edu  
 Phone: 459-5503 (O); 650-367 8272 (H); 650-245-6769 (Mobile)  
 Office Hours: 2 p.m. - 4 p.m., Tuesdays and Thursdays
 
@@ -110,7 +110,7 @@ University Press.
 >
 
 > FAO (1999). _The State of Food Insecurity in the World._ Summary.
-(<http://www.fao.org>).
+(http://www.fao.org).
 
 >
 
@@ -202,7 +202,7 @@ Press. Chapters 9 and 10, 12, and 13.
 >
 
 > UNDP (1999). Human Development Indicators. Selected tables from _Human
-Development Report 1999_ (<http://www.undp.org>).
+Development Report 1999_ (http://www.undp.org).
 
 _Hunger in America_ \- classic late 1960s documentary describing poor Mexican
 Americans in Texas, tenant farmers in Virginia, Navajos in Arizona, and
@@ -232,7 +232,7 @@ Film: _Legacy of Malthus?_
 #### 9\. Attacking hunger and poverty
 
 > World Bank (2000). Draft _World Development Report: Attacking Poverty._
-Chapters 1 and 2. (<http://www.worldbank.org/wdr/>)
+Chapters 1 and 2. (http://www.worldbank.org/wdr/)
 
 >
 

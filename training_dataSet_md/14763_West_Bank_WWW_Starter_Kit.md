@@ -1,18 +1,16 @@
 # A WWW Starter kit for learning about the West Bank
 
-[**Syllabus**](Syllabus.html) |  [Middle East Links](MElinks.html) |  [The
-Negotiation Project](project.html) |  [The Negotiation
-Documents](documents.html) |  [**Levels of Analysis**](analysis.html) |
-[**The A paper**](Apaper.html) |  [Class Main Page](index.html)  
+**Syllabus** |  Middle East Links |  The Negotiation Project |  The
+Negotiation Documents |  **Levels of Analysis** |  **The A paper** |  Class
+Main Page  
 ---|---|---|---|---|---|---  
   
 I hope these links will help you begin your exploration of your clients in the
 social conflict class. There is certainly a lot of information on the web
 about the Middle East, and particularly about the West Bank. I try to make the
 most useful of that information available here. In addition to this
-information, you will need to consult the [ list of reference
-material](http://www.stolaf.edu/library/BIGUIDES/psych3~1.htm) the Rolvaag
-LIbrary has available.
+information, you will need to consult the  list of reference material the
+Rolvaag LIbrary has available.
 
 However, don't make the mistake of using the web as your primary resource. For
 some things, it's great; for other things, you are better off spending some
@@ -36,17 +34,17 @@ newspapers and online newsletters on the issues, sites maintained by interest
 groups or organizations, and some audio and video files ( _RealAudio_ is
 useful here). These and the news sites are worth checking regularly.
 
-  * [Political Resources on the Net](http://www.stm.it/politic/). A useful listing of poitical sites, by country.
-  * A compilation of links on the [Middle East Peace Process](http://www.arts.mcgill.ca/MEPP/meppnet.html).
-  * [_Yahoo!_ Israeli - Palestinian Conflict](http://headlines.yahoo.com/Full_Coverage/World/Israeli___Palestinian_Conflict/)
-  * [_Excite's_ Middle East Update](http://nt.excite.com/222/225/page.html)
-  * [_Lycos_ Middle East](http://www.lycos.com/wguide/network/net_484547.html)
+  * Political Resources on the Net. A useful listing of poitical sites, by country.
+  * A compilation of links on the Middle East Peace Process.
+  * _Yahoo!_ Israeli - Palestinian Conflict
+  * _Excite's_ Middle East Update
+  * _Lycos_ Middle East
 
 #### History & Information
 
-  * [Reference Documents (maintained by Israel)](http://www.israel.org/peace/basicref.html) This site is courtesy of the Israel Ministry of Foreign Affairs. It contains the full text, along with appendices and maps, of agreements, treaties, important letters and memoranda, etc. from both sides. All the relevant UN documents are here, the Balfour Declaration, the Camp David Accords, the Oslo Accords, etc. Quite impressive.
-  * [Palestine: Home of History](http://www.toptown.com/office/holyland/) This site has extensive short historical essays, biographies, etc. taken from encyclopedias. It also has a comprehensive list of links related to Israel and Palestine. I have wondered about copyright issues associated with this site.
-  * The 1998 version of the [CIA World factbook](http://www.cia.gov/cia/publications/factbook/index.html). All the basic statistics on countries in the world. Look for the Palestine National Authority in the country lists under the West Bank and under Gaza.
+  * Reference Documents (maintained by Israel) This site is courtesy of the Israel Ministry of Foreign Affairs. It contains the full text, along with appendices and maps, of agreements, treaties, important letters and memoranda, etc. from both sides. All the relevant UN documents are here, the Balfour Declaration, the Camp David Accords, the Oslo Accords, etc. Quite impressive.
+  * Palestine: Home of History This site has extensive short historical essays, biographies, etc. taken from encyclopedias. It also has a comprehensive list of links related to Israel and Palestine. I have wondered about copyright issues associated with this site.
+  * The 1998 version of the CIA World factbook. All the basic statistics on countries in the world. Look for the Palestine National Authority in the country lists under the West Bank and under Gaza.
 
 #### Sites from Major News Providers
 
@@ -56,8 +54,8 @@ dividing the sides, etc. They are not "history" sites, they are journalism.
 But they are certainly good enough for you to get a start in seeing the larger
 picture of the conflict.
 
-  * [_CNN_ Struggle for Peace](http://www.cnn.com/WORLD/struggle_for_peace/index.html)
-  * [_ABC News_ Middle East Peace Mired in Complications](http://www.abcnews.com/sections/world/mideast_index/index.html)
+  * _CNN_ Struggle for Peace
+  * _ABC News_ Middle East Peace Mired in Complications
 
 #### Organizations on some of the sides of the conflict
 
@@ -70,45 +68,43 @@ their cause, and valuable for that very reason.
 
 ##### Israel
 
-  * [Official Israeli Sites](http://www.pmo.gov.il/english/websites/index.html). A list of links to various agencies of the Israeli government.
-  * [IRIS: Information Regarding Israel's Security](http://www.netaxs.com/~iris/). Lots of maps and diagrams. Clearly an advocacy site.
-  * [The Israel Labor Party](http://www.inter.net.il/~avoda/enghome.html). The English language home page of the Labor Party.
-  * [Likud](http://www.likud.org.il/). The English language home page of the Likud Party.
+  * Official Israeli Sites. A list of links to various agencies of the Israeli government.
+  * IRIS: Information Regarding Israel's Security. Lots of maps and diagrams. Clearly an advocacy site.
+  * The Israel Labor Party. The English language home page of the Labor Party.
+  * Likud. The English language home page of the Likud Party.
 
 ##### Palestine
 
-  * [Palestinian National Authority](http://www.pna.org/). The offical site of the governing body for Palestinians in the West Bank.
-  * The [Ministry of Information](http://www.pna.org/mininfo/) of the PNA has a useful site.
-  * [Islamic Association for Palestine Home Page](http://www.iap.org/). Another clear advocacy site, but well put together.
-  * An unofficial site for [Hamas](http://www.hamas.org/). More detail here than one is likely to get from official sources. Also, the [Hamas GateWay ](http://msanews.mynet.net/gateway/hamas/)is an excellent site with materials from many sides writing on Hamas. 
-  * [Fatah](http://www.fateh.org/). A major Palestinian Political Party
-  * The English homepage of the [Palestinian Legislative Council](http://www.pal-plc.org/english/english.htm), the PNA's elected legislative body.
+  * Palestinian National Authority. The offical site of the governing body for Palestinians in the West Bank.
+  * The Ministry of Information of the PNA has a useful site.
+  * Islamic Association for Palestine Home Page. Another clear advocacy site, but well put together.
+  * An unofficial site for Hamas. More detail here than one is likely to get from official sources. Also, the Hamas GateWay is an excellent site with materials from many sides writing on Hamas. 
+  * Fatah. A major Palestinian Political Party
+  * The English homepage of the Palestinian Legislative Council, the PNA's elected legislative body.
 
 ##### United States
 
-  * [Bureau of Near Eastern Affairs](http://www.state.gov/www/regions/nea/index.html), US State Department.
-  * [White House](http://www.whitehouse.gov/WH/html/library.html) search engine for Presidential statements etc.
+  * Bureau of Near Eastern Affairs, US State Department.
+  * White House search engine for Presidential statements etc.
 
 #### Online Newspapers and Opinion
 
-  * [Haaretz Daily](http://www3.haaretz.co.il/eng/htmls/1_1.htm). A somewhat liberal Israeli paper.
-  * [The Jerusalem Post](http://www.jpost.com/). An English language paper from Jerusalem. 
+  * Haaretz Daily. A somewhat liberal Israeli paper.
+  * The Jerusalem Post. An English language paper from Jerusalem. 
 
 
 
-  * [Arabic News](http://www.arabicnews.com/ansub/index.html). A broader topic area, but much about Palestine. This source seems most focussed on news, with less editorial intrusion than some other sources.
-  * [Palestine Times](http://www.ptimes.com/). Mostly about Palestine from the Arab viewpoint.
-  * [Arab View](http://www.arab.net/arabview/). A monthly opinion magazine.
+  * Arabic News. A broader topic area, but much about Palestine. This source seems most focussed on news, with less editorial intrusion than some other sources.
+  * Palestine Times. Mostly about Palestine from the Arab viewpoint.
+  * Arab View. A monthly opinion magazine.
 
-[St. Olaf College](http://www.stolaf.edu/) |  [Psychology
-Department](http://www.stolaf.edu/depts/psych/) |  [My Main  
-Page](../index.html) |  [Research Projects](../info/Research.html) |
-[Classes](../classes/Classes.html) |  [Essays  
+St. Olaf College |  Psychology Department |  My Main  
+Page |  Research Projects |  Classes |  Essays  
 and  
-Poetry](../prose/essays.html) |  [Links](links.html) |  [SPSP  
+Poetry |  Links |  SPSP  
 List  
-Search](../SPSP/SPSPsearch.html)  
+Search  
 ---|---|---|---|---|---|---|---  
   
-[_Disclaimer_](/cwis_policies/personal_disclaimer.html)
+_Disclaimer_
 

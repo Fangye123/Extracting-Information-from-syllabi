@@ -1,55 +1,52 @@
-[![Notre Dame de Namur University
-logo](../images1/SealLogoNDNUH99.gif)](../index.html)  
+![Notre Dame de Namur University logo](../images1/SealLogoNDNUH99.gif)  
 ---  
 |  
 
-  * **[Catalog](../catalog)**
-  * **[Introduction](intro.html)**
-  * **[Contents](toc.html)**
-  * **[Undergraduate Programs](toc.html#underdept)**
-  * **[Undergraduate Admission](ugadmiss.html)**
-  * **[Undergraduate Academic Information](ugacinfo.html) **
-  * **[Undergraduate Policies](policies.html)**
-  * **[Graduate Programs](../graduate-programs/programs.html) **
-  * **[Graduate Admission](../graduate-programs/grad_adm.htm) **
-  * **[Graduate Policies](../graduate-programs/genregul.html)**
-  * **[Student Affairs](stuaff.html) **
-  * **[Academic Affairs](acaff.html)**
-  * **[Directories](dirfac.html) **
-  * **[Location& Directions](../future/map.html)**
-  * **[Campus Map](../future/campusmap.html)**
-  * **[Campus Tour](../tour) **
-  * **[Index to Catalog](catindex.html)**   
+  * **Catalog**
+  * **Introduction**
+  * **Contents**
+  * **Undergraduate Programs**
+  * **Undergraduate Admission**
+  * **Undergraduate Academic Information **
+  * **Undergraduate Policies**
+  * **Graduate Programs **
+  * **Graduate Admission **
+  * **Graduate Policies**
+  * **Student Affairs **
+  * **Academic Affairs**
+  * **Directories **
+  * **Location& Directions**
+  * **Campus Map**
+  * **Campus Tour **
+  * **Index to Catalog**   
   
 
-  * **[Welcome](../future/welcome.html)**
-  * **[Undergraduate](../undergraduate)**
-  * **[Transfer](../transfer/index.html)**
-  * **[Evening Intensive](../evening-special)**
-  * **[Special Programs](../evening-special/special.htm)**
-  * **[Graduate Studies](../graduate-programs)**
-  * **[Student Resources](../students/index.html)**
-  * **[Library](http://library.ndnu.edu/)** ****
-  * **[President](../president/index.html)**
-  * **[Administrative Resources](../admin)**
-  * **[Alumni](../alumni)**
-  * **[News from NDNU](http://news.ndnu.edu/news/index.jsp)**
-  * **[Arts& Lectures](../artsandlectures/index.html)**
-  * **[Apply](../future/apply.html)**
+  * **Welcome**
+  * **Undergraduate**
+  * **Transfer**
+  * **Evening Intensive**
+  * **Special Programs**
+  * **Graduate Studies**
+  * **Student Resources**
+  * **Library** ****
+  * **President**
+  * **Administrative Resources**
+  * **Alumni**
+  * **News from NDNU**
+  * **Arts& Lectures**
+  * **Apply**
 
   
   
 ---  
-**[Search](http://zircon.ndnu.edu:9000)**  
+**Search**  
   
   
   
 ![Photo of NDNU student](../images1/CND-LeftBar.jpg)  
-|    **[Apply](../future/apply.html) | [Tour](../tour) |
-[Schedule](../scheduls/index.html) | [Catalog](index.html) | [Schools
-](schools.html)**  
+|    **Apply | Tour | Schedule | Catalog | Schools **  
 ---  
-  **[ Home](../index.html) > [ Catalog](../catalog) > History **  
+  ** Home > Catalog > History **  
 |
 
 # History
@@ -58,14 +55,13 @@ The **Department of History & Political Science** offers a Bachelor of Arts
 degree in History. This major familiarizes the student with the political,
 economic, social, intellectual, and artistic experiences of peoples all over
 the world, and develops personal skills of research, organization, writing and
-analysis. Part of the [**School of Sciences**](../sciences/index.html), it is
-excellent preparation for graduate study in law, education and public
-administration. The Department offers courses which may be applied toward the
-interdisciplinary minor in **Justice & Peace**.  | **BACHELOR OF ARTS:
-HISTORY**  
+analysis. Part of the **School of Sciences**, it is excellent preparation for
+graduate study in law, education and public administration. The Department
+offers courses which may be applied toward the interdisciplinary minor in
+**Justice & Peace**.  | **BACHELOR OF ARTS: HISTORY**  
 ---  
-In addition to major requirements, students must meet [General Degree
-Requirements](ugacinfo.html) |
+In addition to major requirements, students must meet General Degree
+Requirements |
 
 **Units**  
   
@@ -161,7 +157,7 @@ Introduction to American history and political institutions especially
 designed for international students whose native language is not English.
 
 **HY101 Methods & Methodology (3)**  
-Cross-listed as PS101. See [Political Science](polisci.html) section.
+Cross-listed as PS101. See Political Science section.
 
 **HY102 History of Western Culture (3)** **Fall Spring**  
 Survey of the ideas, people, and movements that have shaped the modern western
@@ -200,7 +196,7 @@ reference to their relation to the French Revolution.
 
 **HY134AB History Culture & Language of France (3) Fall (Evening) Spring
 (Evening)**  
-Cross-listed as CL134AB and FR134AB. See [French](languages.html) section.
+Cross-listed as CL134AB and FR134AB. See French section.
 
 **HY136 "Soviet" Russia [Cdiv] (3)**  
 History of the Soviet experiment in socialism from the revolutions of 1917 to
@@ -285,7 +281,7 @@ outstanding Supreme Court cases related to the document; research in
 constitution-making processes. Cross-listed as PS170.
 
 **HY173 Political Psychology (3)**  
-Cross-listed as PS173. See [Political Science](polisci.html) section.
+Cross-listed as PS173. See Political Science section.
 
 **HY174 Women Law (3) Fall 01**  
 An introduction to the question of gender relations and the law, with
@@ -305,7 +301,7 @@ Cross-listed as PS181.
 
 **HY184 Asian Area Studies [Cdiv] (3)**  
 Satisfies a former General Education requirement in Intercultural Studies.
-Cross-listed as PS184. See [Political Science](polisci.html) section.
+Cross-listed as PS184. See Political Science section.
 
 **HY189 California History (3)**  
 Survey of California history and institutions. Meets state teaching credential
@@ -319,8 +315,7 @@ General Education requirement in Intercultural Studies. Cross-listed as PS190.
 
 **HY199 Independent Study in History (1-3)**  
 Individual study or research under the direction of an instructor. See
-[Undergraduate Policies & Procedures](policies.html) section on Independent
-Study.
+Undergraduate Policies & Procedures section on Independent Study.
 
 An annotated list of all history courses, including courses not listed in this
 Catalog, is available from the Department Office, RH 307.
@@ -333,11 +328,10 @@ Fax: (650) 508-3660 |   |  **Office of Admission**
 Ralston Hall, Second Floor  
 Tel:   (800) 263-0545 or (650) 508-3607  
 Fax: (650) 508-3426  
-E-mail: [admiss@ndnu.edu](mailto:admiss@ndnu.edu)  
+E-mail: admiss@ndnu.edu  
 M - Th 9 a.m. - 6 p.m. and F 9 a.m. - 5 p.m.  
 ---|---|---  
   
-Page maintained by [NDNU Web Administrator](mailto:webmaster@ndnu.edu).
-[Disclaimer](../webweaving/disclaimer.html) \-
-[(C)](../webweaving/copyright.html) \- Last Update:  January 23, 2002
+Page maintained by NDNU Web Administrator. Disclaimer \- (C) \- Last Update:
+January 23, 2002
 

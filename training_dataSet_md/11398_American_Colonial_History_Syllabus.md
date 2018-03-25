@@ -271,17 +271,15 @@ Reading for discussion: Nash, Ch. 12
 F. December 17: FINAL EXAM, 9:00 a.m.
 
 Information provider:  
-Unit: H-Net program at UIC History Department Email:
-[H-Net@uicvm.uic.edu](mailto:H-Net@uicvm.uic.edu)  
+Unit: H-Net program at UIC History Department Email: H-Net@uicvm.uic.edu  
 Posted: 12 Jul 1994
 
 * * *
 
   
-[![H-Net Humanities & Social Sciences
-OnLine](/footers/graphics/logosmall.gif)](/)  
-[Contact Us](/contact/)  
+![H-Net Humanities & Social Sciences OnLine](/footers/graphics/logosmall.gif)  
+Contact Us  
 Copyright  (C) 1995-2002, H-Net, Humanities & Social Sciences OnLine  
-Click Here for an [Internet Citation Guide](/about/citation).  
+Click Here for an Internet Citation Guide.  
 ---
 

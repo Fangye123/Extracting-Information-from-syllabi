@@ -4,27 +4,25 @@
   
 ---  
   
-**[Administration& General Information](../genadmin/genadmin.html)**  
+**Administration& General Information**  
   
-**[Undergraduate  
-Program](../ugradhome/main.html) **  
-**[Graduate Program](../gradhome/main.html) **  
-**[Faculty& Staff](../faculty/faculty.html)**  
-**[History Home](../index.html) **  
+**Undergraduate  
+Program **  
+**Graduate Program **  
+**Faculty& Staff**  
+**History Home **  
   
 ![](../images/smallhistorybanner.jpg)  
 
-[ Courses Home](courses.html) | [Graduate Student Courses HIST
-200-400](courses200-400.html) |  
-[Undergraduate Courses HIST 100-199](courses101-199.html)
+Courses Home | Graduate Student Courses HIST 200-400 |  
+Undergraduate Courses HIST 100-199
 
 ### Courses for Undergraduate Students: History 01-99
 
 This is a listing of all the courses offered by the UNC-CH History Department
 that are open to undergraduate students __only__ (numbers  0-99). These are
 possible courses; for a listing of actual courses being taught in a current or
-upcoming semester, please consult the [ University
-Registrar.](http://www.ais.unc.edu/sis/clsched/csbhome.html)
+upcoming semester, please consult the  University Registrar.
 
 * * *
 
@@ -41,7 +39,7 @@ of manners set within an extended elite family -- what one critic has dubbed
 an eighteenth-century Chinese soap opera. Themes to be explored include family
 life, gender relations, marriage patterns, religious rituals, popular beliefs,
 class distinctions, social mobility, ruling class life-styles and the
-interactions between state and society. [Kessler](../faculty/kessler.html).
+interactions between state and society. Kessler.
 
 **6 FIRST YEAR SEMINAR (3). BOOKS. PFAFF.** As well as reading books,
 civilized people value them and not infrequently own them. This seminar will
@@ -51,8 +49,7 @@ This may involve such activities as scrutinizing very early printed books in
 the Rare Books Collection, making field trips to secondhand bookshops (as well
 as to the inevitable Amazon.com), talking with preservation officers in Davis
 Library, comparing different book-versions of the same work, and selecting a
-book for purchase as a prized possession.
-[Pfaff](http://www.unc.edu/depts/history/faculty/pfaff.html).
+book for purchase as a prized possession. Pfaff.
 
 **10 CULTURES AND HISTORIES OF NATIVE NORTH AMERICA: AN INTRODUCTION (AMST 10)
 (3).** History 10/American Studies 10 is an interdisciplinary introduction to
@@ -83,7 +80,7 @@ methodologies pertinent to Native American cultural studies; therefore, the
 assigned readings complement but do not duplicate the lectures. Students are
 warned that there is a much reading in this course because of the great number
 of tribes and interdisciplinary methodologies pertinent to Native North
-America. [Porter](http://www.unc.edu/depts/history/faculty/porter.html).
+America. Porter.
 
 >  
 
@@ -125,8 +122,7 @@ like. As to more mundane matters: I divide the course into three segments
 readings; I have students meet in small discussion sections almost every week;
 and I tend to assign more essays or take-home exams than in-class exams. This
 is a large class (usually 300 students), but I'm usually assisted by 7-8 very
-able Teaching Assistants.
-[Bennett](http://www.unc.edu/depts/history/faculty/bennett.html).
+able Teaching Assistants. Bennett.
 
 **11 HISTORY OF WESTERN CIVILIZATION TO 1650 (3). BULLARD.** Why study Western
 Civ. in today's diverse world driven by a global economy? Good question!! Take
@@ -155,8 +151,7 @@ discussion sections organized around source readings and guided by study
 questions, all posted on the course web page. I use lots of images and maps in
 lecture, even some music, to set the mood and to illustrate European art and
 culture. The course web page includes a mini art gallery and links to other
-interesting sites.
-[Bullard](http://www.unc.edu/depts/history/faculty/bullard.html).
+interesting sites. Bullard.
 
 **11 HISTORY OF WESTERN CIVILIZATION TO 1650 (3). FRANKEL.** Western
 civilization has produced glorious and wondrous works of art, literature, and
@@ -208,7 +203,7 @@ meeting led by a teaching assistant. The reading load averages about 80 pages
 per week. There are two take-home midterm exams, weekly quizzes, and a non-
 cumulative final exam. Lecture outlines, study questions, quizzes, exam
 questions, and interesting links are posted to the course's web page each
-week. [Smith](http://www.unc.edu/depts/history/faculty/smith.html).
+week. Smith.
 
 > "History 11 with Dr. Smith involves not only the historical events that
 shaped western society, but (just as important) the social, religious,
@@ -254,8 +249,7 @@ human suffering. You will be required to take periodic quizzes, a midterm and
 a final, and write two papers based on the readings. Frankel.
 
 **14 ANCIENT HISTORY (3).** A topical survey of the ancient world, especially
-the civilization of the Near East, Greece, and Rome. Fall.
-[McCoy](http://www.unc.edu/depts/history/faculty/mccoy.html).
+the civilization of the Near East, Greece, and Rome. Fall. McCoy.
 
 **14 ANCIENT HISTORY (3). TALBERT.** This course is designed to be a
 compendium of ancient history, covering in outline format the rise and decline
@@ -274,12 +268,10 @@ examine how they are manipulated to piece together the historical record of
 the civilizations we are studying. In addition we shall touch on the subject
 of historiography, i.e. the history of historical writing, and investigate how
 the methodology and biases of the historian and his times influence the
-presentation of events.
-[Talbert](http://www.unc.edu/depts/history/faculty/talbert.html).
+presentation of events. Talbert.
 
 **15 MEDIEVAL HISTORY (3).** A survey of western Europe and the Mediterranean
-World, 300-1400. Spring.
-[McVaugh](http://www.unc.edu/depts/history/faculty/mcvaugh.html)
+World, 300-1400. Spring. McVaugh
 
 >  
 
@@ -298,13 +290,12 @@ that the professor was really good."
 **16 EARLY MODERN EUROPEAN HISTORY, 1450-1815 (3).** Intellectual and social
 structures, dynamics of social and political change, principles of authority
 and bases of revolution from the Reformation to the French Revolutionary and
-Napoleonic period. Fall. [McIntosh](mailto:).
+Napoleonic period. Fall. McIntosh.
 
 **17 TWENTIETH CENTURY EUROPE (3).** A critical overview of twentieth-century
 European history, with particular attention to the constant ethnic, religious,
 social, economic, and cultural struggles (including Holocaust, Cold War) in
-various sub-units of the old continent. Spring.
-[Jarausch](http://www.unc.edu/depts/history/faculty/jarausch.html).
+various sub-units of the old continent. Spring. Jarausch.
 
 **18 THE CONTEMPORARY WORLD IN HISTORICAL PERSPECTIVE: THE WORLD SINCE 1945
 (3).** Analyzes the Cold War, the challenge of decolonization, America's role
@@ -338,8 +329,7 @@ culture, & gender roles; and the complex interaction of ethnic rivalries,
 state-centered nationalism, and supra-national cooperation. Assignments will
 include a mid-term examination, two short (3-4-page) papers, and a final
 examination. The reading consists of five-six paperbacks. The class format
-will feature lectures and discussion sections. Fall.
-[Fletcher](http://www.unc.edu/depts/history/faculty/fletcher.html).
+will feature lectures and discussion sections. Fall. Fletcher.
 
 **18 THE WORLD SINCE 1945 (3). FRANKEL.** The world since 1945 marks the
 second half of history's bloodiest, most destructive century. Two world wars
@@ -378,13 +368,12 @@ aimed at improving understanding of the world since 1945, the course is also
 concerned with building skills. You will be introduced to the critical use of
 evidence and to ways of building generalizations from that evidence and
 articulating your views m clear, concise terms. The discussions, examinations,
-and assigned papers have been designed to help you m this process.
-[Hunt](http://www.unc.edu/depts/history/faculty/hunt.html).
+and assigned papers have been designed to help you m this process. Hunt.
 
 **18 THE WORLD SINCE 1945 (3). SAIKIA.** This course will present an overview
 of world history since 1945 with special emphasis on freedom struggles,
 resistance movements and decolonization in non-western and developing nations.
-[Saikia](http://www.unc.edu/depts/history/faculty/saikia.html).
+Saikia.
 
 **19 DIVERSITY AND POST-1945 WORLD HISTORY (3).** Staff.
 
@@ -416,8 +405,7 @@ including the United States. We conclude with an analysis of the history of
 the environment since 1945. Each week there are two lectures and one small
 group discussion. Students are expected to do the reading and writing
 assignments for discussion sections and to write one research paper, the
-midterm, and the final. Fall and spring.
-[Reid](http://www.unc.edu/depts/history/faculty/reid.html).
+midterm, and the final. Fall and spring. Reid.
 
 >  
 
@@ -458,8 +446,7 @@ meaning of the American Revolution and the factors behind continued American
 expansion; and 3) the flaws within the American empire and the comimng of the
 Civil War. Reading, discussing, and thinking about these themes constitute the
 heart of the course. The usual class schedule will consist of lectures on
-Monday and Wednesday and weekly section meetings for the third hour.
-[Barney](http://www.unc.edu/depts/history/faculty/barney.html).
+Monday and Wednesday and weekly section meetings for the third hour. Barney.
 
 **21 UNITED STATES HISTORY TO 1865 (3). HALL.** The objective of the course is
 to introduce students to selected themes in American history. Major topics
@@ -470,8 +457,7 @@ the coming of the Civil War. Teaching methods include lectures, small group
 discussions, debates, slides, and films. Students write brief response papers
 based on their reactions to the readings and films and sit for a mid-term and
 a final exam. The instructor is especially interested in women's history,
-labor history, and southern history. Fall and Spring.
-[Hall](http://www.unc.edu/depts/history/faculty/hall.html).
+labor history, and southern history. Fall and Spring. Hall.
 
 **21 UNITED STATES HISTORY TO 1865 (3). HIGGINBOTHAM.** The course will deal
 with broad themes from the Age of Exploration through the Civil War.   The
@@ -479,8 +465,7 @@ course will look at colonial America as a multi-cultural, multi-racial
 society, followed by treatment of the origins and course of the American
 Revolution.  Post-1790 themes include the growth of political parties, reform
 movements, nationalism, westward expansion, sectionalism and slavery, and the
-American Civil War.
-[Higginbotham](http://www.unc.edu/depts/history/faculty/higginbotham.html).
+American Civil War. Higginbotham.
 
 **21 UNITED STATES HISTORY TO 1865 (3). PERDUE.** This survey focuses on the
 diversity of the people who inhabit the American past, the decisions that
@@ -500,8 +485,7 @@ Each book deals with a relatively narrow topic -- Indian captivity, a
 religious cult, a slave trial, and a war crime -- and students connect each
 topic to broader issues and national events. Participation in these
 discussions contributes to students' final grades. In addition to these
-papers, the course has two exams and a final.
-[Perdue](http://www.unc.edu/depts/history/faculty/perdue.html).
+papers, the course has two exams and a final. Perdue.
 
 >  
 
@@ -557,7 +541,7 @@ Narrative of the Life of Frederick Douglass_ has been frequently assigned as a
 required text. Past students of History 21 have enjoyed Michael Shaara's _The
 Killer Angels_ , a novel about the Battle of Gettysburg. The textbook for
 History 21 is James West Davidson and others, _Nation of Nations, Volume I_.
-Fall. [Porter](http://www.unc.edu/depts/history/faculty/porter.html).
+Fall. Porter.
 
 **21 UNITED STATES HISTORY TO 1865 (3). WATSON. Themes**. This course is an
 introduction to American history from the original Indian settlement to the
@@ -583,8 +567,7 @@ we will count your two highest grades. Grading will be based on a ten-point
 scale and all tests will consist of essay-type questions and a short
 identification section. The papers and midterms will each count fifteen
 percent of the final grade, class participation will count ten percent, and
-the final exam will count thirty percent. Fall.
-[Watson](http://www.unc.edu/depts/history/faculty/watson.html).
+the final exam will count thirty percent. Fall. Watson.
 
 **21 UNITED STATES HISTORY TO 1865 (3). WILLIAMSON.** This course surveys
 early American history through the Civil War. It is designed especially to
@@ -598,8 +581,7 @@ civilization both in its inception and in its development. Thus elements of
 American history are woven into the broad fabric of economics, religion,
 ideas, politics? and society (race, class, and gender) in the Western world.
 In this sense, the approach to American history is global and a preparation
-for undertaking a Liberal Arts education in the university. Fall.
-[Williamson](http://www.unc.edu/depts/history/faculty/williamson.html).
+for undertaking a Liberal Arts education in the university. Fall. Williamson.
 
 **22 UNITED STATES HISTORY SINCE 1865 (3).** A survey of various aspects of
 American development during a century of rapid industrial, social, political,
@@ -615,7 +597,7 @@ corporate America from World War II to the present. Close to half of the
 material will cover the emergence of the U.S. as a global power. This is a
 course that emphasizes critical thinking and writing. The usual class schedule
 will consist of lectures on Monday and Wednesday and weekly section meetings.
-[Barney](http://www.unc.edu/depts/history/faculty/barney.html).
+Barney.
 
 **22 UNITED STATES HISTORY SINCE 1865 (3). FILENE.** I have three major
 purposes for this introduction to American history since the Civil War. First,
@@ -642,7 +624,7 @@ includes c. 100 students, I encourage and expect you to participate actively
 rather than sit back, listen and take notes. During my lectures I ask you to
 discuss questions, join "buzz groups" and enter class debates. And on eight
 class days, you meet with 15 other students to discuss assigned readings and
-your research. [Filene](http://www.unc.edu/depts/history/faculty/filene.html).
+your research. Filene.
 
 **22 UNITED STATES HISTORY SINCE 1865 (3). JACKSON.** This course covers major
 themes and issues in American history since 1865. We will pay particular
@@ -654,8 +636,7 @@ experiences emerged as the subject of public conflict and debate. Readings for
 the course consist of a textbook as well as a variety of different historical
 documents including speeches, newspaper articles, memoirs. The course includes
 a midterm and final as well as several papers, all of which are designed to
-enhance critical thinking skills.
-[Jackson](http://www.unc.edu/depts/history/faculty/jackson.html).
+enhance critical thinking skills. Jackson.
 
 **22 UNITED STATES HISTORY SINCE 1865 (3). LOTCHIN.** History 22 is an
 introduction to general American history from 1865 to the present. The course
@@ -666,8 +647,7 @@ national history. The course includes the topics usual to surveys, including
 the Civil War, Reconstruction, Labor, the Industrial Revolution, the Gilded
 Age, the Progressive Era, World War I, the twenties, the New Deal, World War
 II, the Cold War, and postwar politics. Race, women, Prohibition and American
-cities are also included.
-[Lotchin](http://www.unc.edu/depts/history/faculty/Lotchin).
+cities are also included. Lotchin.
 
 **22 UNITED STATES HISTORY SINCE 1865 (3). PORTER.** The purpose of this
 course is to introduce students to the general themes of American History
@@ -698,8 +678,7 @@ Baseball_. The current textbook is Neil R. McMillen, _A Synopsis of American
 History Volume II: Since the Civil War_ , but it will be dropped for a
 different text when I next teach History 22. In class during week 12 students
 are required to listen to Elvis Presley, Chuck Berry, the Beatles, and Aretha
-Franklin. Spring.
-[Porter](http://www.unc.edu/depts/history/faculty/porter.html).
+Franklin. Spring. Porter.
 
 >  
 
@@ -739,7 +718,7 @@ students to do some oral history by interviewing a person and putting that
 person in a historical context. In addition to the paper, there will be two
 hour exams and a final. The course will have a web page to which students can
 go to review the lecture outlines and obtain other relevant course material.
-[Semonche](http://www.unc.edu/depts/history/faculty/semonche.html).
+Semonche.
 
 **22 UNITED STATES HISTORY SINCE 1865 (3). WATSON. Themes.** This course is an
 introduction to U.S. history from the end of the Civil War to the present. We

@@ -6,7 +6,7 @@
 _Fall Semester, 1999_  
   
 HIEU 503 GREECE IN THE FOURTH CENTURY  
-[ Ms. Elizabeth Meyer](http://www.virginia.edu/~history/faculty/meyer.html)  
+Ms. Elizabeth Meyer  
   
   
   
@@ -33,7 +33,7 @@ Aeneas Tacticus, _How to Survive Under Siege_ (trans. D. Whitehead, Oxford,
 Diodorus Siculus vols. 6 and 7 (Loeb; recommended)  
 a photocopied course packet  
 HIEU 507 MODERN THEORY: MARX, ARENDT, FOUCAULT, SARTRE  
-[ Mr. Allan Megill](http://www.virginia.edu/~history/faculty/megill.html)  
+Mr. Allan Megill  
   
   
   
@@ -69,7 +69,7 @@ are also expected to do the reading, to contribute to discussion, to write up
 class minutes on occasion, and to offer reports on their reading on occasion.  
   
 HIEU 516 THE MEDIEVAL CHURCH  
-[ Mr. Everett U. Crosby](http://www.virginia.edu/~history/faculty/crosby.html)  
+Mr. Everett U. Crosby  
   
   
   
@@ -84,7 +84,7 @@ final examination. Open to undergraduates and graduate students. No
 requisites.  
   
 HIEU 530 NATIONALITY, ETHNICITY AND RACE IN 19TH- AND 20TH-CENTURY EUROPE  
-[ Mr. Robert P. Geraci](http://www.virginia.edu/~history/faculty/geraci.html)  
+Mr. Robert P. Geraci  
   
   
   
@@ -121,7 +121,7 @@ required to submit several one- to two-page papers summarizing readings, and
 to produce a historiographical essay of 15-20 pages.  
   
 HIEU 558 THE BRITISH EMPIRE  
-[ Mr. Richard Drayton](http://www.virginia.edu/~history/faculty/drayton.html)  
+Mr. Richard Drayton  
   
   
 This is a seminar course which will examine the history of the British Empire,
@@ -138,8 +138,7 @@ high level.
   
   
 HIEU 702 COLLOQUIUM ON EARLY MODERN EUROPE  
-[ Mr. H. C. Erik
-Midelfort](http://www.virginia.edu/~history/faculty/midelfort.html)  
+Mr. H. C. Erik Midelfort  
   
 This course provides a rigorous and comprehensive introduction to fifteen
 important topics in the history of early modern Europe, ca. 1350-1750. While
@@ -197,15 +196,13 @@ of the Night_ Natalie Zemon Davis, _The Return of Martin Guerre_
 Paul Seaver, _Wallington's World_  
 Robert Darnton, _The Great Cat Massacre_  
 HIEU 704 COLLOQUIUM IN THE COMPARATIVE HISTORY OF EUROPE, 1890-1990  
-[ Mr. Stephen A.
-Schuker](http://www.virginia.edu/~history/faculty/schuker.html)  
+Mr. Stephen A. Schuker  
   
 This course is part of the new, required sequence for graduate students in
 modern European history. Open to others with the consent of the instructor.
 "Discussion of major topics in the history of 20th century European history
 within a seminar setting." HIEU 802 MASTER'S ESSAY RESEARCH  
-[ Mr. H. C. Erik
-Midelfort](http://www.virginia.edu/~history/faculty/midelfort.html)  
+Mr. H. C. Erik Midelfort  
   
 This course is intended to bring students to the point of finishing their
 Master's Theses. Weekly meetings concentrate on the careful definition of

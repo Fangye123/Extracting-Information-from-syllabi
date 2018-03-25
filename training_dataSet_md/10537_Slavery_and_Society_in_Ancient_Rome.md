@@ -85,21 +85,21 @@ The following site contains the assigned readings for the course,
 supplementary bibliographies that can be used in connection with writing your
 essays, and some of the illustrations used in connection with the lectures
 
-* **[Assigned readings, supplementary bibliographies, and illustrations](http://ccat.sas.upenn.edu/~thurley/slavery.html)**
+* **Assigned readings, supplementary bibliographies, and illustrations**
 
   
 **Important Websites on the History of Slavery**
 
-* **[Slave Narratives:](http://vi.uh.edu/pages/mintz/primary.htm)**   
+* **Slave Narratives:**   
 Texts of primary source documents including important slave narratives from
 the ante-bellum South
 
-* **[More Slave Narratives:](http://sunsite.unc.edu/docsouth/)**   
+* **More Slave Narratives:**   
 More autobiographical accounts of the lives of slaves in the ante-bellum
 South; part of a large on-line data base that is being compiled on the history
 of the Old South
 
-* **[The Nottingham Centre for the History of Slavery:](http://www.nottingham.ac.uk/classics/ichos/)** a site that targets new research specifically on slavery on Greek and Roman antiquity, as well as on other historical epochs. 
+* **The Nottingham Centre for the History of Slavery:** a site that targets new research specifically on slavery on Greek and Roman antiquity, as well as on other historical epochs. 
 
   
 
@@ -135,8 +135,7 @@ many different slave systems. Finally, you should try to give some
 explanations about why the two systems you are considering (the Roman one and
 the case that you are using for comparison) exhibit important differences. **
 
-[Advice on Writing the Term
-Paper:](http://ccat.sas.upenn.edu/~bshaw/slaverypaper.html)**
+Advice on Writing the Term Paper:**
 
 #### 2\. Midterm Examination (30%):
 

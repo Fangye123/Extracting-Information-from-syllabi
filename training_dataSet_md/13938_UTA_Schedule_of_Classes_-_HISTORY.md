@@ -12,23 +12,15 @@ Online](http://www-ais2.uta.edu/sched/images/sco.gif)
 **Second Summer Semester 2002**  
 **HISTORY**  
   
-[Return to Menu](http://www-ais2.uta.edu/sched//sum2kb/index.htm)  
+Return to Menu  
 ---  
 |  
 ---|---  
-[Schedule of Classes Main Menu](http://www-ais2.uta.edu/sched/index.htm) |
-[UTA Undergraduate Catalog](http://www.uta.edu/catalog/)  
-[Tips on using the Online Schedule of Classes](http://www-
-ais2.uta.edu/sched/schedtips.htm) | [UTA Graduate
-Catalog](http://orgs.uta.edu/Gradcat2002/GradCat2002.htm)  
-[Final Exams](http://www-ais2.uta.edu/testsched/) | [Course
-Descriptions](http://www-ais2.uta.edu/sched/shortcut.htm)  
-[Telephone Registration via SAM](http://www-ais2.uta.edu/sam/index.shtml) |
-[Academic Calendars](http://www.uta.edu/uta/acadcal.html)  
-[Student Data Online (Web
-Registration)](https://bcs.uta.edu/StudentData/SLLogin.jsp) | [Bacterial
-Meningitis
-Information](http://bcs.uta.edu/StudentData/MeningitisInfo.jsp?webschedule)  
+Schedule of Classes Main Menu | UTA Undergraduate Catalog  
+Tips on using the Online Schedule of Classes | UTA Graduate Catalog  
+Final Exams | Course Descriptions  
+Telephone Registration via SAM | Academic Calendars  
+Student Data Online (Web Registration) | Bacterial Meningitis Information  
   
 * * *  
   
@@ -45,96 +37,96 @@ appear as a selectable link.
   
 ---  
       
-    
+    
       
-    **HIST 1311   HIST OF U.S.**
+    **HIST 1311   HIST OF U.S.**
       
-    **HISTORY INSTRUCTIONAL FEE     	   $5.00**
+    **HISTORY INSTRUCTIONAL FEE     	   $5.00**
       
-     001 5wk   42718 MTWR    1030-1230pm     115 UH  Grammer         47 of 146 seats taken 
+     001 5wk   42718 MTWR    1030-1230pm     115 UH  Grammer         47 of 146 seats taken 
       
-    **HIST 1312   HIST OF U.S.**
+    **HIST 1312   HIST OF U.S.**
       
-    **HISTORY INSTRUCTIONAL FEE     	   $5.00**
+    **HISTORY INSTRUCTIONAL FEE     	   $5.00**
       
-     001 5wk   48911 MTWR    800-1000am      110 UH  Haynes          79 of 146 seats taken 
+     001 5wk   48911 MTWR    800-1000am      110 UH  Haynes          79 of 146 seats taken 
       
-    **HIST 2302   HIST OF CIVIL**
+    **HIST 2302   HIST OF CIVIL**
       
-     001 5wk   44128 MTWR    1030-1230pm     110 UH  Northrup        41 of 146 seats taken 
+     001 5wk   44128 MTWR    1030-1230pm     110 UH  Northrup        41 of 146 seats taken 
       
-    **HIST 2313   HIST OF ENGLAND**
+    **HIST 2313   HIST OF ENGLAND**
       
-     001 5wk   48527 MTWR    800-1000am      115 UH  Stillwell Jr    24 of 146 seats taken 
+     001 5wk   48527 MTWR    800-1000am      115 UH  Stillwell Jr    24 of 146 seats taken 
       
-    **HIST 3300   INTRO HIST RES**
+    **HIST 3300   INTRO HIST RES**
       
-     501 11wk  50586 TR      600-750pm       025 UH  Richmond        19 of 91 seats taken  
+     501 11wk  50586 TR      600-750pm       025 UH  Richmond        19 of 91 seats taken  
       
-    **HIST 3349   RECENT US DIPLO**
+    **HIST 3349   RECENT US DIPLO**
       
-     001 5wk   46431 MTWR    800-1000am      102 UH  Repko           34 of 64 seats taken  
+     001 5wk   46431 MTWR    800-1000am      102 UH  Repko           34 of 64 seats taken  
       
-    **HIST 3363   TEXAS TO 1850**
+    **HIST 3363   TEXAS TO 1850**
       
-     501 11wk  53023 MW      600-750pm       103 UH  Saxon           30 of 64 seats taken  
+     501 11wk  53023 MW      600-750pm       103 UH  Saxon           30 of 64 seats taken  
       
-    **HIST 3389   WORLD WAR TWO**
+    **HIST 3389   WORLD WAR TWO**
       
-     501 11wk  52842 TR      800-950pm       014 UH  Richmond        27 of 64 seats taken  
+     501 11wk  52842 TR      800-950pm       014 UH  Richmond        27 of 64 seats taken  
       
-    **HIST 4191   CONF COURSE**
+    **HIST 4191   CONF COURSE**
       
-     020 5wk   A3815 TBA                          Reinhardt                             
+     020 5wk   A3815 TBA                          Reinhardt                             
       
-    **HIST 4388   MIDDLE EAST**
+    **HIST 4388   MIDDLE EAST**
       
-     001 5wk   49342 MTWR    1030-1230pm     103 UH  Stillwell Jr    26 of 64 seats taken  
+     001 5wk   49342 MTWR    1030-1230pm     103 UH  Stillwell Jr    26 of 64 seats taken  
       
-    **HIST 4391   CONF COURSE**
+    **HIST 4391   CONF COURSE**
       
-     007 5wk   A4995 TBA                          Green                                 
+     007 5wk   A4995 TBA                          Green                                 
       
-    012 5wk   A0116 TBA                          Bolsterli                             
+    012 5wk   A0116 TBA                          Bolsterli                             
       
-    020 5wk   A0326 TBA                          Reinhardt                             
+    020 5wk   A0326 TBA                          Reinhardt                             
       
-    **HIST 4394   HON THESIS/PROJ**
+    **HIST 4394   HON THESIS/PROJ**
       
-     609 11wk  A4818 TBA                          Jalloh                                
+     609 11wk  A4818 TBA                          Jalloh                                
       
-    **HIST 5304   AMER SOUTHWEST**
+    **HIST 5304   AMER SOUTHWEST**
       
-     001 5wk   47751 MTWR    1030-1230pm     321 UH  Haynes          5 of 20 seats taken   
+     001 5wk   47751 MTWR    1030-1230pm     321 UH  Haynes          5 of 20 seats taken   
       
-    **HIST 5391   INDEPENDNT STDY**
+    **HIST 5391   INDEPENDNT STDY**
       
-     605 11wk  A9770 TBA                          Francaviglia                          
+     605 11wk  A9770 TBA                          Francaviglia                          
       
-    620 11wk  A9902 TBA                          Reinhardt                             
+    620 11wk  A9902 TBA                          Reinhardt                             
       
-    622 11wk  A8290 TBA                          Richmond                              
+    622 11wk  A8290 TBA                          Richmond                              
       
-    624 11wk  A3358 TBA                          Saxon                                 
+    624 11wk  A3358 TBA                          Saxon                                 
       
-    **HIST 5395   NON-T CAPSTONE**
+    **HIST 5395   NON-T CAPSTONE**
       
-     020 5wk   A9199 TBA                          Reinhardt                             
+     020 5wk   A9199 TBA                          Reinhardt                             
       
-    **HIST 5644   ARC INTERNSHIP**
+    **HIST 5644   ARC INTERNSHIP**
       
-     624 11wk  A0105 TBA                          Saxon                                 
+     624 11wk  A0105 TBA                          Saxon                                 
       
-    **HIST 6391   INDEPEN STUDY**
+    **HIST 6391   INDEPEN STUDY**
       
-     005 5wk   A2250 TBA                          Francaviglia                          
+     005 5wk   A2250 TBA                          Francaviglia                          
       
-    026 5wk   A4016 TBA                          Stillwell Jr                          
+    026 5wk   A4016 TBA                          Stillwell Jr                          
       
       
-    
+    
       
-    _Questions? - click[here](http://www-ais2.uta.edu/sched/quest2.htm)_
+    _Questions? - clickhere_
       
   
 ---

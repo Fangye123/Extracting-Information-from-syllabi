@@ -20,7 +20,7 @@ MTh 14:00 - 16:00
 
 Irwin Hall 209B (965-6302)
 
-E-mail Address: [kfrancis@puc.edu](mailto:kfrancis@puc.edu)
+E-mail Address: kfrancis@puc.edu
 
 **B. COURSE OBJECTIVES**
 
@@ -304,6 +304,5 @@ _Craig, Chapter 37_
 
 * * *
 
-[Back to: Keith Francis's
-Page](http://www.puc.edu/Faculty/Keith_Francis/Hist_102/wwwkf.html)
+Back to: Keith Francis's Page
 

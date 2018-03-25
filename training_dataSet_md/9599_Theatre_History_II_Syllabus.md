@@ -101,27 +101,15 @@ DUE:
 
 **14 THUR 3/21 Early US Theatre: ca. 1700-- 1900**
 
-DUE: Excepts: Tyler's **_[The
-Contrast](http://www.pinkmonkey.com/dl/library1/digi281.pdf)_** ;
-(Stowe/Aikin) _**[Uncle Tom's
-Cabin](http://www.iath.virginia.edu/utc/onstage/scripts/aikenhp.html)** _ (&
-[**reviews** )](http://www.iath.virginia.edu/utc/onstage/revus/rvhp.html);
-Mowatt,
-**_[Fashion](http://library.marist.edu/diglib/english/americanliterature/19c-20c%20play%20archive/fashion-
-index.htm)_**  
-**[American Drama
-Resources](http://faculty.pittstate.edu/~knichols/dramabm3.html)** , VERY
-impressive website, with LOTS of links for American playwrights, including
-Glaspell, O'Neill, Williams, etc.
+DUE: Excepts: Tyler's **_The Contrast_** ; (Stowe/Aikin) _**Uncle Tom's
+Cabin** _ (& **reviews** ); Mowatt, **_Fashion_**  
+**American Drama Resources** , VERY impressive website, with LOTS of links for
+American playwrights, including Glaspell, O'Neill, Williams, etc.
 
 15 TUE 3/26 **Africa & the Mideast**  
-[See K drive for slide presentation]  **[Griot](http://artsedge.kennedy-
-center.org/aoi/events/theater/griot.html)** Link  
-[South Africa's Miriam Makeba](http://www.music.org.za/artists/makeba.htm)
-Link to her [music](http://www.ritmoartists.com/Makeba/makeba.htm)  
-DUE: Bring
-**[percussion](http://www.metroactive.com/papers/metro/07.11.96/olatunji-9628.html)**
-& dancing shoes! Masks also welcome!
+[See K drive for slide presentation]  **Griot** Link  
+South Africa's Miriam Makeba  Link to her music  
+DUE: Bring **percussion** & dancing shoes! Masks also welcome!
 
 _Passover 3/27_
 
@@ -139,10 +127,8 @@ _3rd Set Commons_
 
 18 THUR 4/4 **Early Russian Theatre: pre-MAT**
 
-DUE: **[Gogol](http://www.macalester.edu/~hammarberg/russ67/gogolonap.html)**
-,  ** _[The Inspector
-General](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=3735)_** ;
-LT _Theater in Russia_ 353-354; Video  
+DUE: **Gogol** ,  ** _The Inspector General_** ; LT _Theater in Russia_
+353-354; Video  
 
 
 19 TUE 4/9 **QUIZ 3**

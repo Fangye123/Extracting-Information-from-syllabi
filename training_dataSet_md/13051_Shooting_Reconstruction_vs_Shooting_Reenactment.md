@@ -184,11 +184,11 @@ London, 1950, p. 14.
 * * *
 
 Send questions or comments about this essay to: Dean H. Garrison, Jr.,
-[Gunhand@aol.com](mailto:Gunhand@aol.com)
+Gunhand@aol.com
 
 * * *
 
-  * [Ethics in Science Page](/chem-ed/ethics/index.html) at Va Tech.
+  * Ethics in Science Page at Va Tech.
 
 * * *
     

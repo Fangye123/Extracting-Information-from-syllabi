@@ -16,8 +16,8 @@ courses.
 
 The course review is a work in progress; in order to improve it we need
 students' feedback. Suggestions about the survey questions are particularly
-welcome. Please e-mail any suggestions you have to: [
-Senate@pomona.edu](mailto:Senate@pomona.edu) or any editors
+welcome. Please e-mail any suggestions you have to:  Senate@pomona.edu or any
+editors
 
 Thank you,
 
@@ -158,11 +158,11 @@ Surveys Received: 10
   11. Please give the course an overall grade. A 
 
   
-[Go to the November 1999 Edition: Anthropology Courses](nov99.html#anthro)  
-[Go to the May 1999 Edition: Anthropology Courses](may99.html#anthro)  
-[Go to the December 1998 Edition: Anthropology Courses](dec98.html#anthro)  
-[Go to the May 1998 Edition: Anthropology Courses](may98.html#anthro)  
-[Go to the May 1997 Edition: Anthropology Courses](may97.html#anthro)  
+Go to the November 1999 Edition: Anthropology Courses  
+Go to the May 1999 Edition: Anthropology Courses  
+Go to the December 1998 Edition: Anthropology Courses  
+Go to the May 1998 Edition: Anthropology Courses  
+Go to the May 1997 Edition: Anthropology Courses  
 
 ## Art
 
@@ -444,11 +444,11 @@ Number of Surveys: 9
   11. This course received an overall grade of... A-
 
   
-[Go to the November 1999 Edition: Art Courses](nov99.html#art)  
-[Go to the May 1999 Edition: Art Courses](may99.html#art)  
-[Go to the December 1998 Edition: Art Courses](dec98.html#art)  
-[Go to the May 1998 Edition: Art Courses](may98.html#art)  
-[Go to the May 1997 Edition: Art Courses](may97.html#art)  
+Go to the November 1999 Edition: Art Courses  
+Go to the May 1999 Edition: Art Courses  
+Go to the December 1998 Edition: Art Courses  
+Go to the May 1998 Edition: Art Courses  
+Go to the May 1997 Edition: Art Courses  
 
 ## Art History
 
@@ -607,11 +607,11 @@ Surveys Received: 8
   11. Please give the course an overall grade (A, A-, B+, etc.) B+
 
   
-[Go to the November 1999 Edition: Art History Courses](nov99.html#arth)  
-[Go to the May 1999 Edition: Art History Courses](may99.html#arth)  
-[Go to the December 1998 Edition: Art History Courses](dec98.html#arth)  
-[Go to the May 1998 Edition: Art History Courses](may98.html#arth)  
-[Go to the May 1997 Edition: Art History Courses](may97.html#arth)  
+Go to the November 1999 Edition: Art History Courses  
+Go to the May 1999 Edition: Art History Courses  
+Go to the December 1998 Edition: Art History Courses  
+Go to the May 1998 Edition: Art History Courses  
+Go to the May 1997 Edition: Art History Courses  
 
 ## Astronomy
 
@@ -677,9 +677,9 @@ Surveys Received: 4
   11. Please give the course an overall grade (A, A-, B+, etc.) A
 
   
-[Go to the May 1999 Edition: Astronomy Courses](may99.html#astro)  
-[Go to the December 1998 Edition: Astronomy Courses](dec98.html#astro)  
-[Go to the May 1998 Edition: Astronomy Courses](may98.html#astro)  
+Go to the May 1999 Edition: Astronomy Courses  
+Go to the December 1998 Edition: Astronomy Courses  
+Go to the May 1998 Edition: Astronomy Courses  
 
 ## Biology
 
@@ -714,11 +714,11 @@ Number of Surveys: 18
   11. The course received an overall grade of...A/A-
 
   
-[Go to the November 1999 Edition: Biology Courses](nov99.html#bio)  
-[Go to the May 1999 Edition: Biology Courses](may99.html#bio)  
-[Go to the December 1998 Edition: Biology Courses](dec98.html#bio)  
-[Go to the May 1998 Edition: Biology Courses](may98.html#bio)  
-[Go to the May 1997 Edition: Biology Courses](may97.html#bio)  
+Go to the November 1999 Edition: Biology Courses  
+Go to the May 1999 Edition: Biology Courses  
+Go to the December 1998 Edition: Biology Courses  
+Go to the May 1998 Edition: Biology Courses  
+Go to the May 1997 Edition: Biology Courses  
 
 ## Chemistry
 
@@ -784,10 +784,10 @@ Surveys Received: 13
   11. The course received an overall grade of...A-/B+
 
   
-[Go to the November 1999 Edition: Chemistry Courses](nov99.html#chem)  
-[Go to the May 1999 Edition: Chemistry Courses](may99.html#chem)  
-[Go to the December 1998 Edition: Chemistry Courses](dec98.html#chem)  
-[Go to the May 1997 Edition: Chemistry Courses](may97.html#chem)  
+Go to the November 1999 Edition: Chemistry Courses  
+Go to the May 1999 Edition: Chemistry Courses  
+Go to the December 1998 Edition: Chemistry Courses  
+Go to the May 1997 Edition: Chemistry Courses  
 
 ## Classics
 
@@ -822,10 +822,10 @@ Surveys Received: 9
   11. The course received an overall grade of... A-
 
   
-[Go to the November 1999 Edition: Classics Courses](nov99.html#classics)  
-[Go to the May 1999 Edition: Classics Courses](may99.html#classics)  
-[Go to the December 1998 Edition: Classics Courses](dec98.html#classics)  
-[Go to the May 1998 Edition: Classics Courses](may98.html#classics)  
+Go to the November 1999 Edition: Classics Courses  
+Go to the May 1999 Edition: Classics Courses  
+Go to the December 1998 Edition: Classics Courses  
+Go to the May 1998 Edition: Classics Courses  
 
 ## Computer Science
 
@@ -1080,11 +1080,11 @@ Surveys Received: 6
   11. Please give the course an overall grade (A, A-, B+, etc.) A
 
   
-[Go to the November 1999 Edition: Dance Courses](nov99.html#dance)  
-[Go to the May 1999 Edition: Dance Courses](may99.html#dance)  
-[Go to the December 1998 Edition: Dance Courses](dec98.html#dance)  
-[Go to the May 1998 Edition: Dance Courses](may98.html#dance)  
-[Go to the May 1997 Edition: Dance Courses](may97.html#dance)  
+Go to the November 1999 Edition: Dance Courses  
+Go to the May 1999 Edition: Dance Courses  
+Go to the December 1998 Edition: Dance Courses  
+Go to the May 1998 Edition: Dance Courses  
+Go to the May 1997 Edition: Dance Courses  
 
 ## Economics
 
@@ -1212,11 +1212,11 @@ Surveys Received: 28
   11. Please give the course an overall grade: A-
 
   
-[Go to the November 1999 Edition: Economics Courses](nov99.html#econ)  
-[Go to the May 1999 Edition: Economics Courses](may99.html#econ)  
-[Go to the December 1998 Edition: Economics Courses](dec98.html#econ)  
-[Go to the May 1998 Edition: Economics Courses](may98.html#econ)  
-[Go to the May 1997 Edition: Economics Courses](may97.html#econ)  
+Go to the November 1999 Edition: Economics Courses  
+Go to the May 1999 Edition: Economics Courses  
+Go to the December 1998 Edition: Economics Courses  
+Go to the May 1998 Edition: Economics Courses  
+Go to the May 1997 Edition: Economics Courses  
 
 ## English
 

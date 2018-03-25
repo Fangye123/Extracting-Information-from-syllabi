@@ -6,18 +6,17 @@ Spring 1998 Syllabus
 * * *
 
 **Narrator:**  
-Peter Fritzsche [pfritzsc@uiuc.edu](mailto:pfritzsc@uiuc.edu) 300A Gregory
-Hall  
+Peter Fritzsche pfritzsc@uiuc.edu 300A Gregory Hall  
 Office Hours: Wednesday, 2:00-3:00 and by appointment
 
 **Teaching Assistants**
 
 Bryan Ganaway  
-[ganaway@uiuc.edu](mailto:ganaway@uiuc.edu)  
+ganaway@uiuc.edu  
 437A Gregory Hall | Derek Shouba  
-[shouba@uiuc.edu](mailto:shouba@uiuc.edu)  
+shouba@uiuc.edu  
 437A Gregory Hall | Tom Trice  
-[t-trice@uiuc.edu](mailto:t-trice@uiuc.edu)  
+t-trice@uiuc.edu  
 437 Gregory Hall  
 ---|---|---  
   
@@ -44,12 +43,10 @@ is one of your responsibilities as a class member.
   3. In addition, we will have two novels, a travel report, and a memoir that can be understood as documents of the twentieth century:
 
   
-[Mongo Beti _The Poor Christ of Bomba_
-(Heinemann)](http://www.history.uiuc.edu/hist212/bomba.htm)  
-[John Scott _Behind the Urals_](http://www.history.uiuc.edu/hist212/scott.htm)  
-[Bharati Mucherjee _Jasmine_](http://www.history.uiuc.edu/hist212/jasmine.htm)  
-[Erich Maria Remarque _All Quiet on the Western
-Front_](http://www.history.uiuc.edu/hist212/remarque.htm)
+Mongo Beti _The Poor Christ of Bomba_ (Heinemann)  
+John Scott _Behind the Urals_  
+Bharati Mucherjee _Jasmine_  
+Erich Maria Remarque _All Quiet on the Western Front_
 
   4. And we will see two movies, _The Battle of Algiers_ and _Apocalypse Now_. Viewing times to be announced.
 
@@ -144,14 +141,13 @@ due dates may change, the course grade will be determined by the following
 
 a) An interview with your oldest-surviving family-member on the events and
 accomplishments and failures they judge of greatest importance in the
-twentieth century (4-5 page essay, due week of Feb. 8th) [15%; [Assignment
-Sheet](http://www.history.uiuc.edu/hist212/assignment.htm)]
+twentieth century (4-5 page essay, due week of Feb. 8th) [15%; Assignment
+Sheet]
 
 b)An essay that argues for one of the licenses as it can be used to
 demonstrate the historical messages from two of the following three assigned
 works ( _Poor Christ of Bomba, All Quiet on the Western Front_ , or _Behind
-the Urals_ ). (5 pages, due the week of March 8) [15%; [Assignment
-Sheet](http://www,history.uiuc.edu/hist212/assignment.htm)]
+the Urals_ ). (5 pages, due the week of March 8) [15%; Assignment Sheet]
 
 c) A mid-term examination based on text and lecture material.[15%]
 

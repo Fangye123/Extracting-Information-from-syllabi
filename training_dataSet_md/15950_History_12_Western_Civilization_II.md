@@ -13,7 +13,7 @@ Prof. Molly McClain
 Office: Loma 339  
 Office ext: 4044  
 Office Hours: MW 4-5 p.m.; TTh 8:30-10 a.m.  
-e-mail: [mcclain@sandiego.edu](mailto:mcclain@sandiego.edu)  
+e-mail: mcclain@sandiego.edu  
 
 This course traces the history of European civilization from the age of Louis
 XIV through the first World War. It examines the origins of political and
@@ -188,5 +188,5 @@ Section 3: Thurs., May 15 from 11 a.m. - 1p.m.
 
 * * *
 
-Return to [History Home Page](http://history.sandiego.edu/gen/HISTHOME.html)
+Return to History Home Page
 

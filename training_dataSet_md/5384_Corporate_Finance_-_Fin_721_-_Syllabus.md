@@ -4,7 +4,7 @@
 
 * * *
 
-**INSTRUCTOR:**[TIM OPLER](../../faculty/opler.htm)  
+**INSTRUCTOR:**TIM OPLER  
 **OFFICE:** 328 HAGERTY HALL  
 **CLASS TIME:** MONDAYS  & WEDNESDAYS, 5:30-7:30  
 **CLASSROOM:** HAGERTY 220  
@@ -76,8 +76,8 @@ Analysis, the Stock Market and International Finance.
 
 ## Prerequisites
 
-The prerequisites for the class are [Bus-Fin 620](../../classes.htm#620)
-(Business Finance) and Acct 211 (Introduction to Accounting).
+The prerequisites for the class are Bus-Fin 620 (Business Finance) and Acct
+211 (Introduction to Accounting).
 
 ### Teaching Philosophy
 
@@ -97,7 +97,7 @@ accounting.
 
 ### Resources You will Need
 
-  * [ **Brealey and Myers**](gopher://infx.infor.com:5000/0exec%3A-v%20a%20R583455-589475-/.text/Main%3A/.bin/aview), _Principles of Corporate Finance,_ McGraw-Hill, 1991.
+  * **Brealey and Myers**, _Principles of Corporate Finance,_ McGraw-Hill, 1991.
   * **Headphones** to listen to multimedia programs (can use Walkman type headphones)
   * **Course packet at Cop-EZ in Ohio Union.** This packet contains copies of most class notes, answers to all homework problems and several old exams (used in a course that was a little more basic than BUS-FIN 721).
   * Access to a **financial calculator** such as an HP-12C which can compute present and future values of streams of cash flow. You will need this on the mid-term exam.
@@ -106,7 +106,7 @@ accounting.
 
   * _Study Guide to Accompany Principles of Corporate Finance_ by Charles A. D'Ambrosio and Stewart D. Hodges (McGraw-Hill). This is a very helpful aid that shows you how to solve problems and gives lots of practice problems in order that you may sharpen your skills.
   * _Dictionary of Finance and Investment Terms,_ Barrons. This is a helpful book which allows you to find out what a specific term in finance means when you find yourself mystified when reading the text or the papers.
-  * [Internet List of Educational Resources in Finance](../../educ.htm)
+  * Internet List of Educational Resources in Finance
   * The Wall Street Journal.
 We will discuss current financial news in most classes. Knowing what's going
 on will help you in class and will help you in your work also.
@@ -234,8 +234,7 @@ Career paths in finance
 (1) Handout for paper on your career goal distributed. (Due October 3)  
 (2) View CD-ROM on Career Paths in Finance.  
 
-Harvard Graphics Notes File: [Careers in Finance for OSU
-Undergrads](osucar.prs)
+Harvard Graphics Notes File: Careers in Finance for OSU Undergrads
 
 ### Week 2
 
@@ -254,7 +253,7 @@ What are the markets
 Sheet of paper which identifies people in your group and your group name. If
 you are not in a group identify yourself as a free agent.
 
-Harvard Graphics Notes File: [Overview of Finance](intro.prs)
+Harvard Graphics Notes File: Overview of Finance
 
 ### Week 3
 
@@ -268,17 +267,14 @@ Financing a global business
 **Assignments**
 
 (1) View Wall Street Journal Video Guide to Money and Markets  
-(2) [Butler
-Lumber](gopher://johnnymac.harvard.edu:70/0R3669140-3669909-/.catalogs/catalog.gopher)
-case assignment distributed  
+(2) Butler Lumber case assignment distributed  
 (3) Read Chapter 14, Solve Quiz 1, 2, 3, 4, 5  
 
 **Turn in**  
 Paper on your career goals (October 3)  
 
-Harvard Graphics Notes File: [ Financial Markets and
-Instruments,](markets.prs) [Derivatives and Asset-backed
-Securities](deriv.prs), [International Finance](intlcorp.prs).
+Harvard Graphics Notes File:  Financial Markets and Instruments, Derivatives
+and Asset-backed Securities, International Finance.
 
 ### Week 4
 
@@ -295,7 +291,7 @@ Imperfect capital markets
 (2) Read Chapter 2  
 (3) Work Chapter 2 Quiz: 2, 3, 5, Q &P; 1, 4, 9  
 
-Harvard Graphics Notes File: [Computing Cashflows](cashflow.prs)
+Harvard Graphics Notes File: Computing Cashflows
 
 ### Week 5
 
@@ -317,7 +313,7 @@ Q  & P 4**, 5, 6, 8, 11, 13**, 14, 15, 18
 
 Assignment on Butler Lumber (Oct 17)
 
-Harvard Graphics Notes File: [Time Value of Money](tvm.prs)
+Harvard Graphics Notes File: Time Value of Money
 
 ### Week 6
 
@@ -334,7 +330,7 @@ Internal Rate of Return
 (2) Solve Chap 5: Quiz 2-6, 9, Q &P; 1, 7, 8  
 (3) United Metal case distributed to groups  
 
-Harvard Graphics Notes File: [Capital Budgeting I](capbudg1.prs)
+Harvard Graphics Notes File: Capital Budgeting I
 
 ### Week 7
 
@@ -354,7 +350,7 @@ Integrating corporate strategy
 United Metal assignment (November 2)  
 Group presentations  
 
-Harvard Graphics Notes File: [Capital Budgeting II](capbudg2.prs)
+Harvard Graphics Notes File: Capital Budgeting II
 
 ## Week 8
 
@@ -370,8 +366,7 @@ A look at the Wizard of Omaha
 (2) Solve Chapter 8: Quiz 5, 6 Q &P; 3, 8, 10  
 Chapter 9: Quiz 1, 4, 5 / Q&P; 3, 4  
 
-Harvard Graphics Notes File: [Risk and Return](riskret.prs), [Warren
-Buffett](buffett.prs)
+Harvard Graphics Notes File: Risk and Return, Warren Buffett
 
 ## Week 9
 
@@ -387,11 +382,9 @@ Bankruptcy costs of debt
 (1) Read Chapters 17, 18  
 (2) Solve Chapter 17: Quiz 1,2,3,4; Q &P; 1,4,5  
 (3) Solve Chapter 18: Quiz 1, 2, 4, 6, 7, 8, Q&P; 1, 3, 10, 11, 13  
-(4) [American Home
-Products](gopher://johnnymac.harvard.edu:70/0R2185327-2185975-/.catalogs/catalog.gopher)
-case assignment distributed.  
+(4) American Home Products case assignment distributed.  
 
-Harvard Graphics Notes File: [Capital Structure](capstruc.prs)
+Harvard Graphics Notes File: Capital Structure
 
 ## Week 10
 
@@ -409,8 +402,7 @@ be if this were the initial cost?
 Turn in AHP assignment (November 28)  
 Group presentations on case  
 
-Harvard Graphics Notes File: [Integrating risk into capital
-budgeting](rrcapbud.prs)
+Harvard Graphics Notes File: Integrating risk into capital budgeting
 
 ## Week 11
 
@@ -424,8 +416,8 @@ Dec 2 Discussion of Final Exam
 (2) Solve Quiz 1,2,3,6, Q &P; 3,10  
 (3) View video on T. Boone Pickens in class  
 
-Harvard Graphics Notes Files: [Overview of Mergers](maover.prs) and
-[Structuring Mergers & Acquisitions](merger.prs)
+Harvard Graphics Notes Files: Overview of Mergers and Structuring Mergers &
+Acquisitions
 
 **Final Examination**
 
@@ -464,19 +456,19 @@ why? What about them do I admire?; (4) What do I really want out of a job
 (money, recognition, interesting problems to solve, helping others etc.)?
 
 **Resources:** A good way to start the process of writing this paper is to go
-through a CD-ROM called Careers Paths in Finance and an [Internet Finance
-Career Site](../../osujobs.htm). This program runs on a Macintosh and allows
-you to do a personal profile and conduct informational interviews with people
-who work in investment banking, commercial banking and corporate finance. To
-get into the program check out the CD-ROM from closed reserve in the Page Hall
-Library. Then sit down at any Macintosh in Room 3 and insert the CD-ROM into
-the CD holder. Then click on the "Bullwinkle" disk. From there, click on the
-folder called "Instructional Materials." Then click on the folder called
-"Career Paths in Finance." Then click on the middle blue icon which says
-something like "Pathsfin95b." Another resource worth consulting (on reserve in
-Page Hall) is the Business and Finance Career Directory, Gale Publishing,
-1994. You can also search for articles related to your area of interest in
-business periodicals, use the career center and contact people in the business
+through a CD-ROM called Careers Paths in Finance and an Internet Finance
+Career Site. This program runs on a Macintosh and allows you to do a personal
+profile and conduct informational interviews with people who work in
+investment banking, commercial banking and corporate finance. To get into the
+program check out the CD-ROM from closed reserve in the Page Hall Library.
+Then sit down at any Macintosh in Room 3 and insert the CD-ROM into the CD
+holder. Then click on the "Bullwinkle" disk. From there, click on the folder
+called "Instructional Materials." Then click on the folder called "Career
+Paths in Finance." Then click on the middle blue icon which says something
+like "Pathsfin95b." Another resource worth consulting (on reserve in Page
+Hall) is the Business and Finance Career Directory, Gale Publishing, 1994. You
+can also search for articles related to your area of interest in business
+periodicals, use the career center and contact people in the business
 community who already work in the area you are interested in.
 
 * * *

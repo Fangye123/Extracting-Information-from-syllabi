@@ -178,52 +178,39 @@ and your best effort. Do not hand in anything of which you are ashamed.
 
 RESEARCH AND STUDY LINKS:
 
- [Library References For
-Art](http://www.govst.edu/library/art360bourgeois.html)
+ Library References For Art
 
-[Unknown Artist: Yaka Circumcision
-Mask](http://206.204.3.133/dir_nii/mdi_YakCir.html)[](http://www.lib.utexas.edu/Libs/PCL/Map_collection/africa.html)
+Unknown Artist: Yaka Circumcision Mask
 
-[Maps of
-Africa](http://www.lib.utexas.edu/Libs/PCL/Map_collection/africa.html)
+Maps of Africa
 
-[Zaire
-Page](http://www.sas.upenn.edu/African_Studies/Country_Specific/Zaire.html)
+Zaire Page
 
-[AFRICA: THE ART OF A CONTINENT: Central
-Africa](http://artnetweb.com/guggenheim/africa/central.html)
+AFRICA: THE ART OF A CONTINENT: Central Africa
 
-[ART HISTORY RESOURCES: Part 4 Non-European
-Art](http://witcombe.bcpw.sbc.edu/ARTHLinks3.html#Africa)
+ART HISTORY RESOURCES: Part 4 Non-European Art
 
-<http://www.govst.edu/library/class3.htm>
+http://www.govst.edu/library/class3.htm
 
 STYLE MAPS
 
-1\. [Cameroon](http://www.govst.edu/users/gbourge/syllabus/StyleMap1.htm)
+1\. Cameroon
 
-2\. [Gabon](http://www.govst.edu/users/gbourge/syllabus/StyleMap2.htm)
+2\. Gabon
 
-3\. [Congo Basin
-Statuettes](http://www.govst.edu/users/gbourge/syllabus/StyleMap3.htm)
+3\. Congo Basin Statuettes
 
-4\. [Congo Basin
-Masks](http://www.govst.edu/users/gbourge/syllabus/StyleMap4.htm)
+4\. Congo Basin Masks
 
 Other GSU Courses:
 
-[ART527 African Art: West
-Africa](http://www.govst.edu/users/gbourge/syllabus/WestAf.htm)
+ART527 African Art: West Africa
 
-[ART523 Pre-Columbian Art: Mexico-
-Guatemala](http://www.govst.edu/users/gbourge/syllabus/PreColum.htm)
+ART523 Pre-Columbian Art: Mexico-Guatemala
 
-[ART523 Pre-Columbian Art: Lower Central & S.
-Amer.](http://www.govst.edu/users/gbourge/syllabus/S.Amer.htm)
+ART523 Pre-Columbian Art: Lower Central & S. Amer.
 
-[ART360 Seminar: Concepts and
-Methods](http://www.govst.edu/users/gbourge/syllabus/ART360.htm)
+ART360 Seminar: Concepts and Methods
 
-[ART505 Worlds of Art Internet
-Course](http://www.govst.edu/users/gbourge/syllabus/WORLDS.HTM)
+ART505 Worlds of Art Internet Course
 

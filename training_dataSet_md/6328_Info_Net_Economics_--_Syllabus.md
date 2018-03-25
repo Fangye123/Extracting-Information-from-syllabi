@@ -14,24 +14,23 @@ Lorch
 
 * * *
 
-This page and presentation of information is Copyright  (C) 1994, 1995 by [
-Jeff MacKie-Mason](http://www.spp.umich.edu\\people\\jmm\\jmm_info.html)
-(jmm@umich.edu). All rights reserved.
+This page and presentation of information is Copyright  (C) 1994, 1995 by
+Jeff MacKie-Mason (jmm@umich.edu). All rights reserved.
 
 * * *
 
 ## Jump to other pages:
 
-  * [Class schedule](schedule.html)
-  * [Readings and resources](readings.html)
-  * [Written assignments](assignments.html)
-  * [Due dates](due-dates.html)
-  * [Peer reviewer assignments](reviewers.html)
-  * [Submitted student papers](writings.html)
-  * [Project ideas](paper-ideas.html)
-  * [Internet and Web resources](net-resources.html)
-  * [ Hypermail archive of interesting items](http://ippsweb.ipps.lsa.umich.edu/ipps744/misc.hyper/index.html)
-  * [(Usenet) News group for this class](news:umich.lsa.econ.class.495-3) \-- use for discussion of interesting topics 
+  * Class schedule
+  * Readings and resources
+  * Written assignments
+  * Due dates
+  * Peer reviewer assignments
+  * Submitted student papers
+  * Project ideas
+  * Internet and Web resources
+  * Hypermail archive of interesting items
+  * (Usenet) News group for this class \-- use for discussion of interesting topics 
 
 * * *
 
@@ -82,7 +81,7 @@ extra assistance.
 You will need to become familiar with some Internet resource discovery tools,
 and with writing and editing in HTML (Hypertext Markup Language). A number of
 introductory documents, resource centers, and reference materials for using
-the Web and HTML are collected for you [here](net-resources.html).
+the Web and HTML are collected for you here.
 
 ## Requirements
 
@@ -96,37 +95,29 @@ the class server for everyone to read. Peer reviews are due one week after the
 first draft is submitted. The revised draft is due one week after the peer
 review.
 
-Click [here](assignments.html) to see a more detailed discussion of the
-assignments. Here are the [due dates](due-dates.html).
+Click here to see a more detailed discussion of the assignments. Here are the
+due dates.
 
 ## Materials and Starting Points
 
 The two most important resources for you to start with are WWW servers
-maintained by me and Prof. Hal Varian. Mine contains over 350 links to
-[Telecom Information Resources](http://www.ipps.lsa.umich.edu/telecom-
-info.html) on the net; Hal's contains all of the interesting materials on the
-[Economics of the
-Internet](http://gopher.econ.lsa.umich.edu/EconInternet.html) that he has
-found on the net.
+maintained by me and Prof. Hal Varian. Mine contains over 350 links to Telecom
+Information Resources on the net; Hal's contains all of the interesting
+materials on the Economics of the Internet that he has found on the net.
 
 I have collected a number of interesting articles and commentaries from
-various electronic mailing lists and other places. They are collected in a [
-Hypermail
-archive](http://ippsweb.ipps.lsa.umich.edu/ipps744/misc.hyper/index.html)
-where you can look through them by subject, author or date. This is a good
-place to browse to get some ideas about various policy and economic debates
-taking place. Here is a page with some [ fun
-things](http://ippsweb.ipps.lsa.umich.edu/ipps744/misc/funstuff.html).
+various electronic mailing lists and other places. They are collected in a
+Hypermail archive where you can look through them by subject, author or date.
+This is a good place to browse to get some ideas about various policy and
+economic debates taking place. Here is a page with some  fun things.
 
 ## Topics and Schedule
 
-  * [Class schedule](schedule.html)
-  * [Readings and resources](readings.html) 
+  * Class schedule
+  * Readings and resources 
 
 * * *
 
-[ Jeff MacKie-
-Mason](http://www.ipps.lsa.umich.edu/ipps/people/jmm/jmm_info.html) /
-University of Michigan / <jmm@umich.edu> Last modified: Fri Aug 25 07:56:05
-1995
+Jeff MacKie-Mason / University of Michigan / <jmm@umich.edu> Last modified:
+Fri Aug 25 07:56:05 1995
 

@@ -17,7 +17,7 @@ Office Hours:**
 **269 Mercer Street, Room 436
 Thursdays 5-6pm ABA**  
 **Phone #998-8371
-[bessett@mail.soc.nyu.edu](mailto:Bessett@mail.soc.nyu.edu)**  
+bessett@mail.soc.nyu.edu**  
 
 
 This course is an introduction to the sociology of sex and gender. We will
@@ -59,24 +59,23 @@ you are responsible for their safe arrival. These one page write-ups will be
 graded, and, taken together, they will constitute approximately 25% of your
 overall grade in the course. If you fail to hand in a write-up by the 12:00
 deadline for any particular week, you'll receive an "F." No exceptions.
-Connect to these memos on the web [here](catalog.html).
+Connect to these memos on the web here.
 
-There will be a [take-home midterm exam](midterm.htm) and a [take-home final
-exam](final.html). The exams will consist of essay questions that draw on
-issues raised in the readings and class discussion. I will expect that your
-exams will display your sparkling analytical thought rather than mere
-description, and I will grade accordingly. Each exam will count for
-approximately 25% of your overall grade.
+There will be a take-home midterm exam and a take-home final exam. The exams
+will consist of essay questions that draw on issues raised in the readings and
+class discussion. I will expect that your exams will display your sparkling
+analytical thought rather than mere description, and I will grade accordingly.
+Each exam will count for approximately 25% of your overall grade.
 
-As noted above, you will also design and execute your own exploratory
-[research project](project.htm). A complete description of this project is
-available on the course website. You will be required to submit a proposal,
-outlining the research that already exists on your topic, your intended
-research design, and human subjects concerns, in February. All research
-projects are subject to Sociology Department guidelines and my approval! You
-will present your findings in a research paper and in class. These three
-components of the research project (proposal, paper, and presentation) will
-comprise approximately 25% of your final grade.
+As noted above, you will also design and execute your own exploratory research
+project. A complete description of this project is available on the course
+website. You will be required to submit a proposal, outlining the research
+that already exists on your topic, your intended research design, and human
+subjects concerns, in February. All research projects are subject to Sociology
+Department guidelines and my approval! You will present your findings in a
+research paper and in class. These three components of the research project
+(proposal, paper, and presentation) will comprise approximately 25% of your
+final grade.
 
 The course website has several features to help you prepare for class. Reading
 questions are provided for each assigned text, and a short quiz is available
@@ -122,13 +121,13 @@ check back periodically to make sure you have the most current version.
 1/18  
 Discussion of syllabus and course requirements
 
-**[Analyzing Gender and Inequality: Structures and Practice](gender.html)**
+**Analyzing Gender and Inequality: Structures and Practice**
 
 1/20  
 FF: Lorber, "Night to His Day: The Social Production of Gender" (pp.33-47)  
 Connell, "Hegemonic Masculinity and Emphasized Femininity" (pp. 22-25)
 
-1/25 - [Handout on Gender Theory!](theory.htm)  
+1/25 - Handout on Gender Theory!  
 GP Connell, "Preface," "Introduction: Some Facts in the Case," "Sex Role
 Theory," and "The Knot of Natural Difference" (pp. ix-xiv, 1-20, 47-54, 66-77)
 
@@ -136,7 +135,7 @@ Theory," and "The Knot of Natural Difference" (pp. ix-xiv, 1-20, 47-54, 66-77)
 GP Connell, "Main Structures: Labour, Power, Cathexis" and "Gender Regimes and
 the Gender Order" (pp.91-142)
 
-**[The State: Welfare as a Gendered Structure](State.html)**
+**The State: Welfare as a Gendered Structure**
 
 2/1  
 R: Abramovitz, "Under Attack: Women and Welfare Reform Today" and "the
@@ -146,7 +145,7 @@ Gendered Welfare State" (pp.13-48; 83-108)
 R: Sidel, "The Enemy Within" and "Targeting Welfare Recipients"
 (pp.1-32;81-115)
 
-**[Paid Employment: Perspectives on Gender and Capitalism](work.htm)**
+**Paid Employment: Perspectives on Gender and Capitalism**
 
 2/8  
 FILM: _Rosie the Riveter_  
@@ -169,10 +168,10 @@ BW: Rollins, _Between Women_ (pp. 5-59)
 (Discussion of Research Methodologies for Research Proposals)
 
 2/22  
-_[Research Proposals Due](proposal.html)_  
+_Research Proposals Due_  
 BW: Rollins, _Between Women_ (pp. 63-232)
 
-**[Intimacy and the Family](family.htm)**
+**Intimacy and the Family**
 
 2/24  
 FF: Chodorow, "Family Structure and Feminine Personality" (pp. 145-60)  
@@ -186,7 +185,7 @@ _Midterm Exam Handed Out_
 R: Coontz, "Working With What We've Got: The Strengths and Vulnerabilities of
 Today's Families" (pp.157-177)
 
-**[Education](education.htm)**
+**Education**
 
 3/7  
 SG: Orenstein, _Schoolgirls_
@@ -198,7 +197,7 @@ FF: Martin and Hummer, "Fraternities and Rape on Campus" (pp. 398-409)
 
 *** * * * * Spring Break * * * * ***
 
-**[Sexuality, Media and the Body](comingsoon.html)**
+**Sexuality, Media and the Body**
 
 3/21  
 _Midterm Exam Due_  
@@ -226,7 +225,7 @@ R: Faludi, "The 'Trends' of Antifeminism: The Media and The Backlash" (pp.
 Representations of Gender in Contemporary Television  
 R: Boal, "Women are Easy" (pp.41-2)
 
-**[Student Research Mini-Conference](miniconference.html)**
+**Student Research Mini-Conference**
 
 4/11  
 _Research Papers Due_  
@@ -256,7 +255,7 @@ Review, Course Evaluations
 _Final Exam Due_  
 
 
-[Back to Sex and Gender Homepage](index.htm)  
+Back to Sex and Gender Homepage  
     
     
     

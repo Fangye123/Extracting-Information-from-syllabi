@@ -1,20 +1,18 @@
-[[Contents](/users/mfcjh/wiu/contents.htm)]
-[[Comment](/users/mfcjh/wiu/comment.htm)] [[Home
-Page](/users/mfcjh/wiu/home.html)] [[Index to Helm's home
-page](/users/mfcjh/wiu/index.htm)] [Page Up] [Page Down]
+[Contents] [Comment] [Home Page] [Index to Helm's home page] [Page Up] [Page
+Down]
 
 ## Modern Political Theory Glossary of Terms (M to Z)
 
-* [Return to first part](http://www.ecn.bgu.edu/users/mfcjh/wiu/class/glossary/glossar1.htm) of the glossary (A-L)
+* Return to first part of the glossary (A-L)
 
 **_Machiavelli**_ \-- Machiavelli was born in 1469 and he died in 1527. He was
-born in the great city of [ Florence](http://) into a middle-class family. We
-don't know a great deal about his early years until he entered the Florentine
-chancery. While many in his family had held office in the city's government,
-his father's position had been more modest than other members of the family.
-Given his backgound, Machiavelli's prospects were rather slim. We know that he
-was well read in his early years, but not a great deal beyond that. He entered
-the Florentine chancery in 1498 just a few days after the execution of the
+born in the great city of  Florence into a middle-class family. We don't know
+a great deal about his early years until he entered the Florentine chancery.
+While many in his family had held office in the city's government, his
+father's position had been more modest than other members of the family. Given
+his backgound, Machiavelli's prospects were rather slim. We know that he was
+well read in his early years, but not a great deal beyond that. He entered the
+Florentine chancery in 1498 just a few days after the execution of the
 religious fanatic Girolamo Savonarola in the Piazza della Signoria. His
 responsibilities in the chancery dealt with domestic and foreign affairs. In
 July of 1498 he was selected to be the secetrary to the Ten of War.
@@ -71,23 +69,18 @@ The Life of Castruccio Castracani and Cliza_
 
 * _**Welfare State Liberalism**_ \-- In the U.S. the expansion of government is identified with the presidency of Franklin Delano Roosevelt and the crisis of capitalism in the thirties. With heightended unempolyment reaching record levels citizens looked to the federal government and we saw the passage of social security, unemployment and other protections of the vulnerable. These protections, some would say conditions of dependency, were extended considerably during the late sixties during the LBJ era. The result has been an extension of AFDC, food stamps, subsidized housing, medicaid and other means tested social programs. In the new Republican majority elected in 1994 many of these programs are now being seriously questioned.
 
-[Return to the first part of the
-](http://www.ecn.bgu.edu/users/mfcjh/wiu/class/glossary/glossar1.htm) of the
-glossary from A to K
+Return to the first part of the  of the glossary from A to K
 
-Return to [Syllabus](http://www.ecn.bgu.edu/users/mfcjh/wiu/class/382.htm)
+Return to Syllabus
 
 * * *
 
 ![](/users/mfcjh/wiu/images/colorbar.gif)
 
-[![\[Contents\]](/users/mfcjh/wiu/images/cntsicox.gif)
-[Contents]](contents.htm)
-[![\[Index\]](/users/mfcjh/wiu/images/indxicox.gif)[Index]](/users/mfcjh/wiu/index.htm)
-[
-![\[Comment\]](/users/mfcjh/wiu/images/cmnticon.gif)[Comment]](/users/mfcjh/wiu/comment.htm)
-[
-![\[Home\]](/users/mfcjh/wiu/images/homeicon.gif)[Home]](/users/mfcjh/wiu/home.html)
+![\[Contents\]](/users/mfcjh/wiu/images/cntsicox.gif) [Contents]
+![\[Index\]](/users/mfcjh/wiu/images/indxicox.gif)[Index]
+![\[Comment\]](/users/mfcjh/wiu/images/cmnticon.gif)[Comment]
+![\[Home\]](/users/mfcjh/wiu/images/homeicon.gif)[Home]
 ![\[Up\]](/users/mfcjh/wiu/images/upicon.gif)[Up]
 ![\[down\]](/users/mfcjh/wiu/images/downicon.gif)[Down]
 

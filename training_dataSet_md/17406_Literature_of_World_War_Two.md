@@ -21,13 +21,13 @@ View these only as samples, and feel free to head down to the Archives
 to browse through the materials waiting for you there. Most of all,  
 enjoy yourselves as you do the research for this class!  
 
-[![](Button.jpg) [
+![](Button.jpg)
 
 #### Introductory Video
 
-](introvid.MOV)  
   
-](introvid.MOV)  
+  
+  
   
 
 ### **Introductory Archival Materials**
@@ -36,101 +36,96 @@ enjoy yourselves as you do the research for this class!
 
 **American Posters**
 
-    * [Enemy Ears](EnemyEars.jpg)
-    * [Never!](Never.jpg)
-    * [Prejudice?](Prejudice.jpg)
-    * [He's Watching You!](HesWatchingYou.jpg)
-    * [Careless Talk](CarelessTalk.jpg)   
+    * Enemy Ears
+    * Never!
+    * Prejudice?
+    * He's Watching You!
+    * Careless Talk   
 **Sounds from the American Home Front**
 
-    * [Get on the Bondwagon](Bondwagon.au)
-    * [Franklin Delano Roosevelt](FDR.au)
-    * [Recruiting Commercial](music.au)
-    * [VE Day](VEday.au)
-    * [Women in the War ](victory.au)   
+    * Get on the Bondwagon
+    * Franklin Delano Roosevelt
+    * Recruiting Commercial
+    * VE Day
+    * Women in the War    
 **Sounds from Britain**
 
-    * [Churchill](churchill.au)   
+    * Churchill   
 
 **German Posters**
 
-    * [Volk](volk.html)
-    * [Nazi Soldier](NaziSoldier.html)
-    * [Kreistag](kreistag.html)
-    * [German Eagle](GermanEagl.html)   
+    * Volk
+    * Nazi Soldier
+    * Kreistag
+    * German Eagle   
 
 |  ![](Hitler2.jpg)  
 ---|---  
   
 **Sounds from the Axis**
 
-    * [Hitler: Reannexation of Poland](Hitler.au)
-    * [Mussolini](mussolini.au)   
+    * Hitler: Reannexation of Poland
+    * Mussolini   
 
 **Japanese Posters**
 
-    * [Nippon Paratroopers](NipponParatroopers.jpg)
-    * [Our Happy Home](OurHappyHome.jpg) 
+    * Nippon Paratroopers
+    * Our Happy Home 
 **Russian Posters**
 
-    * [Stalin](Stalin.html)
-    * [Russian Soldier](broom.html)
-    * [Russian Boot](Russianboot.html) 
+    * Stalin
+    * Russian Soldier
+    * Russian Boot 
   
   
 
 * World War Two Photographs (Courtesy of Hoover Archives)  
 |
 
-    * [Honor Work](honor.html)
-    * [Anschluss (Vienna)](Anschluss.html)
-    * [Boy's Physical Culture](Boysculture.html)
-    * [French Bombing Site](Frenchbombing.html)
-    * [Gas Masks](Gasmasks.html)
-    * [Hitler's Birthday Concert](Hitlerbday.html)
-    * [Hitler with Children](Hitlerchildren.html)
-    * [Physical Culture](Physicalculture.html)
-    * [The Last Hand Grenade](Handgrenade.html) 
+    * Honor Work
+    * Anschluss (Vienna)
+    * Boy's Physical Culture
+    * French Bombing Site
+    * Gas Masks
+    * Hitler's Birthday Concert
+    * Hitler with Children
+    * Physical Culture
+    * The Last Hand Grenade 
 |  ![](Femaleemployees.jpg)  
 ---|---  
   
-    * [Invasion of Poland](Poland.gif)
-    * [Concentration Camps](Camps.gif)
-    * [Invasion of Russia](Barbarossa.gif)
-    * [Axis Conquests](axis.gif)
+    * Invasion of Poland
+    * Concentration Camps
+    * Invasion of Russia
+    * Axis Conquests
 
 ### **Research Links**
 
-    * [Grolier World War Two Links ](http://www.grolier.com/links/ww2link.html)
-    * [Primo Levi Page](http://www.inch.com/~ari/levi1.html)
-    * [Pictures of World War Two ](http://www.grolier.com/wwii/wwii_mainpage.html)
-    * [World War II - Keeping the Memory Alive ](http://www.webcom.com/%7Ejbd/ww2.html)
-    * [ Grolier World War II Commemoration](http://www.grolier.com/wwii/wwii_mainpage.html)
-    * [The Nizkor Project ](http://www.almanac.bc.ca/)
-    * [Simon Wiesenthal Center ](http://www.wiesenthal.com/)
-    * [ Social Science:History:20th Century:World War Two ](http://www.yahoo.com/Arts/Humanities/History/20th_Century/World_War_II/)
-    * [Auschwitz]( http://www.artsci.wustl.edu/~elrynes/2a.html)
-    * [Photos of Auschwitz]( http://remember.org/jacobs/index.html)
-    * [Women in World War Two]( http://stg.brown.edu/projects/WWII_Women/WomenInWWII.html)
-    * [The Warsaw Ghetto Uprising](http://www-leland.stanford.edu/~mkoidin/mila18/mila18.html) 
+    * Grolier World War Two Links 
+    * Primo Levi Page
+    * Pictures of World War Two 
+    * World War II - Keeping the Memory Alive 
+    * Grolier World War II Commemoration
+    * The Nizkor Project 
+    * Simon Wiesenthal Center 
+    * Social Science:History:20th Century:World War Two 
+    * Auschwitz
+    * Photos of Auschwitz
+    * Women in World War Two
+    * The Warsaw Ghetto Uprising 
   
-[
 
 #### **Course Syllabus
 
-](syllabus.html)**
-
-[
+**
 
 #### **Recommended Reading  
 **
 
-](RecRead.html)
-
 #### Recommended Newsgroups
 
-  * [soc.culture.jewish.holocaust ](news:soc.culture.jewish.holocaust)
-  * [soc.history.war.world-war-ii ](news:soc.history.war.world-war-ii) 
+  * soc.culture.jewish.holocaust 
+  * soc.history.war.world-war-ii  
 
 #### **CD-Roms on Reserve  
   
@@ -174,7 +169,7 @@ Judgement at Nuremberg
   
 **
 
-**[Student - made Video](smalleng03b10.mov)**  
+**Student - made Video**  
 
 Cinematographer - Dan Peters  
 Student participants
@@ -185,14 +180,11 @@ Student participants
 
     * Michael Vortmann
 
-#### **[Sample student paper](http://www-
-leland.stanford.edu/~valya/WWIIpage.htm)
+#### **Sample student paper
 
 **
 
-[
-
-#### **World War Two Quiz](Quiz.html)  
+#### **World War Two Quiz  
   
 **
 

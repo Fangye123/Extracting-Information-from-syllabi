@@ -1,6 +1,6 @@
 ## CLASSICS / ART HISTORY 302
 
-## [_![](images/emperors.gif)_](302topicsS00.html)
+## _![](images/emperors.gif)_
 
 #  ROMAN ART AND ARCHAEOLOGY
 
@@ -12,7 +12,7 @@
 OFFICE: NORTH COURT 206  
 OFFICE HOURS: TBA and by appointment.  
 TELEPHONE: 289-8426  
-E-MAIL: [swheeler@richmond.edu](mailto:swheeler@richmond.edu)**  
+E-MAIL: swheeler@richmond.edu**  
   
 **_TEXTBOOKS FOR COURSE:_  
   
@@ -190,7 +190,7 @@ describe the techniques you discover in your use of the camera to create the
 effects demanded for these three styles.  
 >  **
 
-[**_GO TO TOPICS AND READINGS_**](302topicsS02.html)
+**_GO TO TOPICS AND READINGS_**
 
 **N.B. ALL WORK IN THIS CLASS MUST BE COMPLETED ACCORDING TO THE RULES OF THE
 UNIVERSITY OF RICHMOND HONOR SYSTEM. THE PLEDGE IS "I PLEDGE THAT I HAVE

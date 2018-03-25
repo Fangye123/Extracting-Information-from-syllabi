@@ -3,7 +3,7 @@
 **Fall 99** |    |   | **2 Credits**  
 **Instructor: Shane Gallagher**
 
-E-mail: [pgallag3@gmu.edu](mailto:dspragu1@gmu.edu)
+E-mail: pgallag3@gmu.edu
 
 Phone: 703-993-2388
 
@@ -36,13 +36,10 @@ As a result of this course, participants will be able to:
 
 **_Resources_**
 
-[How Networks
-Work](http://www.amazon.com/exec/obidos/ASIN/0789715953/o/qid=936207352/sr=2-1/002-1602276-0069659),
-Fourth Edition, Frank J. Derfler & Les Freed, Que Corporation, 1998.
+How Networks Work, Fourth Edition, Frank J. Derfler & Les Freed, Que
+Corporation, 1998.
 
-[Networking for
-Dummies](http://www.amazon.com/exec/obidos/ASIN/0764503464/o/qid=936207462/sr=2-2/002-1602276-0069659),
-4 th Edition, Doug Lowe, IDG Books, 1999
+Networking for Dummies, 4 th Edition, Doug Lowe, IDG Books, 1999
 
 Reading packet available in the Johnson Copy Center
 
@@ -128,9 +125,9 @@ Read Ch 2 in Lowe
 
 Barron & Orwig (reading packet) pp 83-99
 
-<http://www.helmig.com/>
+http://www.helmig.com/
 
-<http://classweb.gmu.edu/classweb/jwilliam/tech_bookmarks.htm>
+http://classweb.gmu.edu/classweb/jwilliam/tech_bookmarks.htm
 
 Write Scenario Paper #2
 
@@ -157,13 +154,13 @@ Ch 17 & 18 in Derfler & Reed
 
 Wu & Irwin pp 225-235 (reading packet)
 
-<http://www.mmt.bme.hu/~kiss/docs/unix/unix-history.html>
+http://www.mmt.bme.hu/~kiss/docs/unix/unix-history.html
 
-<http://www.dmoz.org/Computers/History/OperatingSystems/Unix/>
+http://www.dmoz.org/Computers/History/OperatingSystems/Unix/
 
-<http://www2.shore.net/~jblaine/vault/plh.html>
+http://www2.shore.net/~jblaine/vault/plh.html
 
-<http://www.internetvalley.com/archives/mirrors/davemarsh-timeline-1.htm>
+http://www.internetvalley.com/archives/mirrors/davemarsh-timeline-1.htm
 
 Begin writing Scenario Paper #3
 
@@ -177,7 +174,7 @@ Unix
 Network drives
 
 History and development of the Internet  |  |
-<http://www.raisio.se/support/basic/primer.shtml>
+http://www.raisio.se/support/basic/primer.shtml
 
 Wu & Irwin pp 236-240
 
@@ -191,11 +188,11 @@ Folder and file sharing
 Internet Architecture
 
 **Scenario Paper #3 Due  ** |  |
-<http://www.zdnet.com/devhead/stories/articles/0,4413,1600802,00.html>
+http://www.zdnet.com/devhead/stories/articles/0,4413,1600802,00.html
 
 Lowe pp 190-191
 
-<http://www.bgsu.edu/departments/tcom/compression.html> Post to TH |  
+http://www.bgsu.edu/departments/tcom/compression.html Post to TH |  
 | 10/7  |  | FTP
 
 File compressions
@@ -236,20 +233,20 @@ Lowe ch 17, 18, 21,22,26 |
 
 Broadband Home Services
 
-[On-line Evaluation](evaluation.htm)
+On-line Evaluation
 
 GMU Evaluations
 
 **Portfolios Due  ** |  |  |  
-Computer basics: <http://www.iserv.net/~alexx/glossary.htm>
+Computer basics: http://www.iserv.net/~alexx/glossary.htm
 
-<http://eastnet.educ.ecu.edu/schofed/lset/6042/basics/index.htm>
+http://eastnet.educ.ecu.edu/schofed/lset/6042/basics/index.htm
 
-<http://www.uic.edu/depts/adn/cc-fss/basics.html>
+http://www.uic.edu/depts/adn/cc-fss/basics.html
 
-<http://www.zdnet.com/devhead/stories/articles/0,4413,1600802,00.html>
+http://www.zdnet.com/devhead/stories/articles/0,4413,1600802,00.html
 
-<http://www.albion.com/netiquette/index.html>  
+http://www.albion.com/netiquette/index.html  
 ![](transparent.gif) | ![](transparent.gif) | ![](transparent.gif) |
 ![](transparent.gif) | ![](transparent.gif) | ![](transparent.gif) |
 ![](transparent.gif)

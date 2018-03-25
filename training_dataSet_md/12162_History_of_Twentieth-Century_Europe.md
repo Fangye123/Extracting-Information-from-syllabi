@@ -14,7 +14,7 @@ upchurch@rci.rutgers.edu
   
 **History of Twentieth-Century Europe**
 
-** [Final Grades](grades.html)**
+** Final Grades**
 
   
   
@@ -78,10 +78,10 @@ The process of writing these papers is meant to prepare students for the class
 discussion of the primary source works, and part of this preparation includes
 formulating two questsions that can be asked within class discussion. Papers
 should be between two and three pages.  
-          \- [Guidelines for the First Reaction Paper](http://www.rci.rutgers.edu/~upchurch/20thcEur/firstpaper.html)  -    
-          \- [Guidelines for the Second Reaction Paper](http://www.rci.rutgers.edu/~upchurch/20thcEur/secondpaper.html) -    
-          \- [Guidelines for the Third Reaction Paper](http://www.rci.rutgers.edu/~upchurch/20thcEur/thirdpaper.html) -    
-          \- [Guidelines for the Fourth Reaction Paper](http://www.rci.rutgers.edu/~upchurch/20thcEur/fourthpaper.html) -    
+          \- Guidelines for the First Reaction Paper  -    
+          \- Guidelines for the Second Reaction Paper -    
+          \- Guidelines for the Third Reaction Paper -    
+          \- Guidelines for the Fourth Reaction Paper -    
 
 
 \- **Final Exam** -  
@@ -109,8 +109,7 @@ York, Holmes and Meier, 1997)
 * * *
 
   
-Introductory Lecture - [Overview of Europe at the Start of the 20th
-Century](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline1.html).  
+Introductory Lecture - Overview of Europe at the Start of the 20th Century.  
     
 
 
@@ -122,11 +121,9 @@ Century](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline1.html).
 _Readings_ : Gilbert, chapter 1, and begin reading Woolf, _A Room of One's
 Own._
 
-Lecture - [Pressures of
-Imperialism](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline2.html)
+Lecture - Pressures of Imperialism
 
-Lecture - [Challenges to Bourgeois
-Culture](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline3.html)
+Lecture - Challenges to Bourgeois Culture
 
 Video: F. Lang, Metropolis (90 minutes, silent / black and white)  
     
@@ -140,11 +137,9 @@ Video: F. Lang, Metropolis (90 minutes, silent / black and white)
 _Readings_ : Gilbert, chapter 3, and continue reading Woolf, _A Room of One's
 Own._
 
-Lecture - [World War I and Its
-Causes](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline4.html)
+Lecture - World War I and Its Causes
 
-Lecture - [The Russian
-Revolution](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline5.html)
+Lecture - The Russian Revolution
 
 Video: Henrik Ibsen _A Doll's House_ (107 minutes, black and white)  
     
@@ -157,11 +152,9 @@ Video: Henrik Ibsen _A Doll's House_ (107 minutes, black and white)
   
 _Readings_ : have finished Woolf, _A Room of One's Own._
 
-Lecture: [Liabilities of the Versailles
-Order](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline6.html)
+Lecture: Liabilities of the Versailles Order
 
-Lecture: [Rise of the Radical
-Right](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline7.html)
+Lecture: Rise of the Radical Right
 
 Discussion: Themes of the class thus far, and Woolf, _A Room of One's Own._  
     
@@ -175,11 +168,9 @@ Discussion: Themes of the class thus far, and Woolf, _A Room of One's Own._
 _Readings_ : Gilbert, chapter 5, and begin Freud, _Civilization and Its
 Discontents._
 
-Lecture: [Soviets: Lenin To
-Stalin](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline8.html)
+Lecture: Soviets: Lenin To Stalin
 
-Lecture: [Interwar
-Politics](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline9.html)
+Lecture: Interwar Politics
 
 Art Video: The Powers that Be: Art of the post-World War I period, Dada and
 German Expressionism, (50 minutes)  
@@ -193,11 +184,9 @@ German Expressionism, (50 minutes)
   
 _Readings_ : have finished Freud, _Civilization and Its Discontents.  _
 
-Lecture: [Great
-Depression](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline10.html)
+Lecture: Great Depression
 
-Lecture: [Nazi Rise to
-Power](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline11.html)
+Lecture: Nazi Rise to Power
 
 Discussion of Freud, _Civilization and Its Discontents_.  
     
@@ -211,11 +200,9 @@ Discussion of Freud, _Civilization and Its Discontents_.
 _Readings_ : Gilbert, chapter 8, and have finished Primo Levi, _Survival at
 Auschwitz._
 
-Lecture: [World War II and the
-Holocaust](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline13.html)
+Lecture: World War II and the Holocaust
 
-Lecture: [Breakdown of the
-Coalition](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline14.html)
+Lecture: Breakdown of the Coalition
 
 Discussion of Primo Levi, _Survival at Auschwitz._  
     
@@ -229,11 +216,9 @@ Discussion of Primo Levi, _Survival at Auschwitz._
 _Readings_ : Gilbert, chapter 10, and begin Kovaly, _Under a Cruel Star: Life
 in Prague, 1941-1968._
 
-Lecture: [The Division of
-Europe](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline15.html)
+Lecture: The Division of Europe
 
-Lecture: [Soviet
-Block](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline16.html)
+Lecture: Soviet Block
 
 Film: _The Bicycle Thief_ (1949) (90 minutes, black and white)  
     
@@ -247,11 +232,9 @@ Film: _The Bicycle Thief_ (1949) (90 minutes, black and white)
 _Readings_ : have finished Kovaly, _Under a Cruel Star: Life in Prague,
 1941-1968._
 
-Lecture:
-[Decolonization](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline18.html)
+Lecture: Decolonization
 
-Lecture: [The Collapse of
-Communism](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline19.html)
+Lecture: The Collapse of Communism
 
 Discussion of Kovaly, _Under a Cruel Star: Life in Prague, 1941-1968._  
     
@@ -264,8 +247,7 @@ Discussion of Kovaly, _Under a Cruel Star: Life in Prague, 1941-1968._
   
 _Readings_ : Gilbert, chapters 12 and 14.
 
-Lecture: [Western European Integration: From the ECSC to The Maastricht
-Treaty](http://www.rci.rutgers.edu/~upchurch/20thcEur/Outline17.html).
+Lecture: Western European Integration: From the ECSC to The Maastricht Treaty.
 
 Video: People's Century Series: People Power, 1989.
 

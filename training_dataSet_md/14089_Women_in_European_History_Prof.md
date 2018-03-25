@@ -18,8 +18,8 @@ November | Assignments:
 December | Academic Honesty | Graduate Credit | Special Accommodations |
 K-State Online  
 E-Mail | Instructor Letters | Guidelines: Out-Of Class Essays | General
-Criteria for Historical Writing | Techniques for this assignment | [Prof.
-Gray's Homepage](http://www-personal.ksu.edu/~mgray/)  
+Criteria for Historical Writing | Techniques for this assignment | Prof.
+Gray's Homepage  
   
 **REQUIRED BOOKS**
 
@@ -186,12 +186,11 @@ as usual. (Equivalent to final exam.)**
   
 **ACADEMIC HONESTY**
 
-**Kansas State University has a new Honor Code. For information see[
-_http://www.ksu.edu/honor/_](http://www.ksu.edu/honor/). The provisions of
-this code will be followed in this class. For all papers, quizzes and other
-work, the Honor Pledge is implied, whether or not it is stated: "On my honor,
-as a student, I have neither given nor received unauthorized aid on this
-academic work."**
+**Kansas State University has a new Honor Code. For information see
+_http://www.ksu.edu/honor/_. The provisions of this code will be followed in
+this class. For all papers, quizzes and other work, the Honor Pledge is
+implied, whether or not it is stated: "On my honor, as a student, I have
+neither given nor received unauthorized aid on this academic work."**
 
 * * *
 

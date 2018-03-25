@@ -3,8 +3,7 @@
 
 **Course Title:**      Introduction to Intelligent Robotics
 
-**Instructor:**     [Dean Hougen](http://www.cs.ou.edu/~hougen/), EL 128,
-405-325-3150, [hougen@ou.edu](mailto:hougen@ou.edu)
+**Instructor:**     Dean Hougen, EL 128, 405-325-3150, hougen@ou.edu
 
 **Class Hours:**      Monday, Wednesday, Friday, 11:30-12:20, Sarkeys Energy
 Center N202A (was: Carson Engineering Center 31)
@@ -40,7 +39,7 @@ Details of all of the communication methods follow:
 
 **WWW:**      Information about this class will be found on the class website.
 The URL is  
-**<http://www.cs.ou.edu/~hougen/classes/Spring-2002/Robotics/>**  
+**http://www.cs.ou.edu/~hougen/classes/Spring-2002/Robotics/**  
 This page will contain links to the directory of class materials and
 announcements, the message of the day, and other important information.
 **Email:**      Students should use the email addresses listed above. Note

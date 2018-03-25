@@ -19,14 +19,14 @@ _Name_ : Dirk Baldwin
 
 |
 
-_Email_ : [baldwin@uwp.edu](MAILTO:baldwin@uwp.edu)  
+_Email_ : baldwin@uwp.edu  
 ---|---  
   
 _Office_ : MOLN 355
 
 |
 
-WWW: <http://www.uwp.edu/academic/mis/baldwin>  
+WWW: http://www.uwp.edu/academic/mis/baldwin  
   
 _Phone_ : 595-2449
 
@@ -36,26 +36,23 @@ _Office Hours:_ 4:45-6:00 M, 9-11 W, 9-10 F
   
 ### Texts
 
-Holkeboer, Robert & Walker, Laurie, _[Right From the
-Start](http://e-catalog.thomsonlearning.com/110/)_ , Wadsworth, 1999.
+Holkeboer, Robert & Walker, Laurie, _Right From the Start_ , Wadsworth, 1999.
 
 Resources on WWW:
 
-[Your College Success
-Center](http://csuccess.wadsworth.com/students/students.html)
+Your College Success Center
 
 ### Course Internet Sites
 
 The syllabus is available at:
-<http://www.uwp.edu/academic/mis/baldwin/Gned101/g101f00.htm>
+http://www.uwp.edu/academic/mis/baldwin/Gned101/g101f00.htm
 
 The course also uses discussions, chat rooms, and other materials that are
-located at: <http://www.blackboard.com/courses/GNED0101Sec12/index.html>. To
-use the site, you must enroll (free of charge) by clicking _I would like to
+located at: http://www.blackboard.com/courses/GNED0101Sec12/index.html. To use
+the site, you must enroll (free of charge) by clicking _I would like to
 enroll_ on this page.
 
-[Passport sessions, activities, and
-schedules](http://www.uwp.edu/academic/passport/)
+Passport sessions, activities, and schedules
 
 ### Overview of Course
 
@@ -157,11 +154,10 @@ Sept. 13 | Chpt. 2-3 | Turn in career center notes by Sept. 15 (5 pts.) |
 Career Center Presentation. The basics for success.  
 Sept. 20 | See readings below |   | Critical Thinking. Creating a presentation
 with PowerPoint.  
-Sept. 27 | Chpt. 4-5 | [Complete critical thinking exercises (5
-pts.)](critical.htm) | Managing Time, Review Critical thinking exercise,
-PowerPoint  
+Sept. 27 | Chpt. 4-5 | Complete critical thinking exercises (5 pts.) |
+Managing Time, Review Critical thinking exercise, PowerPoint  
 Oct. 4 | Chpt. 6 |   | Studying. WWW page design.  
-Oct. 11 | Chpt. 7 | [Complete PowerPoint HW (5 pts.)](ppthw.htm)
+Oct. 11 | Chpt. 7 | Complete PowerPoint HW (5 pts.)
 
 Information Literacy Exercise (finish by end of semester) (5 pts.)
 
@@ -171,7 +167,7 @@ Oct. 25 | Chpt. 9-11 |   | Extracurricular activities. Values, culture, and
 relationships. Health and stress  
 Nov. 1 | Chpt. 12 |   | Planning for Success other  
 Nov. 8 |   | Presentations (10 pts.) | Presentations  
-Dec. 8 |   | [Finish Web pages (5 pts.) ](webHW.htm)
+Dec. 8 |   | Finish Web pages (5 pts.)
 
 Last day to submit papers from Passport sessions (see Grading note above).
 
@@ -181,17 +177,17 @@ Last day to submit papers from Passport sessions (see Grading note above).
 
 Read the following from the WWW:
 
-  1. [Basics of Critical Thinking](http://csuccess.wadsworth.com/students/studyskills/devsurskills/devsurskills_20.html)
-  2. [Elements of Critical Thinking](http://www.criticalthinking.org/University/helps.nclk)
-  3. [Intellectual Traits](http://www.criticalthinking.org/University/intraits.nclk)
-  4. [Universal Intellectual Standards](http://www.criticalthinking.org/University/unistan.nclk)
-  5. [Thinking and Content](http://www.criticalthinking.org/University/content.nclk)
-  6. [Grading Standards for Critical Thinking](http://www.criticalthinking.org/University/univclass/Grading.nclk)
+  1. Basics of Critical Thinking
+  2. Elements of Critical Thinking
+  3. Intellectual Traits
+  4. Universal Intellectual Standards
+  5. Thinking and Content
+  6. Grading Standards for Critical Thinking
 
 Optional Readings
 
-  * [Mission Critical](http://www.sjsu.edu/depts/itl/007/index.html) (click Part 1, 2, 3, 4 on the left for a tutorial and sample questions).
-  * [Brief History of Critical Thinking](http://www.criticalthinking.org/University/cthistory.nclk)
+  * Mission Critical (click Part 1, 2, 3, 4 on the left for a tutorial and sample questions).
+  * Brief History of Critical Thinking
 
 #### Group Work on Homework Assignments
 
@@ -232,7 +228,5 @@ instructor as soon as possible to make necessary accommodations.
 * * *
 
 Last modified: September 21, 2000  
-[Dirk Baldwin](http://www.uwp.edu/academic/mis/baldwin/index.html), MIS, [UW-
-Parkside](HTTP://www.uwp.edu),
-[dirk.baldwin@uwp.edu](mailto:dirk.baldwin@uwp.edu)
+Dirk Baldwin, MIS, UW-Parkside, dirk.baldwin@uwp.edu
 

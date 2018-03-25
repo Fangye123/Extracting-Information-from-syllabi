@@ -1,4 +1,4 @@
-[return to syllabus](hgp111.html)  
+return to syllabus  
 
 # Reflections on The Revolution In France  
 In a Letter Intended to Have Been Sent  

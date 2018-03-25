@@ -9,14 +9,11 @@
 
 ![](mars1.gif) |  **
 
-Instructor:**[R. A. Egler
-](http://www.physics.ncsu.edu/courses/astron/raegler.html), **Office** : Cox
-Hall 110
+Instructor:**R. A. Egler , **Office** : Cox Hall 110
 
 **
 
-Phone** : 515-7842,
-**E-mail:**[robert_egler@ncsu.edu](mailto:robert_egler@ncsu.edu)
+Phone** : 515-7842, **E-mail:**robert_egler@ncsu.edu
 
 **
 
@@ -46,30 +43,30 @@ Textbook:** Michael A. Seeds; _The Solar System_ (Current edition),
   * Make-up Test Policy
   * How to Pass This Course
   * Some Other Interesting Web Sites
-  * [**Answers to the most recent test**](last_test.html)
-  * [**Glossary of Terms for Solar System Astronomy  
-**](http://www.physics.ncsu.edu/courses/astron/AstroDictionary.html)
+  * **Answers to the most recent test**
+  * **Glossary of Terms for Solar System Astronomy  
+**
 
-  * [Explanation of Orbital Terms](http://www.physics.ncsu.edu/courses/astron/orbits.html)
+  * Explanation of Orbital Terms
 **
 
   * Sample Tests for this section
 **
 
-    * [Sample Test 1](http://www.physics.ncsu.edu/courses/astron/sample_test_1_124.html)
-    * [Sample Test 2](http://www.physics.ncsu.edu/courses/astron/sample_test_2_124.html)
-    * [Sample Test 3](http://www.physics.ncsu.edu/courses/astron/sample_test_3_124.html)
-  * [**Answers to homework 1 and sample test 1  
-**](http://www.physics.ncsu.edu/courses/astron/homework1solutions.html)
+    * Sample Test 1
+    * Sample Test 2
+    * Sample Test 3
+  * **Answers to homework 1 and sample test 1  
+**
 
-  * [**Answers to homework 2 and sample test 2  
-**](http://www.physics.ncsu.edu/courses/astron/homework2solutions.html)
+  * **Answers to homework 2 and sample test 2  
+**
 
-  * [**Answers to homework 3 and sample test 3  
-**](http://www.physics.ncsu.edu/courses/astron/homework3solutions.html)
+  * **Answers to homework 3 and sample test 3  
+**
 
-  * [Reedy Creek Obsevatory]( http://www.physics.ncsu.edu/courses/astron/observatory.html)
-  * [Official course description ]( http://www2.acs.ncsu.edu/reg_records/crs_cat/PY.html )
+  * Reedy Creek Obsevatory
+  * Official course description 
   
 ---|---  
   
@@ -142,8 +139,7 @@ This class is **NOT** available for Scholar's Credit.
 
 * * *
 
-[**Sample Tests**](http://www.physics.ncsu.edu/courses/astron/#PY124)are
-available via the World Wide Web.
+**Sample Tests**are available via the World Wide Web.
 
 ![](caution1.gif) ; **NOTE: The Final Exam is scheduled Tuesday, December 17,
 at 1:00 PM.**
@@ -454,25 +450,25 @@ these sites may link.
 **
 
   * Current Satellite Views of Earth from Space** (updated every couple of hours) 
-    * [Latest Satellite Image (Visible), ]( gopher://gopher.ssec.wisc.edu:70/I9/gsdc.d/realtime-8.d/G8VIS.GIF )East Coast (Satellite GOES 8) 
-    * [Latest Satellite Image (Visible), ](http://www.ssec.wisc.edu/data/g9/latest_g9vis.gif )West Coast (Satellite GOES 9) 
-    * [Latest Satellite Image (Infrared)](http://meaculpa.nrrc.ncsu.edu/G8IR.GIF) (Satellite GOES 8)
+    * Latest Satellite Image (Visible), East Coast (Satellite GOES 8) 
+    * Latest Satellite Image (Visible), West Coast (Satellite GOES 9) 
+    * Latest Satellite Image (Infrared) (Satellite GOES 8)
 **
 
   * Other Sites
 **
 
-    * [Global Positioning System (GPS) Information](http://www.utexas.edu/depts/grg/gcraft/notes/gps/gps.html)
-    * [[Japan] National Space Development Agency, Earth Observation Center](http://hdsn.eoc.nasda.go.jp/)
-    * [European Space Agency](http://www.esrin.esa.it/)
-    * [Harvard-Smithsonian Center for Astrophysics](http://cfa-www.harvard.edu/cfa-home.html)
-    * [Mount Wilson Observatory](http://www.mtwilson.edu/)
-    * [NASA Home Page](http://hypatia.gsfc.nasa.gov/NASA_homepage.html)
-    * [NASA Jet Propulsion Laboratory (JPL)](http://www.jpl.nasa.gov/)
-    * [NASA: Kennedy Space Center](http://www.ksc.nasa.gov/ksc.html)
-    * [Space Telescope Science Institute (Hubble Space Telescope)](http://www.stsci.edu/)
-    * [U.S. Naval Observatory](http://www.usno.navy.mil/)
-    * [University of North Carolina - Chapel Hill, Physics and Astronomy](http://www.physics.unc.edu/)
+    * Global Positioning System (GPS) Information
+    * [Japan] National Space Development Agency, Earth Observation Center
+    * European Space Agency
+    * Harvard-Smithsonian Center for Astrophysics
+    * Mount Wilson Observatory
+    * NASA Home Page
+    * NASA Jet Propulsion Laboratory (JPL)
+    * NASA: Kennedy Space Center
+    * Space Telescope Science Institute (Hubble Space Telescope)
+    * U.S. Naval Observatory
+    * University of North Carolina - Chapel Hill, Physics and Astronomy
 
 **Return to beginning of syllabus**
 
@@ -480,9 +476,9 @@ these sites may link.
 
 * * *
 
-### Back to [Physics Home Page](http://www.physics.ncsu.edu/)
+### Back to Physics Home Page
 
-### Back to [NC State Home Page]( http://www.ncsu.edu)
+### Back to NC State Home Page
 
 Last updated: 25 June 2002
 

@@ -79,7 +79,7 @@ emergency that would warrant rescheduling. Students who miss the final exam
 without prior notification or an excuse will receive a zero for that test.
 
 **Required Readings:** The following paperback books are available for
-purchase at the [Harvard Coop](http://www.bkstore.com/harvard/)
+purchase at the Harvard Coop
 
 John Lewis Gaddis. _The Long Peace: Inquires into the History of the Cold War_
 (New York: Oxford University Press, 1987)
@@ -246,5 +246,5 @@ Eugene Gholz, Daryl G. Press, and Harvey M. Sapolsky, "Come Home, America: The
 Strategy of Restraint in the Face of Temptation," in Brown, et. al, eds.,
 _America's Strategic Choices,_ pp. 200-243.
 
-[Return to Jeff Taliaferro's Homepage](talia.html)
+Return to Jeff Taliaferro's Homepage
 

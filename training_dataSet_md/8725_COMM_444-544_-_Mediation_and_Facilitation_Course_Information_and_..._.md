@@ -11,7 +11,7 @@ Director, Peace Studies Program
 Oregon State University  
 Corvallis, OR   97331-6199   USA  
 Ph: 541.737.2461 --------  Fax: 541.737.4443  
-email: [gwalker@orst.edu](mailto: gwalker@orst.edu)  
+email: gwalker@orst.edu  
 Office: 104 Shepard Hall    Office Hours: MW 1400-1600, Tu 900-1100
 
 This course deals with methods of third party intervention with an emphasis on

@@ -1,15 +1,13 @@
   
-[ ![H-Urban Teaching Center](../graphics/btnsyltc154x40.jpg)](../index.htm) [
-![H-Urban Syllabus Archive](../graphics/btnsylsa154x40.jpg)](index.htm) [
-![H-Urban](../graphics/btnsylhurban154x40.jpg)](http://www.h-net.msu.edu/~urban)
-|  ![Syllabus Archive Selection](../graphics/skysylarchselect.jpg) |
+![H-Urban Teaching Center](../graphics/btnsyltc154x40.jpg) ![H-Urban Syllabus
+Archive](../graphics/btnsylsa154x40.jpg)
+![H-Urban](../graphics/btnsylhurban154x40.jpg) |  ![Syllabus Archive
+Selection](../graphics/skysylarchselect.jpg) |
 
 
 
-[ ![H-Urban Syllabus Use & Submission
-Policy](../graphics/btnsyluse154x40.jpg)](syluses.htm) [ ![Comments and
-Questions](../graphics/btnsylcques154x40.jpg)](mailto:EDTEACH-
-URBAN@h-net.msu.edu)  
+![H-Urban Syllabus Use & Submission Policy](../graphics/btnsyluse154x40.jpg)
+![Comments and Questions](../graphics/btnsylcques154x40.jpg)  
 ---|---|---  
   
 **The Culture of Cities**  
@@ -217,16 +215,14 @@ Papers/Projects Due
 ---  
   
   
-[ ![Author Index](../graphics/btnsylauthor154x40.jpg)](author.htm) [ ![Subject
-Index](../graphics/btnsylsubject154x40.jpg)](subject.htm) [ ![Geographic
-Index](../graphics/btnsylloc154x40.jpg)](location.htm)  
+![Author Index](../graphics/btnsylauthor154x40.jpg) ![Subject
+Index](../graphics/btnsylsubject154x40.jpg) ![Geographic
+Index](../graphics/btnsylloc154x40.jpg)  
 ---  
   
-[![H-Urban](../graphics/skyhurban198x38.jpg)](http://www.h-net.msu.edu/~urban)  
-Top | [Teaching Center](../index.htm) | [Syllabus Archive](index.htm) |
-[Comments and Questions](mailto:EDTEACH-URBAN@h-net.msu.edu) |
-[H-Urban](http://www.h-net.msu.edu/~urban)  
-[H-Urban Syllabus Use and Submission Policy](syluses.htm)  
+![H-Urban](../graphics/skyhurban198x38.jpg)  
+Top | Teaching Center | Syllabus Archive | Comments and Questions | H-Urban  
+H-Urban Syllabus Use and Submission Policy  
   
   
 

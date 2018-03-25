@@ -18,7 +18,7 @@
     History 18                                                      Prof. Sarah Henry
     Fall 1996                                                       office: SS 121
     MWF 11:10-12:15                                                 phone: x6072
-    Office hours: MWF: 1:00-2:00 and by appointment                e-mail: [henrys@union.edu](mailto:henrys@union.edu)
+    Office hours: MWF: 1:00-2:00 and by appointment                e-mail: henrys@union.edu
     
     
 
@@ -51,7 +51,7 @@ Assignments and Grades: There are four components to the course. You must
 complete all of the requirements in order to pass this course.
 
   1. Class participation and assignments (20% of your grade): You are expected to attend class and to complete the assigned reading for each week on time. There will also be brief homework assignments and in-class exercises, both graded and ungraded. While discussion will be incorporated into each classroom session, Friday sessions will be devoted to discussion of each week's reading. Complete the reading from the Painter book by the beginning of the week and the additional reading as soon as possible, but in no case later than Friday. In preparation for the Friday class, each student is encouraged to contribute at least one posting to an open-ended on-line discussion of the reading, as well as to participate in the classroom (see separate handout on on-line participation.) Attendance will be taken; unexcused absences will adversely affect both your grade and your learning in this course. 
-  2. Essay -- due September 27 (15% of your grade): As part of our study of the Spanish-American and Philippine Wars, you will prepare a 4-6 page critical essay based on sources available on-line at <http://web.syr.edu/~fjzwick/> Late papers will be penalized. (See separate handout on imperialism paper.) 
+  2. Essay -- due September 27 (15% of your grade): As part of our study of the Spanish-American and Philippine Wars, you will prepare a 4-6 page critical essay based on sources available on-line at http://web.syr.edu/~fjzwick/ Late papers will be penalized. (See separate handout on imperialism paper.) 
   3. Debates (week of October 21) (30% of your grade): At the end of the first week of class, you will be assigned to a team that will take the affirmative or the negative on a political issue that was current during the Progressive Era. Teams will research the issue and draw up arguments to be presented in an in-class debate. (See separate handout on debates.) 
   4. The final exam (35% of your grade). 
 
@@ -128,22 +128,18 @@ that would fill a 14 week semester elsewhere. I would welcome any comments,
 suggestions or questions at my e-mail address posted below.
 
   
-[![](/graphics/listhome.gif)](file:///C:/My Documents/My Webs/SHGAPE/)
-[Return](file:///C:/My Documents/My Webs/SHGAPE/) to H-SHGAPE Home Page.  
+![](/graphics/listhome.gif) Return to H-SHGAPE Home Page.  
 
   
-[![H-Net, Humanities OnLine](/graphics/hnet.gif)](/)  
-|  Generously Supported by: |  |  Comments to [Patrick D. Reagan](/cgi-
-bin/mail?to=preagan@tntech.edu)  
+![H-Net, Humanities OnLine](/graphics/hnet.gif)  
+|  Generously Supported by: |  |  Comments to Patrick D. Reagan  
 Tennessee Technological University  
 Copyright (C)1999, H-Net, Humanities OnLine  
   
 ---|---|---|---  
-[![\[MICHIGAN
+![\[MICHIGAN
 
-STATE UNIVERSITY\]](/graphics/msutrans.gif)](http://www.msu.edu) | & |
-[![\[THE
+STATE UNIVERSITY\]](/graphics/msutrans.gif) | & | ![\[THE
 
-NATIONAL ENDOWMENT FOR THE
-HUMANITIES\]](/graphics/nehtrans.gif)](http://www.neh.gov/)
+NATIONAL ENDOWMENT FOR THE HUMANITIES\]](/graphics/nehtrans.gif)
 

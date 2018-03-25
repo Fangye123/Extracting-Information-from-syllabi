@@ -1,6 +1,5 @@
-| This Page *Bottom | *[Keas Home Page](../../../keas.htm) |
-*[Planetarium](../../../planet/index.htm) *[Development](../grow/dev_plan.htm)
-*[WWW Road Kill](../road_kill.htm) |
+| This Page *Bottom | *Keas Home Page | *Planetarium *Development *WWW Road
+Kill |
 
 # History of Science 2103  
 History of Science and Technology
@@ -187,16 +186,12 @@ SB 283-290
 
 Mike Keas** , **** Assistant Professor of Natural Science, Unified Studies
 Natural Science Coordinator  
-PhD *[History of Science](http://www.ou.edu/cas/hsci/), *[University of
-Oklahoma](http://www.ou.edu/). At *Oklahoma Baptist University since 1993  
-Courses: *[US Natural Science](../../../us/index.htm)
-*[311](../../../us/311/pack.html) & *[312](../../../us/312/index.htm) &
-*[History/Philosophy of Science](../../../histsci/index.htm)  
-Director: *[Planetarium's](../../../planet/index.htm) Cosmology and Cultures
-Project (1997-2001)  
-Email: *[mike_keas@mail.okbu.edu](mailto:mike_keas@mail.okbu.edu), Internet:
-*[Vita-Home](../../../keas.htm)  
-*[Division of Sciences & Math](../../../index.htm)[emathics](http://www.okbu.edu/)
+PhD *History of Science, *University of Oklahoma. At *Oklahoma Baptist
+University since 1993  
+Courses: *US Natural Science *311 & *312 & *History/Philosophy of Science  
+Director: *Planetarium's Cosmology and Cultures Project (1997-2001)  
+Email: *mike_keas@mail.okbu.edu, Internet: *Vita-Home  
+*Division of Sciences & Mathemathics
 
 ![](../../../images/bison.gif)**(C) 1998**
 
@@ -210,11 +205,10 @@ full credit is given to the OBU Science Program.
 
 * * *
 
-[![](../../../images/netscape3.gif)](http://home.netscape.com/comprod/mirror/index.html)Our
-web pages are never finished, but always under construction! The formatting of
-our web pages may be unintelligible if you are not using [Netscape
-2.0+](http://home.netscape.com/comprod/mirror/index.html). If you find a link
-that does not work, please [Email](mailto:mike_keas@mail.okbu.edu) us.
+![](../../../images/netscape3.gif)Our web pages are never finished, but always
+under construction! The formatting of our web pages may be unintelligible if
+you are not using Netscape 2.0+. If you find a link that does not work, please
+Email us.
 
 * * *
 

@@ -15,23 +15,19 @@ What follows is a list of courses, with brief descriptions, that I teach at
 Oberlin College. They are not all taught every year. Clicking on the title
 will take you to the current or most recent syllabus with a longer course
 description, requirements, class schedule and readings. Most of the
-information for courses I am currently teaching can be found on
-[Blackboard](http://bb.oberlin.edu). There you can find another copy of the
-syllabus, announcements and alerts for changes in the course, assignments, and
-links to some useful web sites. Similarly, readings for all my classes are on
-[ERes](http://eres.cc.oberlin.edu/) (electronic reserve), where you will need
-a password to access material that has been scanned into portable document
-format (PDF). For both the documents in CourseInfo and the readings on ERes,
-you will need the Adobe Acrobat Reader installed on your computer. You can get
-it free from [Adobe](http://www.adobe.com/products/acrobat/readstep.html).
-Lastly, clicking here will take you to an [annotated list of
-links](Course%20Bookmarks.htm) that are often useful supplements to my
-courses.
+information for courses I am currently teaching can be found on Blackboard.
+There you can find another copy of the syllabus, announcements and alerts for
+changes in the course, assignments, and links to some useful web sites.
+Similarly, readings for all my classes are on ERes (electronic reserve), where
+you will need a password to access material that has been scanned into
+portable document format (PDF). For both the documents in CourseInfo and the
+readings on ERes, you will need the Adobe Acrobat Reader installed on your
+computer. You can get it free from Adobe. Lastly, clicking here will take you
+to an annotated list of links that are often useful supplements to my courses.
 
 * * *
 
-> **[Politics 114. West European Politics: Left and Right in
-Transition](Politics114.htm) **
+> **Politics 114. West European Politics: Left and Right in Transition **
 
 >
 
@@ -46,8 +42,8 @@ Three credit hours.  Next taught: Fall 2001.
 
 * * *
 
-> **[Politics 111. Colloquium: What's Left? Left Governments In Power in
-Europe And North America](Politics111.htm)**
+> **Politics 111. Colloquium: What's Left? Left Governments In Power in Europe
+And North America**
 
 >
 
@@ -77,8 +73,7 @@ prerequisite. Three credit hours.  Next taught: unknown.
 
 * * *
 
-> **[Politics 216. The Political Economy of Advanced
-Capitalism](Politics216.htm)**
+> **Politics 216. The Political Economy of Advanced Capitalism**
 
 >
 
@@ -93,8 +88,8 @@ taught: Fall 2001.
 
 * * *
 
-> **[Politics 219. Work, Workers and Trade Unions in Advanced Capitalist
-Societies](Politics219.htm) **
+> **Politics 219. Work, Workers and Trade Unions in Advanced Capitalist
+Societies **
 
 >
 
@@ -109,8 +104,7 @@ taught: 2002-2003.
 
 * * *
 
-> **[Politics 310. Seminar: Topics in Comparative Politics (team-
-taught)](Politics310.htm)**
+> **Politics 310. Seminar: Topics in Comparative Politics (team-taught)**
 
 >
 
@@ -125,7 +119,7 @@ hours. Next taught: Spring 2002.
 
 * * *
 
-> **[Politics 315. Seminar: The Future of Organized Labor](Politics315.htm)**
+> **Politics 315. Seminar: The Future of Organized Labor**
 
 >
 

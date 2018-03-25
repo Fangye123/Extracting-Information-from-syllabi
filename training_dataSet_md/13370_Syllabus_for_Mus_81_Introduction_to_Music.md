@@ -1,16 +1,16 @@
 ## Mus 81: Introduction to Music  
 Syllabus
 
-### [Dr. Bill Alves](index.html) \- Spring 2002
+### Dr. Bill Alves \- Spring 2002
 
 #### Scripps Humanities Auditorium, Mon/Wed 1:15-2:30
 
 #### Office: Parsons 1278 - Phone: x74170
 
 This document includes class description, goals, and policies.  
-[Click here for the course schedule.](m81schedule.html)  
-[Click here for the contents of the supplemental CDs.](m81listening.html)  
-[Click here to go to my list of courses.](alvescourses.html)
+Click here for the course schedule.  
+Click here for the contents of the supplemental CDs.  
+Click here to go to my list of courses.
 
 * * *
 
@@ -66,17 +66,14 @@ Currently I have set aside MTWF 10:30-11:30 as office hours. However, these
 hours will probably change early in the semester, so you may want check the
 schedule on the door of my office or contact me first. If you cannot make it
 at those times, I would be happy to arrange an appointment at another time. I
-also welcome your email ([alves@hmc.edu](mailto:alves@hmc.edu)).
+also welcome your email (alves@hmc.edu).
 
 ### Internet Resources
 
-There are [web pages on music
-fundamentals](http://www4.hmc.edu/humanities/musfun.html) for this class, as
-well as [quizzes for self-
-evaluation](http://www4.hmc.edu/humanities/quizzes/m63000.nclk). The details
-of how these pages will be used for the music fundamentals assignment will be
-discussed in class. Note that these pages are not available from clients off
-the Claremont Colleges campuses.
+There are web pages on music fundamentals for this class, as well as quizzes
+for self-evaluation. The details of how these pages will be used for the music
+fundamentals assignment will be discussed in class. Note that these pages are
+not available from clients off the Claremont Colleges campuses.
 
 There are many other resources available on the internet, and I encourage you
 to explore on your own.
@@ -84,23 +81,19 @@ to explore on your own.
 Discussions, questions, and updates on assignments between classes will be
 made through the class electronic mailing list: Mus-81-L. If you are a
 preregistered HMC student, you are already subscribed. Otherwise, you will
-need to send email to [listkeeper@hmc.edu](mailto:listkeeper@hmc.edu) with the
-following message:
+need to send email to listkeeper@hmc.edu with the following message:
 
 subscribe mus-81-l (The subject line should be blank.) You can get more
 information about the mailing list by sending the message "help" (without
-quotes) to the same address or by going to the [mailing list web
-gateway](http://www.internal.hmc.edu/cgi-bin/lwgate/). To distribute your
-message to this list, send mail to
-[mus-81-l@hmc.edu](mailto:mus-81-l@hmc.edu). Keep in mind that your message
-will be distributed to the entire class, not just me.
+quotes) to the same address or by going to the mailing list web gateway. To
+distribute your message to this list, send mail to mus-81-l@hmc.edu. Keep in
+mind that your message will be distributed to the entire class, not just me.
 
-The [schedule](m81schedule.html) and [contents of the supplemental
-CDs](m81listening.html) for this course are available on the web, and these
-documents have extensive links to other internet resources that I encourage
-you to exploit. I hope you will also explore the web on your own, but not to
-the exclusion of the print resources available in Caster Music Room and
-Honnold Library.
+The schedule and contents of the supplemental CDs for this course are
+available on the web, and these documents have extensive links to other
+internet resources that I encourage you to exploit. I hope you will also
+explore the web on your own, but not to the exclusion of the print resources
+available in Caster Music Room and Honnold Library.
 
 ### Course Assignments
 
@@ -124,13 +117,11 @@ discuss the format and expectations in more detail before the first exam.
 
 #### Fundamentals assignment
 
-As I noted above, there is a set of [on-line
-quizzes](http://www4.hmc.edu/humanities/quizzes/m63000.nclk) of music
-fundamentals. Before the first exam, you will complete each of these quizzes.
-You can take each quiz as many times as you like, but only the last one will
-count. There is also an [on-line version of the fundamentals section of your
-xerox text](http://www4.hmc.edu/humanities/musfun.html) with musical examples
-to help you with this assignment.
+As I noted above, there is a set of on-line quizzes of music fundamentals.
+Before the first exam, you will complete each of these quizzes. You can take
+each quiz as many times as you like, but only the last one will count. There
+is also an on-line version of the fundamentals section of your xerox text with
+musical examples to help you with this assignment.
 
 #### Concert reports
 
@@ -180,12 +171,11 @@ be worked out.
 
 * * *
 
-Back to my [**list of courses**](alvescourses.html)
+Back to my **list of courses**
 
-Back to my [**Home Page**](index.html)
+Back to my **Home Page**
 
 * * *
 
-Updated on January 18, 2002 by Bill Alves
-([alves@hmc.edu](mailto:alves@hmc.edu)).
+Updated on January 18, 2002 by Bill Alves (alves@hmc.edu).
 

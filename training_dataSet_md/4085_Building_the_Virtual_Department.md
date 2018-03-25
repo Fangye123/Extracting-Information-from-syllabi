@@ -9,8 +9,8 @@ of Online Teaching and Research
   * **Technical Summary**
   * **Catalog Description**
   * **Syllabus**
-  * [**The Scenarios for the Tic-Toc Project**](scenario.htm#one)
-  * [**Summary (in Table Form) of All Scenarios**](table.htm) 
+  * **The Scenarios for the Tic-Toc Project**
+  * **Summary (in Table Form) of All Scenarios** 
 
 * * *
 
@@ -62,55 +62,50 @@ UIC students.
 
 ### Technical Summary:
 
-[**Computer Content of Course:**](models.htm) [**Distance Learning
-Model**](models.htm#dist)
+**Computer Content of Course:** **Distance Learning Model**
 
-[**Percent of Internet Use:**](glossary.htm#internet) For most participants,
-low to very low. Students and faculty in Internet modules would have 100%
-scores in this area.
+**Percent of Internet Use:** For most participants, low to very low. Students
+and faculty in Internet modules would have 100% scores in this area.
 
-[**Percent Face-to-Face Contact:**](glossary.htm#f2f) 0% between senior
-faculty and students, 33% for students and teachers in small discussion
-groups, 0% for students and faculty members in Internet modules.
+**Percent Face-to-Face Contact:** 0% between senior faculty and students, 33%
+for students and teachers in small discussion groups, 0% for students and
+faculty members in Internet modules.
 
-[**Percent of Technical Training Needed by Students:**](glossary.htm#techstud)
-0% for all participants, except for those in the Internet discussion groups.
+**Percent of Technical Training Needed by Students:** 0% for all participants,
+except for those in the Internet discussion groups.
 
-[**Technical Training Needed by Faculty:**](glossary.htm#techfac) Extensive
+**Technical Training Needed by Faculty:** Extensive
 
-[**Percent Lecture:**](glossary.htm#lect) 67%
+**Percent Lecture:** 67%
 
-[**Percent Discussion or Other Student Centered
-Activity:**](glossary.htm#disc) 33%
+**Percent Discussion or Other Student Centered Activity:** 33%
 
-[**Percent Use of Computer Classroom:**](glossary.htm#cc) 33% for participants
-in Internet discussion groups. 0% for other participants.
+**Percent Use of Computer Classroom:** 33% for participants in Internet
+discussion groups. 0% for other participants.
 
-[**Percent Use of Multimedia Facilities:**](glossary.htm#mm) 100% for senior
-faculty. 33% for offsite faculty teaching in media rooms. 0% for online
-sections.
+**Percent Use of Multimedia Facilities:** 100% for senior faculty. 33% for
+offsite faculty teaching in media rooms. 0% for online sections.
 
-[**Attendance Requirements:**](glossary.htm#att) Mostly traditional. Variable
-for Internet users.
+**Attendance Requirements:** Mostly traditional. Variable for Internet users.
 
-[**Inclass Worktime:**](glossary.htm#icwt) 0%
+**Inclass Worktime:** 0%
 
-[**Out of Class Worktime:**](glossary.htm#ocwt) Varies
+**Out of Class Worktime:** Varies
 
-[**Computer Skill Requirements:**](glossary.htm#skill) Medium to High for
-Internet participants, Low otherwise
+**Computer Skill Requirements:** Medium to High for Internet participants, Low
+otherwise
 
-[**Equipment Requirements:**](glossary.htm#equip) Extensive
+**Equipment Requirements:** Extensive
 
-[**Use of Printed Textbooks or Other Materials:**](glossary.htm#texts) Medium
-to High (books and other texts could be supplied to students via mail order
-before the beginning of the course).
+**Use of Printed Textbooks or Other Materials:** Medium to High (books and
+other texts could be supplied to students via mail order before the beginning
+of the course).
 
-[**Software Requirements:**](glossary.htm#software) Medium to High for
-Internet participants, None otherwise.
+**Software Requirements:** Medium to High for Internet participants, None
+otherwise.
 
 Note: this section of the scenario uses Claudine Keenan's typology of the
-[**three models for teachers**](models.htm) in online environments.
+**three models for teachers** in online environments.
 
 * * *
 
@@ -327,20 +322,19 @@ with me.
 
 * * *
 
-[**The Scenarios for the Tic-Toc Project**](scenario.htm#one)
+**The Scenarios for the Tic-Toc Project**
 
-[**Summary (in Table Form) of All Scenarios**](table.htm)
-
-* * *
-
-#### [How to Navigate This Essay Without Getting Lost](navigate.htm)
+**Summary (in Table Form) of All Scenarios**
 
 * * *
 
-[![](graphics/backhome.jpg) **Back to the Table of
-Contents**](toc.htm#contents)
+#### How to Navigate This Essay Without Getting Lost
 
 * * *
 
-Copyright  (C) 1996-1998 by [Keith Dorwick](mailto:kdorwick@uic.edu)
+![](graphics/backhome.jpg) **Back to the Table of Contents**
+
+* * *
+
+Copyright  (C) 1996-1998 by Keith Dorwick
 

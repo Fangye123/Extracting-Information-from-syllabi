@@ -67,28 +67,28 @@ the appropriate Dean will be notified.
 
         Text, Ch. 1
 
-        [Canada's Approaches to Leisure](http://activeliving.ca/activeliving/index.html)   
-        [The Virtual Resource Center for Sports Information](http://www.sportquest.com/)   
-        [Sport in Africa](http://www.africaonline.com/AfricaOnline/coversports.html)   
-        [Dorris Kearns Goodwin on Brooklyn and the Dodgers](http://www.pbs.org/newshour/bb/sports/july-dec97/goodwin_10-17.html)   
+        Canada's Approaches to Leisure   
+        The Virtual Resource Center for Sports Information   
+        Sport in Africa   
+        Dorris Kearns Goodwin on Brooklyn and the Dodgers   
 
 
 **B**.    **How Sociologists Approach Leisure and Sport**
 
         Text, Ch. 2
 
-        [SocioSite for Sport](http://www.pscw.uva.nl/sociosite/topics/Leisure.html#SPORT) (bookmark this Web page for future use)   
-        [Leisure Information Network](http://www.lin.ca/)   
+        SocioSite for Sport (bookmark this Web page for future use)   
+        Leisure Information Network   
 
 
 **C**. **  The Olympic Games: Global Promise or Problem?**
 
         Boutilier and San Giovanni.  "Ideology, Public Policy and Olympic Achievement (library)
 
-        [Extinguishing the Flame?](http://www.pbs.org/newshour/bb/sports/jan-june99/comeback_3.18.html)  (interview on National Public Radio with Olympic Scholars)   
-        [Sydney 2000: Official Site of the Olympic Games](http://www.olympics.com/eng/)   
-        [The International Olympic Committee](http://www.olympic.org/)   
-        [Gold Medal Gunslingers](http://www.vpc.org/studies/goldone.htm) **TEST # 1**
+        Extinguishing the Flame?  (interview on National Public Radio with Olympic Scholars)   
+        Sydney 2000: Official Site of the Olympic Games   
+        The International Olympic Committee   
+        Gold Medal Gunslingers **TEST # 1**
 
   
   
@@ -111,25 +111,25 @@ the appropriate Dean will be notified.
 
         Text, Ch.5
 
-        [Poll of American Leisure Activities](http://www.pollingreport.com/workplay.htm#Activities)   
-        [Child Labor in Nike's Vietnam](http://www.saigon.com/~nike/childlabor.htm)   
-        [National Consortium on Recreation and Youth Development](http://wwwrpts.tamu.edu/witt/consort.htm)   
+        Poll of American Leisure Activities   
+        Child Labor in Nike's Vietnam   
+        National Consortium on Recreation and Youth Development   
 
 
 **F.  ** **Deviance in Sport: Drugs, Violence and Cheating**
 
         Text, Ch. 6
 
-        [Football Violence in Europe (soccer)](http://www.sirc.org/publik/fvexec.html)   
-        [Initiation Rites/Hazing in College Sport](http://www.alfred.edu/news/html/hazing_study.html)   
+        Football Violence in Europe (soccer)   
+        Initiation Rites/Hazing in College Sport   
 
 
 **G.**   **High School and College Sports**
 
 **      **   Text, Ch.14
 
-        [College Hoops (N.J. Online bulletin board)](http://www.nj.com/forums/collegehoops/)   
-        [Texas High School Rodeo](http://WWW.THSRA.ORG/)   
+        College Hoops (N.J. Online bulletin board)   
+        Texas High School Rodeo   
         M. Sperber, Myths About College Sports (library)   
         H.G. Bissinger, High School Football and Academics (library)   
         Handout in class: "Expect college athletes to demand pay"   
@@ -150,30 +150,30 @@ the appropriate Dean will be notified.
 **H**.    **The Influence of Power on Sport and Leisure**
 
         Text, Ch.8 (Gender)   
-        [Women's Sport on the Web](http://www.per.ualberta.ca/wsi/wsweb.htm)   
-        [Amy Lewis' Women and Sport Site](http://fiat.gslis.utexas.edu/~lewisa/womsprt.html)   
-        [Is Women's Pro Basketball Making It?](http://www.pbs.org/newshour/bb/sports/hoopla_2-7.html)
+        Women's Sport on the Web   
+        Amy Lewis' Women and Sport Site   
+        Is Women's Pro Basketball Making It?
 
         Text, Ch. 9 (Race and Ethnicity)   
-        [Jews in Sport](http://jewishsports.com/)   
+        Jews in Sport   
         K. Simpson, Sporting Dreams Die on the "Rez" (library)   
 
 
        Text, Ch. 10 (Social Class)   
 **        **D. Foley, The Great American Football Ritual (library)
 
-        [The Federation of Gay Games](http://www.gaygames.org/)   
-        [Gay/Lesbian Recreation and Sport](http://gaylife.about.com/people/gaylife/msub16.htm?rnk=r1&terms=Gay+Sports)   
-        [British Wheelchair Sports Foundation](http://www.britishwheelchairsports.org/home_fset.htm)   
-        [The Special Olympics](http://www.specialolympics.org/)   
+        The Federation of Gay Games   
+        Gay/Lesbian Recreation and Sport   
+        British Wheelchair Sports Foundation   
+        The Special Olympics   
 
 
 **I.   Dollars and "Sense": Economic Controversies**
 
         Text, Ch. 11
 
-        [Boycott Nike site](http://www.saigon.com/~nike/)   
-        [Sport Stadium Madness: Why it Started,  How to Stop It](http://www.heartland.org/studies/sports/madness-sum.htm)   
+        Boycott Nike site   
+        Sport Stadium Madness: Why it Started,  How to Stop It   
         J. Weisman, Big Buck Basketball: Acolytes in the Temple of Nike (library)   
         Handout in class: "No Free Speech for Employees, On or Off the Job"   
 
@@ -183,10 +183,10 @@ the appropriate Dean will be notified.
         Text, Ch. 12
 
         Klatell and Marcus, Journalism and the Bottom Line (library)   
-        [CBS and the NFL](http://www.pbs.org/newshour/bb/sports/jan-june98/nfl_1-14.html)   
-        [Sports sections of U.S. Newspapers](http://www.sportquest.com/quest3.cfm?classification=newspapers&sport=All+Sports&category=North+America&subcategory=United+States)   
-        [Sports Radio!](http://www.sportsradio.com/links.html)   
-        [Sports Interviews: NPR](http://www.pbs.org/newshour/bb/sports/sports.html)   
+        CBS and the NFL   
+        Sports sections of U.S. Newspapers   
+        Sports Radio!   
+        Sports Interviews: NPR   
         Messner et al, Separating the Men from the Girls (library)   
     
     
@@ -199,8 +199,8 @@ the appropriate Dean will be notified.
 
 **         **Text  Ch. 16
 
-        [Sky High](http://www.pbs.org/newshour/bb/sports/jan-june98/balloons_1-5.html)   
-        [Why People Go to the Wilderness](http://www.itsnet.com/home/getlost/kelly.html)   
+        Sky High   
+        Why People Go to the Wilderness   
     
     
   
@@ -239,8 +239,7 @@ overall desire, and practice that makes a good tennis player. Please let me
 know how I can help you to make this a successful semester.**  
 
 
-**[return to your COURSE
-PAGE](http://pirate.shu.edu/~sangiolu/soci2215.html)**  
+**return to your COURSE PAGE**  
     
     
     

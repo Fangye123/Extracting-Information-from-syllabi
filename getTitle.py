@@ -29,14 +29,14 @@ def getTitle(path, title):
                 # print(line)
                 if fuzz.token_set_ratio(title,line) > 90:
                     # print(count,"-------------")
-                    # print(title, "-------------title-------")
+                    print("path:",path)
+                    print("title:" ,title)
                     # print(line)
-                    # print(path)
-                    try:
-                        new_path = 'training_dataSet' + path.replace('/Users/ziyunzhong/nlpProject/larger5kb_Md_File','')
-                        copyfile(path, new_path)
-                    except:
-                        pass
+                    # try:
+                    #     new_path = 'training_dataSet' + path.replace('/Users/ziyunzhong/nlpProject/larger5kb_Md_File','')
+                    #     copyfile(path, new_path)
+                    # except:
+                    #     pass
 
 
 

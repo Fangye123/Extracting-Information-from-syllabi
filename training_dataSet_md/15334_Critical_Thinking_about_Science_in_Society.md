@@ -30,23 +30,23 @@ of stimulating greater citizen involvement in scientific debates.
   * Schedule of classes  
 
   * Bibliography
-**[Additional Notes on Teaching/Learning Interactions:](611-99p.html)**  
+**Additional Notes on Teaching/Learning Interactions:**  
 
-  * [Overview of course themes](611-99p.html#Overview)  
+  * Overview of course themes  
 
-  * [Learning through dialogue around written work](611-99p.html#Dialogue)  
+  * Learning through dialogue around written work  
 
-  * [Before, during and after class--Critical thinking about course readings and discussions](611-99p.html#BDAC)  
+  * Before, during and after class--Critical thinking about course readings and discussions  
 
-  * [Communication before, during, and after class](611-99p.html#OutOfClass)  
+  * Communication before, during, and after class  
 
-  * [Stages in developing individual projects](611-99p.html#Projects)  
+  * Stages in developing individual projects  
 
-  * [Details about the Assessment system](611-99p.html#Details)  
+  * Details about the Assessment system  
 
-  * [Basic course protocols/expectations](611-99p.html#Expect)  
+  * Basic course protocols/expectations  
 
-  * [Additional notes on writing, revising, freewriting, group process, etc.](Notes-TOC.html)
+  * Additional notes on writing, revising, freewriting, group process, etc.
   
   
 **Assessment and Requirements**  

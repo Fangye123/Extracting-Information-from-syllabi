@@ -1,6 +1,6 @@
-## [![Clio. The Department
+## ![Clio. The Department
 
-of History, University of Pennsylvania](../gifs/main.gif)](../index.html)
+of History, University of Pennsylvania](../gifs/main.gif)
 
 |  **HISTORY 304: Politics and Policy in Twentieth Century America  
   
@@ -134,17 +134,17 @@ against Liberalism
 in the Urban North, 1940-1964," _Journal of American History_ 82 (September
 1995), pp. 551-578.  
 ---|---  
-[[Home](../index.html)]  
-[[Search](../home/search.html)]  
-[[About](../home/about.html)]  
-[[Contact](../home/contact.html)]  
-[[Penn](http://www.upenn.edu/)]  
+[Home]  
+[Search]  
+[About]  
+[Contact]  
+[Penn]  
   
 
 * * *
 
 |  URL: http://www.history.upenn.edu/sp97/204304s97info/syllabus.html  
-[(C) 1996 University of Pennsylvania](http://www.upenn.edu/)  
+(C) 1996 University of Pennsylvania  
 Last modified: 16 January 1997  
   
 ---|---

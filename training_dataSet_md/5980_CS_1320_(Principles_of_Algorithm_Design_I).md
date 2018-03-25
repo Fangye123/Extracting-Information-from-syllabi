@@ -31,10 +31,9 @@ The objectives of this course include, but are not limited to, the following:
 ##  Instructor
 
 **Instructor:**      Dr. Berna Massingill **E-mail:**
-[bmassing@cs.trinity.edu](mailto:bmassing@cs.trinity.edu) **Web page:**     [
-http://www.cs.trinity.edu/~bmassing/](http://www.cs.trinity.edu/~bmassing/)
-**Office:**      Halsell 201L **Office hours:**      See my Web page. **Office
-phone:**      (210) 999-8138
+bmassing@cs.trinity.edu **Web page:**
+http://www.cs.trinity.edu/~bmassing/ **Office:**      Halsell 201L **Office
+hours:**      See my Web page. **Office phone:**      (210) 999-8138
 
 ##  Textbook
 
@@ -108,11 +107,11 @@ Regular class attendance is strongly encouraged.
 
 Much course-related information (this syllabus, homework assignments and
 sample solutions, example programs, and so forth) will be made available via
-the World Wide Web. You can find the home page for the course at [
-http://www.cs.trinity.edu/~bmassing/CS1320_2000spring/info.html](http://www.cs.trinity.edu/~bmassing/CS1320_2000spring/info.html).
-This page is not only a starting point for Web-accessible course material but
-will also be used for course-related announcements, so you should plan to
-check it frequently.
+the World Wide Web. You can find the home page for the course at
+http://www.cs.trinity.edu/~bmassing/CS1320_2000spring/info.html. This page is
+not only a starting point for Web-accessible course material but will also be
+used for course-related announcements, so you should plan to check it
+frequently.
 
 ##  Late and missed work
 

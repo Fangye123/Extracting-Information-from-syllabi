@@ -6,30 +6,26 @@
 
 * * *
 
-_**[Civil War Women: Primary Sources on the
-Internet](http://scriptorium.lib.duke.edu/women/cwdocs.html) provides links to
-[manuscript collections at
-Duke](http://scriptorium.lib.duke.edu/collections/civil-war-women.html) which
-have been scanned and transcribed as well as links to other Civil War women's
-archival documents which are available in cyberspace. **_
+_**Civil War Women: Primary Sources on the Internet provides links to
+manuscript collections at Duke which have been scanned and transcribed as well
+as links to other Civil War women's archival documents which are available in
+cyberspace. **_
 
 * * *
 
 The following list describes original manuscript collections, held in Duke
 University's Special Collections Library, which document women's experiences
 during the Civil War. A few of the collections are available via the Internet
-and have been hot-linked. Researchers are encouraged to consult the [Duke
-Libraries on-line catalog](http://www.lib.duke.edu/online_catalog.html) for
-more detailed information about the collections listed here or [contact our
-Reference Desk](mailto:special-collections@duke.edu) for information on
-ordering copies from any of the collections listed.
+and have been hot-linked. Researchers are encouraged to consult the Duke
+Libraries on-line catalog for more detailed information about the collections
+listed here or contact our Reference Desk for information on ordering copies
+from any of the collections listed.
 
 The Special Collections Library also houses numerous published sources such as
 religious tracts, broadsides, magazines and newspapers that provide valuable
 information about women's lives during the Civil War. Researchers should
-[consult with the Women's Studies Reference Archivist](ref.html) or other
-reference staff to find out more about identifying and locating these
-materials.
+consult with the Women's Studies Reference Archivist or other reference staff
+to find out more about identifying and locating these materials.
 
 ### _African American/Slave Women during the Civil War Era_
 
@@ -42,9 +38,8 @@ impossible, but requires using different types of documentation and research
 methodologies. Plantation records, slave letters, and the diaries and letters
 of white women can be used to explore various aspects of African American
 women's lives during the Civil War period. For ideas of possible topics and
-collections consult the bibliography [_**Retrieving African American Women's
-History**_](http://scriptorium.lib.duke.edu/women/afrointr.html) or talk with
-a reference archivist
+collections consult the bibliography _**Retrieving African American Women's
+History**_ or talk with a reference archivist
 
 **Ambler-Brown Family Papers, 1780-1865.** Charles Town, W. Va. and Fauquier
 Co., Va.      Diary of Lucy Johnson Ambler, 1862-1863 (17 pp.) comments on
@@ -162,11 +157,10 @@ describe their teaching experiences. Amelia eventually marries Gould in 1865.
 Includes 1856-1880 diary and scrapbook of Susan McDowell. (MICROFILM
 AVAILABLE)
 
-**[Rose O'Neal Greenhow Papers,
-1860-1864.](http://scriptorium.lib.duke.edu/greenhow/)** Richmond, Va.
-Civil War letters from Greenhow, an agent and spy in the Confederate Service,
-to Alexander Robinson Boteler and Jefferson Davis reporting the progress of
-her work.
+**Rose O'Neal Greenhow Papers, 1860-1864.** Richmond, Va.      Civil War
+letters from Greenhow, an agent and spy in the Confederate Service, to
+Alexander Robinson Boteler and Jefferson Davis reporting the progress of her
+work.
 
 **Greenville Ladies' Association Minutes, 1861-1865.** Greenville, S.C.
 Portions of minutes of an organization to aid Confederate soldiers.
@@ -340,11 +334,10 @@ Tillinghast gives her reaction to Sherman's march through Fayetteville.
 West and her friends concern social life just before the Civil War and the
 difficulties of managing slaves during the Civil War.
 
-**[Alice Williamson Diary,
-1864.](http://scriptorium.lib.duke.edu/williamson/)** Gallatin, Tenn.
-Diary of an opinionated 16 year old rebel farm girl near Gallatin, Tenn.,
-describes the Yankee occupation of surrounding areas, projects to educate
-former slaves, her own school life and social visits.
+**Alice Williamson Diary, 1864.** Gallatin, Tenn.      Diary of an opinionated
+16 year old rebel farm girl near Gallatin, Tenn., describes the Yankee
+occupation of surrounding areas, projects to educate former slaves, her own
+school life and social visits.
 
 **Elvira Withrow Papers, 1864.** Banks Co., Ga.      Letters concerning the
 evacuation of women from Cass Station, Ga., to Atlanta, to Athens, and finally
@@ -365,9 +358,8 @@ without her husband.
 
 * * *
 
-**[Women's Studies Bibliographies](bib.html) | [Duke Special Collections
-Library ](http://scriptorium.lib.duke.edu) | [Duke Libraries
-](http://www.lib.duke.edu)**
+**Women's Studies Bibliographies | Duke Special Collections Library  | Duke
+Libraries **
 
 * * *
 

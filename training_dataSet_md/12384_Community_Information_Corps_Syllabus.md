@@ -1,6 +1,6 @@
 ## SI 597/697 Community Information: Project Corps
 
-## Professor [Paul Resnick](http://www.si.umich.edu/~presnick)
+## Professor Paul Resnick
 
 ## Winter 2000
 
@@ -10,13 +10,13 @@ Revised 1/6/00 (PR).
 
   
 Meets Thursdays 6-7:30PM  in 409 West Hall  
-[Class home page](http://www.si.umich.edu/~presnick/courses/CIPCgeneral/)  
-[Project listings](projects.html)  
+Class home page  
+Project listings  
 Schedule  
 Discussion Questions
 
 Be sure to check Course Tools for announcements and other nice features. The
-URL is: <https://coursetools.ummu.umich.edu/2000/winter/si/si/597/001.nsf>
+URL is: https://coursetools.ummu.umich.edu/2000/winter/si/si/597/001.nsf
 
 This 1-credit seminar course offers reading, reflection, and social networking
 experiences for students who are engaged in projects or considering careers
@@ -70,7 +70,7 @@ class, doing the following:
   * for any 3 of the guests during the semester, hand in 1-page reaction to the visitor and class discussion one week later
   * Either:
     * find 4-6 information resources to contribute to an on-line guide to job hunting in some area of the community information movement. This guide should include information about conferences, publications, mailing lists, and places where jobs are posted. OR
-    * OR contribute to writing and editing the policies and procedures manual for a pilot loan repayment program for graduates who take community and public-oriented jobs. The program will be funded initially by the [Alliance for Community Technology](http://www.communitytechnology.org) and eventually, I hope, by a consortium of foundations.
+    * OR contribute to writing and editing the policies and procedures manual for a pilot loan repayment program for graduates who take community and public-oriented jobs. The program will be funded initially by the Alliance for Community Technology and eventually, I hope, by a consortium of foundations.
 
   * If you're involved in complementary project work, once or twice during the semester you'll be asked to present a 10-15 minute status report to the rest of the class. At the end of the semester you'll be required to hand in a 4-5 page reflection paper tying your project work to the themes and activities discussed in class.
 
@@ -114,39 +114,36 @@ Jan 27 | Roles and Values for Public Informationists |   | Resnick, P. Draft
 proposal for CIC loan repayment program.  
 Feb 3 | Venture philanthropy | Tom Reis, W.K. Kellogg Foundation | _**
 
-**_[e-PHILANTHROPY, VOLUNTEERISM, and SOCIAL CHANGEMAKING](ephilmemo-
-report.doc), by Stephanie Clohesy and Tom Reis
+**_e-PHILANTHROPY, VOLUNTEERISM, and SOCIAL CHANGEMAKING, by Stephanie Clohesy
+and Tom Reis
 
 Note: this is a *draft* version. Please do not recirculate it, as a final
 version will be out shortly.  
-Feb 10 | Deliberative democracy |   | Minnesota [e-democracy
-site](http://www.e-democracy.org/)
+Feb 10 | Deliberative democracy |   | Minnesota e-democracy site
 
 Cohen, Joshua (1997) _Procedure and Substance in Deliberative Democracy._ In
 _Deliberative Democracy: Eassays on Reason and Politics_. J. Bohman and W.
 Rehg eds. Cambridge, MIT Press. pps. 407-437.  
-Feb 17 | Voter information systems |   |
-[DemocracyNet](http://www.democracynet.org/)
+Feb 17 | Voter information systems |   | DemocracyNet
 
-[Web White and Blue](http://www.webwhiteblue.org/)  
-Feb 24 | Community Technology Centers | Mara Rose, Playing 2 Win |
-[CTCNet](http://www.ctcnet.org/)
+Web White and Blue  
+Feb 24 | Community Technology Centers | Mara Rose, Playing 2 Win | CTCNet
 
-[Playing 2 Win](http://www.playing2win.org/)
+Playing 2 Win
 
-[HarlemLive](http://www.harlemlive.org/)  
-March 9 | Neighborhood technology | John Griffin, Avenue L | [Who's That? web
-site](http://www.whothat.org/)
+HarlemLive  
+March 9 | Neighborhood technology | John Griffin, Avenue L | Who's That? web
+site
 
-[www.egroups.com](http://www.egroups.com)
+www.egroups.com
 
-<http://www.wordaroundtown.com/>  
+http://www.wordaroundtown.com/  
 March 16 | Civic Engagement I: Why it Matters |   | Excerpts (chs. 16, 18, 21)
 from draft of forthcoming book by Robert Putnam  
 _Sat. March 18, AM_ | _Public lecture on civic engagement and social capital_
 | _Robert Putnam_ |  
-March 23 | Native American telecom | Karen Buller, [National Indian
-Telecommunications Institute](http://www.niti.org/) |  
+March 23 | Native American telecom | Karen Buller, National Indian
+Telecommunications Institute |  
 March 30 | Universal Service: communications policy |   | TBA  
 April 6 |   |   |  
 April 13 | Wrapup and project reflections |   |  

@@ -520,7 +520,7 @@ Education description for a definition/description of distribution areas.)
 
 General Education-approved courses are identified in _Learning Opportunities_.
 A complete listing of UC General Education-approved courses can be found on
-the Internet at the following address: [www.UC.edu/gened](www.UC.edu/gened)
+the Internet at the following address: www.UC.edu/gened
 
 _To have your course approved as a General Education course, you must submit a
 detailed description of what you do (or, intend to do) in your course. A

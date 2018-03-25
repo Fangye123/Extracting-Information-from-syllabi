@@ -79,9 +79,8 @@ message on his answering machine at 974-4299.
 
   
 **_Distance Learning Student Support Office:_**  
-**Telecourse Coordinator:**[Stephanie Gaskins](mailto:sgaskins@admin.usf.edu)  
-**Office Location:**[SVC 1072 (map grid:
-D3)](http://www.outreach.usf.edu/map.htm)  
+**Telecourse Coordinator:**Stephanie Gaskins  
+**Office Location:**SVC 1072 (map grid: D3)  
 **Office Hours:** Monday - Thursday 8:00am -7:00pm; Friday 8:00am - 5:00pm  
 **Phone:** 974-2996 (Telecourses);  
 
@@ -89,17 +88,17 @@ D3)](http://www.outreach.usf.edu/map.htm)
 
 **If you would like to join a study group so that you may meet with other
 students registered in your Telecourse, then please
-visit:[http://outreach.usf.edu/oucourses/forms/ouforms.htm](http://www.outreach.usf.edu/oucourses/forms/ouforms.htm)
-for a study group application and more information. Please fill out the form
-completely and return it to SVC 1072.**  
+visit:http://outreach.usf.edu/oucourses/forms/ouforms.htm for a study group
+application and more information. Please fill out the form completely and
+return it to SVC 1072.**  
   
 **REQUIRED Textbooks:**
 
-[![](../book.gif)](http://www.amazon.com/exec/obidos/ASIN/0451627350/qid=904943344/sr=1-5/002-8488776-3685668)
+![](../book.gif)
 
 |
 
-  * [ What to Listen For In Music](http://www.amazon.com/exec/obidos/ASIN/0451627350/qid=904943344/sr=1-5/002-8488776-3685668), by Aaron Copland. Available in the University bookstore. ISBN# 0451627350 **(Required)**
+  * What to Listen For In Music, by Aaron Copland. Available in the University bookstore. ISBN# 0451627350 **(Required)**
   * A packet of composer biographies and essays on musical topics and one take-home quiz. Cost: approximately $12.00. Available at Pro Copy: 5209 E. Fowler Ave., Tampa, 988-5900.  Pro Copy is open 24 hours a day 7 days a week. Ask for materials for Professor Woodbury's _Issues in Music_ course. **(Required)**
 
   

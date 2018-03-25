@@ -5,7 +5,7 @@ EUH 6935 AD 081 | Dr. Philip Kaplan
 Time: Wednesday 1:30-4:15 | Office: Building 8, room 2533  
 Room: 45/2807 | Office phone: 630-2886  
 3 Credit hours | Office hours: M 11-12, T 3-4, R 11-12  
-www.unf.edu/~pkaplan/readings.html | [pkaplan@unf.edu](mailto:pkaplan@unf.edu)  
+www.unf.edu/~pkaplan/readings.html | pkaplan@unf.edu  
   
 > ###  The Course
 

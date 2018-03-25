@@ -10,8 +10,7 @@
 
 **American Military History, 1607-1914**
 
-[ ![Ist Minnesota Statue, Gettysburg](1minna.JPG)](http://www.cohums.ohio-
-state.edu/history/people/grimsley.1/1minn.JPG)
+![Ist Minnesota Statue, Gettysburg](1minna.JPG)
 
 **Courage, ideology or both?** This statue commemorates the charge of the
 First Minnesota Volunteer Infantry Regiment at Gettysburg on the second day of
@@ -24,9 +23,9 @@ during the entire Civil War.
 
 * * *
 
-New:  [From the War with Mexico to Enduring Freedom](Endure.htm)
+New:  From the War with Mexico to Enduring Freedom
 
-Even Newer:  [Lecture Notes for Rest of Course](../../h668r.htm)
+Even Newer:  Lecture Notes for Rest of Course
 
 > Thanks to our foray into the world of the Peace Camp, we're about four
 lectures behind schedule.  So that we can concentrate on the course's most
@@ -42,7 +41,7 @@ the lectures themselves.
 
 **             **
 
-> > **[Burdens of Empire, Then and Now](../../milhis/burdens.htm)**
+> > **Burdens of Empire, Then and Now**
 
 >>
 
@@ -51,22 +50,20 @@ the lectures themselves.
 
 >>
 
->> **[ Commerce, Memory Will Have To Share The
-Ground](http://www.newsday.com/news/opinion/ny-
-vpgri292436458oct29.story?coll=ny-viewpoints-headlines)**
+>> ** Commerce, Memory Will Have To Share The Ground**
 
 >>
 
 >> A recent op/ed piece I wrote for _Newsday._
 
-**[_For Cause and Comrades:_ A Study Guide](comrades.htm)**
+**_For Cause and Comrades:_ A Study Guide**
 
-**[_Embattled Courage:   _A Study Guide](courage.htm)**
+**_Embattled Courage:   _A Study Guide**
 
-[The Boxer Rebellion](../../milhis/boxer2.htm) \- Another in-class exercise
-coming on Monday, November 26.
+The Boxer Rebellion \- Another in-class exercise coming on Monday, November
+26.
 
-**THE FINAL EXAMINATION** \- No kidding!   It's [here](exam.htm).
+**THE FINAL EXAMINATION** \- No kidding!   It's here.
 
 * * *
 
@@ -77,7 +74,7 @@ Autumn Quarter 2001
 Office: 363 Dulles Hall  
 292-1855
 
-E-mail: [grimsley.1@osu.edu](mailto:grimsley.1@osu.edu)
+E-mail: grimsley.1@osu.edu
 
   
 **Overview and Objectives**
@@ -688,8 +685,7 @@ of the Naval Profession_ (1977).
 
 * * *
 
-**[ Return to the Current Syllabi Page](http://www.cohums.ohio-
-state.edu/history/people/grimsley.1/current.htm)** |  |  
+** Return to the Current Syllabi Page** |  |  
 ---|---|---|---|---  
 ---  
 |  

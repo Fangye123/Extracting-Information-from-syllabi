@@ -1,0 +1,288 @@
+CSCI 4152/6509 — Natural Language Processing
+Course Syllabus
+Instructor Information
+Instructor:
+E-mail:
+Office Hours:
+TAs:
+Lectures:
+Labs CSCI 4152:
+Labs CSCI 6509:
+Course Homepage:
+Course Mail List:
+
+Dr. Vlado Keselj
+vlado@dnlp.ca
+Open-door policy or appointment by e-mail
+Dijana Kosmajac
+Dhivya Jayaraman
+Mo-We-Fr 11:35–12:25
+Fri 16:05–17:25
+Fri 16:05–17:25
+web.cs.dal.ca/˜vlado/csci6509
+nlp-course@lists.dnlp.ca
+
+Office:
+Phone:
+
+432 (G.CS bldg.)
+902-494-2893
+
+TA Emails:
+
+Dijana.Kosmajac@Dal.Ca
+dh456125@dal.ca
+LSC C334
+Gold.CS 143 (T.Lab 2)
+Gold.CS 133 (T.Lab 1)
+
+Location:
+Location:
+Location:
+
+Important Dates
+Please check the course calendar on the web site for more details.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+
+Mon Jan 8, 2018: Lectures start
+Fri Jan 19, 2018: Last day to add classes
+Fri Feb 2, 2018: Munro Day, University closed
+Mon Feb 5, 2018: Last day to drop classes without “W”
+Feb 19–23, 2018: Winter Study Break, no classes
+Mon Mar 12, 2018: Last day to drop classes with “W”
+Fri Mar 30, 2018: Good Friday, University closed
+Mon Apr 9, 2018: Friday class schedule applies
+Tue Apr 10, 2018: Friday class schedule applies
+Tue Apr 10, 2018: Lectures end, Report due
+Apr 12–26, 2018: Exams period
+
+Course Description
+Natural Language Processing (NLP) is an area of Computer Science, and sub-area of Artificial Intelligence, concerned
+with the problem of automatically processing natural languages in written and spoken form. Processing typically denotes
+analyzing or generating language, and natural languages include languages such as English, French, or other. This course
+introduces fundamental concepts and principles used in NLP with emphasis on two approaches to NLP: statistical and
+unification-based. Some applications are discussed, such as the problems of text classification, information extraction,
+and question answering.
+
+1
+
+Tentative List of Topics
+• Sum-product Algorithms
+
+1. Introduction to NLP
+2. Stream-based Text Processing
+•
+•
+•
+•
+•
+
+4. Syntactic Processing
+
+Processing Text using Perl
+Use of Regular Expressions
+Elements of Morphology
+Character N-gram Based Text Mining
+Text Classification
+
+• Phrase Structure and Natural Language Syntax
+• Chart Parsing and CYK Algorithm
+• Probabilistic Context-Free Grammars
+5. Unification-based NLP and Semantics
+
+3. Probabilistic Approach to NLP
+
+• First-order Predicate Logic and Resolution
+• Classical and Feature-structure Unification
+• Unification-based Grammars
+
+• Probabilistic Modeling
+• N-grams Model
+• HMM Model
+
+6. Student Presentations
+
+Learning Outcomes
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Describe the area of Natural Language Processing.
+Describe the levels of NLP.
+Select appropriate levels of NLP based on an application task.
+Use regular expressions to solve basic text preprocessing tasks.
+Use Perl in text processing.
+Apply basic character n-gram techniques in text classification.
+Describe probabilistic modeling and associated computational tasks.
+Describe and use the Naı̈ve Bayes probabilistic model.
+Describe and use the Hidden Markov probabilistic model.
+Describe and use Bayesian Network model.
+Use sum-product algorithms to solve inference tasks in a structured probabilistic model.
+Describe and use chart parsing using the CYK algorithm.
+Describe and apply Probabilistic Context-Free Model.
+Describe the concept of unification-based grammars.
+Describe classical and feature-structure unification.
+
+Class Format and Course Communication
+• Content will be delivered using lectures and labs.
+• Students must ask the instructor permission before recording class lectures.
+• Course announcements will be posted to the course email list, which comprises the instructor’s, the TA’s, and
+the students’ email accounts. Based on the Banner registration information, the Dalhousie email addresses of the
+students will be initially added to the list. The students may request additional addresses to be added. Important
+course announcements may be posted on the list, so if there are any issues with receiving emails from the list, the
+students should get in touch with the instructor to have the issue resolved. It is the student’s responsibility to check
+their e-mail on a daily basis.
+
+Evaluation Criteria
+Overview:
+
+32%
+32%
+10%
+26%
+
+Assignments
+Final exam
+Class Presentation and Participation
+Project Deliverables (P0, P1, Report)
+2
+
+1. Assignments
+•
+•
+•
+•
+•
+
+Tentatively 5 assignments (possibly more smaller assignments)
+Late assignments will not be accepted.
+No collaboration is permitted on the assignments.
+Assignments will be submitted electronically; exceptions possible. Assignment 0 is submitted on paper.
+Assignments may include in-class assignments (i.e., tests)
+
+2. Final Exam
+• Scheduled by the university.
+• Will cover all lecture and lab material in the course (student projects not included).
+3. Project presentation and class participation
+• One short presentation during the last few weeks of the term
+• Includes class participation and attendance
+4. Project Deliverables
+• The final report and intermediate updates
+
+Final Exam Requirements
+• Photo ID is required.
+• Closed book with allowed simple calculator.
+
+Required Texts and Resources
+The required textbook is:
+• Speech and Language Processing, by Daniel Jurafsky and James Martin, 2008.
+A few more recommended books are listed on the course web site.
+
+Prerequisites
+CSCI 3110 or equivalent for students coming from other universities.
+
+Responsible Computing Policy
+Usage of all computing resources in the Faculty of Computer Science must be within the Dalhousie Acceptable Use
+Policies and the Faculty of Computer Science Responsible Computing Policy.
+
+Culture of Respect
+Every person has a right to respect and safety. We believe inclusiveness is fundamental to education and learning. Misogyny and other disrespectful behaviour in our classrooms, on our campus, on social media, and in our community is
+unacceptable. As a community, we must stand for equality and hold ourselves to a higher standard.
+
+3
+
+What we all need to do 1 :
+1. Be Ready to Act: This starts with promising yourself to speak up to help prevent it from happening again. Whatever
+it takes, summon your courage to address the issue. Try to approach the issue with open-ended questions like “Why
+did you say that?” or “How did you develop that belief?”
+2. Identify the Behaviour: Use reflective listening and avoid labeling, name-calling, or assigning blame to the person.
+Focus the conversation on the behaviour, not on the person. For example, “The comment you just made sounded
+racist, is that what you intended?” is a better approach than “Youre a racist if you make comments like that.”
+3. Appeal to Principles: This can work well if the person is known to you, like a friend, sibling, or co-worker. For
+example, “I have always thought of you as a fair-minded person, so it shocks me when I hear you say something
+like that.”
+4. Set Limits: You cannot control another persons actions, but you can control what happens in your space. Do not
+be afraid to ask someone “Please do not tell racist jokes in my presence anymore” or state “This classroom is not a
+place where I allow homophobia to occur.” After you have set that expectation, make sure you consistently maintain
+it.
+5. Find or be an Ally: Seek out like-minded people that support your views, and help support others in their
+challenges. Leading by example can be a powerful way to inspire others to do the same.
+6. Be Vigilant: Change can happen slowly, but do not let this deter you. Stay prepared, keep speaking up, and do not
+let yourself be silenced.
+
+University Statements
+This course is governed by the academic rules and regulations set forth in the University Calendar and the Senate.
+https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=
+69&chapterid=3457&loaduseredits=False
+Academic Integrity
+At Dalhousie University, we are guided in all of our work by the values of academic integrity: honesty, trust,
+fairness, responsibility and respect (The Center for Academic Integrity, Duke University, 1999). As a student, you
+are required to demonstrate these values in all of the work you do. The University provides policies and procedures
+that every member of the university community is required to follow to ensure academic integrity.
+http://www.dal.ca/dept/university_secretariat/academic-integrity.html
+
+Accessibility
+The Advising and Access Services Centre is Dalhousie’s centre of expertise for student accessibility and accommodation. The advising team works with students who request accommodation as a result of: a disability, religious
+obligation, or any barrier related to any other characteristic protected under Human Rights legislation (NS, NB,
+PEI, NFLD).
+http://www.dal.ca/campus_life/student_services/academic-support/accessibility.html
+
+Student Code of Conduct
+Everyone at Dalhousie is expected to treat others with dignity and respect. The Code of Student Conduct allows
+Dalhousie to take disciplinary action if students dont follow this community expectation. When appropriate, violations of the code can be resolved in a reasonable and informal mannerperhaps through a restorative justice process.
+If an informal resolution cant be reached, or would be inappropriate, procedures exist for formal dispute resolution.
+https://www.dal.ca/campus_life/safety-respect/student-rights-and-responsibilities/
+student-life-policies/code-of-student-conduct.html
+Diversity and Inclusion – Culture of Respect
+Every person at Dalhousie has a right to be respected and safe. We believe inclusiveness is fundamental to education.
+We stand for equality. Dalhousie is strengthened in our diversity. We are a respectful and inclusive community. We
+1 Source: Speak Up! 2005
+c
+Southern Poverty Law Center. First Printing. This publication was produced by Teaching Tolerance, a project
+of the Southern Poverty Law Center. Full ”Speak Up” document found at: http://www.dal.ca/dept/dalrespect.html Revised by Susan Holmes from a document provided April 2015 by Lyndsay Anderson, Manager, Student Dispute Resolution, Dalhousie University 902.494.4140
+lyndsay.anderson@dal.ca www.dal.ca/think.
+
+4
+
+are committed to being a place where everyone feels welcome and supported, which is why our Strategic Direction
+prioritizes fostering a culture of diversity and inclusiveness (Strategic Priority 5.2).
+http://www.dal.ca/cultureofrespect.html
+
+Recognition of Mikmaq Territory
+Dalhousie University would like to acknowledge that the University is on Traditional Mikmaq Territory. The Elders
+in Residence program provides students with access to First Nations elders for guidance, counsel and support. Visit
+the office in the McCain Building (room 3037) or contact the programs at elders@dal.ca or 902-494-6803
+(leave a message).
+Learning and Support Resources
+General Academic Support — Advising
+http://www.dal.ca/campus_life/student_services/academic-support/advising.
+html
+Fair Dealing Guidelines https://libraries.dal.ca/services/copyright-office/guidelines/
+fair-dealing-guidelines.html
+Dalhousie University Library http://libraries.dal.ca
+
+5
+
+

@@ -1,11 +1,11 @@
 # Extracting-Information-from-syllabi
 Extracting information from syllabi
 
-Team Members
-Yichuan Xu B00771396
-Fangye Tang B00612172
-Ziyun Zhong B00774740
-Jingya Sun B00755962
+### Team Members
+#### Yichuan Xu B00771396
+#### Fangye Tang B00612172
+#### Ziyun Zhong B00774740
+#### Jingya Sun B00755962
 
 ### Report link
 https://drive.google.com/file/d/1NaWmuQd8lDcCOGle8VahJsjCJuMjQSLV/view?usp=sharing

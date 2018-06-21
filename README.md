@@ -7,6 +7,8 @@ Fangye Tang B00612172
 Ziyun Zhong B00774740
 Jingya Sun B00755962
 
+### Report link
+https://drive.google.com/file/d/1NaWmuQd8lDcCOGle8VahJsjCJuMjQSLV/view?usp=sharing
 
 ### Abstract
 This is the project, our team has developed a tool to read the title of syllabus from PDFs, with the help of Word Embedding, Deep Neural Networks and other state of the art technologies. Now users can simply submit a PDF and our application will automatically output the related information.
